@@ -1,0 +1,144 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Automated Threat Hunting Within Linux Logs Using DBSCAN",
+    "link": "https://qfunction.ai/blog/automated-threat-hunting-within-linux-logs-using-dbscan",
+    "displayed_link": "https://qfunction.ai › blog › automated-threat-hunting-wit...",
+    "snippet": "ANONYMOUS FTP LOGIN FROM 84.102.20.2, (anonymous) ANONYMOUS FTP LOGIN FROM 84.102.20.2, (anonymous). Best security practices state that ...",
+    "snippet_highlighted_words": [
+      "ANONYMOUS FTP LOGIN FROM 84.102.20.2"
+    ],
+    "source": "qfunction.ai",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "anomaly-detection-linux-log-sample.ipynb",
+    "link": "https://github.com/qfunction-ai/ai-anomaly-detection/blob/main/anomaly-detection-linux-log-sample.ipynb",
+    "displayed_link": "https://github.com › ai-anomaly-detection › blob › main",
+    "snippet": "... ANONYMOUS FTP LOGIN FROM 84.102.20.2, (anonymous) ANONYMOUS FTP LOGIN FROM 84.102.20.2, (anonymous) getpeername (ftpd): Transport endpoint is not connected ...",
+    "snippet_highlighted_words": [
+      "ANONYMOUS FTP LOGIN FROM 84.102.20.2"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "FTP Anonymous login",
+    "link": "https://www.youtube.com/watch?v=38kiZ8tCm8E",
+    "displayed_link": "1.2K+ views · 1 year ago",
+    "snippet": "In this video we are going to log into FTP anonymously which is another way to do enumeration on a server.",
+    "snippet_highlighted_words": [
+      "log into FTP anonymously"
+    ],
+    "source": "YouTube · CCNADailyTIPS",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "FTP Anonymous Authentication <anonymousAuthentication>",
+    "link": "https://learn.microsoft.com/en-us/iis/configuration/system.applicationhost/sites/site/ftpserver/security/authentication/anonymousauthentication",
+    "displayed_link": "https://learn.microsoft.com › Learn › IIS",
+    "snippet": "Select Anonymous for the Authentication settings. · For the Authorization settings, choose \"Anonymous users\" from the Allow access to drop-down.",
+    "snippet_highlighted_words": [
+      "Select Anonymous for the Authentication settings"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Anonymous FTP Login",
+    "link": "https://www.extrahop.com/resources/detections/anonymous-ftp-login",
+    "displayed_link": "https://www.extrahop.com › resources › detections › ano...",
+    "snippet": "Anonymous authentication on an FTP server is often enabled to make file sharing across a network easier. However, valuable information stored on those ...",
+    "snippet_highlighted_words": [
+      "Anonymous authentication on an FTP server is often enabled"
+    ],
+    "source": "ExtraHop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "anonymous FTP (File Transfer Protocol)",
+    "link": "https://www.techtarget.com/whatis/definition/anonymous-FTP-File-Transfer-Protocol",
+    "displayed_link": "https://www.techtarget.com › whatis › definition › anon...",
+    "snippet": "Anonymous FTP is a way for remote users to use an FTP server even if they don't have an assigned user ID and password.",
+    "snippet_highlighted_words": [
+      "Anonymous FTP"
+    ],
+    "source": "TechTarget",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Anonymous FTP login? - PAC Project",
+    "link": "https://forums.opto22.com/t/anonymous-ftp-login/366",
+    "displayed_link": "https://forums.opto22.com › anonymous-ftp-login",
+    "snippet": "With a communication handle, is there a way to log into an FTP server anonymously from an S1? Usually the comm handle value in PAC Control ...",
+    "snippet_highlighted_words": [
+      "is there a way to log into an FTP server anonymously"
+    ],
+    "source": "Opto 22",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "How dangerous is anonymous ftp login? : r/sysadmin",
+    "link": "https://www.reddit.com/r/sysadmin/comments/5nksn6/how_dangerous_is_anonymous_ftp_login/",
+    "displayed_link": "30+ comments · 9 years ago",
+    "snippet": "Anonymous logins have read/ write access. How dangerous is this? Are there tools that can enumerate the files in the folders or is that not possible?",
+    "snippet_highlighted_words": [
+      "Anonymous logins have read/ write access"
+    ],
+    "source": "Reddit · r/sysadmin",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Anonymous FTP Enabled",
+    "link": "https://www.tenable.com/plugins/nessus/10079",
+    "displayed_link": "https://www.tenable.com › plugins › nessus",
+    "snippet": "Nessus has detected that the FTP server running on the remote host allows anonymous logins. Therefore, any remote user may connect and authenticate to the ...",
+    "snippet_highlighted_words": [
+      "FTP server running on the remote host allows anonymous logins"
+    ],
+    "source": "Tenable",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "how can I login anonymously with ftp (/usr/bin/ftp)?",
+    "link": "https://stackoverflow.com/questions/3936911/how-can-i-login-anonymously-with-ftp-usr-bin-ftp",
+    "displayed_link": "3 answers · 15 years ago",
+    "snippet": "Anonymous ftp logins are usually the username 'anonymous' with the user's email address as the password. Some servers parse the password to ensure it looks ...",
+    "snippet_highlighted_words": [
+      "Anonymous ftp logins",
+      "username",
+      "anonymous"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

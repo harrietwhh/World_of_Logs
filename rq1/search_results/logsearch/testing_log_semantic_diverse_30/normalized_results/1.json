@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_7cf71edcb70bd8934284595d2ed3c877012cacae0477c16b1247d79a975d4883",
+    "score": 38.93957,
+    "link": "https://jira.spring.io/browse/SPR-4554",
+    "source": "jira",
+    "origin_doc_id": "0118e95fcf079e8ccef69c8ac10680fb61f4e86d4d2282c1e62ce1fccf3150a5",
+    "snippet": "2008-03-29 22:59:08,421 TRACE [org.springframework.samples.petclinic.aspects.AbstractTraceAspect] - <Entering public void org.springframework.samples.petclinic.BaseEntity.setId(java.lang.Integer)> \n ..."
+  },
+  {
+    "rank": 2,
+    "id": "msg_56ecc97fd2d3275f66f665bcf18cedb000063c3e565aece659e515ffb0c17cac",
+    "score": 32.315937,
+    "link": "https://github.com/containous/traefik/issues/3860",
+    "source": "github",
+    "origin_doc_id": "147554e80c06deb0a0d3672a0a9334d86e03ad79d277a30fce4443ce91dede49",
+    "snippet": "optional = false\n      [[entryPoints.https.tls.certificates]]\n         certFile = \"mysite.crt\"\n         keyFile = \"mysite.key\"\n\n===========================\n\nINFO[2018-09-06T13:24:13+03:00] Starting server on :443\nINFO[2018-09-06T13:24:13+03:00] Starting provider configuration.providerAggregator {}\nINFO[2018-09-06T13:24:13+03:00] Starting server on :8080\nDEBU[2018-09-06T13:24:20+03:00] No certificate provided dynamically can check the domain \"www.mysite.com\", a per default certificate will be used. \n DEBU[2018-09-06T13:24:20+03:00] http: TLS handshake error from 31.xx.xx.120:49022: remote error: tls: unknown certificate authority"
+  },
+  {
+    "rank": 3,
+    "id": "msg_ba0b197aac3b2dbde6215ed1d733d838c599003425a046b6ebf9d7988643463f",
+    "score": 31.208803,
+    "link": "https://stackoverflow.com/questions/79020191",
+    "source": "so",
+    "origin_doc_id": "82bc50bd845ec60042ee05b3eddbca464fdeb246944f64eba8b3b5ce19abfad5",
+    "snippet": "[2024-09-24 20:33:49] - *** Starting uWSGI 2.0.27 (64bit) on [Tue Sep 24 20:33:49 2024] ***"
+  },
+  {
+    "rank": 4,
+    "id": "msg_fe86174e96154a5b9268c2042fb4e00b1ca14e1d8fd14fc3d7c7e06803af8cc0",
+    "score": 30.223757,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,587 [myid:] - INFO  [main:QuorumUtil@116] - Creating QuorumPeer 1; public port 11222"
+  },
+  {
+    "rank": 5,
+    "id": "msg_62faf7a63cbf42a80f880fd05c5dd25275cb06991634a0498bb71c6deacc33b7",
+    "score": 30.223757,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,638 [myid:] - INFO  [main:QuorumUtil@116] - Creating QuorumPeer 2; public port 11225"
+  },
+  {
+    "rank": 6,
+    "id": "msg_b84fadc14163eba513b8403e06fd5115b16d56a1fc95657a00ef7a139e9c8f25",
+    "score": 30.223757,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,639 [myid:] - INFO  [main:QuorumUtil@116] - Creating QuorumPeer 3; public port 11228"
+  },
+  {
+    "rank": 7,
+    "id": "msg_a92d9f81c3b62f73d4a113465a22d0f72e65e6db28f20f6ba6c601146dc350ee",
+    "score": 30.223757,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,641 [myid:] - INFO  [main:QuorumUtil@116] - Creating QuorumPeer 4; public port 11231"
+  },
+  {
+    "rank": 8,
+    "id": "msg_9c17a3a31886d5f794390c711f392b19fa3d3ca19cbc6c6dde51ed88fe447a6b",
+    "score": 30.223757,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,642 [myid:] - INFO  [main:QuorumUtil@116] - Creating QuorumPeer 5; public port 11234"
+  },
+  {
+    "rank": 9,
+    "id": "msg_8580b1cf2400a5fea10438f8620fa2ad2ac2f345629d5eb602615317c3d7477d",
+    "score": 30.223757,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,643 [myid:] - INFO  [main:QuorumUtil@116] - Creating QuorumPeer 6; public port 11237"
+  },
+  {
+    "rank": 10,
+    "id": "msg_ca7f89c9f11fab72567096b1de3e418121f133a66b9a2b5d9c88a7d0c31a64d7",
+    "score": 30.223757,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,644 [myid:] - INFO  [main:QuorumUtil@116] - Creating QuorumPeer 7; public port 11240"
+  }
+]

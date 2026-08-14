@@ -1,0 +1,149 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Re: ALL hadoop-mapreduce-examples.jar fail cdh6",
+    "link": "https://community.cloudera.com/t5/Support-Questions/ALL-hadoop-mapreduce-examples-jar-fail-cdh6/m-p/290699",
+    "displayed_link": "https://community.cloudera.com › Support-Questions",
+    "snippet": "The log you provided is RM log, not application log that Ben asked earlier. Please run below command: yarn logs -applicationId ...",
+    "snippet_highlighted_words": [
+      "log",
+      "log",
+      "not",
+      "log",
+      "logs"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Hadoop MapReduce Unable to connect to ...",
+    "link": "https://stackoverflow.com/questions/44402975/hadoop-mapreduce-unable-to-connect-to-resourcemanager",
+    "displayed_link": "1 answer · 8 years ago",
+    "snippet": "HttpRequestLog: Http request log for http.requests.resourcemanager is not defined xxxx-xx-xx xx:xx:xx,xxx INFO org.apache.hadoop.http.",
+    "snippet_highlighted_words": [
+      "Http request log for http.requests.resourcemanager is not defined"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "pydoop mapreduce job hangs because ...",
+    "link": "https://github.com/crs4/pydoop/issues/216",
+    "displayed_link": "https://github.com › crs4 › pydoop › issues",
+    "snippet": "Hello guys. I have already tried all examples possible. I tried to set job to pick up files from local name node and from HDFS.",
+    "snippet_highlighted_words": [
+      "set"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "[jira] [Comment Edited] (YARN-9690) Invalid AMRM token ...",
+    "link": "https://lists.apache.org/thread/0298vp5mj6tj79w5vhv8791cf2k2lxf8",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "HttpRequestLog: Http request log for http.requests.mapreduce is not defined 2019-07-26 16:47:48,005 INFO [main] org.apache.hadoop.http.",
+    "snippet_highlighted_words": [
+      "Http request log for http.requests.mapreduce is not defined"
+    ],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Re: Yarn AM is abending job when submitting a remote ...",
+    "link": "https://lists.apache.org/thread/7cnsvh1oy8cm458m6s4vnkkqoypj9ygg",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "o Both of these messages do not appear in the abended log. My guess is this a setup problem that I produced – I just can't find it. - rd From: Ulul [mailto ...",
+    "snippet_highlighted_words": [
+      "not",
+      "log"
+    ],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Making GET Requests | Chainlink Documentation",
+    "link": "https://docs.chain.link/cre/guides/workflow/using-http-client/get-request-go",
+    "displayed_link": "https://docs.chain.link › ... › Using Http Client",
+    "snippet": "Making GET Requests. The http.Client is the SDK's interface for the underlying HTTP Capability. It allows your workflow to fetch data from any external API.",
+    "snippet_highlighted_words": [
+      "GET Requests",
+      "http",
+      "HTTP"
+    ],
+    "source": "Chainlink Documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "MapReduce History",
+    "link": "https://perfect.org/docs/HadoopMapReduceHistory.html",
+    "displayed_link": "https://perfect.org › docs › HadoopMapReduceHistory",
+    "snippet": "To connect to your Hadoop Map / Reduce History server by Perfect, initialize a MapReduceHistory() object with sufficient parameters.",
+    "snippet_highlighted_words": [
+      "Map / Reduce"
+    ],
+    "source": "Perfect.org",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Configuring a Request Logging profile",
+    "link": "https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/bigip-external-monitoring-implementations-13-1-0/2.html",
+    "displayed_link": "https://techdocs.f5.com › big-ip_ltm › manuals › product",
+    "snippet": "The Request Logging profile gives you the ability to configure data within a log file for HTTP requests and responses, in accordance with specified parameters.",
+    "snippet_highlighted_words": [
+      "Request Logging",
+      "log",
+      "HTTP requests"
+    ],
+    "source": "My F5",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "How to log requests that would be dropped ...",
+    "link": "https://community.citrix.com/forums/topic/252567-how-to-log-requests-that-would-be-dropped-by-drop-invalid-http-requests/",
+    "displayed_link": "https://community.citrix.com › forums › topic › 25256...",
+    "snippet": "Activate a new action in debug mode, create a new policy with the action in debug, and apply the policy to the VIP where you want to monitor drops for invalid ...",
+    "snippet_highlighted_words": [],
+    "source": "Citrix Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "RE: Mapreduce Job fails if one Node is offline?",
+    "link": "https://lists.apache.org/thread/j9m9dt5tyyt7y5ro681st3zvv98t9s1w",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "My problem is: If one of all my Nodes is offline, my MapReduce jobs don't finish successfully anymore. I don't want to wait until it is online again.",
+    "snippet_highlighted_words": [
+      "MapReduce"
+    ],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

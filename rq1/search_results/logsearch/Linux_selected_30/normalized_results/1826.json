@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_69bc71dd72bb6ad41ca562c9d1d86cf274640de70b7ff12d0c04b81fbbbb671b",
+    "score": 54.189983,
+    "link": "https://github.com/memcached/memcached/issues/829",
+    "source": "github",
+    "origin_doc_id": "3e759b87be25a97a3fc6f582b8ab2e2ac1d673ba0427d69ec13250541f0f021c",
+    "snippet": "getpeername: Transport endpoint is not connected \n accept4(): Too many open files \n getpeername: Transport endpoint is not connected \n ```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_f063f2d4e1989cc1f4c2ed54718682ba82481aa6955ed437d90207f14467c63f",
+    "score": 53.99064,
+    "link": "https://stackoverflow.com/questions/36290898",
+    "source": "so",
+    "origin_doc_id": "efa9a1813e786a7e454f3a47874b5eb3ba2a558aaf374ef319b5c8922d0dd2e4",
+    "snippet": "[isaev@feck-5 ~]$ sudo strace -p 26252 -f -e trace=network -s 10000  \n [pid 26272] getpeername(30, 0x7f1699ddfb60, [28]) = -1 ENOTCONN (Transport endpoint is not connected) \n [pid 26272] getpeername(30, 0x7f1699ddfb60, [28]) = -1 ENOTCONN (Transport endpoint is not connected) \n [pid 26272] getpeername(30, 0x7f1699ddfb60, [28]) = -1 ENOTCONN (Transport endpoint is not connected) \n [pid 26272] getpeername(30, 0x7f1699ddfb60, [28]) = -1 ENOTCONN (Transport endpoint is not connected) \n [pid 26272] getpeername(30, 0x7f1699ddfb60, [28]) = -1 ENOTCONN (Transport endpoint is not connected) \n [pid 26272] getpeername(30, 0x7f1699ddfb60, [28]) = -1 ENOTCONN (Transport endpoint is not connected) \n [pid 26272] getpeername(30, 0x7f1699ddfb60, [28]) = -1 ENOTCONN (Transport endpoint is not connected)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_2b35379fafbb41441c7c11027ac6ad9d5c3e28d58938720ddf4029f512be5ddf",
+    "score": 52.139313,
+    "link": "https://github.com/wconrad/ftpd/pull/51",
+    "source": "github",
+    "origin_doc_id": "a18e3aaffac4867feb88321d802e076b85e3bc595067e85cc39bac304f7ee711",
+    "snippet": "[...]/ftpd-2.0.1/lib/ftpd/gets_peer_address.rb:31:in `getpeername': Transport endpoint is not connected - getpeername(2) (Errno::ENOTCONN) \n         from [...]/ftpd-2.0.1/lib/ftpd/gets_peer_address.rb:31:in `peer_ip' \n         from [...]/ftpd-2.0.1/lib/ftpd/connection_tracker.rb:52:in `block in start_track' \n         from [...]/ftpd-2.0.1/lib/ftpd/connection_tracker.rb:51:in `synchronize' \n         from [...]/ftpd-2.0.1/lib/ftpd/connection_tracker.rb:51:in `start_track' \n         from [...]/ftpd-2.0.1/lib/ftpd/connection_tracker.rb:40:in `track' \n        from [...]/ftpd-2.0.1/lib/ftpd/ftp_server.rb:208:in `session' \n         from [...]/ftpd-2.0.1/lib/ftpd/server.rb:119:in `block in start_session_thread' \n ```"
+  },
+  {
+    "rank": 4,
+    "id": "msg_83841c12d695e50ee5e414c8304a77b74b0d3024eaffd6dd64ab769340bdb6f7",
+    "score": 50.10437,
+    "link": "https://github.com/shadowsocks/shadowsocks-android/issues/2143",
+    "source": "github",
+    "origin_doc_id": "ca987cce500d80d66255234cbc8703b5862844d4c1dfe5638d1fae09d1b4bca6",
+    "snippet": "getpeername: Transport endpoint is not connected \n ```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_f8a92513301feac483295f4e6e61a40230e2220f362adae7fe04e3498d25d19c",
+    "score": 49.484474,
+    "link": "https://github.com/shadowsocks/shadowsocks-android/issues/1605",
+    "source": "github",
+    "origin_doc_id": "ea4b5f2d129a548046a56d09511cfb5f1bfaab01202e8cde10d0f64a67f83fd9",
+    "snippet": "ERROR: getpeername: Transport endpoint is not connected"
+  },
+  {
+    "rank": 6,
+    "id": "msg_e07ce332fd3533a7200c582062918cee89039b02763491a7fece641502ae9415",
+    "score": 49.401432,
+    "link": "https://github.com/shadowsocks/v2ray-plugin/issues/175",
+    "source": "github",
+    "origin_doc_id": "8be10a93b1afeb4cf641ef38486380b6773f4c532111bf765fa767054954f006",
+    "snippet": "Jan 15 11:58:16 airshadow ss-server[1407]:  2020-01-15 11:58:16 ERROR: getpeername: Transport endpoint is not connected \n Jan 15 11:58:17 airshadow ss-server[1407]:  2020-01-15 11:58:17 ERROR: getpeername: Transport endpoint is not connected \n Jan 15 11:58:47 airshadow ss-server[1407]:  2020-01-15 11:58:47 ERROR: getpeername: Transport endpoint is not connected \n Jan 15 11:58:48 airshadow ss-server[1407]:  2020-01-15 11:58:48 ERROR: getpeername: Transport endpoint is not connected \n Jan 15 11:59:16 airshadow ss-server[1407]:  2020-01-15 11:59:16 ERROR: getpeername: Transport endpoint is not connected \n Jan 15 11:59:17 airshadow ss-server[1407]:  2020-01-15 11:59:17 ERROR: getpeername: Transport endpoint is not connected"
+  },
+  {
+    "rank": 7,
+    "id": "msg_37822b7276c13ca3d48d4b8e0d1f8e097318f408ec5b45d41ebf062d91270a08",
+    "score": 47.15104,
+    "link": "https://github.com/puma/puma/pull/726",
+    "source": "github",
+    "origin_doc_id": "b317af0f92c393c1edfa3cf2a8a5fcd76ddae061ea23b96b8a4b8ac652e53811",
+    "snippet": "Read error: #<Errno::ENOTCONN: Transport endpoint is not connected - getpeername(2)>"
+  },
+  {
+    "rank": 8,
+    "id": "msg_3978d893b62e6ed9584699caad09c9484051d3c90db19129f48fbcf2e00bddeb",
+    "score": 47.027805,
+    "link": "https://github.com/Arkq/bluez-alsa/issues/22",
+    "source": "github",
+    "origin_doc_id": "c95930146d2a3c28c773035d6981bf84f64178a2a2ed8f46a4a50c8df8a30cad",
+    "snippet": "Jan 09 10:51:24 pi bluetoothd[300]: Unable to get connect data for Headset Voice gateway: getpeername: Transport endpoint is not connected (107) \nJan 09 10:53:26 pi bluetoothd[300]: Unable to get io data for Hands-Free Voice gateway: getpeername: Transport endpoint is not connected (107) \n Jan 09 10:53:57 pi bluetoothd[300]: Unable to get connect data for Hands-Free Voice gateway: getpeername: Transport endpoint is not connected (107) \n Jan 09 10:54:02 pi bluetoothd[300]: Unable to get connect data for Headset Voice gateway: getpeername: Transport endpoint is not connected (107)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_4cb61ed0b3db2ee57713c62b909762c3740dfc1d9f7f6eaea1dfb641c02a45d4",
+    "score": 46.255726,
+    "link": "https://github.com/Sentaroh/SMBSync2/issues/238",
+    "source": "github",
+    "origin_doc_id": "3df974f4097d15647681bb492ec53f9b2174709fffaedfa39e42d11eba313c03",
+    "snippet": "[2021/06/29 03:35:35,  0] lib/util_sock.c:get_peer_addr_internal(1676) \n   getpeername failed. Error was Transport endpoint is not connected \n   read_socket_with_timeout: client 0.0.0.0 read error = Transport endpoint is not connected."
+  },
+  {
+    "rank": 10,
+    "id": "msg_f8f3e2832c9426400f02fb3cd0fcce9f1257bbb8c0d9cf11653a7e6a874e3dde",
+    "score": 46.064945,
+    "link": "https://stackoverflow.com/questions/65934711",
+    "source": "so",
+    "origin_doc_id": "910ea7e8eae8347ba6369f4189eb8c01708697e2f7e79aa972142fe7e723e913",
+    "snippet": "Socket peer name error: getpeername <ip-addr>:8000: Transport endpoint is not connected"
+  }
+]

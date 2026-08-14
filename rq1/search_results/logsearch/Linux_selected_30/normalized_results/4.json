@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_3939d8e5cc5dd4813c91c52aeaeb2c105cd456b33d70beaee589c316d4093663",
+    "score": 145.01799,
+    "link": "https://stackoverflow.com/questions/61694150",
+    "source": "so",
+    "origin_doc_id": "d23b5d86399ae75576e260815715005d1545f893d9b34a056e365b6e9da1bb52",
+    "snippet": "Jun 15 02:04:59 combo sshd(pam_unix)[20897]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root \n ' \n Jun 15 02:04:59 combo sshd(pam_unix)[20898]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root \n ' \n Jun 15 04:06:18 combo su(pam_unix)[21416]: session opened for user cyrus by (uid=0) \n ' \n Jun 15 04:06:19 combo su(pam_unix)[21416]: session closed for user cyrus \n ' \n Jun 15 04:06:20 combo logrotate: ALERT exited abnormally with [1] \n ' \n Jun 15 04:12:42 combo su(pam_unix)[22644]: session opened for user news by (uid=0) \n ' \n Jun 15 04:12:43 combo su(pam_unix)[22644]: session closed for user news \n '"
+  },
+  {
+    "rank": 2,
+    "id": "msg_154e9dec1adde9e5063f7bbe2172d422666a599abc22c2d8ba6c15b694cab4c0",
+    "score": 104.87847,
+    "link": "https://github.com/adelton/mod_authnz_pam/issues/10",
+    "source": "github",
+    "origin_doc_id": "bc53c2d1241c4d9b1497e7ac9d7a5a5561f5bf76bb6658954c9048039ff4a3b6",
+    "snippet": "Jan  8 19:28:28 authnz pamtester: pam_sss(webapp:auth): authentication success; logname=root uid=0 euid=0 tty= ruser= rhost= user=alpha \n\n Jan  8 19:30:35 authnz httpd: pam_sss(webapp:auth): authentication success; logname= uid=48 euid=48 tty= ruser= rhost=192.168.1.52 user=alpha \n Jan  8 19:30:35 authnz httpd: pam_sss(webapp:auth): authentication success; logname= uid=48 euid=48 tty= ruser= rhost=192.168.1.52 user=alpha \n Jan  8 19:30:35 authnz httpd: pam_sss(webapp:auth): authentication success; logname= uid=48 euid=48 tty= ruser= rhost=192.168.1.52 user=alpha"
+  },
+  {
+    "rank": 3,
+    "id": "msg_cc4f96e685e3167bb31c0f3562247cb84d99d2a1f2ad51586c74843f3e3ecbc7",
+    "score": 103.81932,
+    "link": "https://github.com/neutrinolabs/xrdp/issues/1905",
+    "source": "github",
+    "origin_doc_id": "998b2c5c9d9a9d21f53e2766d5cddbbbd5a0c48fe6c314cb2016481114c97986",
+    "snippet": "xrdp-sesman[35456]: pam_unix(xrdp-sesman:auth): authentication failure; logname= uid=0 euid=0 tty=xrdp-sesman ruser= rhost= \n xrdp-sesman[35456]: pam_krb5(xrdp-sesman:auth): authentication failure; logname=DOMAIN\\username uid=0 euid=0 tty=xrdp-sesman ruser= rhost="
+  },
+  {
+    "rank": 4,
+    "id": "msg_03bee4423f40bdd610b93cabd0148aafe7e78020db7e7dc37827463a9db76b8f",
+    "score": 103.26613,
+    "link": "https://github.com/NixOS/nixpkgs/issues/95017",
+    "source": "github",
+    "origin_doc_id": "798fd922b0d4e7f50faf0e5a49f9e1724e124b51440a1d919e9f816f359ed96e",
+    "snippet": "Nov 22 13:13:52 austin-laptop sudo[11088]: pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=austin rhost=  user=austin \n Nov 22 13:14:10 austin-laptop sudo[11088]: pam_krb5(sudo:auth): authentication failure; logname=austin uid=1000 euid=0 tty=/dev/pts/0 ruser=austin rhost= \n Nov 22 13:14:40 austin-laptop sudo[11088]: pam_krb5(sudo:auth): authentication failure; logname=austin uid=1000 euid=0 tty=/dev/pts/0 ruser=austin rhost= \n Nov 22 13:15:10 austin-laptop sudo[11088]: pam_krb5(sudo:auth): authentication failure; logname=austin uid=1000 euid=0 tty=/dev/pts/0 ruser=austin rhost="
+  },
+  {
+    "rank": 5,
+    "id": "msg_249edeb925bc6301d7a7ba89f7e1a5ecb2d4d5745e9ee5a04d36a2661161b866",
+    "score": 102.134155,
+    "link": "https://github.com/vmware/open-vm-tools/issues/58",
+    "source": "github",
+    "origin_doc_id": "1db9862b183ec5b10836fb4f3f5030658fca465b18c325a51a5973d18fc4845a",
+    "snippet": "Dec 18 15:18:35 debian7 vmsvc[3866]: pam_unix(vmtoolsd:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=  user=root"
+  },
+  {
+    "rank": 6,
+    "id": "msg_7aa3b72ba39867f9cbaa829fce23289feb56c8f539024763efe392890272036c",
+    "score": 101.7113,
+    "link": "https://github.com/neutrinolabs/xrdp/issues/392",
+    "source": "github",
+    "origin_doc_id": "86ac4a575d656e8346a0a1ab22234d9cce35642b6ee2bf89bd7d7da0d2fa4993",
+    "snippet": "pam_unix(xrdp-sesman:auth): authentication failure; logname= uid=0 euid=0 tty=xrdp-sesman ruser= rhost=  user=someuser`"
+  },
+  {
+    "rank": 7,
+    "id": "msg_43555ccc7ef937abd511d20003e39694897e3c3cda7d0509ab12e6192f2caafe",
+    "score": 101.49163,
+    "link": "https://stackoverflow.com/questions/62774192",
+    "source": "so",
+    "origin_doc_id": "8061bc676c14d28eb21ba300de435f8f93e637df4dd27002eb2fcf2a55b42ab6",
+    "snippet": "Jul 05 13:44:56 khUbuntu su[20464]: pam_unix(su-l:auth): authentication failure; logname= uid=1000 euid=0 tty=pts/1 ruser=kh rhost=  user=testusr1 \n Jul 05 14:56:44 khUbuntu su[23766]: pam_unix(su-l:auth): authentication failure; logname= uid=1000 euid=0 tty=pts/2 ruser=kh rhost=  user=testusr1"
+  },
+  {
+    "rank": 8,
+    "id": "msg_47ccf4a1bd63436bc854950eb04c833031979e71638ed109ecfd8af256707a4a",
+    "score": 100.63665,
+    "link": "https://github.com/dev-sec/ansible-collection-hardening/issues/518",
+    "source": "github",
+    "origin_doc_id": "f897618af9d3a6e88c489e7606cd58b3c26ec2241140cadbb41b83700f005853",
+    "snippet": "``` \n sudo: pam_unix(sudo:auth): authentication failure; logname=USER uid=1001 euid=0 tty=/dev/pts/0 ruser=USER rhost= user=USER \n ```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_6882ad2ed5386e03b098bcdaf18cf8e1cca50489658135ea60ac9d042cb5cdec",
+    "score": 100.386894,
+    "link": "https://github.com/NixOS/nixpkgs/issues/25711",
+    "source": "github",
+    "origin_doc_id": "4dd6b2d1c10c49d4867191e4f6b9b72c410559cb398f1f00b0466acb8d626026",
+    "snippet": "lightdm: pam_unix(lightdm:auth): authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost="
+  },
+  {
+    "rank": 10,
+    "id": "msg_7bb25dad6d04e660ac938104da3f553c349eb89bb1ba9aba96782701d3a879e5",
+    "score": 100.101585,
+    "link": "https://github.com/sto/ngx_http_auth_pam_module/issues/16",
+    "source": "github",
+    "origin_doc_id": "b816256ef7ba267d8b22168714457b8f323d6f2f5a8c5ea3d22e7dbf704cec0e",
+    "snippet": "Feb  8 09:33:06 hostname sshd[14194]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=X.X.X.X  user=root"
+  }
+]

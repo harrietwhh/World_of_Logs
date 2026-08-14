@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_8b330274520f2c4ed6982995d111420d4d724a97162500ae396ca36fa760361a",
+    "score": 94.61056,
+    "link": "https://issues.apache.org/jira/browse/YARN-7884",
+    "source": "jira",
+    "origin_doc_id": "9b569572609e2e13a16dc462ef7ce1439532d940d677fee2fdaedd41454921ff",
+    "snippet": "2018-02-02 22:53:30,609 [main] INFO  zk.CuratorService - Creating CuratorService with connection fixed ZK quorum \"eyang-1.openstacklocal:2181\""
+  },
+  {
+    "rank": 2,
+    "id": "msg_c7b8ba6ba07e6b910edec908ff2e79dddb8b9ce6b25e5a5ed602501a3d9fa2d5",
+    "score": 37.56303,
+    "link": "https://issues.apache.org/jira/browse/SLIDER-993",
+    "source": "jira",
+    "origin_doc_id": "a48a64b6532827455171a65c16922881e0a986fc36a7231cf820de0243ee1432",
+    "snippet": "2015-11-18 14:52:04,723 [main] INFO  workflow.WorkflowCompositeService (stateChanged(115)) - Child service Service YarnRegistry in state YarnRegistry: STOPPED  Connection=\"fixed ZK quorum \"devix.cotham.uk:2181\" \" root=\"/registry\"  failed"
+  },
+  {
+    "rank": 3,
+    "id": "msg_70e6d59023ca76b45161f344f7dec4f9d7f776215c841b09d9e44d7a3d899f25",
+    "score": 34.067448,
+    "link": "https://issues.apache.org/jira/browse/CXF-838",
+    "source": "jira",
+    "origin_doc_id": "f0088be3a8f64839c2f4ec6ee2047bfbb736bbadf700d5f8bb37fbeb2cb1d77a",
+    "snippet": "[junit] Running org.jboss.test.ws.jaxws.samples.xop.doclit.XOPBareTestCase \n     [junit] Jul 24, 2007 3:07:36 PM org.apache.cxf.service.factory.ReflectionServiceFactoryBean buildServiceFromWSDL \n     [junit] INFO: Creating Service {http://doclit.xop.samples.jaxws.ws.test.jboss.org/}MTOMService from WSDL: http://localhost:8080/jaxws-samples-xop-doclit/bare?wsdl \n     [junit] The Apache Software Foundation, Apache CXF Runtime Simple Frontend, 2.0-incubator \n     [junit] Jul 24, 2007 3:07:38 PM org.apache.cxf.service.factory.ReflectionServiceFactoryBean buildServiceFromWSDL \n     [junit] INFO: Creating Service {http://doclit.xop.samples.jaxws.ws.test.jboss.org/}MTOMService from WSDL: http://localhost:8080/jaxws-samples-xop-doclit/bare?wsdl \n     [junit] Jul 24, 2007 3:07:38 PM org.apache.cxf.service.factory.ReflectionServiceFactoryBean buildServiceFromWSDL \n    [junit] INFO: Creating Service {http://doclit.xop.samples.jaxws.ws.test.jboss.org/}MTOMService from WSDL: http://localhost:8080/jaxws-samples-xop-doclit/bare?wsdl\n    [junit] Corrupt JPEG data: 1 extraneous bytes before marker 0xc4\n    [junit] Jul 24, 2007 3:07:40 PM org.apache.cxf.service.factory.ReflectionServiceFactoryBean buildServiceFromWSDL\n    [junit] INFO: Creating Service {http://doclit.xop.samples.jaxws.ws.test.jboss.org/}MTOMService from WSDL: http://localhost:8080/jaxws-samples-xop-doclit/bare?wsdl\n    [junit] Corrupt JPEG data: 1 extraneous bytes before marker 0xc4\n    [junit] Jul 24, 2007 3:07:41 PM org.apache.cxf.service.factory.ReflectionServiceFactoryBean buildServiceFromWSDL\n    [junit] INFO: Creating Service {http://doclit.xop.samples.jaxws.ws.test.jboss.org/}MTOMService from WSDL: http://localhost:8080/jaxws-samples-xop-doclit/bare?wsdl\n    [junit] Jul 24, 2007 3:07:41 PM org.apache.cxf.service.factory.ReflectionServiceFactoryBean buildServiceFromWSDL\n    [junit] INFO: Creating Service {http://doclit.xop.samples.jaxws.ws.test.jboss.org/}MTOMService from WSDL: http://localhost:8080/jaxws-samples-xop-doclit/bare?wsdl\n    [junit] Tests run: 6, Failures: 2, Errors: 0, Time elapsed: 10.359 sec\n    [junit] Test org.jboss.test.ws.jaxws.samples.xop.doclit.XOPBareTestCase FAILED\n    [junit] Running org.jboss.test.ws.jaxws.samples.xop.doclit.XOPHandlerTestCase\n    [junit] Jul 24, 2007 3:07:47 PM org.apache.cxf.service.factory.ReflectionServiceFactoryBean buildServiceFromWSDL\n    [junit] INFO: Creating Service {http://doclit.xop.samples.jaxws.ws.test.jboss.org/}MTOMService from WSDL: http://localhost:8080/jaxws-samples-xop-doclit/bare?wsdl\n    [junit] Jul 24, 2007 3:07:48 PM org.apache.cxf.jaxws.handler.HandlerChainInvoker invokeHandleMessage\n    [junit] WARNING: HANDLER_RAISED_RUNTIME_EXCEPTION\n    [junit] java.lang.IllegalStateException: XOP request not properly inlined\n    [junit] at org.jboss.test.ws.jaxws.samples.xop.doclit.MTOMProtocolHandler.verifyXOPPackage(MTOMProtocolHandler.java:66)\n    [junit] at org.jboss.test.ws.jaxws.samples.xop.doclit.MTOMProtocolHandler.handleOutbound(MTOMProtocolHandler.java:48)\n    [junit] at org.jboss.wsf.test.GenericHandler.handleMessage(GenericHandler.java:53)\n    [junit] at org.apache.cxf.jaxws.handler.HandlerChainInvoker.invokeHandleMessage(HandlerChainInvoker.java:336)\n    [junit] at org.apache.cxf.jaxws.handler.HandlerChainInvoker.invokeHandlerChain(HandlerChainInvoker.java:259)\n    [junit] at org.apache.cxf.jaxws.handler.HandlerChainInvoker.invokeProtocolHandlers(HandlerChainInvoker.java:135)\n    [junit] at org.apache.cxf.jaxws.handler.soap.SOAPHandlerInterceptor.handleMessageInternal(SOAPHandlerInterceptor.java:129)\n    [junit] at org.apache.cxf.jaxws.handler.soap.SOAPHandlerInterceptor.access$000(SOAPHandlerInterceptor.java:59)\n    [junit] at org.apache.cxf.jaxws.handler.soap.SOAPHandlerInterceptor$1.handleMessage(SOAPHandlerInterceptor.java:69)\n    [junit] at org.apache.cxf.jaxws.handler.soap.SOAPHandlerInterceptor$1.handleMessage(SOAPHandlerInterceptor.java:68)\n    [junit] at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:206)\n    [junit] at org.apache.cxf.endpoint.ClientImpl.invoke(ClientImpl.java:253)\n    [junit] at org.apache.cxf.endpoint.ClientImpl.invoke(ClientImpl.java:204)\n    [junit] at org.apache.cxf.frontend.ClientProxy.invokeSync(ClientProxy.java:73)\n    [junit] at org.apache.cxf.jaxws.JaxWsClientProxy.invoke(JaxWsClientProxy.java:134)\n    [junit] at $Proxy21.echoDataHandler(Unknown Source)"
+  },
+  {
+    "rank": 4,
+    "id": "msg_290a28699c9ad58a0f0e79f104b34f7ecce7944250d8c89b6d7dacaace094701",
+    "score": 33.346992,
+    "link": "https://issues.apache.org/jira/browse/HBASE-3056",
+    "source": "jira",
+    "origin_doc_id": "e21a6662f93ae9de907bd9015ff13694ab4c4721ef58486e9f4bd850707d656b",
+    "snippet": "2010-09-30 10:56:36,028 INFO  [Thread-217] zookeeper.ZKUtil(93): hconnection opening connection to ZooKeeper with quorum (localhost:21815)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_bfae7623a39e12173896d30a41d671d1ed45919b9631576db519b828d60f5bde",
+    "score": 33.346992,
+    "link": "https://issues.apache.org/jira/browse/HBASE-3062",
+    "source": "jira",
+    "origin_doc_id": "88bfc2fd1080ab5ab340e056c73a42780ba1583598e37fe3816f9f23bb7c0239",
+    "snippet": "2010-10-09 10:52:33,731 INFO  [main] zookeeper.ZKUtil(94): master:51876 opening connection to ZooKeeper with quorum (localhost:21810)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_940cfb7a1e2474ae6d144f4466f8ae8601aee0c432655365451d27a1a87bfa12",
+    "score": 32.517475,
+    "link": "https://stackoverflow.com/questions/7535885",
+    "source": "so",
+    "origin_doc_id": "c4a17913a3c3ce5fab0f703445d417d220de2cd0b2f6bbdf7eb74bc3d3863193",
+    "snippet": "[junit] INFO: Launching Internet Explorer on http://localhost/jsunit/testRunner.html?testPage=localhost/jsunit/tests/jsUnitOnLoadTests.html&autoRun=true&browserId=0&submitResults=localhost:8081/jsunit/acceptor \n [junit] 24/09/2011 9:29:14 AM net.jsunit.TestRunManager runTests \n [junit] INFO: Waiting for Internet Explorer to submit result \n [junit] 24/09/2011 9:30:15 AM net.jsunit.TimeoutChecker run \n [junit] WARNING: Browser Internet Explorer timed out after 60 seconds \n [junit] INFO: Launching Internet Explorer on http://localhost/jsunit/testRuner.html?testPage=localhost/jsunit/tests/jsUnitOnLoadTests.html&autoRun=true&broserId=0&submitResults=localhost:8081/jsunit/acceptor \n [junit] 24/09/2011 9:28:58 AM net.jsunit.TestRunManager runTests \n [junit] INFO: Waiting for Internet Explorer to submit result \n [junit] - Could not load portlet-api, disabling webwork's portlet support. \n [junit] 24/09/2011 9:29:00 AM net.jsunit.action.ResultAcceptorAction execute \n [junit] INFO: Received submission from browser Internet Explorer"
+  },
+  {
+    "rank": 7,
+    "id": "msg_7ca5404dc476d4cfd2027a3666443fa11970a0448d858180aa98819214873dbb",
+    "score": 32.40585,
+    "link": "https://stackoverflow.com/questions/32800913",
+    "source": "so",
+    "origin_doc_id": "085ea31cece36ae1c5e614db8498b59ed6896ce06fe08437ba830d0dd9132e8d",
+    "snippet": "2015-09-26 19:41:26,406 INFO  [main] zookeeper.MiniZooKeeperCluster: Started MiniZooKeeperCluster and ran successful 'stat' on client port=2182\nCould not start ZK at requested port of 2181.  ZK was started at port: 2182.  Aborting as clients (e.g. shell) will not be able to find this ZK quorum."
+  },
+  {
+    "rank": 8,
+    "id": "msg_691a83badf810b7851d66637fb401d82f2bc351b9f5059894c37605558427119",
+    "score": 32.158913,
+    "link": "https://github.com/scylladb/scylla-code-samples/issues/159",
+    "source": "github",
+    "origin_doc_id": "ad828b2ae69cb74fddfc8fb4db74e42498185fc1741e0119f094617395a2c48b",
+    "snippet": "`INFO[Apr 28 22:45:05.195] Establishing connection to localhost` \n `FATA[Apr 28 22:45:05.197] gocql: unable to create session: unable to discover protocol version: dial tcp 127.0.0.1:9042: connect: connection refused`\npop --host localhost -n 100` \n `INFO[Apr 28 20:41:57.904] Establishing connection to localhost` \n `INFO[Apr 28 20:41:57.981] Creating the keyspace and tables...` \n `FATA[Apr 28 20:41:58.580] Cannot achieve consistency level for cl QUORUM. Requires 2, alive 1`"
+  },
+  {
+    "rank": 9,
+    "id": "msg_2b88d215415a5d22ada34da6c0226f6b956a4473fdc4f3dfbf5649e189147151",
+    "score": 31.824564,
+    "link": "https://github.com/mesosphere/mesos-deb-packaging/pull/35",
+    "source": "github",
+    "origin_doc_id": "72c3137daad33a7eaff29a1073daa7f674414728aa4514a0cec71116ab878916",
+    "snippet": "+ cut '-d ' -f3\n+ master --no-logger\n+ local etc_master=/etc/mesos-master\n+ args=()\n+ local args\n+ '[' -x /usr/bin/mesosphere-dnsconfig ']'\n+ [[ ! -f /etc/default/mesos ]]\n+ . /etc/default/mesos\n++ LOGS=/var/log/mesos\n++ ULIMIT='-n 8192'\n+ [[ ! -f /etc/default/mesos-master ]]\n+ . /etc/default/mesos-master\n++ PORT=5050\n+++ cat /etc/mesos/zk\n++ ZK=zk://localhost:2181/mesos\n+ [[ ! -n -n 8192 ]]\n+ ulimit -n 8192\n+ [[ ! -n zk://localhost:2181/mesos ]]\n+ args+=(--zk=\"$ZK\")\n+ [[ ! -n '' ]]\n+ [[ ! -n 5050 ]]\n+ args+=(--port=\"$PORT\")\n+ [[ ! -n '' ]]\n+ [[ ! -n /var/log/mesos ]]\n+ args+=(--log_dir=\"$LOGS\")\n+ for f in '\"$etc_master\"/*'\n+ [[ -f /etc/mesos-master/quorum ]]\n++ basename /etc/mesos-master/quorum\n+ local name=quorum\n+ [[ quorum == \\?* ]]\n+ args+=(--\"$name\"=\"$(cat \"$f\")\")\n++ cat /etc/mesos-master/quorum\n+ for f in '\"$etc_master\"/*'\n+ [[ -f /etc/mesos-master/work_dir ]]\n++ basename /etc/mesos-master/work_dir\n+ local name=work_dir\n+ [[ work_dir == \\?* ]]\n+ args+=(--\"$name\"=\"$(cat \"$f\")\")\n++ cat /etc/mesos-master/work_dir\n+ [[ --zk=zk://localhost:2181/mesos --port=5050 --log_dir=/var/log/mesos --quorum=1 --work_dir=/var/lib/mesos == *\\-\\-\\n\\o\\-\\l\\o\\g\\g\\e\\r* ]]"
+  },
+  {
+    "rank": 10,
+    "id": "msg_9b29ba145ac516089899f162660b4a7270fac19887f62dc0ad15f4b0c9b51e0c",
+    "score": 31.700367,
+    "link": "https://issues.apache.org/jira/browse/SPARK-29114",
+    "source": "jira",
+    "origin_doc_id": "820e6a7890853ff4f17483896afd4cbcc67c4ed5135e262ccd65ebb8453a1ef1",
+    "snippet": "19/09/17 08:26:47 INFO ZooKeeper: Initiating client connection, connectString=ss-hbase-zk-4:2181,ss-hbase-zk-3:2181,ss-hbase-zk-2:2181,ss-hbase-zk-1:2181,ss-hbase-zk-5:2181 sessionTimeout=90000 watcher=hconnection-0x1aa852f0, quorum=ss-hbase-zk-4:2181,ss-hbase-zk-3:2181,ss-hbase-zk-2:2181,ss-hbase-zk-1:2181,ss-hbase-zk-5:2181, baseZNode=/hbase-qq-mp-ss-slave"
+  }
+]

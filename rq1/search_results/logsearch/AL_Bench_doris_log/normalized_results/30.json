@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_948c4e6892bc49811da6fbb7f3ee220febbc964151078e2ededf052998cc72b3",
+    "score": 34.790924,
+    "link": "https://issues.apache.org/jira/browse/RATIS-1008",
+    "source": "jira",
+    "origin_doc_id": "b0b58f02df864b21f95da8cc8c6afd2f2b83ae190e715275278b7c1debbb8279",
+    "snippet": "LOG, () -> \"Timeout check failed for append entry request: \" + request);\nLOG.info(\"receive request, in order or not: {}\",  replyInOrder(request));\nLOG.trace(\"HEARTBEAT: \" + message.get());"
+  },
+  {
+    "rank": 2,
+    "id": "msg_1226ab2655150edce6c3fb430cb5f12889954f776704e67eab445f238efb3644",
+    "score": 32.638794,
+    "link": "https://stackoverflow.com/questions/21929932",
+    "source": "so",
+    "origin_doc_id": "27b4b61f6f21b325a918a576067d4346a0dbf639d2a364c82f01fee27ed01d73",
+    "snippet": "log.trace(\"Request to get all"
+  },
+  {
+    "rank": 3,
+    "id": "msg_8f1d26c3e3ff53c9496410fdb6ed6e7d6b6215471e8dfa13d45133bb83862df2",
+    "score": 31.404501,
+    "link": "https://issues.apache.org/jira/browse/RATIS-1008",
+    "source": "jira",
+    "origin_doc_id": "b0b58f02df864b21f95da8cc8c6afd2f2b83ae190e715275278b7c1debbb8279",
+    "snippet": "+    LOG.info(\"pending log size: {}, pending hb size: {}\", \n +        pendingRequests.logRequests.size(), pendingRequests.heartbeats.size()); \n\n LOG, () -> \"Timeout check failed for append entry request: \" + request);\nLOG.info(\"receive request, in order or not: {}\",  replyInOrder(request));\nLOG.trace(\"HEARTBEAT: \" + message.get()); \n\n LOG.info(\"HEARTBEAT: \" + message.get());\nLOG.debug(message.get());"
+  },
+  {
+    "rank": 4,
+    "id": "msg_c11559de3e405a7d0223bcc066f2816f04ea039466b5b56348d35b12646da6d2",
+    "score": 30.675562,
+    "link": "https://issues.apache.org/jira/browse/CAMEL-11731",
+    "source": "jira",
+    "origin_doc_id": "14a6148e7d7c6fb2c11bd2ba73677a0ffcc1d71fd9265704473c81a91dcc50f7",
+    "snippet": "log.error(\"Error processing request\", e);\nlog.error(\"Error processing request\", e);\nlog.trace(\"Service: {}\", request);\nlog.trace(\"Processing request for exchangeId: {}\", exchange.getExchangeId());\nlog.trace(\"Writing response for exchangeId: {}\", exchange.getExchangeId());\nlog.trace(\"Using response buffer size: {}\", bs);"
+  },
+  {
+    "rank": 5,
+    "id": "msg_65ba0c7b1867781f26ad6ace2d1d0e15139ea8f85eca7cf2efb39b3208278c1d",
+    "score": 30.05036,
+    "link": "https://stackoverflow.com/questions/76414853",
+    "source": "so",
+    "origin_doc_id": "2826eacdad0d914c591dd0c2c51ee1168f7a1eb88497fc92e281d75fc8fe555d",
+    "snippet": "e.printStackTrace();\nSystem.out.println(\">>> Successfully receive publish request\");\nSystem.out.println(\">>> Successfully receive get request\");\nSystem.out.println(\">>> Successfully receive subscribe request\");\nSystem.out.println(\"keyss:\" +"
+  },
+  {
+    "rank": 6,
+    "id": "msg_1480b978abc8ce3425db1e5903aa56182d4ade47720f6ee51bd707ec06122524",
+    "score": 30.017082,
+    "link": "https://stackoverflow.com/questions/74260774",
+    "source": "so",
+    "origin_doc_id": "32fe48a9e7f02cf946f2a8858898b22d494cd6ad223d9c03971dff8eb42a3a53",
+    "snippet": "log.trace(\"Request came without token\");\nlog.trace(\"Request holds a token\");"
+  },
+  {
+    "rank": 7,
+    "id": "msg_8e88338458a55a776c54c53a967fadcac16a3eeebfdf5a2bd6f8ae79a02bdea2",
+    "score": 29.976786,
+    "link": "https://stackoverflow.com/questions/37862309",
+    "source": "so",
+    "origin_doc_id": "1743a3284a5fce9b0f6125f4d666dfe96b88a791c52e650380d77309729fcaae",
+    "snippet": "log.info(\"Received getCompositeObject request\");\nlog.info(\"Returning compositeObject: \" + compositeString);\nlog.trace(\"calling get hello\");"
+  },
+  {
+    "rank": 8,
+    "id": "msg_607fc1db9fcd4230a2b743caa0ccb9e00a9308048f0c9aee247513592fb1157f",
+    "score": 29.936598,
+    "link": "https://stackoverflow.com/questions/9841158",
+    "source": "so",
+    "origin_doc_id": "fe715e2645ac71c38ffbc11f0d2eea2453b0f6744b236ef771881b4de5cd48f3",
+    "snippet": "log.trace(\"Chunked request, set readingChunks true and create byte buffer\");\nlog.trace(\"Request not chunked\");\nlog.trace(\"Reading chunks\");"
+  },
+  {
+    "rank": 9,
+    "id": "msg_6002b32e6edca16ec01ad08238a08110e764eea04ff4653eb11ca36ca32b6604",
+    "score": 29.582258,
+    "link": "https://stackoverflow.com/questions/58448057",
+    "source": "so",
+    "origin_doc_id": "f11728881c966e50a77edb4033872a9886ccec4a24533b7e289226e9f9d1d5cc",
+    "snippet": "log.trace(\"Client info request(s) received: {}\", msg);"
+  },
+  {
+    "rank": 10,
+    "id": "msg_67ac076fabf68bab662fc88785c814b843ebc7c22104c966e16977bf102032e2",
+    "score": 29.167877,
+    "link": "https://stackoverflow.com/questions/69951023",
+    "source": "so",
+    "origin_doc_id": "b1abb01074117e1149510cc88c4cb94b4f8536068c2e2c0670314b8e9823d597",
+    "snippet": "log.info(\"The url to get the access token:\"+url1.toString());\nlog.info (\"Send the POST request\");\nlog.info(\"Read from the input stream\");\nlog.trace(\"Info:\"+theString);"
+  }
+]

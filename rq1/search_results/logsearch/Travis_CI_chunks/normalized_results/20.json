@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_524caf20853fced7628410288c0dc41da50b0e37dc91de589853fd8eb87a573e",
+    "score": 210.27092,
+    "link": "https://github.com/realm/realm-cocoa/pull/5467",
+    "source": null,
+    "origin_doc_id": "044ec9d575c485824b59b7a4c9f19b9bf5ec3d96381aa6b71b2717b19e093ee1",
+    "snippet": "RealmSwift/Results.swift:257: warning: Trailing Whitespace Violation: Lines should not have trailing whitespace. (trailing_whitespace) \n RealmSwift/Tests/RealmCollectionTypeTests.swift:698:40: warning: Trailing Semicolon Violation: Lines should not have trailing semicolons. (trailing_semicolon) \n [a lot more lines in this file] \n RealmSwift/Tests/RealmCollectionTypeTests.swift:697: warning: Trailing Whitespace Violation: Lines should not have trailing whitespace. (trailing_whitespace) \n [a lot more lines in this file] \n RealmSwift/Tests/RealmCollectionTypeTests.swift:732:31: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)"
+  },
+  {
+    "rank": 2,
+    "id": "msg_29355185640784f9392f6de8ca567f2d77f49e5334a292093c40dc5d008d7822",
+    "score": 196.45828,
+    "link": "https://github.com/realm/SwiftLint/issues/2050",
+    "source": "github",
+    "origin_doc_id": "392231a02f7362ebdacad41bb0e8bd4faf5efc6783120c357d0bce3df89c5ae2",
+    "snippet": "0.23.1\nLoading configuration from '.swiftlint.yml'\nLinting Swift files at path sample.swift\nLinting 'sample.swift' (1/1)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:7:54: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:8:64: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:9:54: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:10:56: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:11:66: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\nDone linting! Found 5 violations, 0 serious in 1 file.\nLoading configuration from '.swiftlint.yml'\nCorrecting Swift files at path sample.swift\nCorrecting 'sample.swift' (1/1)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:11:66 Corrected Colon\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:10:56 Corrected Colon\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:9:54 Corrected Colon\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:8:64 Corrected Colon\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:7:54 Corrected Colon\nDone correcting 1 files!\nLoading configuration from '.swiftlint.yml'\nLinting Swift files at path sample.swift \n Linting 'sample.swift' (1/1) \n Done linting! Found 0 violations, 0 serious in 1 file. \n$ ./test.sh 0.24.0\n=== Testing with version 0.24.0 ===\n0.24.0\nLoading configuration from '.swiftlint.yml'\nLinting Swift files at path sample.swift\nLinting 'sample.swift' (1/1)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:7:54: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:8:64: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:9:54: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:10:56: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:11:66: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\nDone linting! Found 5 violations, 0 serious in 1 file.\nLoading configuration from '.swiftlint.yml'\nCorrecting Swift files at path sample.swift\nCorrecting 'sample.swift' (1/1)\nDone correcting 1 files!\nLoading configuration from '.swiftlint.yml'\nLinting Swift files at path sample.swift\nLinting 'sample.swift' (1/1)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:7:54: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:8:64: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon) \n /Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:9:54: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon) \n /Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:10:56: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon) \n /Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:11:66: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon) \n Done linting! Found 5 violations, 0 serious in 1 file.\n0.24.1 \n === Testing with version 0.24.1 === \n 0.24.1 \n Loading configuration from '.swiftlint.yml' \n Invalid configuration for 'indentation'. Falling back to default. \n Linting Swift files at path sample.swift \n Linting 'sample.swift' (1/1) \n /Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:7:54: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon) \n[Truncated]\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:10:56: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:11:66: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\nDone linting! Found 5 violations, 0 serious in 1 file.\nLoading configuration from '.swiftlint.yml'\nCorrecting Swift files at path sample.swift\nCorrecting 'sample.swift' (1/1)\nDone correcting 1 files!\nLoading configuration from '.swiftlint.yml'\nLinting Swift files at path sample.swift\nLinting 'sample.swift' (1/1)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:7:54: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:8:64: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:9:54: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:10:56: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\n/Users/ohalligon/Desktop/swiftlint-bug-test/swiftlint/sample.swift:11:66: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\nDone linting! Found 5 violations, 0 serious in 1 file.\n  ```\n</details>"
+  },
+  {
+    "rank": 3,
+    "id": "msg_27e0759f2b5ac5505c459c471a5a31cb30b91df414bcaafa52b52dfd6aa74126",
+    "score": 185.28142,
+    "link": "https://github.com/realm/SwiftLint/issues/2838",
+    "source": "github",
+    "origin_doc_id": "dedc76283a98711e7d038b9e8bcfedf0ef8e5231f9d0aa83f9e3ec0628782312",
+    "snippet": "warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon) \n SwiftLint: 0.34.0 \n Xcode 11.0"
+  },
+  {
+    "rank": 4,
+    "id": "msg_b8f812ef7d134e9fe2211a6156108396e40092ee9d3a6456301c19c97494f9dc",
+    "score": 184.8144,
+    "link": "https://stackoverflow.com/questions/44738137",
+    "source": "so",
+    "origin_doc_id": "3a879ba9c6e4a5e968917bfd94d92fd9f1758311e4509722d1418463cfafa438",
+    "snippet": "\"Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)\"."
+  },
+  {
+    "rank": 5,
+    "id": "msg_e428c60fdb139522064a902d1456a72209302851d2cd7284d5da8d157979c092",
+    "score": 180.54929,
+    "link": "https://github.com/realm/SwiftLint/issues/1901",
+    "source": "github",
+    "origin_doc_id": "e892aa78ac823db397d3a84a2256c83bf9af729d9636c994ced4ca642c13dd35",
+    "snippet": "Loading configuration from '.swiftlint.yml' \n <nopath>:1:2: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon) \n ```"
+  },
+  {
+    "rank": 6,
+    "id": "msg_53cac0913fffc5bc0f18295560d96ecbff132c9f061f3a561e3bc75a318969b2",
+    "score": 175.88446,
+    "link": "https://github.com/danger/swift/issues/176",
+    "source": "github",
+    "origin_doc_id": "c8675353a447de861ee0e59a145114409db30159ec61ac43b62710210d8c1f44",
+    "snippet": "2019-01-18T15:58:01.172Z danger:executor Got results back: { messages: [],\n  markdowns: [],\nruntimeName: 'Danger Swift' }, \n   fails: [], \n   warnings: \n    [ { message: \n         'Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (`colon`)', \n        file: \n         'Users/travis/build//iphone-app/Shared/Constants/Constants.swift', \n        line: 19 }, \n     { message:\n        'Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (`colon`)',\n       file:\n        'Users/travis/build//iphone-app/Shared/Constants/Constants.swift',\n       line: 21 },\n     { message:\n        'Limit vertical whitespace to a single empty line. Currently 5. (`vertical_whitespace`)',\n       file:\n        'Users/travis/build//iphone-app/Shared/Constants/Constants.swift',\n       line: 18 } ] }\n[Truncated]"
+  },
+  {
+    "rank": 7,
+    "id": "msg_158b2516bfe0f48e0f73c68109e74bb4a369133e8aa69b16f7cfd22df38779aa",
+    "score": 173.02853,
+    "link": "https://github.com/realm/SwiftLint/issues/730",
+    "source": "github",
+    "origin_doc_id": "d26aa99875aece471c1a97d3346a66e3d08017a61a48df1a36413c6e67d886d4",
+    "snippet": "Linting 'main.swift' (1/1) \n main.swift:3:22: warning: Colon Violation: Colons should be next to the identifier when specifying a type. (colon) \n main.swift:6:22: warning: Colon Violation: Colons should be next to the identifier when specifying a type. (colon) \n main.swift:9:22: warning: Colon Violation: Colons should be next to the identifier when specifying a type. (colon) \n Done linting! Found 3 violations, 0 serious in 1 file. \n ```"
+  },
+  {
+    "rank": 8,
+    "id": "msg_5d09a92a285f5645bf194e95c1eab120b6af739407f956c17fa6e189fc7e1584",
+    "score": 169.708,
+    "link": "https://github.com/realm/SwiftLint/issues/2981",
+    "source": "github",
+    "origin_doc_id": "9e529dc7128e5246ac7163e4728b5e3b437b31ad532e6600b651e73c62aea5f4",
+    "snippet": "$ swiftlint autocorrect \n Correcting ... (XXX/YYY) \n ZZZ.swift:4835:104 Corrected Colon \n Done correcting YYY files! \n ``` \n ### Environment\nZZZ.swift:4835:104: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_0b547382c08dcee27daaad85e8334d224da58dc8c3d7bb64e6f2cc9b68966282",
+    "score": 168.60556,
+    "link": "https://github.com/realm/SwiftLint/issues/1823",
+    "source": "github",
+    "origin_doc_id": "8cefa2e1f4f6ef5176bdefcf7b3588037ee7487f3efb195a3698fc3447cb7c74",
+    "snippet": "Loading configuration from '.swiftlint.yml' \n Linting 'File.swift' (1/1) \n /Users/jmarbach/ios/test/File.swift:1:5: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon) \n Done linting! Found 1 violation, 0 serious in 1 file."
+  },
+  {
+    "rank": 10,
+    "id": "msg_0f681f412629789ddc49ce990857466d472fa478ca6f63b22b7a9fee9e575615",
+    "score": 167.17305,
+    "link": "https://github.com/realm/SwiftLint/pull/847",
+    "source": "github",
+    "origin_doc_id": "85f106e5f280dfe54c293942ae0c1fabe39b0d07bfd1da3288c5393227efebc3",
+    "snippet": "warning: Attributes Violation: Attributes should be on their own lines in functions and types, but on the same line as variables and imports. (attributes_rule) \n /Users/username_0/Downloads/realm-cocoa-2.1.1/RealmSwift/Object.swift:291:19: warning: Attributes Violation: Attributes should be on their own lines in functions and types, but on the same line as variables and imports. (attributes_rule) \n /Users/username_0/Downloads/realm-cocoa-2.1.1/RealmSwift/Object.swift:295:19: warning: Attributes Violation: Attributes should be on their own lines in functions and types, but on the same line as variables and imports. (attributes_rule) \n /Users/username_0/Downloads/realm-cocoa-2.1.1/RealmSwift/Object.swift:302:19: warning: Attributes Violation: Attributes should be on their own lines in functions and types, but on the same line as variables and imports. (attributes_rule) \n /Users/username_0/Downloads/realm-cocoa-2.1.1/RealmSwift/Object.swift:309:19: warning: Attributes Violation: Attributes should be on their own lines in functions and types, but on the same line as variables and imports. (attributes_rule) \n /Users/username_0/Downloads/realm-cocoa-2.1.1/RealmSwift/Object.swift:315:19: warning: Attributes Violation: Attributes should be on their own lines in functions and types, but on the same line as variables and imports. (attributes_rule) \n /Users/username_0/Downloads/realm-cocoa-2.1.1/RealmSwift/Object.swift:324:19: warning: Attributes Violation: Attributes should be on their own lines in functions and types, but on the same line\n/Users/username_0/Downloads/realm-cocoa-2.1.1/RealmSwift/Object.swift:360:19: warning: Attributes Violation: Attributes should be on their own lines in functions and types, but on the same line as variables and imports. (attributes_rule) \n /Users/username_0/Downloads/realm-cocoa-2.1.1/RealmSwift/Object.swift:365:19: warning: Attributes Violation: Attributes should be on their own lines in functions and types, but on the same line as variables and imports. (attributes_rule) \n /Users/username_0/Downloads/realm-cocoa-2.1.1/Realm/Swift/RLMSupport.swift:23:25: warning: Attributes Violation: Attributes should be on their own lines in functions and types, but on the same line as variables and imports. (attributes_rule)"
+  }
+]

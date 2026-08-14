@@ -1,0 +1,33 @@
+{
+  "case_id": "18",
+  "summary_raw": "[\"binding to port\",\"Reading snapshot\",\"Have smaller server identifier\",\"dropping the connection\",\"Received connection request\"]",
+  "summary_items": [
+    "binding to port",
+    "Reading snapshot",
+    "Have smaller server identifier",
+    "dropping the connection",
+    "Received connection request"
+  ],
+  "group_logs_lines": [
+    "INFO binding to port 0.0.0.0/0.0.0.0 : 2181",
+    "INFO tickTime set to 2000",
+    "INFO minSessionTimeout set to -1",
+    "INFO maxSessionTimeout set to -1",
+    "INFO initLimit set to 10",
+    "INFO Reading snapshot /var/lib/zookeeper/version-2/snapshot.700000000",
+    "INFO My election bind port : 0.0.0.0/0.0.0.0 : 3888",
+    "2015-08-07 07 : 27 : 47 , 409 - INFO [ QuorumPeer [ myid = 1 ] /0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 2181 : QuorumPeer@670 ] - LOOKING",
+    "INFO New election. My id = 1 , proposed zxid = 0x700000197",
+    "INFO Notification : 1 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 1 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )",
+    "INFO Have smaller server identifier , so dropping the connection : ( 2 , 1 )",
+    "INFO Received connection request /10.10.34.12 : 32910",
+    "INFO Have smaller server identifier , so dropping the connection : ( 3 , 1 )",
+    "INFO Received connection request /10.10.34.13 : 38671",
+    "INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 2 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )",
+    "INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 1 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )",
+    "INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , FOLLOWING ( n.state ) , 2 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )",
+    "INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 3 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )",
+    "INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LEADING ( n.state ) , 3 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )",
+    "INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , FOLLOWING ( n.state ) , 2 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )"
+  ]
+}

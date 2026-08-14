@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_6f5276d11969f9388296c51400b39ed99c8174b6dca70295440388ac4176cd2c",
+    "score": 25.41761,
+    "link": "https://stackoverflow.com/questions/11204437",
+    "source": "so",
+    "origin_doc_id": "50856cf2c71359318ed572fff68ce9576347a8233bc22e7b705f4c608ae8e893",
+    "snippet": "8 Jun 09:01:54 ntpd[7688]: kernel time sync status change 4001     \n  8 Jun 09:18:57 ntpd[7688]: kernel time sync status change 0001     \n  8 Jun 09:53:08 ntpd[7688]: kernel time sync status change 4001     \n  8 Jun 10:10:14 ntpd[7688]: kernel time sync status change 0001     \n  8 Jun 12:26:45 ntpd[7688]: kernel time sync status change 4001     \n  8 Jun 12:43:51 ntpd[7688]: kernel time sync status change 0001     \n  8 Jun 14:43:19 ntpd[7688]: kernel time sync status change 4001     \n 8 Jun 15:00:23 ntpd[7688]: kernel time sync status change 0001    \n 8 Jun 16:25:45 ntpd[7688]: kernel time sync status change 4001    \n 8 Jun 16:42:49 ntpd[7688]: kernel time sync status change 0001    \n 8 Jun 17:16:59 ntpd[7688]: kernel time sync status change 4001    \n 8 Jun 17:34:05 ntpd[7688]: kernel time sync status change 0001    \n 8 Jun 19:16:30 ntpd[7688]: kernel time sync status change 4001    \n 8 Jun 19:33:33 ntpd[7688]: kernel time sync status change 0001    \n 8 Jun 20:59:28 ntpd[7688]: synchronized to LOCAL(0), stratum 10    \n 8 Jun 21:17:43 ntpd[7688]: synchronized to 172.16.33.74, stratum 3    \n **8 Jun 21:33:19 ntpd[7688]: time reset -33.667071 s**    \n 8 Jun 21:37:36 ntpd[7688]: synchronized to LOCAL(0), stratum 10    \n 8 Jun 21:38:40 ntpd[7688]: synchronized to 172.16.33.74, stratum 3    \n 9 Jun 10:56:38 ntpd[7688]: kernel time sync status change 4001    \n 9 Jun 11:13:41 ntpd[7688]: kernel time sync status change 0001    \n 9 Jun 12:04:56 ntpd[7688]: kernel time sync status change 4001    \n 9 Jun 13:47:20 ntpd[7688]: kernel time sync status change 0001    \n 9 Jun 14:21:31 ntpd[7688]: kernel time sync status change 4001    \n 9 Jun 14:38:37 ntpd[7688]: kernel time sync status change 0001    \n 9 Jun 20:11:40 ntpd[7688]: kernel time sync status change 4001    \n 9 Jun 20:45:48 ntpd[7688]: kernel time sync status change 0001    \n 9 Jun 21:03:40 ntpd[7688]: synchronized to LOCAL(0), stratum 10    \n 9 Jun 21:21:35 ntpd[7688]: synchronized to 172.16.33.74, stratum 3    \n **9 Jun 21:54:16 ntpd[7688]: time reset -35.209243 s**    \n 9 Jun 21:57:54 ntpd[7688]: synchronized to LOCAL(0), stratum 10    \n 9 Jun 21:59:00 ntpd[7688]: synchronized to 172.16.33.74, stratum 3    \n10 Jun 20:57:04 ntpd[7688]: synchronized to LOCAL(0), stratum 10    \n10 Jun 21:03:59 ntpd[7688]: synchronized to 172.16.33.74, stratum 3    \n**10 Jun 21:18:25 ntpd[7688]: time reset -36.757260 s**    \n10 Jun 21:21:45 ntpd[7688]: synchronized to LOCAL(0), stratum 10    \n10 Jun 21:23:52 ntpd[7688]: synchronized to 172.16.33.74, stratum 3    \n11 Jun 21:07:25 ntpd[7688]: synchronized to LOCAL(0), stratum 10    \n11 Jun 21:24:25 ntpd[7688]: synchronized to 172.16.33.74, stratum 3    \n**11 Jun 21:40:52 ntpd[7688]: time reset -38.305589 s**    \n11 Jun 21:44:29 ntpd[7688]: synchronized to LOCAL(0), stratum 10    \n11 Jun 21:45:33 ntpd[7688]: synchronized to 172.16.33.74, stratum 3    \n12 Jun 08:37:43 ntpd[7688]: kernel time sync status change 4001    \n12 Jun 08:50:34 ntpd[7688]: kernel time sync status change 0001    \n12 Jun 21:01:10 ntpd[7688]: synchronized to LOCAL(0), stratum 10    \n12 Jun 21:07:53 ntpd[7688]: synchronized to 172.16.33.74, stratum 3  \n**12 Jun 21:22:13 ntpd[7688]: time reset -39.854883 s**  \n12 Jun 21:26:19 ntpd[7688]: synchronized to LOCAL(0), stratum 10  \n12 Jun 21:27:23 ntpd[7688]: synchronized to 172.16.33.74, stratum 3  \n13 Jun 02:26:51 ntpd[7688]: kernel time sync status change 4001  \n13 Jun 04:43:29 ntpd[7688]: kernel time sync status change 0001  \n13 Jun 05:34:43 ntpd[7688]: kernel time sync status change 4001  \n13 Jun 06:25:57 ntpd[7688]: kernel time sync status change 0001  \n13 Jun 07:34:16 ntpd[7688]: kernel time sync status change 4001  \n13 Jun 07:51:21 ntpd[7688]: kernel time sync status change 0001  \n13 Jun 13:18:34 ntpd[7688]: ntpd exiting on signal 15  \n13 Jun 13:21:51 ntpd[6771]: synchronized to LOCAL(0), stratum 10  \n13 Jun 13:21:51 ntpd[6771]: kernel time sync status change 0001  \n13 Jun 13:23:57 ntpd[6771]: synchronized to 172.16.33.74, stratum 3  \n13 Jun 21:10:58 ntpd[6771]: synchronized to LOCAL(0), stratum 10  \n13 Jun 21:27:09 ntpd[6771]: synchronized to 172.16.33.74, stratum 3  \n**13 Jun 22:00:28 ntpd[6771]: time reset -41.396780 s**  \n13 Jun 22:00:28 ntpd[6771]: kernel time sync status change 4001  \n13 Jun 22:04:38 ntpd[6771]: synchronized to LOCAL(0), stratum 10  \n13 Jun 22:04:38 ntpd[6771]: kernel time sync status change 0001  \n13 Jun 22:05:44 ntpd[6771]: synchronized to 172.16.33.74, stratum 3  \n14 Jun 04:09:19 ntpd[6771]: kernel time sync status change 4001  \n14 Jun 04:43:27 ntpd[6771]: kernel time sync status change 0001  \n14 Jun 06:08:50 ntpd[6771]: kernel time sync status change 4001  \n14 Jun 06:25:55 ntpd[6771]: kernel time sync status change 0001  \n14 Jun 07:00:05 ntpd[6771]: kernel time sync status change 4001  \n14 Jun 07:51:19 ntpd[6771]: kernel time sync status change 0001  \n14 Jun 08:25:28 ntpd[6771]: kernel time sync status change 4001  \n14 Jun 08:42:31 ntpd[6771]: kernel time sync status change 0001  \n14 Jun 10:59:05 ntpd[6771]: kernel time sync status change 4001  \n14 Jun 11:16:11 ntpd[6771]: kernel time sync status change 0001  \n14 Jun 12:24:27 ntpd[6771]: kernel time sync status change 4001  \n14 Jun 12:33:00 ntpd[6771]: kernel time sync status change 0001  \n14 Jun 16:40:51 ntpd[6771]: kernel time sync status change 4001  \n14 Jun 16:57:55 ntpd[6771]: kernel time sync status change 0001  \n14 Jun 17:49:11 ntpd[6771]: kernel time sync status change 4001  \n14 Jun 18:57:29 ntpd[6771]: kernel time sync status change 0001  \n14 Jun 19:31:38 ntpd[6771]: kernel time sync status change 4001  \n14 Jun 19:40:10 ntpd[6771]: kernel time sync status change 0001  \n14 Jun 20:56:52 ntpd[6771]: synchronized to LOCAL(0), stratum 10  \n14 Jun 21:03:37 ntpd[6771]: synchronized to 172.16.33.74, stratum 3  \n**14 Jun 21:16:53 ntpd[6771]: time reset -42.943002 s**  \n14 Jun 21:20:34 ntpd[6771]: synchronized to LOCAL(0), stratum 10  \n14 Jun 21:21:39 ntpd[6771]: synchronized to 172.16.33.74, stratum 3  \n15 Jun 04:57:42 ntpd[6771]: kernel time sync status change 4001  \n15 Jun 05:14:47 ntpd[6771]: kernel time sync status change 0001  \n15 Jun 06:23:10 ntpd[6771]: kernel time sync status change 4001  \n15 Jun 06:57:17 ntpd[6771]: kernel time sync status change 0001  \n15 Jun 09:13:47 ntpd[6771]: kernel time sync status change 4001  \n15 Jun 11:13:19 ntpd[6771]: kernel time sync status change 0001  \n15 Jun 12:04:32 ntpd[6771]: kernel time sync status change 4001  \n15 Jun 12:21:38 ntpd[6771]: kernel time sync status change 0001  \n15 Jun 13:12:54 ntpd[6771]: kernel time sync status change 4001  \n15 Jun 13:55:37 ntpd[6771]: kernel time sync status change 0001  \n15 Jun 15:55:11 ntpd[6771]: kernel time sync status change 4001  \n15 Jun 16:12:14 ntpd[6771]: kernel time sync status change 0001  \n15 Jun 20:59:18 ntpd[6771]: synchronized to LOCAL(0), stratum 10  \n15 Jun 21:21:16 ntpd[6771]: synchronized to 172.16.33.74, stratum 3  \n15 Jun 21:54:18 ntpd[6771]: time reset -44.484272 s  \n15 Jun 21:58:27 ntpd[6771]: synchronized to LOCAL(0), stratum 10  \n15 Jun 21:59:30 ntpd[6771]: synchronized to 172.16.33.74, stratum 3  \n16 Jun 03:53:30 ntpd[6771]: kernel time sync status change 4001  \n16 Jun 04:44:45 ntpd[6771]: kernel time sync status change 0001  \n16 Jun 05:53:03 ntpd[6771]: kernel time sync status change 4001  \n16 Jun 07:01:18 ntpd[6771]: kernel time sync status change 0001  \n16 Jun 08:26:43 ntpd[6771]: kernel time sync status change 4001  \n16 Jun 08:43:49 ntpd[6771]: kernel time sync status change 0001  \n16 Jun 09:35:06 ntpd[6771]: kernel time sync status change 4001  \n16 Jun 09:52:09 ntpd[6771]: kernel time sync status change 0001  \n16 Jun 10:26:19 ntpd[6771]: kernel time sync status change 4001  \n16 Jun 11:00:27 ntpd[6771]: kernel time sync status change 0001  \n16 Jun 11:34:37 ntpd[6771]: kernel time sync status change 4001  \n16 Jun 11:51:41 ntpd[6771]: kernel time sync status change 0001  \n16 Jun 12:42:59 ntpd[6771]: kernel time sync status change 4001  \n16 Jun 13:00:03 ntpd[6771]: kernel time sync status change 0001  \n16 Jun 14:25:25 ntpd[6771]: kernel time sync status change 4001  \n16 Jun 15:16:39 ntpd[6771]: kernel time sync status change 0001  \n16 Jun 16:24:57 ntpd[6771]: kernel time sync status change 4001  \n16 Jun 17:16:09 ntpd[6771]: kernel time sync status change 0001  \n16 Jun 18:58:35 ntpd[6771]: kernel time sync status change 4001  \n16 Jun 19:15:40 ntpd[6771]: kernel time sync status change 0001  \n16 Jun 20:59:36 ntpd[6771]: synchronized to LOCAL(0), stratum 10  \n16 Jun 21:16:46 ntpd[6771]: synchronized to 172.16.33.74, stratum 3  \n16 Jun 21:49:33 ntpd[6771]: time reset -46.023214 s  \n16 Jun 21:52:53 ntpd[6771]: synchronized to LOCAL(0), stratum 10  \n16 Jun 21:53:57 ntpd[6771]: synchronized to 172.16.33.74, stratum 3  \n17 Jun 03:12:33 ntpd[6771]: kernel time sync status change 4001  \n17 Jun 03:29:36 ntpd[6771]: kernel time sync status change 0001  \n17 Jun 04:20:49 ntpd[6771]: kernel time sync status change 4001  \n17 Jun 05:12:01 ntpd[6771]: kernel time sync status change 0001  \n17 Jun 07:28:37 ntpd[6771]: kernel time sync status change 4001  \n17 Jun 08:02:43 ntpd[6771]: kernel time sync status change 0001  \n17 Jun 09:28:07 ntpd[6771]: kernel time sync status change 4001  \n17 Jun 10:02:13 ntpd[6771]: kernel time sync status change 0001  \n17 Jun 11:10:31 ntpd[6771]: kernel time sync status change 4001  \n17 Jun 11:27:36 ntpd[6771]: kernel time sync status change 0001  \n17 Jun 17:01:37 ntpd[6771]: kernel time sync status change 4001  \n17 Jun 17:18:42 ntpd[6771]: kernel time sync status change 0001  \n17 Jun 20:09:32 ntpd[6771]: kernel time sync status change 4001  \n17 Jun 21:01:48 ntpd[6771]: synchronized to LOCAL(0), stratum 10  \n17 Jun 21:01:48 ntpd[6771]: kernel time sync status change 0001  \n17 Jun 21:19:34 ntpd[6771]: synchronized to 172.16.33.74, stratum 3  \n17 Jun 21:52:12 ntpd[6771]: time reset -47.573538 s  \n17 Jun 21:56:07 ntpd[6771]: synchronized to LOCAL(0), stratum 10  \n17 Jun 21:57:11 ntpd[6771]: synchronized to 172.16.33.74, stratum 3  \n18 Jun 20:59:25 ntpd[6771]: synchronized to LOCAL(0), stratum 10  \n18 Jun 21:24:16 ntpd[6771]: synchronized to 172.16.33.74, stratum 3  \n18 Jun 21:40:42 ntpd[6771]: time reset -49.122802 s  \n18 Jun 21:44:59 ntpd[6771]: synchronized to LOCAL(0), stratum 10  \n18 Jun 21:46:03 ntpd[6771]: synchronized to 172.16.33.74, stratum 3  \n19 Jun 09:30:18 ntpd[6771]: kernel time sync status change 4001  \n19 Jun 11:12:46 ntpd[6771]: kernel time sync status change 0001  \n19 Jun 11:46:55 ntpd[6771]: kernel time sync status change 4001  \n19 Jun 12:38:10 ntpd[6771]: kernel time sync status change 0001  \n19 Jun 14:03:33 ntpd[6771]: kernel time sync status change 4001  \n19 Jun 14:20:36 ntpd[6771]: kernel time sync status change 0001  \n19 Jun 15:11:48 ntpd[6771]: kernel time sync status change 4001  \n19 Jun 15:45:55 ntpd[6771]: kernel time sync status change 0001  \n19 Jun 16:20:04 ntpd[6771]: kernel time sync status change 4001  \n19 Jun 16:37:08 ntpd[6771]: kernel time sync status change 0001  \n19 Jun 17:11:19 ntpd[6771]: kernel time sync status change 4001  \n19 Jun 17:28:24 ntpd[6771]: kernel time sync status change 0001  \n19 Jun 19:36:29 ntpd[6771]: kernel time sync status change 4001   \n 19 Jun 19:53:33 ntpd[6771]: kernel time sync status change 0001   \n 19 Jun 21:02:58 ntpd[6771]: synchronized to LOCAL(0), stratum 10   \n 19 Jun 21:20:53 ntpd[6771]: synchronized to 172.16.33.74, stratum 3   \n 19 Jun 21:37:16 ntpd[6771]: time reset -50.669270 s   \n 19 Jun 21:41:34 ntpd[6771]: synchronized to LOCAL(0), stratum 10   \n 19 Jun 21:42:07 ntpd[6771]: synchronized to 172.16.33.74, stratum 3"
+  },
+  {
+    "rank": 2,
+    "id": "msg_a95c974d963e97094e272de09570f932287813789b8feb265f356fa5736c2d53",
+    "score": 22.439497,
+    "link": "https://github.com/doitsujin/dxvk/issues/853",
+    "source": "github",
+    "origin_doc_id": "e3622dea69ebc1ceb629d6049e0d3afbe5dc9cd2fcb504a17d77878fb2a7424a",
+    "snippet": "`err:   DxvkImage::DxvkImage: Failed to bind device memory` \n   - `err:   DxvkMemoryAllocator: Memory allocation failed` \n   - `err:   DxvkSubmissionQueue: Failed to sync fence: VK_ERROR_DEVICE_LOST` \n warn:  DXVK: No matching border color found for (1e+10,1e+10,1e+10,1e+10) \n     0041:trace:nvapi:nvapi_QueryInterface (7aaf7a04) \n     0041:trace:nvapi:NvAPI_D3D11_SetDepthBoundsTest (0x7bbfb6a4, 0, 0.000000, 1.000000): stub \n 0041:trace:nvapi:NvAPI_D3D11_SetDepthBoundsTest (0x7bbfb6a4, 1, 0.000000, 1.000000): stub"
+  },
+  {
+    "rank": 3,
+    "id": "msg_e053168b56b637a2534720a084715efbdce8edd3f5b1fe54320c71b3eab77785",
+    "score": 21.377731,
+    "link": "https://github.com/home-assistant/home-assistant/pull/11891",
+    "source": "github",
+    "origin_doc_id": "1d9016b77e8158a84987fab728fabc249da9331661f8c61fcd451e9d5b66fb2b",
+    "snippet": "0016 0016 0016 0016 0016 0016 0016 0016 0041 0016 0041 0016 0041 0016 0041 0016 0041 0016 0041 0016 0041 0016 0016 0016 0016 0016 0041 0016 0016 0016 0041 0016 0016 0016 0016 0016 0016 0016 0016 0016 0041 0016 0016 0016 0041 0016 0016 0016 0041 0016 0041 0016 0041 0016 0041 0016 0622 015B 0057 0016 0E6C:4\""
+  },
+  {
+    "rank": 4,
+    "id": "msg_16b7273ec6da920c54a51552086c23f700be62088bad5ad79ad16b4d8fc2e418",
+    "score": 20.963383,
+    "link": "https://github.com/kiwi-cam/homebridge-broadlink-rm/issues/122",
+    "source": "github",
+    "origin_doc_id": "5319edc778b98bc45832d70ffb4f1bd95785afc49a8e384cfe9e35862068a371",
+    "snippet": "```0000 006C 0000 0022 00AD 00AD 0016 0041 0016 0041 0016 0041 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0041 0016 0041 0016 0041 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0041 0016 0041 0016 0016 0016 0041 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0041 0016 0016 0016 0041 0016 0041 0016 0041 0016 0041 0016 06FB```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_b7c10cdf695dc34ee0e75bc32d95bb081dc0ed412a5dbb7a2ef58734efb863be",
+    "score": 20.752184,
+    "link": "https://github.com/home-assistant/home-assistant/pull/11891",
+    "source": "github",
+    "origin_doc_id": "1d9016b77e8158a84987fab728fabc249da9331661f8c61fcd451e9d5b66fb2b",
+    "snippet": "2018-01-30 23:51:04 ERROR (SyncWorker_0) [homeassistant.components.remote.xiaomi_miio] Transmit of IR command failed, 0000 006C 0022 0002 015B 00AD 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0016 0041 0016 0041 0016 0041 0016 0041 0016 0041 0016 0041 0016 0041 0016 0016 0016 0016 0016 0041 0016 0016 0016 0041 0016 0016 0016 0016 0016 0016 0016 0016 0016 0041 0016 0016 0016 0041 0016 0016 0016 0041 0016 0041 0016 0041 0016 0041 0016 0622 015B 0057 0016 0E6C:4, exception: Invalid command type \n ```"
+  },
+  {
+    "rank": 6,
+    "id": "msg_530d764d17f3a22bc5c20734845eecd86c8094a25509baf3cf987b638e3420f2",
+    "score": 20.596056,
+    "link": "https://github.com/xenko3d/xenko/issues/23",
+    "source": "github",
+    "origin_doc_id": "e5a8632ae6d717d11b512aa28db75968caa48dab46fd3a6c9a7986ee89e1d55b",
+    "snippet": "RequestId:882a6859-701e-0041-4718-2b1846000000 \n Time:2018-08-03T10:58:02.7015548Z</Message></Error>"
+  },
+  {
+    "rank": 7,
+    "id": "msg_58889536f5541edcbf2946504c2344a108cb2806631624b122e7b32c3eb1ba4a",
+    "score": 19.915771,
+    "link": "https://github.com/MicrosoftDocs/edge-developer/issues/1259",
+    "source": "github",
+    "origin_doc_id": "1aad11a2aed60af4b2d4edadacae41c43fc6606eb73b364c23c93eaf303a7b86",
+    "snippet": "specified blob does not exist. RequestId:d7abbb19-901e-0041-0b08-53a97e000000 Time:2021-05-27T14:58:30.3074248Z</Message>"
+  },
+  {
+    "rank": 8,
+    "id": "msg_052e695b48b32478e933978666136dc9c9153007bf67f01d9d9e63ca1b903072",
+    "score": 19.723392,
+    "link": "https://github.com/widdix/aws-s3-virusscan/issues/32",
+    "source": "github",
+    "origin_doc_id": "229f82019301e5c4e0ab2e0dd61ad0dfb73ce92ae5d74d3136c2efc47fa5711d",
+    "snippet": "10:11:52\nMar 12 10:11:52 ip-10-0-8-122 ntpd[2638]: 0.0.0.0 c01d 0d kern kernel time sync enabled"
+  },
+  {
+    "rank": 9,
+    "id": "msg_5decfbbc1dace466287c3defb1dacc92715dc3167e081d41fe04e2f76084aa93",
+    "score": 19.706442,
+    "link": "https://github.com/OpenROV/openrov-cockpit/pull/110",
+    "source": "github",
+    "origin_doc_id": "4523f1f8115f53d30f560351d1a405e83bca6d3054184e0060de17e98f695d81",
+    "snippet": "Jul 28 22:48:55 openrov kernel: [  523.063044] Dropping payload (out of sync). \n Jul 28 22:48:55 openrov kernel: [  523.063051] Dropping payload (out of sync). \nJul 28 22:48:55 openrov kernel: [  523.063058] Dropping payload (out of sync). \n Jul 28 22:48:55 openrov kernel: [  523.063067] Dropping payload (out of sync). \n Jul 28 22:48:55 openrov kernel: [  523.066924] Dropping payload (out of sync). \n Jul 28 22:48:55 openrov kernel: [  523.066945] Dropping payload (out of sync)."
+  },
+  {
+    "rank": 10,
+    "id": "msg_b97035fa690ea0840c6fc96e5ff3b669bd0b3c8fb0a59d8f081460eff4213b1a",
+    "score": 19.545736,
+    "link": "https://github.com/rr-debugger/rr/issues/3089",
+    "source": "github",
+    "origin_doc_id": "b9680b2a1b90fcfd9889916d05dbe1ae1a54f922e4c39ee3cbd7efbd700348f2",
+    "snippet": "[FATAL /home/zyh/rr/src/AddressSpace.cc:266:find_syscall_instruction()]  \n  (task 44558 (rec:44558) at time 14) \n  -> Assertion `has_vdso()' failed to hold. Kernel with vDSO disabled? \n ```"
+  }
+]

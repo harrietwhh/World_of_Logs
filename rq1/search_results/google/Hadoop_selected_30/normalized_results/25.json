@@ -1,0 +1,58 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Hadoop/Hadoop_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Hadoop/Hadoop_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Hadoop",
+    "snippet": "... job.impl.JobImpl: Input size for job job_1445144423722_0020 = 1256521728. Number of splits = 10 2015-10-18 18:01:51,650 INFO [main] org.apache.hadoop ...",
+    "snippet_highlighted_words": [
+      "Input size for job job_1445144423722_0020 = 1256521728"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Aliph0th/logtheus-ml-ds · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/Aliph0th/logtheus-ml-ds/viewer/default/train?p=1",
+    "displayed_link": "https://huggingface.co › datasets › viewer › default › train",
+    "snippet": "... job.impl.JobImpl: Input size for job job_1445144423722_0020 = 1256521728. Number of splits = 10. [ { \"start\": 0, \"end\": 23, \"label\": \"timestamp\" }, { \"start ...",
+    "snippet_highlighted_words": [
+      "Input size for job job_1445144423722_0020 = 1256521728"
+    ],
+    "source": "Hugging Face",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "loghub/Hadoop/Hadoop_2k.log_structured.csv at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Hadoop/Hadoop_2k.log_structured.csv",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Hadoop",
+    "snippet": "A large collection of system log datasets for AI-driven log analytics [ISSRE'23] - loghub/Hadoop/Hadoop_2k.log_structured.csv at master · logpai/loghub.",
+    "snippet_highlighted_words": [],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Number of splits in a MapReduce job - hadoop",
+    "link": "https://stackoverflow.com/questions/38920035/number-of-splits-in-a-mapreduce-job",
+    "displayed_link": "1 answer · 9 years ago",
+    "snippet": "5 block each of size 128MB where as last block will contain data of size ~7.47KB. Explanation: The blocks are divided based on the size you have ...",
+    "snippet_highlighted_words": [
+      "size",
+      "size",
+      "size"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

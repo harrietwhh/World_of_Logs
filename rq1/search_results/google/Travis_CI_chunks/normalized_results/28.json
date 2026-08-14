@@ -1,0 +1,149 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Ruby on Rails , No Rakefile found error",
+    "link": "https://stackoverflow.com/questions/18452701/ruby-on-rails-no-rakefile-found-error",
+    "displayed_link": "3 answers · 12 years ago",
+    "snippet": "I am trying to run rake routes command. But i get. Copy. rake aborted! No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile ...",
+    "snippet_highlighted_words": [
+      "rake aborted! No Rakefile found"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Rake aborted! on No Rakefile Found error - Rails",
+    "link": "https://www.ruby-forum.com/t/rake-aborted-on-no-rakefile-found-error/101516",
+    "displayed_link": "https://www.ruby-forum.com › rake-aborted-on-no-rak...",
+    "snippet": "On a command: rake db:migrate I get the “rake aborted!” error. The message is: No Rakefile found (looking for: rakefile, Rakefile, rakebile.rb, Rakefile.rb)",
+    "snippet_highlighted_words": [
+      "rake db:migrate"
+    ],
+    "source": "Ruby-Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "\"No Rakefile found\" upon running example command",
+    "link": "https://community.fly.io/t/no-rakefile-found-upon-running-example-command/6962",
+    "displayed_link": "https://community.fly.io › no-rakefile-found-upon-run...",
+    "snippet": "The reason why these commands don't work is that a number of Rails commands issue Rake commands on your behalf, and Rake looks for a Rakefile in your current ...",
+    "snippet_highlighted_words": [
+      "Rake",
+      "Rake looks",
+      "Rakefile"
+    ],
+    "source": "Fly.io",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "rake error causing job from Github to fail in Travis #8987",
+    "link": "https://github.com/travis-ci/travis-ci/issues/8987",
+    "displayed_link": "https://github.com › travis-ci › travis-ci › issues",
+    "snippet": "0.19s$ rake rake aborted! No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)",
+    "snippet_highlighted_words": [
+      "rake rake aborted! No Rakefile found"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "No Rakefile found when adding travis to a github project",
+    "link": "https://travis-ci.community/t/no-rakefile-found-when-adding-travis-to-a-github-project/3520",
+    "displayed_link": "https://travis-ci.community › no-rakefile-found-when-a...",
+    "snippet": "I'm trying to add travis to my github project, and the build fails with: $ rake rake aborted! No Rakefile found (looking for: rakefile, ...",
+    "snippet_highlighted_words": [
+      "rake aborted",
+      "No Rakefile found",
+      "looking for: rakefile"
+    ],
+    "source": "Travis CI Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "No Rakefile found (looking for - Ruby Mailing List Mirror",
+    "link": "https://rubytalk.org/t/no-rakefile-found-looking-for-rakefile-rakefile-rakefile-rb-rakefile-rb/68777",
+    "displayed_link": "https://rubytalk.org › no-rakefile-found-looking-for-ra...",
+    "snippet": "But now I am not being able to run it. I put the file `rakefile.rb`, under the directory as - /home/kirti/Ruby/Rake tasks/. kirti ...",
+    "snippet_highlighted_words": [
+      "rakefile",
+      "rb",
+      "Rake"
+    ],
+    "source": "rubytalk.org",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "katello-installer fails running foreman-rake db:seed",
+    "link": "https://projects.theforeman.org/issues/13598",
+    "displayed_link": "https://projects.theforeman.org › issues",
+    "snippet": "rake aborted! No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb). (See full trace by running task with ...",
+    "snippet_highlighted_words": [
+      "rake aborted! No Rakefile found"
+    ],
+    "source": "TheForeman",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Need help in understanding rake behavior : r/ruby",
+    "link": "https://www.reddit.com/r/ruby/comments/19do65p/need_help_in_understanding_rake_behavior/",
+    "displayed_link": "2 comments · 2 years ago",
+    "snippet": "I am new to rake and trying to understand how can I disable an implict rule that matches any valid directory. # No rakefile.",
+    "snippet_highlighted_words": [
+      "rake",
+      "No rakefile"
+    ],
+    "source": "Reddit · r/ruby",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Re: Rake aborted! on No Rakefile Found error",
+    "link": "https://groups.google.com/g/rubyonrails-talk/c/_KGFLIhy0AM",
+    "displayed_link": "https://groups.google.com › rubyonrails-talk",
+    "snippet": "> Checking my setup, I see that Rakefile.rb is in the expected path. > > Why can't rake see Rakefile.rb, and how do I correct this problem?",
+    "snippet_highlighted_words": [
+      "Rakefile.rb is in the expected path"
+    ],
+    "source": "Google Groups",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Full Text Bug Listing - Bugzilla - Red Hat",
+    "link": "https://bugzilla.redhat.com/show_bug.cgi?id=994326",
+    "displayed_link": "https://bugzilla.redhat.com › show_bug",
+    "snippet": "Bug 994326. Summary: Fatal Installation Error: rake not found. Product: Red Hat Satellite, Reporter: Mike McCune < ...",
+    "snippet_highlighted_words": [
+      "rake not found"
+    ],
+    "source": "Red Hat Bugzilla",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

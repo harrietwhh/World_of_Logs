@@ -1,0 +1,149 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Failed password from invalid user accepted? - ssh",
+    "link": "https://askubuntu.com/questions/1195367/failed-password-from-invalid-user-accepted",
+    "displayed_link": "https://askubuntu.com › questions › failed-password-fro...",
+    "snippet": "The server is logging that the user name accepted is invalid. Try to log in with another user name and look at the logs.",
+    "snippet_highlighted_words": [
+      "user",
+      "invalid",
+      "user"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "sshd attacks - failed passwords",
+    "link": "https://www.linuxquestions.org/questions/linux-security-4/sshd-attacks-failed-passwords-493240/",
+    "displayed_link": "https://www.linuxquestions.org › linux-security-4 › sshd-...",
+    "snippet": "If you have any problems with the registration process or your account login, please contact us. If you need to reset your password, click here.",
+    "snippet_highlighted_words": [
+      "password"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "\"Failed password\" and \"Invalid user\" - Secure Shell Server",
+    "link": "https://superuser.com/questions/1369630/failed-password-and-invalid-user-secure-shell-server",
+    "displayed_link": "https://superuser.com › questions › failed-password-and-...",
+    "snippet": "When I try to access the server with PuTTY the error \"access denied\" is shown. The server log says \"failed password\" and \"invalid user\".",
+    "snippet_highlighted_words": [
+      "failed password",
+      "invalid user"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "SSH Failed password login - log password",
+    "link": "https://serverfault.com/questions/636412/ssh-failed-password-login-log-password",
+    "displayed_link": "https://serverfault.com › questions › ssh-failed-password...",
+    "snippet": "I was wondering if it is possible to ask SSH to log the password they tried as well as the username.",
+    "snippet_highlighted_words": [
+      "password"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "\"Failed password for root\" SSH login hacking attemp?",
+    "link": "https://www.reddit.com/r/hetzner/comments/13w21j5/failed_password_for_root_ssh_login_hacking_attemp/",
+    "displayed_link": "20+ comments · 2 years ago",
+    "snippet": "I was under a barrage of failed SSH login attempts across all my servers. The attacks were relentless and commenced as soon as my servers went live.",
+    "snippet_highlighted_words": [
+      "failed"
+    ],
+    "source": "Reddit · r/hetzner",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Failed password for invalid user | TrueNAS Community",
+    "link": "https://www.truenas.com/community/threads/failed-password-for-invalid-user.69652/",
+    "displayed_link": "https://www.truenas.com › community › threads › failed...",
+    "snippet": "You clearly have a port forward enabled for SSH. Turn off port forward to TCP port 22 (SSH) and the problem will go away.",
+    "snippet_highlighted_words": [
+      "port",
+      "port",
+      "port"
+    ],
+    "source": "truenas.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "auth log filled with \"Failed password for invalid user ...",
+    "link": "https://stackoverflow.com/questions/28996073/auth-log-filled-with-failed-password-for-invalid-user-user-from-127-0-0-1-por",
+    "displayed_link": "11 years ago",
+    "snippet": "Failed password for invalid user [user] from 127.0.0.1 port [port] with the [user] being my digital ocean account name and the [port] incrementing with each ...",
+    "snippet_highlighted_words": [
+      "Failed password for invalid user",
+      "port",
+      "port",
+      "port"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "What is this SSH attack, am I hacked?",
+    "link": "https://security.stackexchange.com/questions/188908/what-is-this-ssh-attack-am-i-hacked",
+    "displayed_link": "https://security.stackexchange.com › questions › what-is-...",
+    "snippet": "It's much, much more secure than a password. Change the SSH port. It creates another barrier to attackers and thwart most random scans.",
+    "snippet_highlighted_words": [
+      "password",
+      "port"
+    ],
+    "source": "Information Security Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "SSH failed login attempts",
+    "link": "https://forum.directadmin.com/threads/ssh-failed-login-attempts.22800/",
+    "displayed_link": "https://forum.directadmin.com › threads › ssh-failed-logi...",
+    "snippet": "Hi everyone, I've been experiencing failed login attempts over SSH for a long time. Massive amounts of these in my /var/log/secure (which, ...",
+    "snippet_highlighted_words": [
+      "failed"
+    ],
+    "source": "DirectAdmin Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Failed password for invalid user in /var/log/auth.log ?",
+    "link": "https://groups.google.com/g/beagleboard/c/QgPda_gSJ3g",
+    "displayed_link": "https://groups.google.com › beagleboard",
+    "snippet": "If that person is trying to log in with root from one of the latest image, they're going to get an error, which is possibly a PAM error.",
+    "snippet_highlighted_words": [],
+    "source": "Google Groups",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

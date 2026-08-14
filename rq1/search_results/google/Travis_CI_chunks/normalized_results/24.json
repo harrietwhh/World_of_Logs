@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "ChangeLog-SLE-15-SP3-GM-SLE- ...",
+    "link": "https://www.suse.com/c/wp-content/uploads/2022/04/ChangeLog-SLE-15-SP3-GM-SLE-15-SP4-Snapshot-202204-3.txt",
+    "displayed_link": "https://www.suse.com › wp-content › uploads › 2022/04",
+    "snippet": "%endif guards that do not affect the build result. - Write \"D-BUS\" per its own name, \"D-Bus\". - Replace FIXME PreReq with proper requires as needed ...",
+    "snippet_highlighted_words": [
+      "do not",
+      "build"
+    ],
+    "source": "SUSE",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "/srv/irclogs.ubuntu.com/2009/04/17/#ubuntu.txt",
+    "link": "https://irclogs.ubuntu.com/2009/04/17/%23ubuntu.html",
+    "displayed_link": "https://irclogs.ubuntu.com › 2009/04/17 › #ubuntu",
+    "snippet": "Failed to create FUse mount point, no such file or directory. 04:07 ... make: *** No rule to make target `install_local'. Stop ...",
+    "snippet_highlighted_words": [
+      "create",
+      "mount point",
+      "no such file",
+      "directory",
+      "make",
+      "*** No rule",
+      "make target",
+      "Stop"
+    ],
+    "source": "Ubuntu IRC Logs",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

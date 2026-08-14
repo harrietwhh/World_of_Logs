@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_96f6526172cc9a7366de59db455d330fe877321acd551dfd3a93a648381b7773",
+    "score": 62.359272,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:27,231 INFO [main] org.apache.hadoop.yarn.event.AsyncDispatcher: Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler"
+  },
+  {
+    "rank": 2,
+    "id": "msg_f921ec4962be6ed894733c2145451f51dcea7b1f0e75deb4dc4cbbbe31ae033c",
+    "score": 62.359272,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,490 INFO [main] org.apache.hadoop.yarn.event.AsyncDispatcher: Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler"
+  },
+  {
+    "rank": 3,
+    "id": "msg_e422cc9e0fe0dab4ec037ce1ddbe65f406a67b50183b51911b8f99e9f9f154b2",
+    "score": 62.359272,
+    "link": "https://stackoverflow.com/questions/37901108",
+    "source": "so",
+    "origin_doc_id": "ba4709846428a88a72c537c1e133da9fc3b8b42e8df5d88af3cadf791144e27f",
+    "snippet": "2016-06-18 19:14:33,067 INFO [main] org.apache.hadoop.yarn.event.AsyncDispatcher: Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler"
+  },
+  {
+    "rank": 4,
+    "id": "msg_6561f276bd931a0e8e7816556a5060fb2f16c561caa1338b4dfd9aef9bdf7018",
+    "score": 62.359272,
+    "link": "https://stackoverflow.com/questions/29075106",
+    "source": "so",
+    "origin_doc_id": "8804889924d3bb86586e2b967059d726e1328690ac16880f1a3ffbd69e9b1e96",
+    "snippet": "2015-03-16 11:46:52,868 INFO [main] org.apache.hadoop.yarn.event.AsyncDispatcher: Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler"
+  },
+  {
+    "rank": 5,
+    "id": "msg_42f96aba85dcc772adc3deb70c2e9de3b1f49a289017ac256051555be6f52099",
+    "score": 62.359272,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:24,895 INFO [main] org.apache.hadoop.yarn.event.AsyncDispatcher: Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler"
+  },
+  {
+    "rank": 6,
+    "id": "msg_39c48cf229fc497310af9dda0f17e42a5230cd97ac818e5f2a20d8cc87010eae",
+    "score": 62.359272,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:54,054 INFO [main] org.apache.hadoop.yarn.event.AsyncDispatcher: Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler"
+  },
+  {
+    "rank": 7,
+    "id": "msg_cb2eb4b7fa0ceab0cb3fead5b43277c2eaf00563dd2190e953198047c474cda1",
+    "score": 62.359272,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:40,260 INFO [main] org.apache.hadoop.yarn.event.AsyncDispatcher: Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler"
+  },
+  {
+    "rank": 8,
+    "id": "msg_3b947d25a05977880904de23c143786605fa1a88ea0526e7eed5003b1b3103d5",
+    "score": 62.359272,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:54,710 INFO [main] org.apache.hadoop.yarn.event.AsyncDispatcher: Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler"
+  },
+  {
+    "rank": 9,
+    "id": "msg_eddfad0879b7147f860365f89c9ee8cd2ef117b04b194e27cb40a416aa884150",
+    "score": 62.359272,
+    "link": "https://github.com/crs4/pydoop/issues/154",
+    "source": "github",
+    "origin_doc_id": "10efddefd4b8ea3b9e1d5f97d32e75c0c8263a8a5bd3426f0ec9092de77cc2f8",
+    "snippet": "2015-07-17 00:16:27,429 INFO [main] org.apache.hadoop.yarn.event.AsyncDispatcher: Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler"
+  },
+  {
+    "rank": 10,
+    "id": "msg_3c17c8a81182d00644b166eddf0180a53ddad9d4b4375408f57474405860da25",
+    "score": 62.359272,
+    "link": "https://stackoverflow.com/questions/49366285",
+    "source": "so",
+    "origin_doc_id": "bab7bd228140fbee7bf887a8ad9a2638f1894ba5dc8341321ccb79ce6cd0cf96",
+    "snippet": "2018-03-20 18:52:34,642 INFO [main] org.apache.hadoop.yarn.event.AsyncDispatcher: Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler"
+  }
+]

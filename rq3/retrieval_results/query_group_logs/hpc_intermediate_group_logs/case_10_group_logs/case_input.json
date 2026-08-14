@@ -1,0 +1,29 @@
+{
+  "case_id": "10",
+  "summary_raw": "[\"node has detected a failed network connection\"]",
+  "summary_items": [
+    "node has detected a failed network connection"
+  ],
+  "group_logs_lines": [
+    "unix.hw net.niff.down 1084271027 1 NIFF : node node-85 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271027 1 NIFF : node node-98 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-112 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-89 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-121 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-50 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-93 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-65 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-58 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-110 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-41 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-67 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-73 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-100 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-123 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-91 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271026 1 NIFF : node node-84 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271025 1 NIFF : node node-54 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271025 1 NIFF : node node-114 detected a failed network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.down 1084271025 1 NIFF : node node-118 detected a failed network connection on network 5.5.224.0 via interface alt0"
+  ]
+}

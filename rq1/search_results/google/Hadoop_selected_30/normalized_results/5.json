@@ -1,0 +1,143 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "hadoop - How to set OutputCommitter config?",
+    "link": "https://stackoverflow.com/questions/13796625/how-to-set-outputcommitter-config",
+    "displayed_link": "2 answers · 13 years ago",
+    "snippet": "I never figured out why I hit on the null pointer . Setting j.setConf(conf) also did not work . So I used runJob instead to get a handle on the ...",
+    "snippet_highlighted_words": [
+      "null",
+      "Setting"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Add null output · Issue #915 · influxdata/telegraf",
+    "link": "https://github.com/influxdata/telegraf/issues/915",
+    "displayed_link": "https://github.com › influxdata › telegraf › issues",
+    "snippet": "You can just do this: [[outputs.file]] files = [\"/dev/null\"] you can also specify just \"stdout\" to get it to print the metrics to the screen.",
+    "snippet_highlighted_words": [
+      "outputs.file]] files = [\"/dev/null"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Configuration - Spark 4.1.1 Documentation",
+    "link": "https://spark.apache.org/docs/latest/configuration.html",
+    "displayed_link": "https://spark.apache.org › docs › latest › configuration",
+    "snippet": "Spark provides three locations to configure the system: Spark properties control most application parameters and can be set by using a SparkConf object, or ...",
+    "snippet_highlighted_words": [
+      "configure",
+      "set"
+    ],
+    "source": "Apache Spark",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Solved: ERROR 1066: Unable to open iterator for alias- PIG",
+    "link": "https://community.cloudera.com/t5/Support-Questions/ERROR-1066-Unable-to-open-iterator-for-alias-PIG/m-p/146281",
+    "displayed_link": "https://community.cloudera.com › Support-Questions",
+    "snippet": "I have been facing this issue from long time. I tried to solve this but i couldn't. I need some experts advice to solve this.",
+    "snippet_highlighted_words": [],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Null values preserved in configuration - .NET",
+    "link": "https://learn.microsoft.com/en-us/dotnet/core/compatibility/extensions/10.0/configuration-null-values-preserved",
+    "displayed_link": "https://learn.microsoft.com › Learn › .NET",
+    "snippet": "Learn about the breaking change in .NET 10 where configuration providers now preserve null values instead of treating them as missing ...",
+    "snippet_highlighted_words": [
+      "Learn about the breaking change in .NET 10"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Runtime Configuration - Manual",
+    "link": "https://www.php.net/manual/en/outcontrol.configuration.php",
+    "displayed_link": "https://www.php.net › outcontrol.configuration.php",
+    "snippet": "Setting any output handler automatically turns on output buffering. Note: mb_output_handler() and ob_iconv_handler() cannot be used together and ob_gzhandler() ...",
+    "snippet_highlighted_words": [
+      "Setting"
+    ],
+    "source": "PHP",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Feature request: Allow to set value as null when n...",
+    "link": "https://community.databricks.com/t5/data-engineering/feature-request-allow-to-set-value-as-null-when-not-present-in/td-p/143502",
+    "displayed_link": "https://community.databricks.com › td-p",
+    "snippet": "I want to raise a feature request as follows. Currently, in the Automatic schema evolution for merge when a column is not present in the ...",
+    "snippet_highlighted_words": [],
+    "source": "Databricks",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Assign null when information not available in structured ...",
+    "link": "https://community.openai.com/t/assign-null-when-information-not-available-in-structured-outputs/907624",
+    "displayed_link": "https://community.openai.com › assign-null-when-infor...",
+    "snippet": "I'm currently experimenting with structured outputs using NodeJS SDK. Is there any way to assign a null value or to catch whenever information is not available?",
+    "snippet_highlighted_words": [
+      "assign a null value"
+    ],
+    "source": "OpenAI Developer Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Default null handling not working as expected for .NET ...",
+    "link": "https://github.com/RicoSuter/NSwag/issues/1523",
+    "displayed_link": "https://github.com › RicoSuter › NSwag › issues",
+    "snippet": "Hi there! Below is a screenshot of the setup in nswag studio. (essentially setting \"defaultReferenceTypeNullHandling\": \"NotNull\" in the ...",
+    "snippet_highlighted_words": [
+      "setup",
+      "setting"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "[#SPARK-21549] Spark fails to complete job correctly in ...",
+    "link": "https://issues.apache.org/jira/browse/SPARK-21549",
+    "displayed_link": "https://issues.apache.org › jira › browse › SPARK-21549",
+    "snippet": "But spark reads this property from the configuration while setting up an OutputCommitter val committer = FileCommitProtocol.instantiate ...",
+    "snippet_highlighted_words": [
+      "configuration",
+      "setting",
+      "OutputCommitter"
+    ],
+    "source": "Apache Software Foundation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

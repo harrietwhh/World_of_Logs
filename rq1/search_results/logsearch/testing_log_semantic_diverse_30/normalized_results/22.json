@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_66a1c4b5569d3c33efab07421cc3fb992c3d47fb74b9d368a147861ffddf78b1",
+    "score": 126.6353,
+    "link": "https://issues.apache.org/jira/browse/YARN-9541",
+    "source": "jira",
+    "origin_doc_id": "5f7cd33887237e82a77b2d7d9aff14c7bdd7235399725fa80b7e1e62bc28c7e7",
+    "snippet": "2019-05-09 12:38:27,200 INFO  [Time-limited test] delegation.AbstractDelegationTokenSecretManager (AbstractDelegationTokenSecretManager.java:updateCurrentKey(354)) - Updating the current master key for generating delegation tokens"
+  },
+  {
+    "rank": 2,
+    "id": "msg_d26513060763018ea48d1cc6264d91e7d2cb54aaeb3462de4ca6f732504403c5",
+    "score": 105.61981,
+    "link": "https://issues.apache.org/jira/browse/YARN-9541",
+    "source": "jira",
+    "origin_doc_id": "5f7cd33887237e82a77b2d7d9aff14c7bdd7235399725fa80b7e1e62bc28c7e7",
+    "snippet": "2019-05-09 12:38:27,217 INFO  [Thread[Thread-50,5,FailOnTimeoutGroup]] delegation.AbstractDelegationTokenSecretManager (AbstractDelegationTokenSecretManager.java:updateCurrentKey(354)) - Updating the current master key for generating delegation tokens"
+  },
+  {
+    "rank": 3,
+    "id": "msg_a93c0ea9a207cc6333edd5fba6f6bfcdaf3705ced4677189525191ab627c809e",
+    "score": 102.64632,
+    "link": "https://issues.apache.org/jira/browse/TAJO-26",
+    "source": "jira",
+    "origin_doc_id": "4ad0010b394a2c0308b153a88bc2a3f61c2716078897935c0932116015427d41",
+    "snippet": "2013-04-03 07:45:58,451 INFO  delegation.AbstractDelegationTokenSecretManager (AbstractDelegationTokenSecretManager.java:updateCurrentKey(153)) - Updating the current master key for generating delegation tokens"
+  },
+  {
+    "rank": 4,
+    "id": "msg_f8200d7a6192e34e44d25f29ab9455b140d195111a05a5f6bee8aed732d252e0",
+    "score": 102.64632,
+    "link": "https://issues.apache.org/jira/browse/TAJO-26",
+    "source": "jira",
+    "origin_doc_id": "4ad0010b394a2c0308b153a88bc2a3f61c2716078897935c0932116015427d41",
+    "snippet": "2013-04-03 07:45:58,497 INFO  delegation.AbstractDelegationTokenSecretManager (AbstractDelegationTokenSecretManager.java:updateCurrentKey(153)) - Updating the current master key for generating delegation tokens"
+  },
+  {
+    "rank": 5,
+    "id": "msg_dd7833b62e7ea7185eaf98a94c3d80484878847e9ebeb5c93074a8ce242db73c",
+    "score": 102.64632,
+    "link": "https://issues.apache.org/jira/browse/TAJO-26",
+    "source": "jira",
+    "origin_doc_id": "4ad0010b394a2c0308b153a88bc2a3f61c2716078897935c0932116015427d41",
+    "snippet": "2013-04-03 07:46:36,539 INFO  delegation.AbstractDelegationTokenSecretManager (AbstractDelegationTokenSecretManager.java:updateCurrentKey(153)) - Updating the current master key for generating delegation tokens"
+  },
+  {
+    "rank": 6,
+    "id": "msg_1a1daa1177d773701895006e9bb963718464668073bd7a15fc41ad8c93121542",
+    "score": 102.64632,
+    "link": "https://issues.apache.org/jira/browse/TAJO-26",
+    "source": "jira",
+    "origin_doc_id": "4ad0010b394a2c0308b153a88bc2a3f61c2716078897935c0932116015427d41",
+    "snippet": "2013-04-03 07:46:36,555 INFO  delegation.AbstractDelegationTokenSecretManager (AbstractDelegationTokenSecretManager.java:updateCurrentKey(153)) - Updating the current master key for generating delegation tokens"
+  },
+  {
+    "rank": 7,
+    "id": "msg_eeaa7b904e98c4c6f3dcfc094436ecb9a4bf68274e2a285377cf09367e4c0532",
+    "score": 101.55232,
+    "link": "https://issues.apache.org/jira/browse/TWILL-106",
+    "source": "jira",
+    "origin_doc_id": "b9c347b27ec82154bb7255576399e43d5581ce318e7d3c1e6a1ce1fe625b6758",
+    "snippet": "2014-11-05 20:23:32,798 INFO  [main] delegation.AbstractDelegationTokenSecretManager (AbstractDelegationTokenSecretManager.java:updateCurrentKey(223)) - Updating the current master key for generating delegation tokens"
+  },
+  {
+    "rank": 8,
+    "id": "msg_54b6544f8f2701810d1034fc7dc346c4e631013c94ca2c20d9bb4b2190dbcc6b",
+    "score": 100.48139,
+    "link": "https://issues.apache.org/jira/browse/YARN-2871",
+    "source": "jira",
+    "origin_doc_id": "37f11dcc2b85fbbe73dd3a55ae4282066a7c5c947ddce8de590ed6adc34a213e",
+    "snippet": "2015-06-23 06:06:20,490 INFO  [Thread-693] delegation.AbstractDelegationTokenSecretManager (AbstractDelegationTokenSecretManager.java:updateCurrentKey(336)) - Updating the current master key for generating delegation tokens"
+  },
+  {
+    "rank": 9,
+    "id": "msg_09aed6009b303f27a9469c053afd09d92a5b58ff46c6111320d1c699c61e1b86",
+    "score": 100.48139,
+    "link": "https://issues.apache.org/jira/browse/YARN-2871",
+    "source": "jira",
+    "origin_doc_id": "37f11dcc2b85fbbe73dd3a55ae4282066a7c5c947ddce8de590ed6adc34a213e",
+    "snippet": "2015-06-22 23:45:01,357 INFO  [Thread-1] delegation.AbstractDelegationTokenSecretManager (AbstractDelegationTokenSecretManager.java:updateCurrentKey(336)) - Updating the current master key for generating delegation tokens"
+  },
+  {
+    "rank": 10,
+    "id": "msg_8cf12c222b2aaabb6f59de387d144bde9070c14cf042f80533f04cf4f2ac85d5",
+    "score": 98.4059,
+    "link": "https://issues.apache.org/jira/browse/YARN-2871",
+    "source": "jira",
+    "origin_doc_id": "37f11dcc2b85fbbe73dd3a55ae4282066a7c5c947ddce8de590ed6adc34a213e",
+    "snippet": "2015-06-23 06:06:20,491 INFO  [Thread[Thread-717,5,main]] delegation.AbstractDelegationTokenSecretManager (AbstractDelegationTokenSecretManager.java:updateCurrentKey(336)) - Updating the current master key for generating delegation tokens"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "case_id": "2",
+  "summary_raw": "[\"open through proxy\",\"bytes sent\",\"bytes received\",\"close\",\"Could not connect through proxy\",\"Proxy closed the connection\"]",
+  "summary_items": [
+    "open through proxy",
+    "bytes sent",
+    "bytes received",
+    "close",
+    "Could not connect through proxy",
+    "Proxy closed the connection"
+  ],
+  "group_logs_lines": [
+    "- tcpconn.tencent.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- tcpconn.tencent.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- tcpconn.tencent.com : 80 close , 0 bytes sent , 0 bytes received , lifetime <1 sec",
+    "- tcpconn.tencent.com : 443 close , 0 bytes sent , 0 bytes received , lifetime <1 sec",
+    "- tcpconn5.tencent.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- tcpconn5.tencent.com : 80 close , 0 bytes sent , 0 bytes received , lifetime <1 sec",
+    "- tcpconn5.tencent.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- tcpconn5.tencent.com : 443 close , 0 bytes sent , 0 bytes received , lifetime <1 sec",
+    "- 183.60.48.250 : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 639 bytes sent , 339 bytes received , lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- tcpconn4.tencent.com : 80 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy closed the connection unexpectedly.",
+    "- tcpconn4.tencent.com : 443 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy closed the connection unexpectedly.",
+    "- cgi.qqweb.qq.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- cgi.qqweb.qq.com : 80 close , 477 bytes sent , 448 bytes received , lifetime <1 sec",
+    "- cgi.qqweb.qq.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- cgi.qqweb.qq.com : 80 close , 477 bytes sent , 448 bytes received , lifetime <1 sec"
+  ]
+}

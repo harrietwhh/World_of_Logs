@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_2c08ac0077a9c1e0572f212233760f3098c37a9044aa1a9349322f34c0c3cca0",
+    "score": 40.901783,
+    "link": "https://github.com/apache/activemq/pull/359",
+    "source": "github",
+    "origin_doc_id": "b820d06604c385bdeccf2c99120ff9759509404d2d5eff347f9ab4e67a40eb16",
+    "snippet": "2019-05-20 21:54:48,710 [me-limited test] - INFO  Stomp12Test                    - Broker sent: MESSAGE"
+  },
+  {
+    "rank": 2,
+    "id": "msg_c276e76128dedffc75fa41e84fb5a8eef17509c9c4ab8f573a9150508931e20b",
+    "score": 35.62815,
+    "link": "https://github.com/apache/activemq/pull/359",
+    "source": "github",
+    "origin_doc_id": "b820d06604c385bdeccf2c99120ff9759509404d2d5eff347f9ab4e67a40eb16",
+    "snippet": "2019-05-20 21:54:48,716 [me-limited test] - INFO  Stomp12Test                    - Broker sent: ERROR \n message:Unexpected ACK received for message-id [null] \n content-type:text/plain \n org.apache.activemq.transport.stomp.ProtocolE...d.java:748)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_a0d5698b5e30541aa93c9fe02d2e025c9ca55b7106df8ff54e54e60c014b371d",
+    "score": 31.72821,
+    "link": "https://stackoverflow.com/questions/79301459",
+    "source": "so",
+    "origin_doc_id": "3ce2a2bdd10f7631586473a17f0be3653b01bfd748cc5622412672a391a85555",
+    "snippet": "message\n 1 | 2024-12-22 14:21:41.265223 | INFO  | Test log entry \n   2 | 2024-12-22 14:24:09.661304 | INFO  | Test log entry \n   3 | 2024-12-22 17:09:57.48363  | INFO  | Test log entry \n (3 rows)"
+  },
+  {
+    "rank": 4,
+    "id": "msg_08ddbcd3e5d25c191eee408405b0ca31bb003ea4874195994c7894f68aefa9ff",
+    "score": 31.576769,
+    "link": "https://issues.apache.org/jira/browse/YARN-9541",
+    "source": "jira",
+    "origin_doc_id": "5f7cd33887237e82a77b2d7d9aff14c7bdd7235399725fa80b7e1e62bc28c7e7",
+    "snippet": "2019-05-09 12:38:27,202 INFO  [Time-limited test] ipc.CallQueueManager (CallQueueManager.java:<init>(84)) - Using callQueue: class java.util.concurrent.LinkedBlockingQueue, queueCapacity: 1000, scheduler: class org.apache.hadoop.ipc.DefaultRpcScheduler, ipcBackoff: false."
+  },
+  {
+    "rank": 5,
+    "id": "msg_58e6a1194135d49c4e4a07b6733bf27115e698ebc9af2fdb04e359f3c3f36dcd",
+    "score": 31.47502,
+    "link": "https://issues.redhat.com/browse/JBTM-1903",
+    "source": "jira",
+    "origin_doc_id": "de69a6b2df7148597a59c238f5786a5c2a8b2b217b2daa02ce53562d36ca8e0c",
+    "snippet": "2013-08-30 19:59:31,528 out: Emptying PutObjectStoreDirHere"
+  },
+  {
+    "rank": 6,
+    "id": "msg_2f30056915ae60169615b1a0faf01d7b12629aefa25ccd9eb522d840f8070b58",
+    "score": 30.180738,
+    "link": "https://stackoverflow.com/questions/78945254",
+    "source": "so",
+    "origin_doc_id": "fd4bc0785709a7382581a38e4089357894746037febb949459169f36113cf66b",
+    "snippet": "{\"time\":\"2024-09-03T15:59:48.139087+02:00\",\"level\":\"info\",\"serverID\":\"626f6e22c\",\"mongosyncID\":\"coordinator\",\"message\":\"Successfully initialized source and destination clients\"} {\"time\":\"2024-09-03T15:59:48.228540+02:00\",\"level\":\"info\",\"serverID\":\"626f6e22c\",\"mongosyncID\":\"coordinator\",\"message\":\"Preflight checks completed.\"} {\"time\":\"2024-09-03T15:59:48.228582+02:00\",\"level\":\"info\",\"serverID\":\"626f6e22c\",\"mongosyncID\":\"coordinator\",\"message\":\"Validating source cluster.\"} {\"time\":\"2024-09-03T15:59:48.244629+02:00\",\"level\":\"info\",\"serverID\":\"626f6e22c\",\"mongosyncID\":\"coordinator\",\"message\":\"Validating destination cluster.\"} {\"time\":\"2024-09-03T15:59:48.259452+02:00\",\"level\":\"info\",\"serverID\":\"626f6e22c\",\"mongosyncID\":\"coordinator\",\"message\":\"Checking compatibility of migration filter.\"} {\"time\":\"2024-09-03T15:59:48.259476+02:00\",\"level\":\"info\",\"serverID\":\"626f6e22c\",\"mongosyncID\":\"coordinator\",\"message\":\"Finished checking compatibility of migration filter.\"} {\"time\":\"2024-09-03T15:59:48.405231+02:00\",\"level\":\"info\",\"serverID\":\"626f6e22c\",\"mongosyncID\":\"coordinator\",\"status\":200,\"body\":\"{\\\"success\\\":false,\\\"error\\\":\\\"NonEmptyDestinationCluster\\\",\\\"errorDescription\\\":\\\"Found"
+  },
+  {
+    "rank": 7,
+    "id": "msg_edef1442479cd939c843d71eb31b04805f6bc384478ccbf25cdaa10009a6419a",
+    "score": 29.583836,
+    "link": "https://issues.apache.org/jira/browse/AMQ-6405",
+    "source": "jira",
+    "origin_doc_id": "08f733dc03d1371358a88fefeda843e50b219190f6a4872685c78c9615a4d2c0",
+    "snippet": "2016-08-25 09:01:45,179 | INFO  | Time-limited test | Apache ActiveMQ 5.15.0-SNAPSHOT (node-1, ID:Samuel-Mas-MacBook-Pro.local-54926-1472079667961-0:59) is shutting down"
+  },
+  {
+    "rank": 8,
+    "id": "msg_5db0ac481bbae5ae484bd98ebb45814ba8904586796ba599a9954c7d8ac0f17b",
+    "score": 29.583836,
+    "link": "https://issues.apache.org/jira/browse/AMQ-6405",
+    "source": "jira",
+    "origin_doc_id": "08f733dc03d1371358a88fefeda843e50b219190f6a4872685c78c9615a4d2c0",
+    "snippet": "2016-08-25 09:01:45,305 | INFO  | Time-limited test | Apache ActiveMQ 5.15.0-SNAPSHOT (node-1, ID:Samuel-Mas-MacBook-Pro.local-54926-1472079667961-0:59) uptime 1.884 seconds"
+  },
+  {
+    "rank": 9,
+    "id": "msg_630fe5b5d3b46430de2db3e20049173225df405b1a321d59f26cf7d25e4841bf",
+    "score": 29.349632,
+    "link": "https://stackoverflow.com/questions/78985741",
+    "source": "so",
+    "origin_doc_id": "b0a5352f8d54d5a1a9633cc85add282415f01b7f0d0356d58593a808f6ae73f2",
+    "snippet": "2024-09-14T21:47:22.963+08:00  INFO 16020 --- [demo] [nio-8080-exec-2] com.example.demo.SseBroadcaster          : Message has been sent to (Unknown)-2e96934e-8a86-4267-bbbd-48270698a79b"
+  },
+  {
+    "rank": 10,
+    "id": "msg_36aa1bf623889a244bbde8e1103c8e674035b0fc42becf7642451ec931274395",
+    "score": 28.89383,
+    "link": "https://issues.apache.org/jira/browse/HBASE-14430",
+    "source": "jira",
+    "origin_doc_id": "1a1c5641280e11d4617e9e942fb40205a9b2ea1b629242e1eec8897d8af39efa",
+    "snippet": "2015-09-14 09:08:55,113 INFO  [Time-limited test] log.Slf4jLog(67): jetty-6.1.26"
+  }
+]

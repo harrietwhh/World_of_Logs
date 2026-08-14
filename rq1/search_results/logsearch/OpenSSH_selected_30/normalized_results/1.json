@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_7a1891be14247b286bfadefc0f04e67146bc580ad635c8ef22023e1632a645a3",
+    "score": 127.20493,
+    "link": "https://github.com/IBM/Drain3/issues/53",
+    "source": "github",
+    "origin_doc_id": "cadfc7986bf47496e563950573381efa6dccfc3365a051a07685c16098ff1183",
+    "snippet": "Dec 10 06:55:46 LabSZ sshd[24200]: reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT! \n ``` \n to:  \n ``` \n reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT!"
+  },
+  {
+    "rank": 2,
+    "id": "msg_9b9e48ddcc3e7cf7f842426517f48f8131a46a299767b7a17f96ae61e8a323e1",
+    "score": 84.560844,
+    "link": "https://stackoverflow.com/questions/59224301",
+    "source": "so",
+    "origin_doc_id": "87a2ea4ce140bd68c551ad6e1c03cfdaa312e35d18d249936021a959f7e73032",
+    "snippet": "reverse mapping checking getaddrinfo for undefined.datagroup.ua \n [93.183.207.5] failed - POSSIBLE BREAK-IN ATTEMPT! \nreverse mapping checking getaddrinfo for nsg-static-226.127.71.182.airtel.in [182.71.127.226] failed - POSSIBLE BREAK-IN ATTEMPT! \n reverse mapping checking getaddrinfo for 179.185.44.168.static.gvt.net.br [179.185.44.168] failed - POSSIBLE BREAK-IN ATTEMPT!"
+  },
+  {
+    "rank": 3,
+    "id": "msg_2b29632c229804fc436ecbac38f432dc67b0c98d97249562450d911aa950cf7e",
+    "score": 74.684074,
+    "link": "https://stackoverflow.com/questions/59224301",
+    "source": "so",
+    "origin_doc_id": "87a2ea4ce140bd68c551ad6e1c03cfdaa312e35d18d249936021a959f7e73032",
+    "snippet": "'''reverse mapping checking getaddrinfo for undefined.datagroup.ua \n [93.183.207.5] failed - POSSIBLE BREAK-IN ATTEMPT!''',"
+  },
+  {
+    "rank": 4,
+    "id": "msg_4e3710be452e90e4fe246edd25c6aaa53f8ab424c20ed8122e760123e8b5077d",
+    "score": 71.77265,
+    "link": "https://stackoverflow.com/questions/57450304",
+    "source": "so",
+    "origin_doc_id": "2ecafa4e53bb87a4358a54a6c2cf35c499b98b7a794b1ecffffecab7dd1aee7e",
+    "snippet": "May  1 07:39:30 example-server sshd[61362]: reverse mapping checking getaddrinfo for 37-115-223-100.broadband.kyivstar.net [37.115.223.100] failed - POSSIBLE BREAK-IN ATTEMPT! \n May  1 07:42:02 example-server sshd[61698]: reverse mapping checking getaddrinfo for 234.10.13.218.broad.fs.gd.dynamic.163data.com.cn [218.13.10.234] failed - POSSIBLE BREAK-IN ATTEMPT!"
+  },
+  {
+    "rank": 5,
+    "id": "msg_b8354887cd70362de27ff92fb856df7eadbca6bd8518bfd49c63023991862020",
+    "score": 71.49658,
+    "link": "https://stackoverflow.com/questions/11653872",
+    "source": "so",
+    "origin_doc_id": "86deb1607611954e06f6ef2f7ea27cc98018a8ef58fddc36a444526a73942621",
+    "snippet": "Jul 24 06:09:36 myserver sshd[46098]: reverse mapping checking getaddrinfo for \n 95.58.255.62.static.telecom.kz [95.58.255.62] failed - POSSIBLE BREAK-IN ATTEMPT! \n  regex on ssh filter:  \n  ^%(__prefix_line)sreverse mapping checking getaddrinfo for .* \\[<HOST>\\] failed - POSSIB \n ^%(__prefix_line)sAddress <HOST> .* POSSIBLE BREAK-IN ATTEMPT!\\s*$"
+  },
+  {
+    "rank": 6,
+    "id": "msg_7da2170e2695ddf13d8618f2470974b6f83af711406ee73aeb63eff1001227ac",
+    "score": 71.35838,
+    "link": "https://github.com/sshnet/SSH.NET/issues/157",
+    "source": "github",
+    "origin_doc_id": "933cbcc990d3aecc97eb465de881beceeba6616fd1d5798958ee20b384a49567",
+    "snippet": "sshd[6581]: reverse mapping checking getaddrinfo for desktop-xxxxxx [IP-Adress] failed - POSSIBLE BREAK-IN ATTEMPT!"
+  },
+  {
+    "rank": 7,
+    "id": "msg_01d2b37de69a4ebf1c5a07f3b9475d2fcbc90dfce534370d0ab4dcafb26c6945",
+    "score": 65.56558,
+    "link": "https://stackoverflow.com/questions/22543584",
+    "source": "so",
+    "origin_doc_id": "9d4cf52c0b03fa30a9fa39b197def011007863c21d94f04f34edad5065458438",
+    "snippet": "DDOS):  \nMar 20 20:13:42 Ubuntu-1204-precise-64-minimal sshd[3535]: reverse mapping checking getaddrinfo for no-reverse-dns.metronet-uk.com [109.111.197.158] failed - POSSIBLE BREAK-IN ATTEMPT!"
+  },
+  {
+    "rank": 8,
+    "id": "msg_b1c133f4ebb10eca041d4ba1261814a2b21f4f89dcefb60186c61c4561390a6d",
+    "score": 64.21017,
+    "link": "https://issues.redhat.com/browse/ENTESB-1864",
+    "source": "jira",
+    "origin_doc_id": "d4e31bf0c5f9c161dd30b270021bab50680d73330c6855c5be3826c1d784c0ee",
+    "snippet": "ssh amq1 ' cat ~/amq/container/data/log/karaf.log | grep ERROR'  \n reverse mapping checking getaddrinfo for dhcp-66-79-59.eng.nay.redhat.com [10.66.79.59] failed - POSSIBLE BREAK-IN ATTEMPT!"
+  },
+  {
+    "rank": 9,
+    "id": "msg_2e3477dd78f6293856b848c96308f81115bed5b6559dca35426aba7f4d8605a7",
+    "score": 60.80789,
+    "link": "https://stackoverflow.com/questions/55355982",
+    "source": "so",
+    "origin_doc_id": "c58ae928c14eda4e8e61be281b56c74d2939ae6f5259ee4157428b905ffbbeae",
+    "snippet": "Dec 10 06:55:46 LabSZ sshd[24200]: reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT! \n Dec 10 06:55:46 LabSZ sshd[24200]: Invalid user webmaster from 173.234.31.186 \n Dec 10 06:55:46 LabSZ sshd[24200]: input_userauth_request: invalid user webmaster [preauth] \n Dec 10 06:55:46 LabSZ sshd[24200]: pam_unix(sshd:auth): check pass; user unknown \n Dec 10 06:55:46 LabSZ sshd[24200]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.234.31.186  \n Dec 10 06:55:48 LabSZ sshd[24200]: Failed password for invalid user webmaster from 173.234.31.186 port 38926 ssh2 \n Dec 10 06:55:48 LabSZ sshd[24200]: Connection closed by 173.234.31.186 [preauth] \n Dec 10 07:02:47 LabSZ sshd[24203]: Connection closed by 212.47.254.145 [preauth] \nDec 10 07:07:38 LabSZ sshd[24206]: Invalid user test9 from 52.80.34.196\nDec 10 07:07:38 LabSZ sshd[24206]: input_userauth_request: invalid user test9 [preauth]\nDec 10 07:07:38 LabSZ sshd[24206]: pam_unix(sshd:auth): check pass; user unknown"
+  },
+  {
+    "rank": 10,
+    "id": "msg_b2f7fe2fdcc6080880b493d7a346b67ddc42c68d4b8042b62596270eca7e7915",
+    "score": 56.811813,
+    "link": "https://stackoverflow.com/questions/71134598",
+    "source": "so",
+    "origin_doc_id": "7ae6daa57b1782082ac8501167089484b9b934e4446526dfba6a6d04bf33ca72",
+    "snippet": "- OpenSSH_6.6.1p1, OpenSSL 1.0.1e-fips 11 Feb 2013:  \n  sshd[32307]: reverse mapping checking getaddrinfo for <HIDDEN> [HIDDEN] failed - POSSIBLE BREAK-IN ATTEMPT! \n sshd[32307]: userauth_pubkey: unsupported public key algorithm: rsa-sha2-512 [preauth] \n sshd[32307]: Connection closed by <HIDDEN> [preauth]"
+  }
+]

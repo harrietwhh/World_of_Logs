@@ -1,0 +1,45 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Thunderbird/Thunderbird_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Thunderbird/Thunderbird_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Thunderbird",
+    "snippet": "A large collection of system log datasets for AI-driven log analytics [ISSRE'23] - loghub/Thunderbird/Thunderbird_2k.log at master · logpai/loghub.",
+    "snippet_highlighted_words": [
+      "Thunderbird"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Command “.dir” in ROOT v6 on W10? - Newbie - ROOT Forum",
+    "link": "https://root-forum.cern.ch/t/command-dir-in-root-v6-on-w10/49548",
+    "displayed_link": "https://root-forum.cern.ch › command-dir-in-root-v6-o...",
+    "snippet": "The system commands like dir and cd begin with a dot and exclamation mark .! see at the end of the help with the .help command.",
+    "snippet_highlighted_words": [
+      "command"
+    ],
+    "source": "ROOT Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "#ubuntu.txt",
+    "link": "https://irclogs.ubuntu.com/2009/01/15/%23ubuntu.txt",
+    "displayed_link": "https://irclogs.ubuntu.com › 2009/01/15 › #ubuntu",
+    "snippet": "... root to get temps of drives or i get permission denied accessing drive, what can i do to make it so regular user can view hddtemp? [15:24] ...",
+    "snippet_highlighted_words": [
+      "root",
+      "get temps"
+    ],
+    "source": "Ubuntu IRC Logs",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

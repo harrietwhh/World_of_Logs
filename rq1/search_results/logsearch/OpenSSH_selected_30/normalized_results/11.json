@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_6a9e5f6b55a0613364671c17bff2e4031d0e056ef6e6cd9319b1d7076122c84a",
+    "score": 59.478275,
+    "link": "https://github.com/azl397985856/learn-shell/issues/7",
+    "source": "github",
+    "origin_doc_id": "e06bdfa570788e259a17f77e9131571ee89e77887d2cd22186eed798ca72a6d4",
+    "snippet": "\"input_userauth_request: invalid user\" \n                 \"pam_unix(sshd:auth): check pass; user unknown\" \n                 \"input_userauth_request: invalid user\" \n                 \"does not map back to the address\" \n                 \"pam_unix(sshd:auth): authentication failure\""
+  },
+  {
+    "rank": 2,
+    "id": "msg_1d74960681da21173992f80d00c65715602f6a6bda095329878b9dba6d61d69d",
+    "score": 54.335194,
+    "link": "https://github.com/BeyondTrust/pbis-open/issues/273",
+    "source": "github",
+    "origin_doc_id": "306787bcd87db05d54f0fb89dbadc6368c1d9d554dc5142d10d48ca259d44117",
+    "snippet": "2020-01-30T23:01:08.998210+05:30 4 sshd[62550]:  pam_unix(sshd:auth): check pass; user unknown"
+  },
+  {
+    "rank": 3,
+    "id": "msg_180e153f0896cf84dd00554b6b9c4322c653e5d0465aac6c01286295d57b9a19",
+    "score": 52.671112,
+    "link": "https://stackoverflow.com/questions/14847027",
+    "source": "so",
+    "origin_doc_id": "528b1b29fad22d6e447f48a4b9be81d76bc3fe92279f828a399614aef52626da",
+    "snippet": "Sep 13 12:09:39 icarus sshd[14043]: Failed none for invalid user 55659 \n Sep 13 12:09:43 icarus sshd[14043]: pam_unix(sshd:auth): check pass; user unknown \n Sep 13 12:09:43 icarus sshd[14043]: pam_unix(sshd:auth): \n Sep 13 12:09:44 icarus sshd[14043]: Failed password for invalid user 55659 \n Sep 13 12:09:48 icarus sshd[14043]: pam_unix(sshd:auth): check pass; user unknown \n Sep 13 12:09:50 icarus sshd[14043]: Failed password for invalid user 55659 from"
+  },
+  {
+    "rank": 4,
+    "id": "msg_f2bc97400612fe0292ddd869690ff8f3b921cf90c9d97702786e9bec74926a63",
+    "score": 47.85634,
+    "link": "https://github.com/atmoz/sftp/issues/279",
+    "source": "github",
+    "origin_doc_id": "0b7120b669f9b7921914b70e3ba37e0a50fef6f4bb7e47ef574a9d23cb9fa9fd",
+    "snippet": "``` \n try sftp prog1@{hostIP} -P 20022 and got error \"Permission denied, please try again.\" \n host:/var/log/auth.log \n ``` \n Invalid user prog1 from 192.168.3.11 port 61048 \n pam_unix(sshd:auth): check pass; user unknown \n pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=81.23.125.218  \n Failed password for invalid user prog1 from 192.168.3.11 port 61048 ssh2 \n ```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_ff247746352ccbcb3a42275bb80f30567128811bd2f15043343354278b91ced2",
+    "score": 47.020344,
+    "link": "https://stackoverflow.com/questions/24465504",
+    "source": "so",
+    "origin_doc_id": "fe4204ace0b5839420c0e633059af13564501e2130e8c6b9e1069825d8105107",
+    "snippet": "Jun 28 09:31:42 kermit sshd[10097]: pam_unix(sshd:auth): check pass; user unknown  \n  Jun 28 09:31:44 kermit sshd[10097]: Failed password for invalid user admin from 116.10.191.187 port 40312 ssh2"
+  },
+  {
+    "rank": 6,
+    "id": "msg_374866a0c3f03e683a4276138fdbfcb58a51a4b669571955be1417b112e268e3",
+    "score": 45.717358,
+    "link": "https://stackoverflow.com/questions/59018895",
+    "source": "so",
+    "origin_doc_id": "a732dfd210fe2efa8e990c0c6c2b6e8181e9586087b3847db4787bc6ce5c57cb",
+    "snippet": "18:36:04 MyWay sshd[6652]: Invalid user oracle from 80.241.211.237\n  port 54600 Nov 24 18:36:04 MyWay sshd[6652]: input_userauth_request:\n  invalid user oracle [preauth] Nov 24 18:36:04 MyWay sshd[6652]:\n  pam_unix(sshd:auth): check pass; user unknown Nov 24 18:36:04 MyWay\n  sshd[6652]: pam_unix(sshd:auth): authentication failure; logname=\n  uid=0 euid=0 tty=ssh ruser= rhost=vmi306916.contaboserver.net Nov 24"
+  },
+  {
+    "rank": 7,
+    "id": "msg_259c9cc7c15fe9c61a08a72d2db0239f66063fb4a813ce6f294bb823349a5267",
+    "score": 45.705807,
+    "link": "https://github.com/WoTTsecurity/agent/issues/12",
+    "source": "github",
+    "origin_doc_id": "d181565ea8ccb16fee0ec897947997c09b963b26d12fb7e8bb26c725b09b6872",
+    "snippet": "Logs begin at Fri 2019-03-08 00:05:21 PST, end at Fri 2019-03-08 03:31:14 PST. -- \n Mar 08 03:31:12 wott0 sshd[4698]: pam_unix(sshd:auth): check pass; user unknown \n Mar 08 03:31:12 wott0 sshd[4698]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.x.y \n ```"
+  },
+  {
+    "rank": 8,
+    "id": "msg_b3fcbaac25ce3041679ba55f3cb70fe9a3bb8f2e033df9be843c034e0f0304ce",
+    "score": 45.52059,
+    "link": "https://github.com/rundeck/rundeck/issues/2315",
+    "source": "github",
+    "origin_doc_id": "1d39ec576df598abe98ae9c33a16d3cc0aeb434833b406af0884f794bf6309a8",
+    "snippet": "`Apr 14 18:48:38 localhost unix_chkpwd[28248]: check pass; user unknown \n Apr 14 18:48:38 localhost unix_chkpwd[28249]: check pass; user unknown \n Apr 14 18:48:38 localhost unix_chkpwd[28249]: password check failed for user (username_2) \n Apr 14 18:48:38 localhost java: pam_unix(sshd:auth): authentication failure; logname= uid=541 euid=541 tty= ruser= rhost=  user=username_2` \n 541 is \"rundeck\" user"
+  },
+  {
+    "rank": 9,
+    "id": "msg_dd70bd704ee6783f284a50954ba73e4f46fcae9ddcaf939f863ed334e231eafd",
+    "score": 45.216743,
+    "link": "https://github.com/crazy-max/docker-fail2ban/issues/10",
+    "source": "github",
+    "origin_doc_id": "bc1bcdb4608a59daac1f139cf13a1d5496adab601c1cd0375241c8192dd7ea61",
+    "snippet": "Invalid user xxxx from x.x.x.x port 54768 \n sshd[27292]: input_userauth_request: invalid user xxxx [preauth] \n sshd[27292]: pam_unix(sshd:auth): check pass; user unknown \n sshd[27292]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=x.x.x.x \nsshd[27292]: Failed password for invalid user xxxx from x.x.x.x port 54768 ssh2 \n sshd[27292]: Received disconnect from x.x.x.x port 54768:11: Bye Bye [preauth] \n sshd[27292]: Disconnected from x.x.x.x port 54768 [preauth]"
+  },
+  {
+    "rank": 10,
+    "id": "msg_5618cc96aa1a1cf594f4f235aa461870fc6bf920998470737e4806b0b04eba0d",
+    "score": 45.092644,
+    "link": "https://github.com/rundeck/rundeck/issues/2315",
+    "source": "github",
+    "origin_doc_id": "1d39ec576df598abe98ae9c33a16d3cc0aeb434833b406af0884f794bf6309a8",
+    "snippet": "/var/log/secure: \n localhost unix_chkpwd[4110]: check pass; user unknown \n localhost unix_chkpwd[4110]: password check failed for user (admin) \n localhost java: pam_unix(sshd:auth): authentication failure; log \n name= uid=1001 euid=1001 tty= ruser= rhost=  user=admin \n id Cmd shows: uid=1001(rundeck) \n # Enhancement request"
+  }
+]

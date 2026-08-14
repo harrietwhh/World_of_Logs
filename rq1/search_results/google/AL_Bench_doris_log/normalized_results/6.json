@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "BigQuery configurations | dbt Developer Hub",
+    "link": "https://docs.getdbt.com/reference/resource-configs/bigquery-configs",
+    "displayed_link": "https://docs.getdbt.com › reference › bigquery-configs",
+    "snippet": "When enabled, BigQuery will parse the JSON comment and apply the key-value pairs as labels to each job. You can then filter and analyze jobs in the BigQuery ...",
+    "snippet_highlighted_words": [
+      "key",
+      "value"
+    ],
+    "source": "dbt Developer Hub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Reading a List from properties file and load with Spring ...",
+    "link": "https://stackoverflow.com/questions/12576156/reading-a-list-from-properties-file-and-load-with-spring-annotation-value",
+    "displayed_link": "10+ answers · 13 years ago",
+    "snippet": "As I understand, an alternative of doing this is to have it in the Spring config file, and load it as a bean reference (correct me if I'm wrong) ...",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "kubectl config set",
+    "link": "https://kubernetes.io/docs/reference/kubectl/generated/kubectl_config/kubectl_config_set/",
+    "displayed_link": "https://kubernetes.io › reference › kubectl › generated",
+    "snippet": "Set an individual value in a kubeconfig file. PROPERTY_NAME is a dot delimited name where each token represents either an attribute name or a map key.",
+    "snippet_highlighted_words": [
+      "value",
+      "NAME",
+      "name",
+      "name",
+      "key"
+    ],
+    "source": "Kubernetes",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Conditional compilation - The Rust Reference",
+    "link": "https://doc.rust-lang.org/reference/conditional-compilation.html",
+    "displayed_link": "https://doc.rust-lang.org › reference › conditional-comp...",
+    "snippet": "Configuration values for a specified target can be displayed with rustc --print cfg --target $TARGET . Note. Configuration options with the key feature are a ...",
+    "snippet_highlighted_words": [
+      "values",
+      "key"
+    ],
+    "source": "Rust Documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Customizing the Splunk OpenTelemetry distribution to ...",
+    "link": "https://lantern.splunk.com/Platform_Data_Management/Unlock_Insights/Customizing_the_Splunk_OpenTelemetry_distribution_to_accommodate_unsupported_use_cases",
+    "displayed_link": "https://lantern.splunk.com › ... › Unlock Unified Insights",
+    "snippet": "The Splunk OpenTelemetry Collector is a distribution of the OpenTelemetry Collector that provides a unified way for you to receive, process, ...",
+    "snippet_highlighted_words": [],
+    "source": "Splunk Lantern",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Variable Substitutions | Documentation and Support",
+    "link": "https://octopus.com/docs/projects/variables/variable-substitutions",
+    "displayed_link": "https://octopus.com › Docs › Projects › Variables",
+    "snippet": "Variable substitutions are a flexible way to adjust configuration based on your variables and the context of your deployment.",
+    "snippet_highlighted_words": [],
+    "source": "Octopus Deploy",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Favor Config Files over Env Vars",
+    "link": "https://medium.com/israeli-tech-radar/favor-config-files-over-env-vars-d9189d53c4b8",
+    "displayed_link": "520+ likes · 2 years ago",
+    "snippet": "In the following sections, I will try and convince you why using environment variables is bad for you, your health, and even more so, your apps' health.",
+    "snippet_highlighted_words": [],
+    "source": "Medium · Yoav Nordmann",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Simplify Configuration Management with Project-level Config",
+    "link": "https://www.pulumi.com/blog/project-config-mvp/",
+    "displayed_link": "https://www.pulumi.com › Blog",
+    "snippet": "Pulumi will now allow you to set configuration values in your Pulumi.yaml file, using the given value as a default for all stacks in the project.",
+    "snippet_highlighted_words": [
+      "values",
+      "value"
+    ],
+    "source": "Pulumi",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Forwarding Logs to Splunk Using the OpenShift ...",
+    "link": "https://www.redhat.com/en/blog/forwarding-logs-to-splunk-using-the-openshift-log-forwarding-api",
+    "displayed_link": "https://www.redhat.com › blog › forwarding-logs-to-splu...",
+    "snippet": "The steps contained within this article describe an unsupported method for integrating OpenShift and Splunk using Fluentd as a collector and forwarder.",
+    "snippet_highlighted_words": [],
+    "source": "Red Hat",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Error conditions in Databricks",
+    "link": "https://docs.databricks.com/aws/en/error-messages/error-classes",
+    "displayed_link": "https://docs.databricks.com › aws › error-classes",
+    "snippet": "Error conditions are descriptive, human-readable strings that unique to the error they describe. You can use error conditions to programmatically handle errors.",
+    "snippet_highlighted_words": [],
+    "source": "Databricks",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,62 @@
+[1/30] LineId=1 querying: Created MRAppMaster for application appattempt_1445144423722_0020_000001
+[1/30] LineId=1 success, results=10
+[2/30] LineId=2 querying: Executing with tokens:
+[2/30] LineId=2 success, results=10
+[3/30] LineId=3 querying: Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 2...
+[3/30] LineId=3 success, results=10
+[4/30] LineId=4 querying: Using mapred newApiCommitter.
+[4/30] LineId=4 success, results=10
+[5/30] LineId=5 querying: OutputCommitter set in config null
+[5/30] LineId=5 success, results=10
+[6/30] LineId=6 querying: OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+[6/30] LineId=6 success, results=10
+[7/30] LineId=7 querying: Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org...
+[7/30] LineId=7 success, results=10
+[8/30] LineId=15 querying: Default file system [hdfs://msra-sa-41:9000]
+[8/30] LineId=15 success, results=10
+[9/30] LineId=18 querying: Emitting job history data to the timeline server is not enabled
+[9/30] LineId=18 success, results=10
+[10/30] LineId=20 querying: loaded properties from hadoop-metrics2.properties
+[10/30] LineId=20 success, results=10
+[11/30] LineId=21 querying: Scheduled snapshot period at 10 second(s).
+[11/30] LineId=21 success, results=10
+[12/30] LineId=22 querying: MRAppMaster metrics system started
+[12/30] LineId=22 success, results=10
+[13/30] LineId=23 querying: Adding job token for job_1445144423722_0020 to jobTokenSecretManager
+[13/30] LineId=23 success, results=10
+[14/30] LineId=24 querying: Not uberizing job_1445144423722_0020 because: not enabled; too many maps; too mu...
+[14/30] LineId=24 success, results=10
+[15/30] LineId=25 querying: Input size for job job_1445144423722_0020 = 1256521728. Number of splits = 10
+[15/30] LineId=25 success, results=10
+[16/30] LineId=26 querying: Number of reduces for job job_1445144423722_0020 = 1
+[16/30] LineId=26 success, results=10
+[17/30] LineId=27 querying: job_1445144423722_0020Job Transitioned from NEW to INITED
+[17/30] LineId=27 success, results=10
+[18/30] LineId=28 querying: MRAppMaster launching normal, non-uberized, multi-container job job_144514442372...
+[18/30] LineId=28 success, results=10
+[19/30] LineId=29 querying: Using callQueue class java.util.concurrent.LinkedBlockingQueue
+[19/30] LineId=29 success, results=10
+[20/30] LineId=30 querying: Starting Socket Reader #1 for port 62260
+[20/30] LineId=30 success, results=10
+[21/30] LineId=31 querying: Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the ser...
+[21/30] LineId=31 success, results=10
+[22/30] LineId=32 querying: Instantiated MRClientService at MININT-FNANLI5.fareast.corp.microsoft.com/10.86....
+[22/30] LineId=32 success, results=10
+[23/30] LineId=33 querying: IPC Server Responder: starting
+[23/30] LineId=33 success, results=10
+[24/30] LineId=34 querying: IPC Server listener on 62260: starting
+[24/30] LineId=34 success, results=10
+[25/30] LineId=35 querying: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.lo...
+[25/30] LineId=35 success, results=10
+[26/30] LineId=36 querying: Http request log for http.requests.mapreduce is not defined
+[26/30] LineId=36 success, results=10
+[27/30] LineId=37 querying: Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingIn...
+[27/30] LineId=37 success, results=10
+[28/30] LineId=38 querying: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfil...
+[28/30] LineId=38 success, results=10
+[29/30] LineId=39 querying: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfil...
+[29/30] LineId=39 success, results=10
+[30/30] LineId=40 querying: adding path spec: /mapreduce/*
+[30/30] LineId=40 success, results=10
+Batch results saved to: RQ1/search_results/logsearch/Hadoop_selected_30
+Summary: rows=30, attempted=30, successes=30, failures=0, skipped=0

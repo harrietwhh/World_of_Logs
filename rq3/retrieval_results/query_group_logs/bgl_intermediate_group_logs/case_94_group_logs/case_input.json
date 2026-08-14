@@ -1,0 +1,29 @@
+{
+  "case_id": "94",
+  "summary_raw": "[\"Detected the debugger died\"]",
+  "summary_items": [
+    "Detected the debugger died"
+  ],
+  "group_logs_lines": [
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",
+    "RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died."
+  ]
+}

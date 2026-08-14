@@ -1,0 +1,141 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "View topic - NTPD Issue: Kernel time sync never enables",
+    "link": "https://forums.gentoo.org/viewtopic-t-371689-start-0.html",
+    "displayed_link": "https://forums.gentoo.org › viewtopic-t-371689-start-0",
+    "snippet": "But never anything like \"kernel time sync enabled 0001\" and after a day ntpd not only seems to stop working but my time on the system has ...",
+    "snippet_highlighted_words": [
+      "kernel"
+    ],
+    "source": "Gentoo Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "What does mean this : kernel time sync enabled",
+    "link": "https://access.redhat.com/discussions/4547381",
+    "displayed_link": "https://access.redhat.com › discussions",
+    "snippet": "Hi, There was some logs in /var/log/messages: kernel time sync enabled 4001 kernel time sync enabled 0001 I didn't find anything related these messages.",
+    "snippet_highlighted_words": [
+      "kernel time sync enabled 0001"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Solved: NTP Problem, receiving alerts...",
+    "link": "https://community.hpe.com/t5/operating-system-linux/ntp-problem-receiving-alerts/td-p/4538126",
+    "displayed_link": "https://community.hpe.com › td-p",
+    "snippet": "I am getting the bellow alerts in \"/var/log/messages.log\" related to NTP. We are facing this issue from long back. Please find the required information below.",
+    "snippet_highlighted_words": [],
+    "source": "Hewlett Packard Enterprise Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Kernel Time Synch message - FedoraForum.org",
+    "link": "https://forums.fedoraforum.org/showthread.php?200031-Kernel-Time-Synch-message",
+    "displayed_link": "https://forums.fedoraforum.org › showthread › 200031-...",
+    "snippet": "It a status change from PLL/FLL mode as I read it, and that's probably relatable to issues with one of the servers in /etc/ntp.conf that is drop ...",
+    "snippet_highlighted_words": [],
+    "source": "Fedora Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "ntpd fails with default (2.6.18) kernel",
+    "link": "https://forum.proxmox.com/threads/ntpd-fails-with-default-2-6-18-kernel.4252/",
+    "displayed_link": "https://forum.proxmox.com › threads › ntpd-fails-with-...",
+    "snippet": "... kernel time sync error 0001. Jul 8 22:45:13 pm1 ntpd[31507]: kernel ... setting things up, but after a few minutes reports servers ...",
+    "snippet_highlighted_words": [
+      "kernel time sync error 0001"
+    ],
+    "source": "Proxmox Support Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "net-misc/ntp-4.2.4 logging \"kernel time sync error 0001\"",
+    "link": "https://bugs.gentoo.org/171119",
+    "displayed_link": "https://bugs.gentoo.org › ...",
+    "snippet": "I recently upgraded from ntp 4.2.2p3 to 4.2.4. Since then, I have since lots of log entries like this: ntpd[PID]: kernel time sync error ...",
+    "snippet_highlighted_words": [
+      "kernel time sync"
+    ],
+    "source": "Gentoo Bug",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "[SOLVED] NTP Client Error -- ntpstat shows unsynchronised",
+    "link": "https://www.linuxquestions.org/questions/linux-server-73/ntp-client-error-ntpstat-shows-unsynchronised-749641-print/",
+    "displayed_link": "https://www.linuxquestions.org › linux-server-73 › ntp-c...",
+    "snippet": "Another thing is that if your system clock is too far off, NTP won't synchronize it -- try setting the clock with ntpdate and one of the pool servers (just in ...",
+    "snippet_highlighted_words": [
+      "clock",
+      "setting",
+      "clock"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Miscellaneous Commands and Options - NTP.org",
+    "link": "https://www.ntp.org/documentation/4.2.8-series/miscopt/",
+    "displayed_link": "https://www.ntp.org › 4.2.8-series › miscopt",
+    "snippet": "Enables the server to synchronize with unconfigured peers only if the peer has been correctly authenticated using either public key or private ...",
+    "snippet_highlighted_words": [
+      "Enables"
+    ],
+    "source": "ntp.org",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "What do the messages \"kernel time sync disabled\" with a ...",
+    "link": "https://access.redhat.com/solutions/267753",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Issue. Ntpd will send notices to system logs similar to: Raw. ntpd[4573]: kernel time sync disabled 0001. Environment. Red Hat Enterprise Linux ...",
+    "snippet_highlighted_words": [
+      "kernel time sync",
+      "0001"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Quick NTP Question - Nagios Support Forum",
+    "link": "https://support.nagios.com/forum/viewtopic.php?t=43446",
+    "displayed_link": "https://support.nagios.com › forum › viewtopic",
+    "snippet": "I finished setting up NTP on my NNA server, however I kept running into small roadblocks I cannot find answers to, or maybe just need explained ...",
+    "snippet_highlighted_words": [
+      "setting"
+    ],
+    "source": "Nagios Support",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

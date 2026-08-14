@@ -1,0 +1,155 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "SSH Public Key - No supported authentication methods ...",
+    "link": "https://askubuntu.com/questions/204400/ssh-public-key-no-supported-authentication-methods-available-server-sent-publ",
+    "displayed_link": "https://askubuntu.com › questions › ssh-public-key-no-...",
+    "snippet": "When I connect using putty or WinSCP, I get an error saying No supported authentication methods available (server sent public key).",
+    "snippet_highlighted_words": [
+      "get",
+      "error",
+      "No",
+      "authentication methods available"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "No supported authentication methods available [preauth]",
+    "link": "https://superuser.com/questions/1387857/why-am-i-getting-the-message-no-supported-authentication-methods-available-pre",
+    "displayed_link": "https://superuser.com › questions › why-am-i-getting-th...",
+    "snippet": "I have a problem with logging using public key genereted with puttygen. My /var/log/auth.log says: “No supported authentication methods available [preauth]”",
+    "snippet_highlighted_words": [
+      "authentication methods"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "no supported authentication methods available (server ...",
+    "link": "https://stackoverflow.com/questions/22168003/disconnected-no-supported-authentication-methods-available-server-sent-public",
+    "displayed_link": "20+ answers · 12 years ago",
+    "snippet": "I receive this message: disconnected: no supported authentication methods available (server sent: publickey, gssapi-with-mic) I am using putty and puttyagent ...",
+    "snippet_highlighted_words": [
+      "no supported authentication methods available"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Disconnected no supported authentication methods available",
+    "link": "https://serverfault.com/questions/813370/disconnected-no-supported-authentication-methods-available",
+    "displayed_link": "https://serverfault.com › questions › disconnected-no-su...",
+    "snippet": "This error occurs when I try to log into the username while connecting with PuTTY. I am trying to log into a user. The path is /home/[name].",
+    "snippet_highlighted_words": [
+      "error",
+      "user"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "[RHEL 9]No supported authentication methods available ...",
+    "link": "https://www.reddit.com/r/redhat/comments/1djtkzi/rhel_9no_supported_authentication_methods/",
+    "displayed_link": "5 comments · 1 year ago",
+    "snippet": "I have a VM in AWS RHEL 9.3.0 I joined it to our AD domain, and i'm trying to authenticate with my password but it gives me the following error in sshd service ...",
+    "snippet_highlighted_words": [
+      "error"
+    ],
+    "source": "Reddit · r/redhat",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "No supported Authentication methods available",
+    "link": "https://community.cyberark.com/s/question/0D52J00007KBBf8SAH/psmp-installation-has-been-done-successfully-however-when-trying-to-login-to-linux-server-then-getting-the-error-message-disconnected-no-supported-authentication-methods-available",
+    "displayed_link": "https://community.cyberark.com › question › psmp-insta...",
+    "snippet": "Check your sshd_conf file for passwordAuthentication parameter. It shouldn't be No. also Check log file from /var/log/secure file to see if you find any access ...",
+    "snippet_highlighted_words": [
+      "passwordAuthentication",
+      "No"
+    ],
+    "source": "CyberArk",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "\"Pre-authentication failed: Cannot read password\"",
+    "link": "https://access.redhat.com/solutions/7059267",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "During pre-authentication and while negotiating which authentication methods are available for the user, the 'Cannot read password' message is ...",
+    "snippet_highlighted_words": [
+      "authentication",
+      "authentication methods",
+      "available",
+      "user"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "How to Troubleshoot SSH Authentication Issues",
+    "link": "https://docs.digitalocean.com/support/how-to-troubleshoot-ssh-authentication-issues/",
+    "displayed_link": "https://docs.digitalocean.com › support › how-to-trouble...",
+    "snippet": "This indicates that authentication has failed and can be caused by a number of issues. Here are some steps you can take to troubleshoot this issue.",
+    "snippet_highlighted_words": [
+      "authentication",
+      "number"
+    ],
+    "source": "DigitalOcean Docs",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "SSH can't log in. no supported authentication methods ...",
+    "link": "https://my.f5.com/manage/s/article/K27629234",
+    "displayed_link": "https://my.f5.com › manage › article",
+    "snippet": "Go to System > Users >User List select admin. Set Terminal Access to Advanced Shell. Note: Advanced will enable the Bash shell.",
+    "snippet_highlighted_words": [
+      "Users",
+      "User"
+    ],
+    "source": "F5",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "ssh - No supported authentication methods available",
+    "link": "https://unix.stackexchange.com/questions/510420/no-supported-authentication-methods-available-connecting-to-freebsd-using-putt",
+    "displayed_link": "https://unix.stackexchange.com › questions › no-suppor...",
+    "snippet": "When I tried to log into my account using PuTTY, I got the error \"No supported authentication methods available (server sent: publickey)\". I ...",
+    "snippet_highlighted_words": [
+      "got",
+      "error",
+      "No",
+      "authentication methods available"
+    ],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

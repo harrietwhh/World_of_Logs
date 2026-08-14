@@ -1,0 +1,30 @@
+{
+  "mode": "csv_case",
+  "case_id": "32",
+  "query_source": "group_logs",
+  "query_count": 10,
+  "queries": [
+    "- proxy.cse.cuhk.edu.hk: 5070 open through proxy proxy.cse.cuhk.edu.hk: 5070 HTTPS",
+    "- 127.0.0.1: 58205 error: Could not connect through proxy proxy.cse.cuhk.edu.hk: 5070 - Proxy server cannot establish a connection with the target, status code 403",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 687 bytes sent, 10505 bytes ( 10.2 KB ) received, lifetime 00: 02",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 265 bytes sent, 2177 bytes ( 2.12 KB ) received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 265 bytes sent, 2224 bytes ( 2.17 KB ) received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 673 bytes sent, 1389 bytes ( 1.35 KB ) received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 673 bytes sent, 1954 bytes ( 1.90 KB ) received, lifetime 00: 01",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 673 bytes sent, 3191 bytes ( 3.11 KB ) received, lifetime <1 sec",
+    "*64 - proxy.cse.cuhk.edu.hk: 5070 close, 293 bytes sent, 514 bytes received, lifetime <1 sec",
+    "*64 - proxy.cse.cuhk.edu.hk: 5070 open through proxy proxy.cse.cuhk.edu.hk: 5070 HTTPS"
+  ],
+  "log_message": "",
+  "cases_csv": "data/Proxifier.csv",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 30,
+  "retrieved_candidate_count": 30,
+  "output_dir": "proxifier_intermediate_group_logs/case_32_group_logs",
+  "generated_at_utc": "2026-03-23T00:48:56.890749+00:00"
+}

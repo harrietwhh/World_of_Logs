@@ -1,0 +1,140 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Writing Test Suites — common_test v1.30",
+    "link": "https://www.erlang.org/doc/apps/common_test/write_test_chapter.html",
+    "displayed_link": "https://www.erlang.org › doc › apps › write_test_chapter",
+    "snippet": "timetrap - Sets the maximum time the test case is allowed to execute. If this time is exceeded, the test case fails with reason timetrap_timeout . Notice that ...",
+    "snippet_highlighted_words": [
+      "fails",
+      "reason timetrap_timeout"
+    ],
+    "source": "Erlang",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "ct_suite",
+    "link": "https://www.erlang.org/docs/25/man/ct_suite",
+    "displayed_link": "https://www.erlang.org › docs › man › ct_suite",
+    "snippet": "If the timetrap time is exceeded, the test case fails with reason timetrap_timeout. A TimeFunc function can be used to set a new timetrap by returning a TimeVal ...",
+    "snippet_highlighted_words": [
+      "fails",
+      "reason timetrap_timeout"
+    ],
+    "source": "Erlang",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Erlang -- Common Test",
+    "link": "https://erlang.org/documentation/doc-5.7.5/lib/common_test-1.4.7/doc/html/common_test.html",
+    "displayed_link": "https://erlang.org › lib › common_test-1.4.7 › doc › html",
+    "snippet": "The timetrap tag sets the maximum time the test case is allowed to take. If the timetrap time is exceeded, the test case fails with reason timetrap_timeout.",
+    "snippet_highlighted_words": [
+      "fails",
+      "reason timetrap_timeout"
+    ],
+    "source": "Erlang",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "4 Writing Test Suites",
+    "link": "https://erlang.org/documentation/doc-5.9.1/lib/common_test-1.6.1/doc/html/write_test_chapter.html",
+    "displayed_link": "https://erlang.org › lib › doc › html › write_test_chapter",
+    "snippet": "Set the maximum time the test case is allowed to execute. If the timetrap time is exceeded, the test case fails with reason timetrap_timeout. Note that ...",
+    "snippet_highlighted_words": [
+      "fails",
+      "reason timetrap_timeout"
+    ],
+    "source": "Erlang",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "ct_suite — common_test v1.30",
+    "link": "https://www.erlang.org/doc/apps/common_test/ct_suite.html",
+    "displayed_link": "https://www.erlang.org › doc › apps › ct_suite",
+    "snippet": "If the timetrap time is exceeded, the test case fails with reason timetrap_timeout . A TimeFunc function can be used to set a new timetrap by returning a ...",
+    "snippet_highlighted_words": [
+      "fails",
+      "reason timetrap_timeout"
+    ],
+    "source": "Erlang",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "[erlang-questions] Error in Common Tests",
+    "link": "https://erlang.org/pipermail/erlang-questions/2015-May/084423.html",
+    "displayed_link": "https://erlang.org › erlang-questions › 2015-May",
+    "snippet": "... line info if it's the last line of > execution that causes the timetrap timeout. Because of tail call > elimination the {Suite,Testcase,Line} ...",
+    "snippet_highlighted_words": [
+      "line",
+      "line",
+      "causes",
+      "timetrap timeout",
+      "Suite",
+      "Line"
+    ],
+    "source": "Erlang",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Common Test Release Notes",
+    "link": "https://www.erlang.org/docs/24/apps/common_test/notes",
+    "displayed_link": "https://www.erlang.org › docs › apps › notes",
+    "snippet": "If the last expression in a test case causes a timetrap timeout, the stack trace is ignored and not printed to the test case log file. This happens because the ...",
+    "snippet_highlighted_words": [
+      "causes",
+      "timetrap timeout"
+    ],
+    "source": "Erlang",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Common Test",
+    "link": "https://www.erlang.org/docs/24/apps/common_test/common_test.pdf",
+    "displayed_link": "https://www.erlang.org › docs › apps › common_t...",
+    "snippet": "the test case fails with reason timetrap_timeout. A TimeFunc function can be used to set a new timetrap by returning a TimeVal. It can also be used to ...",
+    "snippet_highlighted_words": [
+      "fails",
+      "reason timetrap_timeout"
+    ],
+    "source": "Erlang",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Common Test",
+    "link": "https://erlang.org/documentation/doc-5.7.1/pdf/common_test-1.4.1.pdf",
+    "displayed_link": "https://erlang.org › pdf › common_test-1.4.1.pdf",
+    "snippet": "Noted below are some of the more frequent dependency mistakes from our experience with running the Erlang/OTP test suites. • Depending on current directory, and ...",
+    "snippet_highlighted_words": [
+      "suites"
+    ],
+    "source": "Erlang",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

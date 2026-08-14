@@ -1,0 +1,147 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Strange behaviour `no-missing-eof-newline` · Issue #562",
+    "link": "https://github.com/stylelint/stylelint/issues/562",
+    "displayed_link": "https://github.com › stylelint › stylelint › issues",
+    "snippet": "You do not have an empty line at the end of the file, right? Your file is just an empty string? In this case, should the rule ignore the file?",
+    "snippet_highlighted_words": [
+      "end",
+      "file",
+      "file",
+      "file"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Unexpected missing end-of-source newline - stylelint",
+    "link": "https://stackoverflow.com/questions/75346028/unexpected-missing-end-of-source-newline",
+    "displayed_link": "1 answer · 3 years ago",
+    "snippet": "The no-missing-end-of-source-newline rule expects a newline at the end of the file. Add a newline to fix the problem.",
+    "snippet_highlighted_words": [
+      "expects a newline at the end of the file"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Getting \"Missing newline at the end of file\" error on ...",
+    "link": "https://www.reddit.com/r/cpp_questions/comments/1iuix2u/getting_missing_newline_at_the_end_of_file_error/",
+    "displayed_link": "6 comments · 1 year ago",
+    "snippet": "Getting \"Missing newline at the end of file\" error on Pearson homework problem that doesn't even have a file? SOLVED.",
+    "snippet_highlighted_words": [
+      "Getting \"Missing newline at the end of file\" error"
+    ],
+    "source": "Reddit · r/cpp_questions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Warn on missing newline character at EOF · Issue #1334",
+    "link": "https://github.com/koalaman/shellcheck/issues/1334",
+    "displayed_link": "https://github.com › koalaman › shellcheck › issues",
+    "snippet": "This is almost always a result of badly configured editors and the like. Shell check should offer a suggestion this is happening as some smarter ...",
+    "snippet_highlighted_words": [],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "How to force newline at end of files and why you should do it",
+    "link": "https://medium.com/@alexey.inkin/how-to-force-newline-at-end-of-files-and-why-you-should-do-it-fdf76d1d090e",
+    "displayed_link": "160+ likes · 3 years ago",
+    "snippet": "wc -l command is the most common way to count lines in your code. Following the definition, it just counts the number of newlines in a file.",
+    "snippet_highlighted_words": [
+      "number",
+      "file"
+    ],
+    "source": "Medium · Alexey Inkin",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "No newline at the end of file - ayodeji [at] trulyao.dev",
+    "link": "https://www.trulyao.dev/posts/no-newline-at-end-of-file-vim",
+    "displayed_link": "https://www.trulyao.dev › posts › no-newline-at-end-of-...",
+    "snippet": "You ran `git status` and got this weird diff at the end that read \"No newline at the end of file\" and now the reviewer is telling you to fix ...",
+    "snippet_highlighted_words": [
+      "end",
+      "No newline",
+      "end",
+      "file"
+    ],
+    "source": "trulyao.dev",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Prevent diff from checking for newline at end of file",
+    "link": "https://superuser.com/questions/388276/prevent-diff-from-checking-for-newline-at-end-of-file",
+    "displayed_link": "https://superuser.com › questions › prevent-diff-from-ch...",
+    "snippet": "To use 'diff', you basically have to modify the files that are missing the newline at the end of a file, and then compare.",
+    "snippet_highlighted_words": [
+      "files",
+      "missing",
+      "newline",
+      "end",
+      "file"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "'No newline at end of file' error - Treehouse",
+    "link": "https://teamtreehouse.com/community/no-newline-at-end-of-file-error",
+    "displayed_link": "https://teamtreehouse.com › community › no-newline-at...",
+    "snippet": "I am getting this error and am not sure why. I tried adding a print statement that just printed a newline character to the end of the file but got the same ...",
+    "snippet_highlighted_words": [
+      "newline",
+      "end",
+      "file"
+    ],
+    "source": "teamtreehouse.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Disable no-missing-eof-newline for HTML-linting(?) #1226",
+    "link": "https://github.com/stylelint/stylelint/issues/1226",
+    "displayed_link": "https://github.com › stylelint › stylelint › issues",
+    "snippet": "dr: -e looks for no-missing-eof-newline, which makes sense for CSS files, but not. ... Unexpected missing newline at end of file no-missing-eof- ...",
+    "snippet_highlighted_words": [
+      "no",
+      "missing",
+      "eof",
+      "newline",
+      "CSS files",
+      "Unexpected missing newline",
+      "end",
+      "file",
+      "missing"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

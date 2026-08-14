@@ -1,0 +1,33 @@
+{
+  "case_id": "1",
+  "summary_raw": "[\"Send worker leaving thread\",\"Received connection request\",\"Connection broken\",\"Interrupted\",\"Interrupting SendWorker\"]",
+  "summary_items": [
+    "Send worker leaving thread",
+    "Received connection request",
+    "Connection broken",
+    "Interrupted",
+    "Interrupting SendWorker"
+  ],
+  "group_logs_lines": [
+    "WARN Send worker leaving thread",
+    "INFO Received connection request /10.10.34.11 : 45328",
+    "WARN Connection broken for id 188978561024 , my id = 1 , error =",
+    "WARN Interrupting SendWorker",
+    "WARN Interrupted while waiting for message on queue",
+    "WARN Send worker leaving thread",
+    "INFO Received connection request /10.10.34.11 : 45329",
+    "WARN Connection broken for id 188978561024 , my id = 1 , error =",
+    "WARN Interrupting SendWorker",
+    "WARN Interrupted while waiting for message on queue",
+    "WARN Send worker leaving thread",
+    "INFO Received connection request /10.10.34.11 : 45336",
+    "INFO Received connection request /10.10.34.11 : 45338",
+    "WARN Interrupted while waiting for message on queue",
+    "WARN Connection broken for id 188978561024 , my id = 1 , error =",
+    "WARN Interrupting SendWorker",
+    "WARN Send worker leaving thread",
+    "WARN Connection broken for id 188978561024 , my id = 1 , error =",
+    "WARN Interrupting SendWorker",
+    "WARN Interrupted while waiting for message on queue"
+  ]
+}

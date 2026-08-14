@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_170fd139a2c22543b8e79c77cdbe409e8f64dc2ccfdb64419c3031a61234bc93",
+    "score": 30.988207,
+    "link": "https://stackoverflow.com/questions/20922278",
+    "source": "so",
+    "origin_doc_id": "1f981c9165dbcaf73dadff3463b6949a5b8077630342ea9b27f57c1d7dc893fe",
+    "snippet": "E/chromium(1060): [ERROR:gl_surface_egl.cc(127)] No suitable EGL configs found. \n E/chromium(1060): [ERROR:gl_surface_android.cc(30)] GLSurfaceEGL::InitializeOneOff failed. \n E/chromium(1060): [ERROR:sys_info_android.cc(105)] Can't parse dalvik.vm.heapgrowthlimit:  \n E/chromium(1060): [ERROR:context_group.cc(97)] ContextGroup::Initialize failed because maximum renderbuffer size too small. \n E/chromium(1060): [ERROR:gles2_cmd_decoder.cc(2199)] GpuScheduler::InitializeCommon failed because group failed to initialize. \n E/chromium(1060): [ERROR:command_buffer_proxy_impl.cc(167)] Failed to initialize command buffer service. \n E/chromium(1060): [ERROR:context_group.cc(97)] ContextGroup::Initialize failed because maximum renderbuffer size too small. \n E/chromium(1060): [ERROR:gles2_cmd_decoder.cc(2199)] GpuScheduler::InitializeCommon failed because group failed to initialize. \n E/chromium(1060): [ERROR:command_buffer_proxy_impl.cc(167)] Failed to initialize command buffer service. \nE/chromium(1060): [ERROR:context_group.cc(97)] ContextGroup::Initialize failed because maximum renderbuffer size too small.\nE/chromium(1060): [ERROR:gles2_cmd_decoder.cc(2199)] GpuScheduler::InitializeCommon failed because group failed to initialize.\nE/chromium(1060): [ERROR:command_buffer_proxy_impl.cc(167)] Failed to initialize command buffer service.\nE/chromium(1060): [ERROR:context_group.cc(97)] ContextGroup::Initialize failed because maximum renderbuffer size too small.\nE/chromium(1060): [ERROR:gles2_cmd_decoder.cc(2199)] GpuScheduler::InitializeCommon failed because group failed to initialize.\nE/chromium(1060): [ERROR:command_buffer_proxy_impl.cc(167)] Failed to initialize command buffer service."
+  },
+  {
+    "rank": 2,
+    "id": "msg_2592a6c48e6c794d3570d54adea00a055c52690b634f10435ec90b67b10b2823",
+    "score": 30.176632,
+    "link": "https://issues.apache.org/jira/browse/MESOS-139",
+    "source": "jira",
+    "origin_doc_id": "a69e382cc331fdcc8774438fd641a432038997a8013df404c7c428ff12b4fb7a",
+    "snippet": "LOG.fatal(\"Failed to deserialize HadoopFrameworkMessage\", e); \n\n System.exit(1);\nLOG.fatal(\"Failed to close the taskTracker\", e); \n\n System.exit(1);"
+  },
+  {
+    "rank": 3,
+    "id": "msg_da6672600df8ca67c1e9ac40acea581795eb13007824695d285ba9c3f4e30fbc",
+    "score": 29.494818,
+    "link": "https://stackoverflow.com/questions/42632675",
+    "source": "so",
+    "origin_doc_id": "07ad99efe3ab0155fe251bb73950f08341c2f9f588bfce33a504c264af892ded",
+    "snippet": "System.out.println(\"Failed to initialize SSL handling. \n \" + e);"
+  },
+  {
+    "rank": 4,
+    "id": "msg_c8cbb0f2ccea5f510cafaaad477d4c3a47e03f87bf4cab0b5b1ae563f6c38d7a",
+    "score": 29.494818,
+    "link": "https://github.com/bcgit/bc-java/issues/460",
+    "source": "github",
+    "origin_doc_id": "e8bd325f87863d89f3e7fb8633f7d8f249413a5b30cd85ffcb03228434c25eea",
+    "snippet": "sLogger.error(\"Failed to initialize SSL Context\", e);"
+  },
+  {
+    "rank": 5,
+    "id": "msg_70e308f0f4ecd4d697706fadda39d1966514f6e33f01491e84beb98622f7ff83",
+    "score": 29.42799,
+    "link": "https://stackoverflow.com/questions/12707510",
+    "source": "so",
+    "origin_doc_id": "c8890f6a8d0c01e68c0ea2ff5ec428d3a77bc7d5aca81d86db6cd678e7eb741d",
+    "snippet": "log.fatal(\"JNDI lookup  failed for DataSource \"+jndiName, e);\nlog.fatal(\"Failed to get a connection from DataSource \"+jndiName, e);"
+  },
+  {
+    "rank": 6,
+    "id": "msg_b0797ce55653cbf2facedae737430d079eae79448404cb76fcef0873f8d5d1a3",
+    "score": 28.608418,
+    "link": "https://stackoverflow.com/questions/34813647",
+    "source": "so",
+    "origin_doc_id": "b3ad85d1b0c5148362adea89e2d728c9acdd910bb566c0755cb1f6423026758f",
+    "snippet": "log.Fatal(\"Failed to upload an app because of: \", err.Error())"
+  },
+  {
+    "rank": 7,
+    "id": "msg_261334f8bbc53ad5c389e74f3804e3049c5c157cbd27e236afdaa52e790aea80",
+    "score": 27.90149,
+    "link": "https://issues.apache.org/jira/browse/MESOS-139",
+    "source": "jira",
+    "origin_doc_id": "a69e382cc331fdcc8774438fd641a432038997a8013df404c7c428ff12b4fb7a",
+    "snippet": "LOG.fatal(\"Failed to deserialize HadoopFrameworkMessage\", e);"
+  },
+  {
+    "rank": 8,
+    "id": "msg_d5095d42a36e5cbf14b8e8b53d493316402cdc9cc78ba2f8766a3599cf239d9b",
+    "score": 27.688608,
+    "link": "https://stackoverflow.com/questions/66149657",
+    "source": "so",
+    "origin_doc_id": "d38d17e75b2cf4d63e4bb62c5def51b1dfe6bc75db3daddf003f26190d66e321",
+    "snippet": "LOG.fatal(\"Failed to store file to bucket: \" , e);"
+  },
+  {
+    "rank": 9,
+    "id": "msg_81b39a01961253f1a63eb8359a296c42c14e4940622b01554e675acd5bbe1f04",
+    "score": 27.338156,
+    "link": "https://stackoverflow.com/questions/34776747",
+    "source": "so",
+    "origin_doc_id": "1d7944b5d52fc77ea5dc04068b58a781d3ff6d15ecd8483b31b17b7a2d9b5dcc",
+    "snippet": "printf(\"SSL Failed to initialize. \n \");\nprintf(\"SSL Failed to initialize. \n \");"
+  },
+  {
+    "rank": 10,
+    "id": "msg_8e0b91aec51cd9b337a758640440414a8ce02082fca1ba5539cfbe9124dc0386",
+    "score": 27.110577,
+    "link": "https://github.com/espressif/esp-idf/issues/5698",
+    "source": "github",
+    "origin_doc_id": "29b9e107f3e4762c8a253f04d53a359605aa0d533e240af5378689affab83904",
+    "snippet": "E (407759) wpa: mbedtls_pk_parse_keyfile returned -0x2e80 \n E (407759) wpa: Failed to set client pki context \n E (407760) wpa: Failed to set client configurations \n E (407765) wpa: failed to create ssl handle \n I (407770) wpa: TLS: Failed to set TLS connection parameters \n I (407776) wpa: EAP-TLS: Failed to initialize SSL."
+  }
+]

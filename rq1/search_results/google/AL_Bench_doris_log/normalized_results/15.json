@@ -1,0 +1,14 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Does Laravel's toSql() method mask ids? (column value ...",
+    "link": "https://stackoverflow.com/questions/32372437/does-laravels-tosql-method-mask-ids-column-value-being-replaced-by-question",
+    "displayed_link": "5 answers · 10 years ago",
+    "snippet": "Laravel uses Prepared Statements. They're a way of writing an SQL statement without dropping variables directly into the SQL string.",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

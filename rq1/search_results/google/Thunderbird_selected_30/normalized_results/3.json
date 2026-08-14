@@ -1,0 +1,180 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "What is run-parts in /etc/crontab and how do I use it?",
+    "link": "https://superuser.com/questions/402781/what-is-run-parts-in-etc-crontab-and-how-do-i-use-it",
+    "displayed_link": "https://superuser.com › questions › what-is-run-parts-in...",
+    "snippet": "Basically, run-parts(8) takes a directory as an argument. It will run every script that is found in this directory.",
+    "snippet_highlighted_words": [
+      "run-parts(8) takes a directory as an argument"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Strange root cronjob - I've never set it",
+    "link": "https://askubuntu.com/questions/635704/strange-root-cronjob-ive-never-set-it",
+    "displayed_link": "https://askubuntu.com › questions › strange-root-cronjo...",
+    "snippet": "Yes, this cronjob exists by default. It runs hourly and executes the scripts in /etc/cron.hourly/ (if there are any).",
+    "snippet_highlighted_words": [
+      "hourly",
+      "etc",
+      "cron",
+      "hourly"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Chapter 39. Automated Tasks | Deployment Guide",
+    "link": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/5/html/deployment_guide/ch-autotasks",
+    "displayed_link": "https://docs.redhat.com › deployment_guide › ch-autotasks",
+    "snippet": "As shown in the /etc/crontab file, the run-parts script executes the scripts in the /etc/cron.hourly/ , /etc/cron.daily/ , /etc/cron.weekly/ , and /etc/cron ...",
+    "snippet_highlighted_words": [
+      "run",
+      "parts",
+      "etc",
+      "cron",
+      "hourly",
+      "etc",
+      "cron",
+      "daily"
+    ],
+    "source": "Red Hat Documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "[SOLVED] - simple cronjob in /etc/cron.hourly not working",
+    "link": "https://forum.proxmox.com/threads/simple-cronjob-in-etc-cron-hourly-not-working.179407/",
+    "displayed_link": "https://forum.proxmox.com › threads › simple-cronjob-...",
+    "snippet": "It seems that run-parts is executed, but \"nothing happens\". Really strange for such a simple task. What could be the issue?",
+    "snippet_highlighted_words": [
+      "run",
+      "parts"
+    ],
+    "source": "Proxmox Support Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Manually running crontab cron.hourly returns missing file ...",
+    "link": "https://stackoverflow.com/questions/56774499/manually-running-crontab-cron-hourly-returns-missing-file-error",
+    "displayed_link": "1 answer · 6 years ago",
+    "snippet": "Running the crontab command manually in the terminal worked. No errors, and logs were rotated correctly. However crontab is still not running automatically.",
+    "snippet_highlighted_words": [
+      "Running",
+      "crontab command",
+      "crontab",
+      "running"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Is there a way to run all scripts in cron.hourly as specific ...",
+    "link": "https://www.reddit.com/r/linuxadmin/comments/m41xbu/is_there_a_way_to_run_all_scripts_in_cronhourly/",
+    "displayed_link": "6 comments · 5 years ago",
+    "snippet": "I am looking for a way to run all scripts in cron.hourly, and the other cron folders, as specific user, not as root. How can i do that?",
+    "snippet_highlighted_words": [
+      "run all scripts in cron.hourly"
+    ],
+    "source": "Reddit · r/linuxadmin",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "cron - Automating Commands",
+    "link": "https://docs.rockylinux.org/10/guides/automation/cron_jobs_howto/",
+    "displayed_link": "https://docs.rockylinux.org › guides › cron_jobs_howto",
+    "snippet": "/etc/cron.hourly - Scripts placed here will run one minute past the hour every hour (run by cron regardless of whether anacron exists or not) ...",
+    "snippet_highlighted_words": [
+      "etc",
+      "cron",
+      "hourly",
+      "run",
+      "run"
+    ],
+    "source": "Rocky Linux Documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "centos - How can I stop (Cron <root@server> run-parts /etc ...",
+    "link": "https://unix.stackexchange.com/questions/705483/how-can-i-stop-cron-rootserver-run-parts-etc-cron-hourly-emails",
+    "displayed_link": "https://unix.stackexchange.com › questions › how-can-i...",
+    "snippet": "I am getting these emails constantly on a new CentOS 7 server. Subject: Cron <root@server> run-parts /etc/cron.hourly /etc/cron.hourly/0anacron: /etc/cron",
+    "snippet_highlighted_words": [
+      "Cron",
+      "root",
+      "run",
+      "parts",
+      "etc",
+      "cron",
+      "hourly",
+      "etc",
+      "cron",
+      "hourly",
+      "etc",
+      "cron"
+    ],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "I put a cronjob in /etc/cron.{hourly,daily,weekly,monthly} ...",
+    "link": "https://www.cyberciti.biz/cloud-computing/why-is-my-linux-unix-crontab-job-not-working/",
+    "displayed_link": "https://www.cyberciti.biz › cloud-computing › why-is-...",
+    "snippet": "As the name suggests the run-parts command run scripts or programs in a directory such as /etc/cron.hourly/. However, it is very picky about ...",
+    "snippet_highlighted_words": [
+      "run scripts or programs in a directory"
+    ],
+    "source": "nixCraft",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "A list of scripts from /etc/cron.hourly is sent ...",
+    "link": "https://support.plesk.com/hc/en-us/articles/12388480175767-A-list-of-scripts-from-etc-cron-hourly-is-sent-hourly-to-the-Plesk-admin-constantly",
+    "displayed_link": "https://support.plesk.com › en-us › articles › 12388480...",
+    "snippet": "Subject: Cron run-parts /etc/cron.hourly. Body: /etc/cron.hourly/0anacron ... Note: This command needs sudo even if you are executing it as the root user.",
+    "snippet_highlighted_words": [
+      "run",
+      "parts",
+      "etc",
+      "cron",
+      "hourly",
+      "etc",
+      "cron",
+      "hourly",
+      "command",
+      "root"
+    ],
+    "source": "Plesk",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

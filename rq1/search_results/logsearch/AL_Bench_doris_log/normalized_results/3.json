@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_2993c5940075c2881951f7249a3e172463dc62e772292748f880c3f63e4076f4",
+    "score": 28.298782,
+    "link": "https://github.com/appium/appium/issues/7324",
+    "source": "github",
+    "origin_doc_id": "0e8131c11876d407ca9d016a31325a32a8d1e7b115f0de76195d0359caae2630",
+    "snippet": "log.warn(`iproxy exited with code '${code}'`);"
+  },
+  {
+    "rank": 2,
+    "id": "msg_5d3873f8b8ce344c87b6b99439b7933802bd75634e1c5f509d0a84edc8f90149",
+    "score": 28.143879,
+    "link": "https://github.com/actions-on-google/smart-home-nodejs/issues/264",
+    "source": "github",
+    "origin_doc_id": "b3096b26196f81a57052c8ee154a87f17ca195b74df385e7511b712447e167ff",
+    "snippet": "E  SYNC: Request ID 1261818286606417973 failed with code: BACKEND_FAILURE  \n E  SYNC: Request ID 14215194235674494510 failed with code: BACKEND_FAILURE  \n E  SYNC: Request ID 12101627294419496282 failed with code: BACKEND_FAILURE  \n E  SYNC: Request ID 17326090188924339690 failed with code: BACKEND_FAILURE  \n E  SYNC: Request ID 7128223364940431880 failed with code: BACKEND_FAILURE  \n E  SYNC: Request ID 2441732611283690783 failed with code: BACKEND_FAILURE  \n E  SYNC: Request ID 15540960382592936486 failed with code: BACKEND_FAILURE  \nE  SYNC: Request ID 8488448783153378233 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 13641388532760866750 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 730002831356036412 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 15807088624844975658 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 937447837347773791 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 6178994816762376493 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 10748910853597903091 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 1585573250441264721 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 5809097433644544606 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 13890046057724044332 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 8897388149488071862 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 1440401273016843364 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 16793552590111395692 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 2832167909599048316 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 14060063900940228217 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 10636092416581229044 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 9241972336735715037 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 12705368288347476638 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 846970492760639909 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 16753203560015270082 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 5266140754186631717 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 10602058268258454523 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 6922599987660531587 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 7339667930167915686 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 11033442845712225296 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 4562209006544432810 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 11635421288507264432 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 17720760607021496808 failed with code: BACKEND_FAILURE \nE  SYNC: Request ID 14328870472505335243 failed with code: BACKEND_FAILURE \n SYNC: Request ID 2799967384180649588 failed with code: BACKEND_FAILURE E \n SYNC: Request ID 6602524478766030858 failed with code: BACKEND_FAILURE E  \n  SYNC: Request ID 6831553142596407202 failed with code: BACKEND_FAILURE E"
+  },
+  {
+    "rank": 3,
+    "id": "msg_ac2c9f8c1b4d1d32a1fda5e131113428a59c07181f6ee18ed0393f7513bbfe6d",
+    "score": 27.604383,
+    "link": "https://github.com/JoshuaSmeda/Mimecast-log-collector/issues/1",
+    "source": "github",
+    "origin_doc_id": "2e91ab9a9b7f45001aa86a3048d7f16e9361f55a5a0a65cfd7576015ba86b76d",
+    "snippet": "log.warn('Rate limit hit. Sleeping for ' + str(r.headers['X-RateLimit-Reset']))\nlog.error('Request to ' + uri + ' with, request id: ' + request_id + ' returned with status code: ' + str(r.status_code) + ', response body: ' + r.text)"
+  },
+  {
+    "rank": 4,
+    "id": "msg_0c2880ae5df0944acaa498edb206150d69574efd9c0e77f99163ec6d2820293a",
+    "score": 27.579979,
+    "link": "https://stackoverflow.com/questions/63504729",
+    "source": "so",
+    "origin_doc_id": "c43f30cffd328573686e0723fe102cb32ce9bf07559d5ca429d719ab6ead8a69",
+    "snippet": "console.log(\"ERROR provision:\" + err);\nconsole.log(JSON.stringify(\"SalesForce Record for:\" +accId+\", with response:\" +\nconsole.log(\"ERROR Salesforce:\" + err);\n Making :3 Accounts\nERROR Create acc:Error: Request failed with status code 400\nERROR unautinit:Error: Request failed with status code 400\nERROR provision:Error: Request failed with status code 400\nERROR Salesforce:Error: Request failed with status code 400\nERROR Create acc:Error: Request failed with status code 400\nERROR unautinit:Error: Request failed with status code 400\nERROR provision:Error: Request failed with status code 400\nERROR Salesforce:Error: Request failed with status code 400\nERROR Create acc:Error: Request failed with status code 400\nERROR unautinit:Error: Request failed with status code 400\nERROR provision:Error: Request failed with status code 400\nERROR Salesforce:Error: Request failed with status code 400"
+  },
+  {
+    "rank": 5,
+    "id": "msg_8c1890597ae3455d620e66cf8925f4581ef3fee262b7a1fb342d71310e2b4f55",
+    "score": 27.189178,
+    "link": "https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server/issues/761",
+    "source": "github",
+    "origin_doc_id": "5f6a406a216308336ee62ae31e6d13c311288c4b8459393eb78d9e313afc9251",
+    "snippet": "Ingesting (limit: 100) ... \n [ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql] \n [ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql] \n [ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[Truncated]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]\n[ ERROR ] ingestion error: request failed with status code: notFound [database-id: psql]"
+  },
+  {
+    "rank": 6,
+    "id": "msg_fe2327a4cf61cae5626f647a7ed2cf1a466aa54d80d52c2b14e84332a38bcc23",
+    "score": 27.159243,
+    "link": "https://github.com/GeneralMills/pytrends/issues/360",
+    "source": "github",
+    "origin_doc_id": "3d653c8f465521cdafeca6739f4382a8444b4446f14c55926e8b399190d367ba",
+    "snippet": "request failed: Google returned a response with code 400.\nroils\n<pytrends.request.TrendReq object at 0x10101fda0>\nneckband\nThe request failed: Google returned a response with code 400.\nwest-northwest\nThe request failed: Google returned a response with code 400.\nrechews\nThe request failed: Google returned a response with code 400.\nsweal\n<pytrends.request.TrendReq object at 0x10101fda0>\nyoungsters\nThe request failed: Google returned a response with code 400.\ncrones\nThe request failed: Google returned a response with code 400.\ncancellative\nThe request failed: Google returned a response with code 400.\nmolasses\nThe request failed: Google returned a response with code 400.\ntimeshare\nThe request failed: Google returned a response with code 400.\nEavis's\nThe request failed: Google returned a response with code 400.\noverflight\nThe request failed: Google returned a response with code 400.\ntransprose\nThe request failed: Google returned a response with code 400.\ngrubbily\nThe request failed: Google returned a response with code 400.\ntime-line\nThe request failed: Google returned a response with code 400.\n[Truncated]\nThe request failed: Google returned a response with code 400.\ndelayingly\nThe request failed: Google returned a response with code 400.\nsalmonberries\nThe request failed: Google returned a response with code 400.\npurple\nThe request failed: Google returned a response with code 400.\nafflicteth\nThe request failed: Google returned a response with code 400.\nThe request failed: Google returned a response with code 400."
+  },
+  {
+    "rank": 7,
+    "id": "msg_1c7d9c9e1e62f2af227f11bde972fa49eba1267bd338bf1a37a39a645a20951a",
+    "score": 27.14848,
+    "link": "https://stackoverflow.com/questions/74482780",
+    "source": "so",
+    "origin_doc_id": "d69dce61b914b377238297eb5fa163725f3cbdbf458e252c90ba56b0c836c3e2",
+    "snippet": "\"*Request?failed?with?status?code?5??*\"\n\"Request failed with status code\" 5??   \n \"Request failed with status code\" 5*"
+  },
+  {
+    "rank": 8,
+    "id": "msg_67e65f4cea2b09327c031ba1c0a38aae66164bccd83d506005b05032dbd983be",
+    "score": 27.054586,
+    "link": "https://stackoverflow.com/questions/79596275",
+    "source": "so",
+    "origin_doc_id": "153ecbd0bf71fb3efd0d4070d7a4b5c3208d173cd9e8138cd101198a429f9083",
+    "snippet": "log.warn(\"⚠️ FFmpeg process exited with code: \" + exitCode);\nlog.error(\"❌ Failed to check FFmpeg status\", e);"
+  },
+  {
+    "rank": 9,
+    "id": "msg_6ea811e0ee6ab7c497e196b2ecb3d763f04dc6eb0b3fbf226a436b8ccbcb211c",
+    "score": 26.96372,
+    "link": "https://stackoverflow.com/questions/77216312",
+    "source": "so",
+    "origin_doc_id": "2b159c1d562ac1f64cfa71856930ef2e3b5ea86d209c332282c2c797c7b274c5",
+    "snippet": "Request failed with status code: 502 \n {\"message\": \"Internal server error\"} \n Request failed with status code: 502 \n {\"message\": \"Internal server error\"} \n Request failed with status code: 502 \n {\"message\": \"Internal server error\"}\nRequest failed with status code: 502\n{\"message\": \"Internal server error\"}\nRequest failed with status code: 502\n{\"message\": \"Internal server error\"}\nRequest failed with status code: 502\n{\"message\": \"Internal server error\"}\nRequest failed with status code: 502\n{\"message\": \"Internal server error\"}"
+  },
+  {
+    "rank": 10,
+    "id": "msg_55b44c9eb9a5d67dc611015e48bca319e31a19fb6c0b5247030fcf973d5be280",
+    "score": 26.898535,
+    "link": "https://github.com/Yelp/hacheck/pull/4",
+    "source": "github",
+    "origin_doc_id": "2f3c9baf7bbdcdf8d200656c16c26e22fdc656c716d747cbe0e67ffb897ce61c",
+    "snippet": "log.warn \"nerve: check #{@name} got response code #{code} with body \\\"#{body}\\\"\""
+  }
+]

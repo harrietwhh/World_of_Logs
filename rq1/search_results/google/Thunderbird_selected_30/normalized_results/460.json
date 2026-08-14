@@ -1,0 +1,43 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Windows computer clock resets to a previous date and time",
+    "link": "https://learn.microsoft.com/en-us/troubleshoot/windows-server/active-directory/client-clock-reverts-to-previous-time",
+    "displayed_link": "https://learn.microsoft.com › ... › Windows Server",
+    "snippet": "This article provides workarounds for an issue in which the computer clock resets incorrectly if you restart the computer while it doesn't have an internet ...",
+    "snippet_highlighted_words": [
+      "clock resets",
+      "restart"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Digital Atomic Wall Clock Setup Instructions",
+    "link": "https://www.youtube.com/watch?v=dYvkOhF9Prw",
+    "displayed_link": "256.6K+ views · 9 years ago",
+    "snippet": "In this video, we'll walk you through the setup and function of your Digital Atomic Wall Clock. Though focused on our 513-1419, 513-1419BL, ...",
+    "snippet_highlighted_words": [],
+    "source": "YouTube · La Crosse Technology",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "loghub/Thunderbird/Thunderbird_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Thunderbird/Thunderbird_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Thunderbird",
+    "snippet": "... time 1131563037 when last update time is 1131563037 (minimum one second step) ... time reset +0.182379 s. - 1131566666 2005.11.09 bn10 Nov 9 12:04:26 bn10/bn10 ...",
+    "snippet_highlighted_words": [
+      "time reset +0.182379 s"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

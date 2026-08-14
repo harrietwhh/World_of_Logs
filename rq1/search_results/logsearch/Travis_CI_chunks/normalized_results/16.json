@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_1eb947e8fc9dc628e8845d9f10a86430664d341113ac6c4933310947443c3815",
+    "score": 96.8861,
+    "link": "https://github.com/wikimedia/grunt-stylelint/issues/69",
+    "source": "github",
+    "origin_doc_id": "9699d2a3523edce2bd33a8714c9b199bb2dd3d519d92beba5d4db34f16b22a39",
+    "snippet": "\u001b[4m../MySite/css/bootstrap-style.css\u001b[24m \n  \u001b[2m4:24\u001b[22m  \u001b[31m\u001b[31m×\u001b[39m  Expected newline after \",\"   \u001b[2mselector-list-comma-newline-after\u001b[22m \n \u001b[4m../MySite/css/style-print.css\u001b[24m \n    \u001b[2m7:1\u001b[22m    \u001b[31m\u001b[31m×\u001b[39m  Expected empty line before rule                                  \u001b[2mrule-empty-line-before\u001b[22m                 \n   \u001b[2m10:1\u001b[22m    \u001b[31m\u001b[31m×\u001b[39m  Expected empty line before rule                                  \u001b[2mrule-empty-line-before\u001b[22m                 \n  \u001b[2m13:2\u001b[22m    \u001b[31m\u001b[31m×\u001b[39m  Expected newline after \"}\"                                       \u001b[2mblock-closing-brace-newline-after\u001b[22m     \n  \u001b[2m13:2\u001b[22m    \u001b[31m\u001b[31m×\u001b[39m  Unexpected whitespace at end of line                             \u001b[2mno-eol-whitespace\u001b[22m                     \n  \u001b[2m14:1\u001b[22m    \u001b[31m\u001b[31m×\u001b[39m  Expected empty line before rule                                  \u001b[2mrule-empty-line-before\u001b[22m                \n  \u001b[2m17:2\u001b[22m    \u001b[31m\u001b[31m×\u001b[39m  Expected newline after \"}\"                                       \u001b[2mblock-closing-brace-newline-after\u001b[22m     \n  \u001b[2m17:2\u001b[22m    \u001b[31m\u001b[31m×\u001b[39m  Unexpected whitespace at end of line                             \u001b[2mno-eol-whitespace\u001b[22m                     \n  \u001b[2m18:1\u001b[22m    \u001b[31m\u001b[31m×\u001b[39m  Expected empty line before rule                                  \u001b[2mrule-empty-line-before\u001b[22m                \n  \u001b[2m21:1\u001b[22m    \u001b[31m\u001b[31m×\u001b[39m  Expected empty line before rule                                  \u001b[2mrule-empty-line-before\u001b[22m                \n  \u001b[2m21:11\u001b[22m   \u001b[31m\u001b[31m×\u001b[39m  Expected newline after \"{\" of a multi-line block                 \u001b[2mblock-opening-brace-newline-after\u001b[22m     \n  \u001b[2m21:22\u001b[22m   \u001b[31m\u001b[31m×\u001b[39m  Unexpected whitespace at end of line                             \u001b[2mno-eol-whitespace\u001b[22m                     \n  \u001b[2m22:"
+  },
+  {
+    "rank": 2,
+    "id": "msg_c7d6da988507068c0ef0d3c41f2868457e8f900d1bab675841a2699f4289c255",
+    "score": 83.52434,
+    "link": "https://github.com/NREL-SIIP/InfrastructureSystems.jl/pull/203",
+    "source": "github",
+    "origin_doc_id": "a11d43b890644e3b645ed182d8140aff6cf0d2c405dbe5086f424d0b8a860288",
+    "snippet": "julia> run(`cp`) \n cp: missing file operand \n Try 'cp --help' for more information. \n [91m[1mERROR: [22m[39m[91mfailed process: Process(`[4mcp[24m`, ProcessExited(1)) [1][39m \n\n [1] [1mpipeline_error[22m at [1m.\\process.jl:525[22m [inlined] \n [2] [1mrun[22m[1m([22m::Cmd; wait::Bool[1m)[22m at [1m.\\process.jl:440[22m \n [3] [1mrun[22m[1m([22m::Cmd[1m)[22m at [1m.\\process.jl:438[22m \n [4] top-level scope at [1mREPL[1]:1[22m \n ``` \n Julia 1.5.0\njulia> run(`cp`) \n cp: missing file operand \n Try 'cp --help' for more information. \n ERROR: failed process: Process(`cp`, ProcessExited(1)) [1] \n Stacktrace: \n [1] pipeline_error at .\\process.jl:525 [inlined] \n [2] run(::Cmd; wait::Bool) at .\\process.jl:440 \n [3] run(::Cmd) at .\\process.jl:438 \n [4] top-level scope at REPL[1]:1"
+  },
+  {
+    "rank": 3,
+    "id": "msg_c51ce2c44b13df7b0443fcb7b5670d3dbdf33771f47261b8ca244f9201f9a7ef",
+    "score": 80.48479,
+    "link": "https://github.com/stylelint/stylelint/issues/562",
+    "source": "github",
+    "origin_doc_id": "96eb017bce321bea390b2b122eb6077bfac123e0184ace676a80748884e3adb0",
+    "snippet": "Unexpected missing newline at end of file (no-missing-eof-newline) [stylelint]"
+  },
+  {
+    "rank": 4,
+    "id": "msg_b051c0545af611a805842bb947a79cbd2eb22bcc9dd609509179ffaffecb4a79",
+    "score": 78.03918,
+    "link": "https://github.com/stylelint/stylelint/issues/1226",
+    "source": "github",
+    "origin_doc_id": "02b7bd5357362055b639a04b0d75c196f1f76ccbc5d436b684e62363a9d58a82",
+    "snippet": "_site/asides/danish-handbook/index.html \n  1:33  ✖  Unexpected missing newline at end of file   no-missing-eof-newline \n ```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_f2294923cc9d323b8d5670b582a45a126bb4eee4c4a3cde274fa009b0bce7fea",
+    "score": 71.08385,
+    "link": "https://github.com/billchurch/webssh2/issues/273",
+    "source": "github",
+    "origin_doc_id": "75102532eae3c44565fecea79974e035a5dded08e457c37ecb1a89299199aff3",
+    "snippet": "2022-01-26T12:01:21.933Z ssh2 Client: keyboard-interactive auth failed \n WebSSH2 \u001b[1m\u001b[31merror: Authentication failure\u001b[39m\u001b[22m user=\u001b[4m\u001b[1m\u001b[33mAdithya Raviraja\u001b[39m\u001b[22m\u001b[24m from=\u001b[4m\u001b[1m\u001b[33m127.0.0.1\u001b[39m\u001b[22m\u001b[24m \n ```"
+  },
+  {
+    "rank": 6,
+    "id": "msg_df3f1cf87972a18c9d06c7873b969a9359451edf4e8dcf39fc0c33f4f826ab5c",
+    "score": 69.86645,
+    "link": "https://github.com/PathwayCommons/app-ui/issues/993",
+    "source": "github",
+    "origin_doc_id": "c0c2bf00c2d1a684afdeb37f8b16ae55360f2e6e89e709ea53d49a65bf1f0dc5",
+    "snippet": "src/styles/index.css \n  15:36  ✖  Unexpected missing end-of-source newline   no-missing-end-of-source-newline \n src/styles/vars.css \n  50:1  ✖  Unexpected missing end-of-source newline   no-missing-end-of-source-newline"
+  },
+  {
+    "rank": 7,
+    "id": "msg_de1180848f6d3a4778cc31efe8ede2f8885d36e3c6596a44db13099567c3dd70",
+    "score": 69.164246,
+    "link": "https://stackoverflow.com/questions/34114922",
+    "source": "so",
+    "origin_doc_id": "358dd756d21385c154e189e3304e36ff34739c3629701971a811db0772de80dc",
+    "snippet": "e:/react/test/source/app.js: Unexpected token (4:13) \n [0m  2 | [36mvar[39m ReactDOM [1m=[22m require[94m[1m([22m[39m[31m'react-dom'[39m[94m[1m)[22m[39m[1m;[22m \n   3 | \n > 4 | [36mvar[39m header [1m=[22m [1m<[22mh1[1m>[22mTest[1m<[22m[1m/[22mh1[1m>[22m \n     |              ^ \n   5 | \n  6 | ReactDOM[1m.[22mrender[94m[1m([22m[39mheader[1m,[22m document[1m.[22mgetElementById[94m[1m([22m[39m[31m'react-application'[39m[94m[1m)[22m[39m[94m[1m)[22m[39m[1m;[22m[0m......"
+  },
+  {
+    "rank": 8,
+    "id": "msg_c4d25e641c532fb62891b77d295f822d32a579ae1fec2b86df5bb98ace9e7185",
+    "score": 69.12323,
+    "link": "https://stackoverflow.com/questions/31412225",
+    "source": "so",
+    "origin_doc_id": "4124cf0b34c06c6d932f01a3ba829c8581cddcb4a6b5ec9475ad41fc7a58415c",
+    "snippet": "App running at: http://localhost:3000/ \n => Client modified -- refreshing (x10) \nErrors prevented startup: \n While building package XXXXXXXXXXXXXXXXX: \n XXXXXXXXXXXXXXXXXXXXXXXX.es6: Unexpected token (144:37) \n   142 |   onCreate[34m[1m([22m[39m[34m[1m)[22m[39m [32m{[39m \n   143 |     console[1m.[22mlog[34m[1m([22m[39m[36mthis[39m[34m[1m)[22m[39m[1m;[22m \n > 144 |     [36mvar[39m clickEvent [1m=[22m [36mnew[39m ReactiveVar[34m[1m([22m[39m[36mreturn[39m [34m[1m([22m[39m[34m[1m)[22m[39m[1m=>[22m[32m{[39mconsole[1m.[22mlog[34m[1m([22m[39m[36mreturn[39m[31m'foo'[39m[34m[1m)[22m[39m[32m}[39m[34m[1m)[22m[39m[1m;[22m \n       |                                      ^ \n   145 |   [32m}[39m \n   146 |"
+  },
+  {
+    "rank": 9,
+    "id": "msg_82d5a8f678d73ef8f5254bef567bc8a5192db8d786818173159d8a1d88e7a843",
+    "score": 68.8739,
+    "link": "https://github.com/davezuko/react-redux-starter-kit/issues/416",
+    "source": "github",
+    "origin_doc_id": "547298c669c5267f3393e3cd30090f6758996cdcf651eef57d31eb97505a5df7",
+    "snippet": "[not cacheable]\u001b[39m\u001b[22m\u001b[1m\u001b[32m [built]\u001b[39m\u001b[22m [963] \u001b[1mtemplate of 115 referencing \u001b[22m 178 bytes {\u001b[1m\u001b[33m0\u001b[39m\u001b[22m}\u001b[1m\u001b[31m [not cacheable]\u001b[39m\u001b[22m\u001b[1m\u001b[32m [built]\u001b[39m\u001b[22m [965] \u001b[1mtemplate of 537 referencing \u001b[22m 385 bytes {\u001b[1m\u001b[33m0\u001b[39m\u001b[22m}\u001b[1m\u001b[31m [not cacheable]\u001b[39m\u001b[22m\u001b[1m\u001b[32m [built]\u001b[39m\u001b[22m [967] \u001b[1mtemplate of 539 referencing \u001b[22m 608 bytes {\u001b[1m\u001b[33m0\u001b[39m\u001b[22m}\u001b[1m\u001b[31m [not cacheable]\u001b[39m\u001b[22m\u001b[1m\u001b[32m [built]\u001b[39m\u001b[22m [968] \u001b[1mtemplate of 162 referencing \u001b[22m 286 bytes {\u001b[1m\u001b[33m0\u001b[39m\u001b[22m}\u001b[1m\u001b[31m [not cacheable]\u001b[39m\u001b[22m\u001b[1m\u001b[32m [built]\u001b[39m\u001b[22m [970] \u001b[1mtemplate of 235 referencing \u001b[22m 237 bytes {\u001b[1m\u001b[33m0\u001b[39m\u001b[22m}\u001b[1m\u001b[31m [not cacheable]\u001b[39m\u001b[22m\u001b[1m\u001b[32m [built]\u001b[39m\u001b[22m [972] \u001b[1mtemplate of 542 referencing \u001b[22m 138 bytes {\u001b[1m\u001b[33m0\u001b[39m\u001b[22m}\u001b[1m\u001b[31m [not cacheable]\u001b[39m\u001b[22m\u001b[1m\u001b[32m"
+  },
+  {
+    "rank": 10,
+    "id": "msg_0bb927131721d2b5120d8dc7d2b4f943eed756b744820277a83b05202c80bf79",
+    "score": 68.67067,
+    "link": "https://github.com/JuliaDocs/Documenter.jl/issues/776",
+    "source": "github",
+    "origin_doc_id": "567dde724270becf12869389812bc7064104b80454a9371ad625ba57f724fdb2",
+    "snippet": "\u001b[35mDocumenter: populating indices.\u001b[39m\n\u001b[91m\u001b[1mERROR: \u001b[22m\u001b[39mLoadError: \u001b[91m`makedocs` encountered an error. Terminating build\u001b[39m\nStacktrace:\n [1] \u001b[1merror\u001b[22m\u001b[1m(\u001b[22m::String\u001b[1m)\u001b[22m at \u001b[1m.\\error.jl:33\u001b[22m\n [2] \u001b[1mrunner\u001b[22m\u001b[1m(\u001b[22m::Type{Documenter.Builder.RenderDocument}, ::Documenter.Documents.Document\u001b[1m)\u001b[22m at \u001b[1mC:\\Users\\hp\\.julia\\packages\\Documenter\\Psnl\\src\\Builder.jl:203\u001b[22m\n [3] \u001b[1mdispatch\u001b[22m\u001b[1m(\u001b[22m::Type{Documenter.Builder.DocumentPipeline}, ::Documenter.Documents.Document\u001b[1m)\u001b[22m at \u001b[1mC:\\Users\\hp\\.julia\\packages\\Documenter\\Psnl\\src\\Selectors.jl:168\u001b[22m\n [4] \u001b[1m#2\u001b[22m at \u001b[1mC:\\Users\\hp\\.julia\\packages\\Documenter\\Psnl\\src\\Documenter.jl:204\u001b[22m [inlined]\n [5] \u001b[1mcd\u001b[22m\u001b[1m(\u001b[22m::getfield(Documenter, Symbol(\"##2#3\")){Documenter.Documents.Document}, ::String\u001b[1m)\u001b[22m at \u001b[1m.\\file.jl:85\u001b[22m\n [6] \u001b[1m#makedocs#1\u001b[22m at \u001b[1mC:\\Users\\hp\\.julia\\packages\\Documenter\\Psnl\\src\\Documenter.jl:203\u001b[22m [inlined]\n [7] \u001b[1m(::getfield(Documenter, Symbol(\"#kw##makedocs\")))\u001b[22m\u001b[1m(\u001b[22m::NamedTuple{(:modules, :format, :sitename, :root, :pages, :strict),Tuple{Array{Module,1},Symbol,String,String,Array{Any,1},Bool}}, ::typeof(Documenter.makedocs)\u001b[1m)\u001b[22m at \u001b[1m.\\none:0\u001b[22m\n [8] top-level scope at \u001b[1mnone:0\u001b[22m\n [9] \u001b[1minclude\u001b[22m at \u001b[1m.\\boot.jl:317\u001b[22m [inlined]\n [10] \u001b[1minclude_relative\u001b[22m\u001b[1m(\u001b[22m::Module, ::String\u001b[1m)\u001b[22m at \u001b[1m.\\loading.jl:1034\u001b[22m\n [11] \u001b[1minclude\u001b[22m\u001b[1m(\u001b[22m::Module, ::String\u001b[1m)\u001b[22m at \u001b[1m.\\sysimg.jl:29\u001b[22m\n [12] \u001b[1minclude\u001b[22m\u001b[1m(\u001b[22m::String\u001b[1m)\u001b[22m at \u001b[1m.\\client.jl:393\u001b[22m\n [13] top-level scope at \u001b[1mnone:0\u001b[22m\nin expression starting at C:\\Users\\hp\\.julia\\packages\\LazyCall\\AozV\\test\\runtests.jl:4\n\u001b[91m\u001b[1mERROR: \u001b[22m\u001b[39m\u001b[91mPackage LazyCall errored during testing\u001b[39m\nStacktrace:\n [1] \u001b[1mcmderror\u001b[22m\u001b[1m(\u001b[22m::String, ::Vararg{String,N} where N\u001b[1m)\u001b[22m at \u001b[1mC:\\cygwin\\home\\Administrator\\buildbot\\worker\\package_win64\\build\\usr\\share\\julia\\stdlib\\v0.7\\Pkg\\src\\Types.jl:120\u001b[22m\n [2] \u001b[1mmacro expansion\u001b[22m at \u001b[1m.\\logging.jl:301\u001b[22m [inlined]\n [3] \u001b[1m#test#56\u001b[22m\u001b[1m(\u001b[22m::Bool, ::Function, ::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}\u001b[1m)\u001b[22m at \u001b[1mC:\\cygwin\\home\\Administrator\\buildbot\\worker\\package_win64\\build\\usr\\share\\julia\\stdlib\\v0.7\\Pkg\\src\\Operations.jl:1218\u001b[22m\n [4] \u001b[1m#test\u001b[22m at \u001b[1m.\\none:0\u001b[22m [inlined]\n [5] \u001b[1m#test#44\u001b[22m\u001b[1m(\u001b[22m::Bool, ::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}\u001b[1m)\u001b[22m at \u001b[1mC:\\cygwin\\home\\Administrator\\buildbot\\worker\\package_win64\\build\\usr\\share\\julia\\stdlib\\v0.7\\Pkg\\src\\API.jl:234\u001b[22m\n [6] \u001b[1mtest\u001b[22m at \u001b[1mC:\\cygwin\\home\\Administrator\\buildbot\\worker\\package_win64\\build\\usr\\share\\julia\\stdlib\\v0.7\\Pkg\\src\\API.jl:220\u001b[22m [inlined]\n [7] \u001b[1m#test#43\u001b[22m at \u001b[1mC:\\cygwin\\home\\Administrator\\buildbot\\worker\\package_win64\\build\\usr\\share\\julia\\stdlib\\v0.7\\Pkg\\src\\API.jl:217\u001b[22m [inlined]\n [8] \u001b[1mtest\u001b[22m at \u001b[1mC:\\cygwin\\home\\Administrator\\buildbot\\worker\\package_win64\\build\\usr\\share\\julia\\stdlib\\v0.7\\Pkg\\src\\API.jl:217\u001b[22m [inlined]\n [9] \u001b[1m#test#42\u001b[22m at \u001b[1mC:\\cygwin\\home\\Administrator\\buildbot\\worker\\package_win64\\build\\usr\\share\\julia\\stdlib\\v0.7\\Pkg\\src\\API.jl:216\u001b[22m [inlined]\n [10] \u001b[1mtest\u001b[22m at \u001b[1mC:\\cygwin\\home\\Administrator\\buildbot\\worker\\package_win64\\build\\usr\\share\\julia\\stdlib\\v0.7\\Pkg\\src\\API.jl:216\u001b[22m [inlined]\n [11] \u001b[1m#test#41\u001b[22m at \u001b[1mC:\\cygwin\\home\\Administrator\\buildbot\\worker\\package_win64\\build\\usr\\share\\julia\\stdlib\\v0.7\\Pkg\\src\\API.jl:215\u001b[22m [inlined]\n [12] \u001b[1mtest\u001b[22m\u001b[1m(\u001b[22m::String\u001b[1m)\u001b[22m at \u001b[1mC:\\cygwin\\home\\Administrator\\buildbot\\worker\\package_win64\\build\\usr\\share\\julia\\stdlib\\v0.7\\Pkg\\src\\API.jl:215\u001b[22m\n [13] top-level scope at \u001b[1mnone:0\u001b[22m\n\n\u001b[7C\u001b[32m\u001b[1mjulia> \u001b[0m\u001b[0m\n\u001b[?2004l\n\u001b[7C\u001b[32m\u001b[1mjulia> \u001b[0m\u001b[0m\n\u001b[?2004l\n\u001b[7C\u001b[32m\u001b[1mjulia> \u001b[0m\u001b[0m\n\u001b[?2004l\n\u001b[7C\u001b[32m\u001b[1mjulia> \u001b[0m\u001b[0m"
+  }
+]

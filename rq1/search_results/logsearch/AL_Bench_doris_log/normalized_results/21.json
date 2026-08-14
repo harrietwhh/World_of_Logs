@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_d531c24c2081c010848c940011bc06b63bb0b371edf283cc65f0008caf31a823",
+    "score": 32.262844,
+    "link": "https://github.com/mesosphere/marathon/issues/4824",
+    "source": "github",
+    "origin_doc_id": "d54a62becb12c5fdc46a623f97e18a5da262c8f10817116f28583946296f6e89",
+    "snippet": "log.warn(\"Failed to get task names\", t)"
+  },
+  {
+    "rank": 2,
+    "id": "msg_596f5b4c41f6d0e3030b21589c5f83aec015d15f327c4dc782be9b60aa37fb6a",
+    "score": 28.107681,
+    "link": "https://issues.apache.org/jira/browse/KAFKA-6566",
+    "source": "jira",
+    "origin_doc_id": "27ed05b45255fb42d0a0dca875b852c359af180d86fd40112fa0609ff3004e97",
+    "snippet": "log.warn(\"Could not stop task\", t);\nlog.warn(\"Could not close consumer\", t);\n+"
+  },
+  {
+    "rank": 3,
+    "id": "msg_caefcf4bed6284114a526286d51bae17140d79c1fd33baecdeba2a767db75a5b",
+    "score": 27.999828,
+    "link": "https://issues.apache.org/jira/browse/HADOOP-8029",
+    "source": "jira",
+    "origin_doc_id": "d32106e99eba23d863bd35a4dceb747c70e49b0bc71087bccc81d3982d666b7f",
+    "snippet": "LOG.warn(\"Failed to manage OS cache for \" + identifier, t);\nLOG.warn(\"Failed to manage OS cache for \" + identifier, t);"
+  },
+  {
+    "rank": 4,
+    "id": "msg_5bd3db8116a84f49fe2c189005c7ded9ebebd726113945662538935fb4f42ffb",
+    "score": 27.615343,
+    "link": "https://issues.apache.org/jira/browse/KAFKA-6566",
+    "source": "jira",
+    "origin_doc_id": "27ed05b45255fb42d0a0dca875b852c359af180d86fd40112fa0609ff3004e97",
+    "snippet": "log.warn(\"Could not close transformation chain\", t);\nlog.warn(\"Could not stop task\", t);\nlog.info(\"{} Source task finished initialization and start\", this);"
+  },
+  {
+    "rank": 5,
+    "id": "msg_8c3bc4bc1ea336e3c199561677c1b879b1438b7f2d0e854918d860ad411006bb",
+    "score": 26.194489,
+    "link": "https://issues.apache.org/jira/browse/HADOOP-17258",
+    "source": "jira",
+    "origin_doc_id": "45bf1011a7f0fe20fb4ca6483200d31cd4079d1dde7b28ac509c36a85811c647",
+    "snippet": "LOG.warn(\"Failed to save task commit data to {} \", \n           taskOutcomePath, e);\nlog.warn(\"Another attempt has already succeeded\")"
+  },
+  {
+    "rank": 6,
+    "id": "msg_44e036f5c59eb4f8e92e9c198f022aea33d455202e291477ff440e47bb4e2fc1",
+    "score": 26.183752,
+    "link": "https://issues.apache.org/jira/browse/HDFS-15798",
+    "source": "jira",
+    "origin_doc_id": "2566c6ea1cec2e72b114dee5912679cf86f0f36840b0391f6d7dacc97061bbf8",
+    "snippet": "LOG.warn(\"No missing internal block. Skip reconstruction for task:{}\", \n             reconInfo);\nLOG.warn(\"Failed to reconstruct striped block {}\", \n           reconInfo.getExtendedBlock().getLocalBlock(), e);\nLOG.warn(\"Failed to reconstruct striped block: {}\", getBlockGroup(), e);"
+  },
+  {
+    "rank": 7,
+    "id": "msg_aa7ba1f4c897da6140d4af829864c0dd14d71ac104e128795cf460ae87c89a44",
+    "score": 26.064182,
+    "link": "https://github.com/googleapis/java-pubsub/issues/1055",
+    "source": "github",
+    "origin_doc_id": "2a6672beea45d7c8bceebbb7778d686c5f1e8ea23b7622667f6c83c3f47a1f54",
+    "snippet": "log.warn(\"Failed to publish metrics: {}\", t);"
+  },
+  {
+    "rank": 8,
+    "id": "msg_693b63be0026edb979ea6ba1b861568aa2137000dd6d20ca37504b1f365c1e6a",
+    "score": 25.314053,
+    "link": "https://issues.apache.org/jira/browse/HADOOP-18065",
+    "source": "jira",
+    "origin_doc_id": "77d24bd8bead143a228dc5bead8ea52878200000074be602a216aa51b1c01ea8",
+    "snippet": "LOG.warn( \n         \"Execution exception when running task in \" + Thread.currentThread() \n             .getName());\nLOG.warn(\"Thread (\" + Thread.currentThread() + \") interrupted: \", ie); \n\n Thread.currentThread().interrupt(); \n\n LOG.warn(\"Caught exception in thread \" + Thread \n       .currentThread().getName() + \": \", t);"
+  },
+  {
+    "rank": 9,
+    "id": "msg_1d98e57f2f19be00182f119d857f73ee36fc4a39cb344bb2e619de57efd7b2ee",
+    "score": 25.165844,
+    "link": "https://github.com/druid-io/druid/issues/5919",
+    "source": "github",
+    "origin_doc_id": "a8cc63b541600e4dd2bfccdae887885f69fe215662c17e877526e04cbb73f1fc",
+    "snippet": "log.warn(\"Task [%s] failed to respond to [pause] in a timely manner, killing task\", taskId);"
+  },
+  {
+    "rank": 10,
+    "id": "msg_e05469fc2234556b34677fc7d4c8dd966150daf5e3c5fad03610c1b83babdc2f",
+    "score": 25.120132,
+    "link": "https://issues.redhat.com/browse/JBAS-3655",
+    "source": "jira",
+    "origin_doc_id": "a94029424c10224046df6ed4778bd1598aee61b5e3cd987402bbc4f0e9ee2ae5",
+    "snippet": "log.warn(\"Failed to invoke ctor(MBeanInvoker) for: \" \n                + interceptorClass, t);"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_e14032288abeffc607a22ace0c1ef978ccd7f10a20f94c6f91775c54bd1ae9bc",
+    "score": 24.143764,
+    "link": "https://github.com/hivemq/hivemq-mqtt-client/issues/499",
+    "source": "github",
+    "origin_doc_id": "ecbfe72c2acfb33bbe3fe9c163034f96ecaad78fcfe03d05128ca0a3220eefdf",
+    "snippet": "log.warn(\"Disconnected! \", context.getCause());\nSystem.out.println(\"Sub COMMON callback: \" + publish.getTopic() + \" \" + publish.getPayload());\nlog.warn(\"Reconnecting...\");"
+  },
+  {
+    "rank": 2,
+    "id": "msg_fdbf397e6666501a8af5d07fcaebbca424ec44dbd4a4fc5cdde42ab091ae9929",
+    "score": 23.391148,
+    "link": "https://github.com/hivemq/hivemq-mqtt-client/issues/499",
+    "source": "github",
+    "origin_doc_id": "ecbfe72c2acfb33bbe3fe9c163034f96ecaad78fcfe03d05128ca0a3220eefdf",
+    "snippet": "log.info(\"Re-Sub!\");\nlog.warn(e.getMessage());"
+  },
+  {
+    "rank": 3,
+    "id": "msg_b369376bcd8004d62061c84356c934a724b80fb302dc751c4e1e2e83a0a36f6a",
+    "score": 22.533562,
+    "link": "https://stackoverflow.com/questions/51624108",
+    "source": "so",
+    "origin_doc_id": "e5d7d67a8869576596f578a643d3298a5e46f2c06f847f1af7c4230e4f1e0746",
+    "snippet": "log.warn(\"Encountered error in sub\", t);\nSystem.out.println(message)"
+  },
+  {
+    "rank": 4,
+    "id": "msg_dbe815e6011497242ba27f69007ca0c481c8619665d3bd66ac6bcd783a2b2e84",
+    "score": 22.533562,
+    "link": "https://github.com/grpc/grpc/issues/16234",
+    "source": "github",
+    "origin_doc_id": "328b2f4030cbb37fbb65342524c02fe6a6afad0ab14d84f01c7e593ed5c45665",
+    "snippet": "log.warn(\"Encountered error in sub\", t);\nSystem.out.println(message)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_e0713386659f88f734bb266cd3becd98fc73989598656d7f7b8f8cafef94ac75",
+    "score": 22.086906,
+    "link": "https://github.com/sfackler/rust-postgres/issues/133",
+    "source": "github",
+    "origin_doc_id": "09fa18899c062395e3f4116d86b24399765baed008189f8598e76e4a7287d856",
+    "snippet": "^^^^^^^^^^^^^^^^^ expected trait `postgres_types::ToSql + std::marker::Sync`, found trait `postgres_types::ToSql` \n = note: expected type `&[&dyn postgres_types::ToSql + std::marker::Sync]` \n              found type `&[&dyn postgres_types::ToSql]`"
+  },
+  {
+    "rank": 6,
+    "id": "msg_de9dc1268561b7b6c5d0348d07b7898285f34140eaf24d1b0a7d8d82de59bc17",
+    "score": 21.97905,
+    "link": "https://stackoverflow.com/questions/26308623",
+    "source": "so",
+    "origin_doc_id": "67e868135208fd1fc7472d0a731e335e29c2830daf14dd4d9463ca59622ed3ab",
+    "snippet": "$ userId, toSql $ name]'\n\nControllers/Home.hs:51:64:\nNo instance for (Convertible a1 SqlValue)\n  arising from a use of `toSql'\nPossible fix:\n  add an instance declaration for (Convertible a1 SqlValue)\nIn the expression: toSql\nIn the expression: toSql $ name\nIn the third argument of `run', namely\n  `[toSql $ userId, toSql $ name]'"
+  },
+  {
+    "rank": 7,
+    "id": "msg_081d9bc87c4fb531bf87e43b3a52c2641c50d29164e0f34f266505fd5f470b18",
+    "score": 21.736635,
+    "link": "https://stackoverflow.com/questions/68478554",
+    "source": "so",
+    "origin_doc_id": "13323dca56c26320193c95c8c9e8eb83318cd388c99a01f010fc0b8b19bed061",
+    "snippet": "log.warn(\"[Sub][\" + this.connectionId + \"] Reconnecting after \" + delayInSecond + \" seconds later\");\nlog.debug(\"[Send]{}\", str);"
+  },
+  {
+    "rank": 8,
+    "id": "msg_514872443103a29e4f40f6aaee77b1e2d01886f4b653cddd995ea76da7c71287",
+    "score": 21.604387,
+    "link": "https://github.com/sfackler/rust-postgres-binary-copy/issues/2",
+    "source": "github",
+    "origin_doc_id": "a16a69b68ffbc62d43941dd8faa9101360b13ef0cd0d58fb9b8df05c3814792f",
+    "snippet": "^^^^^^^^^^^^^^^^^^^^^ expected reference, found trait postgres::types::ToSql \n     | \n     = note: expected type `&postgres::types::ToSql` \n                found type `postgres::types::ToSql + 'static` \n ```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_42a32c7de0d6e4166d9e7945530fdd04192053f79b64b291ca5b0583f15d4c29",
+    "score": 21.44661,
+    "link": "https://stackoverflow.com/questions/26308623",
+    "source": "so",
+    "origin_doc_id": "67e868135208fd1fc7472d0a731e335e29c2830daf14dd4d9463ca59622ed3ab",
+    "snippet": "the expression: toSql \n In the expression: toSql $ userId"
+  },
+  {
+    "rank": 10,
+    "id": "msg_b8ed06ec74e89395e92354d1908e1b7bff97685ab355127baa5073713facd86f",
+    "score": 21.141573,
+    "link": "https://stackoverflow.com/questions/58896779",
+    "source": "so",
+    "origin_doc_id": "9c508f718551eeaa428ad0b945242dadaf736a2460f9f5d4c1c2d53a98828da8",
+    "snippet": "Log.d(TAG, \"onReceive: \" + Date.now().toSQL());\nLog.d(TAG, \"done: \" + Date.now().toSQL());"
+  }
+]

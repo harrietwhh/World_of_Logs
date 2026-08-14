@@ -1,0 +1,151 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Get snapshot information | Elasticsearch API documentation",
+    "link": "https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-snapshot-get",
+    "displayed_link": "https://www.elastic.co › doc › operation-snapshot-get",
+    "snippet": "The maximum number of snapshots to return. The default is -1, which means to return all that match the request without limit. slm_policy_filter ...",
+    "snippet_highlighted_words": [
+      "snapshots",
+      "request"
+    ],
+    "source": "Elastic",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "GET SNAPSHOT command",
+    "link": "https://www.ibm.com/docs/en/db2/11.5.x?topic=commands-get-snapshot",
+    "displayed_link": "https://www.ibm.com › docs",
+    "snippet": "The GET SNAPSHOT command collects status information and formats the output. The information that is returned is a snapshot of the database manager ...",
+    "snippet_highlighted_words": [
+      "collects status information and formats the output"
+    ],
+    "source": "IBM",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Tracer Debug Logs",
+    "link": "https://docs.datadoghq.com/tracing/troubleshooting/tracer_debug_logs/",
+    "displayed_link": "https://docs.datadoghq.com › tracing › troubleshooting",
+    "snippet": "When debug mode for your tracer is enabled, tracer-specific log messages report how the tracer was initialized and whether traces were sent to the Agent.",
+    "snippet_highlighted_words": [
+      "log",
+      "traces"
+    ],
+    "source": "Datadog Docs",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Spring Cloud Sleuth",
+    "link": "https://docs.spring.io/spring-cloud-sleuth/docs/2.2.x-SNAPSHOT/reference/html/",
+    "displayed_link": "https://docs.spring.io › docs › reference › html",
+    "snippet": "Logically, we see the information of four total Spans because we have one span related to the incoming request to service1 and three spans related to RPC calls.",
+    "snippet_highlighted_words": [
+      "information",
+      "request"
+    ],
+    "source": "spring.io",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Logging configuration",
+    "link": "https://quarkus.io/guides/logging",
+    "displayed_link": "https://quarkus.io › guides › logging",
+    "snippet": "To adjust runtime logging, modify the application.properties file. An example of how you can set the default log level to INFO logging and include Hibernate ...",
+    "snippet_highlighted_words": [
+      "logging",
+      "application",
+      "log",
+      "INFO logging"
+    ],
+    "source": "Quarkus",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "When Should You Enable Trace-Level Logging?",
+    "link": "https://last9.io/blog/trace-level-logging/",
+    "displayed_link": "https://last9.io › blog › trace-level-logging",
+    "snippet": "Enable trace-level logging when diagnosing complex issues, tracking request flow, or debugging performance without drowning in data.",
+    "snippet_highlighted_words": [
+      "Enable trace-level logging"
+    ],
+    "source": "Last9",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Java Logging Basics - The Ultimate Guide To Logging - Loggly",
+    "link": "https://www.loggly.com/ultimate-guide/java-logging-basics/",
+    "displayed_link": "https://www.loggly.com › ultimate-guide › java-loggin...",
+    "snippet": "This section presents Java logging basics, including how to create logs, popular logging frameworks, how to create some of the best log layouts, and how to use ...",
+    "snippet_highlighted_words": [
+      "how to create logs"
+    ],
+    "source": "loggly.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Retrieve information about a snapshot",
+    "link": "https://documentation.blackduck.com/bundle/coverity-docs/page/cov-platform-rest-api/topics/retrieve_information_about_a_snapshot.html",
+    "displayed_link": "https://documentation.blackduck.com › ... › Snapshots",
+    "snippet": "Example GET request to retrieve information about the specified snapshot, including attribute values and commit, build, and analysis details.",
+    "snippet_highlighted_words": [
+      "GET request",
+      "information",
+      "snapshot"
+    ],
+    "source": "Black Duck Documentation Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "get-snapshot — AWS CLI 2.34.27 Command Reference",
+    "link": "https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/get-snapshot.html",
+    "displayed_link": "https://docs.aws.amazon.com › latest › redshift-serverless",
+    "snippet": "get-snapshot Description Returns information about a specific snapshot. See also: AWS API Documentation Synopsis get-snapshot",
+    "snippet_highlighted_words": [
+      "get-snapshot"
+    ],
+    "source": "Amazon.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "VictoriaLogs",
+    "link": "https://docs.victoriametrics.com/victorialogs/",
+    "displayed_link": "https://docs.victoriametrics.com › victorialogs",
+    "snippet": "VictoriaLogs puts the recently ingested logs into in-memory buffers, which aren't available for querying for up to a second. If you need querying logs ...",
+    "snippet_highlighted_words": [
+      "logs",
+      "logs"
+    ],
+    "source": "VictoriaMetrics",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

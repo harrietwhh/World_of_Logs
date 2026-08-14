@@ -1,0 +1,31 @@
+{
+  "mode": "csv_case",
+  "case_id": "4",
+  "query_source": "group_logs",
+  "query_count": 11,
+  "queries": [
+    "WARN caught end of stream exception",
+    "INFO Closed socket connection for client /10.10.34.11: 52893 which had sessionid 0x14ed93111f2009b",
+    "INFO Closed socket connection for client /10.10.34.11: 52894 which had sessionid 0x14ed93111f2009c",
+    "INFO Closed socket connection for client /10.10.34.11: 52895 which had sessionid 0x14ed93111f2009d",
+    "INFO Closed socket connection for client /10.10.34.13: 37231 which had sessionid 0x14ed93111f2008c",
+    "INFO Closed socket connection for client /10.10.34.15: 34846 which had sessionid 0x14ed93111f2008d",
+    "INFO Closed socket connection for client /10.10.34.16: 39310 which had sessionid 0x14ed93111f2008e",
+    "INFO Closed socket connection for client /10.10.34.17: 51203 which had sessionid 0x14ed93111f2008f",
+    "INFO Closed socket connection for client /10.10.34.19: 33440 which had sessionid 0x14ed93111f20090",
+    "INFO Closed socket connection for client /10.10.34.20: 56414 which had sessionid 0x14ed93111f20091",
+    "INFO Closed socket connection for client /10.10.34.22: 47085 which had sessionid 0x14ed93111f20092"
+  ],
+  "log_message": "",
+  "cases_csv": "data/Zookeeper.csv",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 14,
+  "retrieved_candidate_count": 14,
+  "output_dir": "zookeeper_intermediate_group_logs/case_4_group_logs",
+  "generated_at_utc": "2026-03-14T03:05:27.463534+00:00"
+}

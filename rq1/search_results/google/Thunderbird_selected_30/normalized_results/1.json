@@ -1,0 +1,144 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Systemd: \"Session closed for user root\" - linux",
+    "link": "https://superuser.com/questions/1524891/systemd-session-closed-for-user-root",
+    "displayed_link": "https://superuser.com › questions › systemd-session-clos...",
+    "snippet": "I know that the systemd already runs services as root, but something is occurring that seems to be closing root accesss.",
+    "snippet_highlighted_words": [
+      "something is occurring that seems to be closing root accesss"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "crond(pam_unix)session closed for user root",
+    "link": "https://help.goacoustic.com/hc/en-us/articles/360043283674-crond-pam-unix-session-closed-for-user-root",
+    "displayed_link": "https://help.goacoustic.com › en-us › articles › 3600432...",
+    "snippet": "There might be situations where your messages directory is full of crond(pam_unix) session closed for user root messages. For example, the /var/log/messages ...",
+    "snippet_highlighted_words": [
+      "crond(pam_unix) session closed for user root"
+    ],
+    "source": "Acoustic Help Center",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Session closed for user root - ssh",
+    "link": "https://askubuntu.com/questions/1480620/session-closed-for-user-root",
+    "displayed_link": "https://askubuntu.com › questions › session-closed-for-...",
+    "snippet": "The error Connection timed out means there was no connection to the host. There would not be host log entries for that connection attempt.",
+    "snippet_highlighted_words": [
+      "there was no connection to the host"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "session opened/closed for user root\" in auth.log",
+    "link": "https://forums.raspberrypi.com/viewtopic.php?t=255121",
+    "displayed_link": "https://forums.raspberrypi.com › ... › Troubleshooting",
+    "snippet": "Hello, I have a Pi setup as a Pi-hole. It is running Raspbian Lite. The only other thing I installed on it is fail2ban. The auth log on the pi is filled ...",
+    "snippet_highlighted_words": [],
+    "source": "Raspberry Pi Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "pam_unix generates a lot of open/close sessions for my ...",
+    "link": "https://serverfault.com/questions/1002341/pam-unix-generates-a-lot-of-open-close-sessions-for-my-domain-user",
+    "displayed_link": "https://serverfault.com › questions › pam-unix-generate...",
+    "snippet": "All sessions remain state=closing. I did connect with user domain to ssh (instead of root) so you probably see this but that also means, nothing ...",
+    "snippet_highlighted_words": [
+      "All sessions remain state=closing"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "When being connected, SSH shows following error ...",
+    "link": "https://docs.jdcloud.com/en/virtual-machines/ssh-connection-error-session-closed",
+    "displayed_link": "https://docs.jdcloud.com › virtual-machines › ssh-conne...",
+    "snippet": "pam_unix(sshd:session): session closed for user test. Problem causes: This problem is usually caused by modification of corresponding user's default shell.",
+    "snippet_highlighted_words": [
+      "session closed for user"
+    ],
+    "source": "京东云",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Cleanup of user sessions is flaky on Arch Linux #19972",
+    "link": "https://github.com/cockpit-project/cockpit/issues/19972",
+    "displayed_link": "https://github.com › cockpit-project › cockpit › issues",
+    "snippet": "This happens quite often in navigator/podman where cleaning up a @nd test times out waiting on sessions to get cleaned up.",
+    "snippet_highlighted_words": [
+      "sessions"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Endless log spam from pam_unix(sudo:session) opened ...",
+    "link": "https://www.reddit.com/r/unRAID/comments/1mqfb63/endless_log_spam_from_pam_unixsudosession/",
+    "displayed_link": "2 comments · 7 months ago",
+    "snippet": "These log messages are informational and indicate that commands requiring root access are running properly and the sessions are closing cleanly.",
+    "snippet_highlighted_words": [
+      "root",
+      "sessions"
+    ],
+    "source": "Reddit · r/unRAID",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "How to correctly shut-up \"pam_unix(sudo:session)\" syslog ...",
+    "link": "https://forums.opensuse.org/t/how-to-correctly-shut-up-pam-unix-sudo-session-syslog-spam/137522",
+    "displayed_link": "https://forums.opensuse.org › ... › Install/Boot/Login",
+    "snippet": "How to stop sudo PAM messages in auth.log for a specific user, for Debian, suggests shutting-up the pam_unix sudo spam with an edit to /etc/pam.d/sudo.",
+    "snippet_highlighted_words": [
+      "user"
+    ],
+    "source": "openSUSE Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Logs flooded with systemd messages: Created slice ...",
+    "link": "https://access.redhat.com/solutions/1564823",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Jul 24 08:50:01 example.com systemd: Starting Session 150 of user root. ... session getting closed): Raw. # loginctl enable-linger testuser.",
+    "snippet_highlighted_words": [
+      "Session",
+      "user root",
+      "session",
+      "closed"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Hadoop/Hadoop_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Hadoop/Hadoop_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Hadoop",
+    "snippet": "... app.MRAppMaster: Created MRAppMaster for application appattempt_1445144423722_0020_000001. 2015-10-18 18:01:48,963 INFO [main] org.apache.hadoop.mapreduce.v2 ...",
+    "snippet_highlighted_words": [
+      "Created MRAppMaster for application appattempt_1445144423722_0020_000001"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Claude at Scale: Optimizing Cost & Performance for ...",
+    "link": "https://www.tribe.ai/applied-ai/claude-at-scale-optimizing-cost-and-performance-for-enterprise-ai",
+    "displayed_link": "https://www.tribe.ai › applied-ai › claude-at-scale-optim...",
+    "snippet": "... app.MRAppMaster: Created MRAppMaster for application appattempt_1445144423722_0020_000001\" compressed = compress_hadoop_log(log) ...",
+    "snippet_highlighted_words": [
+      "Created MRAppMaster for application appattempt_1445144423722_0020_000001"
+    ],
+    "source": "Tribe AI",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Aliph0th/logtheus-ml-ds · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/Aliph0th/logtheus-ml-ds/viewer/default/train?p=1",
+    "displayed_link": "https://huggingface.co › datasets › viewer › default › train",
+    "snippet": "... app.MRAppMaster: Created MRAppMaster for application appattempt_1445144423722_0020_000001 ... app.MRAppMaster: OutputCommitter set in config null.",
+    "snippet_highlighted_words": [
+      "Created MRAppMaster for application appattempt_1445144423722_0020_000001"
+    ],
+    "source": "Hugging Face",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Netflix/derand",
+    "link": "https://github.com/Netflix/derand",
+    "displayed_link": "https://github.com › Netflix › derand",
+    "snippet": "... application appattempt_1445144423722_0020_000001 After: org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Created MRAppMaster for application ...",
+    "snippet_highlighted_words": [
+      "application appattempt_1445144423722_0020_000001",
+      "app",
+      "MRAppMaster",
+      "Created MRAppMaster for application"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Hadoop 2.6.0: Basic error \"starting MRAppMaster\" after ...",
+    "link": "https://stackoverflow.com/questions/27791518/hadoop-2-6-0-basic-error-starting-mrappmaster-after-installing",
+    "displayed_link": "1 answer · 11 years ago",
+    "snippet": "I have just started to work with Hadoop 2. After installing with basic configs, I always failed to run any examples. Has anyone seen this ...",
+    "snippet_highlighted_words": [
+      "started"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Solved: Hadoop not running tasks",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Hadoop-not-running-tasks/m-p/305332",
+    "displayed_link": "https://community.cloudera.com › Support-Questions",
+    "snippet": "I have a cluster of 1 Master and 1 Slave that are connected and \"probably\" communicating, I have followed several guides to install and setup the cluster.",
+    "snippet_highlighted_words": [],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "MRAppMaster (Apache Hadoop MapReduce App 3.1.2 API)",
+    "link": "https://hadoop.apache.org/docs/r3.1.2/hadoop-mapreduce-client/hadoop-mapreduce-client-app/apidocs/org/apache/hadoop/mapreduce/v2/app/MRAppMaster.html",
+    "displayed_link": "https://hadoop.apache.org › docs › apidocs › org › MR...",
+    "snippet": "The Map-Reduce Application Master. The state machine is encapsulated in the implementation of Job interface. All state changes happens via Job interface.",
+    "snippet_highlighted_words": [
+      "Application"
+    ],
+    "source": "Apache Hadoop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Towards Pragmatic Pre- processing of logs",
+    "link": "https://www.dorsal.polymtl.ca/files/may2025/wshang_may2025_pragmatic_preprocessing_of_logs.pdf",
+    "displayed_link": "https://www.dorsal.polymtl.ca › files › may2025",
+    "snippet": "Created MRAppMaster for application appattempt_1445144423722_0020_000001. - ... We leverage node dominations to create relationship between logs. Node A ...",
+    "snippet_highlighted_words": [
+      "Created MRAppMaster for application appattempt_1445144423722_0020_000001"
+    ],
+    "source": "Polytechnique Montréal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "YALP/gpt-3.5-turbo-0125.json at main",
+    "link": "https://github.com/ZJU-ACES-ISE/YALP/blob/main/gpt-3.5-turbo-0125.json",
+    "displayed_link": "https://github.com › ZJU-ACES-ISE › YALP › blob › gp...",
+    "snippet": "... Created MRAppMaster for application appattempt_1445144423722_0020_000001`\\\"}]\": \"`Created MRAppMaster for application <<application_id>>`\", \"[{'role ...",
+    "snippet_highlighted_words": [
+      "Created MRAppMaster for application appattempt_1445144423722_0020_000001"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Re: Yarn Resource Manager throws error",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Yarn-Resource-Manager-throws-error/m-p/81448",
+    "displayed_link": "https://community.cloudera.com › Support-Questions",
+    "snippet": "I able to fix the authentication error, It was because user was not present on all nodes of cluster. Ran the job again and its got failed.",
+    "snippet_highlighted_words": [],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

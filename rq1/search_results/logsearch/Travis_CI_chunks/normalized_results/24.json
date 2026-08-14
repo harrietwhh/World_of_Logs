@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_37a2ebd9d309f1d52fa67d7e831dd553fffc2f9edead7d69bef77d34a515e7b4",
+    "score": 104.67806,
+    "link": "https://github.com/redox-os/redox/issues/980",
+    "source": "github",
+    "origin_doc_id": "f47582391e6af005ef54e859cf427db4253d3c22ddfe1a9cf0680c82fa9c0631",
+    "snippet": "fusermount -u build/filesystem/ || true \n     fusermount: bad mount point build/filesystem/: No such file or directory \n     rm -rf build \n     make[1]: Leaving directory `/root/redox' \n     make update \n **Misc**: [optional: for other relevant information that should be known or cannot be described in the other fields.]"
+  },
+  {
+    "rank": 2,
+    "id": "msg_4327bf27a0013af46d86e4ffee49277af85d95a7f671a3dfd931a9df2ed64100",
+    "score": 83.14311,
+    "link": "https://github.com/robertying/openssl-curl-android/issues/10",
+    "source": "github",
+    "origin_doc_id": "874ee4e176d32c2a24de46f447983cc5b2c2f4184479604454f1582ee8420626",
+    "snippet": "openssl-curl-android-master % ./my-build.sh \n ./build-openssl.sh: line 28: ./Configure: No such file or directory \n make: *** No targets specified and no makefile found.  Stop. \n make: *** No rule to make target `install_sw'.  Stop. \n make: *** No rule to make target `clean'.  Stop. \n ./build-openssl.sh: line 50: ./Configure: No such file or directory \n make: *** No targets specified and no makefile found.  Stop. \n make: *** No rule to make target `install_sw'.  Stop. \nmake: *** No rule to make target `clean'.  Stop.\ncp: /Users/one/Downloads/openssl-curl-android-master/openssl/build/armeabi-v7a: No such file or directory\n./build-openssl.sh: line 71: ./Configure: No such file or directory\nmake: *** No targets specified and no makefile found.  Stop.\nmake: *** No rule to make target `install_sw'.  Stop.\nmake: *** No rule to make target `clean'.  Stop.\ncp: /Users/one/Downloads/openssl-curl-android-master/openssl/build/x86: No such file or directory\n./build-openssl.sh: line 92: ./Configure: No such file or directory\nmake: *** No targets specified and no makefile found.  Stop.\nmake: *** No rule to make target `install_sw'.  Stop.\nmake: *** No rule to make target `clean'.  Stop.\ncp: /Users/one/Downloads/openssl-curl-android-master/openssl/build/x86_64: No such file or directory\n./build-curl.sh: line 20: autoreconf: command not found\n./build-curl.sh: line 34: ./configure: No such file or directory\nmake: *** No targets specified and no makefile found.  Stop.\nmake: *** No rule to make target `install'.  Stop.\nmake: *** No rule to make target `clean'.  Stop.\n```"
+  },
+  {
+    "rank": 3,
+    "id": "msg_5114dc0a6508b11143cff36880b53f354d437c62ec61799b6dbb76309662673d",
+    "score": 79.773476,
+    "link": "https://stackoverflow.com/questions/13170139",
+    "source": "so",
+    "origin_doc_id": "b5ac1a8936e2ffec877727e2fca26e0fc04731188176cf97dd271d79fdc903e1",
+    "snippet": "rm: CMakeCache.txt: No such file or directory \n /Users/hengchinsoon/Desktop/assimp/port/iOS/build_ios.sh: line 40: cmake: command not found \n Building armv6 library \n make: *** No rule to make target `clean'.  Stop. \n make: *** No rule to make target `assimp'.  Stop. \n cp: ./lib/libassimp.a: No such file or directory \n rm: CMakeCache.txt: No such file or directory \n/Users/hengchinsoon/Desktop/assimp/port/iOS/build_ios.sh: line 51: cmake: command not found\nBuilding armv7 library\nmake: *** No rule to make target `clean'.  Stop.\nmake: *** No rule to make target `assimp'.  Stop.\ncp: ./lib/libassimp.a: No such file or directory\nrm: CMakeCache.txt: No such file or directory\n/Users/hengchinsoon/Desktop/assimp/port/iOS/build_ios.sh: line 62: cmake: command not found\nBuilding i386 library\nmake: *** No rule to make target `clean'.  Stop.\nmake: *** No rule to make target `assimp'.  Stop.\nNo such file or"
+  },
+  {
+    "rank": 4,
+    "id": "msg_9ea593043b2881b33e86abb46f1a9675d147198a93cad68bdf6006fc38953edd",
+    "score": 79.11987,
+    "link": "https://github.com/JuliaLang/julia/pull/15064",
+    "source": "github",
+    "origin_doc_id": "c51113bd9e8c6999572611d7afea8f81d3ec2855c639a9c126384df8e6390f2a",
+    "snippet": "Makefile:44: Makefile.config: No such file or directory \n Makefile:151: /Makefile.rules: No such file or directory \n make[3]: *** No rule to make target `/Makefile.rules'.  Stop. \n make[3]: Leaving directory `/home/travis/build/JuliaLang/julia/deps/build/llvm-3.7.1/build_Release' \n make[2]: *** [/home/travis/build/JuliaLang/julia/usr/lib/libLLVMCodeGen.a] Error 2"
+  },
+  {
+    "rank": 5,
+    "id": "msg_df14daeec567649ee46fccbf6b84a28dd7611d58fc782b2752e9506858e75662",
+    "score": 77.088295,
+    "link": "https://github.com/JuliaLang/julia/pull/15130",
+    "source": "github",
+    "origin_doc_id": "90302d8c7dc09ede7bd977f405e39100ca17f355d5439204fe7f14b409def4c4",
+    "snippet": "Makefile:44: Makefile.config: No such file or directory \n Makefile:151: /Makefile.rules: No such file or directory \n make[1]: *** No rule to make target `/Makefile.rules'.  Stop. \n make: *** [/home/travis/build/JuliaLang/julia/usr/lib/libLLVMCodeGen.a] Error 2 \n make: *** Waiting for unfinished jobs...."
+  },
+  {
+    "rank": 6,
+    "id": "msg_2c143ffd8a2b74f1365d9f8cb0468610e8452c316bbba05e86696cc3d14beea9",
+    "score": 76.781235,
+    "link": "https://github.com/mattermost/mattermost-marketplace/issues/219",
+    "source": "github",
+    "origin_doc_id": "99f691692d24860683654828b412c2559d9571f9571f6c3757c8469a0496bbfd",
+    "snippet": "Makefile:23: build/legacy.mk: No such file or directory \n make: *** No rule to make target 'build/legacy.mk'.  Stop."
+  },
+  {
+    "rank": 7,
+    "id": "msg_cc97a3be774a5142dab2dcb5fd78d05c4f94839f4c10915accec67f354664df3",
+    "score": 76.542534,
+    "link": "https://github.com/TimOliver/TOSMBClient/issues/45",
+    "source": "github",
+    "origin_doc_id": "3b126c1e6287b79406f0f684c93a1dbb3ba3b75a0a887057b88dd5aa1bcab74e",
+    "snippet": "build/x86_64/lib/libtasn1.a \n ./bootstrap: line 18: autoreconf: command not found \n ./armbuild.sh: line 104: ./configure: No such file or directory \n make: *** No rule to make target `clean'.  Stop. \n ./bootstrap: line 18: autoreconf: command not found \n ./armbuild.sh: line 104: ./configure: No such file or directory \nmake: *** No rule to make target `clean'.  Stop.\n./bootstrap: line 18: autoreconf: command not found\n./armbuild.sh: line 104: ./configure: No such file or directory\nmake: *** No rule to make target `clean'.  Stop.\n./bootstrap: line 18: autoreconf: command not found\n./armbuild.sh: line 104: ./configure: No such file or directory\nmake: *** No rule to make target `clean'.  Stop.\n./bootstrap: line 18: autoreconf: command not found\n./armbuild.sh: line 104: ./configure: No such file or directory\nmake: *** No rule to make target `clean'.  Stop.\nfatal error: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo: can't open input file: build/armv7/lib/libdsm.a (No such file or directory) \n cp: build/armv7/include: No such file or directory \n ```"
+  },
+  {
+    "rank": 8,
+    "id": "msg_8c00c95f100e6ba6ed902869155adffab651009036d1f27eeaa5f6c8759643f4",
+    "score": 76.475555,
+    "link": "https://github.com/kubernetes-sigs/cloud-provider-azure/pull/276",
+    "source": "github",
+    "origin_doc_id": "9f64b614edde189a28b805fab5424af5e6e8759c28938532d8558112df027740",
+    "snippet": "make[1]: Entering directory '/workspace' \n fatal: not a git repository (or any parent up to mount point /) \n Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). \n make[1]: Leaving directory '/workspace' \n make[1]: *** No rule to make target 'build-images'.  Stop. \n make: *** [Makefile:193: release-staging] Error 2"
+  },
+  {
+    "rank": 9,
+    "id": "msg_4c1b7765799f271e43749ebf3430dd7c598e9a259f99afd0ee66f42499248776",
+    "score": 76.18056,
+    "link": "https://github.com/NixOS/nixpkgs/pull/68506",
+    "source": "github",
+    "origin_doc_id": "f47b97912d481d1c25fc73167ae5576c29aba22bd3c521324ba869ee0e909d77",
+    "snippet": "Hunk #2 succeeded at 226 (offset 3 lines).\nHunk #3 succeeded at 280 (offset 3 lines).\nconfiguring\nbuilding\nmake: *** No rule to make target 'libs'.  Stop.\nmake: Entering directory '/build/llpp/build/mupdf'\nmake: *** No rule to make target 'libs'.  Stop.\nmake: Leaving directory '/build/llpp/build/mupdf'\nmake: *** No rule to make target 'libs'.  Stop.\n./build.bash: line 44: build/mupdf/build/native/libmupdf.a.past: No such file or directory"
+  },
+  {
+    "rank": 10,
+    "id": "msg_e9b6ae3e1cb4701af2c12fae06d7b27c6982819ac4d73116d97dd546b2cb47e6",
+    "score": 75.56614,
+    "link": "https://github.com/electro-smith/DaisySP/issues/3",
+    "source": "github",
+    "origin_doc_id": "a942109331853638385e54069eced239c4c458bcfc95fc07f3df75c9804a3274",
+    "snippet": "./rebuild_examples.sh: line 2: LIBDAISY: command not found \n rebuilding examples: \n rebuilding examples/adenv/ \n Makefile:14: /core/Makefile: No such file or directory \n make: *** No rule to make target `/core/Makefile'.  Stop.\nMakefile:14: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\ndone\nrebuilding examples/bypass/\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\ndone\nrebuilding examples/compressor/\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\ndone\nrebuilding examples/crossfade/\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\ndone\nrebuilding examples/dcblock/\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\ndone\nrebuilding examples/decimator/\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\ndone\nrebuilding examples/delayline/\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\ndone\nrebuilding examples/line/\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\ndone\nrebuilding examples/metro/\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\ndone\nrebuilding examples/nlfilt/\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\ndone\nrebuilding examples/oscillator/\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\ndone\nrebuilding examples/phasor/\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\nMakefile:13: /core/Makefile: No such file or directory\nmake: *** No rule to make target `/core/Makefile'.  Stop.\ndone\nrebuilding examples/pitchshifter/\n    reverbsc\n    svf\n    tone\n    whitenoise\ndone.\nGenerating documenation for  doc/daisysp_reference.pdf\nCreated doc/daisysp_reference.pdf\ndone.\nCreating Style Guide PDF\nfinished."
+  }
+]

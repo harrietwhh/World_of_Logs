@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_c4d39448aa1b15f1f68d29be92b810b8f3dec60730e06640c7b63c01fe065c76",
+    "score": 136.23361,
+    "link": "https://stackoverflow.com/questions/71400903",
+    "source": "so",
+    "origin_doc_id": "6e3283b600a30a20d51b42531e22afb353dcac4c6e3d5c7a34d07b53a6a6ec84",
+    "snippet": "aren't any reports for\n ace@ace-ThinkPad-T460:/$ rake about rake aborted! No Rakefile found \n (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)  \n  ace@ace-ThinkPad-T460:/$ rake about rake aborted! No Rakefile found \n (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)"
+  },
+  {
+    "rank": 2,
+    "id": "msg_99b8f3b17ba916715063d3b004831d95edde63e5c13a7064d42cacc0a543d284",
+    "score": 135.10698,
+    "link": "https://github.com/rdp/specific_install/issues/26",
+    "source": "github",
+    "origin_doc_id": "8a2da79447e18467f1dddaf852a0ee6a185da4364df1942389af7bc79ec4bb14",
+    "snippet": "git installing from https://github.com/username/repository.git \n attempting ... \n attempting rake gemspec... \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) \n(See full trace by running task with --trace)\nattempting rake gem...\nrake aborted!\nNo Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)\n\n(See full trace by running task with --trace)\nattempting rake build...\nrake aborted!\nNo Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)\n(See full trace by running task with --trace) \n attempting rake package... \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) \n (See full trace by running task with --trace) \n ```"
+  },
+  {
+    "rank": 3,
+    "id": "msg_b239c4eb66d8da1b02ff1fc9a0b5e8dd916ca2062b5d7895328e11a3ce4f862c",
+    "score": 134.34657,
+    "link": "https://github.com/remy/inliner/issues/42",
+    "source": "github",
+    "origin_doc_id": "0b098ea1c478636761a28f3fd0d4657e48d2ce2c619a5f9d487b90565c3b9ec3",
+    "snippet": "$ rake \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)"
+  },
+  {
+    "rank": 4,
+    "id": "msg_fcbe3c31706aafe6f8d371c802df708c8d1c9d8e14e3450dca28f083b63a4878",
+    "score": 134.34657,
+    "link": "https://stackoverflow.com/questions/39303119",
+    "source": "so",
+    "origin_doc_id": "0f2850b9d2afc4362180cbf4868f11b11e1174a37233bc972d4dfc5a64e2f404",
+    "snippet": "$ rake \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_6615715a5806aaf2071d52c7ceb01a27412c195c268b250ee0da63cb4413e74a",
+    "score": 134.34657,
+    "link": "https://github.com/elm-lang/elm-package/pull/296",
+    "source": "github",
+    "origin_doc_id": "fd2ad2e3dd6a492a80764cbde58062ab39540246581d227cdfa97d0b833801e0",
+    "snippet": "rake \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_88ee5c6b9746f426b2faaf1338d6dccee6425492d8f8f7c9c938d1f952ed1c2a",
+    "score": 133.3827,
+    "link": "https://stackoverflow.com/questions/7558157",
+    "source": "so",
+    "origin_doc_id": "4be94d358c40b4d69cc7ecd351bc703719f0cd7989a200adf5149f8ad6413724",
+    "snippet": "rake db:create \n rake aborted! \n No rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)"
+  },
+  {
+    "rank": 7,
+    "id": "msg_5939ed8a95117feec3c42e6ea692d93bebc0e513b94bf023e1287d41f374ce87",
+    "score": 133.21935,
+    "link": "https://stackoverflow.com/questions/19896581",
+    "source": "so",
+    "origin_doc_id": "2a9de3f94d741f9db4d6d7be6d261c26fe9f29ce38ccb5dc627d2279a9481373",
+    "snippet": "rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)"
+  },
+  {
+    "rank": 8,
+    "id": "msg_c89213e821685ad3412a967f4e4b4da5d5eee96a02e6f00122da0f020fbb9efa",
+    "score": 133.21935,
+    "link": "https://stackoverflow.com/questions/17376675",
+    "source": "so",
+    "origin_doc_id": "103e7405f0e899d3c0cfb8902ad36dd26ee59e19ebea92236d84b31b066441f4",
+    "snippet": "rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_c6ce4021a9134394d5c6dc231d84577ba5cff426eee082a36588b6568e3bd322",
+    "score": 133.21935,
+    "link": "https://github.com/arobson/rabbot/pull/113",
+    "source": "github",
+    "origin_doc_id": "a7b7cc8fdaa4b40bf36cd48930485f69ad1bc1b9d30c00bd0367952ecbdd4474",
+    "snippet": "... \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) \n ..."
+  },
+  {
+    "rank": 10,
+    "id": "msg_69557cd46b5fcc3c3c259011e23a596af2a02af9ed8414bcd05f9b3198a39c3c",
+    "score": 133.21935,
+    "link": "https://github.com/alphagov/govuk-frontend/pull/2",
+    "source": "github",
+    "origin_doc_id": "1100bcf6bc895e8485da7a9fc89d497a0e17c0d429a3929fd95a1b290a1ea3c6",
+    "snippet": "rake aborted!\nNo Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)"
+  }
+]

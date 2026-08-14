@@ -1,0 +1,139 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "IntelliMouse Optical USB and PS/2 Compatible",
+    "link": "https://learn.microsoft.com/en-us/answers/questions/2599924/intellimouse-optical-usb-and-ps-2-compatible-i-hav",
+    "displayed_link": "https://learn.microsoft.com › en-us › answers › questions",
+    "snippet": "When I play gaming called Battlefield 3 & Call of Duty 3; but notice some problem my right click hold was AIM mess can't hold aim mess. What wrong right button?",
+    "snippet_highlighted_words": [],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "IntelliMouse Optical USB and PS/2 Compatible Mouse no ...",
+    "link": "https://superuser.com/questions/1244914/intellimouse-optical-usb-and-ps-2-compatible-mouse-no-longer-recognized",
+    "displayed_link": "https://superuser.com › questions › intellimouse-optical-...",
+    "snippet": "I have tried reconnecting, as well as uninstalling the driver, disabling and enabling the driver, Power Options, Troubleshooting, Every single ...",
+    "snippet_highlighted_words": [],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Got an microsoft intellimouse for my windows 98 SE laptop ...",
+    "link": "https://www.reddit.com/r/windows98/comments/mazhor/got_an_microsoft_intellimouse_for_my_windows_98/",
+    "displayed_link": "5 comments · 5 years ago",
+    "snippet": "I did make sure the serial port was set to COM1 in the bios and I tried both ps/2 and serial mode for the mouse option in the bios as well. Any ...",
+    "snippet_highlighted_words": [
+      "ps",
+      "2"
+    ],
+    "source": "Reddit · r/windows98",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "USB mouse only works when PS2 mouse also plugged in",
+    "link": "https://forums.gentoo.org/viewtopic.php?t=130184",
+    "displayed_link": "https://forums.gentoo.org › ... › Kernel & Hardware",
+    "snippet": "I'm running the 2.6.1 kernel, with al the options for usb enabled like in the tutorials on this forum. But my USB mouse only works when I also plug in a ps2 ...",
+    "snippet_highlighted_words": [
+      "ps2"
+    ],
+    "source": "Gentoo Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "PS/2 Mouse Interfacing",
+    "link": "https://users.utcluj.ro/~baruch/sie/labor/PS2/PS-2_Mouse_Interface.htm",
+    "displayed_link": "https://users.utcluj.ro › sie › PS2 › PS-2_Mouse_Interface",
+    "snippet": "The PS/2 mouse interface uses a bidirectional serial protocol to transmit movement and button-position data to the computer's auxiliary device controller ( ...",
+    "snippet_highlighted_words": [
+      "PS/2 mouse interface"
+    ],
+    "source": "Universitatea Tehnică din Cluj-Napoca",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "P3V4X ps/2 mouse detection failure",
+    "link": "https://forums.anandtech.com/threads/p3v4x-ps-2-mouse-detection-failure.344019/post-85241",
+    "displayed_link": "https://forums.anandtech.com › ... › Motherboards",
+    "snippet": "I have an early P3V4X (ICS clock generator) that won't detect most PS/2 mice. I've tried 5 known working mice and it has only found 1.",
+    "snippet_highlighted_words": [
+      "detect",
+      "PS",
+      "2"
+    ],
+    "source": "AnandTech Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Microsoft Intellimouse 1.1A PS/2 - Erratic Mouse Movement ...",
+    "link": "https://www.vogons.org/viewtopic.php?t=106075",
+    "displayed_link": "https://www.vogons.org › ... › General Old Hardware",
+    "snippet": "I have same version Intellimouse 1.1A PS/2 mouse but model X03-48591, works well in Windows XP and DOS (plus many other MS ball mice, both ...",
+    "snippet_highlighted_words": [
+      "Intellimouse",
+      "PS",
+      "2"
+    ],
+    "source": "VOGONS",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Restoring A Vintage PS/2 Microsoft IntelliMouse!",
+    "link": "https://www.youtube.com/watch?v=2JZw8QnXobE",
+    "displayed_link": "2K+ views · 5 years ago",
+    "snippet": "Today we're gonna be restoring this microsoft intelli mouse from around 1999. This mouse has clearly seen better days so today we're gonna make it look brand new.",
+    "snippet_highlighted_words": [],
+    "source": "YouTube · Scan Lines",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "PS2 Mouse Not Detected? I don't care!",
+    "link": "https://arstechnica.com/civis/threads/ps2-mouse-not-detected-i-dont-care.151556/",
+    "displayed_link": "https://arstechnica.com › civis › threads › ps2-mouse-n...",
+    "snippet": "My problem is when I boot up the PC, it basically says the PS2 mouse is not found in the PS2 port, press F1 to resume. Once I hit F1, I have no problems ...",
+    "snippet_highlighted_words": [
+      "PS2 mouse is not found in the PS2 port"
+    ],
+    "source": "Ars Technica",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Thread: My mouse hates me (ps/2 probs)",
+    "link": "https://www.ttlg.com/forums/showthread.php?t=58961",
+    "displayed_link": "https://www.ttlg.com › forums › showthread",
+    "snippet": "I unplugged the Intelimouse from the first PC, then plugged it into the other one. Now the Intelimouse worked just as finely on the other PC.",
+    "snippet_highlighted_words": [],
+    "source": "TTLG",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

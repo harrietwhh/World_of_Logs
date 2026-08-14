@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_45b07cfaff657b6d16017e9ef7a82c3a1795d57f419cc36361cffa8878599949",
+    "score": 37.654106,
+    "link": "https://stackoverflow.com/questions/39246795",
+    "source": "so",
+    "origin_doc_id": "df0c347bdd8f37a68277c79b864a9c3b1190a2cb6c655d549b0aa1046d72c895",
+    "snippet": "log.info(\"catalog:\" + dataSource.getConnection().getCatalog());\nlog.info(\"catalog:\" + dataSource.getConnection().getCatalog());"
+  },
+  {
+    "rank": 2,
+    "id": "msg_82b97cda6eb384abcd48a2114b48aea1efd2f17926ad7c6bffc1afdf80757155",
+    "score": 35.358383,
+    "link": "https://stackoverflow.com/questions/73283080",
+    "source": "so",
+    "origin_doc_id": "bdf17c7a57da81795bc61f7f39246687f991786ea088dfb9d46e8db072e96f8c",
+    "snippet": "log.info(\"Catalog list received could not be mapped, or is empty: {}\", catalogItems);\nlog.info(\"Saved catalog records: {}\", savedRecords);"
+  },
+  {
+    "rank": 3,
+    "id": "msg_1304c545917bdbd9ed927b5537b03c0a6c84a3440c7bd1f64a45327bf457107e",
+    "score": 34.731884,
+    "link": "https://github.com/spacetelescope/drizzlepac/issues/855",
+    "source": "github",
+    "origin_doc_id": "7a68869b5a1eafe299f1fc2e1bbbc1a68de060e895b35ec0372b5c9dffa677f8",
+    "snippet": "log.info(\"{} catalog FAILED CR threshold.  Rejecting both catalogs...\".format(cat_type))"
+  },
+  {
+    "rank": 4,
+    "id": "msg_87d5c8d5e24b5ba3bb62a351265d309fb1d92c2f071c67f9889755863a088fdf",
+    "score": 33.99766,
+    "link": "https://github.com/kubernetes-sigs/service-catalog/issues/2752",
+    "source": "github",
+    "origin_doc_id": "3905c302c23825fee46ffa295f3936da023a481c454317dc6008c37f167100ef",
+    "snippet": "Error: failed to scale down controller manager: cannot get deployment catalog/catalog-catalog-controller-manager: the server could not find the requested resource"
+  },
+  {
+    "rank": 5,
+    "id": "msg_4873ce10c9bf55f74fe4d424243a6db068de4aff8705e505b22a63b7674cd4ef",
+    "score": 33.969177,
+    "link": "https://stackoverflow.com/questions/39246795",
+    "source": "so",
+    "origin_doc_id": "df0c347bdd8f37a68277c79b864a9c3b1190a2cb6c655d549b0aa1046d72c895",
+    "snippet": "log.info(\"catalog:\" + connection.getCatalog());"
+  },
+  {
+    "rank": 6,
+    "id": "msg_96523113765a3a90e3d7db308533edf204d8baf5a84b603be086b296aaf6c112",
+    "score": 33.771156,
+    "link": "https://github.com/webcomponents/webcomponents.org/issues/1188",
+    "source": "github",
+    "origin_doc_id": "60965fde2b8877b658e0740001b00c2e621d1f02ac0fbf09d74393df2324429b",
+    "snippet": "GET https://www.webcomponents.org/api/docs/username_1/hwcrypto-button?use_analyzer_data 400 () \n send @ catalog-app.html:18 \n generateRequest @ catalog-app.html:18 \n _updatePath @ catalog-element.html:9 \ncomplete @ catalog-app.html:2\nboundComplete @ catalog-app.html:2\n_atEndOfMicrotask @ catalog-app.html:2\nwindow.MutationObserver.observe.characterData @ catalog-app.html:2\ncharacterData (async)\nrun @ catalog-app.html:2\ngo @ catalog-app.html:2\ne @ catalog-app.html:2\ndebounce @ catalog-app.html:2\n_requestOptionsChanged @ catalog-app.html:18\n_complexObserverEffect @ catalog-app.html:2\n_effectEffects @ catalog-app.html:2\n_propertySetter @ catalog-app.html:2\n__setProperty @ catalog-app.html:2\n_applyConfig @ catalog-app.html:3\n_afterClientsReady @ catalog-app.html:3\n_ready @ catalog-app.html:1\n_readyClients @ catalog-app.html:1\n_ready @ catalog-app.html:1\n_tryReady @ catalog-app.html:1\n_initFeatures @ catalog-app.html:4\n__initialize @ catalog-app.html:1\ncreatedCallback @ catalog-app.html:1\nwindow.Polymer @ catalog-app.html:1\n(anonymous) @ catalog-element.html:9\ncatalog-app.html:18 GET https://www.webcomponents.org/api/docs/username_1/hwcrypto-button?use_analyzer_data 400 ()\nsend @ catalog-app.html:18\ngenerateRequest @ catalog-app.html:18\n(anonymous) @ catalog-element.html:9\n(anonymous) @ catalog-app.html:2\nsetTimeout (async)\nrun @ catalog-app.html:2\nasync @ catalog-app.html:2\n_docsError @ catalog-element.html:9\ns @ catalog-app.html:2\nfire @ catalog-app.html:2\n_handleError @ catalog-app.html:18\nerror (async)\n_listen @ catalog-app.html:2\nlisten @ catalog-app.html:2\n_marshalAnnotatedListeners @ catalog-app.html:2\n_marshalAnnotationReferences @ catalog-app.html:2\n_initFeatures @ catalog-app.html:4\n__initialize @ catalog-app.html:1\ncreatedCallback @ catalog-app.html:1\nwindow.Polymer @ catalog-app.html:1\n(anonymous) @ catalog-element.html:9\n(index):76 GET https://raw-dot-custom-elements.appspot.com/username_1/hwcrypto-button/v1.0.1/webcomponentsjs/webcomponents-lite.js 404 ()\nreceiveMessage @ (index):76\npostMessage (async)\n_setDemoInFrame @ lazy-resources.html:59\nload (async)\n_setDemo @ lazy-resources.html:59\n_complexObserverEffect @ catalog-app.html:2\n_effectEffects @ catalog-app.html:2\n_propertySetter @ catalog-app.html:2\n__setProperty @ catalog-app.html:2\n_applyConfig @ catalog-app.html:3\n_afterClientsReady @ catalog-app.html:3\n_ready @ catalog-app.html:1\n_tryReady @ catalog-app.html:1\n_initFeatures @ catalog-app.html:4\n__initialize @ catalog-app.html:1\ncreatedCallback @ catalog-app.html:1\nwindow.Polymer @ catalog-app.html:1\n(anonymous) @ lazy-resources.html:59\n(anonymous) @ lazy-resources.html:59\n(index):76 GET https://raw-dot-custom-elements.appspot.com/username_1/hwcrypto-button/v1.0.1/hwcrypto-button/hwcrypto-button.html 404 ()\nreceiveMessage @ (index):76\npostMessage (async)\n[Truncated]\n_propertySetter @ catalog-app.html:2\n__setProperty @ catalog-app.html:2\n_applyConfig @ catalog-app.html:3\n_afterClientsReady @ catalog-app.html:3\n_ready @ catalog-app.html:1\n_tryReady @ catalog-app.html:1\n_initFeatures @ catalog-app.html:4\n__initialize @ catalog-app.html:1\ncreatedCallback @ catalog-app.html:1\nwindow.Polymer @ catalog-app.html:1 \n (anonymous) @ lazy-resources.html:59 \n (anonymous) @ lazy-resources.html:59"
+  },
+  {
+    "rank": 7,
+    "id": "msg_3cef3e3ea3b6840f0d979c53818119b45bf32fd079935f052766aa2a7529c838",
+    "score": 33.646057,
+    "link": "https://github.com/DataBiosphere/azul/issues/3784",
+    "source": "github",
+    "origin_doc_id": "f0e7f758e6dfa6aed5eb1b76ca706ea6dd20ea6349e9fce9db6b6b94fba77b9e",
+    "snippet": "log.info('Randomly selecting %i bundles from catalog %s.', max_bundles,\nlog.warning('Not enough bundles in catalog %r."
+  },
+  {
+    "rank": 8,
+    "id": "msg_05734b8ed493006ce1ef2de746b16d3d1bcd6e7856167b33e7e57297ac2f7bb6",
+    "score": 33.565086,
+    "link": "https://github.com/kubernetes-sigs/service-catalog/issues/2778",
+    "source": "github",
+    "origin_doc_id": "18ad714cccea49817ed21581dc335cab1be9d5deca9d73dae9a5b6b1e4817a98",
+    "snippet": "Could not uninstall catalog, got this error: \n ``` \n Error: Job failed: BackoffLimitExceeded \n ```\ncatalog \n I0220 05:34:57.051409       1 hyperkube.go:192] Service Catalog version v0.3.0-beta.2 (built 2019-11-05T19:03:03Z) \n Error: failed to scale down controller manager: cannot get deployment catalog/catalog-catalog-controller-manager: the server could not find the requested resource"
+  },
+  {
+    "rank": 9,
+    "id": "msg_bd85caf1d6197a9b7a59f41bfd81a805c6392431cd2898af5600bcb64132babf",
+    "score": 33.532703,
+    "link": "https://stackoverflow.com/questions/39246795",
+    "source": "so",
+    "origin_doc_id": "df0c347bdd8f37a68277c79b864a9c3b1190a2cb6c655d549b0aa1046d72c895",
+    "snippet": "log.info(\"catalog:\" + dataSource.getConnection().getCatalog());"
+  },
+  {
+    "rank": 10,
+    "id": "msg_7362d6564ed5f4790593ce33345086b573ccc3fc8def352aa479d97d88fa5f2f",
+    "score": 33.235012,
+    "link": "https://github.com/cashapp/sqldelight/issues/2294",
+    "source": "github",
+    "origin_doc_id": "38f51b9f202bb935d54cab444a71b809fea241195739a1c745ef54e04ab7abf2",
+    "snippet": "e: /builds/kkmmkk/kotlin/catalog/build/generated/sqldelight/code/ProductDatabase/gt/kk/catalog/schema/ProductDatabase.kt: (19, 32): Unresolved reference: catalog \n e: /builds/kkmmkk/kotlin/catalog/build/generated/sqldelight/code/ProductDatabase/gt/kk/catalog/schema/ProductDatabase.kt: (20, 32): Unresolved reference: catalog \n e: /builds/kkmmkk/kotlin/catalog/build/generated/sqldelight/code/ProductDatabase/gt/kk/catalog/schema/ProductDatabase.kt: (53, 38): Unresolved reference: schema \n e: /builds/kkmmkk/kotlin/catalog/build/generated/sqldelight/code/ProductDatabase/gt/kk/catalog/schema/ProductDatabase.kt: (67, 49): Unresolved reference: newInstance"
+  }
+]

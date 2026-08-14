@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "S3AUtils.java - apache/hadoop",
+    "link": "https://github.com/apache/hadoop/blob/trunk/hadoop-tools/hadoop-aws/src/main/java/org/apache/hadoop/fs/s3a/S3AUtils.java",
+    "displayed_link": "https://github.com › hadoop-aws › src › main › java › org",
+    "snippet": "for (AutoCloseable c : closeables) {. if (c != null) {. try {. log.debug(\"Closing {}\", c);. c.close();. } catch (Exception e) {. log.debug(\"Exception in closing ...",
+    "snippet_highlighted_words": [
+      "c",
+      "c",
+      "log",
+      "debug",
+      "c);",
+      "c",
+      "e",
+      "log",
+      "debug"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "java - use try-with-resources to close a Closeable",
+    "link": "https://stackoverflow.com/questions/44843375/use-try-with-resources-to-close-a-closeable",
+    "displayed_link": "2 answers · 8 years ago",
+    "snippet": "The point of try-with-resources is that: The opening of the Closeable resource is done in the try statement; The use of the resource is ...",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Oracle Ran out of cursors",
+    "link": "https://forums.oracle.com/ords/apexds/post/oracle-ran-out-of-cursors-6267",
+    "displayed_link": "https://forums.oracle.com › ords › apexds › post › oracle...",
+    "snippet": "Recently I made a servlet that deletes complete data for an order. This data deletion involves SQL 'DELETE' in about 15 table.",
+    "snippet_highlighted_words": [],
+    "source": "Oracle Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "https://svn.apache.org/repos/asf/hbase/tags/0.95.1...",
+    "link": "https://svn.apache.org/repos/asf/hbase/tags/0.95.1-hadoop1.mvnlabeling2/hbase-server/src/main/java/org/apache/hadoop/hbase/ipc/RpcServer.java",
+    "displayed_link": "https://svn.apache.org › apache › hbase › ipc › RpcServer",
+    "snippet": "... ); you may not use this file except in compliance ... Log; import org.apache.commons.logging.LogFactory ... e) { LOG.warn(\"Exception while creating ...",
+    "snippet_highlighted_words": [
+      ");",
+      "Log",
+      "logging",
+      "e",
+      "LOG"
+    ],
+    "source": "Apache Software Foundation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "hadoop-release-3.5.0-RC1.tar.gz: .../io/IOUtils.java",
+    "link": "https://fossies.org/linux/misc/hadoop-release-3.5.0-RC1.tar.gz/hadoop-release-3.5.0-RC1/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/IOUtils.java",
+    "displayed_link": "https://fossies.org › src › main › java › org › apache › I...",
+    "snippet": "... log to record problems to at debug level. Can be ... debug(\"Exception in closing {}\", c, e); 264 } 265 ... debug(\"Ignoring exception while closing socket\", ignored); ...",
+    "snippet_highlighted_words": [
+      "log",
+      "debug level",
+      "debug",
+      "c",
+      "e);",
+      "debug"
+    ],
+    "source": "Fossies",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Best Practices for Enterprise Application Architecture: JDBC,",
+    "link": "https://www.cliffsnotes.com/study-notes/15840847",
+    "displayed_link": "https://www.cliffsnotes.com › Computer Science",
+    "snippet": "Computer-science document from Maharishi University of Management, 68 pages, CS544 Enterprise Application Architecture Lesson 3 - JDBC & JPA ...",
+    "snippet_highlighted_words": [],
+    "source": "CliffsNotes",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "CPS Troubleshooting Guide, Release 22.1.0",
+    "link": "https://www.cisco.com/c/en/us/td/docs/wireless/quantum-policy-suite/R22-1-0/CPS22-1-0TroubleshootingGuide/CPS22-1-0Troubleshooting_CPS.html",
+    "displayed_link": "https://www.cisco.com › ... › Configuration Guides",
+    "snippet": "Enable logging is set to debug level for Diameter and check for the following log messages: Unable to decode timezone value {} in gx-session with msg ...",
+    "snippet_highlighted_words": [
+      "logging",
+      "debug level",
+      "log"
+    ],
+    "source": "Cisco",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Java Examples for org.apache.spark.SparkConf - Javatips.net",
+    "link": "https://www.javatips.net/api/org.apache.spark.sparkconf",
+    "displayed_link": "https://www.javatips.net › api › org.apache.spark.sparkco...",
+    "snippet": "The following java examples will help you to understand the usage of org.apache.spark.SparkConf. These source code samples are taken from different open source ...",
+    "snippet_highlighted_words": [],
+    "source": "javatips.net",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "S3AUtils.java",
+    "link": "https://github.com/grahamar/hadoop-aws/blob/master/src/main/java/org/apache/hadoop/fs/s3a/S3AUtils.java",
+    "displayed_link": "https://github.com › main › java › org › apache › hadoop",
+    "snippet": "... log.debug(\"Closing {}\", c); } c.close(); } catch (Exception e) { if (log != null && log.isDebugEnabled()) { log.debug(\"Exception in closing {}\", c, e); } } } } } ...",
+    "snippet_highlighted_words": [
+      "log",
+      "debug",
+      "c",
+      "c",
+      "log",
+      "debug",
+      "c",
+      "e);"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "ftpd: getpeername: Transport endpoint is not connected",
+    "link": "https://groups.google.com/g/comp.unix.solaris/c/_XkTT9CwBx8",
+    "displayed_link": "https://groups.google.com › comp.unix.solaris",
+    "snippet": "Hi, I get the following error, \"\"Oct 18 23:00:55 App2 ftpd[23406]: [ID 572618 daemon.error] getpeername: Transport endpoint is not connected ...",
+    "snippet_highlighted_words": [
+      "getpeername: Transport endpoint is not connected"
+    ],
+    "source": "Google Groups",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "getpeername: Transport endpoint is not connected - Solaris",
+    "link": "https://community.unix.com/t/getpeername-transport-endpoint-is-not-connected/318886",
+    "displayed_link": "https://community.unix.com › UNIX › Solaris",
+    "snippet": "It seems like you should not run getpeername on anything but an accepted tcp connection socket fd, and once it has gotten to the accept stage, we have a packet ...",
+    "snippet_highlighted_words": [
+      "not",
+      "getpeername"
+    ],
+    "source": "Unix Linux Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Transport endpoint is not connected [closed]",
+    "link": "https://stackoverflow.com/questions/24966676/transport-endpoint-is-not-connected",
+    "displayed_link": "9 answers · 11 years ago",
+    "snippet": "This typically is caused by the mount directory being left mounted due to a crash of your filesystem. Go to the parent directory of the mount point and enter ...",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "ERROR: getpeername: Transport endpoint is not connected",
+    "link": "https://github.com/shadowsocks/shadowsocks-libev/issues/1811",
+    "displayed_link": "https://github.com › shadowsocks-libev › issues",
+    "snippet": "This error means you're visiting some sites that cannot be reached by your server. You can add -v option to your command line to see which address you are ...",
+    "snippet_highlighted_words": [
+      "visiting some sites that cannot be reached by your server"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "\"getpeername: Transport endpoint is not connected\" keeps ...",
+    "link": "https://www.linuxquestions.org/questions/linux-newbie-8/getpeername-transport-endpoint-is-not-connected-keeps-coming-in-var-adm-messages-4175437068/",
+    "displayed_link": "https://www.linuxquestions.org › linux-newbie-8 › getpe...",
+    "snippet": "But in fact there is no connection which most likely means the connection ended very quickly (or maybe the program has been confused into applying this function ...",
+    "snippet_highlighted_words": [],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Understanding UDP Sockets: Why getpeername() Fails with ...",
+    "link": "https://www.youtube.com/watch?v=aIFvMn_MIMw",
+    "displayed_link": "10+ views · 1 year ago",
+    "snippet": "Discover why using `getpeername()` on a UDP socket results in a connection error. Learn the key differences between unconnected and ...",
+    "snippet_highlighted_words": [],
+    "source": "YouTube · vlogize",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "sshd \"getpeername failed: Transport endpoint is not ...",
+    "link": "https://lists.mindrot.org/pipermail/openssh-unix-dev/2015-December/034605.html",
+    "displayed_link": "https://lists.mindrot.org › pipermail › 2015-December",
+    "snippet": "\"reset by peer\" usually means the TCP connection has been torn down via a TCP RST packet. This can be the other end crashing.",
+    "snippet_highlighted_words": [],
+    "source": "mindrot.org",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "How to address Transport endpoint is not connected error ...",
+    "link": "https://support.hpe.com/hpesc/public/docDisplay?docId=sf000102529en_us&docLocale=en_US",
+    "displayed_link": "https://support.hpe.com › hpesc › public › docDisplay",
+    "snippet": "If the local mount fails with a transport error, try manually unmounting it (on the respective worker host) and then restart the pod.",
+    "snippet_highlighted_words": [
+      "transport"
+    ],
+    "source": "Hewlett Packard Enterprise",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "getpeername: Transport endpoint is not connected",
+    "link": "https://www.tek-tips.com/threads/getpeername-transport-endpoint-is-not-connected.428862/",
+    "displayed_link": "https://www.tek-tips.com › ... › Linux (server)",
+    "snippet": "I have a problem with an intranet site, that is basically denying access to MSIE 6 and Mozilla. The site is password protected - MSIE 5.5 and ...",
+    "snippet_highlighted_words": [],
+    "source": "Tek-Tips",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Transport endpoint is not connected` with Extstore · Issue ...",
+    "link": "https://github.com/memcached/memcached/issues/829",
+    "displayed_link": "https://github.com › memcached › memcached › issues",
+    "snippet": "It looks like it's not able to set the file descriptor limit correctly, so it's hitting that error instead of pre-closing files. You need to make sure the fd ...",
+    "snippet_highlighted_words": [
+      "not"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

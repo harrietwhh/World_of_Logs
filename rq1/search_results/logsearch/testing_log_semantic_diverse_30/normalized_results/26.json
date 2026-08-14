@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_dd9cd05346bd74ab216b13afe444d858d917889a44a931dfc6811c19b826790e",
+    "score": 51.122814,
+    "link": "https://issues.apache.org/jira/browse/QPIDJMS-154",
+    "source": "jira",
+    "origin_doc_id": "b4a2c8fcce9e9c24ece495d4e511f5e03328cce4e5b86afcc279ee01435588f1",
+    "snippet": "2016-03-11 11:04:42 INFO  JmsConnection:1114 - Connection ID::af28891b-adbe-47f1-9da2-ad03f124a215:1 connected to remote Broker: amqp://localhost:5672"
+  },
+  {
+    "rank": 2,
+    "id": "msg_f27b7f2f8b3618f9dd703c0990ba0f99d30479e5a82acb703c13ddde1296c66a",
+    "score": 51.122814,
+    "link": "https://issues.apache.org/jira/browse/QPIDJMS-154",
+    "source": "jira",
+    "origin_doc_id": "b4a2c8fcce9e9c24ece495d4e511f5e03328cce4e5b86afcc279ee01435588f1",
+    "snippet": "2016-03-15 17:29:35 INFO  JmsConnection:1114 - Connection ID::37eae8b1-14ce-4809-ba78-35ccddcc8b82:1 connected to remote Broker: amqp://localhost:5672"
+  },
+  {
+    "rank": 3,
+    "id": "msg_4f4267275bf1838888f34ab224a6243dd757914a201ace8793f88483210be21f",
+    "score": 51.122814,
+    "link": "https://issues.apache.org/jira/browse/QPIDJMS-154",
+    "source": "jira",
+    "origin_doc_id": "b4a2c8fcce9e9c24ece495d4e511f5e03328cce4e5b86afcc279ee01435588f1",
+    "snippet": "2016-03-15 17:29:35 INFO  JmsConnection:1114 - Connection ID::5f6b0685-5b06-4a24-ae75-8b3bccdc2b1e:1 connected to remote Broker: amqp://localhost:5672"
+  },
+  {
+    "rank": 4,
+    "id": "msg_7dca2c9572b84c40d6290eaf21c5d4c88045c768d310137b7c156dd3092814a4",
+    "score": 46.628914,
+    "link": "https://stackoverflow.com/questions/63947310",
+    "source": "so",
+    "origin_doc_id": "c69cc9101759a4665d745b5e1b4c6e93bd128ba9939b2748cc1b843462f05050",
+    "snippet": "2020-09-17 20:15:19,165: AmqpProvider :(1):[amqp://localhost:5672] INFO (JmsConnection.java:1339) - Connection ID:0229e4fb-1885-4a10-8b55-04a7a0a450a5:1 connected to server: amqp://localhost:5672"
+  },
+  {
+    "rank": 5,
+    "id": "msg_3b13217030813ded266696f827ae760a0e49c388c4bcf7f49fed0a55e86e75e1",
+    "score": 44.99582,
+    "link": "https://stackoverflow.com/questions/79026621",
+    "source": "so",
+    "origin_doc_id": "a6ff7138e57e1139cc33d5ce433a7e4ee42c04b1bbe04d1c7417853d054367e8",
+    "snippet": "[2024-09-24 22:36:47,415]  INFO - QpidServiceComponent Successfully connected to AMQP server on port 5672"
+  },
+  {
+    "rank": 6,
+    "id": "msg_8e3f83e6e8a5de06b40adebff75b82150f7ea86ca77a7f7cf1ee5d79f7b20af8",
+    "score": 44.506443,
+    "link": "https://github.com/quarkusio/quarkus/issues/8593",
+    "source": "github",
+    "origin_doc_id": "d599192fc172f6615d08df8bfaa35b809125b6154246f6a85d1e04476a19938f",
+    "snippet": "2021-09-16T05:53:43.8118167Z 2021-09-16 05:53:43,811 INFO  [org.apa.qpi.jms.JmsConnection] (AmqpProvider :(14):[amqp://127.0.0.1:36919]) Connection ID:9d3dfe42-c808-4359-abc3-ffc426d6305a:14 connected to server: amqp://127.0.0.1:36919"
+  },
+  {
+    "rank": 7,
+    "id": "msg_db20bc6495853638d76a5b86c59e615f2218a25bab99d1e8361fea810895d499",
+    "score": 43.980812,
+    "link": "https://github.com/kubernetes/kubernetes/pull/39419",
+    "source": "github",
+    "origin_doc_id": "53041165f135d47f3c9329a38570b75faa30643296e72583bdc40b4e0680ea2a",
+    "snippet": "I0103 19:01:23.241094   10246 panics.go:76] POST /apis/rbac.authorization.k8s.io/v1alpha1/clusterroles: (43.950252ms) 201 [[hyperkube/v1.6.0 (linux/amd64) kubernetes/20540df] [::1]:46713] \n ```"
+  },
+  {
+    "rank": 8,
+    "id": "msg_ba1de066a251ce7e4198732d3f548304c5e6345063618c978917addd53eabb72",
+    "score": 43.416,
+    "link": "https://stackoverflow.com/questions/54582410",
+    "source": "so",
+    "origin_doc_id": "a62cf7fee986cea04e12b711e6e22736e8224047028f6c2f031fede74af254bb",
+    "snippet": "2019-02-07 18:47:12 [AmqpProvider :(1):[amqps://server.servicebus.windows.net:-1]] INFO  JmsConnection:1329 - Connection ID:5f75145f-6f10-4867-a590-782e507d51a8:1 connected to remote Broker: amqps://server.servicebus.windows.net"
+  },
+  {
+    "rank": 9,
+    "id": "msg_9b82f7f77046a51218fd1dc2d02267d61ebef623dcc8a0b846117a88f7bb4809",
+    "score": 42.746414,
+    "link": "https://stackoverflow.com/questions/79006387",
+    "source": "so",
+    "origin_doc_id": "4f6d3997b6a650c10b7b34ac5c46185635a49901f510e707d03b8ab44e9731e7",
+    "snippet": "2024-09-19 23:36:19.278  INFO 1776090 --- [windows.net:-1]] org.apache.qpid.jms.JmsConnection        : Connection ID:8405d717-54fd-49e9-ad40-534f6f3c2548:40 connected to server: amqps://tietoator.servicebus.windows.net"
+  },
+  {
+    "rank": 10,
+    "id": "msg_66e7f253d5a6cf82b1265e5aefe5c61ebd0fced94f0387394a6ed63e318edf71",
+    "score": 42.445114,
+    "link": "https://github.com/apache/dolphinscheduler/issues/5444",
+    "source": "github",
+    "origin_doc_id": "be8d2c65ad642a1f251637b164040954a3b39206abe657eb68053758ec806238",
+    "snippet": "10:04:11.207 [NettyServerWorkerThread_43] WARN org.apache.dolphinscheduler.remote.handler.NettyServerHandler - [id: 0xc7ee97cd, L:/10.11.56.141:50051 - R:/10.11.55.30:46713] is not writable, over high water level : 65536"
+  }
+]

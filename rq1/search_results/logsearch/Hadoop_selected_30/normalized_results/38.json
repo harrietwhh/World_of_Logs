@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_ace52655846ddc7343b737275c01716bc28ef4bfcacd114c272be50380e297d4",
+    "score": 76.329384,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:27,860 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce"
+  },
+  {
+    "rank": 2,
+    "id": "msg_c830d5a493b151f37e6234a03a645efd7aacc2f844bf276d35a55725f0ad8280",
+    "score": 76.329384,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:48,019 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce"
+  },
+  {
+    "rank": 3,
+    "id": "msg_f6ddaec5dcf9654f9679c3a85b8ba9781cc01cc88d7409e8f5f32f244700099b",
+    "score": 76.329384,
+    "link": "https://stackoverflow.com/questions/29075106",
+    "source": "so",
+    "origin_doc_id": "8804889924d3bb86586e2b967059d726e1328690ac16880f1a3ffbd69e9b1e96",
+    "snippet": "2015-03-16 11:46:53,663 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce"
+  },
+  {
+    "rank": 4,
+    "id": "msg_9413284a35719ebb775aa6ffe5d8bbc7e7ae2fa3d3486962c4e7362cd2d81b1d",
+    "score": 76.329384,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:25,614 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce"
+  },
+  {
+    "rank": 5,
+    "id": "msg_6a8a0b6240d95abd55a26d0fa62b7170714dd1084842f3fca5114f068f97372c",
+    "score": 76.329384,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:55,187 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce"
+  },
+  {
+    "rank": 6,
+    "id": "msg_4b8e704b0fc64cd7f322639e08d3fe116f1665e3961cf6f89c7ba9f90997a825",
+    "score": 76.329384,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:42,291 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce"
+  },
+  {
+    "rank": 7,
+    "id": "msg_1f571743fd592ebec16cbef9a11ec9d562649696f7b2d0bf3ce6fff248cf2904",
+    "score": 76.329384,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:55,543 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce"
+  },
+  {
+    "rank": 8,
+    "id": "msg_8ca2bd4bfe2d7eac5412929da491da43b9376575e382610378064f8d0350cc0f",
+    "score": 76.329384,
+    "link": "https://github.com/crs4/pydoop/issues/154",
+    "source": "github",
+    "origin_doc_id": "10efddefd4b8ea3b9e1d5f97d32e75c0c8263a8a5bd3426f0ec9092de77cc2f8",
+    "snippet": "2015-07-17 00:16:27,868 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce"
+  },
+  {
+    "rank": 9,
+    "id": "msg_8a6e486d9d5f75a6b1ffcd5e9908b02d6a7ad1f30344a53e10d4a76c220a19a3",
+    "score": 76.329384,
+    "link": "https://stackoverflow.com/questions/49366285",
+    "source": "so",
+    "origin_doc_id": "bab7bd228140fbee7bf887a8ad9a2638f1894ba5dc8341321ccb79ce6cd0cf96",
+    "snippet": "2018-03-20 18:52:35,331 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce"
+  },
+  {
+    "rank": 10,
+    "id": "msg_81ba7474ba78db4ca4182c68fa835a7cb383693954dc79bd4232ae17be3c74ee",
+    "score": 76.329384,
+    "link": "https://github.com/crs4/pydoop/issues/216",
+    "source": "github",
+    "origin_doc_id": "92c44987a78dab8d4832c1dcd6cd493412735f9b576da51b8be83f1197678df3",
+    "snippet": "2016-06-22 16:49:01,284 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce"
+  }
+]

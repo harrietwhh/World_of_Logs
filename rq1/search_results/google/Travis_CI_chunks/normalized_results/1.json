@@ -1,0 +1,108 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Travis-CI Node.js Defaulting to Ruby Build? No RakeFile found",
+    "link": "https://stackoverflow.com/questions/32064862/travis-ci-node-js-defaulting-to-ruby-build-no-rakefile-found",
+    "displayed_link": "https://stackoverflow.com › questions › travis-ci-node-j...",
+    "snippet": "No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval ...",
+    "snippet_highlighted_words": [
+      "No Rakefile found"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Travis fails, rake not found · Issue #126 · mir-evaluation/mir_eval",
+    "link": "https://github.com/mir-evaluation/mir_eval/issues/126",
+    "displayed_link": "https://github.com › mir-evaluation › mir_eval › issues",
+    "snippet": "No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval' /",
+    "snippet_highlighted_words": [
+      "No Rakefile found"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "travis rake error · Issue #20 · moveit/moveit_tutorials",
+    "link": "https://github.com/moveit/moveit_tutorials/issues/20",
+    "displayed_link": "https://github.com › moveit › moveit_tutorials › issues",
+    "snippet": "Travis fails for this repo with some unrelated rake error. See e.g. #19 : 0.09s$ rake rake aborted! No Rakefile found (looking for: rakefile ...",
+    "snippet_highlighted_words": [
+      "Travis fails for this repo with some unrelated rake error"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Static site deployment: Github to S3 | by Michal Frystacky",
+    "link": "https://medium.com/@michal.frystacky/static-site-github-to-s3-770953a90f67",
+    "displayed_link": "210+ likes · 8 years ago",
+    "snippet": "That's caused because Travis defaulted to running your code as a ruby project and it couldn't find or run your default rake file. Travis — Node.",
+    "snippet_highlighted_words": [
+      "Travis",
+      "ruby",
+      "find",
+      "rake file",
+      "Travis"
+    ],
+    "source": "Medium · Michal Frystacky",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Static Site Build S3 - DevOps Training - GitBook",
+    "link": "https://tkssharma-devops.gitbook.io/devops-training/devops-01-continuous-integration/continuous-integration-and-continuous-delivery/ci-cd-using-travis-github/static-site-build-s3",
+    "displayed_link": "https://tkssharma-devops.gitbook.io › devops-training",
+    "snippet": "That's caused because Travis defaulted to running your code as a ruby project and it couldn't find or run your default rake file . Travis — Node ...",
+    "snippet_highlighted_words": [
+      "Travis",
+      "ruby",
+      "find",
+      "rake file",
+      "Travis"
+    ],
+    "source": "GitBook",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "问Travis-CI Node.js默认为Ruby？没有发现RakeFile",
+    "link": "https://cloud.tencent.com/developer/ask/sof/112365304",
+    "displayed_link": "https://cloud.tencent.com › ask › sof",
+    "snippet": "$ rakerake aborted!No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)/home/travis/.rvm/gems ... ruby_executable_hooks:15:in `eval' / ...",
+    "snippet_highlighted_words": [
+      "No Rakefile found",
+      "looking",
+      "rakefile",
+      "Rakefile",
+      "rakefile",
+      "rb",
+      "Rakefile",
+      "rb",
+      "home",
+      "travis",
+      "rvm",
+      "gems",
+      "ruby_executable_hooks",
+      "15",
+      "eval"
+    ],
+    "source": "腾讯云",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

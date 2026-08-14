@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_1291aa9cdd913d7bf32b6e82eb8c565d82e4ddff6fc3fded6ceac1cdbd29c80a",
+    "score": 39.1336,
+    "link": "https://stackoverflow.com/questions/32181346",
+    "source": "so",
+    "origin_doc_id": "7d2aaa4949d211dd4a22be6c923f5372816058da70f0a87a125e259184196cea",
+    "snippet": "2015-08-24 13:28:36,070 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using mapred newApiCommitter."
+  },
+  {
+    "rank": 2,
+    "id": "msg_4049d3d50b3bca71c20f8bc2cab36989f94183fae2fe73381cedf4d0ea7d4466",
+    "score": 39.1336,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:26,510 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using mapred newApiCommitter."
+  },
+  {
+    "rank": 3,
+    "id": "msg_9203f064bf9bd20d3d21713e3175c4bf74d12c665cbb5e6b81e77708fb09f296",
+    "score": 39.1336,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,028 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using mapred newApiCommitter."
+  },
+  {
+    "rank": 4,
+    "id": "msg_84ac52bf426d51c89f9c520cfa4c76d49d44e5b1c266f39f8b99d94d626b8387",
+    "score": 39.1336,
+    "link": "https://stackoverflow.com/questions/37901108",
+    "source": "so",
+    "origin_doc_id": "ba4709846428a88a72c537c1e133da9fc3b8b42e8df5d88af3cadf791144e27f",
+    "snippet": "2016-06-18 19:14:32,515 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using mapred newApiCommitter."
+  },
+  {
+    "rank": 5,
+    "id": "msg_11ff2cc2d2ced5a26d500df6c5a14ceb73e1e5e954889dc7a2bd196d2a06b6e0",
+    "score": 39.1336,
+    "link": "https://stackoverflow.com/questions/38636098",
+    "source": "so",
+    "origin_doc_id": "9318367fcbc2c40b660e17fab0aa1e8fe2306e78defe61c6e968c15ecc55af72",
+    "snippet": "2016-07-28 20:12:48,811 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using mapred newApiCommitter."
+  },
+  {
+    "rank": 6,
+    "id": "msg_d9d3d07413b328c71d17fe79bd460a3c61e4b1ac5c471af8164a29d5306b704d",
+    "score": 39.1336,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:24,213 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using mapred newApiCommitter."
+  },
+  {
+    "rank": 7,
+    "id": "msg_4ceebd42cf8f518b45cee209949c5d982a5d0131a3a4482e9b6a5c50e08a5339",
+    "score": 39.1336,
+    "link": "https://issues.apache.org/jira/browse/SQOOP-2894",
+    "source": "jira",
+    "origin_doc_id": "85770b6708c2375afdef0ebf2a4b0ca9215f6344e7b5c7601a80ba5a108f6041",
+    "snippet": "2016-02-26 04:20:07,020 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using mapred newApiCommitter."
+  },
+  {
+    "rank": 8,
+    "id": "msg_c3406e4cec9af8a3207a9e5bd065e3f748f39b1c7ef004fe1a93ab2e0c245f9f",
+    "score": 39.1336,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:52,086 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using mapred newApiCommitter."
+  },
+  {
+    "rank": 9,
+    "id": "msg_a7ad3eb6681d2c8fe6c08a25b6c783c18deb77acfba3c1502aacf39e6e3f1515",
+    "score": 39.1336,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:38,346 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using mapred newApiCommitter."
+  },
+  {
+    "rank": 10,
+    "id": "msg_85d5fd2b926b280973ebc3cdded3423931efe60e546b34009d3140ec6534634d",
+    "score": 39.1336,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:54,501 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Using mapred newApiCommitter."
+  }
+]

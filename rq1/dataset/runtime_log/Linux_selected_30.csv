@@ -1,0 +1,31 @@
+LineId,Time,Level,Content,EventId,EventTemplate
+1,15:16:01,combo,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+2,15:16:02,combo,check pass; user unknown,E27,check pass; user unknown
+4,02:04:59,combo,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+14,04:06:18,combo,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+15,04:06:19,combo,session closed for user cyrus,E101,session closed for user <*>
+16,04:06:20,combo,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+83,07:07:00,combo,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005,E29,connection from <*> (<*>) at <*>:<*>:<*>
+91,19:43:13,combo,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.46.224.253  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=guest
+136,02:23:10,combo,User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005,E112,User unknown timed out after <*> seconds at <*>:<*>:<*> <*>
+144,04:08:57,combo,cupsd shutdown succeeded,E37,cupsd shutdown succeeded
+145,04:09:02,combo,cupsd startup succeeded,E38,cupsd startup succeeded
+146,04:09:11,combo,restart.,E90,restart.
+167,04:44:39,combo,Received SNMP packet(s) from 67.170.148.126,E88,Received SNMP packet(s) from <*>
+539,20:53:04,combo,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code,E13,Authentication failed from <*> (<*>): Permission denied in replay cache code
+540,20:53:04,combo,Kerberos authentication failed,E61,Kerberos authentication failed
+553,20:53:04,combo,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort,E14,Authentication failed from <*> (<*>): Software caused connection abort
+896,08:06:12,combo,*** info [mice.c(1766)]:,E1,*** info [mice.c(<*>)]:
+897,08:06:12,combo,imps2: Auto-detected intellimouse PS/2,E51,imps2: Auto-detected intellimouse PS/<*>
+898,08:06:15,combo,session opened for user root by LOGIN(uid=0),E103,session opened for user <*> by LOGIN(uid=<*>)
+899,08:06:15,combo,ROOT LOGIN ON tty2,E91,<*> LOGIN ON tty2
+901,08:09:11,combo,removing device node '/udev/vcsa2',E89,removing device node '<*>'
+903,08:09:11,combo,creating device node '/udev/vcs2',E36,creating device node '<*>'
+953,20:14:55,combo,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20  user=test,E19,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=test
+1242,11:33:13,combo,authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=,E15,authentication failure; logname= uid=<*> euid=<*> tty=:<*> ruser= rhost=
+1243,11:33:17,combo,Couldn't authenticate user,E31,Couldn't authenticate user
+1748,02:38:23,combo,"ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)",E9,"ANONYMOUS FTP LOGIN FROM <*>, (anonymous)"
+1810,12:09:06,combo,notify question section contains no SOA,E75,notify question section contains no SOA
+1826,23:23:13,combo,getpeername (ftpd): Transport endpoint is not connected,E47,getpeername (ftpd): Transport endpoint is not connected
+1828,23:23:13,combo,warning: can't get client address: Connection reset by peer,E116,warning: can't get client address: Connection reset by peer
+1909,14:41:57,combo,syslogd startup succeeded,E106,syslogd startup succeeded

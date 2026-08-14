@@ -1,0 +1,143 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "How to recover from \"Too many Authentication Failures for ...",
+    "link": "https://serverfault.com/questions/36291/how-to-recover-from-too-many-authentication-failures-for-user-root",
+    "displayed_link": "https://serverfault.com › questions › how-to-recover-fro...",
+    "snippet": "Check sshd_config and verify that root login is permitted. sshd will need to be restarted if the setting changes. Share.",
+    "snippet_highlighted_words": [
+      "root login"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "ssh: too many authentication failures",
+    "link": "https://stackoverflow.com/questions/75890387/ssh-too-many-authentication-failures",
+    "displayed_link": "3 answers · 3 years ago",
+    "snippet": "In this case, there will be multiple failed login attempts before we get to the correct key, and this results in the \"Too many authentication failures\" error.",
+    "snippet_highlighted_words": [
+      "failed login",
+      "Too many authentication"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "3 Ways to Fix Too many Authentication Failures SSH Root? ...",
+    "link": "https://runcloud.io/blog/fix-too-many-authentication-failures",
+    "displayed_link": "https://runcloud.io › blog › fix-too-many-authenticatio...",
+    "snippet": "A quick and easy way to avoid authentication failures is by using an SSH key and specifying the path of this SSH identity file directly in the login command.",
+    "snippet_highlighted_words": [
+      "using an SSH key and specifying the path of this SSH identity file"
+    ],
+    "source": "RunCloud",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Too many authentication failures for *username*",
+    "link": "https://superuser.com/questions/187779/too-many-authentication-failures-for-username",
+    "displayed_link": "https://superuser.com › questions › too-many-authentic...",
+    "snippet": "This is usually caused by inadvertently offering multiple ssh keys to the server. The server will reject any key after too many keys have been offered.",
+    "snippet_highlighted_words": [
+      "too many"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "I get the SSH login error: Too many authentication failures.",
+    "link": "https://www.reddit.com/r/ssh/comments/ueni7a/i_get_the_ssh_login_error_too_many_authentication/",
+    "displayed_link": "4 comments · 3 years ago",
+    "snippet": "When using SSH to login into a local computer, I get the following error. “Received disconnect from 192.168.1.50 port 22:2: Too many authentication failures”",
+    "snippet_highlighted_words": [
+      "login",
+      "disconnect",
+      "Too many"
+    ],
+    "source": "Reddit · r/ssh",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "SSH: the “Too many authentication failures” error and its ...",
+    "link": "https://medium.com/@setevoy/ssh-the-too-many-authentication-failures-error-and-its-solution-feefaba0262a",
+    "displayed_link": "1 like · 4 years ago",
+    "snippet": "The root cause is simple: during establishing a new SSH connection, the local ssh-client first tries to use keys, that are loaded by the local ssh-agent.",
+    "snippet_highlighted_words": [
+      "root"
+    ],
+    "source": "Medium · Arseny Zinchenko (setevoy)",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "[SOLVED] Too many authentication failures [preauth]",
+    "link": "https://forums.unraid.net/topic/96218-solved-too-many-authentication-failures-preauth/",
+    "displayed_link": "https://forums.unraid.net › ... › General Support",
+    "snippet": "Today i accidentally filled my cache and docker crashed, but it appears unraid is acting strangely now when i attempt to connect via SSH to ...",
+    "snippet_highlighted_words": [],
+    "source": "Unraid",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Disconnecting (invalid|authenticating) user USER HOST ...",
+    "link": "https://github.com/fail2ban/fail2ban/issues/3485",
+    "displayed_link": "https://github.com › issues",
+    "snippet": "Well the assumption is that messages with Too many authentication failures are just additional messages written after another messages that ...",
+    "snippet_highlighted_words": [
+      "Too many authentication failures"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "[SOLVED] ssh failure after upgrade",
+    "link": "https://forum.netgate.com/topic/151971/solved-ssh-failure-after-upgrade",
+    "displayed_link": "https://forum.netgate.com › topic › solved-ssh-failure-a...",
+    "snippet": "Disconnecting authenticating user root 192.168.x.x port 51602: Too many authentication failures [preauth] error: maximum authentication ...",
+    "snippet_highlighted_words": [
+      "Disconnecting authenticating user root 192.168.x.x port 51602"
+    ],
+    "source": "Netgate Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Fix \"Too many authentication failures\" SSH error",
+    "link": "https://blogs.vmware.com/affiliates/fix-too-many-authentication-failures-ssh-error",
+    "displayed_link": "https://blogs.vmware.com › Affliates",
+    "snippet": "TL;DR: this error is often caused by inadvertently offering too many SSH keys to the server (compared to the MaxAuthTries parameter). The server ...",
+    "snippet_highlighted_words": [
+      "too many"
+    ],
+    "source": "VMware Blogs",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

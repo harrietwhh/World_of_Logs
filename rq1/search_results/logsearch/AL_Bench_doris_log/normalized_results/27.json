@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_6ee48213bc537b363e925c15c4290db218a8f11a9bc28fe1c1ac0c91d3d6b7db",
+    "score": 44.400925,
+    "link": "https://issues.apache.org/jira/browse/CAMEL-12641",
+    "source": "jira",
+    "origin_doc_id": "41bedaaf759cf025ec55f7077ed4b5affb35a1830be233d1f7c4c4f0b3bb3ff1",
+    "snippet": "LOG.warn(\"Cannot put the message header key={}, value={} into Sns MessageAttribute\", entry.getKey(), entry.getValue());\nLOG.warn(\"Cannot put the message header key={}, value={} into Sqs MessageAttribute\", entry.getKey(), entry.getValue());"
+  },
+  {
+    "rank": 2,
+    "id": "msg_4da2f216de0ebe6ba5da480189ef1f7dd9efe5f240e9d744660f44afeb26f128",
+    "score": 37.38761,
+    "link": "https://stackoverflow.com/questions/45903874",
+    "source": "so",
+    "origin_doc_id": "c971449bf50028235f5e01afdc2b9522f852a4849c0f04052307d953e3930b47",
+    "snippet": "Log.i(TAG, \"Found name for \"+entry.getKey()+\" : \"+entry.getKey()+\":\"+entry.getValue());"
+  },
+  {
+    "rank": 3,
+    "id": "msg_fbc9a7ea8570b1e47834f8a614bfe2d61ecdfffce7f4109658d42524fe9c19a2",
+    "score": 37.355015,
+    "link": "https://stackoverflow.com/questions/2889777",
+    "source": "so",
+    "origin_doc_id": "efc5bebd0618fb27e3ed1f2041a1e80580f07b1005928a48fcd3fe3caae2d054",
+    "snippet": "System.out.println(entry.getKey()+\"--->\"+entry.getValue());\nSystem.out.println(entry.getKey()+\"--->\"+entry.getValue());\nSystem.out.println(entry.getKey()+\"--->\"+entry.getValue());"
+  },
+  {
+    "rank": 4,
+    "id": "msg_e70265e6ced6fb5f9d6cf960bc83175d651c13b0f286b94d7939fbfe9c46de53",
+    "score": 37.165787,
+    "link": "https://stackoverflow.com/questions/65542078",
+    "source": "so",
+    "origin_doc_id": "355ec7f1ae1cb8eedb8bbebb964fce74e18a75763e3a6a145e6cf513757a6792",
+    "snippet": "Log.d(\"myTag\", entry.getKey() + \" \" +entry.getValue());\nLog.d(\"myTag\", \"entry.getKey():  \"+ entry.getKey() + \"   \" + \"entry.getValue():  \"+entry.getValue());"
+  },
+  {
+    "rank": 5,
+    "id": "msg_2336bee2b2281f1e7e1db4e88b90c24e2a88bf44a229106c1ab1d15d51f1b30a",
+    "score": 36.60943,
+    "link": "https://stackoverflow.com/questions/48962029",
+    "source": "so",
+    "origin_doc_id": "7ad4170a5b496b9d91a40bf12566e429d3d87354f73248f9d68ed0d41542fdda",
+    "snippet": "System.out.println(\"Key : \" + entry.getKey() \n                 + \" Value : \" + entry.getValue());\n\" + entry.getKey() + \"; value: \" + entry.getValue());\nSystem.out.println(\"key: \" + entry.getKey() + \"; value: \" + entry.getValue());"
+  },
+  {
+    "rank": 6,
+    "id": "msg_e72ac6f1ba8edfe04444b9f2eede297165ed26e2517b029f26cf92283725c06f",
+    "score": 36.58413,
+    "link": "https://stackoverflow.com/questions/42944833",
+    "source": "so",
+    "origin_doc_id": "2c4a2399eefd3488060d77fbc25aecb68f6367b34cf0f0f82311534f1b1f4f75",
+    "snippet": "name: \" + entry.getKey() + \" has \" + entry.getValue().getTotalIssues());\nname: \" + entry.getKey() + \" status count: closed + resolved = \" + (is.getNumOfClosed() + is.getNumOfResolved()));"
+  },
+  {
+    "rank": 7,
+    "id": "msg_37cd1d91db361c9b4a5dd7d26f4ed113d57e87a57f5a72ec98e22cd414330dfc",
+    "score": 36.34726,
+    "link": "https://stackoverflow.com/questions/35800031",
+    "source": null,
+    "origin_doc_id": "05b6c78e58d488d37dd18b0ee2d0dd6f872349b779db25524651a70c64f3b136",
+    "snippet": "System.out.println(\"Key:\" + entry.getKey() + \", Value:\" +\nSystem.out.println(\"Key:\" + entry.getKey() + \", Value:\" + entry.getValue());\nSystem.out.println(\"Key:\" + entry.getKey() + \", Value:\" + entry.getValue());\nSystem.out.println(\"Key:\" + entry.getKey() + \", Value:\" + entry.getValue());"
+  },
+  {
+    "rank": 8,
+    "id": "msg_d327e406fd7104dbf7cc7b2eeb4d4dee712d91b3f8139accc067f9cb582cd449",
+    "score": 36.24769,
+    "link": "https://stackoverflow.com/questions/34823424",
+    "source": "so",
+    "origin_doc_id": "0dd68cd0c1e0359e37437515db53917b8642c0810478564af075d7fcf28f9dad",
+    "snippet": "System.out.println(entry.getKey() + \" ,\" + entry.getValue() + \" pts\");\nSystem.out.println(counter - 1 + \" \" + entry.getKey() + \",\" + entry.getValue() + \" pts\");\nSystem.out.println(counter + \" \" + entry.getKey() + \",\" + entry.getValue() + \" pts\");"
+  },
+  {
+    "rank": 9,
+    "id": "msg_8e53849861eab69a50b98b9e2a8e3965a7390429affed561c1d6e33601a2cd3e",
+    "score": 36.24769,
+    "link": "https://stackoverflow.com/questions/18388593",
+    "source": "so",
+    "origin_doc_id": "621becc63171644b21ec971fce73da76f07681f2559abb3b41f9de62f6eafceb",
+    "snippet": "System.out.println(\"key --> \" + entry.getKey() + \" value-->\" + entry.getValue());\nSystem.out.println(\"key --> \" + entry.getKey() + \" value-->\" + entry.getValue());\nSystem.out.println(\"key --> \" + entry.getKey() + \" value-->\" + entry.getValue());"
+  },
+  {
+    "rank": 10,
+    "id": "msg_77bcb67591e6e4a384eee9ec51e001116944548ff03a83a1f7892189e66e15ec",
+    "score": 36.04017,
+    "link": "https://stackoverflow.com/questions/448122",
+    "source": "so",
+    "origin_doc_id": "3624ef33af803489f93222539074c00b678959321024c78a1327ea6c19307b05",
+    "snippet": "System.out.println(\"Name : \" + entry.getKey() + \" age \" + entry.getValue());"
+  }
+]

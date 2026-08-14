@@ -1,0 +1,32 @@
+{
+  "case_id": "1",
+  "summary_raw": "[\"open through proxy\",\"bytes sent\",\"bytes received\",\"close\"]",
+  "summary_items": [
+    "open through proxy",
+    "bytes sent",
+    "bytes received",
+    "close"
+  ],
+  "group_logs_lines": [
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 403 bytes sent , 426 bytes received , lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 1036 bytes ( 1.01 KB ) sent , 34151 bytes ( 33.3 KB ) received , lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 1040 bytes ( 1.01 KB ) sent , 15872 bytes ( 15.5 KB ) received , lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 1066 bytes ( 1.04 KB ) sent , 1782 bytes ( 1.74 KB ) received , lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 1060 bytes ( 1.03 KB ) sent , 1633 bytes ( 1.59 KB ) received , lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 1091 bytes ( 1.06 KB ) sent , 367 bytes received , lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 1097 bytes ( 1.07 KB ) sent , 366 bytes received , lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 1052 bytes ( 1.02 KB ) sent , 8362 bytes ( 8.16 KB ) received , lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 1124 bytes ( 1.09 KB ) sent , 529 bytes received , lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 01",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS"
+  ]
+}

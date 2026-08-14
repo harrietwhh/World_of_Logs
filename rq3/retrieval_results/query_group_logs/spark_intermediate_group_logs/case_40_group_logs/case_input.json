@@ -1,0 +1,35 @@
+{
+  "case_id": "40",
+  "summary_raw": "[\"Waiting for spark context initialization\",\"Running Spark version\",\"authentication disabled\",\"started service\",\"Starting remoting\",\"MemoryStore started\",\"Adding filter\"]",
+  "summary_items": [
+    "Waiting for spark context initialization",
+    "Running Spark version",
+    "authentication disabled",
+    "started service",
+    "Starting remoting",
+    "MemoryStore started",
+    "Adding filter"
+  ],
+  "group_logs_lines": [
+    "INFO ApplicationMaster : Waiting for spark context initialization",
+    "INFO ApplicationMaster : Waiting for spark context initialization ...",
+    "INFO SparkContext : Running Spark version 1.6.0",
+    "INFO ApplicationMaster : Waiting for spark context initialization",
+    "INFO ApplicationMaster : Waiting for spark context initialization ...",
+    "INFO SecurityManager : SecurityManager : authentication disabled ; ui acls disabled ; users with view permissions : Set ( yarn , curi ) ; users with modify permissions : Set ( yarn , curi )",
+    "INFO Utils : Successfully started service 'sparkDriver' on port 57325.",
+    "INFO Slf4jLogger : Slf4jLogger started",
+    "INFO Remoting : Starting remoting",
+    "INFO Remoting : Remoting started ; listening on addresses : [ akka.tcp : //sparkDriverActorSystem@10.10.34.24 : 43254 ]",
+    "INFO Utils : Successfully started service 'sparkDriverActorSystem' on port 43254.",
+    "INFO SparkEnv : Registering MapOutputTracker",
+    "INFO SparkEnv : Registering BlockManagerMaster",
+    "INFO DiskBlockManager : Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0036/blockmgr-54eae980-791c-4d30-8d66-57a0a609e046",
+    "INFO MemoryStore : MemoryStore started with capacity 36.4 GB",
+    "INFO SparkEnv : Registering OutputCommitCoordinator",
+    "INFO JettyUtils : Adding filter : org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter",
+    "INFO Server : jetty-8.y.z-SNAPSHOT",
+    "INFO AbstractConnector : Started SelectChannelConnector@0.0.0.0 : 47193",
+    "INFO Utils : Successfully started service 'SparkUI' on port 47193."
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_867fa897e209e672d7e04a904f9479501bc55609986b1ef1ef6e3f40a9f44255",
+    "score": 70.50642,
+    "link": "https://stackoverflow.com/questions/25857164",
+    "source": "so",
+    "origin_doc_id": "4f5539cdb5513e276c8a1df732566202da6041a323af0acaa0aba525464293d6",
+    "snippet": "14:06:17,692  INFO [org.mortbay.log] - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog"
+  },
+  {
+    "rank": 2,
+    "id": "msg_26df9a866969216d7436a85216b271ed30425d952e95b8273c174808fc436663",
+    "score": 68.3323,
+    "link": "https://stackoverflow.com/questions/13252325",
+    "source": "so",
+    "origin_doc_id": "24e65c8816bfbe965c420d0da152e4faa61c15481d8781461adb44062a4a87fb",
+    "snippet": "2012-11-06 18:54:30,002 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog"
+  },
+  {
+    "rank": 3,
+    "id": "msg_ad30abda02b0939b94447a603e94890d51bf742dc65cfd088a3685e32f508899",
+    "score": 68.3323,
+    "link": "https://stackoverflow.com/questions/11055055",
+    "source": "so",
+    "origin_doc_id": "5f05a029e4720c72d0611240b41a78bc2b8d56fff3012bcae9c49df7267eb34a",
+    "snippet": "2012-06-15 11:50:51,644 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog"
+  },
+  {
+    "rank": 4,
+    "id": "msg_3819d613e6768eef497f73847d1dbe996501d1c3a8683df2c3ec22ff9cf7dabb",
+    "score": 68.3323,
+    "link": "https://stackoverflow.com/questions/11804341",
+    "source": "so",
+    "origin_doc_id": "d1cbe166fa3cac093fda7b3c39be99db41e4fa15c1c22ac6ce003f66e27b7703",
+    "snippet": "2012-08-03 17:47:24,721 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog"
+  },
+  {
+    "rank": 5,
+    "id": "msg_e52006ac9695ec4688689731dcc3fcb853c6681329bf5eadd285965365c73cd0",
+    "score": 68.3323,
+    "link": "https://stackoverflow.com/questions/32800599",
+    "source": "so",
+    "origin_doc_id": "8390d084973116120224c3aa0cf561fbc1a471faeddd63879a7af26c1a26c397",
+    "snippet": "2015-09-25 21:18:26,661 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog"
+  },
+  {
+    "rank": 6,
+    "id": "msg_2f2a415c0c649bcb444744a7fde49f1b147bc7646ac0bf3cbdee387d12c6f626",
+    "score": 68.3323,
+    "link": "https://stackoverflow.com/questions/25320696",
+    "source": "so",
+    "origin_doc_id": "1be60d9a4b6fb92aba703a8fcc10d7df64a2280b19b156d50cbeee65a3105cbf",
+    "snippet": "2014-08-15 10:17:54,605 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog"
+  },
+  {
+    "rank": 7,
+    "id": "msg_fd6b63d1f2f9931f4f3cbcba67c99d69629f4cdfb59feb1ca44f28e3011dcedb",
+    "score": 68.3323,
+    "link": "https://stackoverflow.com/questions/28172413",
+    "source": "so",
+    "origin_doc_id": "16d3d663f14f87352f580dddfc2eb3579aa647fc12280a5f0fdedf3153ff7e0f",
+    "snippet": "2015-01-27 19:30:33,233 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog"
+  },
+  {
+    "rank": 8,
+    "id": "msg_e584ed97350b9d796fdb790eff162685cdcfe00ed7925d3a4d56a01ac7a4bf19",
+    "score": 68.3323,
+    "link": "https://stackoverflow.com/questions/28363263",
+    "source": "so",
+    "origin_doc_id": "d93c034f8f5cd01acac9cc8fdf05c43f0738a70cfa44e5bcb90da8dc81078566",
+    "snippet": "2015-02-06 11:40:34,634 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog"
+  },
+  {
+    "rank": 9,
+    "id": "msg_c7f1ce52de40c41de827aeb6db77ef13bfb7b0ad8b9369347c714b09f3a76c69",
+    "score": 68.3323,
+    "link": "https://stackoverflow.com/questions/25758565",
+    "source": "so",
+    "origin_doc_id": "eb4d716daeb0c8f7de87b974573fdf5879c55e0d58810f4d117b5659728230df",
+    "snippet": "2014-09-10 16:04:57,349 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog"
+  },
+  {
+    "rank": 10,
+    "id": "msg_b6555ceb73d267c07f140b356f8a66fcd254c18f564eef8df5b198e504c2365e",
+    "score": 68.3323,
+    "link": "https://stackoverflow.com/questions/24733533",
+    "source": "so",
+    "origin_doc_id": "19dc9e101afa7207b63ae9eea95fa913e1cfcf4671b06fb3015d971f023cdcb0",
+    "snippet": "2014-07-14 17:22:09,615 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "case_id": "27",
+  "summary_raw": "[\"Unexpected exception causing shutdown\",\"sock still open\"]",
+  "summary_items": [
+    "Unexpected exception causing shutdown",
+    "sock still open"
+  ],
+  "group_logs_lines": [
+    "WARN ******* GOODBYE /10.10.34.11 : 52253 ********",
+    "ERROR Unexpected exception causing shutdown while sock still open",
+    "WARN ******* GOODBYE /10.10.34.11 : 52255 ********",
+    "ERROR Unexpected exception causing shutdown while sock still open",
+    "WARN ******* GOODBYE /10.10.34.11 : 52256 ********",
+    "ERROR Unexpected exception causing shutdown while sock still open",
+    "WARN ******* GOODBYE /10.10.34.11 : 52257 ********",
+    "ERROR Unexpected exception causing shutdown while sock still open",
+    "WARN ******* GOODBYE /10.10.34.11 : 52261 ********",
+    "ERROR Unexpected exception causing shutdown while sock still open",
+    "WARN ******* GOODBYE /10.10.34.11 : 52263 ********",
+    "ERROR Unexpected exception causing shutdown while sock still open",
+    "WARN ******* GOODBYE /10.10.34.11 : 52264 ********",
+    "ERROR Unexpected exception causing shutdown while sock still open",
+    "WARN ******* GOODBYE /10.10.34.11 : 52265 ********",
+    "ERROR Unexpected exception causing shutdown while sock still open",
+    "WARN ******* GOODBYE /10.10.34.11 : 52269 ********",
+    "ERROR Unexpected exception causing shutdown while sock still open",
+    "WARN ******* GOODBYE /10.10.34.11 : 52271 ********",
+    "ERROR Unexpected exception causing shutdown while sock still open"
+  ]
+}

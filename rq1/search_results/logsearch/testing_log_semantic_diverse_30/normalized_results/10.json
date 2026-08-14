@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_0608335c91b9cff795860f7355194eb79c27fb471fe104aadc8f75065a98ac25",
+    "score": 45.49975,
+    "link": "https://stackoverflow.com/questions/59527991",
+    "source": "so",
+    "origin_doc_id": "afaa7dcc3b639bd1b17040ce18f32a40352e635488506f7bf8ed635628993e84",
+    "snippet": "[2019-12-30 13:35:29,529] INFO Setting authorizedID: super (org.apache.zookeeper.server.auth.SaslServerCallbackHandler)"
+  },
+  {
+    "rank": 2,
+    "id": "msg_9e40670ca4cec254d07bc02b8a877816e3e084ce966830d30781b082534c2c49",
+    "score": 43.772736,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2649",
+    "source": "jira",
+    "origin_doc_id": "3d66505d88aef4d507bb3121e0ef1f10f836858ef2f137cca96beab1706d9c66",
+    "snippet": "2016-12-09 15:46:34,848 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:SaslServerCallbackHandler@134] - Setting authorizedID: bob"
+  },
+  {
+    "rank": 3,
+    "id": "msg_8fd73209f41f3187a33dc7b4ac78fea45f33ecef720b9de9497a9803e424774e",
+    "score": 42.176678,
+    "link": "https://github.com/31z4/zookeeper-docker/issues/81",
+    "source": "github",
+    "origin_doc_id": "92f58f1cf5eff70ea5f43d7b9e326c6e2a26a2b2aa5611c6b06b79e89b7f9e42",
+    "snippet": "2019-11-21 09:09:24,690 [myid:135] - INFO  [NIOWorkerThread-14:Learner@113] - Revalidating client: 0x87002f8e282b0004"
+  },
+  {
+    "rank": 4,
+    "id": "msg_52ff7efd99a8e0c5ef62df3d87e3efe8170c59c41b979a1a49e9e87c678cf502",
+    "score": 42.176678,
+    "link": "https://github.com/31z4/zookeeper-docker/issues/81",
+    "source": "github",
+    "origin_doc_id": "92f58f1cf5eff70ea5f43d7b9e326c6e2a26a2b2aa5611c6b06b79e89b7f9e42",
+    "snippet": "2019-11-21 09:09:45,980 [myid:135] - INFO  [NIOWorkerThread-1:Learner@113] - Revalidating client: 0x87002f6540480000"
+  },
+  {
+    "rank": 5,
+    "id": "msg_12c88d7101e992a0307717bf7063204c5482323167573bebe26805960534f8ed",
+    "score": 42.07157,
+    "link": "https://github.com/31z4/zookeeper-docker/issues/81",
+    "source": "github",
+    "origin_doc_id": "92f58f1cf5eff70ea5f43d7b9e326c6e2a26a2b2aa5611c6b06b79e89b7f9e42",
+    "snippet": "2019-11-21 08:24:44,259 [myid:135] - INFO  [NIOWorkerThread-10:Learner@113] - Revalidating client: 0x87002f8e282b0004"
+  },
+  {
+    "rank": 6,
+    "id": "msg_84b959cf4dd3f0231db07fb8da8652aab6558ad33612d80eafdf3d287aae8f75",
+    "score": 42.02846,
+    "link": "https://github.com/31z4/zookeeper-docker/issues/81",
+    "source": "github",
+    "origin_doc_id": "92f58f1cf5eff70ea5f43d7b9e326c6e2a26a2b2aa5611c6b06b79e89b7f9e42",
+    "snippet": "2019-11-21 08:30:51,462 [myid:135] - INFO  [NIOWorkerThread-13:Learner@113] - Revalidating client: 0x87002f8e282b0004"
+  },
+  {
+    "rank": 7,
+    "id": "msg_a50d28cd0904db6bf1d21466c2ef70a510e8fe44ca399211a84ad0872d9e3815",
+    "score": 42.014896,
+    "link": "https://github.com/31z4/zookeeper-docker/issues/81",
+    "source": "github",
+    "origin_doc_id": "92f58f1cf5eff70ea5f43d7b9e326c6e2a26a2b2aa5611c6b06b79e89b7f9e42",
+    "snippet": "2019-11-21 08:20:40,980 [myid:135] - INFO  [NIOWorkerThread-6:Learner@113] - Revalidating client: 0x87002f8e282b0004"
+  },
+  {
+    "rank": 8,
+    "id": "msg_67e51f14d3def5015b978a3e272700cbab17b6129d37a96d99493a152a8835b9",
+    "score": 42.014896,
+    "link": "https://github.com/31z4/zookeeper-docker/issues/81",
+    "source": "github",
+    "origin_doc_id": "92f58f1cf5eff70ea5f43d7b9e326c6e2a26a2b2aa5611c6b06b79e89b7f9e42",
+    "snippet": "2019-11-21 08:26:31,647 [myid:135] - INFO  [NIOWorkerThread-6:Learner@113] - Revalidating client: 0x87002f03f9c10005"
+  },
+  {
+    "rank": 9,
+    "id": "msg_8792cfa093425bd12f55c92dd5c24ee3d1918a5bf07f3b7c112ffd1f5518cd75",
+    "score": 41.23832,
+    "link": "https://github.com/31z4/zookeeper-docker/issues/81",
+    "source": "github",
+    "origin_doc_id": "92f58f1cf5eff70ea5f43d7b9e326c6e2a26a2b2aa5611c6b06b79e89b7f9e42",
+    "snippet": "2019-11-21 09:07:43,693 [myid:135] - INFO  [NIOWorkerThread-3:Learner@113] - Revalidating client: 0x87002f6540480000"
+  },
+  {
+    "rank": 10,
+    "id": "msg_ab599f638c880ffcecce2fab9fc0ed43df76681fa137b1d4725e2403b7a9cdb6",
+    "score": 41.23832,
+    "link": "https://github.com/31z4/zookeeper-docker/issues/81",
+    "source": "github",
+    "origin_doc_id": "92f58f1cf5eff70ea5f43d7b9e326c6e2a26a2b2aa5611c6b06b79e89b7f9e42",
+    "snippet": "2019-11-21 09:07:45,844 [myid:135] - INFO  [NIOWorkerThread-7:Learner@113] - Revalidating client: 0x87002f8e282b0005"
+  }
+]

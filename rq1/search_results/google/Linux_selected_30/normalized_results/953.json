@@ -1,0 +1,63 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "anomaly-detection-linux-log-sample.ipynb",
+    "link": "https://github.com/qfunction-ai/ai-anomaly-detection/blob/main/anomaly-detection-linux-log-sample.ipynb",
+    "displayed_link": "https://github.com › ai-anomaly-detection › blob › main",
+    "snippet": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.46.224.253 user=guest User unknown timed out after 900 seconds at Sat Jun 18 02 ...",
+    "snippet_highlighted_words": [
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh ruser",
+      "rhost",
+      "user",
+      "User"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "data/Linux_2k.log · main · Patrick Lam / ece459-w23-a2",
+    "link": "https://gitlab.uwaterloo.ca/p23lam/ece459-w23-a2/-/blob/main/data/Linux_2k.log?ref_type=heads",
+    "displayed_link": "https://gitlab.uwaterloo.ca › ... › ece459-w23-a2",
+    "snippet": "... 0 tty=NODEVssh ruser= rhost=210.76.59.29 user=root ... Jul 26 07:03:27 combo sshd(pam_unix)[28866]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ...",
+    "snippet_highlighted_words": [
+      "tty",
+      "NODEVssh ruser",
+      "rhost",
+      "user",
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh"
+    ],
+    "source": "University of Waterloo",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "loghub/Linux/Linux_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Linux/Linux_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Linux",
+    "snippet": "... user news. Jul 8 20:14:55 combo sshd(pam_unix)[20963]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20 user=test. Jul 8 ...",
+    "snippet_highlighted_words": [
+      "authentication failure",
+      "logname= uid=0 euid=0 tty=NODEVssh ruser= rhost",
+      "212.0.132.20 user=test"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

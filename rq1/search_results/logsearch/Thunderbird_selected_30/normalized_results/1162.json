@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_26f17c6dd47c7e2215bb05ea61c27d0b169ad9f1b79bb0e877c089c189cb3fcb",
+    "score": 61.9582,
+    "link": "https://stackoverflow.com/questions/8341678",
+    "source": "so",
+    "origin_doc_id": "5a4e47d42fba07f6db447ee335c60a505cc49b49f01df521b8843ee7a4c62194",
+    "snippet": "My unqualified host name (domain) unknown; sleeping for retry"
+  },
+  {
+    "rank": 2,
+    "id": "msg_d72b5296d56ef86adc5283cec2f1c309f855264e7ddd6decd5e804d8b2bcf351",
+    "score": 60.497383,
+    "link": "https://stackoverflow.com/questions/40206001",
+    "source": "so",
+    "origin_doc_id": "57bcfb4cce53b55dc9ce504453e6179fa9f293151261a7220e7a89cc9c0dd145",
+    "snippet": "\"My unqualified host name (your hostname here) unknown; sleeping for retry\"."
+  },
+  {
+    "rank": 3,
+    "id": "msg_9d4a03925fd6908cbddca2eb79c6082886dd8950a867e555cb4578d24cfa167a",
+    "score": 59.792507,
+    "link": "https://stackoverflow.com/questions/14866207",
+    "source": "so",
+    "origin_doc_id": "e19acaa6fac566011653d7a792a02e8efbaa0bd047a31e76e2d25c2b7b4b539f",
+    "snippet": "sm-msp-queue[***]: My unqualified host name (myhostname) unknown; sleeping for retry"
+  },
+  {
+    "rank": 4,
+    "id": "msg_ddde0b665e523aca61e5553b0f4edb850a4cd8a2734de43ea29585b3ba4bf1c9",
+    "score": 56.50094,
+    "link": "https://stackoverflow.com/questions/9422221",
+    "source": null,
+    "origin_doc_id": "14050663573551f51b9e43ec4e96d3a5010a09be4c644be15b8e1db9b0da273e",
+    "snippet": "Feb 20 11:55:16 narutomeetsbleach sendmail[18283]: My unqualified host name (narutomeetsbleach) unknown; sleeping for retry"
+  },
+  {
+    "rank": 5,
+    "id": "msg_496744a1d681a0b10ff9893e394945633191e63ee8ec9cdf6324939a57bc1be4",
+    "score": 53.880466,
+    "link": "https://stackoverflow.com/questions/22342093",
+    "source": "so",
+    "origin_doc_id": "308428fd9ddc6497eaf7f30cb6e3ea6bbfa5b7b0003067732e1a8afd64d4807d",
+    "snippet": "My unqualified host name (localhost) unknown; sleeping for retry localhost sendmail[11620]: unable to qualify my own domain name (localhost) -- using short name(errors that I get in"
+  },
+  {
+    "rank": 6,
+    "id": "msg_6465c5c861e738ff5db7b0505c57fef21008e0473de6a9abe5086e8413764b93",
+    "score": 53.781174,
+    "link": "https://github.com/jarischaefer/docker-librenms/issues/31",
+    "source": "github",
+    "origin_doc_id": "5a1b084bd33cb2b9e7b45ac48209771cc5845f9de889bd8a593d9bb141228deb",
+    "snippet": "`My unqualified host name (5d886cffbb24) unknown; sleeping for"
+  },
+  {
+    "rank": 7,
+    "id": "msg_aaff61b03315164227e2bc14b849632061fcc19caa605fcd3d0c1376794039aa",
+    "score": 52.955257,
+    "link": "https://stackoverflow.com/questions/21286671",
+    "source": "so",
+    "origin_doc_id": "ea2573ebb4d54d5dfb70d855821d876b955b700ec0524594e0745260c875838a",
+    "snippet": "unable to qualify my own domain name (antonsk) -- using short name \n Jan 22 16:00:01 antonsk sm-msp-queue[3513]: My unqualified host name (antonsk) unknown; sleeping for retry"
+  },
+  {
+    "rank": 8,
+    "id": "msg_df4d83005af852e33169569ca64d8ca347e6cb2fc67101e9bfa3bbac305ec79e",
+    "score": 48.7852,
+    "link": "https://github.com/kanboard/kanboard/issues/4051",
+    "source": "github",
+    "origin_doc_id": "dc97857290ace19eec696fb96dbd2fc0c0f74d723df4b3cd5deaf88f8f5a334d",
+    "snippet": "Oct 22 13:00:02 cloud sm-msp-queue[2557]: My unqualified host name (cloud) unknown; sleeping for retry \n Oct 22 13:01:02 cloud sm-msp-queue[2557]: unable to qualify my own domain name (cloud) -- using short name"
+  },
+  {
+    "rank": 9,
+    "id": "msg_fe02400e900934287c3ca5aa120da1d2d523fabd45e83370561b4077093dbb74",
+    "score": 43.365974,
+    "link": "https://github.com/jkroepke/openshift-mta/issues/5",
+    "source": "github",
+    "origin_doc_id": "b6ad7c1588d9e4a445e00135a4563523c6debcbb805d7b4db64992eb7a568a4a",
+    "snippet": "/etc/mail/aliases: 77 aliases, longest 10 bytes, 784 bytes total \n -- \n   | WARNING: Can not use -d with -q.  Disabling debugging. \n   | sendmail: My unqualified host name (eywc2i1a8qyx72hmsj687nuou-smtp-6995bb9dcf-7tvhk) unknown; sleeping for retry \n   | sendmail: unable to qualify my own domain name (eywc2i1a8qyx72hmsj687nuou-smtp-6995bb9dcf-7tvhk) -- using short name \n   | sendmail: starting daemon (8.14.7): SMTP+persistent-queueing@00:00:01 \n `"
+  },
+  {
+    "rank": 10,
+    "id": "msg_9e0bcf064f3aad49df40c16080ef3bb864e37acccb9928264c7ec7478fda99f6",
+    "score": 40.05302,
+    "link": "https://stackoverflow.com/questions/5832487",
+    "source": "so",
+    "origin_doc_id": "6dc8b1818572df0d74537ca2ca752fbc3c648b1fa8afc0dcb1ce937dd58e16d4",
+    "snippet": "Apr 29 16:12:05 IT02 sendmail[7660]: My unqualified host name (IT02) unknown; sleeping    for retry  \n Apr 29 16:13:05 IT02 sendmail[7660]: unable to qualify my own domain name (IT02) -- using short name  \n Apr 29 16:13:05 IT02 sendmail[7660]: p3TED551007660: from=www-data, size=210, class=0, nrcpts=0, msgid=<201104291413.p3TED551007660@IT02>, bodytype=8BITMIME, relay=www-data@localhost  \n  Does anybody know what it"
+  }
+]

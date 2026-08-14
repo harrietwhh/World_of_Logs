@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_3f175e77f62eea6809c88520bbec61049a686215ea43881ca97a95f1b799be39",
+    "score": 126.81538,
+    "link": "https://issues.apache.org/jira/browse/YARN-10410",
+    "source": "jira",
+    "origin_doc_id": "f28455180b30d781092f30ce933dfbd9aa72c10f76d0172e1e1969f4137a16db",
+    "snippet": "20/08/26 12:07:33 INFO distributedshell.ApplicationMaster: Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 475926 cluster_timestamp: 1593772175687 } attemptId: 1 } keyId: 1589057158)"
+  },
+  {
+    "rank": 2,
+    "id": "msg_bea677c0d1996cd2ea7aa2eb14f0c470f4c3c5377a4739e243c5ac1a3f7098a1",
+    "score": 124.52945,
+    "link": "https://issues.apache.org/jira/browse/AMBARI-24503",
+    "source": "jira",
+    "origin_doc_id": "ffb64554df1735a91fb58ebc532ec84e580537180cfcbb3a0463c624f8b8b6c6",
+    "snippet": "18/08/15 20:08:28 INFO service.ServiceMaster: Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 4 cluster_timestamp: 1534200616336 } attemptId: 3 } keyId: 1688030095)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_f48b26c8b8fe3c0326081bdf34932296f8710df042b947d9a93744992db322d7",
+    "score": 123.35194,
+    "link": "https://issues.apache.org/jira/browse/HADOOP-13774",
+    "source": "jira",
+    "origin_doc_id": "b5bfe8805885724d40b76de9fef8fcbc19efa171e3f7e945e40561cf051bb81d",
+    "snippet": "16/11/01 10:33:18 INFO mapreduce.JobSubmitter: Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 1 cluster_timestamp: 1477992554679 } attemptId: 1 } keyId: 1178737823)"
+  },
+  {
+    "rank": 4,
+    "id": "msg_7a76f3661431e4d6ce5f17cdd58dfdaa4a039c2ecf2f4667455682d251d66ad6",
+    "score": 123.03598,
+    "link": "https://stackoverflow.com/questions/46268769",
+    "source": "so",
+    "origin_doc_id": "50f8f18f0a77fa14cc7851898bb0963743e610169ef7ba589c6d15c73b0ecb2f",
+    "snippet": "2017-09-17 20:39:49,079 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 20 cluster_timestamp: 1505353025896 } attemptId: 2 } keyId: -1893920016)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_fbd8cc348a91cfec1e0088566057ab53f7ba046c59c77b921b5e884dab140d12",
+    "score": 123.03598,
+    "link": "https://github.com/apache/sqoop/pull/32",
+    "source": "github",
+    "origin_doc_id": "5fea7ff99821e436b7a4ab92a1126d034a0ef7e25b8346914c653da2a74db8d0",
+    "snippet": "2016-12-20 20:51:52,476 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 3 cluster_timestamp: 1482237596040 } attemptId: 2 } keyId: 475466983)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_548d581bd0d258b7cefe62ea46f89c31a323eff5d844d1a1e1dd3728c0cbeed6",
+    "score": 122.76723,
+    "link": "https://issues.apache.org/jira/browse/HADOOP-13774",
+    "source": "jira",
+    "origin_doc_id": "b5bfe8805885724d40b76de9fef8fcbc19efa171e3f7e945e40561cf051bb81d",
+    "snippet": "16/10/31 21:42:14 INFO mapreduce.JobSubmitter: Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 3 cluster_timestamp: 1477946173138 } attemptId: 1 } keyId: -678745738)"
+  },
+  {
+    "rank": 7,
+    "id": "msg_411adf47bbdc46ddb9a962f46b12502c3f9fbdf218040389524e4b7f7e1b734e",
+    "score": 122.76723,
+    "link": "https://github.com/apache/metron/pull/1523",
+    "source": "github",
+    "origin_doc_id": "74f984b8c65741944e32e00e24309c88ff061afc0faa646eb1d556fdd4ad1621",
+    "snippet": "19/10/10 18:55:16 INFO yarn.YarnUtils: Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 1 cluster_timestamp: 1570638455687 } attemptId: 2 } keyId: 1879176656)"
+  },
+  {
+    "rank": 8,
+    "id": "msg_de526e257f2292a0c86cc2049742cf029920597df8276c9f3fc9b2da86238ea9",
+    "score": 121.98352,
+    "link": "https://stackoverflow.com/questions/38636098",
+    "source": "so",
+    "origin_doc_id": "9318367fcbc2c40b660e17fab0aa1e8fe2306e78defe61c6e968c15ecc55af72",
+    "snippet": "2016-07-28 20:12:48,690 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 44020 cluster_timestamp: 1468985268798 } attemptId: 2 } keyId: 618886960)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_20c01d6865767face9328ff227d2e90d426c0655a887a943f1cca5fe9dc8bffe",
+    "score": 120.257324,
+    "link": "https://stackoverflow.com/questions/32181346",
+    "source": "so",
+    "origin_doc_id": "7d2aaa4949d211dd4a22be6c923f5372816058da70f0a87a125e259184196cea",
+    "snippet": "2015-08-24 13:28:35,921 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 238 cluster_timestamp: 1439978375936 } attemptId: 1 } keyId: 176959833)"
+  },
+  {
+    "rank": 10,
+    "id": "msg_6ef6c614010dba70dfeac3a43f037f4644c67a31435670c6d6f4f475ff57951a",
+    "score": 120.257324,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:24,058 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 6 cluster_timestamp: 1428324095255 } attemptId: 1 } keyId: 723784990)"
+  }
+]

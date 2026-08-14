@@ -1,0 +1,31 @@
+{
+  "mode": "csv_case",
+  "case_id": "27",
+  "query_source": "group_logs",
+  "query_count": 11,
+  "queries": [
+    "ERROR Unexpected exception causing shutdown while sock still open",
+    "WARN ******* GOODBYE /10.10.34.11: 52253 ********",
+    "WARN ******* GOODBYE /10.10.34.11: 52255 ********",
+    "WARN ******* GOODBYE /10.10.34.11: 52256 ********",
+    "WARN ******* GOODBYE /10.10.34.11: 52257 ********",
+    "WARN ******* GOODBYE /10.10.34.11: 52261 ********",
+    "WARN ******* GOODBYE /10.10.34.11: 52263 ********",
+    "WARN ******* GOODBYE /10.10.34.11: 52264 ********",
+    "WARN ******* GOODBYE /10.10.34.11: 52265 ********",
+    "WARN ******* GOODBYE /10.10.34.11: 52269 ********",
+    "WARN ******* GOODBYE /10.10.34.11: 52271 ********"
+  ],
+  "log_message": "",
+  "cases_csv": "data/Zookeeper.csv",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 37,
+  "retrieved_candidate_count": 37,
+  "output_dir": "zookeeper_intermediate_group_logs/case_27_group_logs",
+  "generated_at_utc": "2026-03-14T03:10:28.480656+00:00"
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Hadoop : Provide directory as input to MapReduce job",
+    "link": "https://stackoverflow.com/questions/20094366/hadoop-provide-directory-as-input-to-mapreduce-job",
+    "displayed_link": "4 answers · 12 years ago",
+    "snippet": "I'm able to run simple mapreduce program where I provide a file as input to MapReduce program. This file contains all the other files to be processed by mapper ...",
+    "snippet_highlighted_words": [
+      "mapreduce",
+      "MapReduce"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Apache Hadoop 2.4.1 - Distributed Cache Deploy",
+    "link": "https://hadoop.apache.org/docs/r2.4.1/hadoop-mapreduce-client/hadoop-mapreduce-client-core/DistributedCacheDeploy.html",
+    "displayed_link": "https://hadoop.apache.org › hadoop-mapreduce-client",
+    "snippet": "Configure mapreduce.application.framework.path to point to the location where the archive is located. As when specifying distributed cache files ...",
+    "snippet_highlighted_words": [
+      "mapreduce",
+      "path"
+    ],
+    "source": "Apache Hadoop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Create Java MapReduce for Apache Hadoop",
+    "link": "https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-develop-deploy-java-mapreduce-linux",
+    "displayed_link": "https://learn.microsoft.com › ... › HDInsight › Hadoop",
+    "snippet": "Learn how to use Apache Maven to create a Java-based MapReduce application, then run it with Apache Hadoop on Azure HDInsight.",
+    "snippet_highlighted_words": [
+      "Learn how to use Apache Maven"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Computer Science Mapreduce Support",
+    "link": "https://services.cs.rutgers.edu/mapreduce.html",
+    "displayed_link": "https://services.cs.rutgers.edu › mapreduce",
+    "snippet": "This page describes running MapReduce jobs on computer science systems. All of our systems have Hadoop installations set up for \"standalone\", or \"local\" mode.",
+    "snippet_highlighted_words": [
+      "MapReduce",
+      "set"
+    ],
+    "source": "Rutgers University",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "MapReduce - Installation",
+    "link": "https://www.tutorialspoint.com/map_reduce/map_reduce_installation.htm",
+    "displayed_link": "https://www.tutorialspoint.com › map_reduce_installation",
+    "snippet": "For setting up PATH and JAVA_HOME variables, add the following commands to ~/.bashrc file. export JAVA_HOME=/usr/local/java export PATH=$PATH:$JAVA_HOME/bin.",
+    "snippet_highlighted_words": [
+      "setting",
+      "PATH",
+      "add",
+      "export",
+      "export PATH",
+      "PATH"
+    ],
+    "source": "TutorialsPoint",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "mapred-default.xml - Apache Hadoop",
+    "link": "https://hadoop.apache.org/docs/r2.4.1/hadoop-mapreduce-client/hadoop-mapreduce-client-core/mapred-default.xml",
+    "displayed_link": "https://hadoop.apache.org › docs › mapred-defa...",
+    "snippet": "For Windows: %HADOOP_MAPRED_HOME%/share/hadoop/mapreduce/*, %HADOOP_MAPRED_HOME%/share/hadoop/mapreduce/lib/*. If mapreduce.app-submission.cross-platform is ...",
+    "snippet_highlighted_words": [
+      "HADOOP_MAPRED_HOME%/share/hadoop/mapreduce"
+    ],
+    "source": "Apache Hadoop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Configuration files in MapReduce framework",
+    "link": "https://www.ibm.com/docs/en/spectrum-symphony/7.3.1?topic=configuration-files-in-mapreduce-framework",
+    "displayed_link": "https://www.ibm.com › docs › spectrum-symphony › to...",
+    "snippet": "The configuration files for the MapReduce framework in IBM® Spectrum Symphony configure the environment in which the MapReduce daemons execute.",
+    "snippet_highlighted_words": [
+      "MapReduce",
+      "MapReduce"
+    ],
+    "source": "IBM",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Apache Hadoop 3.6.0-SNAPSHOT – MapReduce Tutorial",
+    "link": "https://apache.github.io/hadoop/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html",
+    "displayed_link": "https://apache.github.io › hadoop-mapreduce-client-core",
+    "snippet": "Applications can specify a comma separated list of paths which would be present in the current working directory of the task using the option -files . The - ...",
+    "snippet_highlighted_words": [
+      "paths"
+    ],
+    "source": "Apache Software Foundation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "MapReduce — Framework Repositories 1.0 documentation",
+    "link": "https://frameworks.readthedocs.io/en/latest/big-data/hadoop/HadoopMapReduce.html",
+    "displayed_link": "https://frameworks.readthedocs.io › HadoopMapReduce",
+    "snippet": "Prints the class path needed to get the Hadoop jar and the required libraries. daemonlog, Get/Set the log level for each daemon. How to Interact with MapReduce ...",
+    "snippet_highlighted_words": [
+      "path",
+      "Set",
+      "MapReduce"
+    ],
+    "source": "Read the Docs",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "MapReduce 101: What It Is & How to Get Started",
+    "link": "https://www.talend.com/resources/what-is-mapreduce/",
+    "displayed_link": "https://www.talend.com › resources › what-is-mapreduce",
+    "snippet": "MapReduce is a programming model or pattern within the Hadoop framework that is used to access big data stored in the Hadoop File System (HDFS).",
+    "snippet_highlighted_words": [
+      "MapReduce"
+    ],
+    "source": "Talend",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

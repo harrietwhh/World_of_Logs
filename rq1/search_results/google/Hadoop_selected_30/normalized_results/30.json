@@ -1,0 +1,140 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Hadoop/Hadoop_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Hadoop/Hadoop_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Hadoop",
+    "snippet": "2015-10-18 18:01:51,775 INFO [Socket Reader #1 for port 62260] org.apache.hadoop.ipc.Server: Starting Socket Reader #1 for port 62260. 2015-10-18 18:01 ...",
+    "snippet_highlighted_words": [
+      "Starting Socket Reader",
+      "1 for port 62260"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Solved: Datanode is not starting",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Datanode-is-not-starting/m-p/14750",
+    "displayed_link": "https://community.cloudera.com › Support-Questions › D...",
+    "snippet": "Solved: I tried to add another host via cloudera manager . I followed the below steps 1. Hosts - > Add hosts - 14750.",
+    "snippet_highlighted_words": [
+      "Solved",
+      "1"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Hadoop: Data Node are not starting",
+    "link": "https://stackoverflow.com/questions/24733533/hadoop-data-node-are-not-starting",
+    "displayed_link": "5 answers · 11 years ago",
+    "snippet": "I have installed Hadoop version 2.2 on a Centos 6.5 system but when i use the command start-dfs.sh. My datanode are not starting in my master and slave PC.",
+    "snippet_highlighted_words": [
+      "start",
+      "starting"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Randomly reboot / Kernel & Hardware / Arch Linux Forums",
+    "link": "https://bbs.archlinux.org/viewtopic.php?id=307870",
+    "displayed_link": "https://bbs.archlinux.org › Kernel & Hardware",
+    "snippet": "Hello,. I'm using arch linux on my machine for two years and recently it's rebooting randomly, it can happen when doing something or when ...",
+    "snippet_highlighted_words": [],
+    "source": "Arch Linux Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Known Problem Report as of Mar 30 2026 4:00AM",
+    "link": "https://www.agilent.com/cs/library/support/Patches/SSBs/M84xx.html?srsltid=AfmBOoqfbpsjZ6HWJw_EFxmBToZjBw1Okfgk-styuTzc_N0uKIbM7IFi",
+    "displayed_link": "https://www.agilent.com › support › Patches › SSBs",
+    "snippet": "After upgrading from OpenLAB CDS 2.0 to 2.1, the following error message appears when launching an instrument: \"Failed to connect to the instrument Not enough ...",
+    "snippet_highlighted_words": [
+      "launching"
+    ],
+    "source": "Agilent Technologies",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Unhandled fault: imprecise external abort (0x1406)",
+    "link": "https://lkml.org/lkml/2019/11/11/588",
+    "displayed_link": "https://lkml.org › lkml › 2019/11/11",
+    "snippet": "Hi, I am seeing \"Unhandled fault: imprecise external abort (0x1406)\" when doing constant UART communication between STM32F0 and i.",
+    "snippet_highlighted_words": [],
+    "source": "Linux Kernel Mailing List",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Program Directory For CBPDO Installation and ServerPac ...",
+    "link": "https://www.ibm.com/docs/SSLTBW_3.1.0/pdf/e0zpdz00.pdf",
+    "displayed_link": "https://www.ibm.com › docs › SSLTBW_3.1.0 › pdf",
+    "snippet": "Before using this information and the product it supports, be sure to read the general information under “Notices” on page 317. This program directory (Document ...",
+    "snippet_highlighted_words": [
+      "read"
+    ],
+    "source": "IBM",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "[jmeter] reference refs/pull/456/head deleted (was 6684b98)",
+    "link": "https://lists.apache.org/thread/6vbgw5zhv6wl5kl8w61vhws3fscgl9xh",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "This is an automated email from the ASF dual-hosted git repository. vladimirsitnikov pushed a change to reference refs/pull/456/head in repository ...",
+    "snippet_highlighted_words": [],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Beelink X2 with armbian possible? - Page 6 - Allwinner sunxi",
+    "link": "https://forum.armbian.com/topic/872-beelink-x2-with-armbian-possible/page/6/",
+    "displayed_link": "https://forum.armbian.com › ... › Allwinner sunxi",
+    "snippet": "It was confirmed that with prehistoric stock Allwinner u-boot works, but we can't and won't switch to it. We started with 576 MHz and totally ...",
+    "snippet_highlighted_words": [
+      "started"
+    ],
+    "source": "Armbian Community Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Endangered Species Act (ESA) Section 7(a)(2) Biological ...",
+    "link": "https://repository.library.noaa.gov/view/noaa/60930/noaa_60930_DS1.pdf",
+    "displayed_link": "https://repository.library.noaa.gov › view › noaa › n...",
+    "snippet": "ball-and-socket joint. The ball-and-socket joints will be welded directly onto the piles before installation and do not require a separate installation ...",
+    "snippet_highlighted_words": [
+      "socket",
+      "socket"
+    ],
+    "source": "NOAA Repository (.gov)",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

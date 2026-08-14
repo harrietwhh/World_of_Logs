@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_6b32a8e86d7440e06eb710b7e8a3197d709102bfa1ae1839d7296b56cc18d365",
+    "score": 109.02882,
+    "link": "https://issues.apache.org/jira/browse/HDFS-10644",
+    "source": "jira",
+    "origin_doc_id": "54a7ee0c0dc77efe3a698b2a3c853987956b26c14363e679d1ab53bd0ce156aa",
+    "snippet": "2016-09-13 19:42:00,959 [main] INFO  qjournal.MiniQJMHACluster (MiniQJMHACluster.java:<init>(99)) - Set MiniQJMHACluster basePort to 12296"
+  },
+  {
+    "rank": 2,
+    "id": "msg_ae9c312f174c90674afdc99ec28799fd279fc7a5121b82c6b2184ebfa66b9a04",
+    "score": 36.59234,
+    "link": "https://stackoverflow.com/questions/79019384",
+    "source": "so",
+    "origin_doc_id": "cfe75722571566a1018bf2b267fd62688fd7845b3fd17403b14cc7e2f2f108f7",
+    "snippet": "2024-09-24 11:55:24.130 [info] > git init -b main [466ms]"
+  },
+  {
+    "rank": 3,
+    "id": "msg_51af07983bca5a269f099c89b4976dec95cc38cf35d62de5b539dbbe205a7800",
+    "score": 32.514946,
+    "link": "https://stackoverflow.com/questions/79025938",
+    "source": "so",
+    "origin_doc_id": "52efaab0040c566cd267e01e0e3bbe9c4627317b5d56e85993f7bab837189612",
+    "snippet": "2024-09-26 00:41:06 app-1  | 2024-09-25 22:41:06.839  INFO 1 --- [           main] i.a.project.cors.SimpleCORSFilter        : SimpleCORSFilter init"
+  },
+  {
+    "rank": 4,
+    "id": "msg_ec7dffb9b6a852453ce38aa302535701bf8342afd62583ac9edbe9d63648a597",
+    "score": 32.170475,
+    "link": "https://issues.apache.org/jira/browse/HDFS-6683",
+    "source": "jira",
+    "origin_doc_id": "098f71c6a78a186066a7bd5020b6c864611067fe5a30674feb2d63561bcf6c91",
+    "snippet": "Took 12 sec. \n Error Message \n Timed out waiting for Mini HDFS Cluster to start \n Stacktrace \n java.io.IOException: Timed out waiting for Mini HDFS Cluster to start \n \tat org.apache.hadoop.hdfs.MiniDFSCluster.waitClusterUp(MiniDFSCluster.java:1097) \n \tat org.apache.hadoop.hdfs.MiniDFSCluster.initMiniDFSCluster(MiniDFSCluster.java:732) \n\tat org.apache.hadoop.hdfs.MiniDFSCluster.<init>(MiniDFSCluster.java:378) \n \tat org.apache.hadoop.hdfs.MiniDFSCluster$Builder.build(MiniDFSCluster.java:359) \n \tat org.apache.hadoop.hdfs.qjournal.MiniQJMHACluster.<init>(MiniQJMHACluster.java:102) \n \tat org.apache.hadoop.hdfs.qjournal.MiniQJMHACluster.<init>(MiniQJMHACluster.java:40) \n \tat org.apache.hadoop.hdfs.qjournal.MiniQJMHACluster$Builder.build(MiniQJMHACluster.java:67) \n \tat org.apache.hadoop.hdfs.tools.TestDFSAdminWithHA.setUpHaCluster(TestDFSAdminWithHA.java:82) \n \tat org.apache.hadoop.hdfs.tools.TestDFSAdminWithHA.testSaveNamespace(TestDFSAdminWithHA.java:134)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_078fdb9498b805bcfc841ba07006527a60061f77fa6b51664bfc1cf340dcd41d",
+    "score": 31.656862,
+    "link": "https://issues.apache.org/jira/browse/HDFS-6683",
+    "source": "jira",
+    "origin_doc_id": "098f71c6a78a186066a7bd5020b6c864611067fe5a30674feb2d63561bcf6c91",
+    "snippet": "Failing for the past 9 \n\n Took 12 sec. \n Error Message \n Timed out waiting for Mini HDFS Cluster to start \n Stacktrace \n java.io.IOException: Timed out waiting for Mini HDFS Cluster to start \n \tat org.apache.hadoop.hdfs.MiniDFSCluster.waitClusterUp(MiniDFSCluster.java:1097) \n \tat org.apache.hadoop.hdfs.MiniDFSCluster.initMiniDFSCluster(MiniDFSCluster.java:732) \n\tat org.apache.hadoop.hdfs.MiniDFSCluster.<init>(MiniDFSCluster.java:378) \n \tat org.apache.hadoop.hdfs.MiniDFSCluster$Builder.build(MiniDFSCluster.java:359) \n \tat org.apache.hadoop.hdfs.qjournal.MiniQJMHACluster.<init>(MiniQJMHACluster.java:102) \n \tat org.apache.hadoop.hdfs.qjournal.MiniQJMHACluster.<init>(MiniQJMHACluster.java:40) \n \tat org.apache.hadoop.hdfs.qjournal.MiniQJMHACluster$Builder.build(MiniQJMHACluster.java:67) \n \tat org.apache.hadoop.hdfs.tools.TestDFSAdminWithHA.setUpHaCluster(TestDFSAdminWithHA.java:82) \n \tat org.apache.hadoop.hdfs.tools.TestDFSAdminWithHA.testSaveNamespace(TestDFSAdminWithHA.java:134)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_f4f04b509cc18d5be894a8f3f19ff5119cc3cebb725bb9221d6eb77681daeb39",
+    "score": 31.362015,
+    "link": "https://github.com/boot2docker/boot2docker-cli/issues/148",
+    "source": "github",
+    "origin_doc_id": "514daec282eaeb9c5e45d49db2b070da701fe1f0ae2c0c9ec804bd85333fe934",
+    "snippet": "2014/06/09 17:11:10 Apply interim patch to VM boot2docker-vm (https://www.virtualbox.org/ticket/12748)"
+  },
+  {
+    "rank": 7,
+    "id": "msg_c771df7a7940533c6cbf04bd95a05bcacaec3334a738d1b06a6442df496e9fc3",
+    "score": 31.24104,
+    "link": "https://stackoverflow.com/questions/79019384",
+    "source": "so",
+    "origin_doc_id": "cfe75722571566a1018bf2b267fd62688fd7845b3fd17403b14cc7e2f2f108f7",
+    "snippet": "2024-09-24 11:52:35.080 [info] [main] Log level: Info"
+  },
+  {
+    "rank": 8,
+    "id": "msg_c873da908adf43a62360fa61bce060697a196170271c8651440dd806f49771a4",
+    "score": 30.63677,
+    "link": "https://stackoverflow.com/questions/78641634",
+    "source": "so",
+    "origin_doc_id": "60784b406695934e358daccc8aef38382e7d0015ce1ccf78c7edf368432f3b60",
+    "snippet": "logger.info(\"Package2 Info log message\");\nlogger.error(\"Package2 Error log message\");\n[INFO ] 2024-06-19 11:19:12.769 [main] Main - Info log message \n [ERROR] 2024-06-19 11:19:12.772 [main] Main - Error log message \n [INFO ] 2024-06-19 11:19:12.779 [main] MyLoggerPackage2 - Package2 Info log message \n [ERROR] 2024-06-19 11:19:12.779 [main] MyLoggerPackage2 - Package2 Error log message\n[INFO ] 2024-06-19 11:19:12.769 [main] Main - Info log message \n [ERROR] 2024-06-19 11:19:12.772 [main] Main - Error log message \n [INFO ] 2024-06-19 11:19:12.779 [main] MyLoggerPackage2 - Package2 Info log message \n [ERROR] 2024-06-19 11:19:12.779 [main] MyLoggerPackage2 - Package2 Error log message"
+  },
+  {
+    "rank": 9,
+    "id": "msg_1afaba5ac4ecbd87d85190b13872603bacea21d1616f4e78c7e3c2c9e57ee076",
+    "score": 30.42841,
+    "link": "https://stackoverflow.com/questions/5687769",
+    "source": "so",
+    "origin_doc_id": "3a2e24581718842f704dc56d901852e2a1a1f02def4335fe5819fb4b68ad49ac",
+    "snippet": "19:06:24,316 INFO  [STDOUT] toByteArray START"
+  },
+  {
+    "rank": 10,
+    "id": "msg_e96bdc353def267ae88cf9b3c089880176dcc8a3f67c1386512e42f4bd63f845",
+    "score": 30.187649,
+    "link": "https://stackoverflow.com/questions/67893375",
+    "source": "so",
+    "origin_doc_id": "eb4626fd06052833eef835e9a5a5b3bbfdbc8c55f4133ff5a5fe0e81f76c007d",
+    "snippet": "2021-06-08 14:56:38.665  INFO 12748 --- [           main] eProvider$PriorityThreadPoolTaskExecutor : Initializing ExecutorService"
+  }
+]

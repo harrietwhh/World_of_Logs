@@ -1,0 +1,139 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Solved: cant start rest server",
+    "link": "https://community.cloudera.com/t5/Support-Questions/cant-start-rest-server/td-p/176704",
+    "displayed_link": "https://community.cloudera.com › td-p",
+    "snippet": "The following missing url was causing the issue hbase.rest.authentication.kerberos.principal=HTTP/_HOST@",
+    "snippet_highlighted_words": [],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Login to MCS fails with authentication failures",
+    "link": "https://support.hpe.com/hpesc/public/docDisplay?docId=sf000078884en_us&docLocale=en_US",
+    "displayed_link": "https://support.hpe.com › hpesc › public › docDisplay",
+    "snippet": "... org.mortbay.log [main]: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog 2017-08-22 20:59:42,856 INFO org.mortbay.log ...",
+    "snippet_highlighted_words": [
+      "Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log"
+    ],
+    "source": "Hewlett Packard Enterprise",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Failed to start Go server. Please check the logs. · Issue #161",
+    "link": "https://github.com/gocd/gocd/issues/161",
+    "displayed_link": "https://github.com › gocd › gocd › issues",
+    "snippet": "impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog 2014-04-30 15:55:47,551 DEBUG [main] ...",
+    "snippet_highlighted_words": [
+      "impl.Log4jLoggerAdapter(org.mortbay.log"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Hadoop error - HTTP Response Code 503",
+    "link": "https://www.chrisstucchio.com/blog/2011/hadoop_error_response_code_503.html",
+    "displayed_link": "https://www.chrisstucchio.com › blog › hadoop_error_re...",
+    "snippet": "I recently had a power failure, which resulting in my hadoop cluster shutting down. No matter, hadoop came back after a little while. However, I ...",
+    "snippet_highlighted_words": [],
+    "source": "Chris Stucchio",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "java.lang.AbstractMethodError: org.slf4j.impl. ...",
+    "link": "https://stackoverflow.com/questions/35317357/java-lang-abstractmethoderror-org-slf4j-impl-log4jloggeradapter-log",
+    "displayed_link": "2 answers · 10 years ago",
+    "snippet": "AbstractMethodError can only occur at run time if the definition of some class has incompatibly changed since the currently executing method was last compiled.",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Error when i'm setting up my ZD",
+    "link": "https://forums.zimbra.org/viewtopic.php?t=53496",
+    "displayed_link": "https://forums.zimbra.org › ... › Installation Help",
+    "snippet": "Hi guys i got an error while i'm trying to set up an account for ZD, i downloaded the last version, the thing is despite the error, ...",
+    "snippet_highlighted_words": [],
+    "source": "Zimbra Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Datanode and nodemanger appear in jps but arent start ...",
+    "link": "https://issues.apache.org/jira/browse/YARN-5125",
+    "displayed_link": "https://issues.apache.org › jira › browse › YARN-5125",
+    "snippet": "2016-05-22 11:40:38,486 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog 2016-05-22 11:40 ...",
+    "snippet_highlighted_words": [
+      "Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log"
+    ],
+    "source": "Apache Software Foundation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "[FAIL] Create more than 10000 files on Hopsworks",
+    "link": "https://community.hopsworks.ai/t/fail-create-more-than-10000-files-on-hopsworks/58",
+    "displayed_link": "https://community.hopsworks.ai › fail-create-more-than...",
+    "snippet": "I used t3a.2xlarge (with 64GB storage) to deploy a single hops cluster. However, when I create more than 10000 files in HopsFS. it threw an OutOfMemoryError.",
+    "snippet_highlighted_words": [],
+    "source": "Hopsworks Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Region server is failing to start on HBase",
+    "link": "https://support.teradata.com/knowledge?id=kb_article_view&sys_kb_id=8ad71c0e1b4748100a487591dd4bcbc9",
+    "displayed_link": "https://support.teradata.com › ... › Hadoop",
+    "snippet": "Issue. Hbase Regionserver won't start on datanode02 after OS Certlist Upgrade. There is a BindException for port 60030 in the hbase regionserver log.",
+    "snippet_highlighted_words": [
+      "log"
+    ],
+    "source": "Teradata",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Log4J: SparkJava",
+    "link": "https://ucsb-cs56-pconrad.github.io/topics/log4j_sparkjava/",
+    "displayed_link": "https://ucsb-cs56-pconrad.github.io › topics",
+    "snippet": "SLF4J: Failed to load class \"org.slf4j.impl.StaticLoggerBinder\". SLF4J: Defaulting to no-operation (NOP) logger implementation SLF4J: See http://www.slf4j.org/ ...",
+    "snippet_highlighted_words": [
+      "SLF4J",
+      "org",
+      "slf4j",
+      "impl",
+      "SLF4J",
+      "SLF4J",
+      "slf4j",
+      "org"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

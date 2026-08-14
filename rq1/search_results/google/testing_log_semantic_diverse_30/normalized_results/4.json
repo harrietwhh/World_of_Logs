@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Apache Zookeeper not able to read config file, despite ...",
+    "link": "https://stackoverflow.com/questions/51072318/apache-zookeeper-not-able-to-read-config-file-despite-providing-one",
+    "displayed_link": "7 years ago",
+    "snippet": "When I start up the Apache Zookeper with this command: sudo ./zookeeper-server-start.sh ../config/zookeeper.properties.",
+    "snippet_highlighted_words": [
+      "zookeeper",
+      "server",
+      "config",
+      "zookeeper"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Error While creating kafka zookeeper cluster",
+    "link": "https://forum.confluent.io/t/error-while-creating-kafka-zookeeper-cluster/6768",
+    "displayed_link": "https://forum.confluent.io › ... › Kafka Streams",
+    "snippet": "myid file is missing at see ZooKeeper Administrator's Guide section 5. Nevertheless I would highly recommend to use Linux as your Kafka platform.",
+    "snippet_highlighted_words": [
+      "myid file is missing"
+    ],
+    "source": "Confluent",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Docker compose is not picking up the latest changes",
+    "link": "https://forums.docker.com/t/docker-compose-is-not-picking-up-the-latest-changes/140700",
+    "displayed_link": "https://forums.docker.com › docker-compose-is-not-pic...",
+    "snippet": "I have a Zookeeper docker image which runs perfectly fine when started as a standalone container but it gets exited with the below error message while starting ...",
+    "snippet_highlighted_words": [
+      "Zookeeper"
+    ],
+    "source": "Docker Community Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

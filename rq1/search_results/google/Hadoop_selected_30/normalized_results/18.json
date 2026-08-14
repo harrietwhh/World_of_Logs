@@ -1,0 +1,158 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Solved: job history not available",
+    "link": "https://community.cloudera.com/t5/Support-Questions/job-history-not-available/td-p/106490",
+    "displayed_link": "https://community.cloudera.com › td-p",
+    "snippet": "When i submit a job from a remote client (it is not an edge node), the job gets completed. But the job history for the correspondign job is not available in ...",
+    "snippet_highlighted_words": [
+      "job",
+      "not",
+      "job",
+      "job history",
+      "job",
+      "not available"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "YARN job history not accessible - hadoop",
+    "link": "https://stackoverflow.com/questions/33039100/yarn-job-history-not-accessible",
+    "displayed_link": "1 answer · 10 years ago",
+    "snippet": "If you want to see the logs through YARN RM web UI, then you need to enable the log aggregation. For that, you need to set the following parameters, in yarn- ...",
+    "snippet_highlighted_words": [
+      "enable",
+      "log"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Hadoop YARN Timeline Service Integration",
+    "link": "https://github.com/steveloughran/spark-timeline-integration/blob/master/yarn-timeline-history/src/main/docs/timeline.md",
+    "displayed_link": "https://github.com › blob › master › src › main › docs",
+    "snippet": "Apache Spark can integrate with the Hadoop YARN \"Application Timeline Service\". This is a service which runs in a YARN cluster, recording application- and YARN ...",
+    "snippet_highlighted_words": [
+      "Timeline"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "The YARN Timeline Service v.2 - Apache Hadoop",
+    "link": "https://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/TimelineServiceV2.html",
+    "displayed_link": "https://hadoop.apache.org › docs › stable › TimelineSer...",
+    "snippet": "Indicate to clients whether Timeline service is enabled or not. If enabled, the TimelineClient library used by applications will post entities and events to the ...",
+    "snippet_highlighted_words": [
+      "Timeline",
+      "enabled",
+      "not",
+      "enabled"
+    ],
+    "source": "Apache Hadoop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Hortonworks, Yarn Timeline server v.2",
+    "link": "http://hoteljavaopensource.blogspot.com/2019/11/hortonworks-yarn-timeline-server-v2.html",
+    "displayed_link": "http://hoteljavaopensource.blogspot.com › 2019/11 › h...",
+    "snippet": "The problem is related to Yarn Timeline server v.2. The service is using HBase as backup storage and it looked that this embedded HBase server was not started ...",
+    "snippet_highlighted_words": [
+      "Timeline server"
+    ],
+    "source": "Blogger.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Jobs are not displaying in timeline server after RM restart",
+    "link": "https://issues.apache.org/jira/browse/YARN-2330",
+    "displayed_link": "https://issues.apache.org › jira › browse › YARN-2330",
+    "snippet": "Submit jobs to queue a While job is running Restart RM Observe that those jobs are not displayed in timelineserver 2014-07-22 10:11:32,084 ...",
+    "snippet_highlighted_words": [
+      "jobs",
+      "job",
+      "jobs",
+      "not"
+    ],
+    "source": "Apache Software Foundation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "MapReduce Job History Server | Cloudera on Cloud",
+    "link": "https://docs.cloudera.com/runtime/7.3.1/yarn-application-management/topics/yarn-mapreduce-job-history-role.html",
+    "displayed_link": "https://docs.cloudera.com › runtime › topics › yarn-mapr...",
+    "snippet": "The MapReduce Job History Server in Apache Hadoop is a web-based service that provides detailed information about the execution of past MapReduce jobs.",
+    "snippet_highlighted_words": [
+      "provides detailed information about the execution of past MapReduce jobs"
+    ],
+    "source": "Cloudera Documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "View persistent application user interfaces in Amazon EMR",
+    "link": "https://docs.aws.amazon.com/emr/latest/ManagementGuide/app-history-spark-UI.html",
+    "displayed_link": "https://docs.aws.amazon.com › emr › app-history-spark-UI",
+    "snippet": "To access YARN container logs from the Spark history server, YARN timeline server, and Tez UI, you must enable logging to Amazon S3 for your cluster. If you don ...",
+    "snippet_highlighted_words": [
+      "history",
+      "timeline server",
+      "enable"
+    ],
+    "source": "Amazon AWS Documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Apache Hadoop 3.3.3 – The YARN Timeline Server",
+    "link": "https://hadoop.apache.org/docs/r3.3.3/hadoop-yarn/hadoop-yarn-site/TimelineServer.html",
+    "displayed_link": "https://hadoop.apache.org › ... › Apache Hadoop 3.3.3",
+    "snippet": "The history can be stored in memory or in a leveldb database store; the latter ensures the history is preserved over Timeline Server restarts.",
+    "snippet_highlighted_words": [
+      "history",
+      "history",
+      "Timeline Server"
+    ],
+    "source": "Apache Hadoop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "[#YARN-3942] Timeline store to read events from HDFS",
+    "link": "https://issues.apache.org/jira/browse/YARN-3942?page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel&focusedCommentId=14644394",
+    "displayed_link": "https://issues.apache.org › jira › browse › YARN-3942",
+    "snippet": "The intent of this plugin is to provide a workable solution for running the Tez UI against the timeline server on a large-scale clusters running many thousands ...",
+    "snippet_highlighted_words": [
+      "timeline server"
+    ],
+    "source": "Apache Software Foundation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

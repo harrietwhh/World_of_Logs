@@ -1,0 +1,32 @@
+{
+  "case_id": "5",
+  "summary_raw": "[\"Retrying fetch\",\"Found inactive connection\",\"Exception\",\"beginning fetch of outstanding blocks\"]",
+  "summary_items": [
+    "Retrying fetch",
+    "Found inactive connection",
+    "Exception",
+    "beginning fetch of outstanding blocks"
+  ],
+  "group_logs_lines": [
+    "INFO shuffle.RetryingBlockFetcher : Retrying fetch ( 2/3 ) for 1 outstanding blocks after 5000 ms",
+    "INFO client.TransportClientFactory : Found inactive connection to mesos-slave-08/10.10.34.18 : 55867 , creating a new one.",
+    "ERROR shuffle.RetryingBlockFetcher : Exception while beginning fetch of 1 outstanding blocks ( after 2 retries )",
+    "to connect to mesos-slave-08/10.10.34.18 : 55867",
+    "at org.apache.spark.network.client.TransportClientFactory.createClient ( TransportClientFactory.java : 216 )",
+    "at org.apache.spark.network.client.TransportClientFactory.createClient ( TransportClientFactory.java : 167 )",
+    "at org.apache.spark.network.netty.NettyBlockTransferService$$anon$1.createAndStart ( NettyBlockTransferService.scala : 90 )",
+    "at org.apache.spark.network.shuffle.RetryingBlockFetcher.fetchAllOutstanding ( RetryingBlockFetcher.java : 140 )",
+    "at org.apache.spark.network.shuffle.RetryingBlockFetcher.access$200 ( RetryingBlockFetcher.java : 43 )",
+    "at org.apache.spark.network.shuffle.RetryingBlockFetcher$1.run ( RetryingBlockFetcher.java : 170 )",
+    "at java.util.concurrent.Executors$RunnableAdapter.call ( Executors.java : 471 )",
+    "at java.util.concurrent.FutureTask.run ( FutureTask.java : 262 )",
+    "at java.util.concurrent.ThreadPoolExecutor.runWorker ( ThreadPoolExecutor.java : 1145 )",
+    "at java.util.concurrent.ThreadPoolExecutor$Worker.run ( ThreadPoolExecutor.java : 615 )",
+    "at java.lang.Thread.run ( Thread.java : 745 )",
+    "java.net.ConnectException : Connection refused : mesos-slave-08/10.10.34.18 : 55867",
+    "at sun.nio.ch.SocketChannelImpl.checkConnect ( Native Method )",
+    "at sun.nio.ch.SocketChannelImpl.finishConnect ( SocketChannelImpl.java : 744 )",
+    "at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect ( NioSocketChannel.java : 224 )",
+    "at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect ( AbstractNioChannel.java : 289 )"
+  ]
+}

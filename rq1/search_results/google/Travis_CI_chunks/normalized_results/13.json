@@ -1,0 +1,188 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Empty line causes: ** (Mix) mix format failed due to - Elixir Forum",
+    "link": "https://elixirforum.com/t/empty-line-causes-mix-mix-format-failed-due-to-check-formatted/59336",
+    "displayed_link": "https://elixirforum.com › empty-line-causes-mix-mix-fo...",
+    "snippet": "It seems that the fail is due to an empty line, but when I run the exact same command in development mix format --check-formatted there are no changes.",
+    "snippet_highlighted_words": [
+      "fail",
+      "due",
+      "mix format --check",
+      "formatted",
+      "are no"
+    ],
+    "source": "elixirforum.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Error mix format and make test · Issue #7538 · elixir-lang/elixir",
+    "link": "https://github.com/elixir-lang/elixir/issues/7538",
+    "displayed_link": "https://github.com › elixir-lang › elixir › issues",
+    "snippet": "You need to run it as bin/elixir bin/mix format otherwise you are going to use your locally installed elixir version which may have a formatter ...",
+    "snippet_highlighted_words": [
+      "elixir",
+      "mix format",
+      "are",
+      "elixir"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "mix format — Mix v1.20.0-rc.4",
+    "link": "https://hexdocs.pm/mix/main/Mix.Tasks.Format.html",
+    "displayed_link": "https://hexdocs.pm › mix › main › Mix.Tasks.Format.ht...",
+    "snippet": "Formats the given files and patterns. $ mix format mix.exs \"lib/**/*.{ex,exs}\" \"test/**/*.{ex,exs}\" If any of the files is - , then the input is read from",
+    "snippet_highlighted_words": [
+      "files",
+      "mix format mix",
+      "exs",
+      "lib",
+      "test",
+      "files is",
+      "is"
+    ],
+    "source": "hexdocs.pm",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Elixir's `mix format` configuration options",
+    "link": "https://stackoverflow.com/questions/50958098/elixirs-mix-format-configuration-options",
+    "displayed_link": "2 answers · 7 years ago",
+    "snippet": "It turns out that mix format does not have a lot of options to set, and what you see on the mix docs page is exactly what you get.",
+    "snippet_highlighted_words": [
+      "mix format",
+      "not",
+      "mix",
+      "is"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Mix Formatter not compiling plugins · Issue #11915",
+    "link": "https://github.com/elixir-lang/elixir/issues/11915",
+    "displayed_link": "https://github.com › elixir-lang › elixir › issues",
+    "snippet": "We recently had an issue where we had configured the HTMLFormatter as a plugin in .formatter.exs and it was failing silently in CI.",
+    "snippet_highlighted_words": [
+      "had",
+      "had",
+      "exs",
+      "was failing"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "mix format — Mix v1.12.3",
+    "link": "https://hexdocs.pm/mix/1.12.3/Mix.Tasks.Format.html",
+    "displayed_link": "https://hexdocs.pm › mix › Mix.Tasks.Format.html",
+    "snippet": "--check-formatted - checks that the file is already formatted. · --check-equivalent - checks if the files after formatting have the same AST as before formatting ...",
+    "snippet_highlighted_words": [
+      "--check",
+      "formatted",
+      "file is",
+      "formatted",
+      "files",
+      "formatting",
+      "formatting"
+    ],
+    "source": "hexdocs.pm",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "elixir/lib/mix/lib/mix/tasks/format.ex at main · elixir-lang/elixir",
+    "link": "https://github.com/elixir-lang/elixir/blob/master/lib/mix/lib/mix/tasks/format.ex",
+    "displayed_link": "https://github.com › elixir-lang › elixir › blob › master",
+    "snippet": "* `--no-exit` - only valid when used with `--check-formatted`. Pass this if you don't want this Mix task to fail (and return a non-zero exit code),.",
+    "snippet_highlighted_words": [
+      "no",
+      "check",
+      "formatted",
+      "Mix",
+      "fail"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "elixir - Mix Test - Test patterns did not match any file",
+    "link": "https://stackoverflow.com/questions/39779618/mix-test-test-patterns-did-not-match-any-file",
+    "displayed_link": "1 answer · 9 years ago",
+    "snippet": "All tests are supposed to end with _test.exs . Renaming my tests from some_module.exs to some_module_test.exs fixed it, and now it works.",
+    "snippet_highlighted_words": [
+      "tests are",
+      "exs",
+      "tests",
+      "exs",
+      "exs"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "mix test — Mix v1.20.0-rc.4",
+    "link": "https://hexdocs.pm/mix/main/Mix.Tasks.Test.html",
+    "displayed_link": "https://hexdocs.pm › mix › main › Mix.Tasks.Test.html",
+    "snippet": "Runs the tests for a project. This task starts the current application, loads up test/test_helper.exs and then, requires all files matching the test/**/*_test. ...",
+    "snippet_highlighted_words": [
+      "tests",
+      "test",
+      "test",
+      "exs",
+      "files",
+      "test",
+      "test"
+    ],
+    "source": "hexdocs.pm",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Update mix formatter help output · Issue #8088 · elixir-lang ...",
+    "link": "https://github.com/elixir-lang/elixir/issues/8088",
+    "displayed_link": "https://github.com › elixir-lang › elixir › issues",
+    "snippet": "The output of what mix help format says in 1.7.1 is below: • --check-formatted - checks that the file is already formatted. This is useful ...",
+    "snippet_highlighted_words": [
+      "mix",
+      "format",
+      "is",
+      "--check",
+      "formatted",
+      "file is",
+      "formatted",
+      "is"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

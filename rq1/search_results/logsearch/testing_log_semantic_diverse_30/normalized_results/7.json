@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_e90327b3de310d636a265069284996d8031f004a2d4559890dd715b929eb6a48",
+    "score": 132.7222,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-4418",
+    "source": "jira",
+    "origin_doc_id": "42619e7f8c274aa23bcdb9013c929a81836cf52959f1fc72ca4e7151c03ddb73",
+    "snippet": "2021-11-23 17:02:47,296 [myid:2] - INFO  [QuorumPeer[myid=2](plain=[0:0:0:0:0:0:0:0]:2182)(secure=disabled):QuorumPeer@1867] - Dynamic reconfig is disabled, we don't store the last seen config."
+  },
+  {
+    "rank": 2,
+    "id": "msg_67294eb4b9682b2e1a1d564da6908865b3d17e1c1b02900f94416ef0fbb9b502",
+    "score": 132.7222,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-4418",
+    "source": "jira",
+    "origin_doc_id": "42619e7f8c274aa23bcdb9013c929a81836cf52959f1fc72ca4e7151c03ddb73",
+    "snippet": "2021-11-23 17:02:47,821 [myid:2] - INFO  [QuorumPeer[myid=2](plain=[0:0:0:0:0:0:0:0]:2182)(secure=disabled):QuorumPeer@1867] - Dynamic reconfig is disabled, we don't store the last seen config."
+  },
+  {
+    "rank": 3,
+    "id": "msg_803273d4da7433b81119f03dba9d49e92ddde0e432a9d24f5383d8fd1504c967",
+    "score": 96.60791,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:38,017 [myid:] - INFO  [QuorumPeer[myid=3](plain=/127.0.0.1:11228)(secure=disabled):QuorumPeer@1033] - LOOKING"
+  },
+  {
+    "rank": 4,
+    "id": "msg_cd5c88a5cd866915edbb0906828044c9b98588c282260a9e5cfbadcd6f978cf5",
+    "score": 95.737076,
+    "link": "https://stackoverflow.com/questions/74357947",
+    "source": "so",
+    "origin_doc_id": "d2a7c5dfc4d8bedf0d0bddd8d5271064c6339e9b91a87448641a3c22e0b3b339",
+    "snippet": "[2022-11-08 03:44:09,280] INFO Dynamic reconfig is disabled, we don't store the last seen config. (org.apache.zookeeper.server.quorum.QuorumPeer)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_fa9a303c5d231ac23ded189d3d87fc5960d11e4c5ce2a1bebff82280e6c27c4b",
+    "score": 92.651886,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,894 [myid:] - INFO  [QuorumPeer[myid=1](plain=/127.0.0.1:11222)(secure=disabled):QuorumPeer@1033] - LOOKING"
+  },
+  {
+    "rank": 6,
+    "id": "msg_381e789127d3bd2fd27df901ec1b893f825d344c87824d71959ad66fdb0aa0cd",
+    "score": 92.651886,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,894 [myid:] - INFO  [QuorumPeer[myid=2](plain=/127.0.0.1:11225)(secure=disabled):QuorumPeer@1033] - LOOKING"
+  },
+  {
+    "rank": 7,
+    "id": "msg_a24aba9bbabbdff641f646c6b73bcecf95399ba1eec290446bf8f0c95272c3af",
+    "score": 88.66874,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:38,018 [myid:] - INFO  [QuorumPeer[myid=3](plain=/127.0.0.1:11228)(secure=disabled):FastLeaderElection@894] - New election. My id =  3, proposed zxid=0x0"
+  },
+  {
+    "rank": 8,
+    "id": "msg_1e85b1dc2da3deaac06aea1fd1bc1519cf1c78c052736adbf446477f7742e7e5",
+    "score": 88.02368,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2577",
+    "source": "jira",
+    "origin_doc_id": "960ab4d84b5ad0971d6a6f9ab4284160a542c5bf0de51213db06e14c562cbde6",
+    "snippet": "2016-09-13 05:09:25,783 [myid:1] - INFO  [QuorumPeer[myid=1](plain=/127.0.0.1:13918)(secure=disabled):QuorumPeer@1033] - LOOKING"
+  },
+  {
+    "rank": 9,
+    "id": "msg_121e42878da090e5fa69030d3efac6ce332688de2d59c711b06340276b0ef4a9",
+    "score": 88.02368,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2577",
+    "source": "jira",
+    "origin_doc_id": "960ab4d84b5ad0971d6a6f9ab4284160a542c5bf0de51213db06e14c562cbde6",
+    "snippet": "2016-09-13 05:09:25,798 [myid:0] - INFO  [QuorumPeer[myid=0](plain=/127.0.0.1:13915)(secure=disabled):QuorumPeer@1033] - LOOKING"
+  },
+  {
+    "rank": 10,
+    "id": "msg_8377757ec446e70bcccb8f8bd51564a9b2e2f55d82df0378f4f59990e27a21c2",
+    "score": 88.02368,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2577",
+    "source": "jira",
+    "origin_doc_id": "960ab4d84b5ad0971d6a6f9ab4284160a542c5bf0de51213db06e14c562cbde6",
+    "snippet": "2016-09-13 05:09:25,806 [myid:2] - INFO  [QuorumPeer[myid=2](plain=/127.0.0.1:13921)(secure=disabled):QuorumPeer@1033] - LOOKING"
+  }
+]

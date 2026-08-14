@@ -1,0 +1,17 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "http://ftp.pasteur.fr/mirrors/centos-vault/5.1/updates/SRPMS ...",
+    "link": "http://ftp.pasteur.fr/mirrors/centos-vault/5.1/updates/SRPMS/repodata/other.xml.gz",
+    "displayed_link": "http://ftp.pasteur.fr › repodata › other.xml.gz",
+    "snippet": "... org/phoenix/iconshots/flame48true.png - now using gtk2 as toolkit - renamed again back to mozilla-firebird (I like it better) - Provides: MozillaFirebird ...",
+    "snippet_highlighted_words": [
+      "org/phoenix",
+      "to"
+    ],
+    "source": "Institut Pasteur",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

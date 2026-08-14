@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "sshd log full of \"Did not receive identification string from \"",
+    "link": "https://serverfault.com/questions/483852/sshd-log-full-of-did-not-receive-identification-string-from",
+    "displayed_link": "https://serverfault.com › questions › sshd-log-full-of-di...",
+    "snippet": "The target string for this exploit is (guess what?) \"Did not receive identification string from ...\" You can distinguish legitimate connections ...",
+    "snippet_highlighted_words": [
+      "Did not receive identification string from"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Did not receive identification string - General Support",
+    "link": "https://forums.unraid.net/topic/38070-did-not-receive-identification-string/",
+    "displayed_link": "https://forums.unraid.net › ... › General Support",
+    "snippet": "This happens when a connection to SSH (port 22 typically) is made but not completed. For example just using telnet to port 22 and disconnecting will cause this ...",
+    "snippet_highlighted_words": [
+      "SSH",
+      "is",
+      "not"
+    ],
+    "source": "Unraid",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Solved: sshd[14074]: Did not receive identification string...",
+    "link": "https://community.hpe.com/t5/operating-system-hp-ux/sshd-14074-did-not-receive-identification-string-from/td-p/4701919",
+    "displayed_link": "https://community.hpe.com › td-p",
+    "snippet": "Someone connected from 192.234.123.4 to your sshd port, but did not use any recognizable form of the SSH protocol, so sshd closed the connection.",
+    "snippet_highlighted_words": [
+      "Someone connected from 192.234.123.4 to your sshd port"
+    ],
+    "source": "Hewlett Packard Enterprise Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Solved: ssh to linux from remote not working",
+    "link": "https://www.experts-exchange.com/questions/24851317/ssh-to-linux-from-remote-not-working.html",
+    "displayed_link": "https://www.experts-exchange.com › questions › ssh-to-...",
+    "snippet": "You can get that \"did not receive identification string\" from a version mismatch between SSH client and server. First thing to do would be to ...",
+    "snippet_highlighted_words": [
+      "did not receive identification string\" from"
+    ],
+    "source": "Experts Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "SFTP Did not receive identification string from x.x.x.x",
+    "link": "https://community.spiceworks.com/t/sftp-did-not-receive-identification-string-from-x-x-x-x/286321",
+    "displayed_link": "https://community.spiceworks.com › ... › discussion",
+    "snippet": "I am setting up and SFTP server. Connects perfectly internally, but I get this error when I try to connect from the outside. This is on CentOS 6.5.",
+    "snippet_highlighted_words": [
+      "get",
+      "is"
+    ],
+    "source": "Spiceworks Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Did not receive identification string from · Issue #3200",
+    "link": "https://github.com/hashicorp/packer/issues/3200",
+    "displayed_link": "https://github.com › hashicorp › packer › issues",
+    "snippet": "Hi, SSH using packer null to Ubuntu 14.04 server gives from time to time the following error in auth.log: sshd[32525]: Did not receive ...",
+    "snippet_highlighted_words": [
+      "Did not receive"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "too many \"Did not receive identification string from 192.168 ...",
+    "link": "https://forum.netgate.com/topic/144924/sshd-too-many-did-not-receive-identification-string-from-192-168-1-1-port-xxxxx-messages",
+    "displayed_link": "https://forum.netgate.com › topic › sshd-too-many-did-...",
+    "snippet": "Hi, I'm using 2.4.4-RELEASE-p3 (arm64) on a SG-1100 . The system log is full of \"Did not receive identification string from 192.168.1.1 port",
+    "snippet_highlighted_words": [
+      "Did not receive identification string from"
+    ],
+    "source": "Netgate Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Bad protocol version identification 'XX' from a.b.c.d' or 'Did ...",
+    "link": "https://access.redhat.com/solutions/98293",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "'sshd[xxx]: Bad protocol version identification 'XX' from abcd' or 'Did not receive identification string from abcd' in /var/log/secure",
+    "snippet_highlighted_words": [
+      "Did not receive identification string from"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "server problems: 'Did not receive identification string from...'",
+    "link": "https://www.linuxquestions.org/questions/linux-server-73/server-problems-%27did-not-receive-identification-string-from-%27-4175413412/",
+    "displayed_link": "https://www.linuxquestions.org › linux-server-73 › serve...",
+    "snippet": "Hi, I have some problems with my servers. I have a server that i use for managing users with kerberos and smbldap and another servers that ...",
+    "snippet_highlighted_words": [
+      "have",
+      "have"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "sshd – Did not receive identification string from",
+    "link": "https://www.digitalwhores.net/2015/11/30/sshd-did-not-receive-identification-string-from/",
+    "displayed_link": "https://www.digitalwhores.net › 2015/11/30 › sshd-did-n...",
+    "snippet": "This is typically due to connectivity issues. In an ssh connection, the server first provides its identification string, then waits for the ...",
+    "snippet_highlighted_words": [
+      "due to connectivity issues"
+    ],
+    "source": "digitalwhores.net",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

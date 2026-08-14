@@ -1,0 +1,33 @@
+{
+  "case_id": "26",
+  "summary_raw": "[\"open through proxy\",\"bytes sent\",\"bytes received\",\"close\",\"A connection request was canceled\"]",
+  "summary_items": [
+    "open through proxy",
+    "bytes sent",
+    "bytes received",
+    "close",
+    "A connection request was canceled"
+  ],
+  "group_logs_lines": [
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 451 bytes sent , 353 bytes received , lifetime <1 sec",
+    "- 137.189.89.156 : 22 open through proxy socks.cse.cuhk.edu.hk : 1080 SOCKS5",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- long.weixin.qq.com : 443 error : A connection request was canceled before the completion.",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 451 bytes sent , 353 bytes received , lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 2115 bytes ( 2.06 KB ) sent , 1342 bytes ( 1.31 KB ) received , lifetime 04 : 00",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 451 bytes sent , 353 bytes received , lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 14227 bytes ( 13.8 KB ) sent , 4700 bytes ( 4.58 KB ) received , lifetime 01 : 02",
+    "- ptlogin2.qq.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- dir.minigame.qq.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS"
+  ]
+}

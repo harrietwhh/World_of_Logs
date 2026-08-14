@@ -1,0 +1,33 @@
+{
+  "case_id": "50",
+  "summary_raw": "[\"Got assigned task\",\"Running task\",\"Started reading broadcast variable\",\"Started reading broadcast variable\",\"Found block\"]",
+  "summary_items": [
+    "Got assigned task",
+    "Running task",
+    "Started reading broadcast variable",
+    "Started reading broadcast variable",
+    "Found block"
+  ],
+  "group_logs_lines": [
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 64402",
+    "INFO executor.Executor : Running task 2.0 in stage 1608.0 ( TID 64402 )",
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 64404",
+    "INFO executor.Executor : Running task 4.0 in stage 1608.0 ( TID 64404 )",
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 64406",
+    "INFO executor.Executor : Running task 6.0 in stage 1608.0 ( TID 64406 )",
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 64408",
+    "INFO executor.Executor : Running task 8.0 in stage 1608.0 ( TID 64408 )",
+    "INFO broadcast.TorrentBroadcast : Started reading broadcast variable 1629",
+    "INFO storage.MemoryStore : Block broadcast_1629_piece0 stored as bytes in memory ( estimated size 28.9 KB , free 6.4 MB )",
+    "INFO broadcast.TorrentBroadcast : Started reading broadcast variable 1629",
+    "INFO storage.MemoryStore : Block broadcast_1629 stored as values in memory ( estimated size 77.8 KB , free 6.5 MB )",
+    "INFO storage.BlockManager : Found block rdd_2474_0 locally",
+    "INFO storage.BlockManager : Found block rdd_2474_2 locally",
+    "INFO storage.BlockManager : Found block rdd_2474_4 locally",
+    "INFO storage.BlockManager : Found block rdd_2474_6 locally",
+    "INFO storage.BlockManager : Found block rdd_2474_8 locally",
+    "INFO python.PythonRunner : Times : total = 38 , boot = -179 , init = 217 , finish = 0",
+    "INFO python.PythonRunner : Times : total = 37 , boot = -150 , init = 187 , finish = 0",
+    "INFO storage.BlockManager : Found block rdd_2474_8 locally"
+  ]
+}

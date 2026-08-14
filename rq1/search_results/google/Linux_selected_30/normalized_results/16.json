@@ -1,0 +1,140 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "I am getting 'logrotate: ALERT exited abnormally with [1]' ...",
+    "link": "https://access.redhat.com/solutions/39006",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "To get rid of the message ALERT exited abnormally with [1] , check if logrotate is being used to rotate logs other than those in /var/log . If ...",
+    "snippet_highlighted_words": [
+      "ALERT exited abnormally with [1"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "logrotate: ALERT exited abnormally with [1]",
+    "link": "https://www.linuxquestions.org/questions/red-hat-31/logrotate-alert-exited-abnormally-with-%5B1%5D-747571-print/",
+    "displayed_link": "https://www.linuxquestions.org › questions › red-hat-31",
+    "snippet": "1) logrotate is not functioning properly 2) then the errors in /var/log/messages 3) then the log is able to grow to whatever size.",
+    "snippet_highlighted_words": [
+      "logrotate is not functioning properly"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "logrotate[XXXX]: ALERT exited abnormally with [1] ...",
+    "link": "https://my.f5.com/manage/s/article/K000138002",
+    "displayed_link": "https://my.f5.com › manage › article",
+    "snippet": "After an upgrade, the message logrotate[17568]: ALERT exited abnormally with [1] is continuously generated in /var/log/message.",
+    "snippet_highlighted_words": [
+      "ALERT exited abnormally with [1"
+    ],
+    "source": "F5",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "logrotate[XXXX]: ALERT exited abnormally with [1] every 5 ...",
+    "link": "https://my.f5.com/manage/s/article/K60222431",
+    "displayed_link": "https://my.f5.com › manage › article",
+    "snippet": "Description Every 5 minutes, the below error message will populate in /var/log/messages Error Message: logrotate[XXXX]: ALERT exited ...",
+    "snippet_highlighted_words": [
+      "ALERT exited"
+    ],
+    "source": "F5",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "logrotate cron job not rotating certain logs",
+    "link": "https://serverfault.com/questions/491703/logrotate-cron-job-not-rotating-certain-logs",
+    "displayed_link": "https://serverfault.com › questions › logrotate-cron-job-...",
+    "snippet": "However the syslog says: \"logrotate: ALERT exited abnormally with [1]\". But when I run the same \"logrotate\" in \"cron.daily\" script manually ...",
+    "snippet_highlighted_words": [
+      "ALERT exited abnormally with [1"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "logrotate fails on xprtld file due to missing log file add_host. ...",
+    "link": "https://www.veritas.com/support/en_US/article.100003390",
+    "displayed_link": "https://www.veritas.com › en_US › article.100003390",
+    "snippet": "Problem. logrotate: ALERT exited abnormally with [1] the logrotate.d file xprtld references log file /var/opt/VRTSsfmh/logs/add_host.log which does not exist.",
+    "snippet_highlighted_words": [
+      "ALERT exited abnormally with [1"
+    ],
+    "source": "Veritas Technologies",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "porteus logrotate: ALERT - exited abnormally.",
+    "link": "https://forum.porteus.org/viewtopic.php?t=10979",
+    "displayed_link": "https://forum.porteus.org › viewtopic",
+    "snippet": "I tried researching the issue and found a post on LQ where a user said in that specific case it was due to the mail log growing too big ...",
+    "snippet_highlighted_words": [],
+    "source": "Porteus forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "[j-nsp] fpc1 user.notice logrotate: ALERT exited abnormally ...",
+    "link": "https://puck.nether.net/pipermail/juniper-nsp/2021-June/038719.html",
+    "displayed_link": "https://puck.nether.net › juniper-nsp › 2021-June",
+    "snippet": "notice logrotate: ALERT exited abnormally with [1]; Next message (by thread): [j-nsp] fpc1 user.notice logrotate: ALERT exited abnormally with [ ...",
+    "snippet_highlighted_words": [
+      "ALERT exited abnormally with [1"
+    ],
+    "source": "nether.net",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Health Check: A script exited abnormally with exit status: 1",
+    "link": "https://splunk.my.site.com/customer/s/article/A-script-exited-abnormally-with-exit-status-1-input-opt-splunk-etc-apps-DA-ESS-ThreatIntelligence-bin-threatmatch-py-stanza-threatmatch-src",
+    "displayed_link": "https://splunk.my.site.com › customer › article › A-script...",
+    "snippet": "After upgrading ES from version 6.4.1 to 6.6.2 the below warning messages popped up on the health check alongside with errors in threatmatch.log.",
+    "snippet_highlighted_words": [
+      "1"
+    ],
+    "source": "Salesforce",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "exited with abnormal exit code [1] #2477",
+    "link": "https://github.com/archlinux/archinstall/issues/2477",
+    "displayed_link": "https://github.com › archlinux › archinstall › issues",
+    "snippet": "You're using an older version 2.7.1, please use the latest release and try again. yes, but after I've updated it, the bug insisted.",
+    "snippet_highlighted_words": [
+      "1"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

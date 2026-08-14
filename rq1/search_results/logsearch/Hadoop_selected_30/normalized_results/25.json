@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_51e0fa59ce58694630f254d1f1f74ed3f92be9b336cfd63c14ea5da695de9c64",
+    "score": 47.37455,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-4451",
+    "source": "jira",
+    "origin_doc_id": "4c23657d7d4edb626933754cd7a5584003fab42d597cfbf11b2c36537634019f",
+    "snippet": "2012-10-11 16:10:40,540 INFO org.apache.hadoop.mapred.JobInProgress: Input size for job job_201210111609_0001 = 75545. Number of splits = 5"
+  },
+  {
+    "rank": 2,
+    "id": "msg_f3b0267e254b75951e1b5b8dbcdadc61f646c6712436d03b34ea3f22a7de8f89",
+    "score": 45.58838,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,826 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Input size for job job_1564159650361_0001 = 1180. Number of splits = 10"
+  },
+  {
+    "rank": 3,
+    "id": "msg_6ea34d5cd78d9804e45d3b8d96cbe98a07731ce74eab6c7ed31f442cd8f82cdd",
+    "score": 45.107624,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6815",
+    "source": "jira",
+    "origin_doc_id": "e460905c994c0b63b47c2aca43e1edcb8187dd28d78551dedb713384dfab382d",
+    "snippet": "2016-11-23 10:08:07,264 INFO  [main] impl.JobImpl (JobImpl.java:createMapTasks(1559)) - Input size for job job_0_0000 = 0. Number of splits = 2"
+  },
+  {
+    "rank": 4,
+    "id": "msg_33e71ab86ade865fea8e13db8989ac728e3bd73b6759268171715baaee6df464",
+    "score": 44.636906,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6948",
+    "source": "jira",
+    "origin_doc_id": "7926967bdad5b60f27350dc281925a241f632dc7f7db6409eb7079622b044f42",
+    "snippet": "2017-08-30 10:12:21,944 INFO  [Thread-49] impl.JobImpl (JobImpl.java:createMapTasks(1562)) - Input size for job job_1234567890000_0001 = 0. Number of splits = 2"
+  },
+  {
+    "rank": 5,
+    "id": "msg_298a7f1512da87a90a6420cef0324623bfa139d6628524009e37a89f8abe817b",
+    "score": 43.21658,
+    "link": "https://stackoverflow.com/questions/23325862",
+    "source": "so",
+    "origin_doc_id": "508866da2370841642473962fa59da02b42675c831d74756e6bde27b6a0012dc",
+    "snippet": "2014-04-28 04:49:23,954 INFO org.apache.hadoop.mapred.JobInProgress: Input size for job job_201404280448_0001 = 0. Number of splits = 0"
+  },
+  {
+    "rank": 6,
+    "id": "msg_5fefe112361f76d20662605d394eaa5d299c59668ba4e9ff4edcecd0e1fd8740",
+    "score": 43.21658,
+    "link": "https://stackoverflow.com/questions/10510922",
+    "source": "so",
+    "origin_doc_id": "b73bb8f6d626b668227579779f102db8e32b9190b5b43cf9b65ddd164d449acc",
+    "snippet": "2012-05-09 14:57:24,243 INFO org.apache.hadoop.mapred.JobInProgress: Input size for job job_201205091453_0007 = 48. Number of splits = 1"
+  },
+  {
+    "rank": 7,
+    "id": "msg_cb54dfb4c2205b5d1eec9f970e74ea9f4c87cc678781109fbbe69fe8756debd6",
+    "score": 43.21658,
+    "link": "https://stackoverflow.com/questions/11885796",
+    "source": "so",
+    "origin_doc_id": "4ad6cb1adf74b0a41d779bb210756682e671062e83adf3c15fbf45ee88fc3642",
+    "snippet": "2012-08-09 15:03:23,027 INFO org.apache.hadoop.mapred.JobInProgress: Input size for job job_201208021510_0221 = 56518256. Number of splits = 2"
+  },
+  {
+    "rank": 8,
+    "id": "msg_4572d361a6cc9134eb2e8cd15840279985e640bea79b45e06d32e3c44aa65468",
+    "score": 43.21658,
+    "link": "https://issues.apache.org/jira/browse/MAHOUT-1034",
+    "source": "jira",
+    "origin_doc_id": "7400b18350108aa43d85b6283d868c03f89686038e1afa3237552ae73e735ab0",
+    "snippet": "2012-06-28 15:32:34,003 INFO org.apache.hadoop.mapred.JobInProgress: Input size for job job_201206280957_0051 = 78. Number of splits = 1"
+  },
+  {
+    "rank": 9,
+    "id": "msg_8bc95f614b83158fbd7082b001b4d6ba3ebb788b32dbebeb9904953c85b0e153",
+    "score": 43.21658,
+    "link": "https://issues.apache.org/jira/browse/MAHOUT-1034",
+    "source": "jira",
+    "origin_doc_id": "7400b18350108aa43d85b6283d868c03f89686038e1afa3237552ae73e735ab0",
+    "snippet": "2012-06-28 15:32:39,950 INFO org.apache.hadoop.mapred.JobInProgress: Input size for job job_201206280957_0052 = 89. Number of splits = 1"
+  },
+  {
+    "rank": 10,
+    "id": "msg_7dc5504b64fd4b6b9427366c50327bab1959f91347dc2642253596c850bf0238",
+    "score": 43.21658,
+    "link": "https://issues.apache.org/jira/browse/MAHOUT-1034",
+    "source": "jira",
+    "origin_doc_id": "7400b18350108aa43d85b6283d868c03f89686038e1afa3237552ae73e735ab0",
+    "snippet": "2012-06-28 15:32:51,861 INFO org.apache.hadoop.mapred.JobInProgress: Input size for job job_201206280957_0053 = 89. Number of splits = 1"
+  }
+]

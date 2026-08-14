@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_cee215c544355bd415d843e30c87d0f49d8bf18adb9db1995975f002341a32df",
+    "score": 65.26536,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:27,387 INFO [main] org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler: Emitting job history data to the timeline server is not enabled"
+  },
+  {
+    "rank": 2,
+    "id": "msg_0cb08082a69c635748aa34053647837f784d523f253b4e63a17ebd8524bbb5cb",
+    "score": 65.26536,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,526 INFO [main] org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler: Emitting job history data to the timeline server is not enabled"
+  },
+  {
+    "rank": 3,
+    "id": "msg_81ac19d07030f1457809cdf5c1b23587ece563e8abf06123208134f88b171a5e",
+    "score": 65.26536,
+    "link": "https://stackoverflow.com/questions/37901108",
+    "source": "so",
+    "origin_doc_id": "ba4709846428a88a72c537c1e133da9fc3b8b42e8df5d88af3cadf791144e27f",
+    "snippet": "2016-06-18 19:14:33,183 INFO [main] org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler: Emitting job history data to the timeline server is not enabled"
+  },
+  {
+    "rank": 4,
+    "id": "msg_b9d88f5bed910dbaf120977e4429a22ac80cbb1c1d3de6dc79b3d6834c022956",
+    "score": 65.26536,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:24,979 INFO [main] org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler: Emitting job history data to the timeline server is not enabled"
+  },
+  {
+    "rank": 5,
+    "id": "msg_4d90308583714e2b748ada566b741013eb8270bb5def2b34d4851f4dba583685",
+    "score": 65.26536,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:54,269 INFO [main] org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler: Emitting job history data to the timeline server is not enabled"
+  },
+  {
+    "rank": 6,
+    "id": "msg_4d3893751be4e0a19eb327d583c7ef72406f782beaeb821fcc96208e2d95f05f",
+    "score": 65.26536,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:40,473 INFO [main] org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler: Emitting job history data to the timeline server is not enabled"
+  },
+  {
+    "rank": 7,
+    "id": "msg_6f5e26b45b92b74bc3f4da6dd1586e8cea913f8bce3c57064b65e62333c404d6",
+    "score": 65.26536,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:54,831 INFO [main] org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler: Emitting job history data to the timeline server is not enabled"
+  },
+  {
+    "rank": 8,
+    "id": "msg_0ac12766ccc641253c6c172ca6cfc22671c32500c325355175525ce9baebb472",
+    "score": 65.26536,
+    "link": "https://github.com/crs4/pydoop/issues/154",
+    "source": "github",
+    "origin_doc_id": "10efddefd4b8ea3b9e1d5f97d32e75c0c8263a8a5bd3426f0ec9092de77cc2f8",
+    "snippet": "2015-07-17 00:16:27,497 INFO [main] org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler: Emitting job history data to the timeline server is not enabled"
+  },
+  {
+    "rank": 9,
+    "id": "msg_474097ba3ed211ace439c3714ae5459e45f19c99c23c9a1a23637531bace80b2",
+    "score": 65.26536,
+    "link": "https://stackoverflow.com/questions/49366285",
+    "source": "so",
+    "origin_doc_id": "bab7bd228140fbee7bf887a8ad9a2638f1894ba5dc8341321ccb79ce6cd0cf96",
+    "snippet": "2018-03-20 18:52:34,763 INFO [main] org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler: Emitting job history data to the timeline server is not enabled"
+  },
+  {
+    "rank": 10,
+    "id": "msg_aac8320b4490b712e2d3ca0779d739c317b4697eceb160c277c66c04250798a2",
+    "score": 65.26536,
+    "link": "https://github.com/crs4/pydoop/issues/216",
+    "source": "github",
+    "origin_doc_id": "92c44987a78dab8d4832c1dcd6cd493412735f9b576da51b8be83f1197678df3",
+    "snippet": "2016-06-22 16:49:00,749 INFO [main] org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler: Emitting job history data to the timeline server is not enabled"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "GetColumnStatisticsForTable - AWS Glue",
+    "link": "https://docs.aws.amazon.com/glue/latest/webapi/API_GetColumnStatisticsForTable.html",
+    "displayed_link": "https://docs.aws.amazon.com › glue › latest › webapi › A...",
+    "snippet": "Retrieves table statistics of columns. The Identity and Access Management (IAM) permission required for this operation is GetTable.",
+    "snippet_highlighted_words": [
+      "table statistics",
+      "columns"
+    ],
+    "source": "Amazon AWS Documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Glue - issue with get-column-statistics-for-table : r/aws",
+    "link": "https://www.reddit.com/r/aws/comments/12jgdfe/glue_issue_with_getcolumnstatisticsfortable/",
+    "displayed_link": "3 years ago",
+    "snippet": "I'm trying to use the below cli cmd to get statistics information, but the get the below error message. But when I go and see the data catalog -",
+    "snippet_highlighted_words": [
+      "get statistics",
+      "get",
+      "error",
+      "data catalog"
+    ],
+    "source": "Reddit · r/aws",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "get-column-statistics-for-table",
+    "link": "https://awscli.amazonaws.com/v2/documentation/api/2.34.7/reference/glue/get-column-statistics-for-table.html",
+    "displayed_link": "https://awscli.amazonaws.com › api › reference › glue",
+    "snippet": "Use the AWS CLI 2.34.7 to run the glue get-column-statistics-for-table command.",
+    "snippet_highlighted_words": [
+      "Use the AWS CLI 2.34.7"
+    ],
+    "source": "Amazon Web Services",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Resolving the \"Limited access to table column statistics ...",
+    "link": "https://pganalyze.com/docs/install/troubleshooting/column_stats_helper",
+    "displayed_link": "https://pganalyze.com › install › column_stats_helper",
+    "snippet": "This warning indicates that column statistics for the specific database are not being reported by the collector.",
+    "snippet_highlighted_words": [
+      "column statistics",
+      "database"
+    ],
+    "source": "pganalyze",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Generating column statistics on demand - AWS Glue",
+    "link": "https://docs.aws.amazon.com/glue/latest/dg/column-stats-on-demand.html",
+    "displayed_link": "https://docs.aws.amazon.com › glue › latest › column-sta...",
+    "snippet": "Follow these steps to generate column statistics on demand for the Data Catalog tables using AWS Glue console or AWS CLI.",
+    "snippet_highlighted_words": [
+      "column statistics",
+      "Data Catalog tables"
+    ],
+    "source": "Amazon AWS Documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "mysql - mysqldump throws: Unknown table ' ...",
+    "link": "https://serverfault.com/questions/912162/mysqldump-throws-unknown-table-column-statistics-in-information-schema-1109",
+    "displayed_link": "https://serverfault.com › questions › mysqldump-throws...",
+    "snippet": "This is due to a new flag that is enabled by default in mysqldump 8. You can disable it by adding --column-statistics=0.",
+    "snippet_highlighted_words": [
+      "column"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "get-column-statistics-for-table",
+    "link": "https://awscli.amazonaws.com/v2/documentation/api/2.0.33/reference/glue/get-column-statistics-for-table.html",
+    "displayed_link": "https://awscli.amazonaws.com › api › reference › glue",
+    "snippet": "The ID of the Data Catalog where the partitions in question reside. If none is supplied, the AWS account ID is used by default. --database-name (string).",
+    "snippet_highlighted_words": [
+      "ID",
+      "Data Catalog",
+      "ID",
+      "database",
+      "string"
+    ],
+    "source": "Amazon Web Services (AWS)",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Table API - AWS Glue",
+    "link": "https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api-catalog-tables.html",
+    "displayed_link": "https://docs.aws.amazon.com › ... › Table API",
+    "snippet": "The Table API describes data types and operations associated with tables. Data types Table structure Represents a collection of related data organized in ...",
+    "snippet_highlighted_words": [
+      "Table",
+      "data",
+      "tables",
+      "Data",
+      "Table",
+      "data"
+    ],
+    "source": "Amazon.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "postgres | 🛩️ Shane Borden's Technology Blog",
+    "link": "https://shaneborden.com/tag/postgres/",
+    "displayed_link": "https://shaneborden.com › tag › postgres",
+    "snippet": "So why is misplaced EXCEPTION logic possibly a performance killer? PostgreSQL is optimized to handle a small number of open subtransactions very efficiently.",
+    "snippet_highlighted_words": [
+      "EXCEPTION"
+    ],
+    "source": "shaneborden.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "[style](fe)the last step of fe CheckStyle (#10134)",
+    "link": "https://lists.apache.org/thread/w7nhfhdljfxd5lyskyqh3zv3t2grwvh1",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "... String.format(\"get unhealthy tablet %d in colocate table.\" + + \" status: %s\", tablet.getId(), st); LOG.debug(unstableReason); if (!tablet.readyToBeRepaired ...",
+    "snippet_highlighted_words": [
+      "String",
+      "format",
+      "get",
+      "d",
+      "table",
+      "); LOG",
+      "debug",
+      ");"
+    ],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

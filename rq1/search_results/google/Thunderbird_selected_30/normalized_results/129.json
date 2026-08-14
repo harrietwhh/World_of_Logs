@@ -1,0 +1,21 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Thunderbird/Thunderbird_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Thunderbird/Thunderbird_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Thunderbird",
+    "snippet": "... dhcpd: DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251. - 1131566503 2005.11.09 aadmin3 Nov 9 12:01 ...",
+    "snippet_highlighted_words": [
+      "10.100.4.251",
+      "00:11:43",
+      "e3",
+      "ba",
+      "c3 via eth1",
+      "10.100.4.251"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

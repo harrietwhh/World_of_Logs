@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_c1176638f228319bd78f0282f95102dbd6330a784322c66c9c6b066b909a032a",
+    "score": 60.92624,
+    "link": "https://github.com/freeCodeCamp/freeCodeCamp/issues/37215",
+    "source": "github",
+    "origin_doc_id": "576cab00bf00ae75743d6e4bea4c030a174d78598deeabeef8ae25d43ee9f156",
+    "snippet": "0 passing (615ms) \n   1 failing \n   1) Check challenges \n        Check challenges (portuguese) \n  \n AssertionError: ValidationError: child \"tests\" fails because [\"tests\" at position 0 does not match any of the allowed types] \n       at Context.<anonymous> (test\\test-challenges.js:164:19) \n ```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_8913bf91b53c98542b5b9988ed133ad124eeeaf2c6cac6f9efeda15ec47ffdf5",
+    "score": 50.282864,
+    "link": "https://github.com/freeCodeCamp/freeCodeCamp/issues/38254",
+    "source": "github",
+    "origin_doc_id": "ac174880369360802c47774707fcf9dc9d289dd51419c178007ddc9825c6833a",
+    "snippet": "8387 passing (6m) \n   568 pending \n   2 failing \n   1) Check challenges \n        Check challenges (english) \n    Error: Timeout of 6000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves. (C:\\Users\\shauh\\Documents\\freeCodeCamp\\freeCodeCamp\\curriculum\\test\\test-challenges.js) \n       at listOnTimeout (internal/timers.js:531:17) \n       at processTimers (internal/timers.js:475:7) \n   2) Check challenges \n        \"after all\" hook: \n      Uncaught Error: unhandledRejection: Error, Protocol error (Runtime.callFunctionOn): Target closed. \n       at process.<anonymous> (test\\test-challenges.js:94:11) \n      at processPromiseRejections (internal/process/promises.js:165:18) \n       at processTicksAndRejections (internal/process/task_queues.js:90:32)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_d875c918959a2fe7b044cbe783ea5733c35b3a5891ddf8f486f9fdcd14e1ccdd",
+    "score": 43.124043,
+    "link": "https://github.com/martomi/chiadog/issues/249",
+    "source": "github",
+    "origin_doc_id": "720ca90e21a1481cd16318c14700ff967356d6d68e5335ec23be8d07aaca6faf",
+    "snippet": "[2021-06-30 01:50:49] [    INFO] --- Enabled check for time taken to respond to challenges. (quick_plot_search_time.py:18)"
+  },
+  {
+    "rank": 4,
+    "id": "msg_0f099a4be3df4e76cc8586a6737d8e0fbf6a1bec2c116e00b9f251d3e2b65121",
+    "score": 43.124043,
+    "link": "https://github.com/martomi/chiadog/issues/7",
+    "source": "github",
+    "origin_doc_id": "b59dd4b8903f9cae6d4229804f5c8f0c7dad77193f98ea2c4d6dc54019fe9c60",
+    "snippet": "[2021-04-25 12:26:40] [    INFO] --- Enabled check for time taken to respond to challenges. (quick_plot_search_time.py:18)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_70dfc032cea933208ce9cdf02bf0761f84b46a1457e30e89c6e23ffb94043241",
+    "score": 43.124043,
+    "link": "https://github.com/martomi/chiadog/issues/7",
+    "source": "github",
+    "origin_doc_id": "b59dd4b8903f9cae6d4229804f5c8f0c7dad77193f98ea2c4d6dc54019fe9c60",
+    "snippet": "[2021-04-20 16:41:07] [    INFO] --- Enabled check for time taken to respond to challenges. (harvester_activity_handler.py:145)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_34e4fc72de024b49b6561d5400b13b9813c909953427083076e636c421402300",
+    "score": 43.109657,
+    "link": "https://github.com/binkhq/certbot-dns-azure/issues/3",
+    "source": "github",
+    "origin_doc_id": "9620d6320787202cdeeb444f6794aaedf1872894ec9299029d6c3477ac5e2f76",
+    "snippet": "Requesting a certificate for *.xxxxxx.onmicrosoft.com \n Performing the following challenges: \n dns-01 challenge for xxxxxx.onmicrosoft.com \n Cleaning up challenges \n Failed to add TXT record to domain xxxxxx.onmicrosoft.com, error: Azure Error: ParentResourceNotFound \n Message: Can not perform requested operation on nested resource. Parent resource 'xxxxxx.onmicrosoft.com' not found. \nParentResourceNotFound.\""
+  },
+  {
+    "rank": 7,
+    "id": "msg_968fb94c9239f4036bde86d078d4806dfa8ef536e691aba0e288ee109e6f5390",
+    "score": 43.001976,
+    "link": "https://stackoverflow.com/questions/62374043",
+    "source": "so",
+    "origin_doc_id": "86ca9dbbd92bc705e32b425c5951d5b6004723b0b9c82b7a27bd86b542d3d70a",
+    "snippet": "Error: Relation \"challenges\" was not found, please check if it is correct and really exist in your entity."
+  },
+  {
+    "rank": 8,
+    "id": "msg_145e97344d9e8e9a1c88d747f2c5a5ff317172e4ae13606d2ed2dd9cb07800d6",
+    "score": 42.622463,
+    "link": "https://github.com/facebook/docusaurus/issues/3139",
+    "source": "github",
+    "origin_doc_id": "ee734910d74374d1441c408f21d88bc2e0fc515529760c76c7cc85c194a78e7b",
+    "snippet": "ValidationError: \"navbar.items[1].target\" is not allowed \n I cannot add a\nValidationError: \"navbar.items[1].target\" is not allowed"
+  },
+  {
+    "rank": 9,
+    "id": "msg_6708a6f312342b42d8293fb9bb83a211ba282b4322b7e375234adcfea9cf8c33",
+    "score": 42.60723,
+    "link": "https://github.com/MicrosoftDocs/iis-docs/pull/705",
+    "source": "github",
+    "origin_doc_id": "a39a4e0b6c5b886123f48bb4653ae2db44793944af6346bb73492d046f8ac6ae",
+    "snippet": "@username_0 check the build report\nLine 73: [Warning] Missing alternate text for image 'add/_static/image8.png'. Alt text is required for accessibility."
+  },
+  {
+    "rank": 10,
+    "id": "msg_bbe3a25b1bfed726574158c058cc1f144c25796414508bab23898ca3076baec6",
+    "score": 42.50651,
+    "link": "https://github.com/jetstack/cert-manager/issues/3621",
+    "source": "github",
+    "origin_doc_id": "ea8dc292aa9cd5ba5240b873486381dc9640853b9d4fcafe3829b1bd8baf718f",
+    "snippet": "I0201 13:26:43.055384       1 dns.go:88] cert-manager/controller/challenges/Present \"msg\"=\"presenting DNS01 challenge for domain\" \"dnsName\"=\"example.com\" \"domain\"=\"example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-1248869452\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\" \n I0201 13:26:43.244697       1 dns.go:88] cert-manager/controller/challenges/Present \"msg\"=\"presenting DNS01 challenge for domain\" \"dnsName\"=\"fr.example.com\" \"domain\"=\"fr.example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-944767628\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\" \n E0201 13:26:43.381175       1 sync.go:183] cert-manager/controller/challenges \"msg\"=\"propagation check failed\" \"error\"=\"DNS record for \\\"fr.example.com\\\" not yet propagated\" \"dnsName\"=\"fr.example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-944767628\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\" \nI0201 13:26:43.437643       1 dns.go:88] cert-manager/controller/challenges/Present \"msg\"=\"presenting DNS01 challenge for domain\" \"dnsName\"=\"en.example.com\" \"domain\"=\"en.example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-3519286795\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\"\nE0201 13:26:43.500804       1 sync.go:183] cert-manager/controller/challenges \"msg\"=\"propagation check failed\" \"error\"=\"DNS record for \\\"en.example.com\\\" not yet propagated\" \"dnsName\"=\"en.example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-3519286795\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\"\nI0201 13:26:44.236983       1 dns.go:88] cert-manager/controller/challenges/Present \"msg\"=\"presenting DNS01 challenge for domain\" \"dnsName\"=\"m.example.com\" \"domain\"=\"m.example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-850825827\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\"\nE0201 13:26:44.320875       1 sync.go:183] cert-manager/controller/challenges \"msg\"=\"propagation check failed\" \"error\"=\"DNS record for \\\"m.example.com\\\" not yet propagated\" \"dnsName\"=\"m.example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-850825827\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\"\nE0201 13:26:44.485792       1 sync.go:183] cert-manager/controller/challenges \"msg\"=\"propagation check failed\" \"error\"=\"DNS record for \\\"m.example.com\\\" not yet propagated\" \"dnsName\"=\"m.example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-850825827\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\"\nE0201 13:26:53.395237       1 sync.go:183] cert-manager/controller/challenges \"msg\"=\"propagation check failed\" \"error\"=\"DNS record for \\\"fr.example.com\\\" not yet propagated\" \"dnsName\"=\"fr.example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-944767628\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\"\nE0201 13:26:53.584310       1 sync.go:183] cert-manager/controller/challenges \"msg\"=\"propagation check failed\" \"error\"=\"DNS record for \\\"en.example.com\\\" not yet propagated\" \"dnsName\"=\"en.example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-3519286795\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\"\nE0201 13:27:03.436626       1 sync.go:183] cert-manager/controller/challenges \"msg\"=\"propagation check failed\" \"error\"=\"DNS record for \\\"fr.example.com\\\" not yet propagated\" \"dnsName\"=\"fr.example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-944767628\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\"\nE0201 13:27:03.596951       1 sync.go:183] cert-manager/controller/challenges \"msg\"=\"propagation check failed\" \"error\"=\"DNS record for \\\"en.example.com\\\" not yet propagated\" \"dnsName\"=\"en.example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-3519286795\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\"\nE0201 13:27:13.473579       1 sync.go:183] cert-manager/controller/challenges \"msg\"=\"propagation check failed\" \"error\"=\"DNS record for \\\"fr.example.com\\\" not yet propagated\" \"dnsName\"=\"fr.example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-944767628\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\"\nE0201 13:27:13.612384       1 sync.go:183] cert-manager/controller/challenges \"msg\"=\"propagation check failed\" \"error\"=\"DNS record for \\\"en.example.com\\\" not yet propagated\" \"dnsName\"=\"en.example.com\" \"resource_kind\"=\"Challenge\" \"resource_name\"=\"example.com-w9l4t-809547840-3519286795\" \"resource_namespace\"=\"my-namespace\" \"resource_version\"=\"v1\" \"type\"=\"DNS-01\" \n E0201 13:27:23.620107       1 sync.go:183] cert-manager/controller/challenges \"msg\"=\"propagation check failed\"  \n [...]"
+  }
+]

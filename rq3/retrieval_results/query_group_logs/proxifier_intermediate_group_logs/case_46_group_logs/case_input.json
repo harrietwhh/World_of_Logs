@@ -1,0 +1,33 @@
+{
+  "case_id": "46",
+  "summary_raw": "[\"open through proxy\",\"bytes sent\",\"bytes received\",\"Could not connect through\",\"Proxy server cannot establish a connection\"]",
+  "summary_items": [
+    "open through proxy",
+    "bytes sent",
+    "bytes received",
+    "Could not connect through",
+    "Proxy server cannot establish a connection"
+  ],
+  "group_logs_lines": [
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 20",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 20",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 20",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 20",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 20",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- long.weixin.qq.com : 8080 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 1406 bytes ( 1.37 KB ) sent , 411 bytes received , lifetime 00 : 27",
+    "- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk : 5070 close , 715 bytes sent , 4417 bytes ( 4.31 KB ) received , lifetime 00 : 10"
+  ]
+}

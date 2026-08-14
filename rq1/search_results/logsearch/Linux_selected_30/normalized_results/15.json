@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_fde3515d6fa2dd0133cb889aac1c7868d9cb48bf2ada8395e9c4af11de6f34cf",
+    "score": 38.1839,
+    "link": "https://stackoverflow.com/questions/23869292",
+    "source": "so",
+    "origin_doc_id": "c5bc5dfff4bd1a15925c0a402661977822b93e3fdedd97618f363466d57c2965",
+    "snippet": "2014-05-26T04:02:09+05:30 bx920as1 runuser: pam_unix(runuser-l:session): session closed for user cyrus \n=> \"2014-05-26T04:02:09+05:30 bx920as1 runuser: pam_unix(runuser-l:session): session opened for user cyrus by (uid=0)\","
+  },
+  {
+    "rank": 2,
+    "id": "msg_3fae778b734073501f3a7f9e8c8cb18083108f4f82fe37900b9233e181966b66",
+    "score": 36.98604,
+    "link": "https://stackoverflow.com/questions/23869292",
+    "source": "so",
+    "origin_doc_id": "c5bc5dfff4bd1a15925c0a402661977822b93e3fdedd97618f363466d57c2965",
+    "snippet": "\"2014-05-26T04:02:09+05:30 bx920as1 runuser: pam_unix(runuser-l:session): session closed for user cyrus\","
+  },
+  {
+    "rank": 3,
+    "id": "msg_e93b07cab89a8a3ead05de225b195f112e92b783104b961b8384616024d6b1f0",
+    "score": 31.169222,
+    "link": "https://stackoverflow.com/questions/23869292",
+    "source": "so",
+    "origin_doc_id": "c5bc5dfff4bd1a15925c0a402661977822b93e3fdedd97618f363466d57c2965",
+    "snippet": "\"2014-05-27T03:59:26.773Z\",\n\" session opened for user cyrus by (uid=0)\""
+  },
+  {
+    "rank": 4,
+    "id": "msg_3939d8e5cc5dd4813c91c52aeaeb2c105cd456b33d70beaee589c316d4093663",
+    "score": 30.795227,
+    "link": "https://stackoverflow.com/questions/61694150",
+    "source": "so",
+    "origin_doc_id": "d23b5d86399ae75576e260815715005d1545f893d9b34a056e365b6e9da1bb52",
+    "snippet": "Jun 15 02:04:59 combo sshd(pam_unix)[20897]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root \n ' \n Jun 15 02:04:59 combo sshd(pam_unix)[20898]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root \n ' \n Jun 15 04:06:18 combo su(pam_unix)[21416]: session opened for user cyrus by (uid=0) \n ' \n Jun 15 04:06:19 combo su(pam_unix)[21416]: session closed for user cyrus \n ' \n Jun 15 04:06:20 combo logrotate: ALERT exited abnormally with [1] \n ' \n Jun 15 04:12:42 combo su(pam_unix)[22644]: session opened for user news by (uid=0) \n ' \n Jun 15 04:12:43 combo su(pam_unix)[22644]: session closed for user news \n '"
+  },
+  {
+    "rank": 5,
+    "id": "msg_46499d430c1252f8232ca867a8e323018e56781d71c0527eeadb059767bf30c0",
+    "score": 28.843826,
+    "link": "https://stackoverflow.com/questions/23869292",
+    "source": "so",
+    "origin_doc_id": "c5bc5dfff4bd1a15925c0a402661977822b93e3fdedd97618f363466d57c2965",
+    "snippet": "2014-05-09T04:02:08+05:30 bx920as1 runuser: pam_unix(runuser-l:session): session opened for user cyrus by (uid=0)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_e4820659682347a8d359bf10a85976d5899c25800f964279276b0b897b8915fb",
+    "score": 26.541565,
+    "link": "https://github.com/helloSystem/ISO/issues/115",
+    "source": "github",
+    "origin_doc_id": "826e34e708b1b516d5aa00806f3ded1d206ae6f8203b8880d36521e35b0f5d48",
+    "snippet": "[3/6] Installing cyrus-sasl-2.1.27_1...\npw: user 'cyrus' disappeared during update \n *** Failed to add user `cyrus'. Please add it manually. \n [3/6] Extracting cyrus-sasl-2.1.27_1: 100% \n chown: cyrus: illegal user name \n ``` \n In"
+  },
+  {
+    "rank": 7,
+    "id": "msg_0f82a3265ca96118cadb86d1560003e9737878127a1a166938cac6bb1b5118af",
+    "score": 26.30005,
+    "link": "https://github.com/nstinus/nordvpn/issues/27",
+    "source": "github",
+    "origin_doc_id": "a8b8aa64941ebc4af4cabc735f1fc9585efb6f908ab1f9705a887d117e0cd831",
+    "snippet": "pam_unix(sudo:session): session opened for user root by (uid=0) \n --: pam_unix(sudo:session): session closed for user root \n --: stupidme : TTY=pts/1 ; PWD=/home/stupidme ; USER=root ; COMMAND=/usr/bin/nordvpn\npam_unix(sudo:session): session opened for user root by (uid=0) \n --: pam_unix(sudo:session): session closed for user root"
+  },
+  {
+    "rank": 8,
+    "id": "msg_f0429549a0c51ae6262d959b64d46f1f4eb28f8c8b7b22bce850eaab59524de5",
+    "score": 25.973091,
+    "link": "https://github.com/NixOS/nixpkgs/issues/18390",
+    "source": "github",
+    "origin_doc_id": "b85df3fc6a7bbb800131c8ada0388eb0a043b1995623b85e8088eeca8584e3b8",
+    "snippet": "Jul 15 10:00:00 Larry slim[955]: pam_unix(slim:session): session closed for user rasen \n ... \n Aug 18 11:00:00 Larry slim[1022]: pam_unix(slim:session): session closed for user rasen \n ...\nSep 07 11:00:00 Larry slim[1006]: pam_unix(slim:session): session closed for user rasen"
+  },
+  {
+    "rank": 9,
+    "id": "msg_7cecd0c2f4c8720c99931cba4793a0c8d636eac789ce549ba9f60d545f2f6af2",
+    "score": 25.742384,
+    "link": "https://github.com/Yelp/kafka-utils/issues/239",
+    "source": "github",
+    "origin_doc_id": "4d0c9264bfcb83bf304e454aec790bc1b5cacb0910b28a31b7486b5264edc32d",
+    "snippet": "session closed for user"
+  },
+  {
+    "rank": 10,
+    "id": "msg_6282f415920970c93ecd0f685a7ceb8caf7226ac21c51e56c28542cc453d8049",
+    "score": 25.72729,
+    "link": "https://github.com/luisiam/homebridge-cmdswitch2/issues/60",
+    "source": "github",
+    "origin_doc_id": "a213ba665f098e8f2654e88bce5a195c55ff1190701462ef3d72e5bb3f313ca4",
+    "snippet": "pam_unix(sudo:session): session opened for user root by (uid=0) \n pam_unix(sudo:session): session closed for user root \n homebridge : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/bin/lsblk \n pam_unix(sudo:session): session opened for user root by (uid=0) \n pam_unix(sudo:session): session closed for user root \n homebridge : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/bin/ps4-waker search"
+  }
+]

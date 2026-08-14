@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_a82d9b5d1304473f5a4d7aefcbb5c22deada6bdb6a411af9eabc383b5f7be4aa",
+    "score": 296.72668,
+    "link": "https://github.com/IBM-Swift/Kitura-net/pull/1",
+    "source": "github",
+    "origin_doc_id": "9505962b1b3c3489ee221eaa5549780b7a038c937c44c0593b5998a9b6fbf6db",
+    "snippet": "No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval' \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>' \n ```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_652f00e0c775b3cb962fe916922a027414125ab24e13fb0702ee3ed24debf4d4",
+    "score": 281.1659,
+    "link": "https://github.com/hapijs/university/pull/170",
+    "source": "github",
+    "origin_doc_id": "e4eb959bfd67386ed0bc82169a46064ed08d68ef225664f6158516edd351fa7e",
+    "snippet": "rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval' \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>' \n (See full trace by running task with --trace)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_d622733ec0b0624615decba87cae8fc78ddf175e3c5aaa815df4da43492b056a",
+    "score": 281.1659,
+    "link": "https://github.com/rtrlib/rtrlib/pull/45",
+    "source": "github",
+    "origin_doc_id": "8a6b546f201abcdea341287b0f1e8e9df9a520a1bf002a980b75b0b9f8cfcf46",
+    "snippet": "``` \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval' \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>' \n (See full trace by running task with --trace) \n ```"
+  },
+  {
+    "rank": 4,
+    "id": "msg_42706c1745ce1919a508a90d6248b17a05a514cf485780a270573332754fc941",
+    "score": 277.93365,
+    "link": "https://github.com/fossasia/susi_android/pull/4",
+    "source": "github",
+    "origin_doc_id": "54c793ffb1f34fe4dc39f6269d06f76a7e382ce61a91912de74932e0022d0fe9",
+    "snippet": "$ rake \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval' \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>' \n (See full trace by running task with --trace)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_01b6093f40404ea18695808beaedf78b9aa4c53b717522cea218cf59f9fccfe6",
+    "score": 271.69327,
+    "link": "https://github.com/yahoo/kafka-manager/pull/22",
+    "source": "github",
+    "origin_doc_id": "ec8b8797a4cece037b78fc858d8a3792e824013bf93d77426464a34f1e205ff3",
+    "snippet": "$ rake \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval' \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>' \n (See full trace by running task with --trace) \n The command \"rake\" exited"
+  },
+  {
+    "rank": 6,
+    "id": "msg_637fd39cd8e697c689d3ec7b269aef2bf427130abd7e486a103dffc329cd8cc1",
+    "score": 268.67987,
+    "link": "https://stackoverflow.com/questions/32064862",
+    "source": "so",
+    "origin_doc_id": "b52a7b594777b20797f97c504507e82230394424d368a70762ee170591f03a2b",
+    "snippet": "$ rake \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval' \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>' \n (See full trace by running task with --trace) \n The command \"rake\" exited with 1."
+  },
+  {
+    "rank": 7,
+    "id": "msg_f60389b33273f559fdea4971a928e3832e078818a2d6a7332a00049b71eb4e82",
+    "score": 268.67987,
+    "link": "https://github.com/crosswalk-project/crosswalk-android-extensions/pull/32",
+    "source": "github",
+    "origin_doc_id": "98a19cc38c7793bb0452f2aea39fb1ae750d1a02d10b9a3b8091185445291b0a",
+    "snippet": "$ rake \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval' \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>' \n (See full trace by running task with --trace) \n The command \"rake\" exited with 1."
+  },
+  {
+    "rank": 8,
+    "id": "msg_4d86e7cc1efed26ed47c9079e861047f7c85f52b06052ddd07a3644f1327ac60",
+    "score": 268.67987,
+    "link": "https://github.com/karma-runner/karma-firefox-launcher/issues/48",
+    "source": "github",
+    "origin_doc_id": "c5c1ca6792fa350b9146088dfe277711189bb8bb4164b856305eaa6fa3197cf0",
+    "snippet": "0.11s$ rake \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval' \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>' \n (See full trace by running task with --trace) \n The command \"rake\" exited with 1."
+  },
+  {
+    "rank": 9,
+    "id": "msg_7b6327e9363c8de74c9267d0c54d257d60a0897ddb90a44302c5ccc3b0d647ca",
+    "score": 268.67987,
+    "link": "https://github.com/craffel/mir_eval/issues/126",
+    "source": "github",
+    "origin_doc_id": "5e96439b807a2b67ad2342cc46310390dad4a1d797e3da48cce34c4072c38b85",
+    "snippet": "$ rake \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval' \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>' \n (See full trace by running task with --trace) \n The command \"rake\" exited with 1."
+  },
+  {
+    "rank": 10,
+    "id": "msg_3625b248f0bf9238a271ca15f694db393665dc006da7af42b495ede34c4fd91d",
+    "score": 268.67987,
+    "link": "https://github.com/lcnetdev/marc2bibframe2/pull/5",
+    "source": "github",
+    "origin_doc_id": "70e77e32f0190b8165faa8d8d27a0a5503d86a0dbf047b3da15ed58f39c3d887",
+    "snippet": "0.09s$ rake \n rake aborted! \n No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb) \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval' \n /home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>' \n (See full trace by running task with --trace) \n The command \"rake\" exited with 1. \n ```"
+  }
+]

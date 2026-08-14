@@ -1,0 +1,25 @@
+{
+  "mode": "csv_case",
+  "case_id": "80",
+  "query_source": "group_logs",
+  "query_count": 5,
+  "queries": [
+    "*64 - ss.bdimg.com: 80 open through proxy proxy.cse.cuhk.edu.hk: 5070 HTTPS",
+    "*64 - suggestion.baidu.com: 80 open through proxy proxy.cse.cuhk.edu.hk: 5070 HTTPS",
+    "*64 - sclick.baidu.com: 80 open through proxy proxy.cse.cuhk.edu.hk: 5070 HTTPS",
+    "*64 - sestat.baidu.com: 80 open through proxy proxy.cse.cuhk.edu.hk: 5070 HTTPS",
+    "*64 - c.baidu.com: 80 open through proxy proxy.cse.cuhk.edu.hk: 5070 HTTPS"
+  ],
+  "log_message": "",
+  "cases_csv": "data/Proxifier.csv",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 8,
+  "retrieved_candidate_count": 8,
+  "output_dir": "proxifier_intermediate_group_logs/case_80_group_logs",
+  "generated_at_utc": "2026-03-23T00:51:39.714981+00:00"
+}

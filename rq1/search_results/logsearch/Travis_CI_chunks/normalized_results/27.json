@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_3822fbe3f9331fe3841c0746194f46d81a1eee20359e3f0d98f3ffee9662bcf3",
+    "score": 147.429,
+    "link": "https://github.com/parse-community/ParseLiveQuery-iOS-OSX/pull/175",
+    "source": "github",
+    "origin_doc_id": "ddf5a246983f3712d2941e6d11a83888e9537487adf7376ed00a9861fa8a2431",
+    "snippet": "`xcodebuild: error: Unable to find a destination matching the provided destination specifier: \n { platform:tvOS Simulator, name:Apple TV 1080p }` \n No OS version specified."
+  },
+  {
+    "rank": 2,
+    "id": "msg_27380926d94064c3a2fd1efdfba4fdc6a7256dceabde598b05cd90327363cedf",
+    "score": 139.12584,
+    "link": "https://github.com/optimizely/objective-c-sdk/pull/140",
+    "source": "github",
+    "origin_doc_id": "8c558f9f609837f5b94ed419fe50284cb1b7f323c765a34d5f58724e14792421",
+    "snippet": "xcodebuild: error: Unable to find a destination matching the provided destination specifier: \n \t\t{ platform:tvOS Simulator, OS:10.2, name:Apple TV 1080p } \n \tThe requested device could not be found because no available devices matched the request. \n \tAvailable destinations for the \"OptimizelySDKTVOS-Universal\" scheme: \n \t\t{ platform:tvOS Simulator, id:2FCBFEBA-910F-4BBA-B357-C48DBC169944, OS:9.0, name:Apple TV 1080p } \n \t\t{ platform:tvOS Simulator, id:86534800-B2FE-41D6-92B9-1689582B744F, OS:9.1, name:Apple TV 1080p } \n \t\t{ platform:tvOS Simulator, id:85AC2440-CEB5-44FF-BD7B-5C4A0F9E4DE1, OS:9.2, name:Apple\nto find a destination matching"
+  },
+  {
+    "rank": 3,
+    "id": "msg_b55cbbd6aa2b946a23f003b99e8f714877fb1bac4d4e6054c1471f404e9bb549",
+    "score": 135.21144,
+    "link": "https://github.com/thoughtbot/Argo/pull/379",
+    "source": "github",
+    "origin_doc_id": "9e3247580cc141a4c8afb6f454bf36b716d33ff12e2a2555cba2495cb1297a33",
+    "snippet": "xcodebuild: error: Unable to find a destination matching the provided destination specifier: \n \t\t{ platform:tvOS Simulator, name:Apple TV 1080p } \n \tThe requested device could not be found because no available devices matched the request."
+  },
+  {
+    "rank": 4,
+    "id": "msg_befad559da115010fc0e5b85a3cbd4692ecf635b6e296aa6417777cbb0bdd8e8",
+    "score": 117.1529,
+    "link": "https://github.com/facebook/WebDriverAgent/issues/195",
+    "source": "github",
+    "origin_doc_id": "dfa3984a548c76e0881540e67d6b88251726d0fa232f3389bad3cfd0b965811d",
+    "snippet": "error: Unable to find a destination matching the provided destination specifier: \n \t\t{ platform:tvOS Simulator, name:Apple TV 1080p } \n \tAvailable destinations for the \"WebDriverAgentRunner\" scheme: \n \t\t{ platform:iOS Simulator, id:E72FA047-A6D3-4022-8ECE-B0A8D5E87239, OS:9.3, name:iPad 2 } \n \t\t{ platform:iOS Simulator, id:382BF112-B13F-409D-9536-EB2057B89C68, OS:9.3, name:iPad"
+  },
+  {
+    "rank": 5,
+    "id": "msg_92fb4e000fbe9cb4fe19225446956dc828dba556ce123a7a1082b00761ebd93c",
+    "score": 102.522606,
+    "link": "https://github.com/justeat/JustLog/issues/72",
+    "source": "github",
+    "origin_doc_id": "14aa0c9b402a4bf1a032c8e3462fb40f95cddc2d7c9373cd2ea6ae75a211e3c3",
+    "snippet": "ONLY_ACTIVE_ARCH = NO \n     SDKROOT = appletvsimulator13.0 \n xcodebuild: error: Unable to find a destination matching the provided destination specifier: \n \t\t{ platform:tvOS Simulator, id:CC888E18-9DDF-4057-A755-B047BED08DBC }"
+  },
+  {
+    "rank": 6,
+    "id": "msg_192755e5ed52429ebb028dcf7502ee8574799f18afbd5f1ea3ae27077f1df627",
+    "score": 100.18633,
+    "link": "https://github.com/bustoutsolutions/siesta/pull/270",
+    "source": "github",
+    "origin_doc_id": "bd37bf111c82a0713c2052c72ef9447276057cf437aa174d2d07c6e0f56b1312",
+    "snippet": "CODE_SIGNING_REQUIRED = NO\n    ONLY_ACTIVE_ARCH = NO \n     SDKROOT = appletvsimulator11.4 \n xcodebuild: error: Unable to find a destination matching the provided destination specifier: \n \t\t{ platform:tvOS Simulator, id:ECE73D0A-02FC-4B82-A5CA-FF2A9EBD7C09 } \n \tIneligible destinations for the \"Nocilla tvOS\" scheme: \n \t\t{ platform:tvOS, id:dvtdevice-DVTiOSDevicePlaceholder-appletvos:placeholder, name:Generic tvOS Device } \n \t\t{ platform:tvOS Simulator, id:dvtdevice-DVTiOSDeviceSimulatorPlaceholder-appletvsimulator:placeholder, name:Generic tvOS Simulator Device } \n ^C \nDavids-Mac-mini:~ woodj$ tail /var/folders/d5/ntx8rq7n05j1_0z1hbk7y09c0000gp/T/carthage-xcodebuild.0f0cUH.log \n     CODE_SIGNING_REQUIRED = NO \n     ONLY_ACTIVE_ARCH = NO \n     SDKROOT = appletvsimulator11.4 \n xcodebuild: error: Unable to find a destination matching the provided destination specifier: \n \t\t{ platform:tvOS Simulator, id:ECE73D0A-02FC-4B82-A5CA-FF2A9EBD7C09 } \n \tIneligible destinations for the \"Nocilla tvOS\" scheme: \n \t\t{ platform:tvOS, id:dvtdevice-DVTiOSDevicePlaceholder-appletvos:placeholder, name:Generic tvOS Device }"
+  },
+  {
+    "rank": 7,
+    "id": "msg_75e22f8bec603ca310437187ddc60cc398b1a5293ed26cecf0600dc095ec8a72",
+    "score": 99.334076,
+    "link": "https://github.com/RxSwiftCommunity/RxOptional/pull/42",
+    "source": "github",
+    "origin_doc_id": "e536aa31ef198848513631b210a6ccb86a17b982562453ab90fc2a9344223324",
+    "snippet": "xcodebuild: error: Unable to find a destination matching the provided destination specifier: \n \t\t{ platform:tvOS Simulator, id:85FA5145-3876-405C-AFDB-BF48B93C5FE7 } \n \tIneligible destinations for the \"RxOptional tvOS\" scheme: \n \t\t{ platform:tvOS, id:dvtdevice-DVTiOSDevicePlaceholder-appletvos:placeholder, name:Generic tvOS Device } \n \t\t{ platform:tvOS Simulator, id:dvtdevice-DVTiOSDeviceSimulatorPlaceholder-appletvsimulator:placeholder, name:Generic tvOS Simulator Device }"
+  },
+  {
+    "rank": 8,
+    "id": "msg_8872fbf00d865623ee139c85aaa7ef46146aa430a5d780948736d7306bb256f7",
+    "score": 99.334076,
+    "link": "https://github.com/pixelglow/ZipZap/issues/172",
+    "source": "github",
+    "origin_doc_id": "79b8fbc77ec123b35777d313cc2226e060dcc10cfa077b60a0e4877dfb147627",
+    "snippet": "xcodebuild: error: Unable to find a destination matching the provided destination specifier: \n \t\t{ platform:tvOS Simulator, id:BD6947F6-C0D6-43C0-B35A-30C3F83A48CE } \n \tIneligible destinations for the \"ZipZap (tvOS Framework)\" scheme: \n \t\t{ platform:tvOS, id:dvtdevice-DVTiOSDevicePlaceholder-appletvos:placeholder, name:Generic tvOS Device } \n \t\t{ platform:tvOS Simulator, id:dvtdevice-DVTiOSDeviceSimulatorPlaceholder-appletvsimulator:placeholder, name:Generic tvOS Simulator Device }```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_01b57c168da336d88ea4a2d6793cb4bd5db3e5a3110eb1eb6998c2b79c606c87",
+    "score": 99.334076,
+    "link": "https://github.com/lexrus/LTMorphingLabel/issues/96",
+    "source": "github",
+    "origin_doc_id": "74c78b1edca32f6f496479bc4478cfa33168b9c3b5ad37b5f8865c6fe071ad9d",
+    "snippet": "xcodebuild: error: Unable to find a destination matching the provided destination specifier: \n \t\t{ platform:tvOS Simulator, id:0DC55632-4F7A-43B0-B083-C0BF814537A8 } \n \tIneligible destinations for the \"LTMorphingLabel_tvOS\" scheme: \n \t\t{ platform:tvOS, id:dvtdevice-DVTiOSDevicePlaceholder-appletvos:placeholder, name:Generic tvOS Device } \n \t\t{ platform:tvOS Simulator, id:dvtdevice-DVTiOSDeviceSimulatorPlaceholder-appletvsimulator:placeholder, name:Generic tvOS Simulator Device }"
+  },
+  {
+    "rank": 10,
+    "id": "msg_f2807b7cea12e87ea8c54841c2ede4c30b0c1adddbc98cb1efc12ee55eefc356",
+    "score": 95.06245,
+    "link": "https://github.com/PureLayout/PureLayout/issues/200",
+    "source": "github",
+    "origin_doc_id": "49eb0553a045f203bb1054e9c47d8368b7880d55ec37356458aaee5911f440a8",
+    "snippet": "Compile PureLayout using Carthage, tvOS failed to compile. \n xcodebuild: error: Unable to find a destination matching the provided destination specifier: \n \t\t{ platform:tvOS Simulator, id:0BE51815-BA3D-4AA6-BBAB-3612618ECA7B } \n \tIneligible destinations for the \"PureLayout_tvOS\" scheme: \n \t\t{ platform:tvOS, id:dvtdevice-DVTiOSDevicePlaceholder-appletvos:placeholder, name:Generic tvOS Device } \n \t\t{ platform:tvOS Simulator, id:dvtdevice-DVTiOSDeviceSimulatorPlaceholder-appletvsimulator:placeholder, name:Generic tvOS Simulator Device }"
+  }
+]

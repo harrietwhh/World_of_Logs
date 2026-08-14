@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_a98936fcbad64c567f947c4d97e909feb88d3251269ad6a2d3cc2963e858ef0f",
+    "score": 45.35677,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:27,712 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Adding job token for job_1468834620182_0036 to jobTokenSecretManager"
+  },
+  {
+    "rank": 2,
+    "id": "msg_c8902d1a4ad1b845aa0a8b933cbdae1682d63ff923b1c59aa511f6529b5cd59a",
+    "score": 45.35677,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,733 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Adding job token for job_1564159650361_0001 to jobTokenSecretManager"
+  },
+  {
+    "rank": 3,
+    "id": "msg_1399c3d20c73e0b523c752a657d6e57abb51f2aea671b099bdc4b614041f5327",
+    "score": 45.35677,
+    "link": "https://stackoverflow.com/questions/29075106",
+    "source": "so",
+    "origin_doc_id": "8804889924d3bb86586e2b967059d726e1328690ac16880f1a3ffbd69e9b1e96",
+    "snippet": "2015-03-16 11:46:53,320 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Adding job token for job_1426498753001_0001 to jobTokenSecretManager"
+  },
+  {
+    "rank": 4,
+    "id": "msg_6ffe45c1e8b8a9931ffc3fb2f0a5f55db119f19218ce4acd5868d2595c25dd3a",
+    "score": 45.35677,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:25,362 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Adding job token for job_1428324095255_0006 to jobTokenSecretManager"
+  },
+  {
+    "rank": 5,
+    "id": "msg_97bd25ff266d6cce05c2358f4c0dd36587ce07a59bb55c9cce0ae97b768a9cb8",
+    "score": 45.35677,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:55,465 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Adding job token for job_1492953411349_0001 to jobTokenSecretManager"
+  },
+  {
+    "rank": 6,
+    "id": "msg_401cee125f4e6673d6340edaa7e43f88517c244cd5f4cc66fade2e8eca34833f",
+    "score": 45.35677,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:41,787 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Adding job token for job_1493117927548_0001 to jobTokenSecretManager"
+  },
+  {
+    "rank": 7,
+    "id": "msg_b924360d5b085b15b8186d6e55bc64f56fa30771174efa3e9d3e3e31307ee5bb",
+    "score": 45.35677,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:55,216 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Adding job token for job_1458608803637_0005 to jobTokenSecretManager"
+  },
+  {
+    "rank": 8,
+    "id": "msg_c7c128b935c23b5c87a06cb6093f82db12425859c0e24700b2ee72bbe74a8010",
+    "score": 45.35677,
+    "link": "https://github.com/crs4/pydoop/issues/154",
+    "source": "github",
+    "origin_doc_id": "10efddefd4b8ea3b9e1d5f97d32e75c0c8263a8a5bd3426f0ec9092de77cc2f8",
+    "snippet": "2015-07-17 00:16:27,701 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Adding job token for job_1437076532675_0007 to jobTokenSecretManager"
+  },
+  {
+    "rank": 9,
+    "id": "msg_6366b8ad0c354d3d976213931d0517d349c802cb961a2ae0db2b19a4664ae103",
+    "score": 45.35677,
+    "link": "https://stackoverflow.com/questions/55002784",
+    "source": "so",
+    "origin_doc_id": "e8e20a6c6f892c147364299354b5fa2595b903d67ff4378479a9b9f819256425",
+    "snippet": "2019-03-05 14:56:06,683 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Adding job token for job_1551420856137_58235 to jobTokenSecretManager"
+  },
+  {
+    "rank": 10,
+    "id": "msg_ec4cd3cdeb0355a51086f65e912cf32b9901bd4f670c4c136bfb46e090de8b6c",
+    "score": 45.35677,
+    "link": "https://stackoverflow.com/questions/49366285",
+    "source": "so",
+    "origin_doc_id": "bab7bd228140fbee7bf887a8ad9a2638f1894ba5dc8341321ccb79ce6cd0cf96",
+    "snippet": "2018-03-20 18:52:35,035 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Adding job token for job_1518685780617_47486 to jobTokenSecretManager"
+  }
+]

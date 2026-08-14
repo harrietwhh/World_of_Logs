@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_56930349099d28e13ae2bbfb63b06392fd8eafd17496a030a95e8e9e997b0cb5",
+    "score": 44.125572,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2486",
+    "source": "jira",
+    "origin_doc_id": "c8c3efe183c5fb3293b172ecd9fc8b81c662467c213cea859797c277ba6cad64",
+    "snippet": "2016-07-21 08:11:45,729 [myid:] - INFO  [main:QuorumBase@69] - QuorumBase.setup null"
+  },
+  {
+    "rank": 2,
+    "id": "msg_4917d658a1e487c69f92c6981db7a0904b191dbe0a50de9eb6309723a0b0b296",
+    "score": 28.697067,
+    "link": "https://stackoverflow.com/questions/78216053",
+    "source": "so",
+    "origin_doc_id": "c8fe2e1ed3fa5fb422cec68e1e13e4c1f8874e09ab85b458cec3fba177839317",
+    "snippet": "2024-03-24 22:25:03.850:INFO :oejs.Server:main: Started oejs.Server@6853425f{STARTING}[12.0.5,sto=0] @1184ms\nMar 24, 2024 8:25:03 PM com.google.appengine.tools.development.AbstractModule startup\nINFO: Module instance default is running at http://localhost:8080/\nMar 24, 2024 8:25:03 PM com.google.appengine.tools.development.AbstractModule startup\nINFO: The admin console is running at http://localhost:8080/_ah/admin\nMar 24, 2024 10:25:03 PM com.google.appengine.tools.development.DevAppServerImpl doStart\nINFO: Dev App Server is now running\nMar 24, 2024 10:26:35 PM com.google.appengine.tools.development.jetty.DevAppEngineWebAppContext disableTransportGuarantee\nINFO: Ignoring <transport-guarantee> for /* as the SDK does not support HTTPS.  It will still be used when you upload your application."
+  },
+  {
+    "rank": 3,
+    "id": "msg_9a3d398d17a0bccb47d3979a3b139dcbf03997a66c59841ab35cf9e1c6440eee",
+    "score": 28.027794,
+    "link": "https://stackoverflow.com/questions/56792929",
+    "source": "so",
+    "origin_doc_id": "86ab37a9f0dcbc4e66a19204890fae277bad5a2d90043364b2241b3685f2cbbf",
+    "snippet": "2019-07-03 09:43:33,600 [myid:3] - INFO  \n  [QuorumPeer[myid=3]/0.0.0.0:2181:Follower@65] - FOLLOWING - LEADER ELECTION TOOK - 25"
+  },
+  {
+    "rank": 4,
+    "id": "msg_0f12a4a44c993728921d15f35bacb65f59e94a6519c74e76a52c068c95c5803c",
+    "score": 28.019344,
+    "link": "https://github.com/maliceio/malice/issues/57",
+    "source": "github",
+    "origin_doc_id": "9c4fc6e46407fa3e5429d640d8e69426fe594771472c70fd49671565276b104c",
+    "snippet": "[2017-09-04T21:27:22,979][INFO ][o.e.c.m.MetaDataMappingService] [QlovV87] [malice/-ieUW2hxQrOK15YiUOOdDA] update_mapping [samples]"
+  },
+  {
+    "rank": 5,
+    "id": "msg_e658f01342fe59a3562691e9e4331eb22d231f837ba66b3e55be9306d27b5e22",
+    "score": 27.96718,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2766",
+    "source": "jira",
+    "origin_doc_id": "98776a0854d7f3ec0697278dd414c814a9ad0b4f7a9f6ba5e806c85d0b199e45",
+    "snippet": "2017-04-25 09:24:02,822 [myid:1] - INFO  [WorkerSender[myid=1]:QuorumCnxManager@278] - Have smaller server identifier, so dropping the connection: (3, 1)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_23180f6af557d55c974823dfab91ce0f54317f6b64eb5f4e15dda5059101a1a8",
+    "score": 27.509682,
+    "link": "https://stackoverflow.com/questions/78216053",
+    "source": "so",
+    "origin_doc_id": "c8fe2e1ed3fa5fb422cec68e1e13e4c1f8874e09ab85b458cec3fba177839317",
+    "snippet": "2024-03-24 22:25:03.675:INFO :oejs.DefaultSessionIdManager:main: Session workerName=node0"
+  },
+  {
+    "rank": 7,
+    "id": "msg_aa1ebcf6867c8855488805746e52c666a5894d35e250d10b240360f1e94fcc5b",
+    "score": 27.473957,
+    "link": "https://stackoverflow.com/questions/78721566",
+    "source": "so",
+    "origin_doc_id": "04f5821d82402c98349e60b8006ba755a1547ac66709350d6e4478da3ceba5e3",
+    "snippet": "2024-07-08 16:24:35,019 INFO  [stdout] (pool-25-thread-1) java.nio.channels.ClosedChannelException: null"
+  },
+  {
+    "rank": 8,
+    "id": "msg_d59921b006e853ed306735ddbb97ec360c8302d083a95e8849007bd73888524b",
+    "score": 27.31706,
+    "link": "https://stackoverflow.com/questions/49531315",
+    "source": "so",
+    "origin_doc_id": "b3a121e883f5ab9dde386afe85b3a432838ecdb5a65f84fab0198fdf08f99352",
+    "snippet": "| 2018-03-28 09:05:34,828 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37638 \n zookeeper_1      | 2018-03-28 09:05:34,829 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null \n zookeeper_1      | 2018-03-28 09:05:34,829 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37638 (no session established for client) \n zookeeper_1      | 2018-03-28 09:05:35,689 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37640 \n zookeeper_1      | 2018-03-28 09:05:35,692 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null \nzookeeper_1      | 2018-03-28 09:05:35,693 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37640 (no session established for client)\nzookeeper_1      | 2018-03-28 09:05:36,772 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37642\nzookeeper_1      | 2018-03-28 09:05:36,773 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null\nzookeeper_1      | 2018-03-28 09:05:36,773 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37642 (no session established for client)\nzookeeper_1      | 2018-03-28 09:05:37,772 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37644\nzookeeper_1      | 2018-03-28 09:05:37,773 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null\nzookeeper_1      | 2018-03-28 09:05:37,773 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37644 (no session established for client)\nzookeeper_1      | 2018-03-28 09:05:38,877 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37646\nzookeeper_1      | 2018-03-28 09:05:38,880 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null\nzookeeper_1      | 2018-03-28 09:05:38,880 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37646 (no session established for client)\nzookeeper_1      | 2018-03-28 09:05:40,061 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37648\nzookeeper_1      | 2018-03-28 09:05:40,062 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null\nzookeeper_1      | 2018-03-28 09:05:40,062 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37648 (no session established for client)\nzookeeper_1      | 2018-03-28 09:05:41,017 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37650\nzookeeper_1      | 2018-03-28 09:05:41,019 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null\nzookeeper_1      | 2018-03-28 09:05:41,019 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37650 (no session established for client)\n \n I have not been able to find any answers online regarding this error. I hope someone can help me solve this."
+  },
+  {
+    "rank": 9,
+    "id": "msg_b1b6e3b7cdb7c5cedd7de2b069a7edbc5c3d687a4bb9d1a960db782d38f94896",
+    "score": 27.26521,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2766",
+    "source": "jira",
+    "origin_doc_id": "98776a0854d7f3ec0697278dd414c814a9ad0b4f7a9f6ba5e806c85d0b199e45",
+    "snippet": "2017-04-25 09:24:02,806 [myid:1] - INFO  [QuorumPeer[myid=1](plain=/0:0:0:0:0:0:0:0:2181)(secure=disabled):QuorumPeer@1055] - LOOKING"
+  },
+  {
+    "rank": 10,
+    "id": "msg_ecfa362112a0670ffff02ebdf16a56a011bda2085f120558ec007a8e3e818acf",
+    "score": 27.220366,
+    "link": "https://stackoverflow.com/questions/78692819",
+    "source": "so",
+    "origin_doc_id": "3038639109813f3aad349bd8ec3f772c9adf1c9190733033687692a8b28c6fda",
+    "snippet": "2024-07-01 09:14:28,657 [myid:2] - INFO  [QuorumConnectionThread-[myid=2]-14:SaslQuorumServerCallbackHandler@143] - Successfully authenticated learner: authenticationID=learner;  authorizationID=learner."
+  }
+]

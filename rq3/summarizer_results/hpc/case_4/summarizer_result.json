@@ -1,0 +1,7 @@
+{
+  "case_id": "4",
+  "case_input": "retrieval_results/query_group_logs/hpc_intermediate_group_logs/case_4_group_logs/case_input.json",
+  "retrieved_candidates": "retrieval_results/query_group_logs/hpc_intermediate_group_logs/case_4_group_logs/retrieved_candidates.json",
+  "response": "Filtered Relevant Items:\n1. [1] C child-process command runner that reports “completed successfully” after `execv`.\n2. [2] C discussion about waiting for all child commands before reporting completion.\n3. [3] C `execvp` discussion covering child exit-status handling and successful command reporting.\n\nExternal Knowledge Summary:\n- Command completion should be determined from the child process status returned by `wait()` or `waitpid()`.\n- A normal exit with status 0 indicates success; nonzero exit status, execution failure, or signal termination indicates failure.\n- For concurrent commands, fork all children first, then wait for them; PID-to-command tracking is needed to associate each completion with its command.",
+  "external_knowledge_summary": "- Command completion should be determined from the child process status returned by `wait()` or `waitpid()`.\n- A normal exit with status 0 indicates success; nonzero exit status, execution failure, or signal termination indicates failure.\n- For concurrent commands, fork all children first, then wait for them; PID-to-command tracking is needed to associate each completion with its command."
+}

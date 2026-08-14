@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_6d30e9445930ee67435fe33f4a8e0caaa20b72bce171a1ebfe8ac03497dd833e",
+    "score": 36.604248,
+    "link": "https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql/issues/263",
+    "source": "github",
+    "origin_doc_id": "99f2e6d706a8545ec115e224eea8454015b2ea43a31cc552fb7453da295148d1",
+    "snippet": "Referenced table 'division' is not in dictionary because table name is \"Division\"."
+  },
+  {
+    "rank": 2,
+    "id": "msg_6aa57f6af92a875012fc4d3cbd0fd9e4550f207beff0e23315ec184a8718336a",
+    "score": 35.88282,
+    "link": "https://issues.apache.org/jira/browse/ACCUMULO-4362",
+    "source": "jira",
+    "origin_doc_id": "2176f4b376875550e785f8a81d845e84d8e2a36228cd06a4c54dbd721f909bd5",
+    "snippet": "log.debug(\"Tablets merged in table \" + srcTableId + \" while attempting to clone, trying again\"); \n +"
+  },
+  {
+    "rank": 3,
+    "id": "msg_c77df33839392917f05a2f80aa52d0d88bf267c366776af9801074f3fed43c8d",
+    "score": 35.46955,
+    "link": "https://issues.apache.org/jira/browse/ACCUMULO-4362",
+    "source": "jira",
+    "origin_doc_id": "2176f4b376875550e785f8a81d845e84d8e2a36228cd06a4c54dbd721f909bd5",
+    "snippet": "log.debug(\"Tablets merged in table \" + srcTableId + \" while attempting to clone, trying again\", tde);"
+  },
+  {
+    "rank": 4,
+    "id": "msg_2cb9131674c2d85b8c18d7ca60771c518d2e8b6235a1864b900bb4629b5cc6d8",
+    "score": 35.28912,
+    "link": "https://issues.apache.org/jira/browse/FLINK-14861",
+    "source": "jira",
+    "origin_doc_id": "a8319609905d7be1b950d4d83431af1c509ad0a91cfce37bea51f622a1faa632",
+    "snippet": "LOG.debug(\"User parallelism is set to {}\", userParallelism);"
+  },
+  {
+    "rank": 5,
+    "id": "msg_ec848dd9632c1d84c852fda09bf9760699cd2c2c80228a17d7cca3511aa9aef2",
+    "score": 34.782867,
+    "link": "https://stackoverflow.com/questions/73940198",
+    "source": "so",
+    "origin_doc_id": "d024fa41672075ef29826800d05483daf152fdbc8eb919d800c57e9d98958b9e",
+    "snippet": "[2022-10-03 15:34:25,731] {dag_processing.py:758} WARNING - Because we cannot use more than 1 thread (max_threads = 2) when using sqlite. So we set parallelism to 1."
+  },
+  {
+    "rank": 6,
+    "id": "msg_1d565c9a19134e00e50c3d00a8941a786846d15a7153700cebef95368b836dbb",
+    "score": 34.782867,
+    "link": "https://stackoverflow.com/questions/74258116",
+    "source": "so",
+    "origin_doc_id": "4a2b184f71e1c6015b878955427148fcd41af4d2ced44ab2372b7b66e20e04e9",
+    "snippet": "[2022-10-31T09:46:46.172+0800] {manager.py:409} WARNING - Because we cannot use more than 1 thread (parsing_processes = 2) when using sqlite. So we set parallelism to 1."
+  },
+  {
+    "rank": 7,
+    "id": "msg_66db68a907920844c9af89dae3c613f6fb51aed7b595a02bb0c83ddc53c5c2ce",
+    "score": 34.782867,
+    "link": "https://stackoverflow.com/questions/73513328",
+    "source": "so",
+    "origin_doc_id": "54b94c5e095ba95c99aa1fa232c22204c046959561983279c3d7f67b322771e9",
+    "snippet": "[2022-08-27T16:10:50.567-0500] {manager.py:406} WARNING - Because we cannot use more than 1 thread (parsing_processes = 2) when using sqlite. So we set parallelism to 1."
+  },
+  {
+    "rank": 8,
+    "id": "msg_000bd4165439f4501706b299e46e8e584aee8c82d3f5d6949a0733f9aeee7e25",
+    "score": 34.782867,
+    "link": "https://stackoverflow.com/questions/70066532",
+    "source": "so",
+    "origin_doc_id": "6eb0cd89b64fdd7b0a3543f02b4553b5254d639373228cebf534e8b72592e505",
+    "snippet": "[2021-11-22 13:12:37,178] {manager.py:532} WARNING - Because we cannot use more than 1 thread (parsing_processes = 2 ) when using sqlite. So we set parallelism to 1."
+  },
+  {
+    "rank": 9,
+    "id": "msg_9e84db70e02101995923da9781449f2632788505a6104d829da9dc11664464e0",
+    "score": 34.782867,
+    "link": "https://github.com/apache/airflow/issues/15978",
+    "source": "github",
+    "origin_doc_id": "97bf304e7d5a21419f6407ea1c97b1c99b3f2452a1bcc3ea260e3316925549e7",
+    "snippet": "[2021-07-13 08:57:29,711] {dag_processing.py:532} WARNING - Because we cannot use more than 1 thread (parsing_processes = 2 ) when using sqlite. So we set parallelism to 1."
+  },
+  {
+    "rank": 10,
+    "id": "msg_a599657ab1fa046d790e9086f9e48bb49f9c4d6cebc48eaf743003dfd7b3839d",
+    "score": 34.782867,
+    "link": "https://github.com/apache/airflow/issues/19343",
+    "source": "github",
+    "origin_doc_id": "bcb3cbc5004a2dfabbe233eb6397364469b61d31a25a02007301e98e99892c4c",
+    "snippet": "[2021-11-01 07:08:34,403] {manager.py:434} WARNING - Because we cannot use more than 1 thread (parsing_processes = 2 ) when using sqlite. So we set parallelism to 1."
+  }
+]

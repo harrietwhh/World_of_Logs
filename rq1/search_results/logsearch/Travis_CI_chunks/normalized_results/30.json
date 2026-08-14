@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_41214b52bdc1d15b7c75cb1169f7e7ff132dd617a6327b5abacf83d1054df78d",
+    "score": 486.84784,
+    "link": "https://stackoverflow.com/questions/50075951",
+    "source": "so",
+    "origin_doc_id": "5007797827ef2942583183c6292769d07578195eadea6e713dd6748920db319f",
+    "snippet": "←[;1m←[34m    |←[0m←[0m \n ←[;1m←[34m340 |←[0m←[0m   blah ←[;1m←[31m<-←[0m←[0m blah blah blah \n ←[;1m←[34m    |←[0m←[0m←[;1m←[31m         ^^←[0m←[0m \n ←[0m←[0m←[0m"
+  },
+  {
+    "rank": 2,
+    "id": "msg_386129508a2071bccf79e77afb808eef9fc1f45eaf34fedf37b9fa593c05637b",
+    "score": 468.0486,
+    "link": "https://github.com/TorXakis/text-via-sockets/issues/3",
+    "source": "github",
+    "origin_doc_id": "71f2d44d02ec431972fc10f3305a2fd3a8d9ad39577efdac20023571ab167ee5",
+    "snippet": "To import instances alone, use: import Data.Monoid()←[0m←[0m \n     ←[;1m←[34m   |←[0m←[0m \n     ←[;1m←[34m52 |←[0m←[0m ←[;1m←[31mimport           Data.Monoid←[0m←[0m"
+  },
+  {
+    "rank": 3,
+    "id": "msg_d3ca557772e2c9147ea9246e68f091e74aa065d2cb8fd0f4ddd97c21e4c93a86",
+    "score": 467.09198,
+    "link": "https://github.com/TorXakis/TorXakis/issues/552",
+    "source": "github",
+    "origin_doc_id": "84c1dd4c7d3cda39ed599a762937c903c6c5ac083f8db197d2c67291d49fbd05",
+    "snippet": "[18 of 20] Compiling ValExprImpls     ( src\\ValExprImpls.hs, .stack-work\\dis \n t\\67675594\\build\\ValExprImpls.o ) \n     ←[;1msrc\\ValExprImpls.hs:250:12: ←[;1m←[35mwarning:←[0m←[0m←[;1m [←[;1m←[35m \n -Wsimplifiable-class-constraints←[0m←[0m←[;1m]←[0m←[0m←[;1m \n         * The constraint `Integral (ValExpr v)' \n    ←[;1m←[34m250 |←[0m←[0m cstrSum :: ←[;1m←[35mforall v . (Ord v, Integral (Va\nlExpr v)) => FreeSum (ValExpr v) -> ValExpr v←[0m←[0m\n    ←[;1m←[34m    |←[0m←[0m←[;1m←[35m            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^←[0m←[0m\n    ←[0m←[0m←[0m\n    ←[;1msrc\\ValExprImpls.hs:291:16: ←[;1m←[35mwarning:←[0m←[0m←[;1m [←[;1m←[35m\n-Wsimplifiable-class-constraints←[0m←[0m←[;1m]←[0m←[0m←[;1m\n        * The constraint `Integral (ValExpr v)'\n            matches an instance declaration\n          instance Ord v => Integral (ValExpr v)\n    ←[;1m←[34m    |←[0m←[0m←[;1m←[35m                ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^←[0m←[0m\n    ←[0m←[0m←[0m\n    ←[;1msrc\\ValExprImpls.hs:305:17: ←[;1m←[35mwarning:←[0m←[0m←[;1m [←[;1m←[35m\n-Wsimplifiable-class-constraints←[0m←[0m←[;1m]←[0m←[0m←[;1m\n        * The constraint `Integral (ValExpr v)'\n            matches an instance declaration\n          instance Ord v => Integral (ValExpr v)\n            -- Defined at src\\ValExprDefs.hs:96:10\n          This makes type inference for inner bindings fragile;\n    ←[;1msrc\\ValExprImpls.hs:417:10: ←[;1m←[35mwarning:←[0m←[0m←[;1m [←[;1m←[35m\n-Wsimplifiable-class-constraints←[0m←[0m←[;1m]←[0m←[0m←[;1m\n        * The constraint `Integral (ValExpr v)'\n            matches an instance declaration\n          instance Ord v => Integral (ValExpr v)\n            -- Defined at src\\ValExprDefs.hs:96:10\n          This makes type inference for inner bindings fragile;\n            either use MonoLocalBinds, or simplify it using the instance\n        * In the type signature:\n            subst :: (Variable v,\nxpr w←[0m←[0m\n    ←[;1m←[34m    |←[0m←[0m\n    ←[;1m←[34m461 |←[0m←[0m compSubst' :: ←[;1m←[35m(Variable v, Integral (ValEx\n←[0m←[0mariable w, Integral (ValExpr w))\n    ←[;1m←[34m    |←[0m←[0m←[;1m←[35m               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^...←[0m←[0m\n    ←[0m←[0m←[0m\n    ←[;1m<no location info>: ←[;1m←[31merror:←[0m←[0m←[;1m←[0m←[0m←[;1m\n    Failing due to -Werror.←[0m←[0m\n    ←[0m←[0m←[0m"
+  },
+  {
+    "rank": 4,
+    "id": "msg_2e7de23be982b9d3ac17abdd622633dc87caa94fec43e9b87ed0f2333049d23c",
+    "score": 463.36096,
+    "link": "https://stackoverflow.com/questions/48256095",
+    "source": "so",
+    "origin_doc_id": "4d1b5a20b54d7ad92256bdbd7b93f379928988e05dd325f4aa6e8339baf443e6",
+    "snippet": "do modifyHistory $ addHistoryUnlessConsecutiveDupe\n           pure $ Right line\n      In a case alternative:\n          Just line\n            -> do modifyHistory $ addHistoryUnlessConsecutiveDupe line\n                  pure $ Right line←[0m←[0m\n←[;1m←[34m   |←[0m←[0m\n←[;1m←[34m28 |←[0m←[0m             ←[;1m←[31mpure $ Right line←[0m←[0m\n←[;1m←[34m   |←[0m←[0m←[;1m←[31m             ^^^^^^^^^^^^^^^^^←[0m←[0m\n←[0m←[0m←[0m"
+  },
+  {
+    "rank": 5,
+    "id": "msg_26fcb34801c2ed0d3203899b4d7993739a72f04ddef88fc11731228c1eb4dd2e",
+    "score": 462.14346,
+    "link": "https://github.com/TorXakis/text-via-sockets/issues/3",
+    "source": "github",
+    "origin_doc_id": "71f2d44d02ec431972fc10f3305a2fd3a8d9ad39577efdac20023571ab167ee5",
+    "snippet": "←[;1m←[31merror:←[0m←[0m←[;1m [←[;1m←[31m-Wunus \n mports←[0m←[0m←[;1m]←[0m←[0m←[;1m"
+  },
+  {
+    "rank": 6,
+    "id": "msg_f2186fc717dea983fce85d26911daeef5f3a3dd64bf04f8ef3ec6be4ad403251",
+    "score": 459.47128,
+    "link": "https://github.com/klappvisor/haskell-telegram-api/issues/112",
+    "source": "github",
+    "origin_doc_id": "32bd7ebedfca83b2816a74c68bc0e78911e3af66fc77136cec25513517363ef9",
+    "snippet": "use: import Data.Aeson.Types()\u001b[0m\u001b[0m \n \u001b[;1m\u001b[34m   |\u001b[0m\u001b[0m \n \u001b[;1m\u001b[34m85 |\u001b[0m\u001b[0m \u001b[;1m\u001b[35mimport           Data.Aeson.Types\u001b[0m\u001b[0m \n \u001b[;1m\u001b[34m   |\u001b[0m\u001b[0m\u001b[;1m\u001b[35m ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\u001b[0m\u001b[0m \n \u001b[0m\u001b[0m\u001b[0m\nwith code: ExitFailure (-9) (THIS MAY INDICATE OUT OF MEMORY)"
+  },
+  {
+    "rank": 7,
+    "id": "msg_bf30f6457e373f887090d999446fc8fe744c3c4f09345fb5629316b2a865e5fa",
+    "score": 454.21692,
+    "link": "https://github.com/scalameta/metals/pull/2615",
+    "source": "github",
+    "origin_doc_id": "bceb95bf9b60ecd8a45bacde46246396c621822bc269d41267fa744336c430d4",
+    "snippet": "2021.03.16 21:18:35 ERROR \u001b[31m-- [E007] Type Mismatch Error: /home/piquerez/username_1/pandora/src/main/scala/pandora/Product.scala:43:31 \u001b[0m \n \u001b[31m43 |\u001b[0m    (Term(tags.size, factors), mapping) \n    |                               \u001b[31m^^^^^^^\u001b[0m \n    |   Found:    \u001b[1m\u001b[31m(\u001b[0m\u001b[1m\u001b[31mmapping\u001b[0m\u001b[1m\u001b[31m \u001b[0m\u001b[1m\u001b[31m:\u001b[0m\u001b[1m\u001b[31m \u001b[0mList[List[List[(\u001b[1m\u001b[31mAny\u001b[0m, \u001b[1m\u001b[31mAny\u001b[0m, Int, \u001b[1m\u001b[31mNothing\u001b[0m, \u001b[1m\u001b[31mAny\u001b[0m)]]]\u001b[1m\u001b[31m)\u001b[0m \n    |   Required: List[List[List[(\u001b[1m\u001b[32mInt\u001b[0m, \u001b[1m\u001b[32mInt\u001b[0m, Int, \u001b[1m\u001b[32mInt\u001b[0m, \u001b[1m\u001b[32mInt\u001b[0m)]]]"
+  },
+  {
+    "rank": 8,
+    "id": "msg_b0ae844eee5d5455b0a7b71cf27f78bd4867e005a46ce4853392d51fdd49219c",
+    "score": 454.21692,
+    "link": "https://github.com/scalameta/metals/issues/2621",
+    "source": "github",
+    "origin_doc_id": "cad4cdf2736622239a6a8f511d12b7101fbeed512a2b4120c37c242024e1e67c",
+    "snippet": "2021.03.16 21:18:35 ERROR �[31m-- [E007] Type Mismatch Error: /home/piquerez/username_0/pandora/src/main/scala/pandora/Product.scala:43:31 �[0m \n �[31m43 |�[0m    (Term(tags.size, factors), mapping) \n    |                               �[31m^^^^^^^�[0m \n    |   Found:    �[1m�[31m(�[0m�[1m�[31mmapping�[0m�[1m�[31m �[0m�[1m�[31m:�[0m�[1m�[31m �[0mList[List[List[(�[1m�[31mAny�[0m, �[1m�[31mAny�[0m, Int, �[1m�[31mNothing�[0m, �[1m�[31mAny�[0m)]]]�[1m�[31m)�[0m \n    |   Required: List[List[List[(�[1m�[32mInt�[0m, �[1m�[32mInt�[0m, Int, �[1m�[32mInt�[0m, �[1m�[32mInt�[0m)]]]"
+  },
+  {
+    "rank": 9,
+    "id": "msg_22dacc648242735cc62069ccb2a1bea264304dd54619249b0c7245f6cccf0e7b",
+    "score": 447.69315,
+    "link": "https://github.com/yamadapc/stack-run/issues/12",
+    "source": "github",
+    "origin_doc_id": "9ed029eb71d71a6af92f4486b97124538edc95abe958068d7c998aad87960355",
+    "snippet": "Configuring stack-run-0.1.1.4... \n Preprocessing executable 'stack-run' for stack-run-0.1.1.4.. \n Building executable 'stack-run' for stack-run-0.1.1.4.. \n \u001b[;1munix/System/Console/Questioner.hs:4:14: \u001b[;1m\u001b[35mwarning:\u001b[0m\u001b[0m\u001b[;1m\u001b[0m\u001b[0m\u001b[;1m \n    -XOverlappingInstances is deprecated: instead use per-instance pragmas OVERLAPPING/OVERLAPPABLE/OVERLAPS\u001b[0m\u001b[0m\n\u001b[;1m\u001b[34m  |\u001b[0m\u001b[0m\n\u001b[;1m\u001b[34m4 |\u001b[0m\u001b[0m {-# LANGUAGE \u001b[;1m\u001b[35mOverlappingInstances\u001b[0m\u001b[0m  #-}\n\u001b[;1m\u001b[34m  |\u001b[0m\u001b[0m\u001b[;1m\u001b[35m              ^^^^^^^^^^^^^^^^^^^^\u001b[0m\u001b[0m\n\u001b[0m\u001b[0m\u001b[0m[1 of 5] Compiling System.Console.Questioner.Autocomplete ( unix/System/Console/Questioner/Autocomplete.hs, .stack-work/dist/x86_64-osx/Cabal-2.0.1.0/build/stack-run/stack-run-tmp/System/Console/Questioner/Autocomplete.o )\n[2 of 5] Compiling System.Console.Questioner.Util ( unix/System/Console/Questioner/Util.hs, .stack-work/dist/x86_64-osx/Cabal-2.0.1.0/build/stack-run/stack-run-tmp/System/Console/Questioner/Util.o )\n[3 of 5] Compiling System.Console.Questioner.ProgressIndicators ( unix/System/Console/Questioner/ProgressIndicators.hs, .stack-work/dist/x86_64-osx/Cabal-2.0.1.0/build/stack-run/stack-run-tmp/System/Console/Questioner/ProgressIndicators.o )\n[4 of 5] Compiling System.Console.Questioner ( unix/System/Console/Questioner.hs, .stack-work/dist/x86_64-osx/Cabal-2.0.1.0/build/stack-run/stack-run-tmp/System/Console/Questioner.o )\n[5 of 5] Compiling Main             ( src/Main.hs, .stack-work/dist/x86_64-osx/Cabal-2.0.1.0/build/stack-run/stack-run-tmp/Main.o )\n\u001b[;1msrc/Main.hs:63:15: \u001b[;1m\u001b[31merror:\u001b[0m\u001b[0m\u001b[;1m\u001b[0m\u001b[0m\u001b[;1m\n    • Couldn't match type ‘Distribution.Types.UnqualComponentName.UnqualComponentName’\n                     with ‘[Char]’\n      Expected type: IO String\n        Actual type: IO\n                       Distribution.Types.UnqualComponentName.UnqualComponentName\n    • In the expression: findDefault' pr\n      In a stmt of a 'do' block:\n        if e then\n            readFile (pr </> \".stack-work\" </> \".stack-run-default\")\n\u001b[;1m\u001b[34m   |\u001b[0m\u001b[0m\n\u001b[;1m\u001b[34m63 |\u001b[0m\u001b[0m          else \u001b[;1m\u001b[31mfindDefault' pr\u001b[0m\u001b[0m\n\u001b[;1m\u001b[34m   |\u001b[0m\u001b[0m\u001b[;1m\u001b[31m               ^^^^^^^^^^^^^^^\u001b[0m\u001b[0m\n\u001b[0m\u001b[0m\u001b[0m\n\u001b[;1msrc/Main.hs:84:5: \u001b[;1m\u001b[31merror:\u001b[0m\u001b[0m\u001b[;1m\u001b[0m\u001b[0m\u001b[;1m\n    • Couldn't match type ‘Distribution.Types.UnqualComponentName.UnqualComponentName’\n                     with ‘[Char]’\n      Expected type: IO [String]\n        Actual type: IO\n                       [Distribution.Types.UnqualComponentName.UnqualComponentName]"
+  },
+  {
+    "rank": 10,
+    "id": "msg_af36f1b07ef15db9205739d010cdb4dc265b340b7e772be3f5448fe20d8d9dc0",
+    "score": 445.24213,
+    "link": "https://github.com/redradrat/terraform-provider-kable/issues/2",
+    "source": "github",
+    "origin_doc_id": "012b77c050c24cf17d229ddfcb64d5753e35b387620356bf86ef044d5b86ab99",
+    "snippet": "[1m�[31mError: �[0m�[0m�[1munexpected end of JSON input�[0m \n�[0m�[0m�[0m\n�[31m\n�[1m�[31mError: �[0m�[0m�[1munexpected end of JSON input�[0m\n�[0m�[0m�[0m"
+  }
+]

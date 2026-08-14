@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_a01b0b6bd31c85b1b90476fad524a76eafde872fc57db5c8cc1e41990dc82ba0",
+    "score": 159.56714,
+    "link": "https://github.com/cmusatyalab/faceswap/issues/6",
+    "source": "github",
+    "origin_doc_id": "7aeeeb48b0431e1c0f37dde2c218268eb265b7623fd8a88c8cdaff887a6b1094",
+    "snippet": "2017-11-01 15:28:21 ERROR 404: Not Found. \n + celeb-classifier.nn4.small2.v1.pkl: Error in wget. \n ==================================================== \n Verifying checksums. \n ==================================================== \n + dlib/shape_predictor_68_face_landmarks.dat: successfully checked \n\nmd5sum: openface/celeb-classifier.nn4.small2.v1.pkl: No such file or directory\n/root/sl/faceswap/server/openface-server/models/get-models.sh: line 74: [: 199a2c0d32fd0f22f14ad2d248280475: unary operator expected\n+ ERROR! openface/celeb-classifier.nn4.small2.v1.pkl md5sum did not match.\n  + Expected: 199a2c0d32fd0f22f14ad2d248280475\n  + Actual: \n  + Please manually delete this file and try re-running this script.\n-e launching FaceSwap server at dir /root/sl/faceswap/server\nstart_demo.sh: 29: start_demo.sh: gabriel-control: not found\nstart_demo.sh: 32: start_demo.sh: gabriel-ucomm: not found\nTraceback (most recent call last):\n  File \"/root/sl/faceswap/server/openface-server/cloudlet-demo-openface-server.py\", line 25, in <module>\n    import txaio\nImportError: No module named txaio\nchecking openface server status:\n1\nopenface server has not finished starting. wait for another 20 seconds...\n_"
+  },
+  {
+    "rank": 2,
+    "id": "msg_14a9f6c4a8717e5879043799d2e0562422f888979d4495a21a0a81cdc82a5383",
+    "score": 159.56714,
+    "link": "https://github.com/cmusatyalab/faceswap/issues/6",
+    "source": "github",
+    "origin_doc_id": "7aeeeb48b0431e1c0f37dde2c218268eb265b7623fd8a88c8cdaff887a6b1094",
+    "snippet": "2017-11-01 15:28:21 ERROR 404: Not Found. \n + celeb-classifier.nn4.small2.v1.pkl: Error in wget. \n ==================================================== \n Verifying checksums.\n+ dlib/shape_predictor_68_face_landmarks.dat: successfully checked\n\nmd5sum: openface/celeb-classifier.nn4.small2.v1.pkl: No such file or directory\n/root/sl/faceswap/server/openface-server/models/get-models.sh: line 74: [: 199a2c0d32fd0f22f14ad2d248280475: unary operator expected\n+ ERROR! openface/celeb-classifier.nn4.small2.v1.pkl md5sum did not match.\n  + Expected: 199a2c0d32fd0f22f14ad2d248280475\n  + Actual: \n  + Please manually delete this file and try re-running this script.\n-e launching FaceSwap server at dir /root/sl/faceswap/server\nstart_demo.sh: 29: start_demo.sh: gabriel-control: not found\nstart_demo.sh: 32: start_demo.sh: gabriel-ucomm: not found \n Traceback (most recent call last): \n   File \"/root/sl/faceswap/server/openface-server/cloudlet-demo-openface-server.py\", line 25, in <module> \n     import txaio \n ImportError: No module named txaio \n checking openface server status: \n 1 \n openface server has not finished starting. wait for another 20 seconds... \n ```"
+  },
+  {
+    "rank": 3,
+    "id": "msg_55b466120d8d6f6f4d5f4d2ec304cfdfd9a96146e3f2e439dfef8a7ad9ace573",
+    "score": 98.73761,
+    "link": "https://github.com/cmusatyalab/faceswap/issues/6",
+    "source": "github",
+    "origin_doc_id": "7aeeeb48b0431e1c0f37dde2c218268eb265b7623fd8a88c8cdaff887a6b1094",
+    "snippet": "2017-11-01 15:28:20 ERROR 404: Not Found. \n+ nn4.small2.v1.t7: Error in wget. \n http://openface-models.storage.cmusatyalab.org/celeb-classifier.nn4.small2.v1.pkl:"
+  },
+  {
+    "rank": 4,
+    "id": "msg_f42406e21709db330c354e4801b244510e545b9d97ae53f4af43e06863e58fb4",
+    "score": 84.996475,
+    "link": "https://github.com/cmusatyalab/openface/issues/421",
+    "source": "github",
+    "origin_doc_id": "b8ac643731a5413a18fa5093f55eda111c580fd28d049b1fdc562cd011e16715",
+    "snippet": "(openface) user1@user1-GPU3:~/facereco/openface$ ./demos/classifier.py infer models/openface/celeb-classifier.nn4.small2.v1.pkl ./images/examples/carell.jpg \n Traceback (most recent call last): \n   File \"./demos/classifier.py\", line 43, in <module> \n     from sklearn.grid_search import GridSearchCV \n ImportError: No module named grid_search"
+  },
+  {
+    "rank": 5,
+    "id": "msg_f49ddfd32c08d5f5d87ef3bd7d3eee70e08df3cfd00abd98f0440c6988503dd4",
+    "score": 84.57229,
+    "link": "https://github.com/cmusatyalab/openface/issues/320",
+    "source": "github",
+    "origin_doc_id": "648285929d63192edc618b38c966bf50bc05d3e428f9b448f6984d020e217d09",
+    "snippet": "root@b17cf6f57801:~/openface# ./demos/classifier.py infer models/openface/celeb-classifier.nn4.small2.v1.pk1 ./images/examples/adams.jpg \n Traceback (most recent call last): \n   File \"./demos/classifier.py\", line 293, in <module> \n     infer(args, args.multi) \n   File \"./demos/classifier.py\", line 175, in infer \n     with open(args.classifierModel, 'rb') as f: \n IOError: [Errno 2] No such file or directory: 'models/openface/celeb-classifier.nn4.small2.v1.pk1'"
+  },
+  {
+    "rank": 6,
+    "id": "msg_4b84851478c62072b6e9eb6834521cf42db2d4131f47949570721add8898203d",
+    "score": 77.74941,
+    "link": "https://github.com/cmusatyalab/openface/issues/434",
+    "source": "github",
+    "origin_doc_id": "3dcf004263f5a74cd4fb3fad77f606107278efaf2eceb1a142c44476d987f9c8",
+    "snippet": "issuing this command: \n /demos/classifier.py infer models/openface/celeb-classifier.nn4.small2.v1.pkl ./images/examples/carell.jpg \n error is: \n raceback (most recent call last): \n   File \"./demos/classifier.py\", line 43, in <module> \n     from sklearn.grid_search import GridSearchCV \n   File \"/usr/local/lib/python2.7/dist-packages/sklearn/grid_search.py\", line 23, in <module> \n     from .base import MetaEstimatorMixin, ChangedBehaviorWarning \nImportError: cannot import name ChangedBehaviorWarning \n how to solve this?"
+  },
+  {
+    "rank": 7,
+    "id": "msg_0ff9b449f26d33cfcc633105d1f3c9a64bc1ff6acbda018b007f7252ca306b39",
+    "score": 71.14857,
+    "link": "https://github.com/cmusatyalab/openface/issues/328",
+    "source": "github",
+    "origin_doc_id": "40d1c8671d10a1d7f07e43ee394a84bcaa84dc4c62076609d1494e0a1459ffa0",
+    "snippet": "./demos/classifier_webcam.py --captureDevice 0 models/openface/celeb-classifier.nn4.small2.v1.pkl \n Traceback (most recent call last): \n   File \"./demos/classifier_webcam.py\", line 191, in <module> \n     persons, confidences = infer(frame, args) \n   File \"./demos/classifier_webcam.py\", line 112, in infer \n     reps = getRep(img) \n   File \"./demos/classifier_webcam.py\", line 52, in getRep \n     raise Exception(\"Unable to load image/frame\") \nUnable to"
+  },
+  {
+    "rank": 8,
+    "id": "msg_ee7505eaa4cba94ac4649ec78f3c6da112f6c42a53f76653b6c54a79d9179256",
+    "score": 59.930996,
+    "link": "https://github.com/cmusatyalab/openface/issues/54",
+    "source": "github",
+    "origin_doc_id": "1be32391a3e59324b2676f1d9368eeffa62578095e5560084aa8b7b11a34e6c0",
+    "snippet": "-O issue54.jpg --quiet \n openface(master*)$ ./demos/classifier.py infer ./models/openface/celeb-classifier.nn4.v1.pkl ./issue54.jpg \n Warning: Unable to align and crop to the face's bounding box. \n Traceback (most recent call last): \n   File \"./demos/classifier.py\", line 158, in <module> \n     infer(args) \n   File \"./demos/classifier.py\", line 104, in infer \n\n   File \"./demos/classifier.py\", line 65, in getRep \n     raise Exception(\"Unable to align image: {}\".format(imgPath)) \n Exception: Unable to align image: ./issue54.jpg \n ```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_5935802dfe3e293966f2dfd1efa4c361c800867576063558185392745f94469f",
+    "score": 59.226276,
+    "link": "https://github.com/cmusatyalab/openface/issues/269",
+    "source": "github",
+    "origin_doc_id": "bed73aedf76bf18d1d08b24a441a7cd73abcfb96fcca35131ec2d9d9a6a654ee",
+    "snippet": "`elia@elia:~/openface$ ./demos/classifier.py infer models/openface/celeb-classifier.nn4.small2.v1.pkl ./images/examples/carell.jpg \n Traceback (most recent call last): \n   File \"./demos/classifier.py\", line 293, in <module> \n     infer(args, args.multi) \n   File \"./demos/classifier.py\", line 177, in infer \n     (le, clf) = pickle.load(f) \n   File \"/usr/lib/python2.7/pickle.py\", line 1378, in load \n     return Unpickler(file).load()\n  File \"/usr/lib/python2.7/pickle.py\", line 858, in load \n     dispatch[key](self) \n   File \"/usr/lib/python2.7/pickle.py\", line 1090, in load_global \n     klass = self.find_class(module, name) \n   File \"/usr/lib/python2.7/pickle.py\", line 1126, in find_class \n     klass = getattr(mod, name) \n AttributeError: 'module' object has no attribute '_passthrough_scorer' \n `"
+  },
+  {
+    "rank": 10,
+    "id": "msg_0ddb2ad0465ebd5add4c0042d93d44a9fcb20a767270cb3c2d63e37006cd5d7a",
+    "score": 57.864223,
+    "link": "https://github.com/cmusatyalab/openface/issues/27",
+    "source": "github",
+    "origin_doc_id": "3ff453927b1f300dfc84179316b544034da75437110d4641dfdccabd20eadc21",
+    "snippet": "\"root@cwt-B85M-D2V:/home/cwt/openface-master# ./demos/classifier.py infer ./models/openface/csleb-classifier.nn4.v1.pkl <images> \n bash: unexpected symbol  'newline'  Incorrect syntax near\""
+  }
+]

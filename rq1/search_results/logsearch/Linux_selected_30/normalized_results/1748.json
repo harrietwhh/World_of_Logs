@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_1bb3f629b46f9b15b92f221b7e1f27eac50259e1b0c7499cede3289b6f34cb00",
+    "score": 34.22673,
+    "link": "https://github.com/cowrie/cowrie/issues/653",
+    "source": "github",
+    "origin_doc_id": "ef3b1ee9e195fe15d214af5f48e87e7faa17bb28a3a52fb3d1d343ead9a7f100",
+    "snippet": "2017-12-26T21:54:15+0300 [HTTPPageDownloader,client] FTP login failed: user=anonymous, passwd=anonymous, err=500 OOPS: cannot change directory:/var/ftp"
+  },
+  {
+    "rank": 2,
+    "id": "msg_1d80f98054827cfbbe71ac610f47240627c822ea9648f05179ec5e7d34e7406a",
+    "score": 33.51327,
+    "link": "https://stackoverflow.com/questions/66348643",
+    "source": "so",
+    "origin_doc_id": "c65f819ee9e80da92fe6b0fcc5f9f8a4698adcf91ae696473ffb7a25ada4c521",
+    "snippet": "' + str(err))\n*get* '331 This FTP server is anonymous only. \n ' \n *resp* '331 This FTP server is anonymous only.' \n *cmd* 'PASS ***' \n *put* 'PASS ***\\r \n ' \n *get* '503 Login with USER first. \n ' \n *resp* '503 Login with USER first.' \n Error: 503 Login with USER first."
+  },
+  {
+    "rank": 3,
+    "id": "msg_c8c1e34abaae71ef954dd0ca7c8da9b3d0e0e60e09eda8f8ea828df1f4aa1981",
+    "score": 33.213524,
+    "link": "https://stackoverflow.com/questions/5413917",
+    "source": null,
+    "origin_doc_id": "0f62affaee403e9b559773bafe75bb8580f47a6f0811dc8796cc20668d080e76",
+    "snippet": "530 User dummy  cannot log in. \n Login failed. \n ftp> USER anonymous \n 331 Anonymous access allowed, send identity (e-mail name) as password. \n 230 Anonymous user logged in. \n ftp> PUT ftp_commands.txt \n 200 PORT command successful."
+  },
+  {
+    "rank": 4,
+    "id": "msg_3621ecd3e7ec83ed94143d9f55d94a1330641f8f8b7ad0bef1b97722d30d07b3",
+    "score": 31.926758,
+    "link": "https://stackoverflow.com/questions/11365703",
+    "source": "so",
+    "origin_doc_id": "1422e75a1a36855360d2f10e35a28635f6397cf96c86f61da76c3b0187221785",
+    "snippet": "Connecting to ftp-trace.ncbi.nih.gov|130.14.250.10|:21... connected. \n Logging in as anonymous ...  \n Login incorrect."
+  },
+  {
+    "rank": 5,
+    "id": "msg_f7cd9a6ddd21a0396a3a980ac21d570fd592ca4f369f2cb21131addf8cc85435",
+    "score": 31.56324,
+    "link": "https://github.com/aio-libs/aioftp/issues/108",
+    "source": "github",
+    "origin_doc_id": "c34f67fb2f991575b76dbe93a72fcab10d31c86c538a36f80148930f2b2e08fc",
+    "snippet": "ftp 172.16.11.120 2121 \n Connected to 172.16.11.120. \n 220 welcome \n Name (172.16.11.120:thomasharvey):  \n 230 anonymous login"
+  },
+  {
+    "rank": 6,
+    "id": "msg_051f948e14d0481a8789ea3b296c79fd04b2bbfbba2b32b8f709014943899b76",
+    "score": 30.32314,
+    "link": "https://stackoverflow.com/questions/43560422",
+    "source": "so",
+    "origin_doc_id": "f11ccbb5e13bd80eb01fe616cb2bcffb454b2ab515d0f1545af1d37a46e6463b",
+    "snippet": "ftp <FTP_SERVER> \n Connected to <FTP_SERVER> (IP_ADDRESS). \n 220 Microsoft FTP Service \n Name (<FTP_SERVER>:root): anonymous \n 331 Anonymous access allowed, send identity (e-mail name) as password.  \n Password: \n 230 Anonymous user logged in. \n Remote system type is Windows_NT. \nPassword: \n Login failed. \n local: /Outgoing/Artemis/incremental/Hashes-1492870261.zip: No such file or directory"
+  },
+  {
+    "rank": 7,
+    "id": "msg_d345ea8a4b57b35892bc096af1ce5dbccd68e6f37c15ef350ffb485aa4e7809a",
+    "score": 30.18834,
+    "link": "https://github.com/rclone/rclone/issues/5476",
+    "source": "github",
+    "origin_doc_id": "7b0a0db86e9d12d8cc5332b044c98b757b0dda64e4ed9863825fb38c40278993",
+    "snippet": "2021/07/23 12:49:59.132535 DEBUG : FTP Rx: \"220 This is a private system - No anonymous login\""
+  },
+  {
+    "rank": 8,
+    "id": "msg_5b68c231dcf5f11eeed6595e7ea30840656a56b422ecce50dc4a1665e1629949",
+    "score": 29.401974,
+    "link": "https://github.com/scrapy/scrapy/pull/2343",
+    "source": "github",
+    "origin_doc_id": "6fa01ad46c42d222da6af5762063ed0e001b3aed7936a308153ec1071f3d6ea1",
+    "snippet": "Ready to transfer files. \n USER anonymous \n 230 Access has already been granted.\nSYST \n 215 UNIX Type: L8 \n FEAT \n 502 Command not supported. \n [...] \n ``` \n ``` \n 220 FTP Server ftp.de.debian.org ready. \n USER anonymous \n 331 Anonymous login ok, send your complete email address as your password \nAnonymous access granted,"
+  },
+  {
+    "rank": 9,
+    "id": "msg_b673babed6a81dbd5010887365ee397fccca7961a6839ccbabacbb13d9bd966e",
+    "score": 28.78342,
+    "link": "https://stackoverflow.com/questions/56047115",
+    "source": "so",
+    "origin_doc_id": "4d3803c8c3d7509835fbcf2ce72ab51fc95fec9a07a0d776838a81efb47962ec",
+    "snippet": "C:\\>ftp speedtest.tele2.net \n Connected to speedtest.tele2.net. \n 220 (vsFTPd 3.0.3) \n 200 Always in UTF8 mode. \n User (speedtest.tele2.net:(none)): anonymous \n 331 Please specify the password. \n Password: \n 230 Login successful. \n ftp> quote FEAT"
+  },
+  {
+    "rank": 10,
+    "id": "msg_f6a57e1a5e491105cb29d55ef36ee780060fb474aefda3a6bc5551e3e8337faf",
+    "score": 28.383747,
+    "link": "https://stackoverflow.com/questions/63268674",
+    "source": "so",
+    "origin_doc_id": "4f481982f8b603918c19842e22896bc2b30b9e1f36f529d125155bdd4fb4b351",
+    "snippet": "Wed Aug  5 10:32:05 2020 [pid 30282] CONNECT: Client \"my.ip.goes.here\" \n Wed Aug  5 10:32:05 2020 [pid 30282] FTP response: Client \"my.ip.goes.here\", \"220 SUP GUY\" \n Wed Aug  5 10:32:05 2020 [pid 30282] FTP command: Client \"my.ip.goes.here\", \"USER anonymous\" \n Wed Aug  5 10:32:05 2020 [pid 30282] [anonymous] FTP response: Client \"my.ip.goes.here\", \"331 Please specify the password.\" \n Wed Aug  5 10:32:05 2020 [pid 30282] [anonymous] FTP command: Client \"my.ip.goes.here\", \"PASS <password>\" \n Wed Aug  5 10:32:07 2020 [pid 30281] [anonymous] FAIL LOGIN: Client \"my.ip.goes.here\" \n Wed Aug  5 10:32:08 2020 [pid 30282] [anonymous] FTP response: Client \"my.ip.goes.here\", \"530 Login incorrect.\" \n Wed Aug  5 10:32:08 2020 [pid 30282] FTP command: Client \"my.ip.goes.here\", \"QUIT\" \nWed Aug  5 10:32:08 2020 [pid 30282] FTP response: Client \"my.ip.goes.here\", \"221 Goodbye.\" \n Wed Aug  5 10:32:08 2020 [pid 30285] CONNECT: Client \"my.ip.goes.here\" \n Wed Aug  5 10:32:08 2020 [pid 30285] FTP response: Client \"my.ip.goes.here\", \"220 SUP GUY\" \n Wed Aug  5 10:32:08 2020 [pid 30285] FTP command: Client \"my.ip.goes.here\", \"USER testuser\" \n Wed Aug  5 10:32:08 2020 [pid 30285] [testuser] FTP response: Client \"my.ip.goes.here\", \"331 Please specify the password.\" \n Wed Aug  5 10:32:08 2020 [pid 30285] [testuser] FTP command: Client \"my.ip.goes.here\", \"PASS <password>\" \n Wed Aug  5 10:32:08 2020 [pid 30284] [testuser] OK LOGIN: Client \"my.ip.goes.here\""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_4f9a142a8f1b0a28ac16d3b9a66ce1fb3c10cebee72d0eaa91bfda7099816c4c",
+    "score": 50.67768,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:27,846 INFO [main] org.apache.hadoop.http.HttpRequestLog: Http request log for http.requests.mapreduce is not defined"
+  },
+  {
+    "rank": 2,
+    "id": "msg_66522318d13d3243ef7eab1b278edbd8a9726cff931cfb5b0592c2e334153359",
+    "score": 50.67768,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:48,003 INFO [main] org.apache.hadoop.http.HttpRequestLog: Http request log for http.requests.mapreduce is not defined"
+  },
+  {
+    "rank": 3,
+    "id": "msg_84aab15fcc2825dcbe7f4b0b7ae777ce57b04d0f33e735697e41c4cde121d8c5",
+    "score": 50.67768,
+    "link": "https://stackoverflow.com/questions/29075106",
+    "source": "so",
+    "origin_doc_id": "8804889924d3bb86586e2b967059d726e1328690ac16880f1a3ffbd69e9b1e96",
+    "snippet": "2015-03-16 11:46:53,646 INFO [main] org.apache.hadoop.http.HttpRequestLog: Http request log for http.requests.mapreduce is not defined"
+  },
+  {
+    "rank": 4,
+    "id": "msg_902c37cf008f353b63b7150de1ff6cb6f61188779a7b488775b71c0912de44b7",
+    "score": 50.67768,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:25,601 INFO [main] org.apache.hadoop.http.HttpRequestLog: Http request log for http.requests.mapreduce is not defined"
+  },
+  {
+    "rank": 5,
+    "id": "msg_a4ddb66da9ae028a49052624040a937eec6862878803e8c188dde2c0451f2dc1",
+    "score": 50.67768,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:55,982 INFO [main] org.apache.hadoop.http.HttpRequestLog: Http request log for http.requests.mapreduce is not defined"
+  },
+  {
+    "rank": 6,
+    "id": "msg_07972225cebf2f62565a9ec0935023ac295d058f5bc9b88aeee53552ab285516",
+    "score": 50.67768,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:42,274 INFO [main] org.apache.hadoop.http.HttpRequestLog: Http request log for http.requests.mapreduce is not defined"
+  },
+  {
+    "rank": 7,
+    "id": "msg_2898282607e8b13f323575cb6f64596efecd98bdc232f857efcf45c3d29e56c0",
+    "score": 50.67768,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:55,511 INFO [main] org.apache.hadoop.http.HttpRequestLog: Http request log for http.requests.mapreduce is not defined"
+  },
+  {
+    "rank": 8,
+    "id": "msg_589f8e877d25dd3a80df1c75deebb9ab1db99ecc61ea9b0f1ffd8d9d5c45bef8",
+    "score": 50.67768,
+    "link": "https://github.com/crs4/pydoop/issues/154",
+    "source": "github",
+    "origin_doc_id": "10efddefd4b8ea3b9e1d5f97d32e75c0c8263a8a5bd3426f0ec9092de77cc2f8",
+    "snippet": "2015-07-17 00:16:27,858 INFO [main] org.apache.hadoop.http.HttpRequestLog: Http request log for http.requests.mapreduce is not defined"
+  },
+  {
+    "rank": 9,
+    "id": "msg_3ce426024d7d424073a86931e93679c50d30fcfaba7946af14fa0ce18bd4758a",
+    "score": 50.67768,
+    "link": "https://stackoverflow.com/questions/49366285",
+    "source": "so",
+    "origin_doc_id": "bab7bd228140fbee7bf887a8ad9a2638f1894ba5dc8341321ccb79ce6cd0cf96",
+    "snippet": "2018-03-20 18:52:35,297 INFO [main] org.apache.hadoop.http.HttpRequestLog: Http request log for http.requests.mapreduce is not defined"
+  },
+  {
+    "rank": 10,
+    "id": "msg_955d97e105300ec17d79230d487e12419b6ef894351815015c95ffdb4583ec5e",
+    "score": 50.67768,
+    "link": "https://github.com/crs4/pydoop/issues/216",
+    "source": "github",
+    "origin_doc_id": "92c44987a78dab8d4832c1dcd6cd493412735f9b576da51b8be83f1197678df3",
+    "snippet": "2016-06-22 16:49:01,272 INFO [main] org.apache.hadoop.http.HttpRequestLog: Http request log for http.requests.mapreduce is not defined"
+  }
+]

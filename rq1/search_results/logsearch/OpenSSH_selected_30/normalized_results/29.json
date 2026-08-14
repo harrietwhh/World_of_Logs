@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_fb9d6adca229988934b47b488b70a685300d1bcecfd209653a1c82afd511c64f",
+    "score": 51.412018,
+    "link": "https://stackoverflow.com/questions/24994921",
+    "source": "so",
+    "origin_doc_id": "e6269804ac116985fc6c0c073bec431781fa583b1727da605fca2ab239979521",
+    "snippet": "sshd[INFO]: Failed password for illegal user user from 219.117.251.250 port 44741 ssh2 \n mingus  sshd[INFO]: Failed password for root from 219.117.251.250 port 44817 ssh2 \n mingus  sshd[2264]: Failed password for root from 219.117.251.250 port 44866 ssh2 \n mingus  sshd[INFO]: Failed password for root from 219.117.251.250 port 44918 ssh2 \n mingus  sshd[2268]: Illegal user test from 219.117.251.250 \n mingus  sshd[2268]: Failed password for illegal user test from 219.117.251.250 port 44997 ssh2"
+  },
+  {
+    "rank": 2,
+    "id": "msg_1d47657bcf1fba265dafbe22d260abf70289b42862c6686584ba1bfb4b21c91a",
+    "score": 50.441597,
+    "link": "https://stackoverflow.com/questions/60802050",
+    "source": "so",
+    "origin_doc_id": "5b961e90b8cff199456cfa2aed54f0c5a8c2ed74b7c5832a15c77294260e7cb0",
+    "snippet": "Feb  3 08:35:23 j4-be02 sshd[32741]: Failed password for root from 211.167.103.148 port 34583 ssh2 \n Feb  3 08:35:29 j4-be02 sshd[32744]: Failed password for root from 211.167.103.148 port 36610 ssh2 \n Feb  3 08:35:35 j4-be02 sshd[32747]: Failed password for root from 211.167.103.148 port 38355 ssh2 \n Feb  3 08:35:40 j4-be02 sshd[32749]: Failed password for root from 211.167.103.172 port 40252 ssh2 \n Feb  3 08:35:46 j4-be02 sshd[32751]: Failed password for root from 211.167.103.172 port 42099 ssh2 \n Feb  3 08:35:52 j4-be02 sshd[32753]: Failed password for root from 211.167.103.172 port 44102 ssh2 \n Feb  3 08:35:58 j4-be02 sshd[32755]: Failed password for root from 211.167.103.172 port 45932 ssh2"
+  },
+  {
+    "rank": 3,
+    "id": "msg_9779b5088613fb6a98bd818b8610eff5af7b498a725847f8a2a23dba19c88d20",
+    "score": 50.028427,
+    "link": "https://stackoverflow.com/questions/23857303",
+    "source": "so",
+    "origin_doc_id": "12655f78c0d890a934c175e76283ebd2f95f88ed9692c75ce87ec749403873f3",
+    "snippet": "May 16 06:41:38 aprs sshd[25951]: Failed password for root from 137.241.229.226 port 2008 ssh2 \n May 16 06:41:40 aprs sshd[25951]: Failed password for root from 137.241.229.226 port 2008 ssh2 \nMay 16 06:41:43 aprs sshd[25951]: Failed password for root from 37.141.229.226 port 2008 ssh2 \n May 16 06:41:46 aprs sshd[25951]: Failed password for root from 37.141.229.226 port 2008 ssh2 \n May 16 06:41:48 aprs sshd[25951]: Failed password for root from 37.141.229.226 port 2008 ssh2"
+  },
+  {
+    "rank": 4,
+    "id": "msg_cff123b5b235ff04e5efb0e9ffc2853a3abf5b432e91a56b8e459929e2773bc3",
+    "score": 49.09281,
+    "link": "https://github.com/panubo/docker-sshd/issues/64",
+    "source": "github",
+    "origin_doc_id": "4be55db87fa4f46c295249d6fac78b4d2809018b4491094867148ecdc0428b09",
+    "snippet": "Running /usr/sbin/sshd -D -e -f /etc/ssh/sshd_config \n Server listening on 0.0.0.0 port 22. \n Server listening on :: port 22. \n Connection closed by 172.17.0.1 port 58124 [preauth] \n Failed password for root from 172.17.0.1 port 58128 ssh2 \n Failed password for root from 172.17.0.1 port 58128 ssh2 \n Failed password for root from 172.17.0.1 port 58128 ssh2"
+  },
+  {
+    "rank": 5,
+    "id": "msg_dde20776d5ccf478925068bd93aec314e1c245e75fff3d4b6af55d30dc1179f9",
+    "score": 49.06345,
+    "link": "https://stackoverflow.com/questions/35562234",
+    "source": "so",
+    "origin_doc_id": "8e5820f962db306dcd6d40835f4e92ed1bf35db0226acfb3fa7eeb4c67a09cbe",
+    "snippet": "Feb  3 08:50:39 j4-be02 sshd[620]: Failed password for bin from 211.167.103.172 port 39701 ssh2 \n Feb  3 08:50:45 j4-be02 sshd[622]: Failed password for invalid user virus from 211.167.103.172 port 41354 ssh2 \n Feb  3 08:50:49 j4-be02 sshd[624]: Failed password for invalid user virus from 211.167.103.172 port 42994 ssh2 \n Feb  3 13:34:00 j4-be02 sshd[666]: Failed password for root from 85.17.188.70 port 45481 ssh2 \n Feb  3 13:34:01 j4-be02 sshd[670]: Failed password for root from 85.17.188.70 port 46802 ssh2 \n Feb  3 13:34:03 j4-be02 sshd[672]: Failed password for root from 85.17.188.70 port 47613 ssh2 \n Feb  3 13:34:05 j4-be02 sshd[676]: Failed password for root from 85.17.188.70 port 48495 ssh2 \n Feb  3 21:45:18 j4-be02 sshd[746]: Failed password for invalid user test from 62.45.87.113 port 50636 ssh2 \nFeb  4 08:39:46 j4-be02 sshd[1078]: Failed password for root from 1.234.51.243 port 60740 ssh2 \n Feb  4 08:39:55 j4-be02 sshd[1082]: Failed password for root from 1.234.51.243 port 34124 ssh2"
+  },
+  {
+    "rank": 6,
+    "id": "msg_29fda3ab29f4e72546c47358b024ef27a6c477f06754b99ab5ff799255d8d56a",
+    "score": 48.676647,
+    "link": "https://stackoverflow.com/questions/29754074",
+    "source": "so",
+    "origin_doc_id": "50d1959635e5fedc573a4ba4258b530467efcbe97977fd4271a19692c30d7863",
+    "snippet": "Apr 20 16:58:23 server sshd[684132]: Failed password for root from 43.255.190.155 port 46942 ssh2 \n Apr 20 16:58:23 server sshd[684159]: Failed password for root from 176.8.253.72 port 4550 ssh2 \n Apr 20 17:23:50 server sshd[693103]: Failed password for root from 58.218.199.49 port 56922 ssh2"
+  },
+  {
+    "rank": 7,
+    "id": "msg_2b035774b8e15c948a03a8fba4ab56105d5a9935bb7b7f876dfb335e11a5c28c",
+    "score": 47.8701,
+    "link": "https://stackoverflow.com/questions/9659846",
+    "source": "so",
+    "origin_doc_id": "d0018247655dec6f9bbad4a9c5d7a0b34ff37a50a088d104696c3f110c278f16",
+    "snippet": "Jan 10 09:32:09 j4-be03 sshd[3876]: Failed password for root from 218.241.173.35 port 47084 ssh2 \n Jan 10 09:32:19 j4-be03 sshd[3879]: Failed password for root from 218.241.173.35 port 47901 ssh2 \n Feb 7 17:19:16 j4-be03 sshd[10736]: Failed password for root from 89.249.209.92 port 46139 ssh2"
+  },
+  {
+    "rank": 8,
+    "id": "msg_764c7a88df088874ba16201d890361e5a3ed6e0bda4bb7455a467506c7d8dfb8",
+    "score": 47.8701,
+    "link": "https://stackoverflow.com/questions/35993078",
+    "source": "so",
+    "origin_doc_id": "c86b8058c0e4267c9c2f4e48008c708e59a55c3dd62d3f04fbb3b00c3e0af765",
+    "snippet": "Feb  5 08:33:15 j4-be02 sshd[2255]: Failed password for root from 5.199.133.223 port 48154 ssh2 \n Feb  5 08:33:23 j4-be02 sshd[2257]: Failed password for root from 5.199.133.223 port 55109 ssh2 \n Feb  5 08:33:30 j4-be02 sshd[2259]: Failed password for root from 5.199.133.223 port 62058 ssh2"
+  },
+  {
+    "rank": 9,
+    "id": "msg_439571788de869a25879b8ed7ae5981066c63e285a90d9c735d7927da730bdf6",
+    "score": 47.238766,
+    "link": "https://github.com/kubeflow/mpi-operator/issues/424",
+    "source": "github",
+    "origin_doc_id": "9d60c294dca573784e6355cb05fdcef5c70ad23deca77b66bd1f599ebc31b54d",
+    "snippet": "root@localhost v1# kubectl logs tensorflow-benchmarks-launcher-jxrqw \n Failed to add the host to the list of known hosts (/root/.ssh/known_hosts). \n Failed to add the host to the list of known hosts (/root/.ssh/known_hosts). \n Permission denied, please try again. \n Permission denied, please try again. \n root@tensorflow-benchmarks-worker-0.tensorflow-benchmarks-worker: Permission denied (publickey,password). \n #logs of the worker-0 \n [root@localhost v1]# kubectl logs tensorflow-benchmarks-worker-0 \n Server listening on 0.0.0.0 port 22. \nServer listening on :: port 22.\nAuthentication refused: bad ownership or modes for directory /root/.ssh\nFailed password for root from 172.16.17.32 port 39326 ssh2\nFailed password for root from 172.16.17.32 port 39326 ssh2\nConnection closed by authenticating user root 172.16.17.32 port 39326 [preauth]\nAuthentication refused: bad ownership or modes for directory /root/.ssh\nConnection reset by authenticating user root 172.16.17.32 port 39882 [preauth]\nAuthentication refused: bad ownership or modes for directory /root/.ssh\nFailed password for root from 172.16.17.32 port 40678 ssh2\nFailed password for root from 172.16.17.32 port 40678 ssh2\nConnection closed by authenticating user root 172.16.17.32 port 40678 [preauth]\nAuthentication refused: bad ownership or modes for directory /root/.ssh\nFailed password for root from 172.16.17.32 port 41652 ssh2\nFailed password for root from 172.16.17.32 port 41652 ssh2\nConnection closed by authenticating user root 172.16.17.32 port 41652 [preauth]\nAuthentication refused: bad ownership or modes for directory /root/.ssh\nFailed password for root from 172.16.17.32 port 43490 ssh2\nFailed password for root from 172.16.17.32 port 43490 ssh2\nConnection closed by authenticating user root 172.16.17.32 port 43490 [preauth]\nConnection closed by 172.16.17.32 port 45642 [preauth]"
+  },
+  {
+    "rank": 10,
+    "id": "msg_40b4c35a3f0fef4d1993c474ea80e0d8f5be4a150476eb9e6d36db77a7bd1225",
+    "score": 46.800255,
+    "link": "https://stackoverflow.com/questions/45403574",
+    "source": "so",
+    "origin_doc_id": "ea4c6069be96e28378efbd9785952b68707d29303c6bca0ce123b38d45f3f5f4",
+    "snippet": "Jul 30 21:07:30 Server sshd[20895]: Failed password for root from 58.242.83.20 port 41448 ssh2 \n Jul 30 21:07:31 Server sshd[20897]: Failed password for root from 61.177.172.44 port 28603 ssh2"
+  }
+]

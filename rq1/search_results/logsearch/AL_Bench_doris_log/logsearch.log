@@ -1,0 +1,62 @@
+[1/30] LineId=1 querying: LOG.info("Begin to preCheck preSqls:[{}].", String.join(";", renderedPreSqls));
+[1/30] LineId=1 success, results=10
+[2/30] LineId=2 querying: LOG.debug("StreamLoad response:{}", JSON.toJSONString(loadResult));
+[2/30] LineId=2 success, results=10
+[3/30] LineId=3 querying: LOG.warn("Request failed with code:{}", code);
+[3/30] LineId=3 success, results=10
+[4/30] LineId=4 querying: LOG.warn("Failed to flush batch data to Doris, retry times = {}", i, e);
+[4/30] LineId=4 success, results=10
+[5/30] LineId=5 querying: LOG.warn("type={}", type);
+[5/30] LineId=5 success, results=10
+[6/30] LineId=6 querying: LOG.info("set config {} to {}", key, value);
+[6/30] LineId=6 success, results=10
+[7/30] LineId=7 querying: log.debug("Exception in closing {} {}", c, e);
+[7/30] LineId=7 success, results=10
+[8/30] LineId=8 querying: LOG.info("global dict builder args, dictColumnMap: " + dictColumnMap + ", dorisO...
+[8/30] LineId=8 success, results=10
+[9/30] LineId=9 querying: LOG.info(" column " + distinctColumnNameTmp + " 's max value in dict is " + maxD...
+[9/30] LineId=9 success, results=10
+[10/30] LineId=10 querying: LOG.warn(String.format("decimal value is not valid for defination, column=%s, " ...
+[10/30] LineId=10 success, results=10
+[11/30] LineId=11 querying: LOG.debug("add function parameterTypes length not equal " + argClass.length + " ...
+[11/30] LineId=11 success, results=10
+[12/30] LineId=12 querying: LOG.info("paimonAllFieldNames:{}", paimonAllFieldNames);
+[12/30] LineId=12 success, results=10
+[13/30] LineId=13 querying: LOG.debug("selfNodeName:{}, selfNodeHostPort:{}", selfNodeName, selfNodeHostPort...
+[13/30] LineId=13 success, results=10
+[14/30] LineId=14 querying: LOG.info("sink is {}", sink.toThrift());
+[14/30] LineId=14 success, results=10
+[15/30] LineId=15 querying: LOG.warn("Sub nokey={}", cache.getNokeyStmt().toSql());
+[15/30] LineId=15 success, results=10
+[16/30] LineId=16 querying: LOG.error("fail to get journal {}, status: {}, will exit", currentKey, operation...
+[16/30] LineId=16 success, results=10
+[17/30] LineId=17 querying: LOG.debug("get opcode: {}", opCode);
+[17/30] LineId=17 success, results=10
+[18/30] LineId=18 querying: LOG.warn("Failed to deserialize column {} min value {}.", col, min, e);
+[18/30] LineId=18 success, results=10
+[19/30] LineId=19 querying: LOG.debug("Template:{}, params: {}, SQL: {}", template, params, sb.toString());
+[19/30] LineId=19 success, results=10
+[20/30] LineId=20 querying: LOG.debug(String.format("Exception to get column statistics by metadata.[Catalog...
+[20/30] LineId=20 success, results=10
+[21/30] LineId=21 querying: LOG.warn("Failed to analyze, info: {}", task, t);
+[21/30] LineId=21 success, results=10
+[22/30] LineId=22 querying: LOG.info("Analyze tasks those submitted in last time is not finished, skip");
+[22/30] LineId=22 success, results=10
+[23/30] LineId=23 querying: LOG.info("get stats failed. catalog: {}", catalog, e);
+[23/30] LineId=23 success, results=10
+[24/30] LineId=24 querying: LOG.warn("Notification events are missing, maybe an event can not be handled " +...
+[24/30] LineId=24 success, results=10
+[25/30] LineId=25 querying: LOG.error("failed to init statefulSetName: {}", statefulSetEnvName);
+[25/30] LineId=25 success, results=10
+[26/30] LineId=26 querying: LOG.error("invalid ambari port format: {}", ambariPort);
+[26/30] LineId=26 success, results=10
+[27/30] LineId=27 querying: LOG.warn("DefineExpr match multiple column in MaterializedIndex, ExprName=" + en...
+[27/30] LineId=27 success, results=10
+[28/30] LineId=28 querying: LOG.debug("Because there is no division of tablets in view and external table, w...
+[28/30] LineId=28 success, results=10
+[29/30] LineId=29 querying: LOG.fatal("Failed to initialize SSL because", e);
+[29/30] LineId=29 success, results=10
+[30/30] LineId=30 querying: LOG.trace("receive get snapshot info request: {}", request);
+[30/30] LineId=30 success, results=10
+Batch results saved to: RQ1/search_results/logsearch/AL_Bench_doris_log
+Summary: rows=30, attempted=30, successes=30, zero_result_successes=0, failures=0, skipped=0

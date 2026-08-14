@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_51cc110b1c4f0d69fb5f0dae5bf93ca947e6de60e220d58bff196c12b826c014",
+    "score": 45.431797,
+    "link": "https://issues.apache.org/jira/browse/AMQ-277",
+    "source": "jira",
+    "origin_doc_id": "0b0517896b1b6e316ab18b65eefd216497e5c6ababbc15536fcc565691b4bef1",
+    "snippet": "[java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 1 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 1 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 1 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 1 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 2 sent at: Sat Jun 25 11:47:02 CEST 2005 ...\n     [java] Received: Message: 1 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 2 sent at: Sat Jun 25 11:47:02 CEST 2005 ...\n     [java] Received: Message: 1 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 2 sent at: Sat Jun 25 11:47:02 CEST 2005 ...\n     [java] Received: Message: 1 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 2 sent at: Sat Jun 25 11:47:02 CEST 2005 ...\n     [java] Received: Message: 3 sent at: Sat Jun 25 11:47:02 CEST 2005 ...\n     [java] Received: Message: 1 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 2 sent at: Sat Jun 25 11:47:02 CEST 2005 ...\n     [java] Received: Message: 3 sent at: Sat Jun 25 11:47:02 CEST 2005 ...\n     [java] Received: Message: 1 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 2 sent at: Sat Jun 25 11:47:02 CEST 2005 ...\n     [java] Received: Message: 4 sent at: Sat Jun 25 11:47:02 CEST 2005 ...\n     [java] Received: Message: 3 sent at: Sat Jun 25 11:47:02 CEST 2005 ...\n     [java] Received: Message: 1 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 0 sent at: Sat Jun 25 11:47:01 CEST 2005 ...\n     [java] Received: Message: 2 sent at: Sat Jun 25 11:47:02 CEST 2005 ...\n     [java] Received: Message: 4 sent at: Sat Jun 25 11:47:02 CEST 2005 ..."
+  },
+  {
+    "rank": 2,
+    "id": "msg_34562f3fda1438cfedaa78fd8115d07fdbe01541159fcba21cc8cf3d8e4c0071",
+    "score": 42.78458,
+    "link": "https://jira.mongodb.org/browse/SERVER-13219",
+    "source": "jira",
+    "origin_doc_id": "1de5c20e78d23cade29cf8c024bb01b196a3963bdcf1d979ddd6d812e1259a65",
+    "snippet": "02:24:50\nSat Mar 15 02:24:50.091 [migrateThread] warning: secondaryThrottle on, but doc insert timed out after 60 seconds, continuing \n Sat Mar 15 09:21:17.299 [migrateThread] warning: secondaryThrottle on, but doc insert timed out after 60 seconds, continuing"
+  },
+  {
+    "rank": 3,
+    "id": "msg_191b635cecf9e463e0db66fda05159ec5f23b63bd09a8c799ee4471ae93ad9e2",
+    "score": 41.987698,
+    "link": "https://github.com/obfuscurity/synthesize/issues/66",
+    "source": "github",
+    "origin_doc_id": "aa95630ef77c350575de32b49c335622981cef0437a3fd1bf0af03eeef1921ef",
+    "snippet": "2017-06-10 17:23:02,045 - stages.py[WARNING]: Could not find module named cc_lxd\nCloud-init v. 0.7.5 running 'modules:final' at Sat, 10 Jun 2017 17:23:02 +0000. Up 14.38 seconds.\nCloud-init v. 0.7.5 finished at Sat, 10 Jun 2017 17:23:02 +0000. Datasource DataSourceDigitalOcean.  Up 14.82 seconds"
+  },
+  {
+    "rank": 4,
+    "id": "msg_e1a2a05c64250935449edc4aa18e941944c99aed1e507834b8f3d10d0dfe5bac",
+    "score": 41.338936,
+    "link": "https://issues.apache.org/jira/browse/AMQ-277",
+    "source": "jira",
+    "origin_doc_id": "0b0517896b1b6e316ab18b65eefd216497e5c6ababbc15536fcc565691b4bef1",
+    "snippet": "shutdown \n      [java] Received: Message: 0 sent at: Sat Jun 25 22:07:20 CEST 2005 ... \n      [java] Received: Message: 1 sent at: Sat Jun 25 22:07:20 CEST 2005 ... \n      [java] Received: Message: 2 sent at: Sat Jun 25 22:07:20 CEST 2005 ... \n      [java] Received: Message: 3 sent at: Sat Jun 25 22:07:20 CEST 2005 ... \n      [java] Received: Message: 4 sent at: Sat Jun 25 22:07:20 CEST 2005 ... \n     [java] Received: Message: 5 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] Received: Message: 6 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] Received: Message: 7 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] Received: Message: 8 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] Received: Message: 9 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] Received: Message: 10 sent at: Sat Jun 25 22:07:20 CEST 2005...\n     [java] Received: Message: 0 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] 22:07:20,770 WARN  [TransportChannelSupport] No Packet found to match Receipt correlationId: 1\n     [java] Received: Message: 11 sent at: Sat Jun 25 22:07:20 CEST 2005...\n     [java] Received: Message: 1 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] 22:07:20,810 WARN  [TransportChannelSupport] No Packet found to match Receipt correlationId: 3\n     [java] Received: Message: 12 sent at: Sat Jun 25 22:07:20 CEST 2005...\n     [java] Received: Message: 13 sent at: Sat Jun 25 22:07:20 CEST 2005..."
+  },
+  {
+    "rank": 5,
+    "id": "msg_370105fa171a7796a51a58dfc2adc2b3d7e41a7bc7dc76af8018bca33a4d34b5",
+    "score": 40.986485,
+    "link": "https://github.com/httprb/http/issues/298",
+    "source": "github",
+    "origin_doc_id": "5a5a49f9acca4188a3d1d346dd77bbe5317ee5591546944008243ab3b481b793",
+    "snippet": "puts \"fail #{error} (#{Time.now.to_f - start})\"\n\n   1 ... fail Read timed out after 10 seconds (0.09555983543395996) \n   2 ... pass (0.09866118431091309) \n   3 ... pass (0.1078948974609375) \n   4 ... fail Read timed out after 10 seconds (0.10645508766174316) \n   5 ... fail Read timed out after 10 seconds (0.11573100090026855) \n   6 ... fail Read timed out after 10 seconds (0.10515403747558594) \n   7 ... fail Read timed out after 10 seconds (0.09684395790100098) \n   8 ... fail Read timed out after 10 seconds (0.10500097274780273) \n  9 ... pass (0.15207505226135254)\n 10 ... pass (0.11043787002563477)\n 11 ... fail Read timed out after 10 seconds (0.0944669246673584)\n 12 ... pass (0.10115599632263184)\n 13 ... fail Read timed out after 10 seconds (0.10858893394470215)\n 14 ... fail Read timed out after 10 seconds (0.09439206123352051)\n 15 ... fail Read timed out after 10 seconds (0.13071513175964355)\n 16 ... fail Read timed out after 10 seconds (0.13274002075195312)\n 17 ... pass (0.09566402435302734)\n 18 ... fail Read timed out after 10 seconds (0.11975598335266113)\n 19 ... pass (0.09542608261108398)\n 20 ... pass (0.09283804893493652)\n 21 ... pass (0.11658596992492676)\n 22 ... pass (0.31825733184814453)\n 23 ... fail Read timed out after 10 seconds (0.09906291961669922)\n 24 ... pass (0.10399913787841797)\n 25 ... fail Read timed out after 10 seconds (0.09821271896362305)\n 26 ... pass (0.08867406845092773)\n 27 ... pass (0.08523297309875488)\n 28 ... fail Read timed out after 10 seconds (0.09504318237304688)\n 29 ... fail Read timed out after 10 seconds (0.1117861270904541)\n 30 ... pass (0.11092257499694824)\n 31 ... fail Read timed out after 10 seconds (0.10589003562927246)\n 32 ... pass (0.09644794464111328)\n 33 ... fail Read timed out after 10 seconds (0.10133981704711914)\n 34 ... pass (0.096466064453125)\n 35 ... fail Read timed out after 10 seconds (0.09136009216308594)\n 36 ... pass (0.09183812141418457)\n 37 ... fail Read timed out after 10 seconds (0.08922100067138672)\n 38 ... pass (0.11403322219848633)\n 39 ... pass (0.09183883666992188) \n  40 ... pass (0.09493303298950195) \n  41 ... fail Read timed out after 10 seconds (0.10203123092651367) \n  42 ... pass (0.10525012016296387)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_eba0a8aabc1c8595b79ed4e696a7d68ed2704b980606efb5337f88572c2f71c3",
+    "score": 40.577843,
+    "link": "https://stackoverflow.com/questions/24021609",
+    "source": "so",
+    "origin_doc_id": "14b84d6903aa1977e20174322aa36d992c697b2c8cafcaf65be1964b9c8cc450",
+    "snippet": "java.util.regex.Matcher.finalize() timed out after 10 seconds  \n  android.graphics.Bitmap$BitmapFinalizer.finalize() timed out after 10 seconds  \n  org.apache.http.impl.conn.SingleClientConnManager.finalize() timed out after 10 seconds  \n  java.util.concurrent.ThreadPoolExecutor.finalize() timed out after 10 seconds  \n  android.os.BinderProxy.finalize() timed out after 10 seconds  \n  android.graphics.Path.finalize() timed out after 10 seconds"
+  },
+  {
+    "rank": 7,
+    "id": "msg_bc193b6143c648770cbfbded319bd46e5a65487ba3d53f5e6efada8b0001e804",
+    "score": 40.45926,
+    "link": "https://github.com/hazelcast/hazelcast/issues/18459",
+    "source": "github",
+    "origin_doc_id": "856a86dd4d89d4aae6f286116ea872af2872232d9a788cfdb4d7d228cab26435",
+    "snippet": "`org.junit.runners.model.TestTimedOutException: test timed out after 900 seconds`"
+  },
+  {
+    "rank": 8,
+    "id": "msg_225dbc246c34e4feb840c7453fe0a273c090b33e188b49ab5156bb528dfbef44",
+    "score": 40.45926,
+    "link": "https://github.com/hazelcast/hazelcast-jet/issues/1821",
+    "source": "github",
+    "origin_doc_id": "8c1f4b9a84f4f5c34745de20e4901680e312e77ad6ac5bc8f479213ac280dbf4",
+    "snippet": "org.junit.runners.model.TestTimedOutException: test timed out after 900 seconds \n ```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_62266dad18006729f9c97d9ca377be4e1ec719820638a4a2c71e844c8265ccd9",
+    "score": 39.96481,
+    "link": "https://stackoverflow.com/questions/46788977",
+    "source": "so",
+    "origin_doc_id": "fe303f5fe0efe5904836cef403742218d570529899982102d5e67dddf71973a5",
+    "snippet": "java.net.SocketTimeoutException: Read timed out  Exception after 900 seconds."
+  },
+  {
+    "rank": 10,
+    "id": "msg_ecb490575a1d8d6f062ddbff56a07383a23e49d6b0b9670ab27dcae06328f9c5",
+    "score": 39.8841,
+    "link": "https://github.com/hipchat/hubot-hipchat/issues/111",
+    "source": "github",
+    "origin_doc_id": "e36bb606f6682c9fae154c91af5a6cb0497589cfb37201920c8b8cd72f676893",
+    "snippet": "[Sat Jun 15 2013 17:02:49 GMT+0100 (BST)] DEBUG  OUT > \n [Sat Jun 15 2013 17:03:22 GMT+0100 (BST)] DEBUG  OUT > \n [Sat Jun 15 2013 17:03:52 GMT+0100 (BST)] DEBUG  OUT > \n [Sat Jun 15 2013 17:04:23 GMT+0100 (BST)] DEBUG  OUT > \n [Sat Jun 15 2013 17:04:54 GMT+0100 (BST)] DEBUG  OUT > \n[Sat Jun 15 2013 17:05:25 GMT+0100 (BST)] DEBUG  OUT >\n[Sat Jun 15 2013 17:05:56 GMT+0100 (BST)] DEBUG  OUT >\n[Sat Jun 15 2013 17:06:33 GMT+0100 (BST)] DEBUG  OUT >\n[Sat Jun 15 2013 17:11:37 GMT+0100 (BST)] INFO Disconnected from hipchat.com\n[Sat Jun 15 2013 17:11:37 GMT+0100 (BST)] ERROR 'service-unavailable', 'Timed out after 150s of inactivity', { name: 'stream:error',\n  parent: null,\n  attrs: { 'xmlns:stream': 'http://etherx.jabber.org/streams' },\n  children:\n   [ { name: 'service-unavailable',\n       parent: [Circular],\n       attrs: { xmlns: 'urn:ietf:params:xml:ns:xmpp-streams' },\n       children: [] },\n     { name: 'text',\n       parent: [Circular],\n       attrs: { xmlns: 'urn:ietf:params:xml:ns:xmpp-streams' },\n       children: [ 'Timed out after 150s of inactivity' ] } ] }\n[Sat Jun 15 2013 17:11:37 GMT+0100 (BST)] DEBUG   IN > <stream:error><service-unavailable xmlns='urn:ietf:params:xml:ns:xmpp-streams'/><text xmlns='urn:ietf:params:xml:ns:xmpp-streams'>Timed out after 150s of inactivity</text></stream:error></stream:stream>\n\n/home/cs1ajb/cicsbot/node_modules/hubot-hipchat/node_modules/node-xmpp/lib/xmpp/connection.js:277\n    this.socket.end();\n                ^\nTypeError: Cannot call method 'end' of undefined\n  at Client.Connection.onEnd (/home/cs1ajb/cicsbot/node_modules/hubot-hipchat/node_modules/node-xmpp/lib/xmpp/connection.js:277:17)\n  at CleartextStream.<anonymous> (/home/cs1ajb/cicsbot/node_modules/hubot-hipchat/node_modules/node-xmpp/lib/xmpp/connection.js:56:14)\n  at CleartextStream.EventEmitter.emit (events.js:117:20)\n  at _stream_readable.js:910:16\n  at process._tickCallback (node.js:415:13)```"
+  }
+]

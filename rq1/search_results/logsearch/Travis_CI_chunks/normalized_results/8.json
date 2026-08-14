@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_4b9e363158cc338673396d74a3ad14f15a11a68c9f23c3155194dc6ed1ce5592",
+    "score": 137.36794,
+    "link": "https://github.com/sweetalert2/sweetalert2/issues/1073",
+    "source": "github",
+    "origin_doc_id": "0204322c8dacbb32f3f3c1154a29b2d94d9d5a33f0eeffe97f89f8cfc5f83a61",
+    "snippet": "✗ validation error \n         failed, expected argument to be truthy, was: false \n         Expected: true \n         Actual: false \n             at http://localhost:3001webpack:///test/qunit/tests.js:173:13 <- test/qunit/tests.js:39:94559 \n\n\n        Expected: \"no falsy values\"\n        Actual: \"\"\n            at http://localhost:3001webpack:///test/qunit/tests.js:174:13 <- test/qunit/tests.js:39:94608\n\n\n        failed, expected argument to be truthy, was: undefined\n        Expected: true\n        Actual: undefined\n            at http://localhost:3001webpack:///test/qunit/tests.js:175:13 <- test/qunit/tests.js:39:94670 \n         failed, expected argument to be truthy, was: false \n         Expected: true \n         Actual: false \n             at http://localhost:3001webpack:///test/qunit/tests.js:176:13 <- test/qunit/tests.js:39:94715 \n ```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_386a0b27a4fe898e74a5c4ac536e52fed9630973271df63e227ac1fb8cf9c39a",
+    "score": 127.84822,
+    "link": "https://github.com/DevExpress/testcafe-hammerhead/issues/2254",
+    "source": "github",
+    "origin_doc_id": "ac6931e295a82aee054ca252492515aec2df9ed1c6210c984fbce657be7a7d20",
+    "snippet": "10.13 safari 13.0 - /fixtures/sandbox/xhr-test.js \n Test: \"XHR_COMPLETED_EVENT\" should be raised when xhr is prevented (GH-1283) \n message: failed, expected argument to be truthy, was: false \n expected: true \nfalse \n ------------------------------------------- \n macOS 10.15 safari 13.0 - /fixtures/sandbox/xhr-test.js \n Test: \"XHR_COMPLETED_EVENT\" should be raised when xhr is prevented (GH-1283) \n message: failed, expected argument to be truthy, was: false \n expected: true \n actual: false \n -------------------------------------------"
+  },
+  {
+    "rank": 3,
+    "id": "msg_1a628f7280d94dc732f69e48c93006ef94c9d73977ff13823b1467473ff4330b",
+    "score": 125.255104,
+    "link": "https://github.com/jashkenas/underscore/issues/2698",
+    "source": "github",
+    "origin_doc_id": "64db92eee47ef68ef68d09892e448e34b639768354c03cadf385038139e39e14",
+    "snippet": "failed, expected argument to be truthy, was: false \n      false != true"
+  },
+  {
+    "rank": 4,
+    "id": "msg_bccfa382da6eb1de3d68bfc154633668c88c96c9f1657317388b37545efffa75",
+    "score": 116.428215,
+    "link": "https://github.com/sweetalert2/sweetalert2/pull/1753",
+    "source": "github",
+    "origin_doc_id": "13952fc20f9f5fe0d8c788a1f9faa74f0225bda01e2d1646efb83f1ad88cb0fb",
+    "snippet": "Firefox 68.0.0 (Windows 8.1.0.0): Executed 175 of 175 (1 FAILED) (10.377 secs / 10.249 secs) \n TOTAL: 1 FAILED, 524 SUCCESS \n 1) double backdrop click \n      failed, expected argument to be truthy, was: false \n Expected: true \n Actual: false\n<-"
+  },
+  {
+    "rank": 5,
+    "id": "msg_0b34fdbe631cb60fc9ecdbc3b8a879fcc4e2a512a7c47bae50610e7abd031477",
+    "score": 116.33737,
+    "link": "https://github.com/ractivejs/ractive/pull/2848",
+    "source": "github",
+    "origin_doc_id": "a28b6d79963bd9c61ddf0bc70c4e7de360716cff56947c32e1f0861687de63ed",
+    "snippet": "Safari 10.0.1 (Mac OS X 10.11.6) failed specs: \n   plugins/transitions.js > js timing functions can be used with css transitionable properties (#2152) \n \tfailed, expected argument to be truthy, was: false \n \tExpected: true \n \tActual: false \n \tpromiseReactionJob@[native code] \n ```"
+  },
+  {
+    "rank": 6,
+    "id": "msg_210f79c44e21d44a6e68d0ca0c28116fa05cd4cf94f59a6abb387db9b80a2601",
+    "score": 109.63049,
+    "link": "https://github.com/qunitjs/qunit/issues/1284",
+    "source": "github",
+    "origin_doc_id": "8e2ce9da9bab62b2167b8b48fe60bf0199c003a7ef9c944b977fec5f0abebdde",
+    "snippet": "… \n ok 9998 suite99 > test97 \n not ok 9999 suite99 > test98\n  ---\n  message: \"failed, expected argument to be truthy, was: false\"\n  severity: failed\n  actual: false\n  expected: true\n  stack:     at Object.<anonymous> (/Temp/tmp.js:13:20)\n  ...\nok 10000 suite99 > test99\n1..10000\n# pass 9900"
+  },
+  {
+    "rank": 7,
+    "id": "msg_3387e38ec160a9107d501290420c30d616828feedcc0435bd57a1dc2c060897e",
+    "score": 108.2226,
+    "link": "https://github.com/qunitjs/qunit/issues/1610",
+    "source": "github",
+    "origin_doc_id": "783925efad513b314774bdb5574464a37f43569310a44e845746423ad65daffd",
+    "snippet": "TAP version 13\nok 1 Module A > Test A\nnot ok 2 Module C > Module D > Test D\n  ---\n  message: failed, expected argument to be truthy, was: 0\n  severity: failed\n  actual  : 0\n  expected: true\n  stack: |\n        at Object.<anonymous> (/SNIP/demo.js:22:11)"
+  },
+  {
+    "rank": 8,
+    "id": "msg_fbdc391cffe6cf8c9daf0fda7b84e07f2d60192136af3f0bfbc0832dbba64d1d",
+    "score": 107.74863,
+    "link": "https://github.com/danielspaniel/ember-data-factory-guy/pull/85",
+    "source": "github",
+    "origin_doc_id": "1c09397bb68bdb4e92436eaeb074068ac4f97a72a84d3c5b41ee622316fd7421",
+    "snippet": "actual: > \n             false \n         expected: > \n             true \n         message: > \n            failed, expected argument to be truthy, was: false \n         Log: > \n             INFO: requestConfig set \n             INFO: andFail is called \n             RESPONSE: {\"created_at\":null,\"description\":\"Text goes here\",\"camelCaseDescription\":null,\"snake_case_description\":null,\"company\":null,\"group\":null}"
+  },
+  {
+    "rank": 9,
+    "id": "msg_389587a848486d23959e38ae2edb395e7f448a6fdcdd600c5dee6f3f783f5ab0",
+    "score": 103.84576,
+    "link": "https://github.com/jashkenas/underscore/pull/2490",
+    "source": "github",
+    "origin_doc_id": "78e3c4cf5ceb0564dc99d69ac0612009215b76f54780f3c26ecca11164fca814",
+    "snippet": "failed, expected argument to be falsy, was:"
+  },
+  {
+    "rank": 10,
+    "id": "msg_ace17e0500187aed81c9dfed467f497e5f62b5b1d952dc2a551f51b2676cf383",
+    "score": 103.29812,
+    "link": "https://github.com/jashkenas/underscore/pull/2490",
+    "source": "github",
+    "origin_doc_id": "78e3c4cf5ceb0564dc99d69ac0612009215b76f54780f3c26ecca11164fca814",
+    "snippet": "failed, expected argument to be truthy, was:"
+  }
+]

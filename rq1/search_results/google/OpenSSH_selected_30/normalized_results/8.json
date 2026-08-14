@@ -1,0 +1,139 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Meaning of “Connection closed by xxx [preauth]” in sshd logs",
+    "link": "https://unix.stackexchange.com/questions/102502/meaning-of-connection-closed-by-xxx-preauth-in-sshd-logs",
+    "displayed_link": "https://unix.stackexchange.com › questions › meaning-...",
+    "snippet": "The sshd server will disconnect if the client doesn't try to authenticate in a certain period of time, as documented in the -g option.",
+    "snippet_highlighted_words": [],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Why am I getting “Connection closed by [preauth]” with ...",
+    "link": "https://superuser.com/questions/1748022/why-am-i-getting-connection-closed-by-preauth-with-ssh-on-ubuntu",
+    "displayed_link": "https://superuser.com › questions › why-am-i-getting-c...",
+    "snippet": "I have Ubuntu running on Windows (app) where I have created SSH key pair and added to Ubuntu server (Cloud) for the user. Whenever I try to SSH ...",
+    "snippet_highlighted_words": [],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "SSH and the (apparently) dreaded \"Connection closed ...",
+    "link": "https://forum.level1techs.com/t/ssh-and-the-apparently-dreaded-connection-closed-preauth/115323",
+    "displayed_link": "https://forum.level1techs.com › ... › Linux",
+    "snippet": "I have a Linux problem. Basically the server that I use to get ssh access to my network no longer lets me connect from the outside world.",
+    "snippet_highlighted_words": [
+      "connect"
+    ],
+    "source": "Level1Techs Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Connection closed by <ip> [preauth] - ssh",
+    "link": "https://serverfault.com/questions/847272/connection-closed-by-ip-preauth",
+    "displayed_link": "https://serverfault.com › questions › connection-closed-...",
+    "snippet": "I'm trying to enable an ssh tunnel in order to add a git remote in a project of mine. When I try to open a remote shell I get the error Server refused our key.",
+    "snippet_highlighted_words": [],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "[SOLVED] sshd Connection closed by <IP> [preauth]",
+    "link": "https://www.linuxquestions.org/questions/linux-networking-3/sshd-connection-closed-by-ip-%5Bpreauth%5D-4175731566/",
+    "displayed_link": "https://www.linuxquestions.org › linux-networking-3 › s...",
+    "snippet": "Sounds like a firewall is rejecting the connections somewhere, or hosts.deny if you use it. It could also be a restriction in the server config ...",
+    "snippet_highlighted_words": [
+      "firewall is rejecting the connections"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "16.04 - SSH Connection to Ubuntu Server fails with ...",
+    "link": "https://askubuntu.com/questions/798555/ssh-connection-to-ubuntu-server-fails-with-connection-closed-ip-preauth",
+    "displayed_link": "https://askubuntu.com › questions › ssh-connection-to-...",
+    "snippet": "After a while it says Connection closed <ip> [preauth] . What can this be? Help is much appreciated. server · 16.04 · openssh.",
+    "snippet_highlighted_words": [
+      "Connection closed",
+      "preauth"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "[SOLVED] - Connection closed by IP port xxxx [preauth]",
+    "link": "https://forum.proxmox.com/threads/connection-closed-by-ip-port-xxxx-preauth.46734/",
+    "displayed_link": "https://forum.proxmox.com › threads › connection-clos...",
+    "snippet": "We run a 3 nodes cluster with CEPH. Recently we have noticed that we are unable to use Web VNC for 2 of the nodes, upon some reading online I have restarted ...",
+    "snippet_highlighted_words": [],
+    "source": "Proxmox Support Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "SSH vs SSH2 Connection closed by authenticating user ...",
+    "link": "https://github.com/blinksh/blink/issues/593",
+    "displayed_link": "https://github.com › blinksh › blink › issues",
+    "snippet": "After the upgrade to 12/12.1 I get a Connection closed by authenticating user [preauth] on the server when using ssh, ssh2 works as expected ...",
+    "snippet_highlighted_words": [
+      "Connection closed",
+      "preauth"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "SSH: Connection closed by remote server",
+    "link": "https://stackoverflow.com/questions/18120956/ssh-connection-closed-by-remote-server",
+    "displayed_link": "10+ answers · 12 years ago",
+    "snippet": "I tried to connect with a user, which had :/bin/false in /etc/passwd . After changing it to :/bin/bash the connection was not closed anymore.",
+    "snippet_highlighted_words": [
+      "connect",
+      "connection",
+      "closed"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Unable to ssh via tunnel with Self Managed Key",
+    "link": "https://community.cloudflare.com/t/unable-to-ssh-via-tunnel-with-self-managed-key/750169",
+    "displayed_link": "https://community.cloudflare.com › unable-to-ssh-via-t...",
+    "snippet": "I have configuration on my ubuntu server for cloudflared tunnel for SSH connection, I'm using connection type Self managed ssh keys.",
+    "snippet_highlighted_words": [
+      "connection",
+      "connection"
+    ],
+    "source": "Cloudflare Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_2aa6278ba3dbb2098ec3b8819e7b3f1aa518228edc75bcd17edf13990314f34a",
+    "score": 23.93871,
+    "link": "https://stackoverflow.com/questions/5534712",
+    "source": "so",
+    "origin_doc_id": "95fb1412ae4c791fd55a8f91cd469789d592ae75f66ee51d4eb94915ea97356a",
+    "snippet": "logging.debug(\"SOCIALAUTH: Couldn't authenticate user with Django, redirecting to Login page\")"
+  },
+  {
+    "rank": 2,
+    "id": "msg_4352d1bab9e6ebc5c42257feeb243db7a9c16b149035b903d1c59fb605437dd4",
+    "score": 22.975708,
+    "link": "https://stackoverflow.com/questions/56026723",
+    "source": "so",
+    "origin_doc_id": "cbcee7755e0b6522b131a74ca0924558738a0d4042e0bb4867285ddf4cd7c7bb",
+    "snippet": "[E_WARNING] Authentication failed for user \"user@example.com\": imap_open(): Couldn't open stream {imap.gmail.com:993/imap/ssl/validate-cert} \n imap_alerts (0): \n imap_errors (1): \n - Can not authenticate to IMAP server: [CLOSED] IMAP connection broken (authenticate)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_39aab244b65d59bb74fb6b1e42e3e3944be3dd6430fd4ca92e5a1770c3c5362e",
+    "score": 22.975708,
+    "link": "https://stackoverflow.com/questions/30331800",
+    "source": "so",
+    "origin_doc_id": "9b57f43aabe637759f09ad55fdbe7edb91df15409aae09e52f14ea3fffc31b48",
+    "snippet": "Wed May 20 06:12:37.337 [conn23] auth: couldn't find user mongodb@admin, admin.system.users \n Wed May 20 06:12:37.338 [conn22]  authenticate db: admin { authenticate: 1, user: \"mongodb\", nonce: \"4ecbda68de309435\", key: \"ca66aa2d830a43e4741d1aa44158b454\""
+  },
+  {
+    "rank": 4,
+    "id": "msg_07eb735c23a8f48fcb7b996513d3763716c7a92962c4c0f8946a75df75260699",
+    "score": 22.813745,
+    "link": "https://jira.mongodb.org/browse/SERVER-8039",
+    "source": "jira",
+    "origin_doc_id": "066467941c8337b960d08f5c14ae75eef44b20af137ee00dee43237d4f105c0b",
+    "snippet": "Wed Dec 26 20:02:37 [conn1183] authenticate db: partition-validator { authenticate: 1, user: \"auto\", nonce: \"5b3de430aaacf9a5\", key: \"6eb58aa336bfc1eef5779a04761f83d3\" } \n Wed Dec 26 20:02:37 [conn1183] auth: couldn't find user auto, partition-validator.system.users"
+  },
+  {
+    "rank": 5,
+    "id": "msg_98eb2e9ca810d4c0cb38374b50875e5cec6b93489c4fdbabb902dc0ac0ab49ea",
+    "score": 22.722187,
+    "link": "https://github.com/justcoding121/titanium-web-proxy/issues/890",
+    "source": "github",
+    "origin_doc_id": "c59b377ed1cd3ba0c081328af28c4dde0a943c2fb2129bbda5c1612cef1cbb8a",
+    "snippet": "Couldn't authenticate host 'www.google.com' with certificate '*.google.com'. \n Tunnel to: www.google.com \n Tunnel\nCouldn't authenticate host 'www.google.com' with certificate '*.google.com'.\nCouldn't authenticate host 'www.google.com' with certificate '*.google.com'.\nActive Client Connections:6\nhttp://edge.microsoft.com/captiveportal/generate_204\nError occured whilst handling session request: Could not establish connection to edge.microsoft.com\nCouldn't authenticate host 'fonts.gstatic.com' with certificate '*.gstatic.com'.\nCouldn't authenticate host 'www.gstatic.com' with certificate '*.gstatic.com'.\nTunnel to: a.nel.cloudflare.com\nCouldn't authenticate host 'a.nel.cloudflare.com' with certificate '*.nel.cloudflare.com'.\nTunnel to: sso.godaddy.com\nCouldn't authenticate host 'sso.godaddy.com' with certificate '*.godaddy.com'. \n Tunnel to: self.events.data.microsoft.com \n Couldn't authenticate host 'self.events.data.microsoft.com' with certificate '*.events.data.microsoft.com'. \n Tunnel to: self.events.data.microsoft.com \n Couldn't authenticate host 'self.events.data.microsoft.com' with certificate '*.events.data.microsoft.com'. \n Tunnel to: self.events.data.microsoft.com \n Couldn't authenticate host 'self.events.data.microsoft.com' with certificate '*.events.data.microsoft.com'."
+  },
+  {
+    "rank": 6,
+    "id": "msg_45fc866a5e514e8e39bed29bfd4e3f19b3c603e215f5cd1875e781a07b638dad",
+    "score": 22.387674,
+    "link": "https://stackoverflow.com/questions/17875118",
+    "source": "so",
+    "origin_doc_id": "688f616cb3b66adf64189336a163ecb27b34e9ddc5a5d763b58c2a9d7766c0cd",
+    "snippet": "[13257] auth_ldap authenticate: user myuser authentication failed; URI /page [User not found][No such object] \n [crit] [client x.x.x.x] configuration error:  couldn't check user.  No user file?: /page"
+  },
+  {
+    "rank": 7,
+    "id": "msg_9147de82c23abea0a51fae998eed9073b11a05f18c09216fc814627890cb67ea",
+    "score": 22.113852,
+    "link": "https://github.com/MicrosoftDocs/sql-docs/issues/4102",
+    "source": "github",
+    "origin_doc_id": "1b085f541dd976988433957b475b683d570f544015de844cbb3289f5ab5fc57a",
+    "snippet": "15.0.1300.359 gives message: Failed to authenticate the user '' in Active Directory, like it couldn't get proper authorization info"
+  },
+  {
+    "rank": 8,
+    "id": "msg_ba3e613e9a55e394b72634630fef4ee479d36ada6d97110b58434524f3df9430",
+    "score": 21.998533,
+    "link": "https://jira.mongodb.org/browse/SERVER-6770",
+    "source": "jira",
+    "origin_doc_id": "ed936a408178c8ae7f5add781db049ffad0eb052df451ded5319917de50d99e5",
+    "snippet": "Wed Aug 15 09:21:10 [initandlisten] connection accepted from 10.20.30.12:50992 #8309\nWed Aug 15 09:27:34 [initandlisten] connection accepted from 10.20.30.22:46205 #8425\nWed Aug 15 09:28:17 [conn8438]  authenticate: { authenticate: 1, user: \"root\", nonce: \"e97451fc6d5afae7\", key: \"963507d7a5755183d9b8db6b164d2589\" }\nWed Aug 15 09:28:17 [conn8438] auth: couldn't find user root, catalog_ru_front.system.users\nWed Aug 15 09:28:18 [conn8342]  authenticate: { authenticate: 1, user: \"root\", nonce: \"f972f5128f581f33\", key: \"2d41a1cd667473100afc7aa1e59bb74e\" }\nWed Aug 15 09:28:18 [conn8342] auth: couldn't find user root, catalog_ru_front.system.users\nWed Aug 15 09:28:18 [conn8410]  authenticate: { authenticate: 1, user: \"root\", nonce: \"6a11bcc7ae506e7e\", key: \"2bc5033ccf036a313f3c2efaf86abb14\" }\nWed Aug 15 09:28:18 [conn8410] auth: couldn't find user root, catalog_ru_front.system.users\nWed Aug 15 09:28:19 [conn8330]  authenticate: { authenticate: 1, user: \"root\", nonce: \"de4efc4e81d4b177\", key: \"027a55fb363f8215f10a592bc2e6dde5\" }\nWed Aug 15 09:28:19 [conn8330] auth: couldn't find user root, catalog_ru_front.system.users\nWed Aug 15 09:28:19 [conn8249]  authenticate: { authenticate: 1, user: \"root\", nonce: \"26cdb8dab282c5f1\", key: \"1b46f5c138e3136fbdf6b848fff22fd1\" }\nWed Aug 15 09:28:19 [conn8249] auth: couldn't find user root, catalog_ru_front.system.users\nWed Aug 15 09:28:19 [conn8330]  authenticate: { authenticate: 1, user: \"root\", nonce: \"7f739c3d81fd7cdf\", key: \"55e52b1a1498d185bcdf9174e595d141\" }\nWed Aug 15 09:28:19 [conn8330] auth: couldn't find user root, catalog_ru_front.system.users\nWed Aug 15 09:28:19 [conn8430]  authenticate: { authenticate: 1, user: \"root\", nonce: \"f65f3fe1841b924e\", key: \"c248ef18d1e6913841ab992002f512c5\" }\nWed Aug 15 09:28:19 [conn8430] auth: couldn't find user root, catalog_ru_front.system.users\nWed Aug 15 09:28:20 [conn8425]  authenticate: { authenticate: 1, user: \"root\", nonce: \"834599d720569d56\", key: \"face44461efecb52b8a92188bbef7c75\" }\nWed Aug 15 09:28:20 [conn8425] auth: couldn't find user root, catalog_ru_front.system.users\nWed Aug 15 09:28:21 [conn8309]  authenticate: { authenticate: 1, user: \"root\", nonce: \"3100892acaeb2bf\", key: \"645efadcfc740aad24b7940f4c2d713d\" }\nWed Aug 15 09:28:21 [conn8309] auth: couldn't find user root, catalog_ru_front.system.users\nWed Aug 15 09:28:21 [conn8425]  authenticate: { authenticate: 1, user: \"root\", nonce: \"f38a3165032e4190\", key: \"efebf5ea3a4bec02585fbcb826187280\" }\nWed Aug 15 09:28:21 [conn8425] auth: couldn't find user root, catalog_ru_front.system.users\nWed Aug 15 09:28:21 Got signal: 6 (Aborted).\nWed Aug 15 09:28:21 Backtrace:\nWed Aug 15 09:28:21 [conn8309] ERROR: Client::~Client _context should be null but is not; client:conn\nWed Aug 15 09:28:21 [conn8309] ERROR: Client:hutdown not called: conn\nWed Aug 15 09:28:21 [conn8425] ERROR: Uncaught std::exception: std::bad_alloc, terminating\nWed Aug 15 09:28:21 dbexit: \nWed Aug 15 09:28:21 [conn8425] shutdown: going to close listening sockets...\nWed Aug 15 09:28:21 [conn8425] closing listening socket: 6\nWed Aug 15 09:28:21 [conn8425] closing listening socket: 7\nWed Aug 15 09:28:21 [conn8425] closing listening socket: 8\nWed Aug 15 09:28:21 [conn8425] removing socket file: /var/run/mongodb/mongodb-27017.sock\nWed Aug 15 09:28:21 [conn8425] shutdown: going to flush diaglog...\nWed Aug 15 09:28:21 [conn8425] shutdown: going to close sockets...\nWed Aug 15 09:28:21 [conn8425] shutdown: waiting for fs preallocator...\nWed Aug 15 09:28:21 [conn8425] shutdown: lock for final commit...\nWed Aug 15 09:28:21 [conn8425] shutdown: final commit...\nWed Aug 15 09:28:21 [conn8425] shutdown: closing all files...\nWed Aug 15 09:28:21 [conn8425] closeAllFiles() finished\nWed Aug 15 09:28:21 [conn8425] journalCleanup...\nWed Aug 15 09:28:21 [conn8425] removeJournalFiles"
+  },
+  {
+    "rank": 9,
+    "id": "msg_5dcd66218debd15d3a3a44961d3efaea6ec28bed07f9ebbbf351f11b01f03d4b",
+    "score": 21.90059,
+    "link": "https://github.com/elastic/stack-docker/issues/25",
+    "source": "github",
+    "origin_doc_id": "4a84575abd52a79453f744ff7c7522bd65924903b42374dd3db21184c4899771",
+    "snippet": "Exiting: Couldn't connect to any of the configured Elasticsearch hosts. Errors: [Error connection to Elasticsearch http://elasticsearch:9200: 401 Unauthorized: {\"error\":{\"root_cause\":[{\"type\":\"security_exception\",\"reason\":\"failed to authenticate user [elastic]\",\"header\":{\"WWW-Authenticate\":\"Basic realm=\\\"security\\\" charset=\\\"UTF-8\\\"\"}}],\"type\":\"security_exception\",\"reason\":\"failed to authenticate user [elastic]\",\"header\":{\"WWW-Authenticate\":\"Basic realm=\\\"security\\\" charset=\\\"UTF-8\\\"\"}},\"status\":401}]"
+  },
+  {
+    "rank": 10,
+    "id": "msg_3d69332e40410236d39be1c665e37073b50ac1d721be13f9fab16825fac9f528",
+    "score": 21.642475,
+    "link": "https://stackoverflow.com/questions/34132352",
+    "source": "so",
+    "origin_doc_id": "08618df690d62a0975d2b9b410138e4167f9299142e82a98054a0012289c5cd1",
+    "snippet": "2015-12-07 12:00:02 CET [5603-2] db DETAIL:  Parameter: $1 = 'admin' \n PAM_pgsql[5788]: couldn't authenticate user admin"
+  }
+]

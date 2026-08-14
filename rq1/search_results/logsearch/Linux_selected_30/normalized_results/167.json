@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_18b1ed4584e0747e36b27abfe91470005adbb6a4f4492be39f4ec04af051bba6",
+    "score": 45.93563,
+    "link": "https://github.com/net-snmp/net-snmp/issues/293",
+    "source": "github",
+    "origin_doc_id": "96d1c0db80a7d92afa2d302737494a9b3decf014c084859b46af89a969561139",
+    "snippet": "-- UCD-SNMP-MIB::prErrorFlag \n Received SNMP packet(s) from callback: 1 on fd 3\n  GET message\n    -- DISMAN-EVENT-MIB::sysUpTimeInstance\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- UCD-SNMP-MIB::memSwapError\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- UCD-SNMP-MIB::memSwapError.0\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GET message\n    -- DISMAN-EVENT-MIB::sysUpTimeInstance\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GET message\n    -- UCD-SNMP-MIB::memErrorName.0\n    -- UCD-SNMP-MIB::memSwapErrorMsg.0\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- UCD-SNMP-MIB::extResult\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GET message\n    -- DISMAN-EVENT-MIB::sysUpTimeInstance\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- UCD-SNMP-MIB::dskErrorFlag\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GET message\n    -- DISMAN-EVENT-MIB::sysUpTimeInstance\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- UCD-SNMP-MIB::laErrorFlag\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- UCD-SNMP-MIB::laErrorFlag.1\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- UCD-SNMP-MIB::laErrorFlag.2\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- UCD-SNMP-MIB::laErrorFlag.3\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GET message\n    -- DISMAN-EVENT-MIB::sysUpTimeInstance\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- UCD-SNMP-MIB::fileErrorFlag\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GET message\n    -- DISMAN-EVENT-MIB::sysUpTimeInstance\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- UCD-SNMP-MIB::snmperrErrorFlag\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- UCD-SNMP-MIB::snmperrErrorFlag.0\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GET message\n    -- DISMAN-EVENT-MIB::sysUpTimeInstance\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- IF-MIB::ifOperStatus\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- IF-MIB::ifOperStatus.1\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- IF-MIB::ifOperStatus.2\nReceived SNMP packet(s) from callback: 1 on fd 3\n  GETNEXT message\n    -- IF-MIB::ifOperStatus.4\nReceived SNMP packet(s) from callback: 1 on fd 3"
+  },
+  {
+    "rank": 2,
+    "id": "msg_b5bac820665f64c168ca274609e35102125d28ce052d6731e7b19c0ac06b940a",
+    "score": 37.96919,
+    "link": "https://github.com/net-snmp/net-snmp/issues/293",
+    "source": "github",
+    "origin_doc_id": "96d1c0db80a7d92afa2d302737494a9b3decf014c084859b46af89a969561139",
+    "snippet": "Received SNMP packet(s) from callback: 1 on fd 3 \n   GETNEXT message"
+  },
+  {
+    "rank": 3,
+    "id": "msg_b170692abadfb49f27a65a57dc849204dee9b872f2bdfaee1dd663a8d22f2b80",
+    "score": 36.95087,
+    "link": "https://github.com/net-snmp/net-snmp/issues/326",
+    "source": "github",
+    "origin_doc_id": "bd8844aafb2ab8d692306e6801b5d8979aa25f136fee7f3916e68ee90ab52ffe",
+    "snippet": "version 5.9 \n Sending 1 bytes to callback: 2 on fd 6 \n0000: 00                                                    . \n Received 1 byte packet from callback: 1 on fd 4 \n 0000: 00                                                    . \n Received SNMP packet(s) from callback: 1 on fd 4 \n   GETNEXT message \n     -- UCD-SNMP-MIB::prErrorFlag \n ```"
+  },
+  {
+    "rank": 4,
+    "id": "msg_55288de2de2888f0824192f23f92b920772beef1c7bc97c7c242b76ef9b84724",
+    "score": 33.62788,
+    "link": "https://stackoverflow.com/questions/66685843",
+    "source": "so",
+    "origin_doc_id": "4b3c8d5e17c0a393b6c78d8f048b0966453202d1943e7686e7b1fc0301fbba15",
+    "snippet": "Console.WriteLine(\"** SNMP Version 2 TRAP received from {0}:\", inep.ToString());\nConsole.WriteLine(\"Zero length packet received.\");"
+  },
+  {
+    "rank": 5,
+    "id": "msg_0423c6f4e2ecb37f602ca0b5d1d391fdcee3f968fdadd042b975b85e05517450",
+    "score": 33.013805,
+    "link": "https://stackoverflow.com/questions/54208707",
+    "source": "so",
+    "origin_doc_id": "3a0599dfffe4c2980ec136bf7571b5679b58bf64d4504ccd07595a772de9c8a8",
+    "snippet": "00:19:16: SNMP: Packet received via UDP from 10.10.10.10 on Vlan1"
+  },
+  {
+    "rank": 6,
+    "id": "msg_4f97bbd08a29880dd456f9d024231487a6f18947b8e9bcd07933adc34a961be5",
+    "score": 33.013805,
+    "link": "https://stackoverflow.com/questions/54208707",
+    "source": "so",
+    "origin_doc_id": "3a0599dfffe4c2980ec136bf7571b5679b58bf64d4504ccd07595a772de9c8a8",
+    "snippet": "00:19:17: SNMP: Packet received via UDP from 10.10.10.10 on Vlan1"
+  },
+  {
+    "rank": 7,
+    "id": "msg_4f592477d74123ca8bc93e4690fac90294c82a3b3ade77e5c6e41e5a5b2338cf",
+    "score": 33.013805,
+    "link": "https://stackoverflow.com/questions/54208707",
+    "source": "so",
+    "origin_doc_id": "3a0599dfffe4c2980ec136bf7571b5679b58bf64d4504ccd07595a772de9c8a8",
+    "snippet": "00:15:33: SNMP: Packet received via UDP from 10.10.10.10 on Vlan1"
+  },
+  {
+    "rank": 8,
+    "id": "msg_21edc10b79b117b1ed0a1661979cdd07c584fe932df8309294b2fc19870993b5",
+    "score": 33.013805,
+    "link": "https://stackoverflow.com/questions/54208707",
+    "source": "so",
+    "origin_doc_id": "3a0599dfffe4c2980ec136bf7571b5679b58bf64d4504ccd07595a772de9c8a8",
+    "snippet": "00:15:34: SNMP: Packet received via UDP from 10.10.10.10 on Vlan1"
+  },
+  {
+    "rank": 9,
+    "id": "msg_24d246745723f1ece8ba5842729108846b0e59576c265ae129b9f3c586cd4a4f",
+    "score": 33.013805,
+    "link": "https://stackoverflow.com/questions/54208707",
+    "source": "so",
+    "origin_doc_id": "3a0599dfffe4c2980ec136bf7571b5679b58bf64d4504ccd07595a772de9c8a8",
+    "snippet": "00:15:37: SNMP: Packet received via UDP from 10.10.10.10 on Vlan1"
+  },
+  {
+    "rank": 10,
+    "id": "msg_b7fd4e5507a93f1036bc06eab266172411569619aa8dcc9da7871cf838236398",
+    "score": 31.275448,
+    "link": "https://github.com/net-snmp/net-snmp/issues/270",
+    "source": "github",
+    "origin_doc_id": "453198aa11a4e446ebd36727d896da3b471fabd480535e4d86ab066d37a2e230",
+    "snippet": "*Feb 16 06:31:43.017: SNMP: Packet received via UDP from 10.0.6.65 on GigabitEthernet1no such type in ParseType (106) (0x6A) \n ParseSequence, Unexpected type: FFFFFFFFFFFFFFFF \n SrParseV3SnmpMessage: ParseSequence: \n SrParseV3SnmpMessage: Failed. \n SrDoSnmp: ASN Parse Error \n *Feb 16 06:31:45.018: SNMP: Packet received via UDP from 10.0.6.65 on GigabitEthernet1no such type in ParseType (14) (0xE) \nParseSequence, Unexpected type: FFFFFFFFFFFFFFFF\nSrParseV3SnmpMessage: ParseSequence:\nSrParseV3SnmpMessage: Failed.\nSrDoSnmp: ASN Parse Error\n\n*Feb 16 06:31:47.021: SNMP: Packet received via UDP from 10.0.6.65 on GigabitEthernet1no such type in ParseType (20) (0x14)\nParseSequence, Unexpected type: FFFFFFFFFFFFFFFF\nSrParseV3SnmpMessage: ParseSequence:\nSrParseV3SnmpMessage: Failed.\nSrDoSnmp: ASN Parse Error\n\n*Feb 16 06:31:49.023: SNMP: Packet received via UDP from 10.0.6.65 on GigabitEthernet1no such type in ParseType (80) (0x50)\nParseSequence, Unexpected type: FFFFFFFFFFFFFFFF\nSrParseV3SnmpMessage: ParseSequence:\nSrParseV3SnmpMessage: Failed.\nSrDoSnmp: ASN Parse Error\n\n*Feb 16 06:31:51.023: SNMP: Packet received via UDP from 10.0.6.65 on GigabitEthernet1no such type in ParseType (103) (0x67)\nParseSequence, Unexpected type: FFFFFFFFFFFFFFFF\nSrParseV3SnmpMessage: ParseSequence:\nSrParseV3SnmpMessage: Failed. \n SrDoSnmp: ASN Parse Error"
+  }
+]

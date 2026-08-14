@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_2377f64c6cf0984bed690a4fcc270b8e1a47b8e6d749556e3ffc049109860144",
+    "score": 136.52069,
+    "link": "https://stackoverflow.com/questions/76584465",
+    "source": "so",
+    "origin_doc_id": "baa80f964e356e418826285f237dfa6e788f79a6068720ff52b4614b89cfb00e",
+    "snippet": "Jun 29, 2023 10:00:01 AM org.apache.activemq.broker.BrokerService <clinit> \n INFO: Loaded the Bouncy Castle security provider at position: 14 \n Jun 29, 2023 10:00:02 AM org.apache.activemq.broker.BrokerService  \n doStartPersistenceAdapter \n INFO: Using Persistence Adapter:  \n KahaDBPersistenceAdapter[C:\\Windows\\system32\\activemq-data\\localhost\\KahaDB] \n Jun 29, 2023 10:00:02 AM org.apache.activemq.store.SharedFileLocker doStart \n INFO: Database activemq-data\\localhost\\KahaDB\\lock is locked by another server. This broker is now in slave mode waiting a lock to be acquired \n\n  INFO: Database activemq-data\\localhost\\KahaDB\\lock is locked by another server. This broker is now in slave mode waiting a lock to be acquired"
+  },
+  {
+    "rank": 2,
+    "id": "msg_54c1fe81f31ab4bb8902f1619918d9de91f856f6090c373c08f4a4437ebee9cc",
+    "score": 135.36092,
+    "link": "https://stackoverflow.com/questions/48579060",
+    "source": "so",
+    "origin_doc_id": "b20c177ce8094e27cfdae0d6dac26c7155bb6a59cb19f36f7796ce0b7f0013e1",
+    "snippet": "2018-02-02 11:48:31.300  INFO 17008 --- [           main] o.a.activemq.store.SharedFileLocker      : Database activemq-data\\localhost\\KahaDB\\lock is locked by another server. This broker is now in slave mode waiting a lock to be acquired\nSystem.out.println(in);"
+  },
+  {
+    "rank": 3,
+    "id": "msg_3e8af350cc9b0c5686ae74c97742ac18315fb6f38f62ab72280d326ad2c01f29",
+    "score": 127.651855,
+    "link": "https://stackoverflow.com/questions/62575696",
+    "source": "so",
+    "origin_doc_id": "6d76e85319d3a3aff8eb96322175affde263a775c7a71b8ff5c4f26e1fb7c087",
+    "snippet": "INFO | Database C:\\tan\\my_softwares\\apache-activemq-5.15.11\\bin\\..\\data \\localhost\\scheduler\\lock is locked by another server. This broker is now in slave mode waiting a lock to be acquired"
+  },
+  {
+    "rank": 4,
+    "id": "msg_fde0ca060267b926f3ded87d59419c4d87faacd42731f6e77878ef2d6ca61f22",
+    "score": 103.17456,
+    "link": "https://stackoverflow.com/questions/62575696",
+    "source": "so",
+    "origin_doc_id": "6d76e85319d3a3aff8eb96322175affde263a775c7a71b8ff5c4f26e1fb7c087",
+    "snippet": "ACTIVEMQ_BASE: C:\\tan\\my_softwares\\apache-activemq-5.15.11\\bin\\..\nACTIVEMQ_CONF: C:\\tan\\my_softwares\\apache-activemq-5.15.11\\bin\\..\\conf\nACTIVEMQ_DATA: C:\\tan\\my_softwares\\apache-activemq-5.15.11\\bin\\..\\data\nLoading message broker from: xbean:activemq.xml\n INFO | Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@1cbbffcd: startup date [Thu Jun 25 07:35:22 CDT 2020]; root of context hierarchy\n INFO | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\\tan\\my_softwares\\apache-activemq-5.15.11\\bin\\..\\data\\kahadb]\n INFO | KahaDB is version 6\n INFO | PListStore:[C:\\tan\\my_softwares\\apache-activemq-5.15.11\\bin\\..\\data \\localhost\\tmp_storage] started\n INFO | Database C:\\tan\\my_softwares\\apache-activemq-5.15.11\\bin\\..\\data \\localhost\\scheduler\\lock is locked by another server. This broker is now in slave mode waiting a lock to be acquired"
+  },
+  {
+    "rank": 5,
+    "id": "msg_edefc75c40efccccb8d9151b5c99c8d6578212d464763b06e8fb26b02beab842",
+    "score": 101.81309,
+    "link": "https://stackoverflow.com/questions/26757680",
+    "source": "so",
+    "origin_doc_id": "46854ed44a0aa49ade7f9dc6e234ebf2459f0271fefcdd7420a2a06d9952764b",
+    "snippet": "2014-11-06 07:05:34,460 [main           ] INFO  SharedFileLocker               - Database activemq-data/localhost/KahaDB/lock is locked... waiting 10 seconds for the database to be unlocked. Reason: java.io.IOException: Failed to create directory 'activemq-data/localhost/KahaDB'"
+  },
+  {
+    "rank": 6,
+    "id": "msg_db8545b8de63dd9e9dadcc080765b5e055d01b854d6bc7514a67483dfd1ad61b",
+    "score": 93.84765,
+    "link": "https://stackoverflow.com/questions/25771094",
+    "source": "so",
+    "origin_doc_id": "ee74690b7c3408a65fd12ab4d49379625ec50b31e80ad561769175a6e6816bf1",
+    "snippet": "INFO [org.apache.activemq.store.SharedFileLocker] (Starting ActiveMQ Broker) Database activemq-data/kahadb/lock is locked... waiting 10 seconds for the database to be unlocked. Reason: java.io.IOException: Failed to create directory 'activemq-data/kahadb'"
+  },
+  {
+    "rank": 7,
+    "id": "msg_93b602f2ce0d9d64b58be7ef65c2f10584f8985be4972d60c01a10629052ee6b",
+    "score": 90.26426,
+    "link": "https://stackoverflow.com/questions/24863258",
+    "source": "so",
+    "origin_doc_id": "1b75dd7237c2d8adcc8c475f125484d0564a2583d0876dbaa141b3f647e111f0",
+    "snippet": "2014-07-21 12:37:04,377 INFO [org.apache.activemq.store.SharedFileLocker] - <Database   activemq-data\\fileProcessorLocalBroker\\KahaDB\\lock is locked... waiting 10 seconds for the database to be unlocked. Reason: java.io.IOException: File 'activemq-data\\fileProcessorLocalBroker\\KahaDB\\lock' could not be locked.>"
+  },
+  {
+    "rank": 8,
+    "id": "msg_fa8c81d6645c1866f6d5bbef96ed1ba5e2fa1bcd2c01a0c6f72034d06fa3342e",
+    "score": 90.26426,
+    "link": "https://stackoverflow.com/questions/40655665",
+    "source": "so",
+    "origin_doc_id": "c49fbc863494dfc290fbafd09f4a648e04feff8b63ee7d3ef57bb06c03c10e23",
+    "snippet": "2016-11-17 12:17:19,277 INFO  o.a.activemq.store.SharedFileLocker \n   Database activemq-data/localhost/KahaDB/lock is locked... waiting 10 \n   seconds for the database to be unlocked. Reason: java.io.IOException: \n   File 'activemq-data/localhost/KahaDB/lock' could not be locked."
+  },
+  {
+    "rank": 9,
+    "id": "msg_a7bb64d1336d81c90efa924336211ce0b0f1162e0da980fdbbcda87624a4d3f3",
+    "score": 90.26426,
+    "link": "https://stackoverflow.com/questions/40655665",
+    "source": "so",
+    "origin_doc_id": "c49fbc863494dfc290fbafd09f4a648e04feff8b63ee7d3ef57bb06c03c10e23",
+    "snippet": "2016-11-17 12:17:09,277 INFO  o.a.activemq.store.SharedFileLocker \n   Database activemq-data/localhost/KahaDB/lock is locked... waiting 10 \n   seconds for the database to be unlocked. Reason: java.io.IOException: \n   File 'activemq-data/localhost/KahaDB/lock' could not be locked."
+  },
+  {
+    "rank": 10,
+    "id": "msg_e9b5f0eff0dbc01325a2694ef1f373e471bcef9130c7fad5e7eb31b552e6bfad",
+    "score": 89.398056,
+    "link": "https://stackoverflow.com/questions/18574104",
+    "source": "so",
+    "origin_doc_id": "8d84d3f18d6f7c7c59bb8f16aaa84515b68a17842a256d2dd5117864ef434fd8",
+    "snippet": "Database activemq-data\\localhost\\KahaDB\\lock is locked... waiting 10 seconds for the database to be unlocked. Reason: java.io.IOException: File 'activemq-data\\localhost\\KahaDB\\lock' could not be locked."
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "case_id": "46",
+  "summary_raw": "[\"Error loading\",\"invalid or missing program image\"]",
+  "summary_items": [
+    "Error loading",
+    "invalid or missing program image"
+  ],
+  "group_logs_lines": [
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",
+    "RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error"
+  ]
+}

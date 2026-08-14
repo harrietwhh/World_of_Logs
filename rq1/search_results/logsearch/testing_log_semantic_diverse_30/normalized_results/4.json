@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_2782ab0ff5ec29ae797f3a49c188902b4d30f0e109a4e36d526bda959482eb89",
+    "score": 94.887054,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-3329",
+    "source": "jira",
+    "origin_doc_id": "045da050c5c2bd86f79aab927e84d2230033bf8593165100aaee0b40aa738a2b",
+    "snippet": "2019-03-19 15:30:46,889 [myid:] - INFO [Thread-0:QuorumPeerConfig@141] - Reading configuration from: /Users/wenba/workspaces/workspace_zookeeper/zookeeper/zookeeper-server/target/surefire/test5571915780702939434.junit.dir/zoo.cfg"
+  },
+  {
+    "rank": 2,
+    "id": "msg_aee761d2cee30a8d8519158a925b6a7f63f3c344b294555ac3f599c83b2fc589",
+    "score": 79.01161,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:20,050 [myid:] - INFO  [Thread-1:QuorumPeerConfig@111] - Reading configuration from: /data/jenkins/workspace/CDH5-ZooKeeper-3.4.5-JDK7/build/test/tmp/test8717551953335097579.junit.dir/zoo.cfg"
+  },
+  {
+    "rank": 3,
+    "id": "msg_30b536ad13e128841b8b4420fb337528f3816c5061d89cdf0f6049357ca6bdb7",
+    "score": 76.86038,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:20,048 [myid:] - INFO  [Thread-2:QuorumPeerConfig@111] - Reading configuration from: /data/jenkins/workspace/CDH5-ZooKeeper-3.4.5-JDK7/build/test/tmp/test4158500655544466289.junit.dir/zoo.cfg"
+  },
+  {
+    "rank": 4,
+    "id": "msg_71df0e0c1db6436eee14e9b5fbe635de08bdd722040c22036b56e42c8aa75416",
+    "score": 76.86038,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:22,655 [myid:] - INFO  [Thread-13:QuorumPeerConfig@111] - Reading configuration from: /data/jenkins/workspace/CDH5-ZooKeeper-3.4.5-JDK7/build/test/tmp/test1594648493062198412.junit.dir/zoo.cfg"
+  },
+  {
+    "rank": 5,
+    "id": "msg_ea94faef5c909183f2f8f51b23a76d77ae3665282546cadc5163e839fe4a2f86",
+    "score": 76.86038,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:22,657 [myid:] - INFO  [Thread-15:QuorumPeerConfig@111] - Reading configuration from: /data/jenkins/workspace/CDH5-ZooKeeper-3.4.5-JDK7/build/test/tmp/test2781541844609161589.junit.dir/zoo.cfg"
+  },
+  {
+    "rank": 6,
+    "id": "msg_73524e062eae040439456f605603cd5a39a0ada6fd162aa6e4b2d8dbbb2caced",
+    "score": 76.86038,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:22,656 [myid:] - INFO  [Thread-14:QuorumPeerConfig@111] - Reading configuration from: /data/jenkins/workspace/CDH5-ZooKeeper-3.4.5-JDK7/build/test/tmp/test8525006967275020093.junit.dir/zoo.cfg"
+  },
+  {
+    "rank": 7,
+    "id": "msg_eeafbfa2c456b80fa8da472f8ae6d1e5d7b0f03f761ff9d4270c0bf018d4e858",
+    "score": 76.86038,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:24,901 [myid:] - INFO  [Thread-26:QuorumPeerConfig@111] - Reading configuration from: /data/jenkins/workspace/CDH5-ZooKeeper-3.4.5-JDK7/build/test/tmp/test6261823493417515862.junit.dir/zoo.cfg"
+  },
+  {
+    "rank": 8,
+    "id": "msg_5afbf49bd38945287e18ea39397073f25f1828d4f21b771373918a0444f9ee68",
+    "score": 76.86038,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:25,182 [myid:] - INFO  [Thread-30:QuorumPeerConfig@111] - Reading configuration from: /data/jenkins/workspace/CDH5-ZooKeeper-3.4.5-JDK7/build/test/tmp/test4813485841779601602.junit.dir/zoo.cfg"
+  },
+  {
+    "rank": 9,
+    "id": "msg_812f2c594571f25c8eb80f4542624cc3a2f3e9f1eaed9f795ed368c232b9b1a0",
+    "score": 76.86038,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:27,453 [myid:] - INFO  [Thread-36:QuorumPeerConfig@111] - Reading configuration from: /data/jenkins/workspace/CDH5-ZooKeeper-3.4.5-JDK7/build/test/tmp/test2397521463065956250.junit.dir/zoo.cfg"
+  },
+  {
+    "rank": 10,
+    "id": "msg_eabb5d80a027481c31f0bcfb2e9ede4e6d5d848c12d5d1fa4a4fc7156d5b3164",
+    "score": 76.86038,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:27,992 [myid:] - INFO  [Thread-41:QuorumPeerConfig@111] - Reading configuration from: /data/jenkins/workspace/CDH5-ZooKeeper-3.4.5-JDK7/build/test/tmp/test4772652757083079773.junit.dir/zoo.cfg"
+  }
+]

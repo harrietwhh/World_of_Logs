@@ -1,0 +1,34 @@
+{
+  "case_id": "8",
+  "summary_raw": "[\"Expiring session\",\"Processed session termination\",\"Established session timeout\",\"Accepted socket connection\",\"Connection request will be dropped\",\"timeout exceeded\"]",
+  "summary_items": [
+    "Expiring session",
+    "Processed session termination",
+    "Established session timeout",
+    "Accepted socket connection",
+    "Connection request will be dropped",
+    "timeout exceeded"
+  ],
+  "group_logs_lines": [
+    "INFO Expiring session 0x34ede65503f0009 , timeout of 10000ms exceeded",
+    "INFO Expiring session 0x14ede63a5a7000e , timeout of 10000ms exceeded",
+    "INFO Processed session termination for sessionid : 0x24ede63a01b000c",
+    "INFO Processed session termination for sessionid : 0x34ede65503f0008",
+    "INFO Processed session termination for sessionid : 0x34ede65503f000a",
+    "INFO Processed session termination for sessionid : 0x34ede65503f0009",
+    "INFO Processed session termination for sessionid : 0x14ede63a5a7000e",
+    "INFO Accepted socket connection from /10.10.34.12 : 43135",
+    "WARN Connection request from old client /10.10.34.12 : 43135 ; will be dropped if server is in r-o mode",
+    "INFO Accepted socket connection from /10.10.34.12 : 43135",
+    "INFO Established session 0x14ede63a5a70015 with negotiated timeout 10000 for client /10.10.34.12 : 43135",
+    "INFO Accepted socket connection from /10.10.34.13 : 38022",
+    "WARN Connection request from old client /10.10.34.13 : 38022 ; will be dropped if server is in r-o mode",
+    "INFO Accepted socket connection from /10.10.34.12 : 43135",
+    "INFO Established session 0x14ede63a5a70016 with negotiated timeout 10000 for client /10.10.34.13 : 38022",
+    "INFO Expiring session 0x14ede63a5a70014 , timeout of 10000ms exceeded",
+    "INFO Expiring session 0x14ede63a5a70010 , timeout of 10000ms exceeded",
+    "INFO Expiring session 0x14ede63a5a70012 , timeout of 10000ms exceeded",
+    "INFO Expiring session 0x24ede63a01b0018 , timeout of 10000ms exceeded",
+    "INFO Expiring session 0x34ede65503f0010 , timeout of 10000ms exceeded"
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_3ee1920606bdb98ed0fd1f48c5b9c56f315fb893fde9fcf4b16f4407f0e69af6",
+    "score": 37.33044,
+    "link": "https://stackoverflow.com/questions/15652654",
+    "source": "so",
+    "origin_doc_id": "08449673bff9cab7294d8bfe81af0fda60552a2d2d881975076046ef4e94d5fb",
+    "snippet": "\"logrotate: ALERT exited abnormally with [1]\""
+  },
+  {
+    "rank": 2,
+    "id": "msg_c9b4149bd0bca3c7066dad1fe34cf2b4cbb36cd68e6a961d759738012f53c985",
+    "score": 35.0251,
+    "link": "https://stackoverflow.com/questions/15101894",
+    "source": "so",
+    "origin_doc_id": "90ef62389467dba7e38000b45bbddb708e2b78a2a8ff66b00a307adf45850785",
+    "snippet": "\"ALERT exited abnormally with [$EXITVALUE]\""
+  },
+  {
+    "rank": 3,
+    "id": "msg_b2f81ee7c7070cc2f5f0d783b909da6068be70136ef91d7c9445963b3077ddc9",
+    "score": 34.586334,
+    "link": "https://stackoverflow.com/questions/67528600",
+    "source": "so",
+    "origin_doc_id": "b64d5d613bbea991a566a468c4adcf16ceed8c0d9c7d41cb68b0d25a09be123d",
+    "snippet": "logrotate \"ALERT exited abnormally with [$EXITVALUE]\""
+  },
+  {
+    "rank": 4,
+    "id": "msg_f49585d7ce63681391465a33acd273e2f9ece27ca77834bb4ccd4b3c7fb1f04e",
+    "score": 34.158424,
+    "link": "https://stackoverflow.com/questions/15652654",
+    "source": "so",
+    "origin_doc_id": "08449673bff9cab7294d8bfe81af0fda60552a2d2d881975076046ef4e94d5fb",
+    "snippet": "logrotate \"ALERT exited abnormally with [$EXITVALUE]\" \n fi"
+  },
+  {
+    "rank": 5,
+    "id": "msg_2ddfc844ac274147eef66467ce2b557ab91b27bd1915baca2426d47e3610af0d",
+    "score": 33.548088,
+    "link": "https://github.com/noobaa/noobaa-core/issues/5003",
+    "source": "github",
+    "origin_doc_id": "9b51f8bc2dd793aadd6f68a5422c126212d823444a23e5b5bed5b106d9849a7b",
+    "snippet": "2018-07-22T03:49:02.536596+03:00 noobaa logrotate[97887]: ALERT exited abnormally with [1]"
+  },
+  {
+    "rank": 6,
+    "id": "msg_00ea4736b31afbc3f0cf015a82ddf613a6292a62366c3c97eb5c862073afe490",
+    "score": 33.33361,
+    "link": "https://stackoverflow.com/questions/76316821",
+    "source": "so",
+    "origin_doc_id": "9e5cc613e9f150e57160a63dc20f5c352f432cc77b872b6e8b89b20d3ff079cb",
+    "snippet": "logrotate \"ALERT exited abnormally with [$EXITVALUE]\" \n fi \n exit $EXITVALUE"
+  },
+  {
+    "rank": 7,
+    "id": "msg_eb553ae7470ec11226d76af117a59713be68e27e5f44f537b3ae0c8cec24bc36",
+    "score": 31.797974,
+    "link": "https://stackoverflow.com/questions/63603895",
+    "source": "so",
+    "origin_doc_id": "3cbac10861bad86ea7dc768376a239db81ed6d81fa6e4b25aeeda5d408ad122d",
+    "snippet": "/usr/bin/logger -t logrotate \"ALERT exited abnormally with [$EXITVALUE]\"\nfi\nexit 0"
+  },
+  {
+    "rank": 8,
+    "id": "msg_b0ed6d992e255a275ab3685376568ab75b536c642e56ae1804001b778adc839a",
+    "score": 31.43592,
+    "link": "https://stackoverflow.com/questions/35494500",
+    "source": "so",
+    "origin_doc_id": "4da23b60740da488fdb7832d84802651a04a5c3a1a80bfedec39c94c2cd6b88c",
+    "snippet": "\"ALERT exited abnormally with [$EXITVALUE]\"\nerror: error opening /opt/nginx/logs/perf.log: Permission denied"
+  },
+  {
+    "rank": 9,
+    "id": "msg_b8a36b3b6ec24b23427b0d091364f328a5de411e1fbcb1166c8c3d0f59942649",
+    "score": 30.931614,
+    "link": "https://github.com/haskell/haskell-language-server/issues/2372",
+    "source": "github",
+    "origin_doc_id": "bb80a9c5a5f0674bf6ecbffd737d758d2a7b4ef79f7ea5e94ce81888bccf0057",
+    "snippet": "LSP :: Connected to [lsp-haskell:7023/starting]. \n LSP :: lsp-haskell has exited (exited abnormally with code 1) \n LSP :: Connected to [lsp-haskell:7033/starting]. \nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7043/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7053/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7063/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7073/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7083/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7093/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7103/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7113/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7123/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7133/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7143/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7153/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7163/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\nLSP :: Connected to [lsp-haskell:7173/starting].\nLSP :: lsp-haskell has exited (exited abnormally with code 1)\n```"
+  },
+  {
+    "rank": 10,
+    "id": "msg_6ad6bac9f5a6a0e19747d969f51523357542c998f1e48e4eb4640f4d8eb24189",
+    "score": 30.153456,
+    "link": "https://stackoverflow.com/questions/64327590",
+    "source": "so",
+    "origin_doc_id": "89439f164b4fbe21e03a993f705073fd42c39835428244d760257daffe112632",
+    "snippet": "logrotate: ALERT exited abnormally with [1] \nerror: error running non-shared postrotate script for /opt/docker_folders/logs/nginx/access.log of '/opt/docker_folders/logs/nginx/*.log '"
+  }
+]

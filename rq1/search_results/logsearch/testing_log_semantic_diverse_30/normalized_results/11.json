@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_25675a07b30a7ea86564a208f74458d0ebb59998b4949447ba5d5e8199cedc23",
+    "score": 77.07284,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-4418",
+    "source": "jira",
+    "origin_doc_id": "42619e7f8c274aa23bcdb9013c929a81836cf52959f1fc72ca4e7151c03ddb73",
+    "snippet": "2021-11-23 17:02:47,071 [myid:2] - WARN  [LeaderConnector-/127.0.1.1:2892:Learner$LeaderConnector@445] - Unexpected exception, tries=0, remaining init limit=1000, connecting to /127.0.1.1:2892\njava.net.ConnectException: Connection refused (Connection refused)\n    at java.net.PlainSocketImpl.socketConnect(Native Method)\n    at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)\n    at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)\n    at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)\n    at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)\n    at java.net.Socket.connect(Socket.java:607)\n    at org.apache.zookeeper.server.quorum.Learner.sockConnect(Learner.java:302)\n    at org.apache.zookeeper.server.quorum.Learner$LeaderConnector.connectToLeader(Learner.java:419)\n    at org.apache.zookeeper.server.quorum.Learner$LeaderConnector.run(Learner.java:377)\n    at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)\n    at java.util.concurrent.FutureTask.run(FutureTask.java:266)\n    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)\n    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)\n    at java.lang.Thread.run(Thread.java:748)"
+  },
+  {
+    "rank": 2,
+    "id": "msg_8c2b725ca937d461aa4f2e46ba9aed717672b60eda10e7fe4bf1bdf07823bc48",
+    "score": 75.33029,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-4418",
+    "source": "jira",
+    "origin_doc_id": "42619e7f8c274aa23bcdb9013c929a81836cf52959f1fc72ca4e7151c03ddb73",
+    "snippet": "2021-11-23 17:02:47,172 [myid:2] - WARN  [LeaderConnector-/127.0.1.1:2892:Learner$LeaderConnector@445] - Unexpected exception, tries=1, remaining init limit=899, connecting to /127.0.1.1:2892\njava.net.ConnectException: Connection refused (Connection refused)\n    at java.net.PlainSocketImpl.socketConnect(Native Method)\n    at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)\n    at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)\n    at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)\n    at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)\n    at java.net.Socket.connect(Socket.java:607)\n    at org.apache.zookeeper.server.quorum.Learner.sockConnect(Learner.java:302)\n    at org.apache.zookeeper.server.quorum.Learner$LeaderConnector.connectToLeader(Learner.java:419)\n    at org.apache.zookeeper.server.quorum.Learner$LeaderConnector.run(Learner.java:377)\n    at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)\n    at java.util.concurrent.FutureTask.run(FutureTask.java:266)\n    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)\n    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)\n    at java.lang.Thread.run(Thread.java:748)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_6b96c9a8206b5cb42fc4c620e7bb56a00852fe939ac7198ec0143d56e2f73ef7",
+    "score": 67.80502,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,954 [myid:0] - WARN  [QuorumPeer[myid=0](plain=/127.0.0.1:11222)(secure=disabled):Learner@273] - Unexpected exception, tries=0, remaining init limit=40000, connecting to /127.0.0.1:11229\njava.net.ConnectException: Connection refused\n\tat java.net.PlainSocketImpl.socketConnect(Native Method)\n\tat java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)\n\tat java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)\n\tat java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)\n\tat java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)\n\tat java.net.Socket.connect(Socket.java:579)\n\tat org.apache.zookeeper.server.quorum.Learner.sockConnect(Learner.java:227)\n\tat org.apache.zookeeper.server.quorum.Learner.connectToLeader(Learner.java:256)\n\tat org.apache.zookeeper.server.quorum.Follower.followLeader(Follower.java:74)\n\tat org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:1111)"
+  },
+  {
+    "rank": 4,
+    "id": "msg_250c4614eabdc4b41881b97c25cfbcad1cffc774d4ad592e7b6ff4cf70a7719f",
+    "score": 66.47758,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,953 [myid:1] - WARN  [QuorumPeer[myid=1](plain=/127.0.0.1:11225)(secure=disabled):Learner@273] - Unexpected exception, tries=0, remaining init limit=40000, connecting to /127.0.0.1:11229\njava.net.ConnectException: Connection refused\n\tat java.net.PlainSocketImpl.socketConnect(Native Method)\n\tat java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)\n\tat java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)\n\tat java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)\n\tat java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)\n\tat java.net.Socket.connect(Socket.java:579)\n\tat org.apache.zookeeper.server.quorum.Learner.sockConnect(Learner.java:227)\n\tat org.apache.zookeeper.server.quorum.Learner.connectToLeader(Learner.java:256)\n\tat org.apache.zookeeper.server.quorum.Follower.followLeader(Follower.java:74)\n\tat org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:1111)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_d3692ac63e3cdf34060bc73c3dcd38378ae26f6ed13c53862af471f8c053642b",
+    "score": 62.450825,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-4418",
+    "source": "jira",
+    "origin_doc_id": "42619e7f8c274aa23bcdb9013c929a81836cf52959f1fc72ca4e7151c03ddb73",
+    "snippet": "2021-11-23 17:02:47,273 [myid:2] - INFO  [LeaderConnector-/127.0.1.1:2892:Learner$LeaderConnector@381] - Successfully connected to leader, using address: /127.0.1.1:2892"
+  },
+  {
+    "rank": 6,
+    "id": "msg_19073a10fb47f4600a090931b379916d408c38fa66e88b1a7da4ab7cfcc7bb39",
+    "score": 62.450825,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-4418",
+    "source": "jira",
+    "origin_doc_id": "42619e7f8c274aa23bcdb9013c929a81836cf52959f1fc72ca4e7151c03ddb73",
+    "snippet": "2021-11-23 17:02:47,817 [myid:2] - INFO  [LeaderConnector-/127.0.1.1:2892:Learner$LeaderConnector@381] - Successfully connected to leader, using address: /127.0.1.1:2892"
+  },
+  {
+    "rank": 7,
+    "id": "msg_1a1a65c062eb525f5b4bc20ff45f7436f7b8a5a96088dea72bfb2aa3fa08c80f",
+    "score": 60.968384,
+    "link": "https://stackoverflow.com/questions/47556533",
+    "source": "so",
+    "origin_doc_id": "dad88dd7d53314bbb8fc77e8d83bba9beb9a7fa84ef7e9c90b80abb5f1de4491",
+    "snippet": "2017-11-29 14:27:17,597 [myid:1] - WARN  [QuorumPeer[myid=1](plain=/0:0:0:0:0:0:0:0:2181)(secure=disabled):Learner@273] - Unexpected exception, tries=0, remaining init limit=20000, connecting to zk-2.zk-svc.default.svc.cluster.local:2888 \n java.net.UnknownHostException: zk-2.zk-svc.default.svc.cluster.local"
+  },
+  {
+    "rank": 8,
+    "id": "msg_596a6f77977775183fb8bd2a94bfe430b3485a7cf2741db3b050a364fd3b4683",
+    "score": 59.040703,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-4352",
+    "source": "jira",
+    "origin_doc_id": "917caa5150e8e7f0348a0e9ffb48c8a9e94cb17d92a0d36fe1cad115c4ec3b7d",
+    "snippet": "2021-08-26 02:02:08,068 [myid:4] - INFO [LeaderConnector-zookeeper-2.zookeeper-headless.default.svc.cluster.local/10.233.64.34:2888:Learner$LeaderConnector@370] - Successfully connected to leader, using address: zookeeper-2.zookeeper-headless.default.svc.cluster.local/10.233.64.34:2888"
+  },
+  {
+    "rank": 9,
+    "id": "msg_2f198d5b096b0927e0fb9cc67d617215b9bc1012c82379e98e35214f9b4e7cd8",
+    "score": 52.244217,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:28,363 [myid:0] - WARN  [QuorumPeer[myid=0]/0:0:0:0:0:0:0:0:11227:Learner@233] - Unexpected exception, tries=0, connecting to localhost/127.0.0.1:11234\njava.net.ConnectException: Connection refused\n\tat java.net.PlainSocketImpl.socketConnect(Native Method)\n\tat java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)\n\tat java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)\n\tat java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)\n\tat java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)\n\tat java.net.Socket.connect(Socket.java:579)\n\tat org.apache.zookeeper.server.quorum.Learner.connectToLeader(Learner.java:225)\n\tat org.apache.zookeeper.server.quorum.Follower.followLeader(Follower.java:72)\n\tat org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:851)"
+  },
+  {
+    "rank": 10,
+    "id": "msg_2c3025ee65c0c15a26a490bc2e40e537a55c54d1132c4aa1dd2650b8503924fa",
+    "score": 52.244217,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:13:09,120 [myid:0] - WARN  [QuorumPeer[myid=0]/0:0:0:0:0:0:0:0:11236:Learner@233] - Unexpected exception, tries=0, connecting to localhost/127.0.0.1:11240\njava.net.ConnectException: Connection refused\n\tat java.net.PlainSocketImpl.socketConnect(Native Method)\n\tat java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)\n\tat java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)\n\tat java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)\n\tat java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)\n\tat java.net.Socket.connect(Socket.java:579)\n\tat org.apache.zookeeper.server.quorum.Learner.connectToLeader(Learner.java:225)\n\tat org.apache.zookeeper.server.quorum.Follower.followLeader(Follower.java:72)\n\tat org.apache.zookeeper.server.quorum.QuorumPeer.run(QuorumPeer.java:851)"
+  }
+]

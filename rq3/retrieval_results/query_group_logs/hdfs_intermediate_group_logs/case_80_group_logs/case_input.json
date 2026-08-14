@@ -1,0 +1,32 @@
+{
+  "case_id": "80",
+  "summary_raw": "[\"Deleting block file\",\"Receiving block\",\"PacketResponder terminating\",\"Received block\"]",
+  "summary_items": [
+    "Deleting block file",
+    "Receiving block",
+    "PacketResponder terminating",
+    "Received block"
+  ],
+  "group_logs_lines": [
+    "INFO dfs.FSDataset : Deleting block blk_-2858214357309997543 file /mnt/hadoop/dfs/data/current/subdir20/blk_-2858214357309997543",
+    "INFO dfs.FSDataset : Deleting block blk_-2953057778862104369 file /mnt/hadoop/dfs/data/current/subdir24/blk_-2953057778862104369",
+    "INFO dfs.FSDataset : Deleting block blk_-2967224055336371935 file /mnt/hadoop/dfs/data/current/subdir25/blk_-2967224055336371935",
+    "INFO dfs.FSDataset : Deleting block blk_8261482827047926486 file /mnt/hadoop/dfs/data/current/blk_8261482827047926486",
+    "INFO dfs.FSDataset : Deleting block blk_8269354618704406888 file /mnt/hadoop/dfs/data/current/subdir53/blk_8269354618704406888",
+    "INFO dfs.DataNode$PacketResponder : PacketResponder 2 for block blk_538419606286880500 terminating",
+    "INFO dfs.DataNode$PacketResponder : Received block blk_538419606286880500 of size 67108864 from /10.251.203.246",
+    "INFO dfs.DataNode$DataXceiver : Receiving block blk_3873342665472583071 src : /10.251.203.246 : 49350 dest : /10.251.203.246 : 50010",
+    "INFO dfs.DataNode$DataXceiver : Receiving block blk_-8122896082453364564 src : /10.251.203.129 : 57045 dest : /10.251.203.129 : 50010",
+    "INFO dfs.DataNode$DataXceiver : Receiving block blk_134405994873390120 src : /10.251.90.239 : 57872 dest : /10.251.90.239 : 50010",
+    "INFO dfs.DataNode$DataXceiver : Receiving block blk_-9185481441450939216 src : /10.251.203.129 : 38620 dest : /10.251.203.129 : 50010",
+    "INFO dfs.DataNode$PacketResponder : PacketResponder 2 for block blk_-4365819325651686654 terminating",
+    "INFO dfs.DataNode$PacketResponder : Received block blk_-4365819325651686654 of size 67108864 from /10.251.90.239",
+    "INFO dfs.DataNode$DataXceiver : Receiving block blk_134405994873390120 src : /10.251.90.239 : 34590 dest : /10.251.90.239 : 50010",
+    "INFO dfs.DataNode$DataXceiver : Receiving block blk_3978600750216951934 src : /10.251.42.9 : 53620 dest : /10.251.42.9 : 50010",
+    "INFO dfs.DataNode$PacketResponder : PacketResponder 0 for block blk_538419606286880500 terminating",
+    "INFO dfs.DataNode$PacketResponder : Received block blk_538419606286880500 of size 67108864 from /10.251.91.229",
+    "INFO dfs.DataNode$DataXceiver : Receiving block blk_-7624946325024275940 src : /10.250.11.194 : 34947 dest : /10.250.11.194 : 50010",
+    "INFO dfs.DataNode$PacketResponder : PacketResponder 1 for block blk_-899227664531765898 terminating",
+    "INFO dfs.DataNode$PacketResponder : Received block blk_-899227664531765898 of size 67108864 from /10.251.126.255"
+  ]
+}

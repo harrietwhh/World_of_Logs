@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_f57afc3b538fa2e8459ece86fb0febd3a55ded4e008c716684e8fbc0cc9c8639",
+    "score": 58.65094,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:27,778 INFO [main] org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl: Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server"
+  },
+  {
+    "rank": 2,
+    "id": "msg_54e48688c14e39b35a0e9c7f324bb9a13b9eac59ee93680e619f0aa909e1ee24",
+    "score": 58.65094,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,941 INFO [main] org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl: Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server"
+  },
+  {
+    "rank": 3,
+    "id": "msg_1899abd18ec131ad2ba5c71b575b60661e7070cdbc432b055e59a39b9820454b",
+    "score": 58.65094,
+    "link": "https://stackoverflow.com/questions/29075106",
+    "source": "so",
+    "origin_doc_id": "8804889924d3bb86586e2b967059d726e1328690ac16880f1a3ffbd69e9b1e96",
+    "snippet": "2015-03-16 11:46:53,564 INFO [main] org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl: Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server"
+  },
+  {
+    "rank": 4,
+    "id": "msg_771f2322c0989d1e6be5a9831e70aab602e089eba2b16db34e37de15c71a72d1",
+    "score": 58.65094,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:25,543 INFO [main] org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl: Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server"
+  },
+  {
+    "rank": 5,
+    "id": "msg_b3bad57c472a789fd2f6540d1ead2b1c591e6a6dceb461eed18a184ff6f3b5c5",
+    "score": 58.65094,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:55,711 INFO [main] org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl: Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server"
+  },
+  {
+    "rank": 6,
+    "id": "msg_b288743b125faaa9290e522a77534e4de45acd844c6e73dc0917a20d6b80d07a",
+    "score": 58.65094,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:41,997 INFO [main] org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl: Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server"
+  },
+  {
+    "rank": 7,
+    "id": "msg_72d6ee6252c28542b57f1a9d4dd58f6ec82911f10eb02943cca573cba9d2f8f2",
+    "score": 58.65094,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:55,347 INFO [main] org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl: Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server"
+  },
+  {
+    "rank": 8,
+    "id": "msg_2b98d1a1fe20fecd380333cca2e41f8aa4e032452c29f869eed9a845f52053f6",
+    "score": 58.65094,
+    "link": "https://github.com/crs4/pydoop/issues/154",
+    "source": "github",
+    "origin_doc_id": "10efddefd4b8ea3b9e1d5f97d32e75c0c8263a8a5bd3426f0ec9092de77cc2f8",
+    "snippet": "2015-07-17 00:16:27,818 INFO [main] org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl: Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server"
+  },
+  {
+    "rank": 9,
+    "id": "msg_a5de5fd7fd15ff2f59b71fa837715fa6cbd4078ce9f8951411a82282db90e6f8",
+    "score": 58.65094,
+    "link": "https://stackoverflow.com/questions/49366285",
+    "source": "so",
+    "origin_doc_id": "bab7bd228140fbee7bf887a8ad9a2638f1894ba5dc8341321ccb79ce6cd0cf96",
+    "snippet": "2018-03-20 18:52:35,204 INFO [main] org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl: Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server"
+  },
+  {
+    "rank": 10,
+    "id": "msg_c43e7b6282dbf6cdf0bc2e625235acb6eabc1da71f16593c2f9987788e74b691",
+    "score": 58.65094,
+    "link": "https://github.com/crs4/pydoop/issues/216",
+    "source": "github",
+    "origin_doc_id": "92c44987a78dab8d4832c1dcd6cd493412735f9b576da51b8be83f1197678df3",
+    "snippet": "2016-06-22 16:49:01,212 INFO [main] org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl: Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server"
+  }
+]

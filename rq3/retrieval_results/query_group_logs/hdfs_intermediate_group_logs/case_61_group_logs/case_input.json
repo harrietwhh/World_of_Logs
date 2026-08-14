@@ -1,0 +1,29 @@
+{
+  "case_id": "61",
+  "summary_raw": "[\"BLOCK ask to replicate\"]",
+  "summary_items": [
+    "BLOCK ask to replicate"
+  ],
+  "group_logs_lines": [
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.191 : 50010 to replicate blk_-2875117414035006768 to datanode ( s ) 10.250.5.237 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.191 : 50010 to replicate blk_-8107641480801493136 to datanode ( s ) 10.251.202.134 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.214 : 50010 to replicate blk_-2433779501180250303 to datanode ( s ) 10.251.123.99 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.214 : 50010 to replicate blk_-3752021531301902071 to datanode ( s ) 10.250.11.53 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.223 : 50010 to replicate blk_-4602916920024386499 to datanode ( s ) 10.250.9.207 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.223 : 50010 to replicate blk_-5845660514029419579 to datanode ( s ) 10.251.193.224 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.4 : 50010 to replicate blk_-2721014013493772607 to datanode ( s ) 10.251.43.147 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.146 : 50010 to replicate blk_-1851783189668914416 to datanode ( s ) 10.251.74.134 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.146 : 50010 to replicate blk_-8919018321127605944 to datanode ( s ) 10.251.90.64 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.230 : 50010 to replicate blk_-2526833798441848968 to datanode ( s ) 10.251.42.207 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.230 : 50010 to replicate blk_-5795609064443443235 to datanode ( s ) 10.251.67.113 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.244 : 50010 to replicate blk_-1034641313644685794 to datanode ( s ) 10.251.199.86 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.244 : 50010 to replicate blk_-3674542448865941382 to datanode ( s ) 10.251.66.63 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.32 : 50010 to replicate blk_-4635499141162458155 to datanode ( s ) 10.251.74.227 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.96 : 50010 to replicate blk_-6151144929297619262 to datanode ( s ) 10.251.194.213 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.9.207 : 50010 to replicate blk_-5669655525549620993 to datanode ( s ) 10.251.203.129 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.250.9.207 : 50010 to replicate blk_-8209445467541734104 to datanode ( s ) 10.251.199.19 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.251.105.189 : 50010 to replicate blk_-4864164818610750192 to datanode ( s ) 10.251.111.37 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.251.105.189 : 50010 to replicate blk_-7126229010765485746 to datanode ( s ) 10.251.106.37 : 50010",
+    "INFO dfs.FSNamesystem : BLOCK* ask 10.251.106.10 : 50010 to replicate blk_-5874439185215513626 to datanode ( s ) 10.251.127.243 : 50010"
+  ]
+}

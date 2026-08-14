@@ -1,0 +1,29 @@
+{
+  "case_id": "43",
+  "summary_raw": "[\"unable to mount filesystem\"]",
+  "summary_items": [
+    "unable to mount filesystem"
+  ],
+  "group_logs_lines": [
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem",
+    "RAS KERNEL FATAL Error : unable to mount filesystem"
+  ]
+}

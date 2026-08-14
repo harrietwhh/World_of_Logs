@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_71d0ec1384017fddebbc2dd4f9e990c8864d7191e3dac218fd3e13a368bc2bff",
+    "score": 38.966373,
+    "link": "https://issues.apache.org/jira/browse/TEZ-2460",
+    "source": "jira",
+    "origin_doc_id": "0b621b5f484663f5f6d6b2fc7688351df31fc6f6e3ea4e5e0b2b32785456be92",
+    "snippet": "2015-05-18 16:57:50,123 INFO [Socket Reader #1 for port 53947] ipc.Server: Starting Socket Reader #1 for port 53947"
+  },
+  {
+    "rank": 2,
+    "id": "msg_b93b1a3d669d86770e791c7f51eb54953d74393734816f365a45e02317557c44",
+    "score": 38.966373,
+    "link": "https://issues.apache.org/jira/browse/TEZ-2460",
+    "source": "jira",
+    "origin_doc_id": "0b621b5f484663f5f6d6b2fc7688351df31fc6f6e3ea4e5e0b2b32785456be92",
+    "snippet": "2015-05-18 16:57:50,140 INFO [Socket Reader #1 for port 53906] ipc.Server: Starting Socket Reader #1 for port 53906"
+  },
+  {
+    "rank": 3,
+    "id": "msg_16055756673cfdb7abb432cbcb0de44a6bbadf1cde3dd3b600f0bb889aaa4614",
+    "score": 38.966373,
+    "link": "https://issues.apache.org/jira/browse/YARN-3642",
+    "source": "jira",
+    "origin_doc_id": "052e0e9f67d533894db9baa647b077bf184ca2992c6c8bb6ec85ed1324dfcb78",
+    "snippet": "2015-05-13 17:49:34,652 INFO [Socket Reader #1 for port 38927] org.apache.hadoop.ipc.Server: Starting Socket Reader #1 for port 38927"
+  },
+  {
+    "rank": 4,
+    "id": "msg_70d0510f5c77613d58a87bc71710a42ed0eb15384aa0427fcd39607a98d0250a",
+    "score": 38.966373,
+    "link": "https://issues.apache.org/jira/browse/TEZ-2561",
+    "source": "jira",
+    "origin_doc_id": "1c685b80d122e8c80cc0061578f911ace5ca42b54a78a51adaa441b2c9296489",
+    "snippet": "2015-06-17 11:19:43,655 INFO [Socket Reader #1 for port 60630] ipc.Server: Starting Socket Reader #1 for port 60630"
+  },
+  {
+    "rank": 5,
+    "id": "msg_fc8c13a2ba4770bd94b84bfd1f54f565b9c3930f4426d6a6c88a5dcd26d090e4",
+    "score": 38.966373,
+    "link": "https://issues.apache.org/jira/browse/TEZ-2561",
+    "source": "jira",
+    "origin_doc_id": "1c685b80d122e8c80cc0061578f911ace5ca42b54a78a51adaa441b2c9296489",
+    "snippet": "2015-06-17 11:19:43,656 INFO [Socket Reader #1 for port 31001] ipc.Server: Starting Socket Reader #1 for port 31001"
+  },
+  {
+    "rank": 6,
+    "id": "msg_ce161522ca80ac47f9cc8e4e84c7159bd1d3ac83ad0550e4ce8055f18837f83d",
+    "score": 38.966373,
+    "link": "https://issues.apache.org/jira/browse/TEZ-2561",
+    "source": "jira",
+    "origin_doc_id": "1c685b80d122e8c80cc0061578f911ace5ca42b54a78a51adaa441b2c9296489",
+    "snippet": "015-06-18 16:14:02,709 INFO [Socket Reader #1 for port 52195] org.apache.hadoop.ipc.Server: Starting Socket Reader #1 for port 52195"
+  },
+  {
+    "rank": 7,
+    "id": "msg_21eabf259fb94513c2f292cbab0f8fddee6ce78efeb634d82c50fc9d83eddcfc",
+    "score": 38.966373,
+    "link": "https://issues.apache.org/jira/browse/TEZ-2561",
+    "source": "jira",
+    "origin_doc_id": "1c685b80d122e8c80cc0061578f911ace5ca42b54a78a51adaa441b2c9296489",
+    "snippet": "2015-06-18 16:14:03,575 INFO [Socket Reader #1 for port 52197] org.apache.hadoop.ipc.Server: Starting Socket Reader #1 for port 52197"
+  },
+  {
+    "rank": 8,
+    "id": "msg_2a35b2e4d6923ae3f9a19fa7a401845fcbd8653573f4df6b95f93d16afdf8fab",
+    "score": 38.966373,
+    "link": "https://issues.apache.org/jira/browse/TEZ-2561",
+    "source": "jira",
+    "origin_doc_id": "1c685b80d122e8c80cc0061578f911ace5ca42b54a78a51adaa441b2c9296489",
+    "snippet": "2015-06-18 16:16:26,920 INFO [Socket Reader #1 for port 31000] org.apache.hadoop.ipc.Server: Starting Socket Reader #1 for port 31000"
+  },
+  {
+    "rank": 9,
+    "id": "msg_283cb4d2e8cdc97255a53b712c82b91709a9fc25a099ef8cb4d378eff993e5b6",
+    "score": 38.966373,
+    "link": "https://issues.apache.org/jira/browse/TEZ-2561",
+    "source": "jira",
+    "origin_doc_id": "1c685b80d122e8c80cc0061578f911ace5ca42b54a78a51adaa441b2c9296489",
+    "snippet": "2015-06-18 16:16:27,650 INFO [Socket Reader #1 for port 52295] org.apache.hadoop.ipc.Server: Starting Socket Reader #1 for port 52295"
+  },
+  {
+    "rank": 10,
+    "id": "msg_b71f3842511722ce056b87e3db629360a76eab0da178616b5899120c2c2ae0c9",
+    "score": 38.966373,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:27,761 INFO [Socket Reader #1 for port 35855] org.apache.hadoop.ipc.Server: Starting Socket Reader #1 for port 35855"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "case_id": "52",
+  "case_input": "retrieval_results/query_group_logs/hpc_intermediate_group_logs/case_52_group_logs/case_input.json",
+  "retrieved_candidates": "retrieval_results/query_group_logs/hpc_intermediate_group_logs/case_52_group_logs/retrieved_candidates.json",
+  "response": "Filtered Relevant Items:\n1. [3] Record status/probe in case of timeout.\n\nExternal Knowledge Summary:\n- Status collection can omit node results when pending queries time out.\n- During a network partition, node-status checks may fail to complete, causing degraded or incomplete cluster status.\n- Recording timed-out checks explicitly preserves partial node status and identifies the timeout instead of silently dropping results.",
+  "external_knowledge_summary": "- Status collection can omit node results when pending queries time out.\n- During a network partition, node-status checks may fail to complete, causing degraded or incomplete cluster status.\n- Recording timed-out checks explicitly preserves partial node status and identifies the timeout instead of silently dropping results."
+}

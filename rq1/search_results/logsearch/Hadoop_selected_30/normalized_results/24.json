@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_591aaee743904313a81f7ec86bbb5188c01fdf1d4c395365f7c500f49c6f8c0f",
+    "score": 90.88984,
+    "link": "https://github.com/crs4/pydoop/issues/154",
+    "source": "github",
+    "origin_doc_id": "10efddefd4b8ea3b9e1d5f97d32e75c0c8263a8a5bd3426f0ec9092de77cc2f8",
+    "snippet": "2015-07-17 00:16:27,770 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Not uberizing job_1437076532675_0007 because: not enabled; too many maps; too many reduces; too much input;"
+  },
+  {
+    "rank": 2,
+    "id": "msg_6b070d2ad71b5b091f7a1c817b0ea655397f5a1375636272157e7365cb72f9bb",
+    "score": 72.333786,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,816 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Not uberizing job_1564159650361_0001 because: not enabled; too many maps;"
+  },
+  {
+    "rank": 3,
+    "id": "msg_7be33b44efca71b896d5e26f754269781b8fe018476a5fc28b96b44abb7295a7",
+    "score": 72.333786,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:55,500 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Not uberizing job_1492953411349_0001 because: not enabled; too many maps;"
+  },
+  {
+    "rank": 4,
+    "id": "msg_86435636b381b8899d6c1f160bec5084babbb91a1d70f57c670d967421b5c945",
+    "score": 72.333786,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:41,820 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Not uberizing job_1493117927548_0001 because: not enabled; too many maps;"
+  },
+  {
+    "rank": 5,
+    "id": "msg_db9e62e59505ab48dd8d4a9c4978e5663ab4e684b51a040ffb34d53a746a69a6",
+    "score": 55.26066,
+    "link": "https://stackoverflow.com/questions/75016402",
+    "source": "so",
+    "origin_doc_id": "3e9a607740ba308e303e839f17e28e353a704b0594a8cd735676f3bd1a067a76",
+    "snippet": "2023-01-05 17:04:55,349 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Not uberizing job_1672909107121_0001 because: too many reduces;"
+  },
+  {
+    "rank": 6,
+    "id": "msg_2fd2d698f1ea21724bbf8c55d061e01ccdf65b9f610da6a5826db6e748b0d6c8",
+    "score": 41.810543,
+    "link": "https://stackoverflow.com/questions/62336082",
+    "source": "so",
+    "origin_doc_id": "ea997da249266424c38bbf0e218c9cc322212ea35a7d3ef9c7ade2b2004ab1f9",
+    "snippet": "Script function not found:  doGet or doPost \nService invoked too many times:  service name  \n  There are too many scripts running  \n  Service using too much computer time for one day\nexecution time"
+  },
+  {
+    "rank": 7,
+    "id": "msg_d610d3ec91ff7d325a905a2c483b9e599495fc345311b68ea0142801690d8e29",
+    "score": 41.06045,
+    "link": "https://stackoverflow.com/questions/29075106",
+    "source": "so",
+    "origin_doc_id": "8804889924d3bb86586e2b967059d726e1328690ac16880f1a3ffbd69e9b1e96",
+    "snippet": "2015-03-16 11:46:53,447 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Not uberizing job_1426498753001_0001 because: not enabled;"
+  },
+  {
+    "rank": 8,
+    "id": "msg_ee6d5083b6b21d7be4d2bd5cecdc5d99f96100ccb3ddb28e280e6d22e18ddcb9",
+    "score": 41.06045,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:25,476 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Not uberizing job_1428324095255_0006 because: not enabled;"
+  },
+  {
+    "rank": 9,
+    "id": "msg_343a5da016ce21a459f296ece8e51760ac62858de83ecc9280fec84fe5913ea1",
+    "score": 41.06045,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:55,237 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Not uberizing job_1458608803637_0005 because: not enabled;"
+  },
+  {
+    "rank": 10,
+    "id": "msg_b607af462ed7dd4e499d50051da0d39b81f9d83c0ae2736ba2e07edea566a699",
+    "score": 41.06045,
+    "link": "https://stackoverflow.com/questions/49366285",
+    "source": "so",
+    "origin_doc_id": "bab7bd228140fbee7bf887a8ad9a2638f1894ba5dc8341321ccb79ce6cd0cf96",
+    "snippet": "2018-03-20 18:52:35,133 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Not uberizing job_1518685780617_47486 because: not enabled;"
+  }
+]

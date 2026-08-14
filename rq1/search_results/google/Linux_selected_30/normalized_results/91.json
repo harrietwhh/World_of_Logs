@@ -1,0 +1,76 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "anomaly-detection-linux-log-sample.ipynb",
+    "link": "https://github.com/qfunction-ai/ai-anomaly-detection/blob/main/anomaly-detection-linux-log-sample.ipynb",
+    "displayed_link": "https://github.com › ai-anomaly-detection › blob › main",
+    "snippet": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.46.224.253 user=guest User unknown timed out after 900 seconds at Sat Jun 18 02 ...",
+    "snippet_highlighted_words": [
+      "authentication failure",
+      "logname= uid=0 euid=0 tty=NODEVssh ruser= rhost",
+      "211.46.224.253 user=guest"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "data/Linux_2k.log · main · Patrick Lam / ece459-w23-a2",
+    "link": "https://gitlab.uwaterloo.ca/p23lam/ece459-w23-a2/-/blob/main/data/Linux_2k.log?ref_type=heads",
+    "displayed_link": "https://gitlab.uwaterloo.ca › ... › ece459-w23-a2",
+    "snippet": "... 0 tty=NODEVssh ruser= rhost=210.76.59.29 user=root ... Jul 26 07:03:27 combo sshd(pam_unix)[28866]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ...",
+    "snippet_highlighted_words": [
+      "tty",
+      "NODEVssh ruser",
+      "rhost",
+      "user",
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh"
+    ],
+    "source": "University of Waterloo",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "redmojo7/linux_2k · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/redmojo7/linux_2k",
+    "displayed_link": "https://huggingface.co › datasets › redmojo7",
+    "snippet": "Parse the input log to log template. Jun 17 19:43:13 combo sshd(pam_unix) 30565.0 authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.46 ...",
+    "snippet_highlighted_words": [
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh ruser",
+      "rhost",
+      "211.46"
+    ],
+    "source": "Hugging Face",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "https://raw.githubusercontent.com/logpai/loghub/ma...",
+    "link": "https://raw.githubusercontent.com/logpai/loghub/master/Linux/Linux_2k.log",
+    "displayed_link": "https://raw.githubusercontent.com › master › Linux",
+    "snippet": "... authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 Jun 15 02:04:59 combo sshd(pam_unix)[20882]: authentication failure; logname ...",
+    "snippet_highlighted_words": [
+      "authentication failure"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

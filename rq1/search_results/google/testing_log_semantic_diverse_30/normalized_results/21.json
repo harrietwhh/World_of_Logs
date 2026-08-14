@@ -1,0 +1,96 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "[#HDFS-6823] dfs.web.authentication.kerberos.principal ...",
+    "link": "https://issues.apache.org/jira/browse/HDFS-6823",
+    "displayed_link": "https://issues.apache.org › jira › browse › HDFS-6823",
+    "snippet": "Starting the namenode on a system not running Kerberos results in the following showing up in the log: 2014-08-05 15:02:33,747 INFO ...",
+    "snippet_highlighted_words": [
+      "Starting",
+      "running Kerberos",
+      "INFO"
+    ],
+    "source": "Apache Software Foundation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Solved: HDFS authentication error with Kerberos",
+    "link": "https://community.cloudera.com/t5/Support-Questions/HDFS-authentication-error-with-Kerberos/td-p/42861",
+    "displayed_link": "https://community.cloudera.com › td-p",
+    "snippet": "I configured my cluster to use my KDC to authenticate the services. Everything works fine, but I'm not able to access the HDFS files from command line.",
+    "snippet_highlighted_words": [
+      "authenticate",
+      "HDFS"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Hadoop authentication with Kerberos error - java",
+    "link": "https://stackoverflow.com/questions/50044106/hadoop-authentication-with-kerberos-error",
+    "displayed_link": "2 answers · 7 years ago",
+    "snippet": "The error you are receiving points that property hadoop.security.authentication is not set to kerberos - like your configuration is not loaded.",
+    "snippet_highlighted_words": [
+      "hadoop",
+      "authentication",
+      "kerberos"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Enabling Kerberos on Hadoop throws \"java.io.IOException",
+    "link": "https://stackoverflow.com/questions/43959874/enabling-kerberos-on-hadoop-throws-java-io-ioexception-server-asks-us-to-fall",
+    "displayed_link": "8 years ago",
+    "snippet": "I have configured Kerberos on AWS EMR and it shows successful configuration for hdfs as well as hadoop user. However issuing \"hdfs dfs -ls\" ...",
+    "snippet_highlighted_words": [
+      "Kerberos",
+      "hdfs",
+      "hadoop",
+      "hdfs dfs"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "How to get Kerberos Authentication on my HDFS Web UI?",
+    "link": "https://stackoverflow.com/questions/74943869/how-to-get-kerberos-authentication-on-my-hdfs-web-ui",
+    "displayed_link": "3 years ago",
+    "snippet": "Wanting to secure the Hadoop web UI. NOT USING AMBARI. RHEL 7 single node cluster. Parameters are shown in images from my core-site.xml and ...",
+    "snippet_highlighted_words": [
+      "Hadoop web"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Kerberos Authentication Error - When loading Hadoop ...",
+    "link": "https://stackoverflow.com/questions/38222589/kerberos-authentication-error-when-loading-hadoop-config-files-from-sharedpath",
+    "displayed_link": "1 answer · 9 years ago",
+    "snippet": "I am developing an Java Application and this application is saving a result data to HDFS. The java Application should run in my windows machine.",
+    "snippet_highlighted_words": [
+      "Java",
+      "HDFS",
+      "java"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

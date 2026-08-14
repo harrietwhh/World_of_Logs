@@ -1,0 +1,129 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Kerberos Authentication Troubleshooting Guidance",
+    "link": "https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/kerberos-authentication-troubleshooting-guidance",
+    "displayed_link": "https://learn.microsoft.com › ... › Windows Server",
+    "snippet": "This guide provides fundamental concepts for you to follow when you troubleshoot Kerberos authentication issues.",
+    "snippet_highlighted_words": [
+      "troubleshoot Kerberos authentication issues"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "RDP Causing Kerberos pre-authentication failed",
+    "link": "https://www.reddit.com/r/activedirectory/comments/18xumu4/rdp_causing_kerberos_preauthentication_failed/",
+    "displayed_link": "10+ comments · 2 years ago",
+    "snippet": "The 4771 will include the reason code, which will tell you the reason for the failure. There are a variety of possible reasons from time synch, ...",
+    "snippet_highlighted_words": [
+      "failure"
+    ],
+    "source": "Reddit · r/activedirectory",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Kerberos authentication problems - Windows Server",
+    "link": "https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/kerberos-authentication-problems-if-user-belongs-to-groups",
+    "displayed_link": "https://learn.microsoft.com › ... › Windows Server",
+    "snippet": "This article helps you solve the problems of Kerberos authentication failure when a user belongs to many groups.",
+    "snippet_highlighted_words": [
+      "Kerberos authentication failure"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Tracking Kerberos & NTLM Authentication Failures and ...",
+    "link": "https://medium.com/@cyberengage.org/tracking-kerberos-ntlm-authentication-failures-and-investigation-67512861a65a",
+    "displayed_link": "10+ likes · 5 months ago",
+    "snippet": "This event contains the date, time, username, client IP address, and most importantly, an error code that tells you why authentication failed.",
+    "snippet_highlighted_words": [
+      "authentication failed"
+    ],
+    "source": "Medium · Dean",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Kerberos Authentication failing - Software & Applications",
+    "link": "https://community.spiceworks.com/t/kerberos-authentication-failing/688963",
+    "displayed_link": "https://community.spiceworks.com › kerberos-authentic...",
+    "snippet": "Windows Server Kerberos authentication is achieved by the use of a special Kerberos ticket-granting ticket (TGT) enciphered with a symmetric key.",
+    "snippet_highlighted_words": [
+      "Windows Server Kerberos authentication"
+    ],
+    "source": "Spiceworks Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Windows Security Log Event ID 4771 - Kerberos pre ...",
+    "link": "https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4771",
+    "displayed_link": "https://www.ultimatewindowssecurity.com › encyclopedia",
+    "snippet": "If the ticket request fails Windows will either log this event, failure 4771, or 4768 if the problem arose during pre-authentication.",
+    "snippet_highlighted_words": [
+      "Windows will either log this event, failure 4771, or 4768"
+    ],
+    "source": "Ultimate Windows Security",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Troubleshooting your Kerberos Authentication Problems",
+    "link": "https://fermi.servicenowservices.com/kb_view.do?sysparm_article=KB0011309",
+    "displayed_link": "https://fermi.servicenowservices.com › kb_view",
+    "snippet": "This article is intended to help you troubleshoot your Kerberos authentication problem and provides instructions on how to fix it.",
+    "snippet_highlighted_words": [
+      "troubleshoot your Kerberos authentication problem"
+    ],
+    "source": "servicenowservices.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Kerberos Authentication Error",
+    "link": "https://www.experts-exchange.com/questions/29284123/Kerberos-Authentication-Error.html",
+    "displayed_link": "https://www.experts-exchange.com › questions › Kerbe...",
+    "snippet": "The Kerberos authentication error you're seeing is due to mismatched or missing encryption types (etypes), and can be resolved by resetting the computer ...",
+    "snippet_highlighted_words": [
+      "due to mismatched or missing encryption types"
+    ],
+    "source": "Experts Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Tips to debug authentication error with Kerberos on ...",
+    "link": "https://dev.to/lucaspsilveira/tips-to-debug-authentication-error-with-kerberos-on-windows-server-a45",
+    "displayed_link": "https://dev.to › lucaspsilveira › tips-to-debug-authentica...",
+    "snippet": "1 - Check that the application on the Windows Server has all authentication options disabled, except the Windows Authentication option, which must be enabled.",
+    "snippet_highlighted_words": [
+      "authentication",
+      "Authentication"
+    ],
+    "source": "DEV Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

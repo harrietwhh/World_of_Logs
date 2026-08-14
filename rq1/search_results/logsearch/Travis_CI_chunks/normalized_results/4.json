@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_330becfde5f6083c21736afeb5aae001cae04dce668c8ec1601299337b0c710c",
+    "score": 45.860344,
+    "link": "https://stackoverflow.com/questions/39571871",
+    "source": "so",
+    "origin_doc_id": "3632470869cfb17e3d4f62fa0f0f932aa33468fefd18a68ee6b46d9d89e0ae1c",
+    "snippet": "* checking whether package ‘< package >’ can be installed ... ERROR \n Installation failed. \n See ‘/home/user/git/< package >.Rcheck/00install.out’ for details. \n * DONE \n Status: 1 ERROR"
+  },
+  {
+    "rank": 2,
+    "id": "msg_194b83e762b7a22c898e4e584ea58d694f381868cfadac2c19967ec7f835697c",
+    "score": 45.010063,
+    "link": "https://github.com/RMHogervorst/badgecreatr/issues/2",
+    "source": "github",
+    "origin_doc_id": "f553dc97a5f9069673732b79da4d7d6aad4aeafb097d3d5b6a0a53fbd0bb6951",
+    "snippet": "Warning in file(con, \"r\") : \n   cannot open file 'README.Rmd': No such file or directory \n Error in file(con, \"r\") : cannot open the connection \nError : unable to load R code in package ‘badgecreatr’ \n ERROR: lazy loading failed for package ‘badgecreatr’ \n * removing ‘/home/travis/build/username_0/badgecreatr/badgecreatr.Rcheck/badgecreatr’ \n ``` \n R cmd\n* checking whether package ‘badgecreatr’ can be installed ... ERROR \n Installation failed. \n See ‘/home/travis/build/username_0/badgecreatr/badgecreatr.Rcheck/00install.out’ for details. \n * DONE \n Status: 1 ERROR"
+  },
+  {
+    "rank": 3,
+    "id": "msg_fc13394278be90cb94db1f189e6c3f1369dc0ee4c3367855eef99076d2e1addd",
+    "score": 43.946285,
+    "link": "https://github.com/dmlc/xgboost/issues/6571",
+    "source": "github",
+    "origin_doc_id": "783a05f07e2729bbd94ce898a3a9eb0ca80c5bd886fd01b6d52140b3b5694436",
+    "snippet": "4118#> * checking for sufficient/correct file permissions ... OK \n 4119#> * checking whether package ‘xgboost’ can be installed ... ERROR \n 4120#> Installation failed. \n 4121#> See ‘/export/home/XnXaLcc/xgboost.Rcheck/00install.out’ for details."
+  },
+  {
+    "rank": 4,
+    "id": "msg_b7f4f93a3a3afb6887e8bae29289ac1355bb82dcbf4c2bd686399a7e01dedd9c",
+    "score": 42.885567,
+    "link": "https://github.com/bigdatagenomics/adam/pull/1700",
+    "source": "github",
+    "origin_doc_id": "50eb467e6fb2b18c96d28c1a1d9a7286230160d7aed92d01b45f8f54daf709bd",
+    "snippet": "* checking whether package 'bdg.adam' can be installed ... ERROR \n Installation failed. \n See '/tmp/adamTestBpGEYH9/deleteMePleaseThisIsNoLongerNeeded/adam-r/bdg.adam.Rcheck/00install.out' for details."
+  },
+  {
+    "rank": 5,
+    "id": "msg_e9034da6b4299e97d54c341300b4c334c3ab65c67ad001d343423167c55e897c",
+    "score": 42.279377,
+    "link": "https://stackoverflow.com/questions/51926806",
+    "source": "so",
+    "origin_doc_id": "e07fd8653a87d4c792bc1b4f7baf96def2b5e92ebebcef75ad2a22e3503acd9d",
+    "snippet": "CMD check results \n 1 error  | 0 warnings | 0 notes \n checking whether package ‘abc’ can be installed ... ERROR \n Installation failed. \n See ‘/tmp/RtmpSpjP2M/abc.Rcheck/00install.out’ for details. \n  The contents of  /tmp/RtmpSpjP2M/abc.Rcheck/00install.out"
+  },
+  {
+    "rank": 6,
+    "id": "msg_863180f06065e371ac84d8400b3606c39055d56fc4a78f44467e39b3f4d92a12",
+    "score": 41.81101,
+    "link": "https://github.com/rstudio/tensorflow/pull/18",
+    "source": "github",
+    "origin_doc_id": "676696895a7f9ba95ea6ab8049165951308ac44c0f0b17a0d3a94f1d33b4ff26",
+    "snippet": "* checking whether package ‘tensorflow’ can be installed ... ERROR \n Installation failed. \n See ‘/tmp/RtmpA824et/tensorflow.Rcheck/00install.out’ for details. \n * DONE \n Status: 1 ERROR \n See \n   ‘/tmp/RtmpA824et/tensorflow.Rcheck/00check.log’"
+  },
+  {
+    "rank": 7,
+    "id": "msg_9403945ab4bd4cc84d9d9f306e41a7b8f950d08e15c4f8c9eaf979f170767556",
+    "score": 41.567383,
+    "link": "https://github.com/tidyverse/tidyr/pull/327",
+    "source": "github",
+    "origin_doc_id": "74f01634ed03dae4354ca23dd9619061ea93495f6cd590ae67bca1a54a420bde",
+    "snippet": "Error: Variable context not set \n -    Execution halted \n-    ``` \n - \n -## Newly fixed \n - \n -*   checking whether package ‘WRTDStidal’ can be installed ... ERROR \n -    ``` \n -    Installation failed. \n -    See ‘/home/muelleki/git/R/tidyr/revdep/checks/WRTDStidal/old/WRTDStidal.Rcheck/00install.out’ for details. \n -    ``` \n -"
+  },
+  {
+    "rank": 8,
+    "id": "msg_8cfcb9f22f68f53d41dc0a22a9c6b95e58b0f379a7f0d78ceee775cbfddddba5",
+    "score": 38.800003,
+    "link": "https://github.com/USGS-R/powstreams/pull/40",
+    "source": "github",
+    "origin_doc_id": "30b505a9c9f4743f5c6626b3fd2a3c78eb8a64a9d61697810f37cd33c41860ca",
+    "snippet": "Warning: replacing previous import by ‘leaflet::%>%’ when loading ‘powstreams’ \n See ‘/Users/travis/build/USGS-R/powstreams/powstreams.Rcheck/00install.out’ for"
+  },
+  {
+    "rank": 9,
+    "id": "msg_bf72e27442145e2fdd631a0c300f2d0860c6f28156d1c8bb6c111518b9568fa6",
+    "score": 37.706303,
+    "link": "https://github.com/UBC-MDS/ezmodelR/issues/20",
+    "source": "github",
+    "origin_doc_id": "630710b879043608da957f054e9c813ce52a51232dd571e6cde048a67add4f39",
+    "snippet": "Status: 1 ERROR \n See \n   ‘/private/var/folders/9w/mzjb0_j118vd2k4762ggh43w0000gn/T/RtmpMgRnsy/ezmodelR.Rcheck/00check.log’ \n for details. \n R CMD check results \n 1 error  | 0 warnings | 0 notes \nchecking whether package ‘ezmodelR’ can be installed ... ERROR\nInstallation failed.\nSee ‘/private/var/folders/9w/mzjb0_j118vd2k4762ggh43w0000gn/T/RtmpMgRnsy/ezmodelR.Rcheck/00install.out’ for details.\n```"
+  },
+  {
+    "rank": 10,
+    "id": "msg_ff2c62daa101794e2d888ad5df7c47738117cfafa745e8d62fb4c3d5c4b18465",
+    "score": 37.559284,
+    "link": "https://github.com/nimble-dev/nimble/issues/229",
+    "source": "github",
+    "origin_doc_id": "2cd0ba68f38f56b02ad9dd737642720cd31721639a6dffe9f434f589d649bed7",
+    "snippet": "checking for portable file names ... OK \n * checking for sufficient/correct file permissions ... OK \n * checking whether package ‘nimble’ can be installed ... ERROR \n Installation failed. \n See ‘/var/tmp/username_0/nimble-dev/nimble/packages/nimble.Rcheck/00install.out’ for details. \n * DONE \n Status: 1 ERROR, 1 NOTE \nSee"
+  }
+]

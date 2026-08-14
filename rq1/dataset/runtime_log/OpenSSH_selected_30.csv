@@ -1,0 +1,31 @@
+LineId,Time,Level,Content,EventId,EventTemplate
+1,06:55:46,,reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT!,E27,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+2,06:55:46,,Invalid user webmaster from 173.234.31.186,E13,Invalid user <*> from <*>
+3,06:55:46,,input_userauth_request: invalid user webmaster [preauth],E12,input_userauth_request: invalid user <*> [preauth]
+4,06:55:46,,pam_unix(sshd:auth): check pass; user unknown,E21,pam_unix(sshd:auth): check pass; user unknown
+5,06:55:46,,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.234.31.186,E19,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+6,06:55:48,,Failed password for invalid user webmaster from 173.234.31.186 port 38926 ssh2,E10,Failed password for invalid user <*> from <*> port <*> ssh2
+7,06:55:48,,Connection closed by 173.234.31.186 [preauth],E2,Connection closed by <*> [preauth]
+14,07:07:45,,Received disconnect from 52.80.34.196: 11: Bye Bye [preauth],E24,Received disconnect from <*>: <*>: Bye Bye [preauth]
+28,07:13:31,,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root,E20,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+29,07:13:43,,Failed password for root from 5.36.59.76 port 42393 ssh2,E9,Failed password for <*> from <*> port <*> ssh2
+30,07:13:56,,message repeated 5 times: [ Failed password for root from 5.36.59.76 port 42393 ssh2],E14,message repeated <*> times: [ Failed password for <*> from <*> port <*>]
+31,07:13:56,,Disconnecting: Too many authentication failures for root [preauth],E4,Disconnecting: Too many authentication failures for <*> [preauth]
+32,07:13:56,,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root,E17,PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+33,07:13:56,,PAM service(sshd) ignoring max retries; 6 > 3,E18,PAM service(sshd) ignoring max retries; <*> > <*>
+139,07:34:33,,Did not receive identification string from 123.235.32.19,E3,Did not receive identification string from <*>
+158,07:51:15,,error: Received disconnect from 195.154.37.122: 3: com.jcraft.jsch.JSchException: Auth fail [preauth],E6,error: Received disconnect from <*>: <*>: com.jcraft.jsch.JSchException: Auth fail [preauth]
+176,07:56:15,,Received disconnect from 103.207.39.165: 11: Closed due to user request. [preauth],E25,Received disconnect from <*>: <*>: Closed due to user request. [preauth]
+193,08:24:40,,Failed none for invalid user 0 from 5.188.10.180 port 49811 ssh2,E8,Failed none for invalid user <*> from <*> port <*> ssh2
+222,08:25:22,,PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.188.10.180,E16,PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+254,08:26:04,,PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.188.10.180,E15,PAM <*> more authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+347,09:11:22,,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],E7,error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+956,09:32:20,,Accepted password for fztu from 119.137.62.142 port 49116 ssh2,E1,Accepted password for <*> from <*> port <*> ssh2
+957,09:32:20,,pam_unix(sshd:session): session opened for user fztu by (uid=0),E23,pam_unix(sshd:session): session opened for user <*> by (uid=<*>)
+964,09:45:06,,Received disconnect from 119.137.62.142: 11: disconnected by user,E26,Received disconnect from <*>: <*>: disconnected by user
+965,09:45:06,,pam_unix(sshd:session): session closed for user fztu,E22,pam_unix(sshd:session): session closed for user <*>
+1869,11:03:53,,fatal: Write failed: Connection reset by peer [preauth],E11,fatal: Write failed: Connection reset by peer [preauth]
+8,07:02:47,,Connection closed by 212.47.254.145 [preauth],E2,Connection closed by <*> [preauth]
+9,07:07:38,,Invalid user test9 from 52.80.34.196,E13,Invalid user <*> from <*>
+10,07:07:38,,input_userauth_request: invalid user test9 [preauth],E12,input_userauth_request: invalid user <*> [preauth]
+11,07:07:38,,pam_unix(sshd:auth): check pass; user unknown,E21,pam_unix(sshd:auth): check pass; user unknown

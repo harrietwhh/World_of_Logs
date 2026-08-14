@@ -1,0 +1,133 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Anyone else has cupsd errors, service timing out, keeps ...",
+    "link": "https://www.reddit.com/r/pop_os/comments/odhzij/anyone_else_has_cupsd_errors_service_timing_out/",
+    "displayed_link": "3 comments · 4 years ago",
+    "snippet": "First make sure the apparmor-utils package is installed. If you have any problems with printing, try deactivating the AppArmor protection with sudo aa-complain ...",
+    "snippet_highlighted_words": [],
+    "source": "Reddit · r/pop_os",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "[SOLVED] CUPS stopped running and can't start it",
+    "link": "https://forums.linuxmint.com/viewtopic.php?t=293487",
+    "displayed_link": "https://forums.linuxmint.com › ... › Beginner Questions",
+    "snippet": "The Printers app now just says \"Printing service not available. Start the service on this computer or connect to another server\"",
+    "snippet_highlighted_words": [],
+    "source": "Linux Mint",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "How to Troubleshoot CUPS Printing Issues on Ubuntu",
+    "link": "https://oneuptime.com/blog/post/2026-03-02-how-to-troubleshoot-cups-printing-issues-on-ubuntu/view",
+    "displayed_link": "https://oneuptime.com › Blog",
+    "snippet": "Diagnose and fix common CUPS printing problems on Ubuntu, covering stuck jobs, printer offline errors, permission issues, PPD problems, and ...",
+    "snippet_highlighted_words": [
+      "Diagnose and fix common CUPS printing problems on Ubuntu"
+    ],
+    "source": "OneUptime",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "jobs sent to remote unshared printer stuck in \"held since ...",
+    "link": "https://github.com/OpenPrinting/cups-filters/issues/61",
+    "displayed_link": "https://github.com › OpenPrinting › cups-filters › issues",
+    "snippet": "I never asked for a job to be \"held\", I'm getting an error message which not only doesn't point to the source of the problem (a log file?",
+    "snippet_highlighted_words": [],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Bug 138123",
+    "link": "https://bugzilla.redhat.com/show_bug.cgi?id=138123",
+    "displayed_link": "https://bugzilla.redhat.com › show_bug",
+    "snippet": "Please adjust /etc/cups/cupsd.conf to have the line \"LogLevel debug2 ... succeeded Apr 20 04:02:04 nao cups: cupsd startup succeeded Apr 20 ...",
+    "snippet_highlighted_words": [
+      "cupsd startup succeeded"
+    ],
+    "source": "Red Hat Bugzilla",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "How can I troubleshoot a non-running CUPS? (snap 1130 ...",
+    "link": "https://askubuntu.com/questions/1561802/how-can-i-troubleshoot-a-non-running-cups-snap-1130-or-usr-sbin",
+    "displayed_link": "https://askubuntu.com › questions › how-can-i-troubles...",
+    "snippet": "\" It appears that there is a conflict between the snap CUPS and the /usr/sbin CUPS...\" Is there a reason you have both installed.",
+    "snippet_highlighted_words": [
+      "CUPS",
+      "CUPS"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "How to run cups commands inside a snap",
+    "link": "https://forum.snapcraft.io/t/how-to-run-cups-commands-inside-a-snap/35718",
+    "displayed_link": "https://forum.snapcraft.io › how-to-run-cups-command...",
+    "snippet": "I'm using a bash script for retrieving data about printers. I basically wrapped cups commands like lpinfo and lpstat.",
+    "snippet_highlighted_words": [
+      "cups"
+    ],
+    "source": "snapcraft.io",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Poor device support after kernel recompile - possible problem ...",
+    "link": "https://www.linuxquestions.org/questions/linux-general-1/poor-device-support-after-kernel-recompile-possible-problem-with-modules-213078/",
+    "displayed_link": "https://www.linuxquestions.org › linux-general-1 › poor-...",
+    "snippet": "Hey all, I'm trying to get my system to the point where I can totally wipe Windows off my hard drive, and, if at all possible, I want to be able to do.",
+    "snippet_highlighted_words": [],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "OPERATING SYSTEM AUTOMATICALY REBOOTS ITSELF",
+    "link": "https://community.hpe.com/t5/proliant-servers-ml-dl-sl/operating-system-automaticaly-reboots-itself/td-p/4485322",
+    "displayed_link": "https://community.hpe.com › td-p",
+    "snippet": "hello i have red hat linux install that rebooted itself (via ASR) automaticaly after the system hanged. I have analyse all the logs (/var/logs) and i have ...",
+    "snippet_highlighted_words": [],
+    "source": "Hewlett Packard Enterprise Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Cups won't load (Pop 21.04) but timesout and start over ...",
+    "link": "https://github.com/OpenPrinting/cups/issues/206",
+    "displayed_link": "https://github.com › OpenPrinting › cups › issues",
+    "snippet": "Please excuse my ignorance, I have no knowledge of cups. Cups fails to load (see edit at the end). otheos@weywot:~$ systemd-analyze blame ...",
+    "snippet_highlighted_words": [
+      "Cups fails to load"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "mode": "csv_case",
+  "case_id": "60",
+  "query_source": "group_logs",
+  "query_count": 7,
+  "queries": [
+    "- proxy.cse.cuhk.edu.hk: 5070 open through proxy proxy.cse.cuhk.edu.hk: 5070 HTTPS",
+    "- oimagea4.ydstatic.com: 80 error: A connection request was canceled before the completion",
+    "- oimagea5.ydstatic.com: 80 error: A connection request was canceled before the completion",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 1299 bytes ( 1.26 KB ) sent, 1029 bytes ( 1.00 KB ) received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 2504 bytes ( 2.44 KB ) sent, 389 bytes received, lifetime 00: 01",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 1382 bytes ( 1.34 KB ) sent, 0 bytes received, lifetime <1 sec",
+    "- oimagea3.ydstatic.com: 80 error: A connection request was canceled before the completion"
+  ],
+  "log_message": "",
+  "cases_csv": "data/Proxifier.csv",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 31,
+  "retrieved_candidate_count": 31,
+  "output_dir": "proxifier_intermediate_group_logs/case_60_group_logs",
+  "generated_at_utc": "2026-03-23T00:50:33.718257+00:00"
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Sendmail: \"unqualified hostname unknown; sleeping for ...",
+    "link": "https://linuxconfig.org/sendmail-unqualified-hostname-unknown-sleeping-for-retry-unqualified-hostname",
+    "displayed_link": "https://linuxconfig.org › sendmail-unqualified-hostnam...",
+    "snippet": "In this tutorial, we show you how to troubleshoot a sendmail error for unqualified hostname on a Linux system.",
+    "snippet_highlighted_words": [
+      "troubleshoot a sendmail error for unqualified hostname"
+    ],
+    "source": "LinuxConfig",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "\"My unqualified host name (foo.bar) unknown\" Problem",
+    "link": "https://serverfault.com/questions/58363/my-unqualified-host-name-foo-bar-unknown-problem",
+    "displayed_link": "https://serverfault.com › questions › my-unqualified-ho...",
+    "snippet": "\"My unqualified host name (foo.bar) unknown; sleeping for retry\". After Googling the best advice was, \"add foo.bar to the /etc/hosts file ...",
+    "snippet_highlighted_words": [
+      "My unqualified host name (foo.bar) unknown; sleeping for retry"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Fail2ban mail \"unqualified host name () unknown",
+    "link": "https://www.reddit.com/r/debian/comments/jk0rx3/fail2ban_mail_unqualified_host_name_unknown/",
+    "displayed_link": "6 comments · 5 years ago",
+    "snippet": "... My unqualified host name (raspberrypi) unknown; sleeping for retry. Trying a simple mail command echo \"Just\" | mail -s \"TEST\" myemail@gmail ...",
+    "snippet_highlighted_words": [
+      "My unqualified host name (raspberrypi) unknown; sleeping for retry"
+    ],
+    "source": "Reddit · r/debian",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "unqualified host name; sleeping for retry",
+    "link": "https://tuttlem.github.io/2014/07/19/unqualified-host-name-sleeping-for-retry.html",
+    "displayed_link": "https://tuttlem.github.io › 2014/07/19 › unqualified-hos...",
+    "snippet": "The error message is telling us is that I need to fully qualify my hostname. Editing /etc/rc.conf you can change the hostname value to include this information.",
+    "snippet_highlighted_words": [
+      "my hostname",
+      "hostname"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "sendmail and unqualified host name",
+    "link": "https://forums.freebsd.org/threads/sendmail-and-unqualified-host-name.323/",
+    "displayed_link": "https://forums.freebsd.org › threads › sendmail-and-un...",
+    "snippet": "Installed new FreeBSD 7. while first boot it shows: unqualified host name (hostname) unknown; sleeping for retry. after CTRL+c /etc/rc.d/sendmail interrupted.",
+    "snippet_highlighted_words": [
+      "unqualified host name (hostname) unknown; sleeping for retry"
+    ],
+    "source": "FreeBSD",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "My unqualified host name sleeping for retry",
+    "link": "https://forums.oracle.com/ords/apexds/post/my-unqualified-host-name-sleeping-for-retry-3334",
+    "displayed_link": "https://forums.oracle.com › ords › apexds › post › my-u...",
+    "snippet": "Edit your /etc/hosts file, and add an entry with the fully qualified hostname of your host to the line where its IP address/name is: For example:",
+    "snippet_highlighted_words": [
+      "hosts",
+      "hostname",
+      "host",
+      "name"
+    ],
+    "source": "Oracle Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Sendmail takes an abnormally long time to start, or is found ...",
+    "link": "https://access.redhat.com/solutions/21770",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Issue. When sendmail is started or restarted on a RHEL server, it takes a couple of minutes before sendmail will start completely.",
+    "snippet_highlighted_words": [],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Sendmail not working on ubuntu guest - unqualified host ...",
+    "link": "https://askubuntu.com/questions/243487/sendmail-not-working-on-ubuntu-guest-unqualified-host-name",
+    "displayed_link": "https://askubuntu.com › questions › sendmail-not-worki...",
+    "snippet": "I am testing a website and need sendmail working. I have installed sendmail, but the mails aren't being sent. When i look through the mail error logs I can see ...",
+    "snippet_highlighted_words": [],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Solved: Postfix not working",
+    "link": "https://www.experts-exchange.com/questions/26292847/Postfix-not-working.html",
+    "displayed_link": "https://www.experts-exchange.com › questions › Postfi...",
+    "snippet": "... My unqualified host name (SERVERNAME) unknown; sleeping for retry. Jun 29 07:41:01 SERVERNAME sm-msp-queue[6513]: unable to qualify my own ...",
+    "snippet_highlighted_words": [
+      "My unqualified host name (SERVERNAME) unknown; sleeping for retry"
+    ],
+    "source": "Experts Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Error \"unable to qualify my own domain name (localhost)\"",
+    "link": "https://knowledge.broadcom.com/external/article/394638/vcenter-alerts-do-not-get-sent-error-un.html",
+    "displayed_link": "https://knowledge.broadcom.com › external › article",
+    "snippet": "Make sure the vCenter Server PNID matches the hostname. Open SSH to the vCenter Server Appliance as root user. Enter the BASH. Type the ...",
+    "snippet_highlighted_words": [
+      "Make sure the vCenter Server PNID matches the hostname"
+    ],
+    "source": "Broadcom support portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

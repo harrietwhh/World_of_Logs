@@ -1,0 +1,153 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Analysis not appearing after manually running",
+    "link": "https://community.sonarsource.com/t/analysis-not-appearing-after-manually-running/120774",
+    "displayed_link": "https://community.sonarsource.com › t › analysis-not-a...",
+    "snippet": "I ran the analysis and it appeared to upload and complete successfully, as per the below output. I waited 16 hours since the analysis completed.",
+    "snippet_highlighted_words": [
+      "analysis",
+      "analysis"
+    ],
+    "source": "Sonar Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "When to use the different log levels",
+    "link": "https://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels",
+    "displayed_link": "20+ answers · 16 years ago",
+    "snippet": "There are different ways to log messages, in order of fatality: (for Log4j) How do I decide when to use which? What's a good heuristic to use?",
+    "snippet_highlighted_words": [
+      "log"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "\"WARN: Unable to locate 'report-task.txt' in the workspace. ...",
+    "link": "https://github.com/jenkinsci/github-pr-coverage-status-plugin/issues/72",
+    "displayed_link": "https://github.com › jenkinsci › issues",
+    "snippet": "The problem was, that SonarQube Scanner could not create the file /var/jenkins_home/workspace/BestPracticeScan/Vendor2/Project/.scannerwork/report-task.txt.",
+    "snippet_highlighted_words": [],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "ERROR: Analysis didn't terminate normally, please verify ...",
+    "link": "https://community.sonarsource.com/t/error-analysis-didnt-terminate-normally-please-verify-error-and-warn-logs-above-exit-code-1/11307",
+    "displayed_link": "https://community.sonarsource.com › t › error-analysis-...",
+    "snippet": "Since a few days I'm getting the following error in my builds. I'm using sonarsource in an Azure DevOps (formerly VSTS) build pipeline.",
+    "snippet_highlighted_words": [
+      "error"
+    ],
+    "source": "Sonar Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "INFO / ERROR/ WARNING log messages",
+    "link": "https://teamcity-support.jetbrains.com/hc/en-us/community/posts/206417559-INFO-ERROR-WARNING-log-messages-What-determines-these-lines",
+    "displayed_link": "https://teamcity-support.jetbrains.com › community › posts",
+    "snippet": "Hi all,. If anyone can point me in the direciton to how TC determines if a line in a build log is info / error / warning.",
+    "snippet_highlighted_words": [
+      "log",
+      "info",
+      "error",
+      "warning"
+    ],
+    "source": "JetBrains",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Logging levels explained",
+    "link": "https://medium.com/@m.merkulov/logging-levels-explained-4dd61815601f",
+    "displayed_link": "60+ likes · 8 years ago",
+    "snippet": "The reason for this is that Info is usually reasonable default setting for production logs, meaning all Info, Warn and Error-level logs will ...",
+    "snippet_highlighted_words": [
+      "Info",
+      "logs",
+      "Info",
+      "Warn",
+      "Error",
+      "logs"
+    ],
+    "source": "Medium · Michael Merkulov",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "A different approach to log levels",
+    "link": "https://blog.steadycoding.com/a-different-approach-to-log-levels/",
+    "displayed_link": "https://blog.steadycoding.com › a-different-approach-to-...",
+    "snippet": "In C# for example, people tend to log errors in catch statement because an exception is naturally an error, but this often Isn't very valuable.",
+    "snippet_highlighted_words": [
+      "log",
+      "error",
+      "t"
+    ],
+    "source": "Steady Coding",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Re. Machine agent throwing WARN Registration task error",
+    "link": "https://community.splunk.com/t5/Splunk-AppDynamics/Re-Machine-agent-throwing-WARN-Registration-task-error/m-p/717820",
+    "displayed_link": "https://community.splunk.com › Splunk-AppDynamics",
+    "snippet": "If you're getting a registration error then it means your machine agent is connected, but not talking correctly to the Controller.",
+    "snippet_highlighted_words": [
+      "error"
+    ],
+    "source": "Splunk Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Log operations in Analysis Services",
+    "link": "https://learn.microsoft.com/en-us/analysis-services/instances/log-operations-in-analysis-services?view=sql-analysis-services-2025",
+    "displayed_link": "https://learn.microsoft.com › ... › Power BI",
+    "snippet": "An Analysis Services instance will log server notifications, errors, and warnings to the msmdsrv.log file - one for each instance you install.",
+    "snippet_highlighted_words": [
+      "Analysis",
+      "log",
+      "log"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Is it bad practice to not await a Task? : r/csharp",
+    "link": "https://www.reddit.com/r/csharp/comments/1czxohc/is_it_bad_practice_to_not_await_a_task/",
+    "displayed_link": "100+ comments · 1 year ago",
+    "snippet": "Let's say I have a game, and I want to save the game state in a json file. I don't particularly care when the file finishes being written, ...",
+    "snippet_highlighted_words": [
+      "t"
+    ],
+    "source": "Reddit · r/csharp",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

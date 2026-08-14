@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_a4835aa23c0a0c553a053efa5dc8b8cd18226e44b431e7885ac8df2d4d527b38",
+    "score": 113.32993,
+    "link": "https://github.com/Graylog2/graylog-plugin-cef/issues/1",
+    "source": "github",
+    "origin_doc_id": "c572e2821501f3659d9fa604694a832c12cdd308e8d59da7a1d2b160fbad1fda",
+    "snippet": "dvc=ip-172-30-2-212 msg=Aug 21 19:08:08 ip-172-30-2-212 sshd[28327]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.17  user=root"
+  },
+  {
+    "rank": 2,
+    "id": "msg_f1d8c74b72b50f2e4626559715200c8d0dcf664d45a648456bbf034a04392fc1",
+    "score": 112.293175,
+    "link": "https://stackoverflow.com/questions/40315443",
+    "source": "so",
+    "origin_doc_id": "c5cbebb894be354499cbcc77aa8523027edb107f71c4ac10d04647c8ae1aea96",
+    "snippet": "Nov  1 10:53:22 digitalocean sshd[13684]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.111  user=root \nNov  1 10:53:49 digitalocean sshd[13701]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.111  user=root\nNov  1 10:53:50 digitalocean sshd[13701]: Failed password for root from 221.229.172.111 port 43992 ssh2\nNov  1 10:53:55 digitalocean sshd[13701]: message repeated 2 times: [ Failed password for root from 221.229.172.111 port 43992 ssh2]\nNov  1 10:53:55 digitalocean sshd[13701]: Received disconnect from 221.229.172.111 port 43992:11:  [preauth]\nNov  1 10:53:55 digitalocean sshd[13701]: Disconnected from 221.229.172.111 port 43992 [preauth]\nNov  1 10:53:55 digitalocean sshd[13701]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.111  user=root"
+  },
+  {
+    "rank": 3,
+    "id": "msg_5b1ef3aed6f10211376b309ae56e2d335991c0135c9b611e2b08239adbe76e98",
+    "score": 106.008385,
+    "link": "https://github.com/pulumi/pulumi/issues/4249",
+    "source": "github",
+    "origin_doc_id": "37088853cc6c6fa0cbeadf3424cad514a075348a4f3a702a087a9163a1e9478b",
+    "snippet": "Mar 31 12:18:45 node1 sshd[3335]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.5.30  user=root \n Mar 31 12:18:47 node1 sshd[3335]: Failed password for root from 192.168.5.30 port 37824 ssh2 \n Mar 31 12:18:59 node1 sshd[3335]: message repeated 2 times: [ Failed password for root from 192.168.5.30 port 37824 ssh2] \n Mar 31 12:18:59 node1 sshd[3335]: Connection closed by authenticating user root 192.168.5.30 port 37824 [preauth] \n Mar 31 12:18:59 node1 sshd[3335]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.5.30  user=root \n Mar 31 12:19:22 node1 sshd[3337]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.5.30  user=root \n Mar 31 12:19:24 node1 sshd[3337]: Failed password for root from 192.168.5.30 port 37868 ssh2 \n Mar 31 12:19:28 node1 sshd[3337]: Failed password for root from 192.168.5.30 port 37868 ssh2 \nMar 31 12:19:29 node1 sshd[3337]: Connection closed by authenticating user root 192.168.5.30 port 37868 [preauth] \n Mar 31 12:19:29 node1 sshd[3337]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.5.30  user=root"
+  },
+  {
+    "rank": 4,
+    "id": "msg_154e9dec1adde9e5063f7bbe2172d422666a599abc22c2d8ba6c15b694cab4c0",
+    "score": 104.87847,
+    "link": "https://github.com/adelton/mod_authnz_pam/issues/10",
+    "source": "github",
+    "origin_doc_id": "bc53c2d1241c4d9b1497e7ac9d7a5a5561f5bf76bb6658954c9048039ff4a3b6",
+    "snippet": "Jan  8 19:28:28 authnz pamtester: pam_sss(webapp:auth): authentication success; logname=root uid=0 euid=0 tty= ruser= rhost= user=alpha \n\n Jan  8 19:30:35 authnz httpd: pam_sss(webapp:auth): authentication success; logname= uid=48 euid=48 tty= ruser= rhost=192.168.1.52 user=alpha \n Jan  8 19:30:35 authnz httpd: pam_sss(webapp:auth): authentication success; logname= uid=48 euid=48 tty= ruser= rhost=192.168.1.52 user=alpha \n Jan  8 19:30:35 authnz httpd: pam_sss(webapp:auth): authentication success; logname= uid=48 euid=48 tty= ruser= rhost=192.168.1.52 user=alpha"
+  },
+  {
+    "rank": 5,
+    "id": "msg_8bd0fa94f17ce5cd38d114a117965ee670b5b7d759c43a2534138956055472e4",
+    "score": 103.684944,
+    "link": "https://github.com/MicrosoftDocs/azure-docs/issues/6105",
+    "source": "github",
+    "origin_doc_id": "e3c68f50067fcd9e6b35686dfcef8e382a13ab99237519a972aa49a9384706df",
+    "snippet": "sshd[41632]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.x.x  upchh@example.com \n pam_sss(sshd:auth): authentication success; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.x.x upchh@example.com \n pam_sss(sshd:account): Access denied for user anpch@example.com: 4 (System error) \n Failed password for anpch@example.com from 172.16.5.4 port 62257 ssh2 \n fatal: Access denied for user anpch@example.com by PAM account configuration [preauth]"
+  },
+  {
+    "rank": 6,
+    "id": "msg_7bb25dad6d04e660ac938104da3f553c349eb89bb1ba9aba96782701d3a879e5",
+    "score": 102.27772,
+    "link": "https://github.com/sto/ngx_http_auth_pam_module/issues/16",
+    "source": "github",
+    "origin_doc_id": "b816256ef7ba267d8b22168714457b8f323d6f2f5a8c5ea3d22e7dbf704cec0e",
+    "snippet": "Feb  8 09:33:06 hostname sshd[14194]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=X.X.X.X  user=root"
+  },
+  {
+    "rank": 7,
+    "id": "msg_a2261758f142db603f8c089b26c314f96dff2bc216fa913fe7aa09d485332a71",
+    "score": 102.27772,
+    "link": "https://stackoverflow.com/questions/59955852",
+    "source": "so",
+    "origin_doc_id": "e26bf1792d889377a197dc39453569416db90894bdc3f0650b32dee55c516c0d",
+    "snippet": "Jan 03 12:36:19 nix02 sshd[17643]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.9.28  user=root"
+  },
+  {
+    "rank": 8,
+    "id": "msg_8ab93591cee3a08587f87e3a861e53245bf2c09ccaae89966060f46ee65345d4",
+    "score": 101.57291,
+    "link": "https://stackoverflow.com/questions/24629211",
+    "source": "so",
+    "origin_doc_id": "f45692cd15876553b08283ebcca481416fa3d427bdcb1c52ab3c84aae0cc9f4b",
+    "snippet": "Jul  8 09:51:09 nazwaserwera sshd[1798]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=abod34.neoplus.adsl.tpnet.pl  user=my-admin \nJul  8 09:51:10 nazwaserwera sshd[1798]: Failed password for my-admin from 83.8.19.34 port 56451 ssh2 \n Jul  8 09:51:27 nazwaserwera sshd[1798]: message repeated 5 times: [ Failed password for my-admin from 83.8.19.34 port 56451 ssh2] \n Jul  8 09:51:27 nazwaserwera sshd[1798]: Disconnecting: Too many authentication failures for my-admin [preauth] \n Jul  8 09:51:27 nazwaserwera sshd[1798]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=abod34.neoplus.adsl.tpnet.pl  user=my-admin"
+  },
+  {
+    "rank": 9,
+    "id": "msg_7f1fce234f50f78b0d0004f997a98c122868e3f82970a1097259cbf75d09daf4",
+    "score": 101.269745,
+    "link": "https://stackoverflow.com/questions/9570804",
+    "source": "so",
+    "origin_doc_id": "7248e991019734b4f61b450d5eafbb55680b98e4293e9d24e06abe880705236a",
+    "snippet": "Jan 10 09:32:07 j4-be03 sshd[3876]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=218.241.173.35  user=root"
+  },
+  {
+    "rank": 10,
+    "id": "msg_3fcba4671be2385722018082f3762eb7e02b2fcee8d4da9c8684e1dafe5fc881",
+    "score": 100.882034,
+    "link": "https://github.com/neutrinolabs/xrdp/issues/957",
+    "source": "github",
+    "origin_doc_id": "8d9d37beb2aec15192623192324510c9690e92d819cda2beb4c04e66dbbdcddb",
+    "snippet": "pam_sss(sshd:auth): authentication success; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.202 user=username_0 \nsession opened for user username_0 by (uid=0)"
+  }
+]

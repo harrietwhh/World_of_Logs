@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_306e10befe42478274d22dbbb24ad9e62036076c30172bed03766a4e816e9c40",
+    "score": 81.50879,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:27,726 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: MRAppMaster launching normal, non-uberized, multi-container job job_1468834620182_0036."
+  },
+  {
+    "rank": 2,
+    "id": "msg_8f9c2c6d7ea4613642d79d1416d0bafbf254a0179aa11a59e0d5b8116d010ecd",
+    "score": 81.50879,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,827 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: MRAppMaster launching normal, non-uberized, multi-container job job_1564159650361_0001."
+  },
+  {
+    "rank": 3,
+    "id": "msg_265cdca5a6930c4d1358efe5e3a29da6c7dc9c4905f3b8acaf11f3008a690b01",
+    "score": 81.50879,
+    "link": "https://stackoverflow.com/questions/29075106",
+    "source": "so",
+    "origin_doc_id": "8804889924d3bb86586e2b967059d726e1328690ac16880f1a3ffbd69e9b1e96",
+    "snippet": "2015-03-16 11:46:53,474 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: MRAppMaster launching normal, non-uberized, multi-container job job_1426498753001_0001."
+  },
+  {
+    "rank": 4,
+    "id": "msg_b096e201aa1a2dd9c9951d415824d3684c29e9b0c49ddcf5ec74a25de0ad9bb4",
+    "score": 81.50879,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:25,490 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: MRAppMaster launching normal, non-uberized, multi-container job job_1428324095255_0006."
+  },
+  {
+    "rank": 5,
+    "id": "msg_e7e29445990e64c5da1dd146a59ab90ea9608c688ba2f198e04ae6d73238f98f",
+    "score": 81.50879,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:55,571 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: MRAppMaster launching normal, non-uberized, multi-container job job_1492953411349_0001."
+  },
+  {
+    "rank": 6,
+    "id": "msg_9241c89b5690e02c8db27037573f3e9b75a33fdd26535c0ff14260ef5cf3fcba",
+    "score": 81.50879,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:41,860 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: MRAppMaster launching normal, non-uberized, multi-container job job_1493117927548_0001."
+  },
+  {
+    "rank": 7,
+    "id": "msg_a76f7ad355ea8d287ced501736c87bb169bdea87e2c3fa308e2b035565033bf0",
+    "score": 81.50879,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:55,258 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: MRAppMaster launching normal, non-uberized, multi-container job job_1458608803637_0005."
+  },
+  {
+    "rank": 8,
+    "id": "msg_dfe8f1600913e19c509444b873dd0538caec7f93b8980d7859e7e72720326659",
+    "score": 81.50879,
+    "link": "https://github.com/crs4/pydoop/issues/154",
+    "source": "github",
+    "origin_doc_id": "10efddefd4b8ea3b9e1d5f97d32e75c0c8263a8a5bd3426f0ec9092de77cc2f8",
+    "snippet": "2015-07-17 00:16:27,782 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: MRAppMaster launching normal, non-uberized, multi-container job job_1437076532675_0007."
+  },
+  {
+    "rank": 9,
+    "id": "msg_656a95ad5af00d7865cbb3e42b0fe3b3ded203b70a98b30817b2e1582fdbd988",
+    "score": 81.50879,
+    "link": "https://stackoverflow.com/questions/49366285",
+    "source": "so",
+    "origin_doc_id": "bab7bd228140fbee7bf887a8ad9a2638f1894ba5dc8341321ccb79ce6cd0cf96",
+    "snippet": "2018-03-20 18:52:35,157 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: MRAppMaster launching normal, non-uberized, multi-container job job_1518685780617_47486."
+  },
+  {
+    "rank": 10,
+    "id": "msg_a9379d78d014d53761c04f00ec61dca542db9ac217b95066e234fea0591e347c",
+    "score": 81.50879,
+    "link": "https://github.com/crs4/pydoop/issues/216",
+    "source": "github",
+    "origin_doc_id": "92c44987a78dab8d4832c1dcd6cd493412735f9b576da51b8be83f1197678df3",
+    "snippet": "2016-06-22 16:49:01,157 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: MRAppMaster launching normal, non-uberized, multi-container job job_1465331659466_1048."
+  }
+]

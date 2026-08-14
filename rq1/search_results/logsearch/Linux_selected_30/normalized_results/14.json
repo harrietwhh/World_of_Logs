@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_e93b07cab89a8a3ead05de225b195f112e92b783104b961b8384616024d6b1f0",
+    "score": 56.6141,
+    "link": "https://stackoverflow.com/questions/23869292",
+    "source": "so",
+    "origin_doc_id": "c5bc5dfff4bd1a15925c0a402661977822b93e3fdedd97618f363466d57c2965",
+    "snippet": "\"2014-05-27T03:59:26.773Z\",\n\" session opened for user cyrus by (uid=0)\""
+  },
+  {
+    "rank": 2,
+    "id": "msg_46499d430c1252f8232ca867a8e323018e56781d71c0527eeadb059767bf30c0",
+    "score": 52.390377,
+    "link": "https://stackoverflow.com/questions/23869292",
+    "source": "so",
+    "origin_doc_id": "c5bc5dfff4bd1a15925c0a402661977822b93e3fdedd97618f363466d57c2965",
+    "snippet": "2014-05-09T04:02:08+05:30 bx920as1 runuser: pam_unix(runuser-l:session): session opened for user cyrus by (uid=0)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_fde3515d6fa2dd0133cb889aac1c7868d9cb48bf2ada8395e9c4af11de6f34cf",
+    "score": 52.226513,
+    "link": "https://stackoverflow.com/questions/23869292",
+    "source": "so",
+    "origin_doc_id": "c5bc5dfff4bd1a15925c0a402661977822b93e3fdedd97618f363466d57c2965",
+    "snippet": "2014-05-26T04:02:09+05:30 bx920as1 runuser: pam_unix(runuser-l:session): session closed for user cyrus \n=> \"2014-05-26T04:02:09+05:30 bx920as1 runuser: pam_unix(runuser-l:session): session opened for user cyrus by (uid=0)\","
+  },
+  {
+    "rank": 4,
+    "id": "msg_0c067426f5f048494d3e282a52880fa9de16299c25abf0376c69709d9743399b",
+    "score": 47.712288,
+    "link": "https://github.com/gravitational/teleport/issues/3245",
+    "source": "github",
+    "origin_doc_id": "ecd525589e8e69c7b55f2cf874558488532e776cb42809e6ca7178adb5ae4b1b",
+    "snippet": "teleport: pam_loginuid(sshd:session): Error writing /proc/self/loginuid: Operation not permitted \n teleport: pam_loginuid(sshd:session): set_loginuid failed \n teleport: pam_unix(sshd:session): session opened for user root by (uid=0) \n systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0) \n systemd: pam_unix(systemd-user:session): session closed for user root \nteleport: pam_loginuid(sshd:session): Error writing /proc/self/loginuid: Operation not permitted\nteleport: pam_loginuid(sshd:session): set_loginuid failed\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session closed for user root\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session closed for user root\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nteleport: pam_loginuid(sshd:session): Error writing /proc/self/loginuid: Operation not permitted\nteleport: pam_loginuid(sshd:session): set_loginuid failed\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session closed for user root\n```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_3939d8e5cc5dd4813c91c52aeaeb2c105cd456b33d70beaee589c316d4093663",
+    "score": 46.467216,
+    "link": "https://stackoverflow.com/questions/61694150",
+    "source": "so",
+    "origin_doc_id": "d23b5d86399ae75576e260815715005d1545f893d9b34a056e365b6e9da1bb52",
+    "snippet": "Jun 15 02:04:59 combo sshd(pam_unix)[20897]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root \n ' \n Jun 15 02:04:59 combo sshd(pam_unix)[20898]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root \n ' \n Jun 15 04:06:18 combo su(pam_unix)[21416]: session opened for user cyrus by (uid=0) \n ' \n Jun 15 04:06:19 combo su(pam_unix)[21416]: session closed for user cyrus \n ' \n Jun 15 04:06:20 combo logrotate: ALERT exited abnormally with [1] \n ' \n Jun 15 04:12:42 combo su(pam_unix)[22644]: session opened for user news by (uid=0) \n ' \n Jun 15 04:12:43 combo su(pam_unix)[22644]: session closed for user news \n '"
+  },
+  {
+    "rank": 6,
+    "id": "msg_2abc74f5a4a23c8330439c1d50e611b20bd6d2cbb2c78b2e380ec4ed83e0999d",
+    "score": 44.06151,
+    "link": "https://stackoverflow.com/questions/23531078",
+    "source": "so",
+    "origin_doc_id": "1b8c692e4256cabcee2eea2292d1700c453e9bb640e43a7cde4894dd9979c789",
+    "snippet": "cat /var/log | grep session \n May  7 17:37:55 test sshd[27001]: pam_unix(sshd:session): session opened for user user by (uid=0) \n May  7 18:19:07 test sshd[27001]: pam_unix(sshd:session): session closed for user user \n May  7 18:26:56 test sshd[28466]: pam_unix(sshd:session): session opened for user user by (uid=0) \nMay  7 18:28:11 test sshd[28612]: pam_unix(sshd:session): session opened for user user by (uid=0)"
+  },
+  {
+    "rank": 7,
+    "id": "msg_0f82a3265ca96118cadb86d1560003e9737878127a1a166938cac6bb1b5118af",
+    "score": 43.923508,
+    "link": "https://github.com/nstinus/nordvpn/issues/27",
+    "source": "github",
+    "origin_doc_id": "a8b8aa64941ebc4af4cabc735f1fc9585efb6f908ab1f9705a887d117e0cd831",
+    "snippet": "pam_unix(sudo:session): session opened for user root by (uid=0) \n --: pam_unix(sudo:session): session closed for user root \n --: stupidme : TTY=pts/1 ; PWD=/home/stupidme ; USER=root ; COMMAND=/usr/bin/nordvpn\npam_unix(sudo:session): session opened for user root by (uid=0) \n --: pam_unix(sudo:session): session closed for user root"
+  },
+  {
+    "rank": 8,
+    "id": "msg_d678cc07856fdac0a8b5a5b8170519b389613185995a237215ecc96f62cecc10",
+    "score": 43.70165,
+    "link": "https://github.com/NixOS/nixpkgs/issues/60082",
+    "source": "github",
+    "origin_doc_id": "ea17abd5885f0da5573664979cdf1d7a6efb91f9a4c6b6fcde57119a099f86f8",
+    "snippet": "journalctl -u display-manager.service \n ... \n -- Reboot -- \n Apr 23 11:18:46 ethmoid systemd[1]: Starting X11 Server... \n Apr 23 11:18:46 ethmoid systemd[1]: Started X11 Server. \n Apr 23 11:18:48 ethmoid lightdm[1354]: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0) \n Apr 23 11:18:55 ethmoid lightdm[1393]: pam_unix(lightdm:session): session opened for user username_0 by (uid=0) \n Apr 23 11:27:02 ethmoid lightdm[2863]: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0) \n Apr 23 11:30:42 ethmoid lightdm[2992]: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0) \nApr 23 11:31:54 ethmoid lightdm[1127]: session_get_is_authenticated: assertion 'session != NULL' failed\nApr 23 11:31:54 ethmoid lightdm[1127]: session_get_is_authenticated: assertion 'session != NULL' failed\nApr 23 11:32:01 ethmoid lightdm[3036]: pam_unix(lightdm:session): session opened for user username_0 by (uid=0)\nApr 23 11:32:35 ethmoid lightdm[4062]: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)\nApr 23 11:32:47 ethmoid lightdm[4188]: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)\nApr 23 11:33:11 ethmoid lightdm[1127]: session_get_is_authenticated: assertion 'session != NULL' failed\nApr 23 11:33:11 ethmoid lightdm[1127]: session_get_is_authenticated: assertion 'session != NULL' failed\nApr 23 11:33:16 ethmoid lightdm[4232]: pam_unix(lightdm:session): session opened for user username_0 by (uid=0)\nApr 23 11:35:46 ethmoid lightdm[4965]: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)\nApr 23 11:35:56 ethmoid lightdm[5117]: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)\nApr 23 11:36:05 ethmoid lightdm[1127]: session_get_is_authenticated: assertion 'session != NULL' failed\nApr 23 11:36:05 ethmoid lightdm[1127]: session_get_is_authenticated: assertion 'session != NULL' failed\nApr 23 11:36:09 ethmoid lightdm[5143]: pam_unix(lightdm:session): session opened for user username_0 by (uid=0)\nApr 23 11:37:11 ethmoid lightdm[5630]: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)\nApr 23 11:37:27 ethmoid lightdm[5712]: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)\nApr 23 11:37:39 ethmoid lightdm[5756]: pam_unix(lightdm:session): session opened for user username_0 by (uid=0)\nApr 23 12:07:17 ethmoid lightdm[8872]: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)\nApr 23 12:07:31 ethmoid lightdm[8964]: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)\nApr 23 12:07:54 ethmoid lightdm[1127]: session_get_is_authenticated: assertion 'session != NULL' failed\nApr 23 12:07:54 ethmoid lightdm[1127]: session_get_is_authenticated: assertion 'session != NULL' failed\nApr 23 12:08:05 ethmoid lightdm[8990]: pam_unix(lightdm:session): session opened for user username_0 by (uid=0) \n Apr 23 13:02:29 ethmoid lightdm[10693]: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0) \n Apr 23 13:02:37 ethmoid lightdm[10849]: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0) \n Apr 23 13:02:56 ethmoid lightdm[10875]: pam_unix(lightdm:session): session opened for user username_0 by (uid=0) \n ```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_bd12b61403a225df2f7f040a85ed6af0a1b0bf57021b24ed2c013391d7020f47",
+    "score": 43.503414,
+    "link": "https://github.com/konstruktoid/hardening/issues/57",
+    "source": "github",
+    "origin_doc_id": "16d582e0a7b5fff0c475f0ea659a1b7ce704eb6bab583aa6d7f9323b709c5760",
+    "snippet": "`session opened for user ubuntu by (uid=0)`"
+  },
+  {
+    "rank": 10,
+    "id": "msg_1a09f46a4c2b47363acffe5ef5a9c2c4da07137b1dd35fe77f9f99715ad3d218",
+    "score": 42.71111,
+    "link": "https://github.com/boltgolt/howdy/issues/179",
+    "source": "github",
+    "origin_doc_id": "0e42a1b8a9134593d278865ddb4ebbcfa6475cd560dcbe69ef8738af18f913ed",
+    "snippet": "Apr  1 10:25:01 username_2 CRON[11487]: pam_unix(cron:session): session opened for user root by (uid=0)\nApr  1 10:25:01 username_2 CRON[11487]: pam_unix(cron:session): session closed for user root\nApr  1 10:27:02 username_2 CRON[600]: pam_unix(cron:session): session opened for user daemon by (uid=0)\nApr  1 10:27:02 username_2 CRON[600]: pam_unix(cron:session): session closed for user daemon\nApr  1 10:30:01 username_2 CRON[724]: pam_unix(cron:session): session opened for user root by (uid=0)\nApr  1 10:30:01 username_2 CRON[724]: pam_unix(cron:session): session closed for user root\nApr  1 10:35:01 username_2 CRON[22309]: pam_unix(cron:session): session opened for user root by (uid=0)\nApr  1 10:35:01 username_2 CRON[22309]: pam_unix(cron:session): session closed for user root\nApr  1 10:39:01 username_2 CRON[806]: pam_unix(cron:session): session opened for user root by (uid=0)\nApr  1 10:39:01 username_2 CRON[806]: pam_unix(cron:session): session closed for user root"
+  }
+]

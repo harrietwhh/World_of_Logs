@@ -1,0 +1,31 @@
+{
+  "case_id": "4",
+  "summary_raw": "[\"Block stored in memory\",\"estimated size\",\"Added in memory\"]",
+  "summary_items": [
+    "Block stored in memory",
+    "estimated size",
+    "Added in memory"
+  ],
+  "group_logs_lines": [
+    "INFO MemoryStore : Block broadcast_4_piece225 stored as bytes in memory ( estimated size 4.0 MB , free 904.2 MB )",
+    "INFO BlockManagerInfo : Added broadcast_4_piece225 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.6 GB )",
+    "INFO MemoryStore : Block broadcast_4_piece226 stored as bytes in memory ( estimated size 4.0 MB , free 908.2 MB )",
+    "INFO BlockManagerInfo : Added broadcast_4_piece226 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.6 GB )",
+    "INFO MemoryStore : Block broadcast_4_piece227 stored as bytes in memory ( estimated size 4.0 MB , free 912.2 MB )",
+    "INFO BlockManagerInfo : Added broadcast_4_piece227 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.6 GB )",
+    "INFO MemoryStore : Block broadcast_4_piece228 stored as bytes in memory ( estimated size 4.0 MB , free 916.2 MB )",
+    "INFO BlockManagerInfo : Added broadcast_4_piece228 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.6 GB )",
+    "INFO MemoryStore : Block broadcast_4_piece229 stored as bytes in memory ( estimated size 4.0 MB , free 920.2 MB )",
+    "INFO BlockManagerInfo : Added broadcast_4_piece229 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.5 GB )",
+    "INFO MemoryStore : Block broadcast_4_piece230 stored as bytes in memory ( estimated size 4.0 MB , free 924.2 MB )",
+    "INFO BlockManagerInfo : Added broadcast_4_piece230 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.5 GB )",
+    "INFO MemoryStore : Block broadcast_4_piece231 stored as bytes in memory ( estimated size 4.0 MB , free 928.2 MB )",
+    "INFO BlockManagerInfo : Added broadcast_4_piece231 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.5 GB )",
+    "INFO MemoryStore : Block broadcast_4_piece232 stored as bytes in memory ( estimated size 4.0 MB , free 932.2 MB )",
+    "INFO BlockManagerInfo : Added broadcast_4_piece232 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.5 GB )",
+    "INFO MemoryStore : Block broadcast_4_piece233 stored as bytes in memory ( estimated size 4.0 MB , free 936.2 MB )",
+    "INFO BlockManagerInfo : Added broadcast_4_piece233 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.5 GB )",
+    "INFO MemoryStore : Block broadcast_4_piece234 stored as bytes in memory ( estimated size 4.0 MB , free 940.2 MB )",
+    "INFO BlockManagerInfo : Added broadcast_4_piece234 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.5 GB )"
+  ]
+}

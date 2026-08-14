@@ -1,0 +1,29 @@
+{
+  "case_id": "94",
+  "summary_raw": "[\"node has detected an available network connection\"]",
+  "summary_items": [
+    "node has detected an available network connection"
+  ],
+  "group_logs_lines": [
+    "unix.hw net.niff.up 1074177979 1 NIFF : node node-4 has detected an available network connection on network 5.5.226.0 via interface alt0",
+    "unix.hw net.niff.up 1074177979 1 NIFF : node node-4 has detected an available network connection on network 10.128.0.0 via interface ee0",
+    "unix.hw net.niff.up 1074177999 1 NIFF : node node-5 has detected an available network connection on network 5.5.224.0 via interface alt0",
+    "unix.hw net.niff.up 1074177999 1 NIFF : node node-5 has detected an available network connection on network 10.128.0.0 via interface ee0",
+    "unix.hw net.niff.up 1074178018 1 NIFF : node node-7 has detected an available network connection on network 5.5.226.0 via interface alt0",
+    "unix.hw net.niff.up 1074178018 1 NIFF : node node-7 has detected an available network connection on network 10.128.0.0 via interface ee0",
+    "unix.hw net.niff.up 1074178057 1 NIFF : node node-6 has detected an available network connection on network 5.5.226.0 via interface alt0",
+    "unix.hw net.niff.up 1074178057 1 NIFF : node node-6 has detected an available network connection on network 10.128.0.0 via interface ee0",
+    "unix.hw net.niff.up 1074178119 1 NIFF : node node-9 has detected an available network connection on network 5.5.226.0 via interface alt0",
+    "unix.hw net.niff.up 1074178119 1 NIFF : node node-9 has detected an available network connection on network 10.128.0.0 via interface ee0",
+    "unix.hw net.niff.up 1074178133 1 NIFF : node node-10 has detected an available network connection on network 5.5.226.0 via interface alt0",
+    "unix.hw net.niff.up 1074178133 1 NIFF : node node-10 has detected an available network connection on network 10.128.0.0 via interface ee0",
+    "unix.hw net.niff.up 1074178134 1 NIFF : node node-8 has detected an available network connection on network 5.5.226.0 via interface alt0",
+    "unix.hw net.niff.up 1074178134 1 NIFF : node node-8 has detected an available network connection on network 10.128.0.0 via interface ee0",
+    "unix.hw net.niff.up 1074178151 1 NIFF : node node-11 has detected an available network connection on network 5.5.226.0 via interface alt0",
+    "unix.hw net.niff.up 1074178151 1 NIFF : node node-11 has detected an available network connection on network 10.128.0.0 via interface ee0",
+    "unix.hw net.niff.up 1074178259 1 NIFF : node node-12 has detected an available network connection on network 5.5.226.0 via interface alt0",
+    "unix.hw net.niff.up 1074178259 1 NIFF : node node-12 has detected an available network connection on network 10.128.0.0 via interface ee0",
+    "unix.hw net.niff.up 1074178260 1 NIFF : node node-14 has detected an available network connection on network 5.5.226.0 via interface alt0",
+    "unix.hw net.niff.up 1074178260 1 NIFF : node node-14 has detected an available network connection on network 10.128.0.0 via interface ee0"
+  ]
+}

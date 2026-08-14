@@ -1,0 +1,18 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Logging a methods's name and parameters - java",
+    "link": "https://stackoverflow.com/questions/13136790/logging-a-methodss-name-and-parameters",
+    "displayed_link": "4 answers · 13 years ago",
+    "snippet": "Is there a generic way to log a method name, the parameters that it received, without changing much of the code? I've been researching ...",
+    "snippet_highlighted_words": [
+      "log",
+      "method",
+      "without"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "case_id": "22",
+  "summary_raw": "[\"input pipe error detected\",\"input pipe error corrected\",\"failed to read message prefix\",\"MidplaneSwitchController performing bit sparing\"]",
+  "summary_items": [
+    "input pipe error detected",
+    "input pipe error corrected",
+    "failed to read message prefix",
+    "MidplaneSwitchController performing bit sparing"
+  ],
+  "group_logs_lines": [
+    "RAS KERNEL INFO 1 torus receiver z- input pipe error ( s ) ( dcr 0x02f1 ) detected and corrected",
+    "RAS KERNEL INFO CE sym 2 , at 0x02b1c1a0 , mask 0x04",
+    "RAS KERNEL INFO total of 1 ddr error ( s ) detected and corrected",
+    "RAS KERNEL INFO 1 tree receiver 2 in re-synch state event ( s ) ( dcr 0x019a ) detected",
+    "RAS KERNEL INFO CE sym 2 , at 0x02b1c1a0 , mask 0x04",
+    "RAS KERNEL INFO total of 3 ddr error ( s ) detected and corrected",
+    "RAS LINKCARD INFO MidplaneSwitchController performing bit sparing on R33-M1-L0-U22-C bit 3",
+    "RAS LINKCARD INFO MidplaneSwitchController performing bit sparing on R27-M1-L3-U18-C bit 3",
+    "RAS APP FATAL ciod : LOGIN chdir ( /p/gb2/draeger/benchmark/dat32k_061605 ) failed : No such file or directory",
+    "RAS APP FATAL ciod : LOGIN chdir ( /p/gb2/draeger/benchmark/dat32k_061605 ) failed : No such file or directory",
+    "RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50197",
+    "RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50205",
+    "RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50160",
+    "RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50163",
+    "RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50046",
+    "RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50047",
+    "RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50344",
+    "RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50345",
+    "RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50294",
+    "RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50295"
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_6578cdb47891becf4214af30b707544c1376c2b5b232cf8c21def4551cd150bb",
+    "score": 37.566658,
+    "link": "https://stackoverflow.com/questions/48377301",
+    "source": "so",
+    "origin_doc_id": "b2718f02282c6e6d4e3bd44c973d0e87232b6b9c870ecf97e036c780034771f2",
+    "snippet": "LOG.warn(\"Failed to deserialize refresh token for token \" + token, e);\nLOG.info(\"Failed to find access token for token \" + value);"
+  },
+  {
+    "rank": 2,
+    "id": "msg_f15c0fe8a010e0f8c981619d96153cd2e603390df01513db854a0743d261679b",
+    "score": 35.60307,
+    "link": "https://stackoverflow.com/questions/75635855",
+    "source": "so",
+    "origin_doc_id": "e34e3b909a1e88dbbbe3d15f97cce908053bb9022d509262aa7cbe9771a0f0b2",
+    "snippet": "System.out.print(\"Min value: \" + sales[minIndex][col] + \" \n \");"
+  },
+  {
+    "rank": 3,
+    "id": "msg_98fd9d7175a5755f36ff884e1af288db39adc3f80eae5fc3fd7b6cbc83fc5a13",
+    "score": 34.622646,
+    "link": "https://stackoverflow.com/questions/67548805",
+    "source": null,
+    "origin_doc_id": "03fa7e17be73e508c18617f3a86a1d7a7622cbd533a4b93c3046bf9bdde2f3d1",
+    "snippet": "print('Error    data ' + str(data[ind, col]) + ' at column ' + str(col) + ' index ' + str(ind) + ' is lower than min ' + str(npNormSet[0, col]))"
+  },
+  {
+    "rank": 4,
+    "id": "msg_858cb0b2e5c5aa4bd211d72173f558b5888a8b493b08575752f71d6ac58b9365",
+    "score": 34.35442,
+    "link": "https://issues.redhat.com/browse/ENTESB-6468",
+    "source": "jira",
+    "origin_doc_id": "292d00b439c25f15792df7401a353b116212af4263ffac03462b0f236bd6e9a5",
+    "snippet": "LOG.warn(\"Failed to set value\", e);\nLOG.warn(\"Failed to set value\", e);"
+  },
+  {
+    "rank": 5,
+    "id": "msg_36a10eda19b771d1c1d744ff8efeb2f2c202867b4d9f528866e8d6740d41193a",
+    "score": 34.094296,
+    "link": "https://stackoverflow.com/questions/61396293",
+    "source": "so",
+    "origin_doc_id": "ee5db6841e18ce1897c30c897245f60308c10db56f9bbf0e8fa6fcca9bd22b2c",
+    "snippet": "log.warn(\"unable to deserialize array property in request\");\nlog.warn(message);\n            \"unable to deserialize value [%s] to type [%]\", \n                   item.textValue(),"
+  },
+  {
+    "rank": 6,
+    "id": "msg_f2fdeaec8b1ca34a136d533930246687fb2f221c82526b4cf4c6c6fe9d1102ac",
+    "score": 33.504494,
+    "link": "https://stackoverflow.com/questions/75635855",
+    "source": "so",
+    "origin_doc_id": "e34e3b909a1e88dbbbe3d15f97cce908053bb9022d509262aa7cbe9771a0f0b2",
+    "snippet": "System.out.println(\"Least popular: \" + districts[minIndex]);\nSystem.out.print(\"Min value: \" + sales[minIndex][col] +   \" \n \");"
+  },
+  {
+    "rank": 7,
+    "id": "msg_f3198cf34814b10244d3d501ebef2211ebe38cc0595c7b9611e8824015d3bbf9",
+    "score": 33.466133,
+    "link": "https://stackoverflow.com/questions/48377301",
+    "source": "so",
+    "origin_doc_id": "b2718f02282c6e6d4e3bd44c973d0e87232b6b9c870ecf97e036c780034771f2",
+    "snippet": "LOG.warn(\"Failed to deserialize authentication for \" + token, e);\nLOG.info(\"Failed to find refresh token for token \" + token);"
+  },
+  {
+    "rank": 8,
+    "id": "msg_5e9df602024546edbb1c5d482dc7f54046a8ed4bd2a6d6fa80fb718096954585",
+    "score": 33.21256,
+    "link": "https://github.com/FasterXML/jackson-databind/issues/502",
+    "source": "github",
+    "origin_doc_id": "83f0d3ed1b52117a6c60542ba57480f607c82feabfafacc9cddc2895fbd4e079",
+    "snippet": "```Can not construct instance of java.lang.Double from String value 'xxx': not a valid Double value at [Source: {\"min\":10,\"max\":\"xxx\"}; line: 1, column: 10]``` \n Column 10 stops at: ```{\"min\":10```, whearas we expect column 22: ```{\"min\":10,\"max\":\"xxx\"```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_6d8d3e9bd5b0d66349ddc4bd63fe204576e1f8b70eb0bf4a34ae667a4ef85df1",
+    "score": 33.13068,
+    "link": "https://stackoverflow.com/questions/36270896",
+    "source": "so",
+    "origin_doc_id": "1d1b779e299b3e74d0677c8165302fe6d7ac67881e16827ccda8a42ebe0d1908",
+    "snippet": "LOG.info(\"Failed to find access token for token \"+tokenValue);\nLOG.warn(\"Failed to deserialize access token for \" +tokenValue,e);"
+  },
+  {
+    "rank": 10,
+    "id": "msg_b2d74de6dc376d6e4e00bfe1997caa2b01ca8b7f39116a93848163cef6f89b95",
+    "score": 32.828964,
+    "link": "https://github.com/tjinauyeung/svelte-forms-lib/issues/94",
+    "source": "github",
+    "origin_doc_id": "c3b84c2f09ff62a182be3485acc55596575a52aae8ba99c1cfd98c13f6148f14",
+    "snippet": "[ 'min failed'\nValidationError: min failed \n { \n   value: 'x', \n   path: '', \n   type: 'min',"
+  }
+]

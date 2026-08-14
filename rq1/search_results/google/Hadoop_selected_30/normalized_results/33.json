@@ -1,0 +1,144 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Solved: Datanode starts but doesn't connect to namenode",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Datanode-starts-but-doesn-t-connect-to-namenode/m-p/133899",
+    "displayed_link": "https://community.cloudera.com › Support-Questions",
+    "snippet": "I installed a 2 node hadoop cluster. The master and slave node starts separately but the datanode isn't shown in namenode webUI.",
+    "snippet_highlighted_words": [
+      "starts"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Simple-IPC API",
+    "link": "https://web.mit.edu/git/www/technical/api-simple-ipc.html",
+    "displayed_link": "https://web.mit.edu › git › www › technical › api-simpl...",
+    "snippet": "The IPC-client routines within a client application process connect to the IPC-server and send a request message and wait for a response. When ...",
+    "snippet_highlighted_words": [
+      "IPC",
+      "IPC",
+      "server",
+      "response"
+    ],
+    "source": "Massachusetts Institute of Technology",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "DataNode cannot connect with Name Node - \"org.apache. ...",
+    "link": "https://stackoverflow.com/questions/57678636/datanode-cannot-connect-with-name-node-org-apache-hadoop-ipc-client-retrying",
+    "displayed_link": "1 answer · 6 years ago",
+    "snippet": "I've deployed a Hadoop 3.1.2 cluster with 1 Namenode and 2 Datanodes. NameNode is UP, secondaryNameNode and ResourceManager also up for Master Node, however ...",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "[#HDFS-6827] Both NameNodes stuck in STANDBY state ...",
+    "link": "https://issues.apache.org/jira/browse/HDFS-6827",
+    "displayed_link": "https://issues.apache.org › jira › browse › HDFS-6827",
+    "snippet": "Server: IPC Server Responder: starting 2014-08-03,23:02:07,884 INFO org.apache.hadoop.ipc.Server: IPC Server listener on 13200: starting ...",
+    "snippet_highlighted_words": [
+      "IPC Server Responder",
+      "starting"
+    ],
+    "source": "Apache Software Foundation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Hadoop Datanode not starting correctly",
+    "link": "https://www.edureka.co/community/29791/hadoop-datanode-not-starting-correctly",
+    "displayed_link": "https://www.edureka.co › ... › Big Data Hadoop",
+    "snippet": "When I am try to start the datanode services it is showing the following error, can anyone please tell how to resolve this?",
+    "snippet_highlighted_words": [
+      "start"
+    ],
+    "source": "edureka.co",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Interprocess communications – Starting kdb+ – Learn",
+    "link": "https://code.kx.com/q/learn/startingkdb/ipc/",
+    "displayed_link": "https://code.kx.com › learn › startingkdb › ipc",
+    "snippet": "A process can be both a client and a server. A communication can be synchronous (wait for a result to be returned) or asynchronous (no wait and no result ...",
+    "snippet_highlighted_words": [
+      "server"
+    ],
+    "source": "KX",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Hadoop: Data Node are not starting",
+    "link": "https://stackoverflow.com/questions/24733533/hadoop-data-node-are-not-starting",
+    "displayed_link": "5 answers · 11 years ago",
+    "snippet": "I have installed Hadoop version 2.2 on a Centos 6.5 system but when i use the command start-dfs.sh. My datanode are not starting in my master and slave PC.",
+    "snippet_highlighted_words": [
+      "start",
+      "starting"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "org.apache.hadoop.ipc.RemoteException in RM pod #133",
+    "link": "https://github.com/Microsoft/pai/issues/133",
+    "displayed_link": "https://github.com › Microsoft › pai › issues",
+    "snippet": "RM cannot communicate with the datanode. Cleaning up hdfs and re-deploying doesn't work. Here's the log of RM pod (I replaced the host ip ...",
+    "snippet_highlighted_words": [],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Hadoop doesn't work after restart",
+    "link": "https://user.hadoop.apache.narkive.com/lno7YEEE/hadoop-doesn-t-work-after-restart",
+    "displayed_link": "https://user.hadoop.apache.narkive.com › hadoop-does...",
+    "snippet": "INFO ipc.Server (Server.java:run(861)) - IPC Server Responder: starting. INFO ipc.Server (Server.java:run(688)) - IPC Server listener on 8010: starting and ...",
+    "snippet_highlighted_words": [
+      "IPC Server Responder: starting"
+    ],
+    "source": "narkive",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "How to fix Incompatible clusterIDs error during DataNode ...",
+    "link": "https://www.bigdatainrealworld.com/how-to-fix-incompatible-clusterids-error-during-datanode-startup/",
+    "displayed_link": "https://www.bigdatainrealworld.com › how-to-fix-inco...",
+    "snippet": "This post talks about how to fix the issue. 2013-04-11 16:25:50,515 INFO org.apache.hadoop.ipc.Server: IPC Server Responder: starting 2013-04 ...",
+    "snippet_highlighted_words": [
+      "IPC Server Responder",
+      "starting"
+    ],
+    "source": "Big Data In Real World",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

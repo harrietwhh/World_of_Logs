@@ -1,0 +1,143 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "[BUG] data quality error: failed to iterate json array as ...",
+    "link": "https://github.com/StarRocks/starrocks/issues/46208",
+    "displayed_link": "https://github.com › StarRocks › starrocks › issues",
+    "snippet": "getStatusCode(); if (200 != code) { log.warn(\"Request failed with code:{}\", code); return null; } HttpEntity respEntity = resp.getEntity ...",
+    "snippet_highlighted_words": [
+      "log",
+      "warn",
+      "Request failed with code:{}",
+      "code);"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "What does it mean when an HTTP request returns status ...",
+    "link": "https://stackoverflow.com/questions/872206/what-does-it-mean-when-an-http-request-returns-status-code-0",
+    "displayed_link": "10+ answers · 16 years ago",
+    "snippet": "What does it mean when JavaScript network calls such as fetch or XMLHttpRequest, or any other type of HTTP network request, fail with an HTTP status code of 0?",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Error conditions in Databricks",
+    "link": "https://docs.databricks.com/aws/en/error-messages/error-classes",
+    "displayed_link": "https://docs.databricks.com › aws › error-classes",
+    "snippet": "Error conditions are descriptive, human-readable strings that unique to the error they describe. You can use error conditions to programmatically handle errors.",
+    "snippet_highlighted_words": [],
+    "source": "Databricks",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "WTF is code 500, and how do I troubleshoot it : r/portainer",
+    "link": "https://www.reddit.com/r/portainer/comments/1afszg9/wtf_is_code_500_and_how_do_i_troubleshoot_it/",
+    "displayed_link": "20+ comments · 2 years ago",
+    "snippet": "I am trying to deploy a container, and I am getting code 500. I would check the log, but the \"very helpful code\" doesn't advise how to do that.",
+    "snippet_highlighted_words": [
+      "code",
+      "log",
+      "code"
+    ],
+    "source": "Reddit · r/portainer",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "GRPC Core: Status codes and their use in gRPC",
+    "link": "https://grpc.github.io/grpc/core/md_doc_statuscodes.html",
+    "displayed_link": "https://grpc.github.io › grpc › core › md_doc_statuscodes",
+    "snippet": "gRPC uses a set of well defined status codes as part of the RPC API. These statuses are defined as such: All RPCs started at a client return a status object.",
+    "snippet_highlighted_words": [
+      "codes"
+    ],
+    "source": "grpc.github.io",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "503 Service Unavailable - HTTP - MDN Web Docs",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/503",
+    "displayed_link": "https://developer.mozilla.org › Web › Reference › Status",
+    "snippet": "The HTTP 503 Service Unavailable server error response status code indicates that the server is not ready to handle the request.",
+    "snippet_highlighted_words": [
+      "code"
+    ],
+    "source": "MDN Web Docs",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "AxiosError {message: 'Request failed with status code 500', ...",
+    "link": "https://github.com/axios/axios/issues/5855",
+    "displayed_link": "https://github.com › axios › axios › issues",
+    "snippet": "console.log(error.message); try this code in catch block your error gonna solve. you are not handling exception in proper way ...",
+    "snippet_highlighted_words": [
+      "log",
+      ");",
+      "code"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Elasticsearch-exporter connection failure",
+    "link": "https://discuss.elastic.co/t/elasticsearch-exporter-connection-failure/259128",
+    "displayed_link": "https://discuss.elastic.co › Elastic Stack › Elasticsearch",
+    "snippet": "An elasticsearch-exporter pod's logs report an error connecting to the coordinating pod, but if I exec into the pod and curl the same address, it works.",
+    "snippet_highlighted_words": [
+      "logs"
+    ],
+    "source": "Elastic",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Troubleshooting - TextFree Support",
+    "link": "https://textfree.zendesk.com/hc/en-us/categories/360002357092-Troubleshooting",
+    "displayed_link": "https://textfree.zendesk.com › en-us › categories › 3600...",
+    "snippet": "What does the \"Approaching Carrier Limit\" warning message mean? Account Issues · Violation of Terms of Service · International Usage · Exceeding usage ...",
+    "snippet_highlighted_words": [
+      "warning"
+    ],
+    "source": "TextFree Support",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Snowflake Client Connectivity & Troubleshooting",
+    "link": "https://community.snowflake.com/s/article/Snowflake-Client-Connectivity-Troubleshooting",
+    "displayed_link": "https://community.snowflake.com › article › Snowflake...",
+    "snippet": "This article provides an architecture overview explaining the various service endpoints required for normal client operations as well as a methodology for self ...",
+    "snippet_highlighted_words": [],
+    "source": "Snowflake Data Heroes Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

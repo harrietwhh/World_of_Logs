@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_410b469bd93f7bc6747a06eb3b748155651d2f408a431760362a11604cf8ce07",
+    "score": 27.08408,
+    "link": "https://github.com/saltstack/salt/issues/24660",
+    "source": "github",
+    "origin_doc_id": "70c87183f59d1a9a76615cd938b7ed356b83138fa6d73ec1437151eae7e2c092",
+    "snippet": "log.error('Invalid compound target: {0}'.format(tgt))\n          log.error('Invalid compound expr (unexpected ' \n utils/minions.py:                log.error('Invalid compound target: {0}'.format(expr))"
+  },
+  {
+    "rank": 2,
+    "id": "msg_3254f11d0217fad033f2ba02fb65dd2531903c35a44583e85b2e6a741ee2c2d1",
+    "score": 24.489834,
+    "link": "https://stackoverflow.com/questions/70767826",
+    "source": "so",
+    "origin_doc_id": "4ec08f4d2d5ca5bd4fc70b71cffc0a9e93d95eab2d2293f70e0f73fb2d729956",
+    "snippet": "log.error(\"Invalid String format {}\", item);"
+  },
+  {
+    "rank": 3,
+    "id": "msg_3ab2abb934affd6c4c34d76b0dcaea1aca17dfcd6474291c4fd0e197d8603ed0",
+    "score": 24.489834,
+    "link": "https://stackoverflow.com/questions/70780705",
+    "source": "so",
+    "origin_doc_id": "2ea23af03473fe7e5f3180c2565391506bf6d9a46b9cac41fa767cd66afe8b79",
+    "snippet": "numbers\";\nlog.error(\"Invalid Item format\");"
+  },
+  {
+    "rank": 4,
+    "id": "msg_7b426449ffe90ebd73a3c6fcf1fc690e1278c9741a7f36f52b1bb31d7859ad3d",
+    "score": 24.489834,
+    "link": "https://github.com/FORTH-ICS-INSPIRE/artemis/issues/351",
+    "source": "github",
+    "origin_doc_id": "1e53d5f6d2710be3b4ec4465541bfecd17edc92184c501da2338d77121bd1b2b",
+    "snippet": "log.error(\"invalid configuration: \n {}\".format(content))"
+  },
+  {
+    "rank": 5,
+    "id": "msg_509d593e153f72e92fccc9914c728f6210271083fe13ba94c8d3750ddb253368",
+    "score": 24.183046,
+    "link": "https://stackoverflow.com/questions/70767826",
+    "source": "so",
+    "origin_doc_id": "4ec08f4d2d5ca5bd4fc70b71cffc0a9e93d95eab2d2293f70e0f73fb2d729956",
+    "snippet": "12\nlog.error(\"Invalid String format {}\", item);"
+  },
+  {
+    "rank": 6,
+    "id": "msg_6bec6d43f36b3aec72cd786fedad8748519ed73e32eebd7eb047014be9139757",
+    "score": 23.973316,
+    "link": "https://stackoverflow.com/questions/47725161",
+    "source": "so",
+    "origin_doc_id": "5784c490738d29527f1e8c376762b2b7a52b7c3898aff7f3ba3a12adc0a93542",
+    "snippet": "log.error('Missing file: {}'.format(filepath))\nlog.warning('Invalid image file format: {}'.format(filepath))\nlog.info('Created: {}'.format(output))"
+  },
+  {
+    "rank": 7,
+    "id": "msg_9f3f24c4cd3c3927e64e0ca1fdfd4e7dd93ecaba3591186fde713e8e2f6a67ff",
+    "score": 23.88385,
+    "link": "https://stackoverflow.com/questions/59987200",
+    "source": "so",
+    "origin_doc_id": "6b2b75e84a46e9a49efa51cf599d3cba239d1221bd2e1a4e552e024e1ceb1772",
+    "snippet": "Log.error('Invalid YAML file, error: {}'. format(e))"
+  },
+  {
+    "rank": 8,
+    "id": "msg_aacf74b2c7fd69fcadff283f7605b3e7854cff5aef73a2db282206c326cdf959",
+    "score": 23.881207,
+    "link": "https://stackoverflow.com/questions/53064265",
+    "source": "so",
+    "origin_doc_id": "9cfc25c633fa3487049bde641f6d6e6810dea976020d695fd838acc35dc4b8ae",
+    "snippet": "System.out.println(\"File Name : \" + file.getOriginalFilename());\nlog.error(\"Invalid File Format ! File Format is :\" + Constants.FILE_FORMAT);"
+  },
+  {
+    "rank": 9,
+    "id": "msg_d87b17120ce4f25c4b0e627fcb9afe7166d91bc847eae97aab8fff99ceee60fb",
+    "score": 23.591969,
+    "link": "https://stackoverflow.com/questions/70780705",
+    "source": "so",
+    "origin_doc_id": "2ea23af03473fe7e5f3180c2565391506bf6d9a46b9cac41fa767cd66afe8b79",
+    "snippet": "exceed 12 numbers\");\nlog.error(\"Invalid Item format {}\", item);"
+  },
+  {
+    "rank": 10,
+    "id": "msg_19e160b69b237028a59eba8055ae4c059fbadb3264b1bca2031cc87df520f0c3",
+    "score": 23.307133,
+    "link": "https://github.com/masaccio/numbers-parser/issues/16",
+    "source": "github",
+    "origin_doc_id": "3bf1b6862358d990b59c0ee9b3f744b98471e63a7ffcb1ca4f7ad962cf40732f",
+    "snippet": "log.info(\"Event: {}\".format(event))\nlog.error(\"Invalid document\", document=document)"
+  }
+]

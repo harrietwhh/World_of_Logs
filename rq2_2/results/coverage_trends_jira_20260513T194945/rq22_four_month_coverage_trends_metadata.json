@@ -1,0 +1,22 @@
+{
+  "created_at": "2026-05-13T19:49:46.142185+00:00",
+  "uri": "mongodb://127.0.0.1:27017",
+  "sources": [
+    "jira"
+  ],
+  "run_output_dir": "RQ2_2/results/figure_data/coverage_trends_jira_20260513T194945",
+  "window_months": 4,
+  "window_anchor_month": 1,
+  "time_field": "created_at",
+  "start_date": "2021-01-01T00:00:00+00:00",
+  "end_date_exclusive": "2026-01-01T00:00:00+00:00",
+  "top_k": 10,
+  "output_csv": "RQ2_2/results/figure_data/coverage_trends_jira_20260513T194945/rq22_four_month_coverage_trends.csv",
+  "entity_counts_csv": "RQ2_2/results/figure_data/coverage_trends_jira_20260513T194945/rq22_coverage_entity_window_counts.csv",
+  "collections_read": {
+    "jira/all_projects": 909032
+  },
+  "skipped_missing_or_invalid_created_at": {},
+  "skipped_missing_or_invalid_log_count": {},
+  "skipped_missing_or_invalid_log_count_examples": {}
+}

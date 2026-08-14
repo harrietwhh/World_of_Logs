@@ -1,0 +1,33 @@
+{
+  "case_id": "18",
+  "summary_raw": "[\"Running task\",\"Finished task\",\"Found block\",\"result sent to driver\",\"Got assigned task\"]",
+  "summary_items": [
+    "Running task",
+    "Finished task",
+    "Found block",
+    "result sent to driver",
+    "Got assigned task"
+  ],
+  "group_logs_lines": [
+    "INFO executor.Executor : Finished task 10.0 in stage 5.0 ( TID 210 ) . 2076 bytes result sent to driver",
+    "INFO executor.Executor : Finished task 11.0 in stage 5.0 ( TID 211 ) . 2076 bytes result sent to driver",
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 215",
+    "INFO executor.Executor : Running task 15.0 in stage 5.0 ( TID 215 )",
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 216",
+    "INFO python.PythonRunner : Times : total = 40 , boot = 13 , init = 27 , finish = 0",
+    "INFO python.PythonRunner : Times : total = 40 , boot = 20 , init = 20 , finish = 0",
+    "INFO executor.Executor : Running task 16.0 in stage 5.0 ( TID 216 )",
+    "INFO python.PythonRunner : Times : total = 40 , boot = 13 , init = 27 , finish = 0",
+    "INFO storage.BlockManager : Found block rdd_7_15 locally",
+    "INFO executor.Executor : Finished task 13.0 in stage 5.0 ( TID 213 ) . 2124 bytes result sent to driver",
+    "INFO executor.Executor : Finished task 12.0 in stage 5.0 ( TID 212 ) . 2076 bytes result sent to driver",
+    "INFO executor.Executor : Finished task 14.0 in stage 5.0 ( TID 214 ) . 2076 bytes result sent to driver",
+    "INFO storage.BlockManager : Found block rdd_7_16 locally",
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 217",
+    "INFO executor.Executor : Running task 17.0 in stage 5.0 ( TID 217 )",
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 218",
+    "INFO executor.Executor : Running task 18.0 in stage 5.0 ( TID 218 )",
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 219",
+    "INFO executor.Executor : Running task 19.0 in stage 5.0 ( TID 219 )"
+  ]
+}

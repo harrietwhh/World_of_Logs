@@ -1,0 +1,23 @@
+{
+  "mode": "bgl_case",
+  "case_id": "30",
+  "query_source": "group_logs",
+  "query_count": 4,
+  "queries": [
+    "NULL HARDWARE SEVERE LinkCard power module U58 is not accessible",
+    "NULL HARDWARE SEVERE LinkCard is not fully functional",
+    "NULL DISCOVERY WARNING Node card VPD check U11 node in processor card slot J15 do not match. VPD ecid 04D38092472FFFFF07041B308ED7 found 074F04E7E17BFFFF060B1C3046ED",
+    "NULL HARDWARE SEVERE NodeCard power module U70 is not accessible"
+  ],
+  "log_message": "",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 30,
+  "retrieved_candidate_count": 30,
+  "output_dir": "intermediate_group_logs/case_30_group_logs",
+  "generated_at_utc": "2026-03-14T02:15:02.964474+00:00"
+}

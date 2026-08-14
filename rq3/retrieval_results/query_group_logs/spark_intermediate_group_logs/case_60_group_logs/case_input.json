@@ -1,0 +1,32 @@
+{
+  "case_id": "60",
+  "summary_raw": "[\"Saved output of task\",\"Finished task\",\"Got assigned task\",\"File Output Committer Algorithm version\"]",
+  "summary_items": [
+    "Saved output of task",
+    "Finished task",
+    "Got assigned task",
+    "File Output Committer Algorithm version"
+  ],
+  "group_logs_lines": [
+    "INFO python.PythonRunner : Times : total = 39 , boot = -9 , init = 48 , finish = 0",
+    "INFO python.PythonRunner : Times : total = 39 , boot = -9 , init = 48 , finish = 0",
+    "INFO python.PythonRunner : Times : total = 39 , boot = -9 , init = 48 , finish = 0",
+    "INFO output.FileOutputCommitter : File Output Committer Algorithm version is 1",
+    "INFO output.FileOutputCommitter : File Output Committer Algorithm version is 1",
+    "INFO output.FileOutputCommitter : File Output Committer Algorithm version is 1",
+    "INFO output.FileOutputCommitter : File Output Committer Algorithm version is 1",
+    "INFO output.FileOutputCommitter : Saved output of task 'attempt_201706081139_1413_m_000019_56539' to hdfs : //10.10.34.11 : 9000/pjhe/test/277/_temporary/0/task_201706081139_1413_m_000019",
+    "INFO mapred.SparkHadoopMapRedUtil : attempt_201706081139_1413_m_000019_56539 : Committed",
+    "INFO output.FileOutputCommitter : Saved output of task 'attempt_201706081139_1413_m_000018_56538' to hdfs : //10.10.34.11 : 9000/pjhe/test/277/_temporary/0/task_201706081139_1413_m_000018",
+    "INFO output.FileOutputCommitter : Saved output of task 'attempt_201706081139_1413_m_000016_56536' to hdfs : //10.10.34.11 : 9000/pjhe/test/277/_temporary/0/task_201706081139_1413_m_000016",
+    "INFO mapred.SparkHadoopMapRedUtil : attempt_201706081139_1413_m_000018_56538 : Committed",
+    "INFO mapred.SparkHadoopMapRedUtil : attempt_201706081139_1413_m_000016_56536 : Committed",
+    "INFO output.FileOutputCommitter : Saved output of task 'attempt_201706081139_1413_m_000017_56537' to hdfs : //10.10.34.11 : 9000/pjhe/test/277/_temporary/0/task_201706081139_1413_m_000017",
+    "INFO mapred.SparkHadoopMapRedUtil : attempt_201706081139_1413_m_000017_56537 : Committed",
+    "INFO executor.Executor : Finished task 19.0 in stage 1413.0 ( TID 56539 ) . 2364 bytes result sent to driver",
+    "INFO executor.Executor : Finished task 17.0 in stage 1413.0 ( TID 56537 ) . 2364 bytes result sent to driver",
+    "INFO executor.Executor : Finished task 16.0 in stage 1413.0 ( TID 56536 ) . 2364 bytes result sent to driver",
+    "INFO executor.Executor : Finished task 18.0 in stage 1413.0 ( TID 56538 ) . 2364 bytes result sent to driver",
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 56541"
+  ]
+}

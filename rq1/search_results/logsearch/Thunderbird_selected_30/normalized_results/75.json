@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_e52ea1436ba446172b53260ae2626210b4ed08a2f90125ef64d84c925069ad08",
+    "score": 36.851265,
+    "link": "https://stackoverflow.com/questions/45719440",
+    "source": "so",
+    "origin_doc_id": "558fefaa01319abc3ca8ebcc235f78a21f0615b1c6da6d476b2a4deabeb890bb",
+    "snippet": "print \"connection lost:\", reason.getErrorMessage()\nconnection lost: Connection was closed cleanly. \n connection lost: Connection was closed cleanly. \n connection lost: Connection was closed cleanly."
+  },
+  {
+    "rank": 2,
+    "id": "msg_d02a5bb616b4e23a635ea64cc477f82335ba3387134de8cbf9a1bf242208a3b0",
+    "score": 34.33023,
+    "link": "https://github.com/jonhoo/fantoccini/issues/120",
+    "source": "github",
+    "origin_doc_id": "2ca77feda0789db36db942fb2a3b2896f651b5d7d39c34a7801404e290fae353",
+    "snippet": "webdriver connection lost: WebDriver session was closed while waiting \n webdriver connection lost: WebDriver session has been closed \nconnection lost: WebDriver session has been closed"
+  },
+  {
+    "rank": 3,
+    "id": "msg_5f46bc3280e349ad675090573573de0dfa27d15da9cdca21ceee7aa81f49b303",
+    "score": 34.24032,
+    "link": "https://github.com/edusperoni/nativescript-mqtt/issues/9",
+    "source": "github",
+    "origin_doc_id": "d9aa21b2411ff08db1485e7ee99787c23838c2b2cf0723d6f56f4290d487bd4c",
+    "snippet": "'Connection lost: AMQJS0008I Socket closed.' \n JS: 'initialized connection' \n JS: 'mqtt init called' \n JS: 'connecting...' \n JS: 'Connection success!' \n JS: 'Connection lost: AMQJS0008I Socket closed.' \n JS: 'initialized connection' \n JS: 'mqtt init called' \nJS: 'connecting...'\nJS: 'Connection success!'\nJS: 'Connection lost: AMQJS0008I Socket closed.'\nJS: 'initialized connection'\nJS: 'mqtt init called'\nJS: 'connecting...'\nJS: 'Connection success!'\nJS: 'Connection lost: AMQJS0008I Socket closed.'\nJS: 'initialized connection'\nJS: 'mqtt init called'\nJS: 'connecting...'\nJS: 'Connection success!'\nJS: 'Connection lost: AMQJS0008I Socket closed.'\nJS: 'initialized connection'\nJS: 'mqtt init called'\nJS: 'connecting...'\nJS: 'Connection success!'\nJS: 'Connection lost: AMQJS0008I Socket closed.'\nJS: 'initialized connection'\nJS: 'mqtt init called'\nJS: 'connecting...' \n JS: 'Connection success!' \n JS: 'Connection lost: AMQJS0008I Socket closed.' \n JS: 'initialized connection' \n JS: 'mqtt init called' \n JS: 'connecting...' \nconsole.log('initialized connection');\n[Truncated]"
+  },
+  {
+    "rank": 4,
+    "id": "msg_53b316218237697b789cee57717f6307a10033987e4fee7db970aa33cd9864b1",
+    "score": 34.163483,
+    "link": "https://github.com/edusperoni/nativescript-mqtt/issues/9",
+    "source": "github",
+    "origin_doc_id": "d9aa21b2411ff08db1485e7ee99787c23838c2b2cf0723d6f56f4290d487bd4c",
+    "snippet": "` \n Connection lost: AMQJS0008I Socket closed.' \n JS: 'initialized connection' \n JS: 'mqtt init called' \n JS: 'connecting...' \n JS: 'Connection success!' \n JS: 'Connection lost: AMQJS0008I Socket closed.' \n JS: 'initialized connection' \nJS: 'mqtt init called'\nJS: 'connecting...'\nJS: 'Connection success!'\nJS: 'Connection lost: AMQJS0008I Socket closed.'\nJS: 'initialized connection'\nJS: 'mqtt init called'\nJS: 'connecting...'\nJS: 'Connection success!'\nJS: 'Connection lost: AMQJS0008I Socket closed.'\nJS: 'initialized connection'\nJS: 'mqtt init called'\nJS: 'connecting...'\nJS: 'Connection success!'\nJS: 'Connection lost: AMQJS0008I Socket closed.'\nJS: 'initialized connection'\nJS: 'mqtt init called'\nJS: 'connecting...'\nJS: 'Connection success!'\nJS: 'Connection lost: AMQJS0008I Socket closed.'\nJS: 'initialized connection'\nJS: 'mqtt init called'\nJS: 'connecting...'\nJS: 'Connection success!'\nJS: 'Connection lost: AMQJS0008I Socket closed.'\nJS: 'initialized connection'\nJS: 'mqtt init called'\nJS: 'connecting...'\n`"
+  },
+  {
+    "rank": 5,
+    "id": "msg_c9471e1e324604f1fb737cdd7e80b52db9879e8b28326b8a5280a3d900f3e04b",
+    "score": 33.662056,
+    "link": "https://stackoverflow.com/questions/3365403",
+    "source": "so",
+    "origin_doc_id": "914f8c0295539a9fefc827f7cf45d81c75af900b9bd60eecf72ab094512c037f",
+    "snippet": "\"Connection lost: %s\" % reason\nConnection lost: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly. \n ] \n connectionMade!\nConnection lost: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]\nconnectionMade!\nConnection lost: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]"
+  },
+  {
+    "rank": 6,
+    "id": "msg_7f9beed641083ddb72a74f400fc79659f0ab761d3a647e1255a0cb347424f794",
+    "score": 33.617973,
+    "link": "https://github.com/nats-io/stan.net/issues/162",
+    "source": "github",
+    "origin_doc_id": "685ea7cbcb6b50db95a21c897477334da206895a789899af0edf5d772161660d",
+    "snippet": "00:00:05.6844930 - Connection closed..\nStan connection lost handler. Exception message: STAN.Client.StanMaxPingsException: Connection lost due to PING failure.\nNATS connection disconnected\nNATS connection closed"
+  },
+  {
+    "rank": 7,
+    "id": "msg_9e33a791d17d03690b84edcefcbab427cb382504f3d6855f101304e9e8104d0c",
+    "score": 33.171192,
+    "link": "https://stackoverflow.com/questions/73114778",
+    "source": "so",
+    "origin_doc_id": "379ff8599367ff3a5a7b0696b63a987bbe2e5907c6f63843bc74ca4cb22b6d2b",
+    "snippet": "^ \n ConnectionError [SequelizeConnectionError]: Connection lost: The server closed the connection. \n ... \n parent: Error: Connection lost: The server closed the connection. \n ... \n at TCP.<anonymous> (node:net:709:12) {"
+  },
+  {
+    "rank": 8,
+    "id": "msg_ed4592eadeee241a9e9641f23115e2583972f19f93610afea9d6d37a22ebda00",
+    "score": 33.171192,
+    "link": "https://github.com/ntzyz/new-blog/issues/1",
+    "source": "github",
+    "origin_doc_id": "207f2695a5cf28290d9e16efa61a77c74b7db1792db125f464e994e51cbf60e9",
+    "snippet": "mysql Error: Connection lost The server closed the connection - StackOverflow](http://stackoverflow.com/questions/20210522/nodejs-mysql-error-connection-lost-the-server-closed-the-connection)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_5da0411b1b7e4dad9294b6f85cc7a868b7576b926fa22b1d49a477684e6c59bc",
+    "score": 32.54067,
+    "link": "https://github.com/GoogleChrome/samples/issues/700",
+    "source": "github",
+    "origin_doc_id": "833c6ca26fc5ce82f2cd6628b70d957d3f7483da4881d22fe6bb5eca3c7dbb2b",
+    "snippet": "Connection ready. \n Error while reading datagrams: TypeError: Connection lost. \n Error while accepting streams: TypeError: Connection lost. \n Connection closed abruptly. \n Error while sending data: TypeError: Connection lost."
+  },
+  {
+    "rank": 10,
+    "id": "msg_a32751477e037c0e1d87905548432ecb1f849e3afdf945e9fe888e1cfe4c0b53",
+    "score": 32.523384,
+    "link": "https://github.com/trigger/trigger/issues/317",
+    "source": "github",
+    "origin_doc_id": "ecd3aff98a0d4a8aef88ab047aa9a14019ac6728d82db5fd193052af85853f85",
+    "snippet": "INFO:twisted:Disconnecting with error, code 10\nreason: user closed connection\nINFO:twisted:Forcefully closing transport connection!\n(Pdb) INFO:twisted:Got disconnect request, reason: 10, desc: 'user closed connection'\nINFO:twisted:Disconnecting with error, code 10\nreason: user closed connection\nINFO:twisted:connection lost\nINFO:twisted:Transport connection lost: Connection was closed cleanly.\nINFO:twisted:Client connection lost. Reason: [Failure instance: Traceback (failure with no frames): <class 'twisted.internet.error.ConnectionDone'>: Connection was closed cleanly.\n]\nINFO:twisted:Got results: ['  Type: External    State: Established    Flags: <Sync ', '{master}\\r \n ']```"
+  }
+]

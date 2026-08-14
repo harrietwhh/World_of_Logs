@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_69426894ccd89397ab4aedf7003a465cf617187eac250de5d5931161366c1e77",
+    "score": 47.338737,
+    "link": "https://stackoverflow.com/questions/61420205",
+    "source": "so",
+    "origin_doc_id": "eaaf1cf25110361041ec651af592ad96c2b51521bc212681019e62b1a55a389b",
+    "snippet": "\"sshd[4719444]: Failed password for invalid user ISTOPR from x.x.x.x port 58134 ssh2\", \n\"sshd[4719444]: Failed password for invalid user ISTOPR from x.x.x.x port 58134 ssh2\",\n\"sshd[4719444]: Failed password for invalid user ISTOPR from x.x.x.x port 58134 ssh2\","
+  },
+  {
+    "rank": 2,
+    "id": "msg_28fd029b8fd6396a1a9279289d6e27f594f2cd2558082c68fc8e1afe576be069",
+    "score": 47.317425,
+    "link": "https://stackoverflow.com/questions/25671192",
+    "source": "so",
+    "origin_doc_id": "6eb0a082e7340a428b186ef6dac1217acd3380432df86353c9bca526f65cd9db",
+    "snippet": "grep -P '(?!.*?10\\.0\\.0\\.2)\\s+sshd\\[[[:digit:]]+\\]: Failed password for (invalid user )?nessus from \\S+' file \n Aug 28 09:58:18 server34 sshd[13567]: Failed password for invalid user nessus from 10.0.0.4 port 33254 ssh2 \n Aug 28 09:58:57 server34 sshd[13577]: Failed password for invalid user nessus from 10.0.0.4 port 33366 ssh2 \n Aug 28 10:01:09 server34 sshd[13854]: Failed password for invalid user nessus from 10.0.0.4 port 33841 ssh2 \nAug 28 10:01:30 server34 sshd[13932]: Failed password for invalid user nessus from 10.0.0.4 port 34074 ssh2\nAug 28 10:01:48 server34 sshd[13957]: Failed password for invalid user nessus from 10.0.0.4 port 36108 ssh2\nAug 28 10:01:50 server34 sshd[13959]: Failed password for invalid user nessus from 10.0.0.4 port 36540 ssh2"
+  },
+  {
+    "rank": 3,
+    "id": "msg_dcc28977f11927046836443de2e4f8f4e7190baf1ab3f41c1b4bcbc04b5d0497",
+    "score": 47.207336,
+    "link": "https://github.com/go-gitea/gitea/issues/377",
+    "source": "github",
+    "origin_doc_id": "eb2838872f2479bfece1ae3733ecf91137b597be152f6e4ebcd3f5d53c35fc41",
+    "snippet": "Output sshd.log \n ``` rexec line 21: Unsupported option PrintLastLog \n User git not allowed because account is locked \n input_userauth_request: invalid user git \nFailed none for invalid user git from XXX.XXX.XXX.XXX port XXXXX ssh2 \n Failed publickey for invalid user git from XXX.XXX.XXX.XXX port XXXXX ssh2 \n Connection closed by XXX.XXX.XXX.XXX port XXXXX"
+  },
+  {
+    "rank": 4,
+    "id": "msg_c7ddec56a51d3d1590e94e43586addb17a5a02c934b5e396f02a46d10a5d937b",
+    "score": 46.8786,
+    "link": "https://stackoverflow.com/questions/25671192",
+    "source": "so",
+    "origin_doc_id": "6eb0a082e7340a428b186ef6dac1217acd3380432df86353c9bca526f65cd9db",
+    "snippet": "Aug 28 09:58:18 server34 sshd[13567]: Failed password for invalid user nessus from 10.0.0.4 port 33254 ssh2 \n Aug 28 09:58:57 server34 sshd[13577]: Failed password for invalid user nessus from 10.0.0.4 port 33366 ssh2 \n Aug 28 10:01:09 server34 sshd[13854]: Failed password for invalid user nessus from 10.0.0.4 port 33841 ssh2 \n Aug 28 10:01:30 server34 sshd[13932]: Failed password for invalid user nessus from 10.0.0.4 port 34074 ssh2 \n Aug 28 10:01:48 server34 sshd[13957]: Failed password for invalid user nessus from 10.0.0.4 port 36108 ssh2 \nAug 28 10:01:50 server34 sshd[13959]: Failed password for invalid user nessus from 10.0.0.4 port 36540 ssh2 \n Aug 29 03:29:11 server34 sshd[7461]: Failed password for invalid user nessus from 10.0.0.2 port 46375 ssh2 \n Aug 29 03:29:54 server34 sshd[7475]: Failed password for invalid user nessus from 10.0.0.2 port 34047 ssh2 \n Aug 29 03:31:51 server34 sshd[8335]: Failed password for invalid user nessus from 10.0.0.2 port 47509 ssh2 \n Aug 29 03:31:58 server34 sshd[8355]: Failed password for invalid user nessus from 10.0.0.2 port 48692 ssh2 \n Aug 29 03:32:42 server34 sshd[8423]: Failed password for invalid user nessus from 10.0.0.2 port 54580 ssh2 \n Aug 29 03:32:49 server34 sshd[8425]: Failed password for invalid user nessus from 10.0.0.2 port 55557 ssh2"
+  },
+  {
+    "rank": 5,
+    "id": "msg_a52eafc96b27edd56e51b603627961a17ced49c8dbc6a3370a00bf083a7711d6",
+    "score": 45.493874,
+    "link": "https://stackoverflow.com/questions/74222103",
+    "source": "so",
+    "origin_doc_id": "0e38f240cece9c6a04364890a8845e301b3a0ae5fe5c95f48912ceeac983ad83",
+    "snippet": "Oct 27 10:19:12 VMWDEPOCEUS001 sshd[3087]: Failed password for invalid user ssh user from 156.163.33.75 port 56425 ssh2 Oct 27 10:19:14 VMWDEPOCEUS001 sshd[3087]: Failed password for invalid user ssh user from 156.163.33.75 port 56425 ssh2 Oct 27 10:19:15 VMWDEPOCEUS001 sshd[3087]: Connection reset by invalid user ssh user 156.163.33.75 port 56425 [preauth] Oct 27 10:23:52 VMWDEPOCEUS001 sshd[3095]: Invalid user ssh user1 from 156.163.33.75 port 56590 Oct 27 10:23:57 VMWDEPOCEUS001 sshd[3095]: Failed none for invalid user ssh user1 from 156.163.33.75 port 56590 ssh2 Oct 27 10:24:00 VMWDEPOCEUS001 sshd[3095]: Failed password for invalid user ssh user1 from 156.163.33.75 port 56590 ssh2 Oct 27 10:24:04 VMWDEPOCEUS001 sshd[3095]: Failed password for invalid user ssh user1 from 156.163.33.75 port 56590 ssh2 Oct 27 10:24:05 VMWDEPOCEUS001 sshd[3095]: Connection reset by invalid user ssh user1 156.163.33.75 port 56590 [preauth] Oct 27 10:25:26 VMWDEPOCEUS001 sshd[3099]: Accepted password for user1 from 156.163.33.75 port 56649 ssh2 Oct 27 10:25:26 VMWDEPOCEUS001 sshd[3099]: pam_unix(sshd:session): session opened for user user1 by (uid=0) Oct 27 10:25:26 VMWDEPOCEUS001"
+  },
+  {
+    "rank": 6,
+    "id": "msg_5a989447e6aa7212566506b34f12157f8321769ce4398923634be957bbd61632",
+    "score": 44.865364,
+    "link": "https://stackoverflow.com/questions/28691350",
+    "source": "so",
+    "origin_doc_id": "fdb36a6867d0960b93c5e809fb663e78d00f57c1ebc1b54efbd46891dec5edb5",
+    "snippet": "Sep 15 04:34:24 li146-252 sshd[13320]: Failed password for invalid user ronda from 212.58.111.170 port 42201 ssh2 \n Sep 15 04:34:26 li146-252 sshd[13322]: Failed password for invalid user ronda from 212.58.111.170 port 42330 ssh2 \n Sep 15 04:34:28 li146-252 sshd[13324]: Failed password for invalid user ronda from 212.58.111.170 port 42454 ssh2 \n Sep 15 04:34:31 li146-252 sshd[13326]: Failed password for invalid user ronda from 212.58.111.170 port 42579 ssh2 \n Sep 15 04:34:33 li146-252 sshd[13328]: Failed password for invalid user romero from 212.58.111.170 port 42715 ssh2 \n Sep 15 04:34:36 li146-252 sshd[13330]: Failed password for invalid user romero from 212.58.111.170 port 42838 ssh2"
+  },
+  {
+    "rank": 7,
+    "id": "msg_4c9111e29b07d0d942aeda16c3b53ec9c1c04b45ad8b35ed51b188ba5403d136",
+    "score": 44.547176,
+    "link": "https://stackoverflow.com/questions/76769069",
+    "source": "so",
+    "origin_doc_id": "b874b79a3711abcc3daab53ca376e691c4a3d04b65f6dd79db5bd6d041f99bf3",
+    "snippet": "Failed password for invalid user john from <ip> port 63159\nInvalid user john3 from 192.168.1.1 port 64204 \nuseradd[8299]: new user: name=john3, UID=1003, GID=1001, home=/home/john3, shell=/bin/sh, from=none \n sshd[8296]: Failed password for invalid user john3 from 192.168.1.1 port 64204 ssh2 \n  Thank"
+  },
+  {
+    "rank": 8,
+    "id": "msg_d03e95ea440f0f5a1faf3079628c77b9893d0a1893fc210ad71e2e80dff1ed3a",
+    "score": 43.591057,
+    "link": "https://stackoverflow.com/questions/22233649",
+    "source": "so",
+    "origin_doc_id": "10adfe3a112e0e3b7e1ebf5da07feba527fdfc2942ff9f8cd30c56d06d4cfdc0",
+    "snippet": "Mar  5 00:53:43 server012 sshd[15145]: Failed password for XX from X.X.X.X port 59113 ssh2 \n Mar  5 12:19:20 server012 sshd[17378]: Invalid user XX from X.X.X.X \n Mar  5 12:19:20 server012 sshd[17378]: input_userauth_request: invalid user XX [preauth] \n Mar  5 12:19:25 server012 sshd[17378]: Failed none for invalid user XX from X.X.X.X port 38485 ssh2"
+  },
+  {
+    "rank": 9,
+    "id": "msg_59441ce3dee4ccff574b02d89df3c198a95088039bf73943ace1fb93e44c361e",
+    "score": 43.108147,
+    "link": "https://stackoverflow.com/questions/64802034",
+    "source": "so",
+    "origin_doc_id": "29f13d9fc87d5cb2a876f45a41c6721aec298eb0f21e6c785dcdc13675483510",
+    "snippet": "Aug 23 07:23:05 iZk1a211s8hkb4hkecu7w1Z sshd[19569]: Invalid user test from 10.148.0.13 port 48382 \n ... \n Sep 20 07:23:06 iZk1a211s8hkb4hkecu7w1Z sshd[19569]: Failed password for invalid user test from 10.148.0.13 port 48382 ssh2 \n ... \n Aug 23 07:23:07 iZk1a211s8hkb4hkecu7w1Z sshd[19564]: Failed password for invalid user sysadm from 10.148.0.13 port 48380 ssh2 \n ... \n Oct 15 07:23:09 iZk1a211s8hkb4hkecu7w1Z sshd[19573]: Invalid user sinusbot from 10.148.0.13 port 48384 \n ... \nSep 08 07:23:11 iZk1a211s8hkb4hkecu7w1Z sshd[19573]: Failed password for invalid user sinusbot from 10.148.0.13 port 48384 ssh2 \n ... \n Nov 01 07:23:16 iZk1a211s8hkb4hkecu7w1Z sshd[19587]: Invalid user smkim from 10.148.0.13 port 48386 \n ... \n Nov 12 07:23:18 iZk1a211s8hkb4hkecu7w1Z sshd[19587]: Failed password for invalid user smkim from 10.148.0.13 port 48386 ssh2 \n  How to"
+  },
+  {
+    "rank": 10,
+    "id": "msg_69f99d920c75494e886a5c68578be93d1a4d2774e33d4760fa5468e4d5af9e5a",
+    "score": 43.084774,
+    "link": "https://stackoverflow.com/questions/63608849",
+    "source": "so",
+    "origin_doc_id": "91727734562826ccf02a0489b095961962cc267c1994d9cbf3591af3e5575454",
+    "snippet": "Aug 25 10:22:28 iZk1a211s8hkb4hkecu7w1Z sshd[17386]: Invalid user tmp from 10.148.0.13 port 33470 \n Aug 25 10:22:30 iZk1a211s8hkb4hkecu7w1Z sshd[17386]: Failed password for invalid user tmp from 10.148.0.13 port 33470 ssh2 \n Aug 25 10:23:33 iZk1a211s8hkb4hkecu7w1Z sshd[17481]: Invalid user ed from 10.148.0.13 port 33474 \n Aug 25 10:23:35 iZk1a211s8hkb4hkecu7w1Z sshd[17481]: Failed password for invalid user ed from 10.148.0.13 port 33474 ssh2 \n Aug 25 10:23:39 iZk1a211s8hkb4hkecu7w1Z sshd[17496]: Invalid user ssz from 10.148.0.13 port 33476 \n Aug 25 10:23:40 iZk1a211s8hkb4hkecu7w1Z sshd[17496]: Failed password for invalid user ssz from 10.148.0.13 port 33476 ssh2 \n Aug 25 10:23:43 iZk1a211s8hkb4hkecu7w1Z sshd[17502]: Invalid user ubuntu from 10.148.0.13 port 33478 \n Aug 25 10:23:45 iZk1a211s8hkb4hkecu7w1Z sshd[17506]: Failed password for root from 10.148.0.13 port 33480 ssh2 \n Aug 25 10:23:45 iZk1a211s8hkb4hkecu7w1Z sshd[17502]: Failed password for invalid user ubuntu from 10.148.0.13 port 33478 ssh2"
+  }
+]

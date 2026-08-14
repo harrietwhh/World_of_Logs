@@ -1,0 +1,32 @@
+{
+  "case_id": "74",
+  "summary_raw": "[\"Connection request will be dropped\",\"Client attempting to renew session\",\"Revalidating client\",\"Accepted socket connection\"]",
+  "summary_items": [
+    "Connection request will be dropped",
+    "Client attempting to renew session",
+    "Revalidating client",
+    "Accepted socket connection"
+  ],
+  "group_logs_lines": [
+    "WARN Connection request from old client /10.10.34.13 : 36167 ; will be dropped if server is in r-o mode",
+    "INFO Client attempting to renew session 0x24f0557806a001d at /10.10.34.13 : 36167",
+    "INFO Revalidating client : 0x24f0557806a001d",
+    "INFO Accepted socket connection from /10.10.34.19 : 40380",
+    "WARN Connection request from old client /10.10.34.19 : 40380 ; will be dropped if server is in r-o mode",
+    "INFO Client attempting to renew session 0x24f0557806a0021 at /10.10.34.19 : 40380",
+    "INFO Revalidating client : 0x24f0557806a0021",
+    "INFO Accepted socket connection from /10.10.34.15 : 49471",
+    "WARN Connection request from old client /10.10.34.15 : 49471 ; will be dropped if server is in r-o mode",
+    "INFO Client attempting to renew session 0x24f0557806a001f at /10.10.34.15 : 49471",
+    "INFO Revalidating client : 0x24f0557806a001f",
+    "INFO Accepted socket connection from /10.10.34.11 : 51195",
+    "INFO Accepted socket connection from /10.10.34.11 : 51194",
+    "WARN Connection request from old client /10.10.34.11 : 51195 ; will be dropped if server is in r-o mode",
+    "INFO Client attempting to renew session 0x24f0557806a0018 at /10.10.34.11 : 51195",
+    "INFO Revalidating client : 0x24f0557806a0018",
+    "WARN Connection request from old client /10.10.34.11 : 51194 ; will be dropped if server is in r-o mode",
+    "INFO Client attempting to renew session 0x24f0557806a0019 at /10.10.34.11 : 51194",
+    "INFO Established session 0x24f0557806a001a with negotiated timeout 10000 for client /10.10.34.12 : 49435",
+    "INFO Revalidating client : 0x24f0557806a0019"
+  ]
+}

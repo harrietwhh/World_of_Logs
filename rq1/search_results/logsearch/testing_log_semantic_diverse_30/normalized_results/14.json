@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_d59921b006e853ed306735ddbb97ec360c8302d083a95e8849007bd73888524b",
+    "score": 29.676237,
+    "link": "https://stackoverflow.com/questions/49531315",
+    "source": "so",
+    "origin_doc_id": "b3a121e883f5ab9dde386afe85b3a432838ecdb5a65f84fab0198fdf08f99352",
+    "snippet": "| 2018-03-28 09:05:34,828 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37638 \n zookeeper_1      | 2018-03-28 09:05:34,829 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null \n zookeeper_1      | 2018-03-28 09:05:34,829 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37638 (no session established for client) \n zookeeper_1      | 2018-03-28 09:05:35,689 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37640 \n zookeeper_1      | 2018-03-28 09:05:35,692 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null \nzookeeper_1      | 2018-03-28 09:05:35,693 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37640 (no session established for client)\nzookeeper_1      | 2018-03-28 09:05:36,772 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37642\nzookeeper_1      | 2018-03-28 09:05:36,773 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null\nzookeeper_1      | 2018-03-28 09:05:36,773 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37642 (no session established for client)\nzookeeper_1      | 2018-03-28 09:05:37,772 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37644\nzookeeper_1      | 2018-03-28 09:05:37,773 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null\nzookeeper_1      | 2018-03-28 09:05:37,773 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37644 (no session established for client)\nzookeeper_1      | 2018-03-28 09:05:38,877 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37646\nzookeeper_1      | 2018-03-28 09:05:38,880 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null\nzookeeper_1      | 2018-03-28 09:05:38,880 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37646 (no session established for client)\nzookeeper_1      | 2018-03-28 09:05:40,061 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37648\nzookeeper_1      | 2018-03-28 09:05:40,062 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null\nzookeeper_1      | 2018-03-28 09:05:40,062 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37648 (no session established for client)\nzookeeper_1      | 2018-03-28 09:05:41,017 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /172.20.0.1:37650\nzookeeper_1      | 2018-03-28 09:05:41,019 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@383] - Exception causing close of session 0x0: null\nzookeeper_1      | 2018-03-28 09:05:41,019 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /172.20.0.1:37650 (no session established for client)\n \n I have not been able to find any answers online regarding this error. I hope someone can help me solve this."
+  },
+  {
+    "rank": 2,
+    "id": "msg_16733e275fd2bdcaad088836d314bcfa7e84dfc46f9b2356d4930a257e1ad6d0",
+    "score": 29.655945,
+    "link": "https://stackoverflow.com/questions/77873608",
+    "source": "so",
+    "origin_doc_id": "0e768db6b100f980791bd86569dc813fe2497098245a6fc5bec21effe63f2ab5",
+    "snippet": "2024-01-24 10:43:31.117853-03:00 [error] <0.234.0>     reductions: 160"
+  },
+  {
+    "rank": 3,
+    "id": "msg_d9f2cbbe86cce3cf97db49e9a2ab81b03f157b54b94806a4b6356f24eb5bbc2c",
+    "score": 29.389034,
+    "link": "https://stackoverflow.com/questions/31328081",
+    "source": "so",
+    "origin_doc_id": "0ff809d6fa84cae48e1d9de49a251931ea0b142c7a28d3819595ce94d4eb3eef",
+    "snippet": "2015-07-09 16:51:02,598 INFO sqlalchemy.engine.base.Engine {}"
+  },
+  {
+    "rank": 4,
+    "id": "msg_fa9a303c5d231ac23ded189d3d87fc5960d11e4c5ce2a1bebff82280e6c27c4b",
+    "score": 29.316772,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,894 [myid:] - INFO  [QuorumPeer[myid=1](plain=/127.0.0.1:11222)(secure=disabled):QuorumPeer@1033] - LOOKING"
+  },
+  {
+    "rank": 5,
+    "id": "msg_381e789127d3bd2fd27df901ec1b893f825d344c87824d71959ad66fdb0aa0cd",
+    "score": 29.316772,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,894 [myid:] - INFO  [QuorumPeer[myid=2](plain=/127.0.0.1:11225)(secure=disabled):QuorumPeer@1033] - LOOKING"
+  },
+  {
+    "rank": 6,
+    "id": "msg_803273d4da7433b81119f03dba9d49e92ddde0e432a9d24f5383d8fd1504c967",
+    "score": 29.316772,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:38,017 [myid:] - INFO  [QuorumPeer[myid=3](plain=/127.0.0.1:11228)(secure=disabled):QuorumPeer@1033] - LOOKING"
+  },
+  {
+    "rank": 7,
+    "id": "msg_95520d967af8266d4993bcba321385a265244e0b18ef9340c5abac37919fc1e4",
+    "score": 28.738815,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,200 [myid:] - INFO  [main:ZKTestCase$1@55] - STARTING testQuorumSystemChange"
+  },
+  {
+    "rank": 8,
+    "id": "msg_af14d986b25d81c7f7863f3cdeef715238644f1d147ed72af6348d68ea1ee53c",
+    "score": 28.738815,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,754 [myid:] - INFO  [main:QuorumUtil@146] - Started QuorumPeer 1"
+  },
+  {
+    "rank": 9,
+    "id": "msg_33030c1de2bb8c714b98e054f9c3b5ae63f59698872895ad2bb6dc74ef18c11e",
+    "score": 28.738815,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,780 [myid:] - INFO  [main:QuorumUtil@146] - Started QuorumPeer 2"
+  },
+  {
+    "rank": 10,
+    "id": "msg_2e52a9cce8c066e9dda142d1622d60badf8900e073db6c6b8c3665bc5a5a104a",
+    "score": 28.738815,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:38,015 [myid:] - INFO  [main:QuorumUtil@146] - Started QuorumPeer 3"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "input_csv": "RQ1/dataset/build_log/Travis_CI_chunks.csv",
+  "query_column": "Content",
+  "requested_num": 10,
+  "sleep_seconds": 5.0,
+  "provider": "LogSearch API",
+  "engine": "logsearch",
+  "endpoint": "http://129.97.92.71:8000/api/search",
+  "timeout_seconds": 30.0,
+  "batch_name": "Travis_CI_chunks",
+  "output_files": {
+    "batch_metadata": "batch_metadata.json",
+    "query_manifest": "query_manifest.csv",
+    "normalized_results_dir": "normalized_results/"
+  },
+  "total_rows_seen": 30,
+  "total_query_candidates": 30,
+  "total_queries_attempted": 30,
+  "total_successes": 30,
+  "total_zero_result_successes": 0,
+  "total_failures": 0,
+  "total_skipped_empty_query": 0,
+  "started_at_utc": "2026-04-10T21:31:12.029329+00:00",
+  "finished_at_utc": "2026-04-10T21:34:06.605143+00:00"
+}

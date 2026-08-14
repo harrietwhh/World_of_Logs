@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_4efac42f9e44e94622d4541f257e5975d1ee83d6821e65ba7bf53c6f56f4e2e0",
+    "score": 102.28054,
+    "link": "https://github.com/atom/ci/pull/19",
+    "source": "github",
+    "origin_doc_id": "9db08e5d729895c6f4fdf2a462bc9a3a4b785551f23728b422a9da4914965132",
+    "snippet": "Linting package with standard... \n standard: Use JavaScript Standard Style (https://github.com/feross/standard) \n   /Users/travis/build/username_0/plantuml-viewer/atom/Atom.app/Contents/Resources/app/apm/lib/apm-cli.js:1:9: Missing space before function parentheses. \n ```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_21828820d82fb73c805072a6fa83772dcf99fa2ed1db3da6f5b7b253a55ec828",
+    "score": 88.6283,
+    "link": "https://github.com/standard/standard/issues/1235",
+    "source": "github",
+    "origin_doc_id": "248401547cc94477621bd902f03a3928fabd96cec44d33576716d10c15935ddf",
+    "snippet": "Error: Use JavaScript Standard Style (https://github.com/feross/standard) \nUnexpected reserved word \n ```"
+  },
+  {
+    "rank": 3,
+    "id": "msg_dff6afe5977e99ede5db395e2e45a0c13aab1a6f9f7fb2495ac56e0c726658e8",
+    "score": 85.50783,
+    "link": "https://github.com/mhkeller/indian-ocean/issues/26",
+    "source": "github",
+    "origin_doc_id": "65b13c6855960b4d831f2f0b888b8e2e6c7b4af839825d66bca1d860af54cc4d",
+    "snippet": "console.log(exists)\nUse JavaScript Standard Style (https://github.com/feross/standard) \n lib/index.js:96:23: Unnecessary use of boolean literals in conditional expression \n ````"
+  },
+  {
+    "rank": 4,
+    "id": "msg_2ca68d5714d8384849f4ddc9dded1b70a515ee543b013178cf1907a660d20942",
+    "score": 83.035286,
+    "link": "https://github.com/electron/electron-api-demos/pull/252",
+    "source": "github",
+    "origin_doc_id": "1877d86a8bf07447fda892241aa21e9c6742a306c6bb356b1f63933bbc1e508d",
+    "snippet": "standard: Use JavaScript Standard Style (http://standardjs.com)  \n /home/travis/build/electron/electron-api-demos/renderer-process/windows/manage-window.js \n   20:2  error  Newline required at end of file but not found \n /home/travis/build/electron/electron-api-demos/renderer-process/windows/using-window-events.js \n   20:5  error  Expected space                                 s \n   29:2  error  Newline required at end of file but not found \n ✖ 3 problems"
+  },
+  {
+    "rank": 5,
+    "id": "msg_9a1767894dbe02bcbbaeabb4b591692a1619f483d7cbd3eb6c20b0cc159aefda",
+    "score": 79.30001,
+    "link": "https://github.com/eslint/eslint/issues/2224",
+    "source": "github",
+    "origin_doc_id": "a827fde928bf61c53d4b48a8bf5786df6f43ab2618cd92b0327f5e5946410ee3",
+    "snippet": "126  }) \n ``` \n Error: Use JavaScript Standard Style (https://github.com/feross/standard) \n   ~/opensource/oxr/test/test.js:112:80: Block must not be padded by blank lines \n ```"
+  },
+  {
+    "rank": 6,
+    "id": "msg_2a69c5c383c2fcddf42fbf20cc385ff1e922fc53279c17c3abb5765406eeb2f3",
+    "score": 76.58533,
+    "link": "https://github.com/dat-land/dat-desktop/pull/537",
+    "source": "github",
+    "origin_doc_id": "32bb22a21911ce8e4a94e87686ec865ccce03f8012c2a2a4dd2061f820c7c9f7",
+    "snippet": "`standard: Use JavaScript Standard Style (https://standardjs.com)\n  /Users/travis/build/dat-land/dat-desktop/app/actions/index.js:270:27: 'blob' is not defined.`"
+  },
+  {
+    "rank": 7,
+    "id": "msg_5eed5ad6fb7e66e892ab8b526c4042d653470491adfea499e2c94a8d8c1370bc",
+    "score": 76.33787,
+    "link": "https://github.com/mattdesl/garnish/pull/11",
+    "source": "github",
+    "origin_doc_id": "f0cde26d1f5b4405e67ee9e1bdc9fee478401e37120fcbee752e811a6dfeec5a",
+    "snippet": "standard: Use JavaScript Standard Style (https://github.com/feross/standard) \n   /Users/yw/src/username_0/garnish/index.js:40:4: Trailing spaces not allowed. \n   /Users/yw/src/username_0/garnish/lib/renderer.js:36:4: Trailing spaces not allowed. \n npm ERR! Test failed.  See above for more details. \n ~/src/username_0/garnish username_0-feature/color \n ❯"
+  },
+  {
+    "rank": 8,
+    "id": "msg_bddd9d2d36b1b24291523f86d908554852f1337756565aad480a046bdf989c09",
+    "score": 75.88932,
+    "link": "https://github.com/koajs/koa/pull/524",
+    "source": "github",
+    "origin_doc_id": "a7e71d9c6a79a7de528989ed2fbf4d2a4778591e1222fff894d37d9a5e9e99c1",
+    "snippet": "standard: Use JavaScript Standard Style (https://github.com/feross/standard)  \n   /Users/tejas/Repos/username_0/koa/test/application/respond.js:193:9: `errorCaught` is constant. \n   /Users/tejas/Repos/username_0/koa/test/application/respond.js:745:9: Found unexpected statement after a throw. \n   /Users/tejas/Repos/username_0/koa/test/context/onerror.js:103:9: Expected an object to be thrown."
+  },
+  {
+    "rank": 9,
+    "id": "msg_8fd60cc7b40220f3c120a3311cdd404972feb3af8c9b66af4d5363ff740ecf60",
+    "score": 75.31173,
+    "link": "https://github.com/fergiemcdowall/search-index/pull/430",
+    "source": "github",
+    "origin_doc_id": "d4889db13a943b4edc800a0f7aa0ef983d7bf0388f9322c541d3be61b563ceae",
+    "snippet": "standard: Use JavaScript Standard Style (http://standardjs.com) \n   /home/travis/build/username_1/search-index/lib/index.d.ts:23:8: Parsing error: Unexpected token type \n ``` \n ...can you make the"
+  },
+  {
+    "rank": 10,
+    "id": "msg_d6f2922815e40e705dcf9107a8e9e5037b0c6de9e4bd48e5d9b8049b345618ee",
+    "score": 74.87795,
+    "link": "https://github.com/motdotla/dotenv/pull/72",
+    "source": "github",
+    "origin_doc_id": "2b66265233f4189b0d629791461229c624ce51bf27cdb14ae92366fdd5891167",
+    "snippet": "Error: Use JavaScript Standard Style (https://github.com/feross/standard) \n   lib/main.js:41:11: Closing curly brace does not appear on the same line as the subsequent block. \n npm ERR! Test failed.  See above for more details."
+  }
+]

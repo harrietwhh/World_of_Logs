@@ -1,0 +1,21 @@
+{
+  "mode": "bgl_case",
+  "case_id": "10",
+  "query_source": "group_logs",
+  "query_count": 2,
+  "queries": [
+    "program interrupt illegal instruction",
+    "data store interrupt caused by icbi"
+  ],
+  "log_message": "",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 19,
+  "retrieved_candidate_count": 19,
+  "output_dir": "intermediate_group_logs/case_10_group_logs",
+  "generated_at_utc": "2026-03-14T01:55:17.524450+00:00"
+}

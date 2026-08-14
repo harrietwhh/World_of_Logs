@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_defe0b7f955e5b06059c4fad9e3de783062bc3dde6ead485c9f9e608b203a019",
+    "score": 35.747017,
+    "link": "https://stackoverflow.com/questions/78992804",
+    "source": "so",
+    "origin_doc_id": "e3f94d150d81939c0f4d23e72d3542e6164c7ba52cc78140fdcf0e3ea0ea069e",
+    "snippet": "2024/09/17 09:10:54 [debug] 3381249#3381249: *79 http upstream check client, write event:1, \"/extapi/get_token/\""
+  },
+  {
+    "rank": 2,
+    "id": "msg_322f1315f62736eaacd3531fa5a7f00120cf1eef882174634a822ddf2701add3",
+    "score": 34.265022,
+    "link": "https://stackoverflow.com/questions/78989046",
+    "source": "so",
+    "origin_doc_id": "4ed796c4388d9376c357e37dd51aff5690f6c991d1f63a3106b522e69429d67c",
+    "snippet": "2024-09-13T12:07:19.058+02:00 DEBUG 711105 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Before shutdown stats (total=10, active=10, idle=0, waiting=31)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_ebdbecf882ed5237b0efeb1a6711847c25184cf36cf445e2eabc73d8f1da7f13",
+    "score": 34.213623,
+    "link": "https://stackoverflow.com/questions/53939911",
+    "source": "so",
+    "origin_doc_id": "7079e7d10d5083b0ed83e7b9a6a79c36adc85b02f3bbecb72a73926c7880dc82",
+    "snippet": "6460    UCS ucs     10.3.40.20  2018-12-27 09:35:14 +06 idle    Client: ClientRead  \n 46462   UCS ucs     10.3.40.20  2018-12-27 09:35:17 +06 idle    Client: ClientRead  \n 46463   UCS ucs     10.3.40.20  2018-12-27 09:35:17 +06 idle    Client: ClientRead  \n 46517   UCS ucs     10.3.40.20  2018-12-27 09:36:20 +06 idle    Client: ClientRead  \n 46518   UCS ucs     10.3.40.20  2018-12-27 09:36:21 +06 idle    Client: ClientRead  \n 46520   UCS ucs     10.3.40.20  2018-12-27 09:36:22 +06 idle    Client: ClientRead  \n 46521   UCS ucs     10.3.40.20  2018-12-27 09:36:23 +06 idle    Client: ClientRead  \n 46522   UCS ucs     10.3.40.20  2018-12-27 09:36:23 +06 idle    Client: ClientRead  \n 46524   UCS ucs     10.3.40.20  2018-12-27 09:36:24 +06 idle    Client: ClientRead  \n46525   UCS ucs     10.3.40.20  2018-12-27 09:36:24 +06 idle    Client: ClientRead  \n 46527   UCS ucs     10.3.40.20  2018-12-27 09:36:25 +06 idle    Client: ClientRead  \n 46529   UCS ucs     10.3.40.20  2018-12-27 09:36:25 +06 idle    Client: ClientRead  \n 46531   UCS ucs     10.3.40.20  2018-12-27 09:36:26 +06 idle    Client: ClientRead  \n 46532   UCS ucs     10.3.40.20  2018-12-27 09:36:26 +06 idle    Client: ClientRead  \n 46534   UCS ucs     10.3.40.20  2018-12-27 09:36:27 +06 idle    Client: ClientRead"
+  },
+  {
+    "rank": 4,
+    "id": "msg_12606c7b8d1c4c59684f104883716555fdffa4e03ce104cb39df9366f92d6bfa",
+    "score": 33.35253,
+    "link": "https://github.com/mimblewimble/grin-pm/pull/332",
+    "source": null,
+    "origin_doc_id": "0425277cf3d528ca7f00074a76407edd3692e4c61d721aa44c50e83716869862",
+    "snippet": "20210112 09:12:01.266 DEBUG grin_wallet_impls::tor::process - Dropping TOR process \n 20210112 09:12:09.578 DEBUG grin_wallet_api::owner - Send (TOR): Could not send Slate via TOR: Client Callback Error: Performing version check (is recipient listening?): Request error: Cannot make request: error trying to connect: Unsuccessful reply: HostUnreachable \n 20210112 09:12:09.578 DEBUG grin_wallet_impls::tor::process - Dropping TOR process \n 20210112 09:12:09.578 DEBUG grin_wallet_api::owner - Unable to send via TOR: Client Callback Error: Performing version check (is recipient listening?): Request error: Cannot make request: error trying to connect: Unsuccessful reply: HostUnreachable \n 20210112 09:12:09.578 WARN grin_wallet_api::owner - Unable to send transaction via TOR \n ```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_5eec9f82b686b9d3c609eae6c3cd20284adf812ac1205a026ad4960969c70649",
+    "score": 32.74994,
+    "link": "https://github.com/pyinvoke/invoke/issues/667",
+    "source": "github",
+    "origin_doc_id": "01d41e3d1178826a4f4f84e2ce95fd4eb00752e85b108022302c3631e2c76add",
+    "snippet": "[2019-09-17 04:34:02,109] DEBUG    [paramiko.transport] [chan 0] EOF received (0)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_2f2549aae6bdd1711c3e873903c441bae4e23c0ec4a4d3835a487c6182b1f7ca",
+    "score": 32.473076,
+    "link": "https://stackoverflow.com/questions/79030172",
+    "source": "so",
+    "origin_doc_id": "382b90c7a9dd55f7e346ff07db1c58d923656bca3738e1f2e1ceaf7abb9c1488",
+    "snippet": "2024-09-27T13:47:04.305+0800 [DEBUG] [org.gradle.launcher.daemon.server.DaemonStateCoordinator] resetting idle timer"
+  },
+  {
+    "rank": 7,
+    "id": "msg_0138bd92b5851ea4ca0f4275e99b3165de28ea873da1cd12267cbe3cbbe50db9",
+    "score": 32.346615,
+    "link": "https://stackoverflow.com/questions/79267492",
+    "source": "so",
+    "origin_doc_id": "01c2b2eeff30a3b0a4c8b0c8d244334dd2e4ba4a2444c5b7867375cfba345866",
+    "snippet": "[2024-12-09 14:32:00] [DEBUG] [hpack.hpack] Decoded 68, consumed 1 bytes"
+  },
+  {
+    "rank": 8,
+    "id": "msg_476418907675d1643b0d50284ddca900efde397a5b0d8359d7a895315127fd73",
+    "score": 32.167953,
+    "link": "https://issues.sonatype.org/browse/NEXUS-3772",
+    "source": "jira",
+    "origin_doc_id": "369f7ba1000662b2f5f076a2a18b4be109588ac56869fbc83ab563bc64c3d9db",
+    "snippet": "2010-09-09 12:35:37 DEBUG [tion=FHACKER%20] - org.mortbay.log               - session=null"
+  },
+  {
+    "rank": 9,
+    "id": "msg_8f6ff1aa280b9756db9a7af27c48103303297fb756665a6c2e8cad4d0c9a29be",
+    "score": 32.167953,
+    "link": "https://issues.sonatype.org/browse/NEXUS-3772",
+    "source": "jira",
+    "origin_doc_id": "369f7ba1000662b2f5f076a2a18b4be109588ac56869fbc83ab563bc64c3d9db",
+    "snippet": "2010-09-09 12:35:37 DEBUG [tion=FHACKER%20] - org.mortbay.log               - servlet=nexus"
+  },
+  {
+    "rank": 10,
+    "id": "msg_6efb7ad22f48c0839fab11b4883509a7f82863f43fbd4dedd54489a1e58378b9",
+    "score": 31.84827,
+    "link": "https://issues.sonatype.org/browse/NEXUS-3772",
+    "source": "jira",
+    "origin_doc_id": "369f7ba1000662b2f5f076a2a18b4be109588ac56869fbc83ab563bc64c3d9db",
+    "snippet": "2010-09-09 12:35:37 DEBUG [tion=FHACKER%20] - org.mortbay.log               - sessionManager=org.mortbay.jetty.servlet.HashSessionManager@3bcdae24"
+  }
+]

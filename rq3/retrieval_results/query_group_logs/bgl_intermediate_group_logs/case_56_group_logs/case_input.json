@@ -1,0 +1,29 @@
+{
+  "case_id": "56",
+  "summary_raw": "[\"Lustre mount FAILED\"]",
+  "summary_items": [
+    "Lustre mount FAILED"
+  ],
+  "group_logs_lines": [
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio473 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio106 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio650 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio396 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio817 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio359 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio14 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio173 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio240 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio365 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio188 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio827 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio46 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio99 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio474 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio643 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio148 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio467 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio231 : point /p/gb1",
+    "RAS KERNEL FATAL Lustre mount FAILED : bglio100 : point /p/gb1"
+  ]
+}

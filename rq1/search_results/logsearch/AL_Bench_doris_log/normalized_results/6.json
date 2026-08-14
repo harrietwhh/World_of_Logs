@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_f09237918debeec780d6e8297c43ed794a3487a16c5d04c7f33926b7dbf21c4e",
+    "score": 29.173527,
+    "link": "https://stackoverflow.com/questions/34713349",
+    "source": "so",
+    "origin_doc_id": "6a16caa0f1b4c9171868fb355e9e62d3a07ec6662e78d94e583db64c7af1ceb4",
+    "snippet": "log.info(s\"received set request key ${key} value ${value}\")"
+  },
+  {
+    "rank": 2,
+    "id": "msg_c4c2e419a46b7d44d295d92c9d6c00298fc13c7e51f1b0e650dde5793ef3a31c",
+    "score": 28.303646,
+    "link": "https://issues.apache.org/jira/browse/HBASE-16985",
+    "source": "jira",
+    "origin_doc_id": "de5c8ae8fa92ca1f0b150e5164c19ad17f9408fec237056e555298c20b8c4b89",
+    "snippet": "LOG.info(\"Config from master: \" + key + \"=\" + value);"
+  },
+  {
+    "rank": 3,
+    "id": "msg_ec69ec0540d3702730550e2c8bf0b05d77d0affa1ffca1595a16a4fe91298dc4",
+    "score": 27.94857,
+    "link": "https://issues.apache.org/jira/browse/KAFKA-6728",
+    "source": "jira",
+    "origin_doc_id": "6ea8058f31ada73c7f8770d21a58a59faf67cfbb2b3aebe81b0bcee4501c85ae",
+    "snippet": "log.info(\"Set up the header converter {} for task {} using the worker config\", headerConverter.getClass(), id);\nlog.info(\"Set up the header converter {} for task {} using the connector config\", headerConverter.getClass(), id); \n \nlog.debug(\"Configuring the {} converter with configuration:{}{}\", \n +                  isKeyConverter ? \"key\" : \"value\", System.lineSeparator(), converterConfig);\nlog.debug(\"Configuring the header converter with configuration:{}{}\", System.lineSeparator(), converterConfig);"
+  },
+  {
+    "rank": 4,
+    "id": "msg_3f16984f1b78f915ad2421af162a70abdd676632a5c44493dbbfbf0f6f38f418",
+    "score": 27.33326,
+    "link": "https://stackoverflow.com/questions/46943391",
+    "source": "so",
+    "origin_doc_id": "fb0281b936bbc404d33889cb6eedec9640dd7b24d288ee1bcbec5604f35741ad",
+    "snippet": "log.info(\"Received set request-key:{} value: {}\",message.getKey(),message.getValue());"
+  },
+  {
+    "rank": 5,
+    "id": "msg_de0886b11369b5aa7f3fa798e97d68b7e663c81678e61e0b09888ef0028dbbba",
+    "score": 27.33326,
+    "link": "https://stackoverflow.com/questions/46943391",
+    "source": "so",
+    "origin_doc_id": "fb0281b936bbc404d33889cb6eedec9640dd7b24d288ee1bcbec5604f35741ad",
+    "snippet": "log.info(\"Received set request-key:{} value: {}\", message.getKey(), message.getValue());"
+  },
+  {
+    "rank": 6,
+    "id": "msg_d183ea01d59f2c32bf5af23f01ece54a7175d362e7c74055efe5c04458f7ce46",
+    "score": 26.93297,
+    "link": "https://github.com/creationix/nvm/issues/855",
+    "source": "github",
+    "origin_doc_id": "951e1cead70b13a870ceae613bcd49c84b7d30dcaad0af88b50b8ab6f7cc63e7",
+    "snippet": "npm ERR! Usage: \n npm ERR! npm config set <key> <value> \n npm ERR! npm config get [<key>] \n npm ERR! npm config delete <key> \n npm ERR! npm config list\nnpm ERR! npm config edit\nnpm ERR! npm set <key> <value>\nnpm ERR! npm get [<key>]\nnpm ERR! Usage:\nnpm ERR! npm config set <key> <value>\nnpm ERR! npm config get [<key>]\nnpm ERR! npm config delete <key>\nnpm ERR! npm config list\nnpm ERR! npm config edit\nnpm ERR! npm set <key> <value>\nERR! npm get [<key>]"
+  },
+  {
+    "rank": 7,
+    "id": "msg_c1492c25011f8b264adf64bd744208ec2aa1b7b3656a60aa4528cd83727a935b",
+    "score": 26.739414,
+    "link": "https://github.com/spring-cloud/spring-cloud-stream-binder-kafka/issues/933",
+    "source": "github",
+    "origin_doc_id": "8a12d9d265683d5db9c81c6c2ee29cf0cc0a8b21c67492f1106bde0e408403ac",
+    "snippet": "log.info(\"Key: {} | Value: {}\", key, value);\n\n Exception in thread \"interplay-analytics-StreamThread-1\" org.apache.kafka.streams.errors.StreamsException: Deserialization exception handler is set to fail upon a deserialization error. If you would rather"
+  },
+  {
+    "rank": 8,
+    "id": "msg_b17761704c998d3a47ffd12ef9ae43380f34b68195ebd12c2c31b27dcf817093",
+    "score": 26.703331,
+    "link": "https://github.com/goharbor/harbor-operator/issues/872",
+    "source": "github",
+    "origin_doc_id": "02cc3ffb81df6ae99dce34212138cff50becac9f6e054aa2723ab495871015ba",
+    "snippet": "2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_service_name, error: the configure value is not set                    │ \n │ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_namespace, error: the configure value is not set                       │ \n │ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_attribute, error: the configure value is not set                       │ \n │ 2022-03-29T14:30:31Z [ERROR] [/lib/config/metadata/value.go:143]: GetStringToStringMap failed, current value's metadata is not defined, &{Name: Value:}   │ \n │ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_jaeger_endpoint, error: the configure value is not set                 │ \n │ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_jaeger_username, error: the configure value is not set                 │ \n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_jaeger_password, error: the configure value is not set                 │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_jaeger_agent_host, error: the configure value is not set               │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_otel_endpoint, error: the configure value is not set                   │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_otel_url_path, error: the configure value is not set                   │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_otel_compression, error: the configure value is not set                │\n│ 2022-03-29T14:30:31Z [ERROR] [/lib/config/metadata/value.go:126]: GetBool failed, the current value's metadata is not defined, &{Name: Value:}            │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_otel_insecure, error: the configure value is not set                   │\n│ 2022-03-29T14:30:31Z [ERROR] [/lib/config/metadata/value.go:126]: GetBool failed, the current value's metadata is not defined, &{Name: Value:}            │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_otel_timeout, error: the configure value is not set                    │\n│ 2022-03-29T14:30:31Z [ERROR] [/lib/config/metadata/value.go:78]: GetInt failed, the current value's metadata is not defined, &{Name: Value:}              │\n[Truncated]\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_service_name, error: the configure value is not set                    │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_namespace, error: the configure value is not set                       │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_attribute, error: the configure value is not set                       │\n│ 2022-03-29T14:30:31Z [ERROR] [/lib/config/metadata/value.go:143]: GetStringToStringMap failed, current value's metadata is not defined, &{Name: Value:}   │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_jaeger_endpoint, error: the configure value is not set                 │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_jaeger_username, error: the configure value is not set                 │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_jaeger_password, error: the configure value is not set                 │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_jaeger_agent_host, error: the configure value is not set               │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_otel_endpoint, error: the configure value is not set                   │\n│ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_otel_url_path, error: the configure value is not set                   │ \n │ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_otel_compression, error: the configure value is not set                │ \n │ 2022-03-29T14:30:31Z [ERROR] [/lib/config/metadata/value.go:126]: GetBool failed, the current value's metadata is not defined, &{Name: Value:}            │ \n │ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_otel_insecure, error: the configure value is not set                   │ \n │ 2022-03-29T14:30:31Z [ERROR] [/lib/config/metadata/value.go:126]: GetBool failed, the current value's metadata is not defined, &{Name: Value:}            │ \n │ 2022-03-29T14:30:31Z [DEBUG] [/pkg/config/manager.go:139]: failed to get key trace_otel_timeout, error: the configure value is not set                    │ \n │ 2022-03-29T14:30:31Z [ERROR] [/lib/config/metadata/value.go:78]: GetInt failed, the current value's metadata is not defined, &{Name: Value:}              │ \n ``` \n - **Kubernetes:** How Kubernetes access was provided (what cloud provider, service-account configuration, ...)."
+  },
+  {
+    "rank": 9,
+    "id": "msg_f396c7c2d9bae904e399c60fb73d2651a17e75fa1a481d21af33875732fb91bc",
+    "score": 26.697882,
+    "link": "https://stackoverflow.com/questions/67110698",
+    "source": "so",
+    "origin_doc_id": "d5539fffa2a1482a99cbf9a7c689bc80b3180f81e6a7a677204db95397a9dc76",
+    "snippet": "Log.info(\"INSIDE clearAndTypeIntoInputField() ---------> value to set: \" + value); \nLog.info(\"INSIDE clearAndTypeIntoInputField() ---------> value after set: \" + inputElement.getAttribute(\"value\"));"
+  },
+  {
+    "rank": 10,
+    "id": "msg_a46b597f06032ce20a1b70062ff3ceb2ba906f33609a53f67fa9ba80005af852",
+    "score": 26.334835,
+    "link": "https://issues.apache.org/jira/browse/SPARK-13666",
+    "source": "jira",
+    "origin_doc_id": "c94d39f065a7f31b3bd6d831a8e23b54f8d12495612fe84117b5e7fa90859d9b",
+    "snippet": "16/03/03 19:00:25 WARN hive.HiveSessionState$$anon$1: Attempt to set non-Spark SQL config in SQLConf: key = spark.yarn.driver.memoryOverhead, value = 26 \n 16/03/03 19:00:25 WARN hive.HiveSessionState$$anon$1: Attempt to set non-Spark SQL config in SQLConf: key = spark.yarn.executor.memoryOverhead, value = 26 \n 16/03/03 19:00:25 WARN hive.HiveSessionState$$anon$1: Attempt to set non-Spark SQL config in SQLConf: key = spark.executor.cores, value = 1 \n 16/03/03 19:00:25 WARN hive.HiveSessionState$$anon$1: Attempt to set non-Spark SQL config in SQLConf: key = spark.executor.memory, value = 268435456"
+  }
+]

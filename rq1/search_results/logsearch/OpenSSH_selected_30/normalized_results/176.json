@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_eedebf1726fa45891cdb476e217512d9dc82617a3cdbf7f141db4e1e60ef93ca",
+    "score": 49.68022,
+    "link": "https://github.com/theophilusx/ssh2-sftp-client/issues/217",
+    "source": "github",
+    "origin_doc_id": "c4a45343dad82f7fd15ec18f42c37667ed999612bba1f486c26e703b23f26d5e",
+    "snippet": "console.log(\"Failed to connect:\", e);\nconsole.log(\"Failed to retrieve sftp download: \", e);\n[Truncated]\nftp_1  | Disconnected from 172.18.0.1 port 59724 [preauth]\nftp_1  | Received disconnect from 172.18.0.1 port 59728:11:  [preauth]\nftp_1  | Disconnected from 172.18.0.1 port 59728 [preauth]\nftp_1  | Received disconnect from 172.18.0.1 port 59732:11:  [preauth]\nftp_1  | Disconnected from 172.18.0.1 port 59732 [preauth]\nftp_1  | Received disconnect from 172.18.0.1 port 59736:11:  [preauth]\nftp_1  | Disconnected from 172.18.0.1 port 59736 [preauth]\nftp_1  | Received disconnect from 172.18.0.1 port 59740:11:  [preauth]\nftp_1  | Disconnected from 172.18.0.1 port 59740 [preauth]\nftp_1  | Received disconnect from 172.18.0.1 port 59744:11:  [preauth] \n ftp_1  | Disconnected from 172.18.0.1 port 59744 [preauth] \n ftp_1  | Received disconnect from 172.18.0.1 port 59748:11:  [preauth] \n ftp_1  | Disconnected from 172.18.0.1 port 59748 [preauth] \n ftp_1  | Received disconnect from 172.18.0.1 port 59752:11:  [preauth] \n ftp_1  | Disconnected from 172.18.0.1 port 59752 [preauth] \n ftp_1  | Received disconnect from 172.18.0.1 port 59756:11:  [preauth] \n ftp_1  | Disconnected from 172.18.0.1 port 59756 [preauth] \n ... truncated"
+  },
+  {
+    "rank": 2,
+    "id": "msg_7a1cef83f78de2053223b9a5859b9b35a016710d136b5370b521ced0c2ca539e",
+    "score": 48.021088,
+    "link": "https://stackoverflow.com/questions/36024095",
+    "source": "so",
+    "origin_doc_id": "eee9893760cdb117b3a9414420c56031a740b39acdceeb413a2fc1e0ee7b420b",
+    "snippet": "Mar 14 19:22:36 hotdog sshd[65937]: Received disconnect from 181.214.92.11:  11: Bye Bye [preauth] \n Mar 14 19:22:37 hotdog sshd[65939]: Invalid user ubnt from 181.214.92.11 \n Mar 14 19:22:37 hotdog sshd[65939]: input_userauth_request: invalid user ubnt [preauth] \n Mar 14 19:22:37 hotdog sshd[65939]: Received disconnect from 181.214.92.11: 11: Bye Bye [preauth] \n Mar 14 19:22:38 hotdog sshd[65941]: Invalid user support from 181.214.92.11 \n Mar 14 19:22:38 hotdog sshd[65941]: input_userauth_request: invalid user support [preauth] \n Mar 14 19:22:38 hotdog sshd[65941]: Received disconnect from 181.214.92.11: 11: Bye Bye [preauth] \n Mar 14 19:22:39 hotdog sshd[65943]: Invalid user oracle from 181.214.92.11 \n Mar 14 19:22:39 hotdog sshd[65943]: input_userauth_request: invalid user oracle [preauth] \nMar 14 19:22:39 hotdog sshd[65943]: Received disconnect from 181.214.92.11: 11: Bye Bye [preauth]\nMar 14 19:22:40 hotdog sshd[65945]: Received disconnect from 181.214.92.11: 11: Bye Bye [preauth]\nMar 14 19:24:04 hotdog sshd[65947]: fatal: Read from socket failed: Operation timed out [preauth]\nMar 14 20:01:19 hotdog sshd[66032]: Received disconnect from 183.3.202.102: 11:  [preauth]\nMar 14 20:40:17 hotdog sshd[66092]: Invalid user cacti from 199.217.117.71\nMar 14 20:40:17 hotdog sshd[66092]: input_userauth_request: invalid user cacti [preauth]\nMar 14 20:40:17 hotdog sshd[66092]: Connection closed by 199.217.117.71 [preauth]\nMar 14 21:32:09 hotdog sshd[66188]: Received disconnect from 183.3.202.102: 11:  [preauth]\nMar 14 22:01:59 hotdog sshd[66256]: Invalid user user1 from 199.217.117.71\nMar 14 22:01:59 hotdog sshd[66256]: input_userauth_request: invalid user user1 [preauth]\nMar 14 22:02:00 hotdog sshd[66256]: Connection closed by 199.217.117.71 [preauth] \n Mar 14 22:17:57 hotdog sshd[66280]: Did not receive identification string from 14.182.117.161"
+  },
+  {
+    "rank": 3,
+    "id": "msg_17defc548e2b59541ff3f3e6ac8460ef9b4c8f08537372b0b69569164c08a54d",
+    "score": 46.92677,
+    "link": "https://github.com/OWASP/SecureTea-Project/pull/126",
+    "source": "github",
+    "origin_doc_id": "206e5fe98de85cada1189c2d71a0d29e5c535e1d394d6b7fa7ffbed51e2a007d",
+    "snippet": "Jun 1 10:22:56 ip-172-31-1-163 sshd[2363]: Invalid user ubnt from 192.168.3.11 \n Jun 1 11:55:42 ip-172-31-1-163 sshd[2421]: Invalid user admin from 172.16.31.10 \n Jun 2 13:25:29 ip-172-31-1-163 sshd[2671]: Invalid user server from 172.16.31.10\nJan 11 12:34:24 ip-172-31-1-163 sshd[2598]: Received disconnect from 172.16.58.3: 11:  [preauth] \n Jan 11 12:34:53 ip-172-31-1-163 sshd[2601]: Received disconnect from 172.16.31.10: 11:  [preauth] \n Jan 11 12:35:59 ip-172-31-1-163 sshd[2603]: Received disconnect from 172.16.17.32: 11:  [preauth] \n Jan 11 12:38:21 ip-172-31-1-163 sshd[2607]: Received disconnect from 172.16.17.32: 11:  [preauth] \n Jan 11 12:38:37 ip-172-31-1-163 sshd[2609]: Received disconnect from 192.168.3.11: 11:  [preauth] \n Jan 11 12:40:20 ip-172-31-1-163 sshd[2611]: Received disconnect from 172.16.17.32: 11:  [preauth] \n Jan 11 12:41:19 ip-172-31-1-163 sshd[2613]: Received disconnect from 192.168.3.11: 11:  [preauth] \nJan 11 12:42:40 ip-172-31-1-163 sshd[2615]: Received disconnect from 172.16.17.32: 11:  [preauth] \n Jan 11 12:42:40 ip-172-31-1-163 sshd[2617]: Received disconnect from 172.16.31.10: 11:  [preauth] \n Jan 11 12:44:24 ip-172-31-1-163 sshd[2619]: Received disconnect from 192.168.3.11: 11:  [preauth] \n Jan 11 12:45:01 ip-172-31-1-163 sshd[2621]: Received disconnect from 192.168.3.11: 11:  [preauth] \n Jan 11 12:46:52 ip-172-31-1-163 sshd[2623]: Received disconnect from 172.16.58.3: 11:  [preauth] \n ```"
+  },
+  {
+    "rank": 4,
+    "id": "msg_ecfe6893eadf82cada1039014920fff31d750dd76001dd55017d0cc1d393fc7b",
+    "score": 45.82092,
+    "link": "https://github.com/elastic/beats/issues/19836",
+    "source": "github",
+    "origin_doc_id": "2bbb994dadaac24927a0cedb5a958be293ea48655a9bccceba1027a6d186f0f0",
+    "snippet": "- `Unable to negotiate with 10.1.2.3 port 32525: no matching cipher found. Their offer: aes256-cbc,kenaa@example.com,aes192-cbc,aes128-cbc,arcfour128,arcfour,3des-cbc,none [preauth]` \n - `pam_unix(cron:session): session closed for user root` \n - `Received disconnect from 10.1.2.3 port 36032:11: Normal Shutdown, Thank you for playing [preauth]` \n - `Disconnected from invalid user user01 10.1.2.3 port 36032 [preauth]` \n - `User root from 10.1.2.3 not allowed because none of user's groups are listed in AllowGroups`\n- `Connection closed by 10.1.2.3 port 56588 [preauth]` \n - `Connection closed by invalid user system 10.1.2.3 port 56630 [preauth]` \n - `Disconnected from authenticating user michael 10.1.2.3 port 51039 [preauth]`"
+  },
+  {
+    "rank": 5,
+    "id": "msg_ddd692d3b5a3a650527413b4144268ff1d30223845f0f97fb9188f5d758a3cbf",
+    "score": 44.817738,
+    "link": "https://stackoverflow.com/questions/21809383",
+    "source": "so",
+    "origin_doc_id": "be63c87f9d156d0e589fe71b0fa4e64ddaae0d03eec7c15bfcefbeef23d90d92",
+    "snippet": "Invalid user liao from xxx.xxx.x.xxx \n input_userauth_request: invalid user liao [preauth] \n Received disconnect from xxx.xxx.x.xxx: Bye Bye [preauth]"
+  },
+  {
+    "rank": 6,
+    "id": "msg_062d6df9b674058ac5a0edd2211de8f2cd3907ee8554affe4f81c47ad3789932",
+    "score": 44.462383,
+    "link": "https://github.com/crowdsecurity/crowdsec/issues/1201",
+    "source": "github",
+    "origin_doc_id": "f850843066df07c6c3df2c22663c759faed69f0966e7662c6bffbec6441b8cf0",
+    "snippet": "`Jan 24 15:30:52 server sshd[2649449]: Received disconnect from fd00:c2b6:b24b:be67:2827:688d:e6a1:6a3b port 58920:11: Normal Shutdown [preauth] \n Jan 24 15:30:52 server sshd[2649449]: Disconnected from authenticating user root fd00:c2b6:b24b:be67:2827:688d:e6a1:6a3b port 58920 [preauth] \n Jan 24 15:30:54 server sshd[2649527]: Received disconnect from fd00:c2b6:b24b:be67:2827:688d:e6a1:6a3b port 58922:11: Normal Shutdown [preauth] \n Jan 24 15:30:54 server sshd[2649527]: Disconnected from authenticating user root fd00:c2b6:b24b:be67:2827:688d:e6a1:6a3b port 58922 [preauth] \n Jan 24 15:32:31 server sshd[2651912]: Received disconnect from 172.16.31.10 port 59402:11: Normal Shutdown, Thank you for playing [preauth] \n Jan 24 15:32:31 server sshd[2651912]: Disconnected from authenticating user root 172.16.31.10 port 59402 [preauth] \n Jan 24 15:34:27 server sshd[2654543]: Received disconnect from 172.16.31.10 port 38260:11: Normal Shutdown, Thank you for playing [preauth] \nJan 24 15:34:27 server sshd[2654543]: Disconnected from authenticating user root 172.16.31.10 port 38260 [preauth]\nJan 24 15:36:22 server sshd[2657307]: Received disconnect from 172.16.31.10 port 45326:11: Normal Shutdown, Thank you for playing [preauth]\nJan 24 15:36:22 server sshd[2657307]: Disconnected from authenticating user root 172.16.31.10 port 45326 [preauth]\nJan 24 15:38:16 server sshd[2660116]: Received disconnect from 172.16.31.10 port 52414:11: Normal Shutdown, Thank you for playing [preauth]\nJan 24 15:38:16 server sshd[2660116]: Disconnected from authenticating user root 172.16.31.10 port 52414 [preauth]\nJan 24 15:40:12 server sshd[2662890]: Received disconnect from 172.16.31.10 port 59502:11: Normal Shutdown, Thank you for playing [preauth]\nJan 24 15:40:12 server sshd[2662890]: Disconnected from authenticating user root 172.16.31.10 port 59502 [preauth]\nJan 24 15:42:07 server sshd[2665707]: Received disconnect from 172.16.31.10 port 38346:11: Normal Shutdown, Thank you for playing [preauth]\nJan 24 15:42:07 server sshd[2665707]: Disconnected from authenticating user root 172.16.31.10 port 38346 [preauth]\nJan 24 15:44:05 server sshd[2668476]: Received disconnect from 172.16.31.10 port 45422:11: Normal Shutdown, Thank you for playing [preauth]\nJan 24 15:44:05 server sshd[2668476]: Disconnected from authenticating user root 172.16.31.10 port 45422 [preauth] \n Jan 24 15:45:58 server sshd[2671195]: Received disconnect from 172.16.31.10 port 52520:11: Normal Shutdown, Thank you for playing [preauth] \n Jan 24 15:45:58 server sshd[2671195]: Disconnected from authenticating user root 172.16.31.10 port 52520 [preauth] \n Jan 24 15:47:54 server sshd[2673948]: Received disconnect from 172.16.31.10 port 59604:11: Normal Shutdown, Thank you for playing [preauth] \n Jan 24 15:47:54 server sshd[2673948]: Disconnected from authenticating user root 172.16.31.10 port 59604 [preauth] \n Jan 24 15:49:48 server sshd[2676823]: Received disconnect from 172.16.31.10 port 38448:11: Normal Shutdown, Thank you for playing [preauth] \n Jan 24 15:49:48 server sshd[2676823]: Disconnected from authenticating user root 172.16.31.10 port 38448 [preauth]"
+  },
+  {
+    "rank": 7,
+    "id": "msg_04b9ed3b6f9bdfb5f73137bb17b0a471cbe5b7c26e3a07e2f139d5c578bd2163",
+    "score": 43.759445,
+    "link": "https://github.com/moul/ssh2docker/issues/71",
+    "source": "github",
+    "origin_doc_id": "1dfb5e16b93b9515a01c5ce9dd3d9f08103a75cabceb9d3d0c474c82c761449b",
+    "snippet": "May 24 10:52:45 username_0 sshd[${pid}]: Disconnecting: Too many authentication failures for invalid user ${login} from ${ip} port ${port} ssh2 [preauth] \n May 24 11:05:56 username_0 sshd[${pid}]: Received disconnect from ${ip}: 11: Bye Bye [preauth] \n May 24 11:21:28 username_0 sshd[${pid}]: Connection closed by ${ip} [preauth] \n May 24 12:13:06 username_0 sshd[${pid}]: Accepted publickey for ${login} from ${ip} port ${port} ssh2: RSA ${fingerprint} \n May 24 12:13:06 username_0 sshd[${pid}]: Received disconnect from ${ip}: 11: disconnected by user \n Either with syslog or a file to /var/log."
+  },
+  {
+    "rank": 8,
+    "id": "msg_11787ffdf8488b05a4634aa9cf37fd72585991805eb84ba40d7b4a4303c2192b",
+    "score": 43.710587,
+    "link": "https://stackoverflow.com/questions/17462440",
+    "source": "so",
+    "origin_doc_id": "8821117bb0e9d046b14ec4a456626a5ce85771477b297220cfd8a1b02db1d638",
+    "snippet": "sshd[21514]: Received disconnect from 123.456.7.890: 11: Bye Bye [preauth] \n Jun 30 01:25:16 collabspot sshd[21516]: Invalid user florida from 123.456.7.890 \n Jun 30 01:25:16 collabspot sshd[21516]: input_userauth_request: invalid user florida [preauth] \n Jun 30 01:25:16 collabspot sshd[21516]: Received disconnect from 123.456.7.890: 11: Bye Bye [preauth] \n Jun 30 01:25:18 collabspot sshd[21518]: Invalid user florrie from 123.456.7.890 \n Jun 30 01:25:18 collabspot sshd[21518]: input_userauth_request: invalid user florrie [preauth]"
+  },
+  {
+    "rank": 9,
+    "id": "msg_e08030cc39166f086f822233837e2ca040e36fc43e8168613168244562616c10",
+    "score": 43.308456,
+    "link": "https://github.com/gogs/gogs/issues/6701",
+    "source": "github",
+    "origin_doc_id": "98cc8e50773eb1064ecba0d1ebde17307fc20a42cbad0d2e64654f0121524585",
+    "snippet": "Dec 30 03:30:09 sshd[62]: Invalid user xguest from 172.16.31.10 port 52608 \n Dec 30 03:30:09 sshd[62]: Received disconnect from 172.16.31.10 port 52608:11: Normal Shutdown, Thank you for playing [preauth] \n Dec 30 03:30:09 sshd[62]: Disconnected from invalid user xguest 172.16.31.10 port 52608 [preauth] \n Dec 30 03:30:17 sshd[64]: User root not allowed because account is locked \n Dec 30 03:30:17 sshd[64]: Connection closed by invalid user root 172.16.31.10 port 60606 [preauth] \n Dec 30 03:30:21 sshd[66]: Invalid user xguest from 172.16.31.10 port 52686 \n Dec 30 03:30:21 sshd[66]: Received disconnect from 172.16.31.10 port 52686:11: Normal Shutdown, Thank you for playing [preauth] \nDec 30 03:30:21 sshd[66]: Disconnected from invalid user xguest 172.16.31.10 port 52686 [preauth]\nDec 30 03:30:34 sshd[68]: Invalid user xgx from 172.16.31.10 port 52710\nDec 30 03:30:34 sshd[68]: Received disconnect from 172.16.31.10 port 52710:11: Normal Shutdown, Thank you for playing [preauth]\nDec 30 03:30:34 sshd[68]: Disconnected from invalid user xgx 172.16.31.10 port 52710 [preauth]\nDec 30 03:30:39 sshd[70]: User root not allowed because account is locked\nDec 30 03:30:39 sshd[70]: Connection closed by invalid user root 172.16.31.10 port 36616 [preauth]\nDec 30 03:30:45 sshd[72]: Invalid user xgx from 172.16.31.10 port 52760\nDec 30 03:30:45 sshd[72]: Received disconnect from 172.16.31.10 port 52760:11: Normal Shutdown, Thank you for playing [preauth]\nDec 30 03:30:45 sshd[72]: Disconnected from invalid user xgx 172.16.31.10 port 52760 [preauth]\nDec 30 03:30:58 sshd[74]: Invalid user xgx from 172.16.31.10 port 52800\nDec 30 03:30:58 sshd[74]: Received disconnect from 172.16.31.10 port 52800:11: Normal Shutdown, Thank you for playing [preauth]\nDec 30 03:30:58 sshd[74]: Disconnected from invalid user xgx 172.16.31.10 port 52800 [preauth]\nDec 30 03:31:01 sshd[76]: User root not allowed because account is locked\nDec 30 03:31:01 sshd[76]: Connection closed by invalid user root 172.16.31.10 port 40858 [preauth]\nDec 30 03:31:10 sshd[78]: Invalid user xgx from 172.16.31.10 port 52810\nDec 30 03:31:11 sshd[78]: Received disconnect from 172.16.31.10 port 52810:11: Normal Shutdown, Thank you for playing [preauth]\nDec 30 03:31:11 sshd[78]: Disconnected from invalid user xgx 172.16.31.10 port 52810 [preauth]\nDec 30 03:31:23 sshd[80]: Invalid user xgx from 172.16.31.10 port 52862\nDec 30 03:31:24 sshd[82]: User root not allowed because account is locked"
+  },
+  {
+    "rank": 10,
+    "id": "msg_ab22abaf4bd7d060b03105c6ee883358792912e0124e6abfb950a66dad5c0d13",
+    "score": 42.99476,
+    "link": "https://stackoverflow.com/questions/68442150",
+    "source": "so",
+    "origin_doc_id": "42b8a49b7d559bdb5821f0ca9d56cfff6bf0c9f7cf7c607a0e38ba234a7feb3f",
+    "snippet": "Jul 19 14:18:33 sshd[14275]: Invalid user user from  port 47990 \n Jul 19 14:18:33 sshd[14275]: Received disconnect from  port 47990:11: Normal Shutdown, Thank you for playing [preauth] \n Jul 19 14:18:33 sshd[14275]: Disconnected from invalid user user  port 47990 [preauth] \n Jul 19 14:18:44 sshd[14277]: Invalid user user from  port 48558 \n Jul 19 14:18:44 sshd[14277]: Received disconnect from  port 48558:11: Normal Shutdown, Thank you for playing [preauth] \n Jul 19 14:18:44 sshd[14277]: Disconnected from invalid user user  port 48558 [preauth] \n Jul 19 14:18:55 sshd[14282]: Invalid user user from port 49142 \n Jul 19 14:18:55 sshd[14282]: Received disconnect from  port 49142:11: Normal Shutdown, Thank you for playing [preauth] \nJul 19 14:18:55 sshd[14282]: Disconnected from invalid user user port 49142 [preauth]"
+  }
+]

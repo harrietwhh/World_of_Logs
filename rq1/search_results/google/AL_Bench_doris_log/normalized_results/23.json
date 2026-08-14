@@ -1,0 +1,153 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Cannot lstat /folder/directory. Errno = 2: No such file or ...",
+    "link": "https://www.veritas.com/support/en_US/article.100032760",
+    "displayed_link": "https://www.veritas.com › en_US › article.100032760",
+    "snippet": "A NetBackup catalog backup reported a lstat error with a file path and the catalog backup was partially successful (1).",
+    "snippet_highlighted_words": [
+      "catalog",
+      "error",
+      "catalog"
+    ],
+    "source": "Veritas Technologies",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Could not locate statistics in the system catalogs error ...",
+    "link": "https://dba.stackexchange.com/questions/339398/could-not-locate-statistics-in-the-system-catalogs-error-in-sql-server",
+    "displayed_link": "https://dba.stackexchange.com › questions › could-not-l...",
+    "snippet": "Try running this first on the secondary replica: DBCC FREESYSTEMCACHE('ALL') GO. This should force SQL to refresh statistics (and other system caches) on the ...",
+    "snippet_highlighted_words": [
+      "statistics"
+    ],
+    "source": "Database Administrators Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Receiving \"Logger failed to open catalog file\" errors",
+    "link": "https://access.redhat.com/solutions/3441461",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Receiving \"Logger failed to open catalog file\" errors. Solution Verified - Updated Tuesday at 2:11 AM -. English.",
+    "snippet_highlighted_words": [
+      "Logger failed",
+      "catalog"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Unity Catalog - Error getting sample data in data explorer",
+    "link": "https://community.databricks.com/t5/data-governance/unity-catalog-error-getting-sample-data-in-data-explorer/td-p/9691",
+    "displayed_link": "https://community.databricks.com › td-p",
+    "snippet": "I get an error message saying I Error getting sample data, when I try to view sample data from a table in a schema I created in a Unity Catalog.",
+    "snippet_highlighted_words": [
+      "get",
+      "error",
+      "Error getting",
+      "Catalog"
+    ],
+    "source": "Databricks",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Failed to find data source: iceberg. Issue when we are ...",
+    "link": "https://stackoverflow.com/questions/77640189/java-lang-classnotfoundexception-failed-to-find-data-source-iceberg-issue-whe",
+    "displayed_link": "2 answers · 2 years ago",
+    "snippet": "This error is lettting you know that the Datasource you are trying to use ( iceberg ) is not on the runtime classpath for Spark.",
+    "snippet_highlighted_words": [
+      "error"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Could Not Locate Statistics In The System Catalogs of ...",
+    "link": "https://mohammaddarab.com/could-not-locate-statistics-in-the-system-catalogs-of-secondary-replica/",
+    "displayed_link": "https://mohammaddarab.com › Availability Groups",
+    "snippet": "The above error was being returned to a reporting server accessing a read intent only secondary availability group replica.",
+    "snippet_highlighted_words": [
+      "error"
+    ],
+    "source": "Mohammad Darab",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "how to retrieve SSISDB error/log of current execution",
+    "link": "https://www.reddit.com/r/SQLServer/comments/rfg1ts/how_to_retrieve_ssisdb_errorlog_of_current/",
+    "displayed_link": "4 comments · 4 years ago",
+    "snippet": "In SSMS, in object explorer, browse down to Integration Services Catalogs -> SSISDB. Right click SSISDB -> Standard Reports -> All Executions.",
+    "snippet_highlighted_words": [
+      "Catalogs"
+    ],
+    "source": "Reddit · r/SQLServer",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Why is my data catalog import failing? - Microsoft Q&A",
+    "link": "https://learn.microsoft.com/en-us/answers/questions/396095/why-is-my-data-catalog-import-failing",
+    "displayed_link": "https://learn.microsoft.com › en-us › answers › questions",
+    "snippet": "Hello, I am trying to use the Azure Data Catalog import tool to import postgresql source system metadata into my data catalog.",
+    "snippet_highlighted_words": [
+      "Catalog",
+      "catalog"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Reporting with the SSIS Catalog",
+    "link": "https://www.mssqltips.com/sqlservertip/4812/reporting-with-the-sql-server-integration-services-catalog/",
+    "displayed_link": "https://www.mssqltips.com › sqlservertip › reporting-wi...",
+    "snippet": "It's a centralized repository for your SSIS projects and packages. One of the biggest advantages of the catalog is its built-in logging.",
+    "snippet_highlighted_words": [
+      "catalog",
+      "logging"
+    ],
+    "source": "MSSQLTips.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "SYSTEM$VERIFY_CATALOG_INTEGRATION",
+    "link": "https://docs.snowflake.com/en/sql-reference/functions/system_verify_catalog_integration",
+    "displayed_link": "https://docs.snowflake.com › sql-reference › functions",
+    "snippet": "Use the system function to verify the catalog integration, expecting failure: Copy Expand. SELECT SYSTEM$VERIFY_CATALOG_INTEGRATION('my_rest_cat_int');. Show ...",
+    "snippet_highlighted_words": [
+      "catalog",
+      "failure",
+      ");",
+      "Show"
+    ],
+    "source": "Snowflake",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

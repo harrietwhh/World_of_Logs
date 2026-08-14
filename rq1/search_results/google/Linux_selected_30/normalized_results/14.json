@@ -1,0 +1,140 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Why is Cyrus user running imap and pop3 events?",
+    "link": "https://www.3cx.com/community/threads/why-is-cyrus-user-running-imap-and-pop3-events.97685/",
+    "displayed_link": "https://www.3cx.com › ... › Elastix 2.x › General",
+    "snippet": "... session): session opened for user cyrus by (uid=0) Aug 5 20:38:29 elastix runuser: pam_unix(runuser-l:session): session closed for user cyrus",
+    "snippet_highlighted_words": [
+      "session opened for user cyrus by (uid=0"
+    ],
+    "source": "3CX",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "CRON: pam_unix(cron:session): session opened for user ...",
+    "link": "https://unix.stackexchange.com/questions/281117/cron-pam-unixcronsession-session-opened-for-user-root-by-uid-0-is-it-a-m",
+    "displayed_link": "https://unix.stackexchange.com › questions › cron-pam...",
+    "snippet": "This log message tells you every single time that a cron job runs as root, which could be potentially malicious, it should be considered a must have process.",
+    "snippet_highlighted_words": [],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "What does session opened for user USERNAME by (uid=0 ...",
+    "link": "https://forums.fedoraforum.org/showthread.php?167953-What-does-session-opened-for-user-USERNAME-by-(uid-0)-mean",
+    "displayed_link": "https://forums.fedoraforum.org › showthread › 167953-...",
+    "snippet": "It seems autologout=\"0\" means, disable automatic logout. Despite this it appears that USERNAME is connecting via ssh and is then logged out immediately.",
+    "snippet_highlighted_words": [
+      "disable"
+    ],
+    "source": "Fedora Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "session opened for user root by (uid=0)",
+    "link": "https://superuser.com/questions/236479/pam-unixcronsession-session-opened-for-user-root-by-uid-0",
+    "displayed_link": "https://superuser.com › questions › pam-unixcronsessio...",
+    "snippet": "Any suggestions regarding the cause and how to fix it? Thanks, Udo. Update (based on the input from grawity):. I checked # m h dom mon dow user ...",
+    "snippet_highlighted_words": [
+      "user"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "cyrus-imapd crash on UID STORE FLAGS.SILENT (debian ...",
+    "link": "https://github.com/cyrusimap/cyrus-imapd/issues/3787",
+    "displayed_link": "https://github.com › cyrusimap › cyrus-imapd › issues",
+    "snippet": "When syncinc with imapsync, I found out that Cyrus was crashing on the destination side. See imapsync/imapsync#293 (comment).",
+    "snippet_highlighted_words": [
+      "Cyrus"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Why all users are uid=0 when connecting through SSH?",
+    "link": "https://serverfault.com/questions/995438/why-all-users-are-uid-0-when-connecting-through-ssh",
+    "displayed_link": "https://serverfault.com › questions › why-all-users-are-u...",
+    "snippet": "I was testing some pam rules and I noticed that all users has uid=0 (root) when they log in to the system through SSH. Could be a reason that sshd starts ...",
+    "snippet_highlighted_words": [
+      "users"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "(pam_unix) session opened for user root by (uid=0)",
+    "link": "https://www.linuxquestions.org/questions/debian-26/pam_unix-session-opened-for-user-root-by-uid%3D0-610173/",
+    "displayed_link": "https://www.linuxquestions.org › questions › debian-26",
+    "snippet": "This forum is for the discussion of Debian Linux. It appears there is a cron configured which runs a script every 12 minutes.",
+    "snippet_highlighted_words": [],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Is it possible to migrate a single mailbox from cyrus 3.4.3 to ...",
+    "link": "https://cyrus.topicbox.com/groups/info/T9d294f89a3d1d260-M3924e1cd330589aaa895a0ea/is-it-possible-to-migrate-a-single-mailbox-from-cyrus-3-4-3-to-3-6-0beta2-1-storage",
+    "displayed_link": "https://cyrus.topicbox.com › groups › info › is-it-possib...",
+    "snippet": "... session): session opened for user cyrus(uid=100) by root(uid=0) 2022-03-25T12:05:29.853858-05:00 yorick sudo: pam_unix(sudo:session): session closed for user ...",
+    "snippet_highlighted_words": [
+      "session opened for user cyrus(uid=100) by root(uid=0"
+    ],
+    "source": "Topicbox",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Databases — Cyrus IMAP 3.6.6 documentation",
+    "link": "https://www.cyrusimap.org/3.6/imap/concepts/deployment/databases.html",
+    "displayed_link": "https://www.cyrusimap.org › concepts › deployment › d...",
+    "snippet": "User Access (user_deny.db) . This database contains a list of users that are denied access to Cyrus services. The database is indexed by userid and each ...",
+    "snippet_highlighted_words": [
+      "User",
+      "users",
+      "Cyrus"
+    ],
+    "source": "CyrusIMAP",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "SElinux policy does not provide for cyrus imap server",
+    "link": "https://bugzilla.redhat.com/show_bug.cgi?id=161281",
+    "displayed_link": "https://bugzilla.redhat.com › show_bug",
+    "snippet": "3) Gecko/20040913 Description of problem: cyrus doesn't seem to get all the permissions it needs when selinux is set to \"enforcing\" mode with the default ...",
+    "snippet_highlighted_words": [
+      "cyrus"
+    ],
+    "source": "Red Hat Bugzilla",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

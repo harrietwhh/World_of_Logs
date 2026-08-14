@@ -1,0 +1,156 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Failed password from invalid user accepted? - ssh",
+    "link": "https://askubuntu.com/questions/1195367/failed-password-from-invalid-user-accepted",
+    "displayed_link": "https://askubuntu.com › questions › failed-password-fro...",
+    "snippet": "The server is logging that the user name accepted is invalid. Try to log in with another user name and look at the logs.",
+    "snippet_highlighted_words": [
+      "user",
+      "invalid",
+      "user"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Failed password for invalid user | TrueNAS Community",
+    "link": "https://www.truenas.com/community/threads/failed-password-for-invalid-user.69652/",
+    "displayed_link": "https://www.truenas.com › community › threads › faile...",
+    "snippet": "You clearly have a port forward enabled for SSH. Turn off port forward to TCP port 22 (SSH) and the problem will go away.",
+    "snippet_highlighted_words": [
+      "port",
+      "port",
+      "port"
+    ],
+    "source": "truenas.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "SSH: remote login returns \"invalid user\"",
+    "link": "https://groups.google.com/g/linux.debian.user/c/E9vPZ_gcDTs",
+    "displayed_link": "https://groups.google.com › linux.debian.user",
+    "snippet": "The user brownh (my account on the client host which is initiating the ssh connection) is not valid, although the its IP address is right.",
+    "snippet_highlighted_words": [
+      "user",
+      "not valid"
+    ],
+    "source": "Google Groups",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "\"Failed password\" and \"Invalid user\" - Secure Shell Server",
+    "link": "https://superuser.com/questions/1369630/failed-password-and-invalid-user-secure-shell-server",
+    "displayed_link": "https://superuser.com › questions › failed-password-and...",
+    "snippet": "When I try to access the server with PuTTY the error \"access denied\" is shown. The server log says \"failed password\" and \"invalid user\".",
+    "snippet_highlighted_words": [
+      "error",
+      "failed password",
+      "invalid user"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Remote port forwarded SSH considered as an invalid user ...",
+    "link": "https://stackoverflow.com/questions/53965381/remote-port-forwarded-ssh-considered-as-an-invalid-user-accessing-from-127-0-0-1",
+    "displayed_link": "1 answer · 7 years ago",
+    "snippet": "The \"Invalid user\" message and request for password imply that there's no user named clientUser on the server. ... SSH localhost authentication ...",
+    "snippet_highlighted_words": [
+      "Invalid user",
+      "password",
+      "user"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Why do my sshd logs show many tries on invalid ports?",
+    "link": "https://unix.stackexchange.com/questions/130850/why-do-my-sshd-logs-show-many-tries-on-invalid-ports",
+    "displayed_link": "https://unix.stackexchange.com › questions › why-do-...",
+    "snippet": "The logs tell you: Someone with the IP 218.10.19.134 and from port 4627 was trying several times to login as user root with a password.",
+    "snippet_highlighted_words": [
+      "port",
+      "user",
+      "password"
+    ],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Unable to login with local user via ssh with error ...",
+    "link": "https://access.redhat.com/solutions/4952131",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Unable to login with local user via ssh with error \"input_userauth_request: invalid user\". Solution Verified - Updated January 26 2026 at 5:28 ...",
+    "snippet_highlighted_words": [
+      "user",
+      "error",
+      "invalid user"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "SSH works for one user. Not others : r/linuxadmin",
+    "link": "https://www.reddit.com/r/linuxadmin/comments/y8adfb/ssh_works_for_one_user_not_others/",
+    "displayed_link": "30+ comments · 3 years ago",
+    "snippet": "I'm troubleshooting SSH connectivity to a Fedora server. I have one user (call it User1) that can SSH successfully (simple username/pwd combo for now). No ...",
+    "snippet_highlighted_words": [
+      "user",
+      "username"
+    ],
+    "source": "Reddit · r/linuxadmin",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "sshd attacks - failed passwords",
+    "link": "https://www.linuxquestions.org/questions/linux-security-4/sshd-attacks-failed-passwords-493240/",
+    "displayed_link": "https://www.linuxquestions.org › linux-security-4 › sshd-...",
+    "snippet": "If you have any problems with the registration process or your account login, please contact us. If you need to reset your password, click here.",
+    "snippet_highlighted_words": [
+      "password"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "[SOLVED] - Failed password for invalid user\" with ssh",
+    "link": "https://forum.proxmox.com/threads/failed-password-for-invalid-user-with-ssh.59619/",
+    "displayed_link": "https://forum.proxmox.com › threads › failed-password...",
+    "snippet": "I then look into the auth.log file and there it was written \"Failed password for invalid user\" any idea what the issue can be?",
+    "snippet_highlighted_words": [
+      "Failed password for invalid user"
+    ],
+    "source": "Proxmox Support Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

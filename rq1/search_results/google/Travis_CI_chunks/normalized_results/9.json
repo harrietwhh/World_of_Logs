@@ -1,0 +1,89 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Bug #60120 :: proc_open hangs with stdin/out with 2048+ ...",
+    "link": "https://bugs.php.net/60120",
+    "displayed_link": "https://bugs.php.net › 60120",
+    "snippet": "This bug has been fixed in SVN. Snapshots of the sources are packaged every three hours; this change will be in the next snapshot. You can grab ...",
+    "snippet_highlighted_words": [
+      "bug"
+    ],
+    "source": "PHP :: Bugs",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "php - proc_open hangs when trying to read from a stream",
+    "link": "https://stackoverflow.com/questions/31194152/proc-open-hangs-when-trying-to-read-from-a-stream",
+    "displayed_link": "1 answer · 10 years ago",
+    "snippet": "I've encountered the issue with proc_open on Windows, when trying to convert a wmv file (to flv), using ffmpeg , however I suspect I'll ...",
+    "snippet_highlighted_words": [
+      "proc_open",
+      "file"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "php proc_open doesn't work properly with the apache user.",
+    "link": "https://github.com/geerlingguy/drupal-vm/issues/1372",
+    "displayed_link": "https://github.com › geerlingguy › drupal-vm › issues",
+    "snippet": "But it's highly likely that it's something where CentOS 7's more secure / SELinux-protected paths are preventing the access, and it might be ...",
+    "snippet_highlighted_words": [],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "How to get around the proc_open() function ? Laravel 11",
+    "link": "https://laracasts.com/discuss/channels/laravel/how-to-get-around-the-proc-open-function-laravel-11",
+    "displayed_link": "https://laracasts.com › discuss › channels › how-to-get-a...",
+    "snippet": "Hi, I have a problem with installing an application on a server. The application is based on Laravel 11 and PHP 8.2 I am getting an error: ...",
+    "snippet_highlighted_words": [
+      "problem",
+      "PHP",
+      "getting",
+      "error"
+    ],
+    "source": "Laracasts",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "proc_open() fails for non-existent commands with error",
+    "link": "https://github.com/php/php-src/issues/12589",
+    "displayed_link": "https://github.com › php › php-src › issues",
+    "snippet": "The different behavior only occurs when passing the command as an array, passing it as a string still behaves as it always did.",
+    "snippet_highlighted_words": [],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "proc_open(): CreateProcess failed, error code - 2 · Issue #56",
+    "link": "https://github.com/mikehaertl/phpwkhtmltopdf/issues/56",
+    "displayed_link": "https://github.com › mikehaertl › phpwkhtmltopdf › issues",
+    "snippet": "proc_open() gives you full access to return value, STDIN and STDOUT. You can't do that with exec(). The problem seems only to happen with long output (longer ...",
+    "snippet_highlighted_words": [
+      "proc_open",
+      "STDIN",
+      "STDOUT",
+      "problem"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

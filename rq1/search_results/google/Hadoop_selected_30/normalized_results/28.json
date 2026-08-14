@@ -1,0 +1,124 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Hadoop/Hadoop_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Hadoop/Hadoop_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Hadoop",
+    "snippet": "... MRAppMaster: MRAppMaster launching normal, non-uberized, multi-container job job_1445144423722_0020. 2015-10-18 18:01:51,713 INFO [main] org.apache.hadoop ...",
+    "snippet_highlighted_words": [
+      "MRAppMaster launching normal, non-uberized, multi-container job"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Solved: Hadoop not running tasks",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Hadoop-not-running-tasks/td-p/305332",
+    "displayed_link": "https://community.cloudera.com › td-p",
+    "snippet": "I have a cluster of 1 Master and 1 Slave that are connected and \"probably\" communicating, I have followed several guides to install and setup the cluster.",
+    "snippet_highlighted_words": [
+      "several"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "YALP/gpt-3.5-turbo-0125.json at main",
+    "link": "https://github.com/ZJU-ACES-ISE/YALP/blob/main/gpt-3.5-turbo-0125.json",
+    "displayed_link": "https://github.com › ZJU-ACES-ISE › YALP › blob › gp...",
+    "snippet": "... \\\\nLog message: `MRAppMaster launching normal, non-uberized, multi-container job job_1445144423722_0020.`\\\"}]\": \"``MRAppMaster launching <<mode>>, <<uberized> ...",
+    "snippet_highlighted_words": [
+      "MRAppMaster launching normal",
+      "non-uberized",
+      "multi-container job job_1445144423722_0020"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "123 kB",
+    "link": "https://huggingface.co/datasets/Aliph0th/logtheus-ml-ds/resolve/main/val.jsonl?download=true",
+    "displayed_link": "https://huggingface.co › datasets › resolve › main › val",
+    "snippet": "... job.impl.JobImpl: Not uberizing job_1445144423722_0020 because: not enabled ... MRAppMaster: MRAppMaster launching normal, non-uberized, multi-container job ...",
+    "snippet_highlighted_words": [
+      "job",
+      "Not uberizing job_1445144423722_0020",
+      "MRAppMaster",
+      "MRAppMaster launching normal",
+      "non",
+      "uberized",
+      "multi",
+      "container job"
+    ],
+    "source": "Hugging Face",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "MapReduce job in headless environment fails N times due ...",
+    "link": "https://stackoverflow.com/questions/20390217/mapreduce-job-in-headless-environment-fails-n-times-due-to-am-container-exceptio",
+    "displayed_link": "2 answers · 12 years ago",
+    "snippet": "The problem is caused because YARN is using different path for JAVA executable different then you have in your OS.",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "loghub/Hadoop/Hadoop_2k.log_structured.csv at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Hadoop/Hadoop_2k.log_structured.csv",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Hadoop",
+    "snippet": "... MRAppMaster,Created MRAppMaster for application appattempt_1445144423722_0020_000001,E29,Created MRAppMaster for application appattempt_<*> 2,2015-10-18,\"18 ...",
+    "snippet_highlighted_words": [
+      "MRAppMaster",
+      "MRAppMaster",
+      "MRAppMaster"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Error “starting MRAppMaster” running hadoop job on emr",
+    "link": "https://stackoverflow.com/questions/33940402/error-starting-mrappmaster-running-hadoop-job-on-emr",
+    "displayed_link": "10 years ago",
+    "snippet": "When I'm trying to run a hadoop job on emr cluster, I'm getting the below mentioned error which says failed to launch because of \"AM ...",
+    "snippet_highlighted_words": [
+      "job",
+      "launch"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "YALP/gpt-4-turbo-2024-04-09.json at main",
+    "link": "https://github.com/ZJU-ACES-ISE/YALP/blob/main/gpt-4-turbo-2024-04-09.json",
+    "displayed_link": "https://github.com › ZJU-ACES-ISE › YALP › blob › gp...",
+    "snippet": "... MRAppMaster launching normal, non-uberized, multi-container job job_1445144423722_0020. ... non-uberized, multi-container job <<job_id>>.`\", \"[{'role ...",
+    "snippet_highlighted_words": [
+      "MRAppMaster launching normal, non-uberized, multi-container job"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

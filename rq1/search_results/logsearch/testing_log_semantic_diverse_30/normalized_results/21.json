@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_dbb8cf8505be332d751e0fe880980c698f24fbc98db27ec99d87ba9122ebc625",
+    "score": 87.5967,
+    "link": "https://issues.apache.org/jira/browse/HDFS-3682",
+    "source": "jira",
+    "origin_doc_id": "a7153d88159d2399e3ad2d70ceac737caf42118c6f563642efe7eb2c63cbafa5",
+    "snippet": "2015-01-16 01:09:21,147 INFO  hdfs.DFSUtil (DFSUtil.java:httpServerTemplateForNNAndJN(1611)) - Starting web server as: ${dfs.web.authentication.kerberos.principal}"
+  },
+  {
+    "rank": 2,
+    "id": "msg_27562781a1830fb49439c0a5d9577fb7334a2ba745cdb67732c8117caaac7ad5",
+    "score": 70.119934,
+    "link": "https://issues.apache.org/jira/browse/HDFS-9096",
+    "source": "jira",
+    "origin_doc_id": "9e0761fe554251cdea29d5e9dce6da01b032d33a784f796b69578e339a0c1f97",
+    "snippet": "16/10/18 18:58:26 INFO hdfs.DFSUtil: Starting web server as: ${dfs.web.authentication.kerberos.principal}"
+  },
+  {
+    "rank": 3,
+    "id": "msg_1c4567fa35c751e08a010578b2e629efed69fa2198c9f7fe17e787b137dd806d",
+    "score": 66.65774,
+    "link": "https://issues.apache.org/jira/browse/HDFS-10644",
+    "source": "jira",
+    "origin_doc_id": "54a7ee0c0dc77efe3a698b2a3c853987956b26c14363e679d1ab53bd0ce156aa",
+    "snippet": "2016-09-13 19:42:00,971 [main] INFO  hdfs.DFSUtil (DFSUtil.java:httpServerTemplateForNNAndJN(1516)) - Starting Web-server for journal at: http://localhost:0"
+  },
+  {
+    "rank": 4,
+    "id": "msg_074f974d848b2c35b416f51e9bfc68fe2de3edc97ef11649b76be46c0e455f52",
+    "score": 66.65774,
+    "link": "https://issues.apache.org/jira/browse/HDFS-10644",
+    "source": "jira",
+    "origin_doc_id": "54a7ee0c0dc77efe3a698b2a3c853987956b26c14363e679d1ab53bd0ce156aa",
+    "snippet": "2016-09-13 19:42:01,040 [main] INFO  hdfs.DFSUtil (DFSUtil.java:httpServerTemplateForNNAndJN(1516)) - Starting Web-server for journal at: http://localhost:0"
+  },
+  {
+    "rank": 5,
+    "id": "msg_3a62e7b690638ba879461675b6848b0325b147dfffab79826718b18cc499daa7",
+    "score": 66.65774,
+    "link": "https://issues.apache.org/jira/browse/HDFS-10644",
+    "source": "jira",
+    "origin_doc_id": "54a7ee0c0dc77efe3a698b2a3c853987956b26c14363e679d1ab53bd0ce156aa",
+    "snippet": "2016-09-13 19:42:01,098 [main] INFO  hdfs.DFSUtil (DFSUtil.java:httpServerTemplateForNNAndJN(1516)) - Starting Web-server for journal at: http://localhost:0"
+  },
+  {
+    "rank": 6,
+    "id": "msg_14e83626a498c07a6e9b521090d3e7fdc0209430972da13ab1610ae3aceb7e86",
+    "score": 66.65774,
+    "link": "https://issues.apache.org/jira/browse/HDFS-10644",
+    "source": "jira",
+    "origin_doc_id": "54a7ee0c0dc77efe3a698b2a3c853987956b26c14363e679d1ab53bd0ce156aa",
+    "snippet": "2016-09-13 19:42:01,366 [main] INFO  hdfs.DFSUtil (DFSUtil.java:httpServerTemplateForNNAndJN(1516)) - Starting Web-server for hdfs at: http://localhost:12297"
+  },
+  {
+    "rank": 7,
+    "id": "msg_4e71cab547ff4b3d5dc21634c3f49d3512246cf303273204b37023904a5280c5",
+    "score": 66.65774,
+    "link": "https://issues.apache.org/jira/browse/HDFS-10644",
+    "source": "jira",
+    "origin_doc_id": "54a7ee0c0dc77efe3a698b2a3c853987956b26c14363e679d1ab53bd0ce156aa",
+    "snippet": "2016-09-13 19:42:01,621 [main] INFO  hdfs.DFSUtil (DFSUtil.java:httpServerTemplateForNNAndJN(1516)) - Starting Web-server for hdfs at: http://localhost:12299"
+  },
+  {
+    "rank": 8,
+    "id": "msg_e52b7d956cd149d154d7b49cf36d23334826e4a6e93bb32afcac380436d532d5",
+    "score": 66.65774,
+    "link": "https://issues.apache.org/jira/browse/HDFS-10644",
+    "source": "jira",
+    "origin_doc_id": "54a7ee0c0dc77efe3a698b2a3c853987956b26c14363e679d1ab53bd0ce156aa",
+    "snippet": "2016-09-13 19:42:02,791 [main] INFO  hdfs.DFSUtil (DFSUtil.java:httpServerTemplateForNNAndJN(1516)) - Starting Web-server for hdfs at: http://localhost:12299"
+  },
+  {
+    "rank": 9,
+    "id": "msg_4bfeb5bd9fdf413bb1b0478f6a07fdd52b4a1fd065edff3c21840b42c4e6f034",
+    "score": 62.67088,
+    "link": "https://issues.apache.org/jira/browse/HDFS-10641",
+    "source": "jira",
+    "origin_doc_id": "03f1d32741684b7fceecc7b62defd63ed20392ab55bf3322b463ad6b41e476c4",
+    "snippet": "2016-07-13 23:58:32,668 [main] INFO  hdfs.DFSUtil (DFSUtil.java:httpServerTemplateForNNAndJN(1491)) - Starting Web-server for hdfs at: http://localhost:0"
+  },
+  {
+    "rank": 10,
+    "id": "msg_d3e563846b6677a77a45eabf3bb6682e327c71d458799a742019c2f92ae71911",
+    "score": 59.11208,
+    "link": "https://issues.apache.org/jira/browse/HDFS-3682",
+    "source": "jira",
+    "origin_doc_id": "a7153d88159d2399e3ad2d70ceac737caf42118c6f563642efe7eb2c63cbafa5",
+    "snippet": "2015-01-16 01:09:21,148 INFO  hdfs.DFSUtil (DFSUtil.java:httpServerTemplateForNNAndJN(1622)) - Starting Web-server for hdfs at: http://localhost:0"
+  }
+]

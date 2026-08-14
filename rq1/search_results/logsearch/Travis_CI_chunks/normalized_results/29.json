@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_5462705cbf1cf59da572a42601569ae20a9eae55d061f9fd4174f1c8e104d7e6",
+    "score": 140.20036,
+    "link": "https://github.com/microsoft/TypeScript/pull/35471",
+    "source": "github",
+    "origin_doc_id": "11a13af5dce76833b2ecb6b73ba37529951678101ee2c48c97d13b26e23e6d38",
+    "snippet": "[14:01:05] Error: Process exited with code: 1\n    at ChildProcess.<anonymous> (/home/username_0/dev/typescript/typescript-compiler/scripts/build/utils.js:54:28)\n    at ChildProcess.emit (events.js:223:5)\n    at ChildProcess.EventEmitter.emit (domain.js:498:23)\n    at Process.ChildProcess._handle.onexit (internal/child_process.js:272:12)\n```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_4fe65a4482d31e899d84d236971b29bbe50bb3faa531b7d8b251366489cc9561",
+    "score": 138.31335,
+    "link": "https://github.com/Microsoft/TypeScript/issues/30346",
+    "source": "github",
+    "origin_doc_id": "19ed77a83685c31eb8d282a5f7b2bac6a3fd09cc305abb260c3663f7591d8eae",
+    "snippet": "[14:38:28] Error: Process exited with code: 1\n    at ChildProcess.proc.on.exitCode (/home/daniel/shared/TypeScript3/scripts/build/utils.js:52:24)\n    at ChildProcess.emit (events.js:182:13)\n    at ChildProcess.EventEmitter.emit (domain.js:460:23)\n    at Process.ChildProcess._handle.onexit (internal/child_process.js:237:12)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_55c9c639153d0f374fd83f64d48a1944f97f4171b5e2bb59d88d5baf7f78f5de",
+    "score": 138.31335,
+    "link": "https://github.com/Microsoft/TypeScript/issues/30027",
+    "source": "github",
+    "origin_doc_id": "0e094519663ebec098d5b4004d58fa5fe83c5c38372ac9003d73b27218cc61df",
+    "snippet": "[10:54:08] Error: Process exited with code: 1\n    at ChildProcess.proc.on.exitCode (/home/daniel/shared/TypeScript3/scripts/build/utils.js:52:24)\n    at ChildProcess.emit (events.js:182:13)\n    at ChildProcess.EventEmitter.emit (domain.js:460:23)\n    at Process.ChildProcess._handle.onexit (internal/child_process.js:237:12)"
+  },
+  {
+    "rank": 4,
+    "id": "msg_55a6339e933ad6b636c9aab75e8f941ede26b260a2dbb4a09e723b8b63adc3dd",
+    "score": 135.03426,
+    "link": "https://github.com/microsoft/TypeScript/issues/35134",
+    "source": "github",
+    "origin_doc_id": "84d2f00204fd81ce8806d2749045e56a94cfb53b9e89bc99f5ef25234edcd349",
+    "snippet": "[12:57:26] Error: Process exited with code: 1\n    at ChildProcess.<anonymous> (C:\\Users\\sasch\\Documents\\GitHub\\typescript-f\\scripts\\build\\utils.js:54:28)\n    at ChildProcess.emit (events.js:210:5)\n    at ChildProcess.EventEmitter.emit (domain.js:499:23)\n    at Process.ChildProcess._handle.onexit (internal/child_process.js:272:12)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_93a853f017032a96d5ab84fa0742077a29bb2ec6c2398db4e8c62c94af433da2",
+    "score": 131.36589,
+    "link": "https://github.com/microsoft/TypeScript/issues/34583",
+    "source": "github",
+    "origin_doc_id": "555746d59f3290bf878b71fc196c9fb63daf768539a905d0bdf694b49a528726",
+    "snippet": "[06:05:47] Error: Process exited with code: 2 \n     at ChildProcess.proc.on.exitCode (/home/vsts/work/1/s/scripts/build/utils.js:54:28) \n     at ChildProcess.emit (events.js:198:13) \n     at ChildProcess.EventEmitter.emit (domain.js:466:23) \n     at Process.ChildProcess._handle.onexit (internal/child_process.js:248:12)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_d02d0544ff6a938bb90ede6db97aaaa23c4c99a9bdd2f9bf4d660a6c487f9b15",
+    "score": 131.36589,
+    "link": "https://github.com/microsoft/TypeScript/issues/34582",
+    "source": "github",
+    "origin_doc_id": "871b4259f5f8140d19931779036ba3a3110a32a86079528a7af06d7e1a829262",
+    "snippet": "[06:05:47] Error: Process exited with code: 2 \n     at ChildProcess.proc.on.exitCode (/home/vsts/work/1/s/scripts/build/utils.js:54:28) \n     at ChildProcess.emit (events.js:198:13) \n     at ChildProcess.EventEmitter.emit (domain.js:466:23) \n     at Process.ChildProcess._handle.onexit (internal/child_process.js:248:12)"
+  },
+  {
+    "rank": 7,
+    "id": "msg_4916e0f3db7653550c199ad54dff3e2f8728e8d7bad831540a7c3d43682856bf",
+    "score": 125.28545,
+    "link": "https://github.com/microsoft/TypeScript/pull/38522",
+    "source": "github",
+    "origin_doc_id": "9d2fba7ff9ae4eba51b549797f328e066fef9b3040433c08b2daf55288bd285d",
+    "snippet": "[08:28:40] Error: Process exited with code: 1\n    at ChildProcess.<anonymous> (/Users/jhs/vc/TypeScript/scripts/build/utils.js:54:28)\n    at ChildProcess.emit (events.js:311:20)\n    at ChildProcess.EventEmitter.emit (domain.js:505:15)\n    at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12)"
+  },
+  {
+    "rank": 8,
+    "id": "msg_0f8639bd701caafc1758e11bac8adac6f8fcbc7595e91728a7859988962f7d8a",
+    "score": 121.55954,
+    "link": "https://github.com/microsoft/TypeScript/pull/43102",
+    "source": "github",
+    "origin_doc_id": "ef97ae2a8acc42a184f60194455356c95a2b000eb2b2ab50d7d4368b82099a4a",
+    "snippet": "[11:27:40] Error: Process exited with code: 5 \n     at ChildProcess.<anonymous> (/Users/username_0/repositories/TypeScript/scripts/build/utils.js:54:28) \n     at ChildProcess.emit (events.js:315:20) \n     at ChildProcess.EventEmitter.emit (domain.js:506:15) \n     at Process.ChildProcess._handle.onexit (internal/child_process.js:275:12) \n     at Process.callbackTrampoline (internal/async_hooks.js:120:14)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_ed8dae129bd68a1e6ef016b169c71e5b67c4f20bf97d2797e4d44c3f092caa55",
+    "score": 117.130356,
+    "link": "https://github.com/kubernetes/dashboard/issues/4073",
+    "source": "github",
+    "origin_doc_id": "87d7499077147d17febad57d3401bbd5d44905b334ab680f568aa02811d84417",
+    "snippet": "[05:25:53] Error: Go command error, code: 2\n    at ChildProcess.<anonymous> (/Users/miyamoto/GolandProjects/dashboard/aio/gulp/gocommand.js:148:23)\n    at ChildProcess.emit (events.js:203:13)\n    at ChildProcess.EventEmitter.emit (domain.js:494:23)\n    at Process.ChildProcess._handle.onexit (internal/child_process.js:272:12)"
+  },
+  {
+    "rank": 10,
+    "id": "msg_754efa11b235b1d7d1de245e52b6aeeb8ff8965834a34bb69071a519901aee23",
+    "score": 117.130356,
+    "link": "https://github.com/kubernetes/dashboard/issues/4073",
+    "source": "github",
+    "origin_doc_id": "87d7499077147d17febad57d3401bbd5d44905b334ab680f568aa02811d84417",
+    "snippet": "[06:17:19] Error: Go command error, code: 2\n    at ChildProcess.<anonymous> (/Users/miyamoto/GolandProjects/dashboard/aio/gulp/gocommand.js:148:23)\n    at ChildProcess.emit (events.js:203:13)\n    at ChildProcess.EventEmitter.emit (domain.js:494:23)\n    at Process.ChildProcess._handle.onexit (internal/child_process.js:272:12)"
+  }
+]

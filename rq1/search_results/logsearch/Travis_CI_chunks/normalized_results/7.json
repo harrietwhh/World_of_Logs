@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_98abf2cd13d4073b59dc1619541da96f678c532f82a9fe9e7d24ef037187102b",
+    "score": 65.93555,
+    "link": "https://github.com/home-assistant/builder/issues/79",
+    "source": "github",
+    "origin_doc_id": "e9a4bd80506a5ba06210f8446c3c5dcde6ac3e8a1b5b5ebb2f4909beec56a00c",
+    "snippet": "[17:19:57] INFO: Run build for /:0.0.1\ninvalid argument \"/:0.0.1\" for \"-t, --tag\" flag: invalid reference format\nSee 'docker build --help'.\ninvalid argument \"/:0.0.1\" for \"-t, --tag\" flag: invalid reference format\nSee 'docker build --help'.\ninvalid argument \"/:0.0.1\" for \"-t, --tag\" flag: invalid reference format\nSee 'docker build --help'.\n```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_f271212ca00b69555fc93a7af724d8bd0d211773d6f8c5b9b7ac3243ee1318c9",
+    "score": 65.45598,
+    "link": "https://stackoverflow.com/questions/65512018",
+    "source": "so",
+    "origin_doc_id": "cce3dffd49478a8880e96dd1d597f266fa023a8b6d579e2eb671ff2f3208b372",
+    "snippet": "$ docker build -t $TAG_COMMIT -t $TAG_LATEST . \n invalid argument \"/patch-9:64a25b49\" for \"-t, --tag\" flag: invalid reference format\n-t $TAG_COMMIT -t $TAG_LATEST . \n invalid argument \"/patch-10:fbf4855b\" for \"-t, --tag\" flag: invalid reference format \n See 'docker build"
+  },
+  {
+    "rank": 3,
+    "id": "msg_782f07c4fc8d7571e040a8306b1724ff142f5903e30aad7681167a3ccc733a58",
+    "score": 61.881824,
+    "link": "https://github.com/freifunk-gluon/gluon/issues/2362",
+    "source": "github",
+    "origin_doc_id": "46aa5660837c54affc4bb80f69ea2c2622044c10fb7ba957269344f741d8e62c",
+    "snippet": "build -t gluon: contrib/docker \n invalid argument \"gluon:\" for \"-t, --tag\" flag: invalid reference format \n See 'docker"
+  },
+  {
+    "rank": 4,
+    "id": "msg_cb5cdc86c3885402c4704a32eb4131f770bd785ac486d5d96f1ec40e599cf86d",
+    "score": 61.485233,
+    "link": "https://github.com/linuxkit/linuxkit/pull/2119",
+    "source": "github",
+    "origin_doc_id": "ff02055cd9cff69a3c021d253281a5086656847ffe015f3bb31f4acf023201b6",
+    "snippet": "-t linuxkit/:d8a65b428a64cbdbe7560910b16f3ccb6fd35b06 . \n invalid reference format \n invalid argument \"linuxkit/:d8a65b428a64cbdbe7560910b16f3ccb6fd35b06\" for t: invalid reference format \n See 'docker build --help'. \n make: *** [tag] Error 125 \n ```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_db9543bbdc914fef53aa54f15d3ec153471d95b8f229f8109c9da4363f84f59b",
+    "score": 60.888115,
+    "link": "https://github.com/HyperledgerHandsOn/trade-network/issues/19",
+    "source": "github",
+    "origin_doc_id": "073b244f7a3321a988480c956e5b68a816721bf099cfbd99dd31acc5b634ba95",
+    "snippet": "Hi username_1, \n There is error: \n docker build -t . \n invalid argument \".\" for \"-t, --tag\" flag: invalid reference format \n See 'docker build --help'."
+  },
+  {
+    "rank": 6,
+    "id": "msg_3623b6bb3924581346f5b9f3e3c7e78d15b89f4a0e6e248b279dc8e3074b4e74",
+    "score": 60.76914,
+    "link": "https://github.com/confluentinc/examples/issues/1010",
+    "source": "github",
+    "origin_doc_id": "9710afc7609600f98940497ed355c29482ecb456862d07784d1dd8cbaccd7577",
+    "snippet": "'tc' installed \n invalid argument \"localbuild/cp-zookeeper-tc:\" for \"-t, --tag\" flag: invalid reference format \n See 'docker build --help'. \n invalid argument \"localbuild/cp-server-tc:\" for \"-t, --tag\" flag: invalid reference format"
+  },
+  {
+    "rank": 7,
+    "id": "msg_b05475ee9262fbf2ec483b9f15829c366bca0395e19ab3193d6fd980bf8906af",
+    "score": 60.627533,
+    "link": "https://github.com/CircleCI-Public/aws-ecr-orb/issues/83",
+    "source": "github",
+    "origin_doc_id": "10c1eecd65ed56b753fe9ee95e78a42d57f52f340445ca0ecbec1a51f6e6a77e",
+    "snippet": "`invalid argument \"/*****************:latest\" for t: invalid reference format \n See 'docker build --help'.`"
+  },
+  {
+    "rank": 8,
+    "id": "msg_82af96c489785b736f6920875f83baa624eaccc4dd0b28298cf96b8afca58086",
+    "score": 59.988735,
+    "link": "https://github.com/facebookresearch/maskrcnn-benchmark/pull/181",
+    "source": "github",
+    "origin_doc_id": "316a67f7cc2be2515bd0b2bcbd9af413d7b95fa7144cd0f3301792a0a2fba636",
+    "snippet": "invalid argument \"--build-arg\" for \"-t, --tag\" flag: invalid reference format \n See 'docker"
+  },
+  {
+    "rank": 9,
+    "id": "msg_e1fd116870302646106309b5a59504a24542d12db372afa005ddc0ccca787148",
+    "score": 59.461067,
+    "link": "https://github.com/dcu/mongodb_exporter/issues/134",
+    "source": "github",
+    "origin_doc_id": "fb13ab39be654c0c8fd7a842436e761a9ed143e82aca69ed89ff1d9c553e4b0b",
+    "snippet": ". \n invalid argument \".\" for \"-t, --tag\" flag: invalid reference format \n See 'docker build --help'. \n root@neu3:~/mongodb_exporter# docker build -t mongodb_exporter . \n Sending build context to Docker daemon  836.1kB"
+  },
+  {
+    "rank": 10,
+    "id": "msg_2635ad4667f89fad9405a782345b7c9e0d46b5e1dff81cf4ed18182c229b8102",
+    "score": 59.375088,
+    "link": "https://github.com/influxdata/telegraf/pull/8005",
+    "source": "github",
+    "origin_doc_id": "dd125e348ea81a9ea33c3dc42175bee849bfba287ed8130039aa70439df4bd2d",
+    "snippet": "docker build -f scripts/stretch.docker -t \"telegraf:\" . \n invalid argument \"telegraf:\" for \"-t, --tag\" flag: invalid reference format \n See 'docker build --help'. \n make: *** [docker-image] Error 125 \n ```"
+  }
+]

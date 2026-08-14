@@ -1,0 +1,18 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "antlr redeclared as imported package name [closed]",
+    "link": "https://stackoverflow.com/questions/65936673/antlr-redeclared-as-imported-package-name",
+    "displayed_link": "1 answer · 5 years ago",
+    "snippet": "The error message is explaining pretty well what happened, including the lines: On line 8 you try to import something with the same name that ...",
+    "snippet_highlighted_words": [
+      "error",
+      "import",
+      "name"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

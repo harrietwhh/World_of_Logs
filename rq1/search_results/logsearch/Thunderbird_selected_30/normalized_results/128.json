@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_064bab090afa9e4d5c42a050be8c43d5cf389026580490c27e39818b6417ccb4",
+    "score": 44.628136,
+    "link": "https://github.com/raspberrypi/firmware/issues/1124",
+    "source": "github",
+    "origin_doc_id": "73d7b25e9b37634b744f141b18fd471aeb5dea80d33b7a9d4a1ec750836d99f4",
+    "snippet": "request \n Waiting for dhcp_reply \n Sending DHCP request \n Waiting for dhcp_reply \n Sending DHCP request \n Waiting for dhcp_reply \n Sending DHCP request \n Waiting for dhcp_reply\n\n Mar 25 04:28:54 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1 \n Mar 25 04:28:59 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1 \n Mar 25 04:28:59 xinetd[2024]: START: tftp from=192.168.1.253 \n Mar 25 04:28:59 in.tftpd[31426]: RRQ from 192.168.1.253 filename bootcode.bin \n Mar 25 04:28:59 in.tftpd[31427]: RRQ from 192.168.1.253 filename bootsig.bin \n Mar 25 04:29:04 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1 \n Mar 25 04:29:04 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1 \n\nMar 25 04:29:09 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:09 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:14 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:14 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:19 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:19 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:24 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:24 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:29 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:29 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:34 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:34 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:39 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:39 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:44 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:44 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:49 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:49 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:54 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:54 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1"
+  },
+  {
+    "rank": 2,
+    "id": "msg_d74b43b2d94333d53b9c9b286d8c3d8de842d01e86578d915e42170bc18cf715",
+    "score": 43.44001,
+    "link": "https://github.com/containernetworking/cni/issues/232",
+    "source": "github",
+    "origin_doc_id": "08441b742d3a0f40dd1f4b41d5f37cccf63f7731c000dec0b084ce5250aa2ffa",
+    "snippet": "2016/05/30 05:51:56 resource temporarily unavailable \n ```\nMay 30 05:51:37 vagrant-ubuntu-trusty-64 dhcpd: DHCPDISCOVER from 6a:94:b5:11:3e:fb via eth1 \n May 30 05:51:38 vagrant-ubuntu-trusty-64 dhcpd: DHCPOFFER on 192.168.33.119 to 6a:94:b5:11:3e:fb via eth1 \n May 30 05:51:51 vagrant-ubuntu-trusty-64 dhcpd: DHCPDISCOVER from 6a:94:b5:11:3e:fb via eth1 \n May 30 05:51:51 vagrant-ubuntu-trusty-64 dhcpd: DHCPOFFER on 192.168.33.119 to 6a:94:b5:11:3e:fb via eth1"
+  },
+  {
+    "rank": 3,
+    "id": "msg_d43f16bc9e36ad81c631f3e945f536bccc8351961cc688c5661a3df6f57e9502",
+    "score": 34.987644,
+    "link": "https://github.com/containernetworking/plugins/issues/440",
+    "source": "github",
+    "origin_doc_id": "6f11a38b172ef2f4c64e16a4329071749c62e0719ac2096a60afa8cbaa0b9fa0",
+    "snippet": "Jan 14 20:06:27 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1 \n Jan 14 20:06:28 | dhcpd |   | DHCPOFFER on 192.168.1.58 to 00:0c:29:73:9c:d8 via em1 \n Jan 14 20:06:40 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1 \nJan 14 20:06:40 | dhcpd |   | DHCPOFFER on 192.168.1.58 to 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:12 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:13 | dhcpd |   | DHCPOFFER on 192.168.1.59 to 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:25 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:25 | dhcpd |   | DHCPOFFER on 192.168.1.59 to 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:56 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:57 | dhcpd |   | DHCPOFFER on 192.168.1.62 to 00:0c:29:73:9c:d8 via em1\nJan 14 20:08:09 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1\nJan 14 20:08:09 | dhcpd |   | DHCPOFFER on 192.168.1.62 to 00:0c:29:73:9c:d8 via em1\n```"
+  },
+  {
+    "rank": 4,
+    "id": "msg_ce9f97c8df539e83d1be3098565981ef72447f23ce858c48047a6d8ebcae5a03",
+    "score": 34.987644,
+    "link": "https://github.com/containernetworking/cni/issues/398",
+    "source": "github",
+    "origin_doc_id": "81c8c11c45177331c9d916f51df32ce9f9070aacdbe687cd1608be0f49c43068",
+    "snippet": "Jan 14 20:06:27 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1 \n Jan 14 20:06:28 | dhcpd |   | DHCPOFFER on 192.168.1.58 to 00:0c:29:73:9c:d8 via em1 \nJan 14 20:06:40 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1\nJan 14 20:06:40 | dhcpd |   | DHCPOFFER on 192.168.1.58 to 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:12 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:13 | dhcpd |   | DHCPOFFER on 192.168.1.59 to 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:25 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:25 | dhcpd |   | DHCPOFFER on 192.168.1.59 to 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:56 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:57 | dhcpd |   | DHCPOFFER on 192.168.1.62 to 00:0c:29:73:9c:d8 via em1\nJan 14 20:08:09 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1\nJan 14 20:08:09 | dhcpd |   | DHCPOFFER on 192.168.1.62 to 00:0c:29:73:9c:d8 via em1"
+  },
+  {
+    "rank": 5,
+    "id": "msg_ade9985976c26448e5041c02245d0c89e9bfd9e5896ea685e198f0c30ab091a6",
+    "score": 34.987644,
+    "link": "https://github.com/intel/multus-cni/issues/291",
+    "source": "github",
+    "origin_doc_id": "6c1c4718401c874fbea150be6f649f4f6fa1ddbbfd34e63b3d47ab2aa92f2348",
+    "snippet": "Jan 14 20:06:27 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1 \n Jan 14 20:06:28 | dhcpd |   | DHCPOFFER on 192.168.1.58 to 00:0c:29:73:9c:d8 via em1 \n Jan 14 20:06:40 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1 \n Jan 14 20:06:40 | dhcpd |   | DHCPOFFER on 192.168.1.58 to 00:0c:29:73:9c:d8 via em1 \nJan 14 20:07:12 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:13 | dhcpd |   | DHCPOFFER on 192.168.1.59 to 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:25 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:25 | dhcpd |   | DHCPOFFER on 192.168.1.59 to 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:56 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1\nJan 14 20:07:57 | dhcpd |   | DHCPOFFER on 192.168.1.62 to 00:0c:29:73:9c:d8 via em1\nJan 14 20:08:09 | dhcpd |   | DHCPDISCOVER from 00:0c:29:73:9c:d8 via em1\nJan 14 20:08:09 | dhcpd |   | DHCPOFFER on 192.168.1.62 to 00:0c:29:73:9c:d8 via em1\n```"
+  },
+  {
+    "rank": 6,
+    "id": "msg_5d5b903c64072682d778c4e4b1aa2f9a15aaca0dcc078a59e9c423c0bdc97746",
+    "score": 33.351704,
+    "link": "https://stackoverflow.com/questions/23339160",
+    "source": "so",
+    "origin_doc_id": "1d238f558ce799a91d4a864f54fe3b7fbf165cde461dd0a2aca53fd25a89e861",
+    "snippet": "Apr 28 13:50:34 okubuntuserver dhcpd: DHCPDISCOVER from 00:15:70:4d:2c:ff via eth0: network 10.0.0.0/22: no free leases \n Apr 28 13:50:35 okubuntuserver dhcpd: DHCPDISCOVER from 00:15:70:62:db:76 via eth0: network 10.0.0.0/22: no free leases"
+  },
+  {
+    "rank": 7,
+    "id": "msg_2ccc4b04d9a700bdd79a05fa496e7206870a8614d041c29adc254d2eaad7d3a7",
+    "score": 33.238853,
+    "link": "https://github.com/lgirdk/boardfarm/issues/326",
+    "source": "github",
+    "origin_doc_id": "0b28aebc28b4e1bf344d640f845d4a986d3f9804fdb8d862d5792902dcbfe03b",
+    "snippet": "Sending on   LPF/eth1/a6:4e:ce:1c:ad:53\nSending on   Socket/fallback\nDHCPDISCOVER on eth1 to 255.255.255.255 port 67 interval 6\nDHCPDISCOVER on eth1 to 255.255.255.255 port 67 interval 7\nDHCPDISCOVER on eth1 to 255.255.255.255 port 67 interval 7\nDHCPDISCOVER on eth1 to 255.255.255.255 port 67 interval 8\nDHCPDISCOVER on eth1 to 255.255.255.255 port 67 interval 9\n\n\n=========== Test failed! Running recovery Time: Thu 20 Jun 2019 20:58:59\t ===========\nError: Device on LAN couldn't obtain address via DHCP.\nTraceback (most recent call last):\n  File \"/home/shakthi/Documents/boardfarm/tests/linux_boot.py\", line 92, in testWrapper\n    self.runTest()\n  File \"/home/shakthi/Documents/boardfarm/devices/../tests/lib/logging.py\", line 48, in wrapper\n    ret = func(*args, **kwargs)\n  File \"/home/shakthi/Documents/boardfarm-cbn/tests/InternetServices.py\", line 447, in runTest\n    super(NTL7465LG__P3__621, self).runTest()\n  File \"/home/shakthi/Documents/boardfarm/devices/../tests/lib/logging.py\", line 48, in wrapper\n    ret = func(*args, **kwargs)\n  File \"/home/shakthi/Documents/boardfarm-cbn/tests/InternetServices.py\", line 98, in runTest \n     lan.start_lan_client(wan_gw=wan.gw) \n   File \"/home/shakthi/Documents/boardfarm/devices/../tests/lib/logging.py\", line 48, in wrapper \n     ret = func(*args, **kwargs) \n   File \"/home/shakthi/Documents/boardfarm/devices/debian.py\", line 644, in start_lan_client \n     raise Exception(\"Error: Device on LAN couldn't obtain address via DHCP.\") \n Exception: Error: Device on LAN couldn't obtain address via DHCP. \n \t\t=="
+  },
+  {
+    "rank": 8,
+    "id": "msg_36c0c08c714640eaa4f6600da16b7d2d9c11298688cc121594d3252f14914c83",
+    "score": 32.460136,
+    "link": "https://stackoverflow.com/questions/57134633",
+    "source": "so",
+    "origin_doc_id": "6aa907587ab13d77bb82f4699adc8911e52219686f8995d5416c83f785568334",
+    "snippet": "Jul 21 09:29:10 serverbkp dhcpd: DHCPDISCOVER from aa:bb:cc:dd:ee:ff via 1.2.3.188: peer holds all free leases \n Jul 21 09:29:10 serverbkp dhcpd: DHCPDISCOVER from aa:bb:cc:dd:ee:ff via 1.2.3.189: peer holds all free leases \n Jul 21 09:29:10 serverbkp dhcpd: DHCPDISCOVER from aa:bb:cc:dd:ee:gg via eth0: network 1.2.64.0/24: no free leases \n Jul 21 09:29:10 serverbkp dhcpd: DHCPDISCOVER from aa:bb:cc:dd:ee:gg via eth0: network 1.2.65.0/24: no free leases"
+  },
+  {
+    "rank": 9,
+    "id": "msg_ac489bf5115cd442e9bc30bda4f748ad207a373fad12ddd49b3c2d31cedba4fd",
+    "score": 32.416622,
+    "link": "https://github.com/rancher/os/issues/2992",
+    "source": "github",
+    "origin_doc_id": "19335059471a81cf9f4a169af9cdfb52ca3fa251add2585687d36dddff24d58c",
+    "snippet": "13:19:04 dhcp01 dhcpd[789]: DHCPDISCOVER from **00:50:56:90:a5:75** via ens192"
+  },
+  {
+    "rank": 10,
+    "id": "msg_a3cc5cce4e4b0c2fe7ff697b2b2ac2f6d24100a94d43c207a4f25ce27414942e",
+    "score": 32.416622,
+    "link": "https://github.com/rancher/os/issues/2992",
+    "source": "github",
+    "origin_doc_id": "19335059471a81cf9f4a169af9cdfb52ca3fa251add2585687d36dddff24d58c",
+    "snippet": "14:27:19 dhcp01 dhcpd[789]: DHCPDISCOVER from **00:50:56:90:a5:75** via ens192"
+  }
+]

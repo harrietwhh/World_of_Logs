@@ -1,0 +1,34 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Auto renewal of Kerberos ticket not working from Java",
+    "link": "https://stackoverflow.com/questions/41087997/auto-renewal-of-kerberos-ticket-not-working-from-java",
+    "displayed_link": "2 answers · 9 years ago",
+    "snippet": "Unfortunately, there is a known issue with automatic renewal not working correctly when using the UserGroupInformation#loginUserFromKeytabAndReturnUGI method.",
+    "snippet_highlighted_words": [
+      "with automatic renewal",
+      "using",
+      "UserGroupInformation"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Re: Kerberos authentication error with keytab - Page 2",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Kerberos-authentication-error-with-keytab/m-p/62366",
+    "displayed_link": "https://community.cloudera.com › Support-Questions",
+    "snippet": "I've got a problem with the authentication of Kerberos using the Keytab, when I try to start any instance of HDFS service I keep getting the ...",
+    "snippet_highlighted_words": [
+      "with",
+      "using",
+      "Keytab"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

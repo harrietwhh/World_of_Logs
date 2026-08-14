@@ -1,0 +1,139 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "anomaly-detection-linux-log-sample.ipynb",
+    "link": "https://github.com/qfunction-ai/ai-anomaly-detection/blob/main/anomaly-detection-linux-log-sample.ipynb",
+    "displayed_link": "https://github.com › ai-anomaly-detection › blob › main",
+    "snippet": "... user=guest User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005 Received SNMP packet(s) from 67.170.148.126 authentication failure; logname ...",
+    "snippet_highlighted_words": [
+      "User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "loghub/Linux/Linux_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Linux/Linux_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Linux",
+    "snippet": "... Sat Jun 18 02:08:12 2005. Jun 18 02:23:10 combo ftpd[31277]: User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005. Jun 18 04:07:05 combo su ...",
+    "snippet_highlighted_words": [
+      "User unknown timed out after 900 seconds",
+      "Sat Jun 18 02:23:10 2005"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "data/Linux_2k.log · main · Patrick Lam / ece459-w23-a2",
+    "link": "https://gitlab.uwaterloo.ca/p23lam/ece459-w23-a2/-/blob/main/data/Linux_2k.log?ref_type=heads",
+    "displayed_link": "https://gitlab.uwaterloo.ca › ... › ece459-w23-a2",
+    "snippet": "Jun 15 20:05:31 combo sshd(pam_unix)[24139]: check pass; user unknown Jun 15 20:05:31 combo sshd(pam_unix)[24139]: authentication failure; logname= uid=0 ...",
+    "snippet_highlighted_words": [
+      "Jun",
+      "user unknown Jun"
+    ],
+    "source": "University of Waterloo",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "The Connection Has Timed Out How To Fix It Tutorial",
+    "link": "https://www.youtube.com/watch?v=TM0bd20Bu6I",
+    "displayed_link": "313.8K+ views · 7 years ago",
+    "snippet": "The Connection Has Timed Out -- How To Fix It [Tutorial]. A server connection timeout means that a server is taking too long to reply to a ...",
+    "snippet_highlighted_words": [],
+    "source": "YouTube · MDTechVideos",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "How to Fix Connection Timed Out Error",
+    "link": "https://www.youtube.com/watch?v=pqcy7OVyqEM",
+    "displayed_link": "2.8K+ views · 2 months ago",
+    "snippet": "In this video I'm going to show you the simple methods I used to fix the connection timed out error in WordPress.",
+    "snippet_highlighted_words": [],
+    "source": "YouTube · GigaPress",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "TC Packet 03-11-2025 - IIS Windows Server - Avon.org",
+    "link": "https://lfpublic.avon.org/WebLink/DocView.aspx?id=405910&dbid=0&repo=TownofAvon",
+    "displayed_link": "https://lfpublic.avon.org › WebLink › DocView",
+    "snippet": "After deliberations, Councilor Thuon motioned to approve the second reading of Ordinance 25-04, with the corrections and minor revisions ...",
+    "snippet_highlighted_words": [
+      "After",
+      "second"
+    ],
+    "source": "Town of Avon (CO)",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "FILE NO. 130395 Petitions and Communications received ...",
+    "link": "https://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/communications/2013/130395.pdf",
+    "displayed_link": "https://www.sfbos.org › uploadedfiles › bdsupvrs",
+    "snippet": "Petitions and Communications received from April 15, 2013, through April 29, 2013, for reference by the President to Committee considering ...",
+    "snippet_highlighted_words": [],
+    "source": "San Francisco Board of Supervisors",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Audio",
+    "link": "https://www.dentalleaders.co.uk/type/audio/",
+    "displayed_link": "https://www.dentalleaders.co.uk › type › audio",
+    "snippet": "After missing out on dental school the first time round, Zain took the pharmacology route, grafted his way through eight years of study, and eventually ...",
+    "snippet_highlighted_words": [
+      "After",
+      "out",
+      "time"
+    ],
+    "source": "Dental Leaders Podcast",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "City Commission Packet Archive 03-14-2023",
+    "link": "https://muskegon-mi.gov/documents/view/3/4280/",
+    "displayed_link": "https://muskegon-mi.gov › ... › 2023",
+    "snippet": "City Commission Packet Archive 03-14-2023. The text version may not contain all the information found in the PDF or Google Docs version. View ...",
+    "snippet_highlighted_words": [
+      "may"
+    ],
+    "source": "The City of Muskegon (.gov)",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Design Guidelines",
+    "link": "https://webapps.fo.umich.edu/aec-dg-archive/_files/2012/DesignGuidelines201208.pdf",
+    "displayed_link": "https://webapps.fo.umich.edu › _files › DesignGui...",
+    "snippet": "This web site contains Design Guidelines for the design and construction of facilities at the University of Michigan. The.",
+    "snippet_highlighted_words": [],
+    "source": "University of Michigan",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

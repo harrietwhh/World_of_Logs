@@ -1,0 +1,153 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Seeing the underlying SQL in the Spring JdbcTemplate?",
+    "link": "https://stackoverflow.com/questions/1932208/seeing-the-underlying-sql-in-the-spring-jdbctemplate",
+    "displayed_link": "8 answers · 16 years ago",
+    "snippet": "All SQL issued by this class is logged at the DEBUG level under the category corresponding to the fully qualified class name of the template instance.",
+    "snippet_highlighted_words": [
+      "SQL",
+      "logged",
+      "DEBUG level",
+      "template"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Show Hibernate/JPA SQL Statements in Spring Boot",
+    "link": "https://www.baeldung.com/sql-logging-spring-boot",
+    "displayed_link": "https://www.baeldung.com › Spring › Spring Boot",
+    "snippet": "Learn how you can configure logging of the generated SQL statements in your Spring Boot application.",
+    "snippet_highlighted_words": [
+      "logging",
+      "SQL"
+    ],
+    "source": "Baeldung",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Dynamic SQL with a Security Twist Using Template ...",
+    "link": "https://medium.com/google-cloud/dynamic-sql-with-a-security-twist-using-template-parameters-dfd9ee68ce62",
+    "displayed_link": "270+ likes · 5 months ago",
+    "snippet": "Unlike basic parameters, which are securely integrated into a prepared statement, template parameters are directly inserted into your SQL ...",
+    "snippet_highlighted_words": [
+      "parameters",
+      "template parameters",
+      "SQL"
+    ],
+    "source": "Medium · MCP Toolbox for Databases",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Sql Logging With Parameters",
+    "link": "https://forums.servicestack.net/t/sql-logging-with-parameters/2540",
+    "displayed_link": "https://forums.servicestack.net › ... › SQL Server",
+    "snippet": "It will log both SQL Statement + params. If you just want to capture to see what SQL and params OrmLite generates you can use the CaptureSqlFilter.",
+    "snippet_highlighted_words": [
+      "log",
+      "SQL",
+      "params",
+      "SQL",
+      "params"
+    ],
+    "source": "ServiceStack",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Debug query output always uses SQL Server syntax for ...",
+    "link": "https://github.com/linq2db/linq2db/issues/4419",
+    "displayed_link": "https://github.com › issues",
+    "snippet": "Generally the wish is so that the logged SQL is executable as is/what gets executed by linq2db, so I can copypaste it into SQL console to check.",
+    "snippet_highlighted_words": [
+      "logged SQL",
+      "SQL"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Using Query Analyzer Templates",
+    "link": "https://www.sqlservercentral.com/articles/using-query-analyzer-templates",
+    "displayed_link": "https://www.sqlservercentral.com › articles › using-query...",
+    "snippet": "To show you how to display and use the templates that come with SQL Server let me go through a few examples of using the templates to build a ...",
+    "snippet_highlighted_words": [
+      "templates",
+      "SQL",
+      "templates"
+    ],
+    "source": "SQLServerCentral",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "How to Log SQL Queries with Parameter Values?",
+    "link": "https://www.youtube.com/watch?v=YUxc1vBMn6A",
+    "displayed_link": "750+ views · 8 months ago",
+    "snippet": "Set a uh custom logger which is going to inline all those values and show the complete uh effect to SQL.",
+    "snippet_highlighted_words": [],
+    "source": "YouTube · SivaLabs",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Replace Template Parameters",
+    "link": "https://learn.microsoft.com/en-us/ssms/template/replace-template-parameters",
+    "displayed_link": "https://learn.microsoft.com › en-us › ssms › replace-temp...",
+    "snippet": "Templates contain parameters that can be replaced by implementation-specific values each time the template is used.",
+    "snippet_highlighted_words": [
+      "Templates",
+      "parameters",
+      "template"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "``` Function which create debug log param String ...",
+    "link": "https://archive.netsuiteprofessionals.com/t/12966070/function-which-create-debug-log-param-string-stlogtittle-log",
+    "displayed_link": "https://archive.netsuiteprofessionals.com › function-whic...",
+    "snippet": "I did an analysis once where I ran the scheduled script 3 times; 1st with debug logs, 2nd time with log level set to Error, 3rd time without any ...",
+    "snippet_highlighted_words": [
+      "log level"
+    ],
+    "source": "NetSuite Professionals",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Debugging",
+    "link": "https://openapi-generator.tech/docs/debugging/",
+    "displayed_link": "https://openapi-generator.tech › docs › debugging",
+    "snippet": "This script generates all configs under bin/configs by default. You may generate a targeted script or set of scripts using glob patterns.",
+    "snippet_highlighted_words": [],
+    "source": "OpenAPI Generator",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

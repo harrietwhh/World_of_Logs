@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_9f07e9488b92fcd974cbe485ae629fb970ff5d1eb8324aa7580d984439e547d3",
+    "score": 60.814278,
+    "link": "https://stackoverflow.com/questions/67017925",
+    "source": "so",
+    "origin_doc_id": "aa2f54154edf1f7c7910947226751041ef34cd82e5a47d47c8a46368ccb332ba",
+    "snippet": "log.warn( \n                     String.format( \n                         \"Cannot convert database column %s to the %s. The default value shall be used\", \n                         dbColumnName, \n                         entityClass.getSimpleName()),"
+  },
+  {
+    "rank": 2,
+    "id": "msg_6029c8d7a980ba1e0d13c5066453e98aa788db56433a4fa485d6d928368e44eb",
+    "score": 59.841675,
+    "link": "https://github.com/dgraph-io/dgraph4j/issues/108",
+    "source": "github",
+    "origin_doc_id": "736e8d5724f179b0a3f4356cf9e48469e760a58f2a45a98b71aec460251f484c",
+    "snippet": "log.warn(String.format(\"======[%s:%s] require unique\", gid, \n                             value));"
+  },
+  {
+    "rank": 3,
+    "id": "msg_04b40869123bec25e94753339c8a909ab2bb046c1c5147517df95f50f3567e40",
+    "score": 59.41671,
+    "link": "https://stackoverflow.com/questions/56584315",
+    "source": "so",
+    "origin_doc_id": "31d0a4c371b096edfc06df311b5c907dce76a62b1031de108ca87ec5cdb6ad26",
+    "snippet": "log.warn(String.format(\"expected field name for %s not found.\", ctMethod.getSimpleName()));\nlog.warn(String.format(\"Expected field %s not found.\", fieldName));\nlog.info(String.format(\"Processed method %s:%s\", parentClass.getSimpleName(), ctMethod.getSimpleName()));\nlog.warn(String.format(\"Unable to find setter for %s\", fieldName));"
+  },
+  {
+    "rank": 4,
+    "id": "msg_298ba14998914ac8017aedae7b6cdf6794d345e71afe59dfbc9082cc02162e2b",
+    "score": 58.65044,
+    "link": "https://stackoverflow.com/questions/40615718",
+    "source": "so",
+    "origin_doc_id": "2078f98df7b11f3800dd6d823f0419c6e6c1ece87c513ab9c9f1669ab233564e",
+    "snippet": "LOG.warn(String.format(\"resolved symbol %s to value %s\", arg, symbolValue));"
+  },
+  {
+    "rank": 5,
+    "id": "msg_b75a94e620cc6fb3afc9526f506b054a602d84cd433881541101474c67f20387",
+    "score": 58.04528,
+    "link": "https://issues.apache.org/jira/browse/HBASE-7384",
+    "source": "jira",
+    "origin_doc_id": "77919a441db58976bc6bc54b00335be0683979379ea9fea80ff50f939cfd6e94",
+    "snippet": "LOG.warn(String.format(\"Invalid extremeWaitMultiplier property value:%s. is ignored.\", multiplierProp));"
+  },
+  {
+    "rank": 6,
+    "id": "msg_abab244240d9469db05db2d430ed88b1b95278a14ba349c733b0601ac3ee1305",
+    "score": 57.9405,
+    "link": "https://stackoverflow.com/questions/35221560",
+    "source": "so",
+    "origin_doc_id": "d84a8a4a05eae6ad5f35400fe1350889ac047243fd9c4c2b43168936e39b36dc",
+    "snippet": "cvc-type.3.1.3: The value ''{1}'' of element ''{0}'' is not valid.  https://wiki.xmldation.com/Support/Validator/cvc-type-3-1-3\nSystem.err.println(e.getMessage());\nSystem.err.println(String.format(\"Line %s -  Column %s - %s\","
+  },
+  {
+    "rank": 7,
+    "id": "msg_f82550c0f858ed4a203ede42c0cc5fe0f2c50b84daeb54acebbb852e09ec9c73",
+    "score": 57.42277,
+    "link": "https://stackoverflow.com/questions/32398754",
+    "source": "so",
+    "origin_doc_id": "0de4ad2a4d4b830edfa74fef525954c2566d0a1f7a60c36aa9f70c4c43115f57",
+    "snippet": "log.warn(e.getMessage());\nlog.warn(String.format(\"SSL session %s for socket %s is not rejoinable\", session, socket)); \n **********"
+  },
+  {
+    "rank": 8,
+    "id": "msg_e72da89f1cd3a14eaaf002137b619774ad48aaeb960c7a4f59122df4ede0cc89",
+    "score": 56.332634,
+    "link": "https://stackoverflow.com/questions/63481550",
+    "source": "so",
+    "origin_doc_id": "78a8f60eaa01c354d2dac8f94ceb5a58daa517b65e4482830a108e5e1a736da0",
+    "snippet": "LOG.warn(String.format(\"Method getCurrentUser, wrong type for attribute %s\", OAuthLoginFilter.USER_PRINCIPLE_ATR));\nLOG.warn(\"not a valid http request\");"
+  },
+  {
+    "rank": 9,
+    "id": "msg_ce9ca9ca7b04845587889fc52056b9034ae8d243355c6c05fd76a9dd95ac4061",
+    "score": 56.047104,
+    "link": "https://stackoverflow.com/questions/48720915",
+    "source": "so",
+    "origin_doc_id": "019859a6a7f21c25cd3e4ded4a352538ae393db922a69aec91bed16c9cef24ae",
+    "snippet": "LOG.error(String.format(\"error processing poll for inet: %s, details: %s - %s\", getId(), t.getMessage(), t.getCause()), t);\nLOG.warn(String.format(\"outbound destination session is not ready - trying: %s/%s\",destinationIgnoreCnt,destinationwaitingloop));"
+  },
+  {
+    "rank": 10,
+    "id": "msg_cdec454f8f0a4417fc75907348903c8fead922ca7ed1b3df95e0e517162586ee",
+    "score": 55.919266,
+    "link": "https://issues.apache.org/jira/browse/NET-408",
+    "source": "jira",
+    "origin_doc_id": "8072615a37cf8214e45d3c1634ccc33c8252074acf57a2ba4c28ea20cc937a41",
+    "snippet": "log.warn(String.format(\"SSL session %s for socket %s is not rejoinable\", session, socket));"
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "I can't login to tty2 as root? [closed]",
+    "link": "https://askubuntu.com/questions/910261/i-cant-login-to-tty2-as-root",
+    "displayed_link": "https://askubuntu.com › questions › i-cant-login-to-tty2...",
+    "snippet": "It seems that in the default configuration the user configured doesn't have 'root' access and can't login via tty2, at least in ubuntu 20.04.",
+    "snippet_highlighted_words": [
+      "root",
+      "login",
+      "tty2"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Can't login as root in tty - Newbie",
+    "link": "https://forum.endeavouros.com/t/cant-login-as-root-in-tty/34158",
+    "displayed_link": "https://forum.endeavouros.com › ... › Newbie",
+    "snippet": "I can't login as root in tty console, but with my user works fine. For me enable root user and password, but not working in tty. I logout form user and alt+f2.",
+    "snippet_highlighted_words": [
+      "login",
+      "root",
+      "tty",
+      "root",
+      "tty"
+    ],
+    "source": "EndeavourOS",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Root password rejected on tty2, works on other ttys ...",
+    "link": "https://bbs.archlinux.org/viewtopic.php?id=293739",
+    "displayed_link": "https://bbs.archlinux.org › Newbie Corner",
+    "snippet": "I close the hyprland session and login as root and the password is rejected. I change into tty3 and login as root normally and install kitty.",
+    "snippet_highlighted_words": [
+      "login",
+      "root",
+      "login",
+      "root"
+    ],
+    "source": "Arch Linux Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Can't log in to tty, not even with roo - Fedora Discussion",
+    "link": "https://discussion.fedoraproject.org/t/cant-log-in-to-tty-not-even-with-roo/147080",
+    "displayed_link": "https://discussion.fedoraproject.org › cant-log-in-to-tty-...",
+    "snippet": "Root login is disabled by default and if you want to login as root you would need to first login as your regular user then create a password ...",
+    "snippet_highlighted_words": [
+      "Root login is disabled by default"
+    ],
+    "source": "Fedora Discussion",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "How can I log in as the root user in Linux or Unix?",
+    "link": "https://www.cyberciti.biz/faq/how-can-i-log-in-as-root/",
+    "displayed_link": "https://www.cyberciti.biz › faq › how-can-i-log-in-as-root",
+    "snippet": "Type the following command to log in as a root user. Next, open the Terminal application and type the following command followed by the [Enter] key.",
+    "snippet_highlighted_words": [
+      "Type the following command to log in as a root user"
+    ],
+    "source": "nixCraft",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "How do I login as the root user?",
+    "link": "https://unix.stackexchange.com/questions/693059/how-do-i-login-as-the-root-user",
+    "displayed_link": "https://unix.stackexchange.com › questions › how-do-i-...",
+    "snippet": "You can switch to a different tty with Ctrl + Alt + F2 and login as root from there. You can then give your users account the permission to escalate privileges ...",
+    "snippet_highlighted_words": [
+      "You can switch to a different tty with Ctrl + Alt + F2"
+    ],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Stuck on TTY login : r/voidlinux",
+    "link": "https://www.reddit.com/r/voidlinux/comments/1e8iqju/stuck_on_tty_login/",
+    "displayed_link": "10+ comments · 1 year ago",
+    "snippet": "You can login with root account by selecting \"Advanced options/recovery/maintenance mode\" from grub bootloader menu. You will surely be able to ...",
+    "snippet_highlighted_words": [],
+    "source": "Reddit · r/voidlinux",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "[SOLVED]How to solve login incorrect problem (Forgot root ...",
+    "link": "https://www.youtube.com/watch?v=6DJfCL9AFHQ",
+    "displayed_link": "57.3K+ views · 3 years ago",
+    "snippet": "This video helps you to solve login incorrect problems or forget root login problems in Ubuntu in an easy step-by-step method.",
+    "snippet_highlighted_words": [],
+    "source": "YouTube · Krishna Ojha",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Secure the tty devices by disabling root account login",
+    "link": "https://openforums.wordpress.com/2013/05/10/secure-the-tty-devices-by-disabling-root-account-login/",
+    "displayed_link": "https://openforums.wordpress.com › 2013/05/10 › secu...",
+    "snippet": "As a part of gnu/linux general security we can enable/disable root login on these devices. Each of the tty devices can be accessed by pressing ...",
+    "snippet_highlighted_words": [
+      "root login",
+      "tty"
+    ],
+    "source": "WordPress.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Why I am denied root access in tty? : r/vanillaos",
+    "link": "https://www.reddit.com/r/vanillaos/comments/1ef7ibs/why_i_am_denied_root_access_in_tty/",
+    "displayed_link": "4 comments · 1 year ago",
+    "snippet": "I've managed successfully to get root access in the tty by 'pkexec --user root /bin/bash' and fix my things as root with a huge relief.",
+    "snippet_highlighted_words": [
+      "root",
+      "tty",
+      "root",
+      "root"
+    ],
+    "source": "Reddit · r/vanillaos",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

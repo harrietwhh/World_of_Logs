@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_b148704ef3ea6de5ee7d32b2de71153b962324cdfa3daa0252c88a4b45bbd1af",
+    "score": 48.611744,
+    "link": "https://stackoverflow.com/questions/26520325",
+    "source": "so",
+    "origin_doc_id": "40ec1af4c82729568033de41ae2c029f6675e3aedb22e25b814ced6374dda533",
+    "snippet": "11 14:06:18 github-01-com sshd[4609]: Received disconnect from 192.168.1.1: disconnected by user\";\n\"Received disconnect from 192.168.1.1: disconnected by user\""
+  },
+  {
+    "rank": 2,
+    "id": "msg_febff8570ce9d9decaf8bdc3cf5ab391d9f1ab8d076cec9dc30bb8fe15c1fd99",
+    "score": 46.435486,
+    "link": "https://github.com/jkumar2001/graylog-generic-syslog/issues/2",
+    "source": "github",
+    "origin_doc_id": "6e19652ac699c76b6607ebba7add1d64e658097ad2c18bb724bb0159758a5b98",
+    "snippet": "Received disconnect from 192.168.127.12: 11: disconnected by user"
+  },
+  {
+    "rank": 3,
+    "id": "msg_3a93ce220717a18f18a9824327636f26f9b6b3275e0dcc72b16056168c8e7258",
+    "score": 45.49757,
+    "link": "https://github.com/go-gitea/gitea/issues/17135",
+    "source": "github",
+    "origin_doc_id": "e8443fbf7cdd571153abac99029b90b0f69b94ca156037adcd3c6ad6a30d94ca",
+    "snippet": "| Received disconnect from 172.16.0.29 port 18156:11: disconnected by user \n gitea     | Disconnected from user git 172.16.0.29 port 18156"
+  },
+  {
+    "rank": 4,
+    "id": "msg_d4c365f1efaa6e5fc62281b0094338ead50fe35230132b905c4d0b7d48ef81ca",
+    "score": 43.565395,
+    "link": "https://github.com/go-gitea/gitea/issues/17769",
+    "source": "github",
+    "origin_doc_id": "7ef6062efcf4cd00d73cfef7d254a8051b6e431eb2db2babbeddfdcaf850c020",
+    "snippet": "2021-11-22T19:26:54.145589865Z Received disconnect from 172.23.0.1 port 32864:11: disconnected by user"
+  },
+  {
+    "rank": 5,
+    "id": "msg_5f91d73e1940eec8ee71c5be7307d20eb7f2b2ee45af1ff89c5cac67f7c12f3a",
+    "score": 42.85645,
+    "link": "https://github.com/CrunchyData/postgres-operator/issues/2554",
+    "source": "github",
+    "origin_doc_id": "81d2fe28c90303c83e716b4dac91629d408a5286c4d4913d2cefcebc738a8826",
+    "snippet": "Accepted publickey for postgres from 10.x.x.x port 54424 ssh2: ECDSA SHA256:AZSAZS77v1XDiZatjO38gqRA/qasdSpKgkn0finM5QDT7DefZhw1Os \n Received disconnect from 10.x.x.x port 54424:11: disconnected by user \nDisconnected from user postgres 10.x.x.x port 54424 \n kex_exchange_identification: Connection closed by remote host \n Accepted publickey for postgres from 10.x.x.x port 54442 ssh2: ECDSA SHA256:AZSAZS77v1XDiZatjO38gqRA/qasdSpKgkn0finM5QDT7DefZhw1Os \n Received disconnect from 10.x.x.x port 54442:11: disconnected by user \n Disconnected from user postgres 10.x.x.x port 54442 \n kex_exchange_identification: Connection closed by remote host"
+  },
+  {
+    "rank": 6,
+    "id": "msg_a9e7026d59ad6bb6755841381d93f0bf82af6fa4887390c7aaf74588e5c81276",
+    "score": 41.83421,
+    "link": "https://github.com/crowdsecurity/crowdsec/pull/668",
+    "source": "github",
+    "origin_doc_id": "6cd7ed05cc7289cb3bd03e637fc33e14061d9501584147d608b4a153a924b0f3",
+    "snippet": "09 17:49:15 pve sshd[5395]: Received disconnect from 10.99.7.107 port 45445:11: disconnected by user"
+  },
+  {
+    "rank": 7,
+    "id": "msg_78c4ca56f78e0d2c3d77b970bfba9ae3096b6a23a9b35687d8ad3d12ef3325f5",
+    "score": 40.625824,
+    "link": "https://github.com/CrunchyData/postgres-operator/issues/2819",
+    "source": "github",
+    "origin_doc_id": "4948a23b24d0809d5bcf14aff8c0f6242b2f3624a41bedf5b8a3423dd5dd9f76",
+    "snippet": "Server listening on 0.0.0.0 port 2022. \n Server listening on :: port 2022. \n Accepted publickey for postgres from 10.244.3.16 port 54292 ssh2: ECDSA SHA256:C93nnN+aA9gPogtzk48lESGxcSoSNaphIirzkCLcLf0 \n Received disconnect from 10.244.3.16 port 54292:11: disconnected by user \n Disconnected from user postgres 10.244.3.16 port 54292 \n Accepted publickey for postgres from 10.244.3.16 port 43098 ssh2: ECDSA SHA256:C93nnN+aA9gPogtzk48lESGxcSoSNaphIirzkCLcLf0 \nAccepted publickey for postgres from 10.244.3.26 port 34308 ssh2: ECDSA SHA256:C93nnN+aA9gPogtzk48lESGxcSoSNaphIirzkCLcLf0 \n Received disconnect from 10.244.3.26 port 34308:11: disconnected by user \n Disconnected from user postgres 10.244.3.26 port 34308"
+  },
+  {
+    "rank": 8,
+    "id": "msg_69677fda78ce867130a055413479f570888a4030a772741ed8e756df72cfdbc1",
+    "score": 40.496613,
+    "link": "https://github.com/docker/machine/issues/4207",
+    "source": "github",
+    "origin_doc_id": "eff92d242f4a60859fbf378f8ac4e46a2564e96bf1aae72d24e23abbfd282139",
+    "snippet": "failed.                                                                                                              \n Jul 26 15:00:33 test-instance sshd[5749]: Received disconnect from 192.168.3.11 port 59512:11: disconnected by user"
+  },
+  {
+    "rank": 9,
+    "id": "msg_16404729babc14cf3582fd2a06ee7da22035ef433e772638b3d37e8d0e019523",
+    "score": 40.151573,
+    "link": "https://github.com/kubeflow/mpi-operator/issues/429",
+    "source": "github",
+    "origin_doc_id": "8e40684af03ad32cc18217907c2af2270f1f3e4a327744213264a5a807ada7a7",
+    "snippet": "Server listening on :: port 22. \n Accepted publickey for mpiuser from 10.42.198.120 port 33588 ssh2: ECDSA SHA256:wvQe8CVOl3BQ+7ig4VHapc8rLl6GNIWCiZKxJkFvPNU \n Received disconnect from 10.42.198.120 port 33588:11: disconnected by user \n Disconnected from user mpiuser 10.42.198.120 port 33588 \n Accepted publickey for mpiuser from 10.42.198.120 port 35306 ssh2: ECDSA SHA256:wvQe8CVOl3BQ+7ig4VHapc8rLl6GNIWCiZKxJkFvPNU \n Received disconnect from 10.42.198.120 port 35306:11: disconnected by user \n Disconnected from user mpiuser 10.42.198.120 port 35306 \n Accepted publickey for mpiuser from 10.42.198.120 port 38536 ssh2: ECDSA SHA256:wvQe8CVOl3BQ+7ig4VHapc8rLl6GNIWCiZKxJkFvPNU \n Accepted publickey for mpiuser from 10.42.198.120 port 43876 ssh2: ECDSA SHA256:wvQe8CVOl3BQ+7ig4VHapc8rLl6GNIWCiZKxJkFvPNU"
+  },
+  {
+    "rank": 10,
+    "id": "msg_b4767af42424f3f62e9156a299d01f0eaf44f8f81a60354ee9116a75fc30c289",
+    "score": 40.06955,
+    "link": "https://stackoverflow.com/questions/26520325",
+    "source": "so",
+    "origin_doc_id": "40ec1af4c82729568033de41ae2c029f6675e3aedb22e25b814ced6374dda533",
+    "snippet": "$1 = sep 11 14:06:18 \n $2 = github-01-com \n $3 = sshd[4609]: \n $4 = Received disconnect from 192.168.1.1: disconnected by user"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "case_id": "2",
+  "summary_raw": "[\"Block stored in memory\",\"estimated size\"]",
+  "summary_items": [
+    "Block stored in memory",
+    "estimated size"
+  ],
+  "group_logs_lines": [
+    "INFO storage.MemoryStore : Block broadcast_5_piece289 stored as bytes in memory ( estimated size 4.0 MB , free 563.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece344 stored as bytes in memory ( estimated size 4.0 MB , free 567.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece151 stored as bytes in memory ( estimated size 4.0 MB , free 571.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece198 stored as bytes in memory ( estimated size 4.0 MB , free 575.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece285 stored as bytes in memory ( estimated size 4.0 MB , free 579.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece248 stored as bytes in memory ( estimated size 4.0 MB , free 583.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece75 stored as bytes in memory ( estimated size 4.0 MB , free 587.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece131 stored as bytes in memory ( estimated size 4.0 MB , free 591.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece260 stored as bytes in memory ( estimated size 4.0 MB , free 595.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece215 stored as bytes in memory ( estimated size 4.0 MB , free 599.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece337 stored as bytes in memory ( estimated size 4.0 MB , free 603.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece8 stored as bytes in memory ( estimated size 4.0 MB , free 607.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece191 stored as bytes in memory ( estimated size 4.0 MB , free 611.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece297 stored as bytes in memory ( estimated size 4.0 MB , free 615.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece243 stored as bytes in memory ( estimated size 4.0 MB , free 619.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece186 stored as bytes in memory ( estimated size 4.0 MB , free 623.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece64 stored as bytes in memory ( estimated size 4.0 MB , free 627.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece29 stored as bytes in memory ( estimated size 4.0 MB , free 631.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece156 stored as bytes in memory ( estimated size 4.0 MB , free 635.0 MB )",
+    "INFO storage.MemoryStore : Block broadcast_5_piece72 stored as bytes in memory ( estimated size 4.0 MB , free 639.0 MB )"
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_34965d3ed9f9d5be4eace8b3ea1e58d13e8a4475adfa52de73ff0bb153d4f363",
+    "score": 56.39771,
+    "link": "https://github.com/pravega/pravega-samples/issues/107",
+    "source": "github",
+    "origin_doc_id": "c51e435750d06b5e9652013c163e2d9c30468c1a733898ec921d00a1a3461b2f",
+    "snippet": "18:47:50,254 INFO impl.MetricsConfig: loaded properties from hadoop-metrics2.properties"
+  },
+  {
+    "rank": 2,
+    "id": "msg_6bfb5f9e8703ab383458fc21e17727446d1c2c928985fde2cdf733dce8874d95",
+    "score": 55.28273,
+    "link": "https://issues.apache.org/jira/browse/AMBARI-13558",
+    "source": "jira",
+    "origin_doc_id": "08092dbe859c42f930da85cd0bffef59afd1b00b60befe55f3bc67a1bcae7da6",
+    "snippet": "15:16:53,742 INFO  impl.MetricsConfig (MetricsConfig.java:loadFirst(112)) - loaded properties from hadoop-metrics2.properties"
+  },
+  {
+    "rank": 3,
+    "id": "msg_12662bb891732ba6c425660106ac40c8351d82c491ef36f02b4de9a442a7755c",
+    "score": 54.742393,
+    "link": "https://stackoverflow.com/questions/16694495",
+    "source": "so",
+    "origin_doc_id": "f5e730608931075e3ca805429288a8f2370583b5ae7c984211f4ca636186db34",
+    "snippet": "13/05/22 09:42:15 INFO impl.MetricsConfig: loaded properties from hadoop-metrics2.properties"
+  },
+  {
+    "rank": 4,
+    "id": "msg_1398f39771dbfbb50baaaf81da4e891cfc5531c8c5e1d8441e186cc7422764eb",
+    "score": 54.742393,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-7254",
+    "source": "jira",
+    "origin_doc_id": "3642fb6e4eab49f43601abe2d6838f95f510e1a20b2e6c9b7f3658c89cf84900",
+    "snippet": "2019-12-24 18:29:58,051 INFO impl.MetricsConfig: loaded properties from hadoop-metrics2.properties"
+  },
+  {
+    "rank": 5,
+    "id": "msg_c2a8289534d44dadd8a658836987998b61b2426bea42f9e2126485a77b1d0d1d",
+    "score": 54.742393,
+    "link": "https://issues.apache.org/jira/browse/HDDS-539",
+    "source": "jira",
+    "origin_doc_id": "09e8ec0e956b1efd9fc7cc1029a62771d0180ce8f8a73a99eb27c99a6d5b740d",
+    "snippet": "2018-09-22 00:59:34,719 INFO impl.MetricsConfig: Loaded properties from hadoop-metrics2.properties"
+  },
+  {
+    "rank": 6,
+    "id": "msg_dd32467f4b704ade1d29c1efeb7bd000abd74f1b56e3fb643fa6d5004dbb459f",
+    "score": 54.742393,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-195",
+    "source": "jira",
+    "origin_doc_id": "7522eacbb5948ddd5d3c5aaacdad44db41669b6e0d1060de6b26b80826bf4107",
+    "snippet": "16/03/25 13:51:11 INFO impl.MetricsConfig: loaded properties from hadoop-metrics2.properties"
+  },
+  {
+    "rank": 7,
+    "id": "msg_f8668663a45340385eaa57e076f2530a12cb7403035ba187a0536cf395235f1c",
+    "score": 54.742393,
+    "link": "https://issues.apache.org/jira/browse/HDDS-2330",
+    "source": "jira",
+    "origin_doc_id": "1b7809c6a52251051b9dec885115c21762a2c4f4184248cfc1e07347393146c7",
+    "snippet": "2019-10-18 10:44:45,224 INFO impl.MetricsConfig: Loaded properties from hadoop-metrics2.properties"
+  },
+  {
+    "rank": 8,
+    "id": "msg_338c4bfe09c37cc651a3399652c18472df32be67b83b18e55078c7e1266cf47d",
+    "score": 54.742393,
+    "link": "https://issues.apache.org/jira/browse/HDFS-3840",
+    "source": "jira",
+    "origin_doc_id": "1907e785642237c73b5b76b45ecf7bd941e1104287c7844c7cea19e064d1b478",
+    "snippet": "12/08/22 00:52:22 INFO impl.MetricsConfig: loaded properties from hadoop-metrics2.properties"
+  },
+  {
+    "rank": 9,
+    "id": "msg_08c3fba280802fee0df025ce0435c304793c8217b8ed9856d901828e991d7b3d",
+    "score": 54.742393,
+    "link": "https://stackoverflow.com/questions/19419951",
+    "source": "so",
+    "origin_doc_id": "1e33e7cad89d19c365e69cd93e21151cf3c9e8af8b81aadb005e605dbf1b1671",
+    "snippet": "13/10/17 03:21:55 INFO impl.MetricsConfig: loaded properties from hadoop-metrics2.properties"
+  },
+  {
+    "rank": 10,
+    "id": "msg_878871a00f6c2c7fbfc5dab33e2f767efeacd0b5e59e886a4c068d50ff655ead",
+    "score": 54.742393,
+    "link": "https://stackoverflow.com/questions/18464218",
+    "source": "so",
+    "origin_doc_id": "12004be4de14d901ec41e17d3381331dc5ffef14639cd02429bf950674b311ba",
+    "snippet": "13/08/27 16:34:57 INFO impl.MetricsConfig: loaded properties from hadoop-metrics2.properties"
+  }
+]

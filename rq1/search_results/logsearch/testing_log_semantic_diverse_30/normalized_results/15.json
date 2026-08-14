@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_2782ab0ff5ec29ae797f3a49c188902b4d30f0e109a4e36d526bda959482eb89",
+    "score": 73.55603,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-3329",
+    "source": "jira",
+    "origin_doc_id": "045da050c5c2bd86f79aab927e84d2230033bf8593165100aaee0b40aa738a2b",
+    "snippet": "2019-03-19 15:30:46,889 [myid:] - INFO [Thread-0:QuorumPeerConfig@141] - Reading configuration from: /Users/wenba/workspaces/workspace_zookeeper/zookeeper/zookeeper-server/target/surefire/test5571915780702939434.junit.dir/zoo.cfg"
+  },
+  {
+    "rank": 2,
+    "id": "msg_cf3504bf1e2c3bd4c261b295a6372015ace17e9e06cd1487e2cf77a1e6ad5472",
+    "score": 63.455933,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:23,380 [myid:0] - INFO  [WorkerReceiver[myid=0]:FastLeaderElection$Messenger$WorkerReceiver@340] - WorkerReceiver is down"
+  },
+  {
+    "rank": 3,
+    "id": "msg_ad89c321b5eeec38371991f370f0783e7bdb3be7bc5630ed9aa7f3e6793656de",
+    "score": 63.455933,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:25,687 [myid:0] - INFO  [WorkerReceiver[myid=0]:FastLeaderElection$Messenger$WorkerReceiver@340] - WorkerReceiver is down"
+  },
+  {
+    "rank": 4,
+    "id": "msg_96a5e96e19677c1e3e1fa3bb1d001f33c9bf2b92f4590dbaf5b3d2c3be2be078",
+    "score": 63.455933,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:59,372 [myid:0] - INFO  [WorkerReceiver[myid=0]:FastLeaderElection$Messenger$WorkerReceiver@340] - WorkerReceiver is down"
+  },
+  {
+    "rank": 5,
+    "id": "msg_fda4e47a960e946281073b6c0aa64cb8ff82b9831e9c9f0bae09dda3dfdacc90",
+    "score": 63.455933,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:13:11,919 [myid:0] - INFO  [WorkerReceiver[myid=0]:FastLeaderElection$Messenger$WorkerReceiver@340] - WorkerReceiver is down"
+  },
+  {
+    "rank": 6,
+    "id": "msg_2c6841f593c855516b10f0021707c1efc99972b4cee6c584603593ff7a20fc31",
+    "score": 63.455933,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:13:15,167 [myid:0] - INFO  [WorkerReceiver[myid=0]:FastLeaderElection$Messenger$WorkerReceiver@340] - WorkerReceiver is down"
+  },
+  {
+    "rank": 7,
+    "id": "msg_468cef1d7151ca6aab22e9955d0b5c11fdd4977efa61414b55e2d6a3c5702a87",
+    "score": 60.15084,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2481",
+    "source": "jira",
+    "origin_doc_id": "e60d7c2b2cf8b90236f4ccaf35c5b9dd2562d8a2371c5b1a693d5efbd0384037",
+    "snippet": "2016-07-21 04:24:40,878 [myid:] - INFO  [WorkerReceiver[myid=5]:FastLeaderElection$Messenger$WorkerReceiver@440] - WorkerReceiver is down"
+  },
+  {
+    "rank": 8,
+    "id": "msg_8e0ae6a5960fa582e2f95c6f1cda927ebe0850b46ef1b5f1dde4c9e0fe90d3f8",
+    "score": 59.68642,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:28,179 [myid:2] - INFO  [WorkerReceiver[myid=2]:FastLeaderElection$Messenger$WorkerReceiver@340] - WorkerReceiver is down"
+  },
+  {
+    "rank": 9,
+    "id": "msg_c28cecccc7f1ec8c7e2864d8f133acd4fa9dc767c15cb7dc9eb61e37954c8627",
+    "score": 59.68642,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:28,215 [myid:2] - INFO  [WorkerReceiver[myid=2]:FastLeaderElection$Messenger$WorkerReceiver@340] - WorkerReceiver is down"
+  },
+  {
+    "rank": 10,
+    "id": "msg_f4e8f96c00b5baac4c6afd1a5de94e2fcc81682e41e04fa6c12db379d30fb672",
+    "score": 59.68642,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2679",
+    "source": "jira",
+    "origin_doc_id": "f80099b8a1c8d3b9b01888a0baebea8a993aceb62820abd3e76324607186c8dc",
+    "snippet": "2017-01-24 22:12:30,502 [myid:1] - INFO  [WorkerReceiver[myid=1]:FastLeaderElection$Messenger$WorkerReceiver@340] - WorkerReceiver is down"
+  }
+]

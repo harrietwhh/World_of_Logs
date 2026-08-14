@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_34bc2a40171061743ddcfa7c97b63650e56a6e955f49657cf57270a270707aee",
+    "score": 32.86028,
+    "link": "https://stackoverflow.com/questions/27791518",
+    "source": "so",
+    "origin_doc_id": "13f60ce5272027172e813d919495c057bbbcc8efdf42378b32d3faabc2daa028",
+    "snippet": "20152015-01-06 11:56:23,194 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Created MRAppMaster for application appattempt_1420510526926_0002_000001"
+  },
+  {
+    "rank": 2,
+    "id": "msg_706098800e04e8be3dbea57de8e1b9129020d1bf9aedc5e3c2020619a288e44d",
+    "score": 32.86028,
+    "link": "https://stackoverflow.com/questions/32181346",
+    "source": "so",
+    "origin_doc_id": "7d2aaa4949d211dd4a22be6c923f5372816058da70f0a87a125e259184196cea",
+    "snippet": "2015-08-24 13:28:35,504 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Created MRAppMaster for application appattempt_1439978375936_0238_000001"
+  },
+  {
+    "rank": 3,
+    "id": "msg_f71f959525cb847137d098196b366355b041da2e74323dd5cfae74bdda1ef35e",
+    "score": 32.86028,
+    "link": "https://issues.apache.org/jira/browse/HADOOP-15059",
+    "source": "jira",
+    "origin_doc_id": "004f24f2c6e927028bff0913f10ebc8ccfd3eb89719a832e8053f9ff025efac8",
+    "snippet": "2017-11-21 12:42:50,911 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Created MRAppMaster for application appattempt_1511295641738_0003_000001"
+  },
+  {
+    "rank": 4,
+    "id": "msg_afefd3dcc8cb23decbcfb08865168de0cd8aaef61ccfc4ba84d3a234e791ff96",
+    "score": 32.86028,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6212",
+    "source": "jira",
+    "origin_doc_id": "1da2479ebe0ad7035798ba3374daf983f383bc4143c6891811ce66503c1c73ef",
+    "snippet": "2015-01-08 01:52:01,599 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Created MRAppMaster for application appattempt_1420648881673_0004_000001"
+  },
+  {
+    "rank": 5,
+    "id": "msg_835f6e63da0de5adeeca53415f39b2bcc4aab7ab02b0a7509c35e539fa55d516",
+    "score": 32.86028,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:26,139 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Created MRAppMaster for application appattempt_1468834620182_0036_000001"
+  },
+  {
+    "rank": 6,
+    "id": "msg_79bfc6561c14604c8bb957408509aa9c6b5cfac664850a1c2fdd266d6ca726df",
+    "score": 32.86028,
+    "link": "https://stackoverflow.com/questions/37901108",
+    "source": "so",
+    "origin_doc_id": "ba4709846428a88a72c537c1e133da9fc3b8b42e8df5d88af3cadf791144e27f",
+    "snippet": "2016-06-18 19:14:32,273 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Created MRAppMaster for application appattempt_1466277178029_0001_000002"
+  },
+  {
+    "rank": 7,
+    "id": "msg_018ada3a0d084b9777e7c43e5221ff3d39198dfb486d95ead0d1ad6d969c905f",
+    "score": 32.86028,
+    "link": "https://stackoverflow.com/questions/42709101",
+    "source": "so",
+    "origin_doc_id": "7926d071614830af005cb93ffd1ee33fa5c2b44055702f09f6f1d7b2853f3524",
+    "snippet": "2017-03-10 02:13:11,788 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Created MRAppMaster for application appattempt_1488810291982_0019_000002"
+  },
+  {
+    "rank": 8,
+    "id": "msg_1bae8e8ed1a10933c00dc3a815d907d33729b199c584c42a248af96c71fd3374",
+    "score": 32.86028,
+    "link": "https://stackoverflow.com/questions/38636098",
+    "source": "so",
+    "origin_doc_id": "9318367fcbc2c40b660e17fab0aa1e8fe2306e78defe61c6e968c15ecc55af72",
+    "snippet": "2016-07-28 20:12:48,465 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Created MRAppMaster for application appattempt_1468985268798_44020_000002"
+  },
+  {
+    "rank": 9,
+    "id": "msg_70e4e6fa24672b0193ddc8e3084c1d0a205ddcb30f0a75d10f5e9b76536b8886",
+    "score": 32.86028,
+    "link": "https://stackoverflow.com/questions/29794000",
+    "source": "so",
+    "origin_doc_id": "b2b6accf2e9bd6400863988f926cb70c192011d434639a3390da76e633858c2b",
+    "snippet": "2015-04-24 20:34:59,164 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Created MRAppMaster for application appattempt_1429792550440_0035_000002"
+  },
+  {
+    "rank": 10,
+    "id": "msg_56963b88758a6dcfacee5621d5862a64531ed1ee61176aecd290cce385519d9e",
+    "score": 32.86028,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:23,720 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Created MRAppMaster for application appattempt_1428324095255_0006_000001"
+  }
+]

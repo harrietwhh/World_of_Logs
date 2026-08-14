@@ -1,0 +1,31 @@
+{
+  "case_id": "1",
+  "summary_raw": "[\"Receiving block src\",\"blockMap updated\",\"Verification succeded\"]",
+  "summary_items": [
+    "Receiving block src",
+    "blockMap updated",
+    "Verification succeded"
+  ],
+  "group_logs_lines": [
+    "INFO dfs.DataNode$DataXceiver : Receiving block blk_5601669058330320847 src : /10.251.195.70 : 48457 dest : /10.251.195.70 : 50010",
+    "INFO dfs.DataNode$DataXceiver : Receiving block blk_-4075499163837453137 src : /10.251.26.131 : 45632 dest : /10.251.26.131 : 50010",
+    "INFO dfs.DataNode$DataXceiver : Receiving block blk_5601669058330320847 src : /10.250.19.16 : 43287 dest : /10.250.19.16 : 50010",
+    "INFO dfs.DataNode$DataXceiver : Receiving block blk_7859981215820637753 src : /10.250.15.240 : 52245 dest : /10.250.15.240 : 50010",
+    "INFO dfs.DataNode$PacketResponder : PacketResponder 2 for block blk_9209516605233823360 terminating",
+    "INFO dfs.DataNode$PacketResponder : Received block blk_9209516605233823360 of size 67108864 from /10.251.197.226",
+    "INFO dfs.DataNode$DataXceiver : Receiving block blk_3000947732958086582 src : /10.251.197.226 : 55233 dest : /10.251.197.226 : 50010",
+    "INFO dfs.DataBlockScanner : Verification succeeded for blk_3091099087150179177",
+    "INFO dfs.DataBlockScanner : Verification succeeded for blk_-4513615671112005170",
+    "INFO dfs.DataBlockScanner : Verification succeeded for blk_-8423623469019218108",
+    "INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.67.113 : 50010 is added to blk_-6955905015982651412 size 67108864",
+    "INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_000190_0/part-00190. blk_6236687718597980422",
+    "INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.121.224 : 50010 is added to blk_-1886295043152742159 size 67108864",
+    "INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.199.19 : 50010 is added to blk_3698016797273149670 size 67108864",
+    "INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.42.84 : 50010 is added to blk_-8884264645385711172 size 67108864",
+    "INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_000322_0/part-00322. blk_-2618613639588073189",
+    "INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.105.189 : 50010 is added to blk_5085472776226767513 size 67108864",
+    "INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.71.68 : 50010 is added to blk_-1886295043152742159 size 67108864",
+    "INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_000006_0/part-00006. blk_-2581653693275159104",
+    "INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.65.203 : 50010 is added to blk_194626696959819525 size 67108864"
+  ]
+}

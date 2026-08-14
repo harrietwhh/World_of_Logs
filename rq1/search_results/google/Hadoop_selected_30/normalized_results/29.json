@@ -1,0 +1,161 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "LinkedBlockingQueue (Java Platform SE 8 )",
+    "link": "https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/LinkedBlockingQueue.html",
+    "displayed_link": "https://docs.oracle.com › api › java › util › concurrent",
+    "snippet": "An optionally-bounded blocking queue based on linked nodes. This queue orders elements FIFO (first-in-first-out). The head of the queue is that element that ...",
+    "snippet_highlighted_words": [
+      "queue",
+      "queue",
+      "queue"
+    ],
+    "source": "Oracle Help Center",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "LinkedBlockingQueue Class in Java",
+    "link": "https://www.geeksforgeeks.org/java/linkedblockingqueue-class-in-java/",
+    "displayed_link": "https://www.geeksforgeeks.org › java › linkedblocking...",
+    "snippet": "The LinkedBlockingQueue in Java is part of the java.util.concurrent package and implements the BlockingQueue interface.",
+    "snippet_highlighted_words": [
+      "LinkedBlockingQueue",
+      "Java",
+      "java",
+      "util",
+      "concurrent",
+      "BlockingQueue"
+    ],
+    "source": "GeeksforGeeks",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "How to use LinkedBlockingQueue to run tasks - java",
+    "link": "https://stackoverflow.com/questions/28480732/how-to-use-linkedblockingqueue-to-run-tasks",
+    "displayed_link": "1 answer · 11 years ago",
+    "snippet": "The task queue in your SimplePoolThread is a blocking queue. As soon as it starts it executes queue.take(). Take is a blocking operation.",
+    "snippet_highlighted_words": [
+      "queue",
+      "queue",
+      "queue"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "LinkedBlockingQueue vs ConcurrentLinkedQueue",
+    "link": "https://www.baeldung.com/java-queue-linkedblocking-concurrentlinked",
+    "displayed_link": "https://www.baeldung.com › Java › Java Collections",
+    "snippet": "Unlike a LinkedBlockingQueue, a ConcurrentLinkedQueue is a non-blocking queue. Thus, it does not block a thread once the queue is empty. Instead ...",
+    "snippet_highlighted_words": [
+      "LinkedBlockingQueue",
+      "ConcurrentLinkedQueue",
+      "queue",
+      "queue"
+    ],
+    "source": "Baeldung",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "LinkedBlockingQueue Class (Java.Util.Concurrent)",
+    "link": "https://learn.microsoft.com/en-us/dotnet/api/java.util.concurrent.linkedblockingqueue?view=net-android-35.0",
+    "displayed_link": "https://learn.microsoft.com › ... › API browser",
+    "snippet": "An optionally-bounded BlockingQueue blocking queue based on linked nodes. This queue orders elements FIFO (first-in-first-out). The <em>head</em> of the queue ...",
+    "snippet_highlighted_words": [
+      "BlockingQueue",
+      "queue",
+      "queue",
+      "queue"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Java LinkedBlockingQueue (+ Code Examples)",
+    "link": "https://www.happycoders.eu/algorithms/linkedblockingqueue-java/",
+    "displayed_link": "https://www.happycoders.eu › algorithms › linkedblocki...",
+    "snippet": "This part of the tutorial series is about LinkedBlockingQueue. You will get to know its unique characteristics and see how to use this queue with an example.",
+    "snippet_highlighted_words": [
+      "LinkedBlockingQueue"
+    ],
+    "source": "HappyCoders.eu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Understanding BlockingQueue in Java: A Must-Know for ...",
+    "link": "https://medium.com/@aswinsrinivasan2004/understanding-blockingqueue-in-java-a-must-know-for-multithreading-265a5dcb0854",
+    "displayed_link": "1 year ago",
+    "snippet": "BlockingQueue is a powerful tool that simplifies thread synchronization and communication. It helps avoid unnecessary polling and busy-waiting, ...",
+    "snippet_highlighted_words": [
+      "BlockingQueue"
+    ],
+    "source": "Medium · Aswinsrinivasan",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Which concurrent Queue implementation should I use in ...",
+    "link": "https://stackoverflow.com/questions/1301691/which-concurrent-queue-implementation-should-i-use-in-java",
+    "displayed_link": "6 answers · 16 years ago",
+    "snippet": "LinkedBlockingQueue will take a lock before any modification. So your offer calls would block until they get the lock. You can use the offer ...",
+    "snippet_highlighted_words": [
+      "LinkedBlockingQueue",
+      "calls",
+      "use"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "LinkedBlockingQueue | API reference",
+    "link": "https://developer.android.com/reference/java/util/concurrent/LinkedBlockingQueue",
+    "displayed_link": "https://developer.android.com › java › util › concurrent",
+    "snippet": "An optionally-bounded blocking queue based on linked nodes. This queue orders elements FIFO (first-in-first-out). The head of the queue is that element that ...",
+    "snippet_highlighted_words": [
+      "queue",
+      "queue",
+      "queue"
+    ],
+    "source": "Android Developers",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "LinkedBlockingQueue.java - openjdk-mirror/jdk7u-jdk",
+    "link": "https://github.com/openjdk-mirror/jdk7u-jdk/blob/master/src/share/classes/java/util/concurrent/LinkedBlockingQueue.java",
+    "displayed_link": "https://github.com › src › classes › java › util › concurrent",
+    "snippet": "* Creates a {@code LinkedBlockingQueue} with the given (fixed) capacity. *. * @param capacity the capacity of this queue. * @ ...",
+    "snippet_highlighted_words": [
+      "Creates a {@code LinkedBlockingQueue"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

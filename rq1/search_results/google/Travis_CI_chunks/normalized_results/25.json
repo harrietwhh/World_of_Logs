@@ -1,0 +1,166 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Client with TLS configuration not working on version v22. ...",
+    "link": "https://github.com/twitter/finagle/issues/965",
+    "displayed_link": "https://github.com › twitter › finagle › issues",
+    "snippet": "Finagle client cannot call https server from version 22.12.0 onwards. This issue is also present on the latest version of 24.x.x I am using ...",
+    "snippet_highlighted_words": [
+      "Finagle client",
+      "server",
+      "0",
+      "the"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Unsuccessful Responses — Finagle 24.2.0 documentation",
+    "link": "https://twitter.github.io/finagle/guide/UnsuccessfulResponses.html",
+    "displayed_link": "https://twitter.github.io › finagle › guide › Unsuccessful...",
+    "snippet": "There are many ways a service can respond to a request unsuccessfully. Some, but not all of those responses may be due to exceptional cases.",
+    "snippet_highlighted_words": [
+      "but"
+    ],
+    "source": "Twitter Open Source",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "SSlconfiguration exception on finagle upgrade",
+    "link": "https://stackoverflow.com/questions/72226122/sslconfiguration-exception-on-finagle-upgrade",
+    "displayed_link": "1 answer · 3 years ago",
+    "snippet": "You're getting an \"Application protocol not supported\" exception from finagle during a setup of a secure socket (SSL/TLS) connection.",
+    "snippet_highlighted_words": [
+      "exception",
+      "finagle",
+      "TLS",
+      "connection"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "com.twitter.finagle.Http not work · Issue #955",
+    "link": "https://github.com/twitter/finagle/issues/955",
+    "displayed_link": "https://github.com › twitter › finagle › issues",
+    "snippet": "Describe the bug I try to call a simple endpoint, which I can do easily in another library and using curl, but with finagle http I get: ...",
+    "snippet_highlighted_words": [
+      "the",
+      "but",
+      "finagle"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Using client certificates with twitter finagle - scala",
+    "link": "https://stackoverflow.com/questions/30729704/using-client-certificates-with-twitter-finagle",
+    "displayed_link": "1 answer · 10 years ago",
+    "snippet": "I want to create client to send requests from Scala code. MyClient is object containing needed passwords and paths. To do so I create SSLContext.",
+    "snippet_highlighted_words": [
+      "client",
+      "Scala"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "FAQ — Finagle 24.2.0 documentation",
+    "link": "https://twitter.github.io/finagle/guide/FAQ.html",
+    "displayed_link": "https://twitter.github.io › finagle › guide › FAQ",
+    "snippet": "When a client connected to a Finagle server disconnects, the server raises a cancellation interrupt on the pending Future. This is done to conserve resources ...",
+    "snippet_highlighted_words": [
+      "client",
+      "Finagle server",
+      "the server",
+      "the"
+    ],
+    "source": "Twitter Open Source",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Netty warning when consuming TLS transport Finagle ...",
+    "link": "https://github.com/twitter/finagle/issues/700",
+    "displayed_link": "https://github.com › twitter › finagle › issues",
+    "snippet": "Finagle version: 18.6.0 Netty creates a log with level 'warn' when trying to consume a TLS server with HTTP. This can't be disabled and ...",
+    "snippet_highlighted_words": [
+      "Finagle",
+      "0",
+      "TLS server"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Github co-pilot unresponsive throws ssl error",
+    "link": "https://developercommunity.visualstudio.com/t/Github-co-pilot-unresponsive-throws-ssl/11033465?sort=active",
+    "displayed_link": "https://developercommunity.visualstudio.com › Github-...",
+    "snippet": "GitHub Copilot inside Visual Studio fails to connect and returns a TLS certificate error. When trying to use Copilot Chat or any Copilot feature ...",
+    "snippet_highlighted_words": [
+      "fails",
+      "connect",
+      "TLS",
+      "error"
+    ],
+    "source": "Visual Studio Developer Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Finagle client doesn't deal well with servers that \"Connection",
+    "link": "https://github.com/twitter/finagle/issues/167",
+    "displayed_link": "https://github.com › twitter › finagle › issues",
+    "snippet": "The issue happens when Finagle sees the connection close event after the connection has already been reused.",
+    "snippet_highlighted_words": [
+      "The",
+      "Finagle",
+      "the connection",
+      "the connection"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "\"schannel: failed to receive handshake, SSL/TLS ...",
+    "link": "https://support.atlassian.com/bitbucket-cloud/kb/schannel-failed-to-receive-handshake-ssl-tls-connection-failed-error-while-using-git-clone-pull-push-or-fetch/",
+    "displayed_link": "https://support.atlassian.com › bitbucket-cloud › schanne...",
+    "snippet": "The error message \"schannel: failed to receive handshake, SSL/TLS connection failed\" usually occurs when there is an issue with the SSL/TLS handshake process.",
+    "snippet_highlighted_words": [
+      "The error",
+      "failed",
+      "TLS connection failed",
+      "the",
+      "TLS"
+    ],
+    "source": "Atlassian Support",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

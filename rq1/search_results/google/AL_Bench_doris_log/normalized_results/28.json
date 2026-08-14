@@ -1,0 +1,133 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Thread: External Tables and Parallel Queries Not Working?",
+    "link": "https://www.dbasupport.com/forums/showthread.php?55598-External-Tables-and-Parallel-Queries-Not-Working",
+    "displayed_link": "https://www.dbasupport.com › forums › showthread › 5...",
+    "snippet": "The Oracle server is an 8-CPU machine with 16GB RAM and has no usage at this point (aside from my tests). So, I set up the external table below.",
+    "snippet_highlighted_words": [
+      "no",
+      "set",
+      "external table"
+    ],
+    "source": "dbasupport.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Missing data in Synapse external tables : r/AZURE",
+    "link": "https://www.reddit.com/r/AZURE/comments/xj2c7u/missing_data_in_synapse_external_tables/",
+    "displayed_link": "6 comments · 3 years ago",
+    "snippet": "I have a setup, where a Pipeline is extracting data from an SQL-server and writing it to parquet files, which is then read by external tables in a Synapse ...",
+    "snippet_highlighted_words": [
+      "it",
+      "external tables"
+    ],
+    "source": "Reddit · r/AZURE",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "External Table throws error when queried in Synapse ...",
+    "link": "https://learn.microsoft.com/en-us/answers/questions/709248/external-table-throws-error-when-queried-in-synaps",
+    "displayed_link": "https://learn.microsoft.com › en-us › answers › questions",
+    "snippet": "The issue is FIRT_ROW=2 leaves out the header row and I don't have a header row in my CSV, so there is a data loss of one row * The number of csv files.",
+    "snippet_highlighted_words": [
+      "there",
+      "one"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Unable to connect external table on Serverless SQL Pool",
+    "link": "https://stackoverflow.com/questions/77972541/unable-to-connect-external-table-on-serverless-sql-pool",
+    "displayed_link": "1 answer · 2 years ago",
+    "snippet": "You can follow the procedure below to read data from the serverless SQL pool using a Python script in a Synapse notebook.",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Serverless SQL pool self-help - Azure Synapse Analytics",
+    "link": "https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/resources-self-help-sql-on-demand",
+    "displayed_link": "https://learn.microsoft.com › ... › Synapse Analytics",
+    "snippet": "This article contains information about how to troubleshoot the most frequent problems with serverless SQL pool in Azure Synapse Analytics.",
+    "snippet_highlighted_words": [],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Synapse Analytics Serverless can't Resolve this Query",
+    "link": "https://vinnypaluch.medium.com/synapse-analytics-serverless-cant-resolve-this-query-2525143e01fe",
+    "displayed_link": "5 likes · 3 years ago",
+    "snippet": "We are using Views, instead of External Tables, to expose the Parquet Files in Synapse as External Tables don't expose the Partitioning columns.",
+    "snippet_highlighted_words": [
+      "We",
+      "External Tables",
+      "as External Tables"
+    ],
+    "source": "Medium · Vinny Paluch",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "bug #18556: parallel operation error during create table as ...",
+    "link": "https://github.com/BharatDBPG/BharatDBMS-PG/issues/3104",
+    "displayed_link": "https://github.com › BharatDBMS-PG › issues",
+    "snippet": "Subject: BUG #18556: Parallel operation error during CREATE TABLE AS statement Date: 2024-07-26 19:07:52 Sender: PG Bug reporting form ...",
+    "snippet_highlighted_words": [
+      "Parallel",
+      "TABLE AS"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "PDML disabled because single fragment or non partitioned ...",
+    "link": "https://forums.oracle.com/ords/apexds/post/pdml-disabled-because-single-fragment-or-non-partitioned-ta-1164",
+    "displayed_link": "https://forums.oracle.com › ords › apexds › post › pdml-...",
+    "snippet": "Hi,I execute a parallel update. The column updated is not indexed.With the DBMS_SQL_MONITOR I see that the UPDATE use the parallel for the ...",
+    "snippet_highlighted_words": [
+      "parallel",
+      "parallel"
+    ],
+    "source": "Oracle Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Can't insert external table data into table in synapse ...",
+    "link": "https://stackoverflow.com/questions/77439553/cant-insert-external-table-data-into-table-in-synapse-dedicated-sql-pool",
+    "displayed_link": "2 answers · 2 years ago",
+    "snippet": "I'm trying to create an external table, and a dedicated table, and then insert the external table into the dedicated table but I keep getting the following ...",
+    "snippet_highlighted_words": [
+      "external table",
+      "external table"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

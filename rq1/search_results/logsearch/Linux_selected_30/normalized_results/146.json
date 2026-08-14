@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_b45161f1ce6a474fcfcf56525cdad5ac18c4c5524488bb4342a4b366613deb6b",
+    "score": 13.2124605,
+    "link": "https://github.com/couchbase/sync_gateway/issues/750",
+    "source": "github",
+    "origin_doc_id": "88ad87f6ff8b17d31fbd5da6f43f4420b04901ba293089f733778dd810b69b3c",
+    "snippet": "2015/06/17 02:51:30 go-couchbase: call to ViewCustom(\"sync_housekeeping\", \"all_docs\") in github.com/couchbase/sync_gateway/db.(*Database).ForEachDocID took 569.839157ms\n\nmissing 50 ids: mismatch-restart-two_0, mismatch-restart-two_1, mismatch-restart-two_10, mismatch-restart-two_11, mismatch-restart-two_12, mismatch-restart-two_13, mismatch-restart-two_14, mismatch-restart-two_15, mismatch-restart-two_16, mismatch-restart-two_17, mismatch-restart-two_18, mismatch-restart-two_19, mismatch-restart-two_2, mismatch-restart-two_20, mismatch-restart-two_21, mismatch-restart-two_22, mismatch-restart-two_23, mismatch-restart-two_24, mismatch-restart-two_25, mismatch-restart-two_26, mismatch-restart-two_27, mismatch-restart-two_28, mismatch-restart-two_29, mismatch-restart-two_3, mismatch-restart-two_30, mismatch-restart-two_31, mismatch-restart-two_32, mismatch-restart-two_33, mismatch-restart-two_34, mismatch-restart-two_35, mismatch-restart-two_36, mismatch-restart-two_37, mismatch-restart-two_38, mismatch-restart-two_39, mismatch-restart-two_4, mismatch-restart-two_40, mismatch-restart-two_41, mismatch-restart-two_42, mismatch-restart-two_43, mismatch-restart-two_44, mismatch-restart-two_45, mismatch-restart-two_46, mismatch-restart-two_47, mismatch-restart-two_48, mismatch-restart-two_49, mismatch-restart-two_5, mismatch-restart-two_6, mismatch-restart-two_7, mismatch-restart-two_8, mismatch-restart-two_9\nduplicate change ids 0, ids: \nduplicate change seqs 0, seqs:  \n # verify"
+  },
+  {
+    "rank": 2,
+    "id": "msg_bb1d8800e1fc151959dbdb5dec09288cc5620fcdb36eb1752f20b6defe7fc6d2",
+    "score": 13.170207,
+    "link": "https://github.com/factor/factor/issues/2310",
+    "source": "github",
+    "origin_doc_id": "279607a554057bc51eb52bd67a6d5855182515711c8cf4d0fbb96512c080c090",
+    "snippet": "--- Entering M\\ condition compute-restarts \n error T{ condition f ~source-file-error~ ~array~ ~continuation~ } \n --- Entering M\\ condition compute-restarts \n error T{ condition f ~source-file-error~ ~array~ ~continuation~ } \n --- Entering M\\ condition compute-restarts \n error T{ condition f ~source-file-error~ ~array~ ~continuation~ } \n --- Entering M\\ condition compute-restarts \nerror T{ condition f ~source-file-error~ ~array~ ~continuation~ }\n--- Entering M\\ condition compute-restarts\nerror T{ condition f ~source-file-error~ ~array~ ~continuation~ }\n--- Entering M\\ condition compute-restarts\nerror T{ condition f ~source-file-error~ ~array~ ~continuation~ }\n--- Entering M\\ condition compute-restarts\nerror T{ condition f ~no-word-error~ ~array~ ~continuation~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ ~restart~...\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ ~restart~...\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ ~restart~...\n--- Entering M\\ condition compute-restarts\nerror T{ condition f ~source-file-error~ ~array~ ~continuation~ }\n--- Entering M\\ condition compute-restarts\nerror T{ condition f ~source-file-error~ ~array~ ~continuation~ }\n--- Entering M\\ condition compute-restarts\nerror T{ condition f ~source-file-error~ ~array~ ~continuation~ }\n--- Entering M\\ condition compute-restarts\nerror T{ condition f ~source-file-error~ ~array~ ~continuation~ }\n--- Entering M\\ condition compute-restarts\nerror T{ condition f ~source-file-error~ ~array~ ~continuation~ }\n--- Entering M\\ condition compute-restarts\nerror T{ condition f ~source-file-error~ ~array~ ~continuation~ }\n--- Entering M\\ condition compute-restarts\nerror T{ condition f ~no-word-error~ ~array~ ~continuation~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ ~restart~...\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ ~restart~...\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ ~restart~...\n--- Entering M\\ condition compute-restarts\n[Truncated]\nseq { ~restart~ ~restart~ ~restart~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ }\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ ~restart~...\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ ~restart~...\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ ~restart~...\n--- Leaving M\\ condition compute-restarts\nseq { ~restart~ ~restart~ ~restart~ ~restart~ ~restart~ ~restart~...\n--- Entering <restart-list>\ndebugger T{ debugger f ~array~ ~array~ f f f ~array~ f t f f f ~array~...\n--- Leaving <restart-list>\ngadget T{ table f ~array~ ~array~ f f f ~array~ f t f f f ~array~..."
+  },
+  {
+    "rank": 3,
+    "id": "msg_63240161c98b573f1a31ad1942bab90c074e2d7afbcc36de9855ac0096f4d3aa",
+    "score": 13.087566,
+    "link": "https://github.com/PurpleI2P/i2pd/issues/912",
+    "source": "github",
+    "origin_doc_id": "73d9f6bc7d563fa1ebd4407291d05b90819ca89accbca925f717cec86cd60254",
+    "snippet": "Performing daemon restart... \n Do Restart pressed. \n Do Restart pressed. \n Do Restart pressed. \n Do Restart pressed. \n Daemon restarted.\nPerforming daemon restart...\nDo Restart pressed.\nDo Restart pressed.\nDo Restart pressed.\nDo Restart pressed.\nDo Restart pressed.\nDo Restart pressed.\nDo Restart pressed.\nDo Restart pressed.\nDo Restart pressed.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted.\nPerforming daemon restart...\nDaemon restarted."
+  },
+  {
+    "rank": 4,
+    "id": "msg_8f3d82dfee2b0db54956d0ded71a0122836411e9b3b0b5750aa53ea468f372e5",
+    "score": 12.815634,
+    "link": "https://github.com/Clozure/ccl/pull/197",
+    "source": "github",
+    "origin_doc_id": "219cf95944ce85e98a34d088313d8c915f0b38742c65f2022422800276721e66",
+    "snippet": "Doing 21904 pending tests of 21904 tests total. \n Invoking restart: #<RESTART CL-TEST::FOO #x143C15D> \n Invoking restart: #<RESTART CL-TEST::FOO #x143C15D> \n Invoking restart: #<RESTART CL-TEST::FOO #x143C15D> \n Invoking restart: #<RESTART CL-TEST::FOO #x143C15D> \n Invoking restart: #<RESTART CL-TEST::FOO #x143C15D>"
+  },
+  {
+    "rank": 5,
+    "id": "msg_992c0c3df882ef2074de16e193a642c894674a222ecf9b23d774af6dfce53aff",
+    "score": 12.75485,
+    "link": "https://stackoverflow.com/questions/64284625",
+    "source": "so",
+    "origin_doc_id": "73f0d30131b6c2d1e71eaee6f8cf795e9a5831c650da42a10e006c48272a68f8",
+    "snippet": "start\n17:55 restart (55 min)\n18:51 restart (54 min)\n19:47 restart (56 min)\n\n3:06 start\n4:47 restart (90 min)\n5:38 restart (50 min)\n6:34 restart (56 min\n7:25 restart (50 min)\n8:21 restart (55 min)\nrestart (95 min) \n 10:48 restart (50 min) \n 11:39 restart (51 min) \n 12:30 restart (51 min) \n 13:26 restart (56 min) \n 14:22 restart (56 min) \n 15:13 restart (51 min)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_88452de7ef470aa3197b190dc764b542c2e6d1dd5fdfbbc32f002cadde1c0ff0",
+    "score": 12.704554,
+    "link": "https://github.com/memcached/memcached/issues/631",
+    "source": "github",
+    "origin_doc_id": "4b5cd99c05e68ed8260eceb8effab69e141d0bd1029c42c6fcdc785d7383597d",
+    "snippet": "[restart] original memory base: [0x7f3efa000000] new base: [0x7f6aae000000] \n [restart] recovery start [1585252039.671657] \n [restart] recovery end [1585252039.699101] \n [restart] original memory base: [0x7f6aae000000] new base: [0x7f23697ff000] \n [restart] recovery start [1585252956.488862] \n [restart] recovery end [1585252956.511907] \n [restart] original memory base: [0x7f23697ff000] new base: [0x7ff8ba000000] \n[restart] recovery start [1585255237.732850]\n[restart] recovery end [1585255237.755548]\n[restart] original memory base: [0x7ff8ba000000] new base: [0x7fc23a000000]\n[restart] recovery start [1585257814.405464]\n[restart] recovery end [1585257814.429575]\n[restart] original memory base: [0x7fc23a000000] new base: [0x7f148e000000]\n[restart] recovery start [1585273940.600211]\n[restart] recovery end [1585273940.628340]\n[restart] original memory base: [0x7f148e000000] new base: [0x7f924e000000]\n[restart] recovery start [1585339638.593726]\n[restart] recovery end [1585339638.595926] \n [restart] no metadata save file, starting with a clean cache \n [restart] no metadata save file, starting with a clean cache \n ```"
+  },
+  {
+    "rank": 7,
+    "id": "msg_87a7ef956a78657b2d34777da584a709a6a59af649fc2d1df4ada7be6a674011",
+    "score": 12.67952,
+    "link": "https://stackoverflow.com/questions/16763884",
+    "source": "so",
+    "origin_doc_id": "84bd1a96301244f530a1313e9f6b1933556e3d985057a4947b1179dbbbe331d1",
+    "snippet": "CL-USER 29 : 1 > (compute-restarts) \n (#<RESTART ABORT 4020009EB3>       #<RESTART ABORT 4020009F53> \n  #<RESTART NIL 402000585B>         #<RESTART USE-VALUE 40200058DB> \n  #<RESTART STORE-VALUE 402000595B> #<RESTART ABORT 40200059DB> \n#<RESTART ABORT 4020005A7B>"
+  },
+  {
+    "rank": 8,
+    "id": "msg_f9dd48b099bc4685be3df2e5ebbaac43c25927a86f5323c1c445f9bff9f30f37",
+    "score": 12.673383,
+    "link": "https://stackoverflow.com/questions/24721676",
+    "source": "so",
+    "origin_doc_id": "b80c48e9fe5e953e33024d3906d38593710f8b9ac67a1767ecd441178fec8da7",
+    "snippet": "CONTINUATIONS> (restart)\n2\nCONTINUATIONS> (restart)\n3\nCONTINUATIONS> (restart)\n6\nCONTINUATIONS> (restart)\n7\nCONTINUATIONS> (restart)\n4\nvariable:"
+  },
+  {
+    "rank": 9,
+    "id": "msg_d9ddc738210e6ee7158fffb4f657d8cbe047cd4c049bcaf66fe118c7117991d1",
+    "score": 12.638494,
+    "link": "https://github.com/ufs-community/ufs-weather-model/issues/811",
+    "source": "github",
+    "origin_doc_id": "86905a3dfd4b5c005aae2ec4726568d1bb33d6959c383f3c8854421d7142ed16",
+    "snippet": "working dir  = /gpfs/dell2/ptmp/Dom.Heinzeller/FV3_RT/rt_10554/control_c48 \n Checking test 024 control_c48 results .... \n  Comparing sfcf000.nc .........OK \n  Comparing sfcf024.nc .........OK \n Comparing atmf000.nc .........OK\n Comparing atmf024.nc .........OK\n Comparing RESTART/coupler.res .........OK\n Comparing RESTART/fv_core.res.nc .........OK\n Comparing RESTART/fv_core.res.tile1.nc .........OK\n Comparing RESTART/fv_core.res.tile2.nc .........OK\n Comparing RESTART/fv_core.res.tile3.nc .........OK\n Comparing RESTART/fv_core.res.tile4.nc .........OK\n Comparing RESTART/fv_core.res.tile5.nc .........OK\n Comparing RESTART/fv_core.res.tile6.nc .........OK\n Comparing RESTART/fv_srf_wnd.res.tile1.nc .........OK\n Comparing RESTART/fv_srf_wnd.res.tile2.nc .........OK\n Comparing RESTART/fv_srf_wnd.res.tile3.nc .........OK\n Comparing RESTART/fv_srf_wnd.res.tile4.nc .........OK\n Comparing RESTART/fv_srf_wnd.res.tile5.nc .........OK\n Comparing RESTART/fv_srf_wnd.res.tile6.nc .........OK\n Comparing RESTART/fv_tracer.res.tile1.nc .........OK\n Comparing RESTART/fv_tracer.res.tile2.nc .........OK\n Comparing RESTART/fv_tracer.res.tile3.nc .........OK\n Comparing RESTART/fv_tracer.res.tile4.nc .........OK\n Comparing RESTART/fv_tracer.res.tile5.nc .........OK\n Comparing RESTART/fv_tracer.res.tile6.nc .........OK\n Comparing RESTART/phy_data.tile1.nc .........OK\n Comparing RESTART/phy_data.tile2.nc .........OK\n Comparing RESTART/phy_data.tile3.nc .........OK\n Comparing RESTART/phy_data.tile4.nc .........OK\n Comparing RESTART/phy_data.tile5.nc .........OK\n Comparing RESTART/phy_data.tile6.nc .........OK\n Comparing RESTART/sfc_data.tile1.nc .........OK\n Comparing RESTART/sfc_data.tile2.nc .........OK\n Comparing RESTART/sfc_data.tile3.nc .........OK \n  Comparing RESTART/sfc_data.tile4.nc .........OK \n  Comparing RESTART/sfc_data.tile5.nc .........OK \n  Comparing RESTART/sfc_data.tile6.nc .........OK \n [0] The total amount of wall time                        = 434.260632 \n Test 024 control_c48 PASS \n ```"
+  },
+  {
+    "rank": 10,
+    "id": "msg_297c9277afcf2ccfebc21f7e70438d23274944f95c3417c04dd7471c73fc11d4",
+    "score": 12.574941,
+    "link": "https://github.com/Clozure/ccl/pull/257",
+    "source": "github",
+    "origin_doc_id": "ac7924302ae3e1c7bed3dbc52aff6508be78382be73f2167971b97f512742030",
+    "snippet": "Invoking restart: #<RESTART CL-TEST::FOO #x133C12D>\nInvoking restart: #<RESTART CL-TEST::FOO #x133C12D>\nInvoking restart: #<RESTART CL-TEST::FOO #x133C12D>\nInvoking restart: #<RESTART CL-TEST::FOO #x133C12D>\nInvoking restart: #<RESTART CL-TEST::FOO #x133C12D>\n\n=============== All tests succeeded ===============\n\n(FUNCALL DO-TESTS :COMPILE COMPILE :VERBOSE VERBOSE :CATCH-ERRORS T)\ntook 153,454,653 microseconds (153.454650 seconds) to run."
+  }
+]

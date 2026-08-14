@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_f70a55960ee5028746e0662f39ee39774002dd52e713f31bbdfcdf774c0773b3",
+    "score": 167.08495,
+    "link": "https://github.com/spacetelescope/ci_watson/pull/29",
+    "source": "github",
+    "origin_doc_id": "b06fb6d93a32d04a08bfc5656bc09649b1df01b3e1936a6ffd3e70e4f2b7a8e4",
+    "snippet": "./ci_watson/plugin.py:40:9: E128 continuation line under-indented for visual indent \n ./ci_watson/plugin.py:41:9: E128 continuation line under-indented for visual indent \n ./ci_watson/plugin.py:42:9: E128 continuation line under-indented for visual indent \n./ci_watson/plugin.py:43:5: E124 closing bracket does not match visual indentation\n\n./ci_watson/plugin.py:46:9: E128 continuation line under-indented for visual indent\n\n./ci_watson/plugin.py:47:9: E128 continuation line under-indented for visual indent\n\n./ci_watson/plugin.py:48:9: E128 continuation line under-indented for visual indent\n\n./ci_watson/plugin.py:49:5: E124 closing bracket does not match visual indentation"
+  },
+  {
+    "rank": 2,
+    "id": "msg_db591a55b4fbe3834df014324379f08ac9203ef6990a9e1028b6a87224603ffa",
+    "score": 152.96324,
+    "link": "https://github.com/airspeed-velocity/asv/issues/1167",
+    "source": "github",
+    "origin_doc_id": "f7fb03b8d09b3f3e26135845d1f439a8c5364c3e3b244d6b65a83c1b21f8265a",
+    "snippet": "asv/extern/minify_json.py:45:23: E261 at least two spaces before inline comment\nasv/extern/minify_json.py:93:17: E128 continuation line under-indented for visual indent\nasv/extern/minify_json.py:94:13: E124 closing bracket does not match visual indentation\nasv/extern/minify_json.py:100:17: E128 continuation line under-indented for visual indent\nasv/extern/minify_json.py:101:13: E124 closing bracket does not match visual indentation\nasv/extern/minify_json.py:117:17: E128 continuation line under-indented for visual indent\nasv/extern/minify_json.py:118:13: E124 closing bracket does not match visual indentation\nasv/extern/minify_json.py:126:17: E128 continuation line under-indented for visual indent\nasv/extern/minify_json.py:127:13: E124 closing bracket does not match visual indentation\n```"
+  },
+  {
+    "rank": 3,
+    "id": "msg_88806e1de731d3b1e08c56bf640a7b384ee5e09a66082858a2f407f6cb885be8",
+    "score": 142.7375,
+    "link": "https://github.com/it-projects-llc/pos-addons/pull/631",
+    "source": "github",
+    "origin_doc_id": "fe7ad9307ac174282932d99689dd4dd5f74d6e0650a3c8390452d5e5107bdc30",
+    "snippet": "pos_debt_notebook/models.py:94:26: E128 continuation line under-indented for visual indent \n pos_debt_notebook/models.py:95:26: E128 continuation line under-indented for visual indent \n pos_debt_notebook/models.py:96:26: E128 continuation line under-indented for visual indent \n pos_debt_notebook/models.py:97:26: E128 continuation line under-indented for visual indent \n pos_debt_notebook/models.py:98:26: E124 closing bracket does not match visual indentation"
+  },
+  {
+    "rank": 4,
+    "id": "msg_baa6b26a2d3259bb06090dda9567c0f2ac271ad6503c33894bfa733504126804",
+    "score": 138.92546,
+    "link": "https://github.com/rosedu/wouso/issues/782",
+    "source": "github",
+    "origin_doc_id": "2a04a45bd49eca8551a0ab0a018e923e78b650e21a4175b5fc26172b75a6500e",
+    "snippet": "E302 expected 2 blank lines, found 1 \n models.py:41:38: E261 at least two spaces before inline comment \n models.py:48:80: E501 line too long (81 > 79 characters) \n models.py:66:9: E265 block comment should start with '# ' \n models.py:109:43: E261 at least two spaces before inline comment\nmodels.py:116:68: E703 statement ends with a semicolon\nmodels.py:126:13: E128 continuation line under-indented for visual indent\nmodels.py:127:13: E128 continuation line under-indented for visual indent\nmodels.py:128:13: E128 continuation line under-indented for visual indent\nmodels.py:129:9: E124 closing bracket does not match visual indentation\nmodels.py:131:13: E128 continuation line under-indented for visual indent\nmodels.py:132:13: E128 continuation line under-indented for visual indent\nmodels.py:133:13: E128 continuation line under-indented for visual indent\nmodels.py:134:9: E124 closing bracket does not match visual indentation\nmodels.py:144:30: E261 at least two spaces before inline comment\nmodels.py:144:31: E262 inline comment should start with '# ' \n ```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_8aabd30ba8375c3bcc265fa895c43643024ecb8e46792d8e916480b9a2ce33bb",
+    "score": 134.67418,
+    "link": "https://github.com/kwikteam/phy/pull/203",
+    "source": "github",
+    "origin_doc_id": "731a97d2d6d2833e6e2099b505ed91969757ee533fbc4eb6292501fc20d2251e",
+    "snippet": "phy/cluster/manual/session.py:491:32: E128 continuation line under-indented for visual indent \n phy/cluster/manual/session.py:492:32: E124 closing bracket does not match visual indentation"
+  },
+  {
+    "rank": 6,
+    "id": "msg_bad9a4bcabfd55a399ae2192f4932f5781a40b1dae38812da2ad459198454c5f",
+    "score": 133.3503,
+    "link": "https://github.com/InsightSoftwareConsortium/ITKPythonPackage/issues/108",
+    "source": "github",
+    "origin_doc_id": "2237b0505f7328288302b1316f014c7f685a9590b9a28e0ee2d77dcd14eb1714",
+    "snippet": "flake8 --ignore=E501,E402 \n ./windows_build_module_wheels.py:14:1: F401 'wheel_builder_utils.push_dir' imported but unused \n ./windows_build_module_wheels.py:17:1: E302 expected 2 blank lines, found 1 \n./windows_build_module_wheels.py:20:17: E126 continuation line over-indented for hanging indent\n./windows_build_module_wheels.py:37:13: F841 local variable 'source_path' is assigned to but never used\n./windows_build_module_wheels.py:59:1: E305 expected 2 blank lines after class or function definition, found 1\n./windows_build_wheels.py:110:13: E126 continuation line over-indented for hanging indent\n./windows_build_wheels.py:220:9: F821 undefined name 'python_executable'\n./update_python_version.py:27:5: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:112:25: W503 line break before binary operator\n./setup_py_configure.py:113:25: W503 line break before binary operator\n./setup_py_configure.py:148:9: E303 too many blank lines (2)\n./setup_py_configure.py:151:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:152:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:153:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:154:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:155:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:158:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:159:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:160:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:161:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:164:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:167:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:168:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:171:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:172:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:173:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:176:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:177:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:178:13: E128 continuation line under-indented for visual indent\n./setup_py_configure.py:217:17: E123 closing bracket does not match indentation of opening bracket's line\n./setup_py_configure.py:222:9: E123 closing bracket does not match indentation of opening bracket's line\n./setup_py_configure.py:279:9: E123 closing bracket does not match indentation of opening bracket's line\n./setup_py_configure.py:285:9: E123 closing bracket does not match indentation of opening bracket's line\n./setup_py_configure.py:305:1: E305 expected 2 blank lines after class or function definition, found 1\n./internal/windows_build_common.py:11:1: E302 expected 2 blank lines, found 1\n```"
+  },
+  {
+    "rank": 7,
+    "id": "msg_ca14e60daa0b43e0386471aef521fb3c55613264d9e68e746527bf306afdc44f",
+    "score": 130.7474,
+    "link": "https://github.com/PyCQA/flake8/issues/1051",
+    "source": "github",
+    "origin_doc_id": "b5bed973bd3b916da1b4b0e2bfa94bb37fcfd34af1c4c6041b2c3933a532b1b6",
+    "snippet": "$ /usr/local/bin/flake8 apps/myapp/mixins.py \n apps/myapp/mixins.py:0:1: C101 Coding magic comment not found \n apps/myapp/mixins.py:35:13: E128 continuation line under-indented for visual indent \n apps/myapp/mixins.py:38:13: E124 closing bracket does not match visual indentation \n apps/myapp/mixins.py:42:13: E124 closing bracket does not match visual indentation \n ```\n\n $ /usr/local/bin/flake8 apps/myapp/mixins.py \n /Users/me/project/apps/myapp/mixins.py:0:1: C101 Coding magic comment not found \n /Users/me/project/apps/myapp/mixins.py:35:13: E128 continuation line under-indented for visual indent \n /Users/me/project/apps/myapp/mixins.py:38:13: E124 closing bracket does not match visual indentation \n /Users/me/project/apps/myapp/mixins.py:42:13: E124 closing bracket does not match visual indentation"
+  },
+  {
+    "rank": 8,
+    "id": "msg_a8f5a2acb0898c90bf3b0e2b24ba1932426766697741a1af0c01afa7b4a718bb",
+    "score": 130.1917,
+    "link": "https://github.com/AIcrowd/real_robots/issues/3",
+    "source": "github",
+    "origin_doc_id": "951f5c806e430f1fac1103b5de1d6b54c737cbba06e3cdb4b5bf50389a25aeef",
+    "snippet": "E302 expected 2 blank lines, found 1 \n ./setup.py:41:80: E501 line too long (82 > 79 characters) \n ./real_robots/__init__.py:12:1: F401 '.evaluate.evaluate' imported but unused \n ./real_robots/__init__.py:15:5: E128 continuation line under-indented for visual indent \n ./real_robots/__init__.py:16:1: E124 closing bracket does not match visual indentation \n ./real_robots/__init__.py:19:5: E128 continuation line under-indented for visual indent \n ./real_robots/__init__.py:20:1: E124 closing bracket does not match visual indentation \nE302 expected 2 blank lines, found 1 \n ... \n ... \n and so on"
+  },
+  {
+    "rank": 9,
+    "id": "msg_dbd90a3d1024f1ab62a9ba8c3cd8decd6799dbdf9a9bdb1437e743ba781ca998",
+    "score": 127.1631,
+    "link": "https://github.com/zulip/zulip/pull/12041",
+    "source": "github",
+    "origin_doc_id": "74a70e5b65f384de71cdf58a22dd402e0af948a5f988183fe8725c26927a2324",
+    "snippet": "Apr 13 08:57:42 pep8      | zerver/lib/email_mirror.py:207:13: E128 continuation line under-indented for visual indent \n Apr 13 08:57:42 pep8      | zerver/lib/email_mirror.py:208:13: E128 continuation line under-indented for visual indent \n Apr 13 08:57:42 pep8      | zerver/lib/email_mirror.py:213:13: E128 continuation line under-indented for visual indent \n Apr 13 08:57:42 pep8      | zerver/lib/email_mirror.py:214:9: E124 closing bracket does not match visual indentation \n Apr 13 08:57:43 pep8      | zerver/tests/test_email_mirror.py:770:5: E303 too many blank lines (2)"
+  },
+  {
+    "rank": 10,
+    "id": "msg_88f3888504fdc27a3840a7fc8ea512c09c2f1b2fab19c1524cea9de4d3da7425",
+    "score": 126.42034,
+    "link": "https://github.com/dcos/dcos/pull/5175",
+    "source": "github",
+    "origin_doc_id": "96ab78d61c6e4db439689ba9741b513affffdb870c140405e66757fc0aa6f71a",
+    "snippet": "E124 closing bracket does not match visual indentation \t \n  E128 continuation line under-indented for visual indent \t2 failures in one build \n  E201 whitespace after '(' \t \n  E303 too many blank lines (2) \t \n  F401 'shutil' imported but unused  \n ```"
+  }
+]

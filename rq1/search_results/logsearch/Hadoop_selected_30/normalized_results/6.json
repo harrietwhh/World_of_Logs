@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_384ce87550111d74c4a6b80c4f395868f90b5dab1337c0c386fcb10ea966fd9d",
+    "score": 39.497948,
+    "link": "https://stackoverflow.com/questions/47511729",
+    "source": "so",
+    "origin_doc_id": "b4a1b9c3f3922260148ffdf9869d3488746b9100c4ecec98363c57d8b09678e8",
+    "snippet": "15:09:12 INFO mapred.LocalJobRunner: OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter"
+  },
+  {
+    "rank": 2,
+    "id": "msg_859269e14271282bed4a9a1b4ff034f554c21cda5ebce05e585f1e04db63933b",
+    "score": 38.10106,
+    "link": "https://stackoverflow.com/questions/24594698",
+    "source": "so",
+    "origin_doc_id": "84933bd1fe2731e34f69fb80a4a4a467eb5c2de9dfd16b099f5affd71f2e7aa3",
+    "snippet": "14/07/06 15:24:52 INFO mapred.LocalJobRunner: OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter"
+  },
+  {
+    "rank": 3,
+    "id": "msg_bb030280cc658217923c6b62ab5fffa53e7273e36d5fe4547aff1f189d712010",
+    "score": 38.10106,
+    "link": "https://stackoverflow.com/questions/33134196",
+    "source": "so",
+    "origin_doc_id": "974b5cbd20a89fa4ecc6a959ef48abdfdb3a7a0965ceb41270c283be3125f7c3",
+    "snippet": "15/10/14 15:41:20 INFO mapred.LocalJobRunner: OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter"
+  },
+  {
+    "rank": 4,
+    "id": "msg_859937204b048ef4c8f541620d2e958b55d0760a67aadcb0369377f0c690e506",
+    "score": 38.10106,
+    "link": "https://stackoverflow.com/questions/25696696",
+    "source": "so",
+    "origin_doc_id": "7420d9dac07b71b02e839bfa9b9ba4c2a5e19a7b668c9ba6dc5d1370eebffe61",
+    "snippet": "14/09/06 09:30:43 INFO mapred.LocalJobRunner: OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter"
+  },
+  {
+    "rank": 5,
+    "id": "msg_7ae59db713560f9609edbb03bc027bbace4ebe297f9afad0253659d26634f97c",
+    "score": 38.10106,
+    "link": "https://stackoverflow.com/questions/33998671",
+    "source": "so",
+    "origin_doc_id": "ec4778521c2cda4b7321869a6fe6107ec512ba3e1719b458273c3fd66eb7c3f7",
+    "snippet": "15/11/30 04:07:18 INFO mapred.LocalJobRunner: OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter"
+  },
+  {
+    "rank": 6,
+    "id": "msg_49d7f5c95f80886bad72dc1e7667b30ec0327a72266c739165f6b6b4384b0804",
+    "score": 38.10106,
+    "link": "https://stackoverflow.com/questions/32272133",
+    "source": "so",
+    "origin_doc_id": "69a4714f6b98f41f483dc30e42399c8d82b49fc9c36dfccc861d89f1cdfcd3d8",
+    "snippet": "15/08/28 15:21:11 INFO mapred.LocalJobRunner: OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter"
+  },
+  {
+    "rank": 7,
+    "id": "msg_3538a42417491931b3fe9d4fc3ddf30f93a812cbd1216eeaff3fc9fd813933ea",
+    "score": 38.10106,
+    "link": "https://stackoverflow.com/questions/23122744",
+    "source": "so",
+    "origin_doc_id": "bb1e2f5fd7cb5607674008d0d9b50ea73e330dc6908b2796d463b3b18fb40f8f",
+    "snippet": "14/04/16 20:35:46 INFO mapred.LocalJobRunner: OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter"
+  },
+  {
+    "rank": 8,
+    "id": "msg_83bc860617b4c765b96ec675895903a60a4a52fa9a674942aec2b97903949d02",
+    "score": 38.10106,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-7254",
+    "source": "jira",
+    "origin_doc_id": "3642fb6e4eab49f43601abe2d6838f95f510e1a20b2e6c9b7f3658c89cf84900",
+    "snippet": "2019-12-24 18:29:58,682 INFO mapred.LocalJobRunner: OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter"
+  },
+  {
+    "rank": 9,
+    "id": "msg_31866d6314ec27bbd397f14d20fe2c425527975626fc47110949666644f75e94",
+    "score": 38.10106,
+    "link": "https://stackoverflow.com/questions/21665544",
+    "source": "so",
+    "origin_doc_id": "5edb3679b8d51c6b1398fd1c363ad8cf658241c22ed951bd72c029e3a5979799",
+    "snippet": "14/02/08 16:36:08 INFO mapred.LocalJobRunner: OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter"
+  },
+  {
+    "rank": 10,
+    "id": "msg_80d775536d79667de5f61a15e6a278f9101d61b72f053ecb3e366cdf8a534afd",
+    "score": 38.10106,
+    "link": "https://stackoverflow.com/questions/36502239",
+    "source": "so",
+    "origin_doc_id": "8208a758261ba4d24c3cf9507a793dc1c44cf88991a6bc9955e80c318f0cbcc4",
+    "snippet": "16/04/08 16:50:42 INFO mapred.LocalJobRunner: OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter"
+  }
+]

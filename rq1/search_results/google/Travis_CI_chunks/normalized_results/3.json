@@ -1,0 +1,70 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "nn4.small2.v1.t7 Incorrect Layer Error · Issue #349",
+    "link": "https://github.com/cmusatyalab/openface/issues/349",
+    "displayed_link": "https://github.com › cmusatyalab › openface › issues",
+    "snippet": "Context of the issue. I'm getting discrepancies on your nn4.small2.v1.t7 model related to the Inception(3a) layer. The actual model posted ...",
+    "snippet_highlighted_words": [
+      "nn4",
+      "small2",
+      "v1",
+      "actual"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Issue #26 · cmusatyalab/openface - Broken Pipe",
+    "link": "https://github.com/cmusatyalab/openface/issues/26",
+    "displayed_link": "https://github.com › cmusatyalab › openface › issues",
+    "snippet": "It looks like the model is failing to load. Can you make sure the checksums match? openface(master)$ md5sum models/{dlib/*.dat,openface/*.{pkl, ...",
+    "snippet_highlighted_words": [
+      "is",
+      "Can",
+      "match",
+      "openface",
+      "md5sum",
+      "openface",
+      "pkl"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "File CRC __________ did not match expected value of",
+    "link": "https://www.reddit.com/r/QuestPiracy/comments/1ga60td/how_to_fix_modsbeforefriday_error_file_crc_did/",
+    "displayed_link": "7 comments · 1 year ago",
+    "snippet": "While trying to mod Beat Saber with ModsBeforeFriday it gave me this error: File CRC 2380184429 did not match expected value of 1659620081.",
+    "snippet_highlighted_words": [
+      "trying",
+      "error",
+      "File",
+      "did not match expected"
+    ],
+    "source": "Reddit · r/QuestPiracy",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "MD5 checksum of download file does not match the one on ...",
+    "link": "https://github.com/pytorch/vision/issues/8338",
+    "displayed_link": "https://github.com › pytorch › vision › issues",
+    "snippet": "This most likely means that the download triggered an unhandled API response by GDrive. Please report this to torchvision at https://github.com/ ...",
+    "snippet_highlighted_words": [
+      "Please"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

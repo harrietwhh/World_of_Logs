@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_f22b63fbae43ce2035b21fe49e74150cb338d0f2eab66ebce7ff57b5a7305315",
+    "score": 53.022133,
+    "link": "https://github.com/jamf/NetSUS/issues/74",
+    "source": "github",
+    "origin_doc_id": "9c4d0e8493058a2e6f258bb986884e5037547dd8768c8300756afbb811cb27b7",
+    "snippet": "`DHCPREQUEST for 10.126.97.224 from 00:3e:e1:c2:39:ee via 10.126.96.1: unknown lease 10.126.97.224."
+  },
+  {
+    "rank": 2,
+    "id": "msg_f7d9ba19b33612cbe79fc92ac5801209484408454bfb7173eb40929a75aac416",
+    "score": 41.909725,
+    "link": "https://stackoverflow.com/questions/48181992",
+    "source": "so",
+    "origin_doc_id": "c732038dbcde8fa94042029cd1cc5719f336a232a92678072d61c6705b4b9d05",
+    "snippet": "Dec 15 09:57:17 6con-dhcp-01 dhcpd: DHCPREQUEST for 103.26.222.234 from 14:91:82:ab:4d:32 via eth1"
+  },
+  {
+    "rank": 3,
+    "id": "msg_a0d1bb66eabc29fa9a7743859818ff385a57a91710f0212dc85c71e986f85d44",
+    "score": 41.806396,
+    "link": "https://github.com/pfelk/pfelk/issues/246",
+    "source": "github",
+    "origin_doc_id": "9868b0a6bc9556e8beb0381a92bf8352c706c4ce26217aafc0d8e9e272bc29bc",
+    "snippet": "<190>Jan  3 12:36:27 dhcpd: DHCPACK on 192.168.1.17 to 00:00:00:00:00:00 via re0 \n <190>Jan  3 12:36:27 dhcpd: DHCPACK on 192.168.1.17 to 00:00:00:00:00:00 via re0 \n <190>Jan  3 12:36:27 dhcpd: DHCPREQUEST for 192.168.1.17 from 00:00:00:00:00:00 via re0 \n <190>Jan  3 12:36:27 dhcpd: DHCPREQUEST for 192.168.1.17 from 00:00:00:00:00:00 via re0 \n <190>Jan  3 12:36:17 dhcpd: DHCPREQUEST for 192.168.1.108 from 00:00:00:00:00:00 via re0 \n <190>Jan  3 12:36:17 dhcpd: DHCPACK on 192.168.1.108 to 00:00:00:00:00:00 via re0 \n <190>Jan  3 12:36:17 dhcpd: DHCPREQUEST for 192.168.1.108 from 00:00:00:00:00:00 via re0 \n<190>Jan  3 12:36:17 dhcpd: DHCPACK on 192.168.1.108 to 00:00:00:00:00:00 via re0\n<187>Jan  3 12:36:17 dhcpd: uid lease 192.168.1.223 for client 00:00:00:00:00:00 is duplicate on 192.168.1.0/24\n<187>Jan  3 12:36:17 dhcpd: uid lease 192.168.1.223 for client 00:00:00:00:00:00 is duplicate on 192.168.1.0/24\n<190>Jan  3 12:35:20 dhcpd: DHCPREQUEST for 192.168.1.109 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:35:20 dhcpd:DHCPREQUEST for 192.168.1.109 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:35:20 dhcpd: DHCPACK on 192.168.1.109 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:35:20 dhcpd: DHCPACK on 192.168.1.109 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:34:49 dhcpd: DHCPACK on 192.168.1.102 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:34:49 dhcpd: DHCPACK on 192.168.1.102 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:34:49 dhcpd: DHCPREQUEST for 192.168.1.102 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:34:49 dhcpd: DHCPREQUEST for 192.168.1.102 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:30:54 dhcpd: DHCPREQUEST for 192.168.1.117 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:30:54 dhcpd: DHCPACK on 192.168.1.117 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:30:54 dhcpd: DHCPREQUEST for 192.168.1.117 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:30:54 dhcpd: DHCPACK on 192.168.1.117 to 00:00:00:00:00:00 via re0\n<187>Jan  3 12:30:54 dhcpd: uid lease 192.168.1.229 for client 00:00:00:00:00:00 is duplicate on 192.168.1.0/24\n<187>Jan  3 12:30:54 dhcpd: uid lease 192.168.1.229 for client 00:00:00:00:00:00 is duplicate on 192.168.1.0/24\n<190>Jan  3 12:30:10 dhcpd: DHCPREQUEST for 192.168.1.110 from 00:05:cd:7a:a0:06 via re0\n<190>Jan  3 12:30:10 dhcpd: DHCPREQUEST for 192.168.1.110 from 00:05:cd:7a:a0:06 via re0\n<190>Jan  3 12:30:10 dhcpd: DHCPACK on 192.168.1.110 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:30:10 dhcpd: DHCPACK on 192.168.1.110 to 00:00:00:00:00:00 via re0\n<187>Jan  3 12:30:10 dhcpd: uid lease 192.168.1.226 for client 00:00:00:00:00:00 is duplicate on 192.168.1.0/24\n<187>Jan  3 12:30:10 dhcpd: uid lease 192.168.1.226 for client 00:00:00:00:00:00 is duplicate on 192.168.1.0/24\n<190>Jan  3 12:27:05 dhcpd: DHCPACK on 192.168.1.162 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:27:05 dhcpd: DHCPACK on 192.168.1.162 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:27:05 dhcpd: DHCPREQUEST for 192.168.1.162 (192.168.1.1) from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:27:05 dhcpd: DHCPREQUEST for 192.168.1.162 (192.168.1.1) from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:01:09 dhcpd: DHCPREQUEST for 192.168.1.18 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:01:09 dhcpd: DHCPREQUEST for 192.168.1.18 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:01:09 dhcpd: DHCPACK on 192.168.1.18 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:01:09 dhcpd: DHCPACK on 192.168.1.18 to 00:00:00:00:00:00 via re0\n<190>Jan  3 11:58:48 dhcpd: DHCPREQUEST for 192.168.1.195 from 00:00:00:00:00:00 via re0\n``"
+  },
+  {
+    "rank": 4,
+    "id": "msg_7dd3d627234c04650aa9157a305da49b44ac210e0b97d3920186ec3e3521dbc0",
+    "score": 38.56525,
+    "link": "https://github.com/jpetazzo/pipework/issues/151",
+    "source": "github",
+    "origin_doc_id": "130211a8ba7f1b8bd98160f6f499379587e008226794297d5f92d032b28fc1a4",
+    "snippet": "For info, please visit https://www.isc.org/software/dhcp/\nexecve (/sbin/dhclient-script, ...): No such file or directory\nListening on LPF/eth1/a2:ab:bd:27:14:d5\nSending on   LPF/eth1/a2:ab:bd:27:14:d5\nSending on   Socket/fallback\nDHCPREQUEST on eth1 to 255.255.255.255 port 67\nsend_packet: Network is down\ndhclient.c:2248: Failed to send 300 byte long packet over eth1 interface.\nreceive_packet failed on eth1: Network is down\n\nexecve (/sbin/dhclient-script, ...): No such file or directory\nListening on LPF/eth1/06:e3:86:35:ef:e0\nSending on   LPF/eth1/06:e3:86:35:ef:e0\nSending on   Socket/fallback\nDHCPDISCOVER on eth1 to 255.255.255.255 port 67 interval 4\nDHCPREQUEST on eth1 to 255.255.255.255 port 67\nDHCPOFFER from 192.168.2.1\nDHCPACK from 192.168.2.1\nexecve (/sbin/dhclient-script, ...): No such file or directory\nbound to 192.168.2.65 -- renewal in 3068 seconds.\n++ cat /var/run/dhclient.683.pid\n+ kill 730\n+ rm /var/run/dhclient.683.pid\n+ '[' dhclient = dhcpcd ']'\n+ installed arping\n+ command -v arping\n+ echo 'Warning: arping not found; interface may not be immediately reachable'\nWarning: arping not found; interface may not be immediately reachable\n+ rm -f /var/run/netns/683\n1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default \n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1/128 scope host \n       valid_lft forever preferred_lft forever\n6: eth1@if2: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN group default \n    link/ether 06:e3:86:35:ef:e0 brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::4e3:86ff:fe35:efe0/64 scope link \n       valid_lft forever preferred_lft forever"
+  },
+  {
+    "rank": 5,
+    "id": "msg_8846d63b83ec24ba49af5e5cdf4f71bfcf796cf241389555ff2360ae230a1eac",
+    "score": 35.22359,
+    "link": "https://stackoverflow.com/questions/48181992",
+    "source": "so",
+    "origin_doc_id": "c732038dbcde8fa94042029cd1cc5719f336a232a92678072d61c6705b4b9d05",
+    "snippet": "Date = Dec 15  \n Time = 09:57:17 \n IP Address = 103.26.222.234 \n Mac Address = 14:91:82:ab:4d:32  \nDec 15 09:57:17 6con-dhcp-01 dhcpd: DHCPREQUEST for 103.26.222.234 from 14:91:82:ab:4d:32 via eth1"
+  },
+  {
+    "rank": 6,
+    "id": "msg_f4294f9a0d4cbbcdd919df9c6836dce13f70c33e7a8b99eccb6c92ac44c4e494",
+    "score": 35.10223,
+    "link": "https://github.com/pfelk/pfelk/issues/229",
+    "source": "github",
+    "origin_doc_id": "2894d22aa74ff986f087cfa41518a806f9c9577a00ca1e8dd4b649d51af8f849",
+    "snippet": "<190>Dec 23 10:39:26 firewall.something.dev dhcpd[68124]: DHCPREQUEST for 172.22.33.100 from f0:9f:c2:00:00:00 via igb1 \n ```"
+  },
+  {
+    "rank": 7,
+    "id": "msg_02106443d76ea9166b26c122ce7e96a16f878429b51c4c94203eac8d2d8bac14",
+    "score": 34.773743,
+    "link": "https://github.com/pfelk/pfelk/issues/284",
+    "source": "github",
+    "origin_doc_id": "49fefefa507a867f67474c7610255387a6a82e885ab336929ccb0eaa37e2c7f8",
+    "snippet": "8 13:33:50 firewall.domain.com dhcpd[44757]: DHCPREQUEST for 192.168.200.41 from 00:4c:e3:01:aa:ff via igb1_vlan500`"
+  },
+  {
+    "rank": 8,
+    "id": "msg_f43ba50f1f843bc0ec6399c5fd705cc1732ac5648155c0013b710599cb929902",
+    "score": 32.95934,
+    "link": "https://github.com/rancher/os/issues/2992",
+    "source": "github",
+    "origin_doc_id": "19335059471a81cf9f4a169af9cdfb52ca3fa251add2585687d36dddff24d58c",
+    "snippet": "13:19:05 dhcp01 dhcpd[789]: DHCPREQUEST for xxx.xxx.141.242 (xxx.xxx.141.10) from 00:50:56:90:a5:75 (rancher) via ens192"
+  },
+  {
+    "rank": 9,
+    "id": "msg_736f0f659e8224e5c585392194394203a166abf9b3dd2ae18a83e898580c5d01",
+    "score": 32.95934,
+    "link": "https://github.com/rancher/os/issues/2992",
+    "source": "github",
+    "origin_doc_id": "19335059471a81cf9f4a169af9cdfb52ca3fa251add2585687d36dddff24d58c",
+    "snippet": "14:27:20 dhcp01 dhcpd[789]: DHCPREQUEST for xxx.xxx.141.136 (xxx.xxx.141.10) from 00:50:56:90:a5:75 (rancher) via ens192"
+  },
+  {
+    "rank": 10,
+    "id": "msg_a2d5a9c96faee143c721bcb9494bd2ed60605f3737123378f014c5b8406b4592",
+    "score": 32.95934,
+    "link": "https://github.com/rancher/rancher/issues/25339",
+    "source": "github",
+    "origin_doc_id": "2e05f6f8e5b12be790b2364bd8f618292bb43cf7332c3bc5585020edf4f75677",
+    "snippet": "13:19:05 dhcp01 dhcpd[789]: DHCPREQUEST for xxx.xxx.141.242 (xxx.xxx.141.10) from 00:50:56:90:a5:75 (rancher) via ens192"
+  }
+]

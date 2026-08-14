@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_194f5ac209676e6d4f9774a553c5b783591e7150018f54af48598405eb6c3aa7",
+    "score": 67.84631,
+    "link": "https://stackoverflow.com/questions/3111206",
+    "source": "so",
+    "origin_doc_id": "c919e88d13338117efce18f08580f565785d06211bd17181916a67e5e8b3c046",
+    "snippet": "Note: \" git remote \" ( man )  rename failed to rename a remote without fetch refspec,\n\n fatal: could not unset 'remote.foo.fetch'"
+  },
+  {
+    "rank": 2,
+    "id": "msg_d9af60a8825478ab25559b2618ae8cf19a5f62bea69d63631e11fea555ce5679",
+    "score": 61.59307,
+    "link": "https://github.com/raxod502/heroku-buildpack-git-lfs/issues/7",
+    "source": "github",
+    "origin_doc_id": "957b70511ed04214a74a8d2323457ca490d73f72b7ae7410030d7e3548e9060b",
+    "snippet": "15:44:47\nremote:        man/git-lfs-post-merge.1.html\nremote:        man/git-lfs-env.1\nremote:        man/git-lfs-uninstall.1.html\nremote:        man/git-lfs-push.1.html\nremote:        man/git-lfs-lock.1\nremote:        man/git-lfs-clean.1.html\nremote:        man/git-lfs-smudge.1\nremote:        man/git-lfs-install.1.html\nremote:        man/git-lfs-install.1\nremote:        man/git-lfs-locks.1.html\nremote:        man/git-lfs.1.html\nremote:        man/git-lfs-prune.1\nremote:        man/git-lfs-post-checkout.1.html\nremote:        man/git-lfs-smudge.1.html\nremote:        man/git-lfs-untrack.1\nremote:        man/git-lfs-locks.1\nremote:        man/git-lfs-migrate.1.html\nremote:        man/git-lfs-env.1.html\nremote:        man/git-lfs-fsck.1\nremote:        man/git-lfs-migrate.1\nremote:        man/git-lfs-ls-files.1.html\nremote:        man/git-lfs-post-commit.1\nremote:        man/git-lfs-ext.1\nremote:        man/git-lfs-status.1.html\nremote:        man/git-lfs-fetch.1\nremote:        man/git-lfs-pull.1\nremote:        man/git-lfs-untrack.1.html\nremote:        man/git-lfs-prune.1.html\nremote:        man/git-lfs-ls-files.1\nremote:        man/git-lfs-pre-push.1.html\nremote:        man/git-lfs.1\nremote:        man/git-lfs-pointer.1\nremote:        man/git-lfs-post-commit.1.html\nremote:        man/git-lfs-track.1.html\nremote:        man/git-lfs-logs.1.html\nremote:        man/git-lfs-uninstall.1\nremote:        man/git-lfs-config.5\nremote:        man/git-lfs-update.1.html\nremote:        man/git-lfs-update.1\nremote:        man/git-lfs-clone.1\nremote:        man/git-lfs-pointer.1.html\nremote:        man/git-lfs-checkout.1.html\nremote:        man/git-lfs-post-merge.1\nremote:        man/git-lfs-clone.1.html\nremote:        man/git-lfs-post-checkout.1\nremote:        man/git-lfs-config.5.html\nremote:        man/git-lfs-fsck.1.html\nremote:        man/git-lfs-status.1\nremote:        man/git-lfs-unlock.1.html\nremote:        man/git-lfs-filter-process.1\nremote:        man/git-lfs-lock.1.html\nremote:        man/git-lfs-ext.1.html\nremote:        man/git-lfs-push.1\nremote:        man/git-lfs-pre-push.1\nremote:        man/git-lfs-checkout.1\nremote:        man/git-lfs-filter-process.1.html\nremote:        man/git-lfs-pull.1.html\nremote:        man/git-lfs-unlock.1\nremote:        man/git-lfs-logs.1\nremote:        git-lfs\nremote:        install.sh\nremote:        /tmp/codon/tmp/buildpacks/de37e887844785a1126d230ea56f2f216b506471\nremote: -----> Download Git LFS assets\nremote:        /tmp/build_a43e709d /tmp/codon/tmp/buildpacks/de37e887844785a1126d230ea56f2f216b506471\nremote:        git version 2.25.1\nremote:        git-lfs/2.13.3 (GitHub; linux amd64; go 1.16.2; git a5e65851)\nremote:        Initialized empty Git repository in /tmp/build_a43e709d/.git/\nremote: From https://github.com/username_0/api-pneumoniacheck\nremote:  * [new branch]      main       -> origin/main\nremote: fatal: Could not parse object 'kgfhvu9qnh3mr6eel97y6fq2hezzol8z'.\nremote:  !     Push rejected, failed to compile Git LFS app.\nremote:\nremote:  !     Push failed\nremote: Verifying deploy...\nremote:\nremote: !       Push rejected to image-api-sahal.\nremote:\nTo https://git.heroku.com/image-api-sahal.git\n ! [remote rejected] master -> master (pre-receive hook declined)\nerror: failed to push some refs to 'https://git.heroku.com/image-api-sahal.git'`"
+  },
+  {
+    "rank": 3,
+    "id": "msg_97870321b8f45d984d8a177881f75bd67281cc3ab7d81207db7a8187d69f4ebf",
+    "score": 59.13868,
+    "link": "https://github.com/NixOS/nixpkgs/pull/36676",
+    "source": "github",
+    "origin_doc_id": "6ceae9b23c56f4e706c6f7b74953fad9e8f37fbb25183fb7d9deb299fa90e6de",
+    "snippet": "Manifying 1 pod document \n Installing /nix/store/jd3ls2d3z0szzyg524v151b438p0q1kn-perl-rename-1.9/share/man/man1/rename.1 \n Installing /nix/store/jd3ls2d3z0szzyg524v151b438p0q1kn-perl-rename-1.9/bin/rename \n post-installation\ngzipping man pages under /nix/store/jd3ls2d3z0szzyg524v151b438p0q1kn-perl-rename-1.9/share/man/ \n strip is /nix/store/4sdh09gmvl15cy0zb6i7mbvxh5syz206-cctools-binutils-darwin/bin/strip \n stripping (with command strip and flags -S) in /nix/store/jd3ls2d3z0szzyg524v151b438p0q1kn-perl-rename-1.9/lib  /nix/store/jd3ls2d3z0szzyg524v151b438p0q1kn-perl-rename-1.9/bin \n patching script interpreter paths in /nix/store/jd3ls2d3z0szzyg524v151b438p0q1kn-perl-rename-1.9 \n /nix/store/jd3ls2d3z0szzyg524v151b438p0q1kn-perl-rename-1.9 \n ```"
+  },
+  {
+    "rank": 4,
+    "id": "msg_8a893e34f1c2396f64cdae8b24006ea399dba32be78055581d0044cb1fbe938e",
+    "score": 58.601257,
+    "link": "https://github.com/apjanke/ronn-ng/issues/25",
+    "source": "github",
+    "origin_doc_id": "40e7acced13bc0800060446c679114f22ed59980869a1f145b62a9fa54f0ebcf",
+    "snippet": "ronn  -r --pipe < docs/man/git-lfs-filter-process.1.ronn > man/git-lfs-filter-process.1\nronn  -r --pipe < docs/man/git-lfs-fsck.1.ronn > man/git-lfs-fsck.1\nronn  -r --pipe < docs/man/git-lfs-install.1.ronn > man/git-lfs-install.1\nronn  -r --pipe < docs/man/git-lfs-lock.1.ronn > man/git-lfs-lock.1\nronn  -r --pipe < docs/man/git-lfs-locks.1.ronn > man/git-lfs-locks.1\nronn  -r --pipe < docs/man/git-lfs-logs.1.ronn > man/git-lfs-logs.1\nronn  -r --pipe < docs/man/git-lfs-ls-files.1.ronn > man/git-lfs-ls-files.1\nwarn: unrecognized inline tag: [\"h2\"]\nronn  -r --pipe < docs/man/git-lfs-migrate.1.ronn > man/git-lfs-migrate.1\nronn  -r --pipe < docs/man/git-lfs-pointer.1.ronn > man/git-lfs-pointer.1\nronn  -r --pipe < docs/man/git-lfs-post-checkout.1.ronn > man/git-lfs-post-checkout.1\nronn  -r --pipe < docs/man/git-lfs-post-merge.1.ronn > man/git-lfs-post-merge.1\nronn  -r --pipe < docs/man/git-lfs-pre-push.1.ronn > man/git-lfs-pre-push.1\nronn  -r --pipe < docs/man/git-lfs-prune.1.ronn > man/git-lfs-prune.1\nronn  -r --pipe < docs/man/git-lfs-pull.1.ronn > man/git-lfs-pull.1\nronn  -r --pipe < docs/man/git-lfs-push.1.ronn > man/git-lfs-push.1\nronn  -r --pipe < docs/man/git-lfs-smudge.1.ronn > man/git-lfs-smudge.1\nronn  -r --pipe < docs/man/git-lfs-status.1.ronn > man/git-lfs-status.1\nronn  -r --pipe < docs/man/git-lfs-track.1.ronn > man/git-lfs-track.1\nwarn: unrecognized inline tag: [\"p\"]\nwarn: unrecognized inline tag: [\"p\"]\nwarn: unrecognized inline tag: [\"p\"]\nronn  -r --pipe < docs/man/git-lfs-uninstall.1.ronn > man/git-lfs-uninstall.1\nronn  -r --pipe < docs/man/git-lfs-unlock.1.ronn > man/git-lfs-unlock.1\nronn  -r --pipe < docs/man/git-lfs-untrack.1.ronn > man/git-lfs-untrack.1\nwarn: unrecognized inline tag: [\"p\"]\nronn  -r --pipe < docs/man/git-lfs-update.1.ronn > man/git-lfs-update.1\nronn  -r --pipe < docs/man/git-lfs.1.ronn > man/git-lfs.1\n```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_bc58658f8d100f0e2196183d4c0a038e9e19aee1e7e282e6c1a61c893c622a94",
+    "score": 57.299805,
+    "link": "https://github.com/NixOS/nixpkgs/pull/37646",
+    "source": "github",
+    "origin_doc_id": "81808a1e5bd7b717b4c34cc78552c52d69d5fd3b42153421bd149544cffcdfd6",
+    "snippet": "Attempted: gitAndTools.gitRemoteGcrypt \n <details><summary>Partial log (click to expand)</summary><p> \n ``` \n stripping (with command strip and flags -S) in /nix/store/26b1k118zy09v3nvfx4hrxnk4hj34qnv-git-remote-gcrypt-1.0.3/bin \n patching script interpreter paths in /nix/store/26b1k118zy09v3nvfx4hrxnk4hj34qnv-git-remote-gcrypt-1.0.3 \n /nix/store/26b1k118zy09v3nvfx4hrxnk4hj34qnv-git-remote-gcrypt-1.0.3/bin/.git-remote-gcrypt-wrapped: interpreter directive changed from \"/bin/sh\" to \"/nix/store/3gg2p6n4kv2f0lsxd41f5iz1ivkbzyzr-bash-4.4-p19/bin/sh\" \nchecking for references to /build in /nix/store/26b1k118zy09v3nvfx4hrxnk4hj34qnv-git-remote-gcrypt-1.0.3... \n shrinking RPATHs of ELF executables and libraries in /nix/store/7nlpmp77psm8079ipxszw22gybklgcfn-git-remote-gcrypt-1.0.3-man \n gzipping man pages under /nix/store/7nlpmp77psm8079ipxszw22gybklgcfn-git-remote-gcrypt-1.0.3-man/share/man/ \n strip is /nix/store/3zq400fri5dv7d30lpxlqm2v9y1iis6j-binutils-2.28.1/bin/strip \n patching script interpreter paths in /nix/store/7nlpmp77psm8079ipxszw22gybklgcfn-git-remote-gcrypt-1.0.3-man \n checking for references to /build in /nix/store/7nlpmp77psm8079ipxszw22gybklgcfn-git-remote-gcrypt-1.0.3-man... \n /nix/store/26b1k118zy09v3nvfx4hrxnk4hj34qnv-git-remote-gcrypt-1.0.3 \n ```"
+  },
+  {
+    "rank": 6,
+    "id": "msg_7218ce365c0c0c6337f56176c4840ac116ad072ee205578ff795100356810d20",
+    "score": 55.868114,
+    "link": "https://stackoverflow.com/questions/46200711",
+    "source": "so",
+    "origin_doc_id": "48967aa4dbb6ba9a678733e65ab26fe358de83270a0d0883859cc61a41555933",
+    "snippet": "mv static/libslatec.a /usr/local/lib; \\ \n mv dynamic/libslatec.so /usr/local/lib; ldconfig; \\ \n mv *.1 /usr/local/man/man1 \n mv: rename static/libslatec.a to /usr/local/lib/libslatec.a: No such   file or directory \n mv: rename dynamic/libslatec.so to /usr/local/lib/libslatec.so: No such file or directory \n/bin/sh: ldconfig: command not found \n mv: rename *.1 to /usr/local/man/man1/*.1: No such file or directory \n make: *** [install] Error 1"
+  },
+  {
+    "rank": 7,
+    "id": "msg_f4aa6160bc44e487a5e3cff4824b5ffd1d5977f894b994f49ef7b2ee7c1a269a",
+    "score": 55.035873,
+    "link": "https://github.com/NixOS/nixpkgs/pull/37646",
+    "source": "github",
+    "origin_doc_id": "81808a1e5bd7b717b4c34cc78552c52d69d5fd3b42153421bd149544cffcdfd6",
+    "snippet": "Success on x86_64-linux [(full log)](https://logs.nix.ci/?key=nixos/nixpkgs.37646&attempt_id=68b832e1-166c-4835-9dae-87815c09d1a0) \n Attempted: gitAndTools.gitRemoteGcrypt \n <details><summary>Partial log (click to expand)</summary><p> \n ``` \n stripping (with command strip and flags -S) in /nix/store/y4rmp0i9bslzh2izpjhl9glklwhd9ypn-git-remote-gcrypt-1.0.3/bin \n patching script interpreter paths in /nix/store/y4rmp0i9bslzh2izpjhl9glklwhd9ypn-git-remote-gcrypt-1.0.3 \n /nix/store/y4rmp0i9bslzh2izpjhl9glklwhd9ypn-git-remote-gcrypt-1.0.3/bin/.git-remote-gcrypt-wrapped: interpreter directive changed from \"/bin/sh\" to \"/nix/store/q1g0rl8zfmz7r371fp5p42p4acmv297d-bash-4.4-p19/bin/sh\" \nchecking for references to /tmp/nix-build-git-remote-gcrypt-1.0.3.drv-0 in /nix/store/y4rmp0i9bslzh2izpjhl9glklwhd9ypn-git-remote-gcrypt-1.0.3... \n shrinking RPATHs of ELF executables and libraries in /nix/store/y53i9y6lz8n342vwbhrh8h4y5l12q0k3-git-remote-gcrypt-1.0.3-man \n gzipping man pages under /nix/store/y53i9y6lz8n342vwbhrh8h4y5l12q0k3-git-remote-gcrypt-1.0.3-man/share/man/ \n strip is /nix/store/fzcs0fn6bb04m82frhlb78nc03ny3w55-binutils-2.28.1/bin/strip \n patching script interpreter paths in /nix/store/y53i9y6lz8n342vwbhrh8h4y5l12q0k3-git-remote-gcrypt-1.0.3-man \n checking for references to /tmp/nix-build-git-remote-gcrypt-1.0.3.drv-0 in /nix/store/y53i9y6lz8n342vwbhrh8h4y5l12q0k3-git-remote-gcrypt-1.0.3-man... \n /nix/store/y4rmp0i9bslzh2izpjhl9glklwhd9ypn-git-remote-gcrypt-1.0.3"
+  },
+  {
+    "rank": 8,
+    "id": "msg_57be8497239656ad1bd603a8d179e9bf0491ac162993592e5b3a5372f6465b6a",
+    "score": 53.37143,
+    "link": "https://github.com/NixOS/nixpkgs/pull/37646",
+    "source": "github",
+    "origin_doc_id": "81808a1e5bd7b717b4c34cc78552c52d69d5fd3b42153421bd149544cffcdfd6",
+    "snippet": "Success on x86_64-darwin [(full log)](https://logs.nix.ci/?key=nixos/nixpkgs.37646&attempt_id=9c72f42a-5903-499b-8f7c-88cd394a3908) \n Attempted: gitAndTools.gitRemoteGcrypt \n <details><summary>Partial log (click to expand)</summary><p>\nstripping (with command strip and flags -S) in /nix/store/b2xsi65fq1n2bbk51rirkhbld71hys8d-git-remote-gcrypt-1.0.3/bin \n patching script interpreter paths in /nix/store/b2xsi65fq1n2bbk51rirkhbld71hys8d-git-remote-gcrypt-1.0.3 \n /nix/store/b2xsi65fq1n2bbk51rirkhbld71hys8d-git-remote-gcrypt-1.0.3/bin/.git-remote-gcrypt-wrapped: interpreter directive changed from \"/bin/sh\" to \"/nix/store/8hdxjv3m14jgdnawi5l0mz2h59qkk2g9-bash-4.4-p19/bin/sh\" \n gzipping man pages under /nix/store/abgps4yfr7y1b3bpmwzqf0a0l0cm2i1x-git-remote-gcrypt-1.0.3-man/share/man/ \n strip is /nix/store/vb6mgjqgd9h11nbv60fvrp1ls9nxck2y-cctools-binutils-darwin/bin/strip \n patching script interpreter paths in /nix/store/abgps4yfr7y1b3bpmwzqf0a0l0cm2i1x-git-remote-gcrypt-1.0.3-man \n /nix/store/b2xsi65fq1n2bbk51rirkhbld71hys8d-git-remote-gcrypt-1.0.3 \n ```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_cabf304b33945410473113335e65d760e97fedef918cde3290af98c97f84e950",
+    "score": 52.449547,
+    "link": "https://github.com/Debian/debiman/issues/119",
+    "source": "github",
+    "origin_doc_id": "67511720cac1f52206ef6d5a406e1c2b4ecf2215515900a9a9ad6fe33be2c45f",
+    "snippet": "2019/10/22 06:54:53 globalview.go:283: key=\"buster/rename\", link={/usr/share/man/man1/rename.1.gz /usr/share/man/man1/file-rename.1p.gz}, latest = &{main pool/main/r/rename/rename_1.10-1_all.deb rename rename [libfile-rename-perl ] 1.10-1 buster}"
+  },
+  {
+    "rank": 10,
+    "id": "msg_88005478e43fd587f7939a636b941d98a0e4a2ae021ee739dd58212332852e90",
+    "score": 51.607166,
+    "link": "https://github.com/apjanke/ronn-ng/issues/24",
+    "source": "github",
+    "origin_doc_id": "b0a8b04339546fdaede513ecd9807531fae62e1480929c27b0ef67dada6599e1",
+    "snippet": "testing-ronn-ng \n ronn  -r --pipe < docs/man/git-lfs-checkout.1.ronn > man/git-lfs-checkout.1 \n ronn  -r --pipe < docs/man/git-lfs-clean.1.ronn > man/git-lfs-clean.1 \n [...] \n ronn  -r --pipe < docs/man/git-lfs.1.ronn > man/git-lfs.1 \n Traceback (most recent call last):\n\t23: from /usr/local/Cellar/ronn-ng/0.8.0/libexec/bin/ronn:23:in `<main>' \n \t22: from /usr/local/Cellar/ronn-ng/0.8.0/libexec/bin/ronn:23:in `load' \n [...] \n \t 2: from /usr/local/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.1/lib/nokogiri/xml/node_set.rb:238:in `block in each' \n \t 1: from /usr/local/Cellar/ronn-ng/0.8.0/libexec/gems/ronn-ng-0.8.0/lib/ronn/roff.rb:88:in `block in block_filter' \n /usr/local/Cellar/ronn-ng/0.8.0/libexec/gems/ronn-ng-0.8.0/lib/ronn/roff.rb:165:in `block_filter': undefined method `position' for #<Nokogiri::XML::Element:0x00007fdf5990f048> (NoMethodError) \n make: *** [man/git-lfs.1] Error 1 \n ```"
+  }
+]

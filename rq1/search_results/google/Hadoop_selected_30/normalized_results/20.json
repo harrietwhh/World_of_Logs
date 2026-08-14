@@ -1,0 +1,153 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Package org.apache.hadoop.metrics2",
+    "link": "https://hadoop.apache.org/docs/current/api/org/apache/hadoop/metrics2/package-summary.html",
+    "displayed_link": "https://hadoop.apache.org › metrics2 › package-summary",
+    "snippet": "DefaultMetricsSystem would try to load hadoop-metrics2-[prefix].properties first, and if not found, try the default hadoop-metrics2.properties in the class ...",
+    "snippet_highlighted_words": [
+      "load",
+      "properties",
+      "hadoop",
+      "metrics2",
+      "properties"
+    ],
+    "source": "Apache Hadoop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Configuring Hadoop nodes",
+    "link": "https://www.ibm.com/docs/en/capmp/8.1.3?topic=agent-configuring-hadoop-nodes",
+    "displayed_link": "https://www.ibm.com › docs › capmp",
+    "snippet": "At a Hadoop node, run the following command to locate the hadoop-metrics2.properties file: find / -name hadoop-metrics2.properties*. For example, if the ...",
+    "snippet_highlighted_words": [
+      "find / -name hadoop-metrics2.properties"
+    ],
+    "source": "IBM",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "phoenix/bin/hadoop-metrics2-phoenix.properties at master",
+    "link": "https://github.com/apache/phoenix/blob/master/bin/hadoop-metrics2-phoenix.properties",
+    "displayed_link": "https://github.com › apache › phoenix › blob › hadoop-...",
+    "snippet": "# hadoop-metrics2.properties to ensure it these are loaded regardless of where we are running,. # assuming there isn't another config on the ...",
+    "snippet_highlighted_words": [
+      "hadoop",
+      "metrics2",
+      "properties",
+      "loaded"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "jmx - What is the recommended default hadoop-metrics2. ...",
+    "link": "https://stackoverflow.com/questions/11071639/what-is-the-recommended-default-hadoop-metrics2-properties-content-for-hadoop-1",
+    "displayed_link": "2 answers · 13 years ago",
+    "snippet": "I've been searching for a default hadoop-metrics2.properties file which simply exposes all available metrics via JMX, but couldn't find one.",
+    "snippet_highlighted_words": [
+      "hadoop",
+      "metrics2",
+      "properties"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Instrument NameNode metrics with Hadoop Metrics2",
+    "link": "https://manuzhang.github.io/posts/2017-07-10-hadoop-metrics2/index.html",
+    "displayed_link": "https://manuzhang.github.io › posts › 2017-07-10-hadoo...",
+    "snippet": "The metrics system will firstly try to load hadoop-metrics2-[prefix].properties and fall back to hadoop-metrics2.properties if not found.",
+    "snippet_highlighted_words": [
+      "load",
+      "properties",
+      "hadoop",
+      "metrics2",
+      "properties"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "hadoop-metrics2.properties",
+    "link": "https://gitlab.pic.es/hadoop/hadoop/-/blob/release-2.8.0-RC3/hadoop-common-project/hadoop-common/src/main/conf/hadoop-metrics2.properties",
+    "displayed_link": "https://gitlab.pic.es › Hadoop › hadoop",
+    "snippet": "Open in Web IDE . Quickly and easily edit multiple files in your project. Edit single file Edit this file only.",
+    "snippet_highlighted_words": [],
+    "source": "Port d'Informació Científica",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Solved: Hadoop metrics2 to Graphite: only 2 are received",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Hadoop-metrics2-to-Graphite-only-2-are-received/m-p/194130",
+    "displayed_link": "https://community.cloudera.com › Support-Questions",
+    "snippet": "So my 2 questions are: How can I debug metrics2? Is there any known reasons why I am missing metrics? Context: hdp2.6 on AWS.",
+    "snippet_highlighted_words": [
+      "metrics2"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Troubleshooting Flink SQL S3 problems",
+    "link": "https://www.decodable.co/blog/troubleshooting-flink-sql-s3-problems",
+    "displayed_link": "https://www.decodable.co › blog › troubleshooting-flin...",
+    "snippet": "A comprehensive guide on troubleshooting and configuring Flink SQL for successful access to S3 and MinIO.",
+    "snippet_highlighted_words": [],
+    "source": "decodable.co",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Hadoop Metrics Two Framework Part II: How it works",
+    "link": "http://johnjianfang.blogspot.com/2014/09/hadoop-metrics-two-framework-part-ii.html",
+    "displayed_link": "http://johnjianfang.blogspot.com › 2014/09 › hadoop-...",
+    "snippet": "First, take a look at the hadoop-metrics2.properties file, which mainly includes a Sink definition and an output file. Since the hadoop metrics ...",
+    "snippet_highlighted_words": [
+      "hadoop",
+      "metrics2",
+      "properties"
+    ],
+    "source": "Blogger.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "conf/hadoop-metrics2.properties · release-0.20.205.0-rc2",
+    "link": "https://gitlab.mpi-sws.org/cld/systems/hadoop/-/blob/release-0.20.205.0-rc2/conf/hadoop-metrics2.properties?ref_type=tags",
+    "displayed_link": "https://gitlab.mpi-sws.org › cld › systems › hadoop",
+    "snippet": "hadoop-metrics2.properties ... Open in Web IDE . Quickly and easily edit multiple files in your project. Edit single file Edit this file only.",
+    "snippet_highlighted_words": [
+      "hadoop-metrics2.properties"
+    ],
+    "source": "Max Planck Institute for Software Systems",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

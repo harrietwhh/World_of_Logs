@@ -1,0 +1,29 @@
+{
+  "case_id": "85",
+  "summary_raw": "[\"Linkerror event interval expired\"]",
+  "summary_items": [
+    "Linkerror event interval expired"
+  ],
+  "group_logs_lines": [
+    "switch_module error 1074120554 1 Linkerror event interval expired",
+    "switch_module error 1074120561 1 Linkerror event interval expired",
+    "switch_module error 1074120583 1 Linkerror event interval expired",
+    "switch_module error 1074120590 1 Linkerror event interval expired",
+    "switch_module error 1074120591 1 Linkerror event interval expired",
+    "switch_module error 1074120597 1 Linkerror event interval expired",
+    "switch_module error 1074120598 1 Linkerror event interval expired",
+    "switch_module error 1074120605 1 Linkerror event interval expired",
+    "switch_module error 1074120606 1 Linkerror event interval expired",
+    "switch_module error 1074120613 1 Linkerror event interval expired",
+    "switch_module error 1074120632 1 Linkerror event interval expired",
+    "switch_module error 1074120639 1 Linkerror event interval expired",
+    "switch_module error 1074120640 1 Linkerror event interval expired",
+    "switch_module error 1074120646 1 Linkerror event interval expired",
+    "switch_module error 1074120654 1 Linkerror event interval expired",
+    "switch_module error 1074120692 1 Linkerror event interval expired",
+    "switch_module error 1074120699 1 Linkerror event interval expired",
+    "switch_module error 1074120700 1 Linkerror event interval expired",
+    "switch_module error 1074120707 1 Linkerror event interval expired",
+    "switch_module error 1074120717 1 Linkerror event interval expired"
+  ]
+}

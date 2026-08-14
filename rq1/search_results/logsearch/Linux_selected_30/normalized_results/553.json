@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_86f7574a1fe775fe3e2668ff6bd266df0dffc36a0b96ca9b79fd5d7a16d89b0f",
+    "score": 68.673004,
+    "link": "https://stackoverflow.com/questions/61695809",
+    "source": "so",
+    "origin_doc_id": "ffda8d2a12b2d3b65bcb3e3d312fc913cfe41c6345f36b130dfe83b29b4df6df",
+    "snippet": "'Jun 29', 'Time': '03:22:22', 'PID': '13251', 'Message': 'Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code', 'Access Type': 'Success'}"
+  },
+  {
+    "rank": 2,
+    "id": "msg_13d705da3058445894d303e8f0d33f7eec26a02b2d429b1b1bdefe96e0e0883c",
+    "score": 39.07907,
+    "link": "https://stackoverflow.com/questions/48287136",
+    "source": "so",
+    "origin_doc_id": "91038447c1b9a83d42cc16b13cec92590007857695a259715d67f2636846f7d2",
+    "snippet": "java.net.SocketException: Software caused connection abort: recv failed, with java.net.SocketException: Connection reset  \n  Official reasons for \"Software caused connection abort: socket write error\"  \n  java.net.SocketException: Software caused connection abort: connect"
+  },
+  {
+    "rank": 3,
+    "id": "msg_936b5476997f19ee4d0ab0bd762660a6b6d431a3864edfbdfc7299b82cef434c",
+    "score": 39.07907,
+    "link": "https://github.com/WalletConnect-Labs/WalletConnectSwiftV2/issues/170",
+    "source": "github",
+    "origin_doc_id": "78e101337bcd3408a64b8c8360830a414757a7855313cf37a3d24147707936c2",
+    "snippet": "[connection] nw_read_request_report [C1] Receive failed with error \"Software caused connection abort\" \n receiveMessageFailure(Error Domain=kNWErrorDomainPOSIX Code=53 \"Software caused connection abort\" UserInfo={NSDescription=Software caused connection abort})"
+  },
+  {
+    "rank": 4,
+    "id": "msg_049f4aace17dd67515ecd1fc54e7f30ad882cbe6413ff8257d018ef0764f149d",
+    "score": 38.768494,
+    "link": "https://stackoverflow.com/questions/1122708",
+    "source": "so",
+    "origin_doc_id": "6641d5e01a77fb6bd9d40aaea507a907fd75dfc2f17f476c1c0e722488df9794",
+    "snippet": "Unable to upload: \n java.net.SocketException: Software caused connection abort: recv failed  \n ... \n  Caused by: java.net.SocketException: Software caused connection abort: recv failed"
+  },
+  {
+    "rank": 5,
+    "id": "msg_2b9e97dcfca52442d94185e4d77f77e6d8e71db99748216dd7246fbf249bef31",
+    "score": 38.74788,
+    "link": "https://stackoverflow.com/questions/31781610",
+    "source": "so",
+    "origin_doc_id": "ee8cad7d87e20b0933113e31825039c32080a9c65f34b95d3eedaffe6bb07a07",
+    "snippet": "Software caused connection abort: recv failed  \n 2. Software caused connection abort: socket write error"
+  },
+  {
+    "rank": 6,
+    "id": "msg_a045f9f4718845b8c9a09ed5a29b2b567b413c924187ba4dc36dd28e62bdacc2",
+    "score": 38.54287,
+    "link": "https://stackoverflow.com/questions/10709296",
+    "source": "so",
+    "origin_doc_id": "ad0be726ab1744ced427f68a41974421c3b2d86aa93192cb45c951fe88ba39d1",
+    "snippet": "WARN | Transport Connection to: tcp://127.0.0.1:55793 failed: java.net.SocketException: Software caused connection abort: recv failed \n WARN | Transport Connection to: tcp://127.0.0.1:55791 failed: java.net.SocketException: Software caused connection abort: recv failed \n WARN | Transport Connection to: tcp://127.0.0.1:55792 failed: java.net.SocketException: Software caused connection abort: recv failed"
+  },
+  {
+    "rank": 7,
+    "id": "msg_a000627eac601a92ad8a36bff90cdda59f5170c2c7efb17357741d81656be943",
+    "score": 38.015472,
+    "link": "https://stackoverflow.com/questions/37549671",
+    "source": "so",
+    "origin_doc_id": "3cc3588c58c415c2f096a6fc876ba8acfb47a54d82e7cb67fd81f51f7d067e09",
+    "snippet": "Software caused connection abort: recv failed\"\nSystem.out.println(\"From server: \" + responseServer);"
+  },
+  {
+    "rank": 8,
+    "id": "msg_57b03b2b1cc5f70d0adb7dc9bde34d68605cd28175b7d797cab5475dca324a77",
+    "score": 37.35527,
+    "link": "https://stackoverflow.com/questions/11123530",
+    "source": "so",
+    "origin_doc_id": "b06a582d304bd3e45f3fe5d8c6b5462220786a1e12fafa086912dae8a4151624",
+    "snippet": "06:55:49 Guest 4 (online)  says : Hello Server. Message number^6 \n ERROR ServerThread - Error in reading from stream: java.net.SocketException: Software caused connection abort: recv failed \n ERROR ServerThread - Error in reading from stream: java.net.SocketException: Software caused connection abort: recv failed"
+  },
+  {
+    "rank": 9,
+    "id": "msg_b3421a1c95c6b1d922d824f3d92a818f40765fb6e33e699571ab801f87d47bdc",
+    "score": 37.35527,
+    "link": "https://github.com/Hypfer/Cybele/issues/19",
+    "source": "github",
+    "origin_doc_id": "93ef1b35d285d5dd8ee432beab6d736d84f219aab0b2366280132b7a82f1b0fd",
+    "snippet": "Startup complete\nMi Kettle {\n  message: 'Failed to connect to Mi Kettle',\n  error: 'Software caused connection abort'\n} while connecting\nDisconnected from Mi Kettle\nMi Kettle {\n  message: 'Failed to connect to Mi Kettle',\n  error: 'Software caused connection abort'\n} while connecting\nDisconnected from Mi"
+  },
+  {
+    "rank": 10,
+    "id": "msg_ac4043fcac36744586f79569649258ccd4b8dc015c7bbf498a41ac887fdb2a2a",
+    "score": 37.179142,
+    "link": "https://stackoverflow.com/questions/78836003",
+    "source": "so",
+    "origin_doc_id": "af51b922dd031765eaa2f79dd96fb8cdb7c098e22941a3c71af7634ca0ab1c3c",
+    "snippet": "could not receive data from server: Software caused connection abort (0x00002745/10053)  \n SSL SYSCALL error: Software caused connection abort (0x00002745/10053)"
+  }
+]

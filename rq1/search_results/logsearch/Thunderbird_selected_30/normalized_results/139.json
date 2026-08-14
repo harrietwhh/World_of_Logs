@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_7dd3d627234c04650aa9157a305da49b44ac210e0b97d3920186ec3e3521dbc0",
+    "score": 36.737186,
+    "link": "https://github.com/jpetazzo/pipework/issues/151",
+    "source": "github",
+    "origin_doc_id": "130211a8ba7f1b8bd98160f6f499379587e008226794297d5f92d032b28fc1a4",
+    "snippet": "For info, please visit https://www.isc.org/software/dhcp/\nexecve (/sbin/dhclient-script, ...): No such file or directory\nListening on LPF/eth1/a2:ab:bd:27:14:d5\nSending on   LPF/eth1/a2:ab:bd:27:14:d5\nSending on   Socket/fallback\nDHCPREQUEST on eth1 to 255.255.255.255 port 67\nsend_packet: Network is down\ndhclient.c:2248: Failed to send 300 byte long packet over eth1 interface.\nreceive_packet failed on eth1: Network is down\n\nexecve (/sbin/dhclient-script, ...): No such file or directory\nListening on LPF/eth1/06:e3:86:35:ef:e0\nSending on   LPF/eth1/06:e3:86:35:ef:e0\nSending on   Socket/fallback\nDHCPDISCOVER on eth1 to 255.255.255.255 port 67 interval 4\nDHCPREQUEST on eth1 to 255.255.255.255 port 67\nDHCPOFFER from 192.168.2.1\nDHCPACK from 192.168.2.1\nexecve (/sbin/dhclient-script, ...): No such file or directory\nbound to 192.168.2.65 -- renewal in 3068 seconds.\n++ cat /var/run/dhclient.683.pid\n+ kill 730\n+ rm /var/run/dhclient.683.pid\n+ '[' dhclient = dhcpcd ']'\n+ installed arping\n+ command -v arping\n+ echo 'Warning: arping not found; interface may not be immediately reachable'\nWarning: arping not found; interface may not be immediately reachable\n+ rm -f /var/run/netns/683\n1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default \n    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00\n    inet 127.0.0.1/8 scope host lo\n       valid_lft forever preferred_lft forever\n    inet6 ::1/128 scope host \n       valid_lft forever preferred_lft forever\n6: eth1@if2: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN group default \n    link/ether 06:e3:86:35:ef:e0 brd ff:ff:ff:ff:ff:ff\n    inet6 fe80::4e3:86ff:fe35:efe0/64 scope link \n       valid_lft forever preferred_lft forever"
+  },
+  {
+    "rank": 2,
+    "id": "msg_a0d1bb66eabc29fa9a7743859818ff385a57a91710f0212dc85c71e986f85d44",
+    "score": 35.95227,
+    "link": "https://github.com/pfelk/pfelk/issues/246",
+    "source": "github",
+    "origin_doc_id": "9868b0a6bc9556e8beb0381a92bf8352c706c4ce26217aafc0d8e9e272bc29bc",
+    "snippet": "<190>Jan  3 12:36:27 dhcpd: DHCPACK on 192.168.1.17 to 00:00:00:00:00:00 via re0 \n <190>Jan  3 12:36:27 dhcpd: DHCPACK on 192.168.1.17 to 00:00:00:00:00:00 via re0 \n <190>Jan  3 12:36:27 dhcpd: DHCPREQUEST for 192.168.1.17 from 00:00:00:00:00:00 via re0 \n <190>Jan  3 12:36:27 dhcpd: DHCPREQUEST for 192.168.1.17 from 00:00:00:00:00:00 via re0 \n <190>Jan  3 12:36:17 dhcpd: DHCPREQUEST for 192.168.1.108 from 00:00:00:00:00:00 via re0 \n <190>Jan  3 12:36:17 dhcpd: DHCPACK on 192.168.1.108 to 00:00:00:00:00:00 via re0 \n <190>Jan  3 12:36:17 dhcpd: DHCPREQUEST for 192.168.1.108 from 00:00:00:00:00:00 via re0 \n<190>Jan  3 12:36:17 dhcpd: DHCPACK on 192.168.1.108 to 00:00:00:00:00:00 via re0\n<187>Jan  3 12:36:17 dhcpd: uid lease 192.168.1.223 for client 00:00:00:00:00:00 is duplicate on 192.168.1.0/24\n<187>Jan  3 12:36:17 dhcpd: uid lease 192.168.1.223 for client 00:00:00:00:00:00 is duplicate on 192.168.1.0/24\n<190>Jan  3 12:35:20 dhcpd: DHCPREQUEST for 192.168.1.109 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:35:20 dhcpd:DHCPREQUEST for 192.168.1.109 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:35:20 dhcpd: DHCPACK on 192.168.1.109 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:35:20 dhcpd: DHCPACK on 192.168.1.109 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:34:49 dhcpd: DHCPACK on 192.168.1.102 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:34:49 dhcpd: DHCPACK on 192.168.1.102 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:34:49 dhcpd: DHCPREQUEST for 192.168.1.102 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:34:49 dhcpd: DHCPREQUEST for 192.168.1.102 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:30:54 dhcpd: DHCPREQUEST for 192.168.1.117 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:30:54 dhcpd: DHCPACK on 192.168.1.117 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:30:54 dhcpd: DHCPREQUEST for 192.168.1.117 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:30:54 dhcpd: DHCPACK on 192.168.1.117 to 00:00:00:00:00:00 via re0\n<187>Jan  3 12:30:54 dhcpd: uid lease 192.168.1.229 for client 00:00:00:00:00:00 is duplicate on 192.168.1.0/24\n<187>Jan  3 12:30:54 dhcpd: uid lease 192.168.1.229 for client 00:00:00:00:00:00 is duplicate on 192.168.1.0/24\n<190>Jan  3 12:30:10 dhcpd: DHCPREQUEST for 192.168.1.110 from 00:05:cd:7a:a0:06 via re0\n<190>Jan  3 12:30:10 dhcpd: DHCPREQUEST for 192.168.1.110 from 00:05:cd:7a:a0:06 via re0\n<190>Jan  3 12:30:10 dhcpd: DHCPACK on 192.168.1.110 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:30:10 dhcpd: DHCPACK on 192.168.1.110 to 00:00:00:00:00:00 via re0\n<187>Jan  3 12:30:10 dhcpd: uid lease 192.168.1.226 for client 00:00:00:00:00:00 is duplicate on 192.168.1.0/24\n<187>Jan  3 12:30:10 dhcpd: uid lease 192.168.1.226 for client 00:00:00:00:00:00 is duplicate on 192.168.1.0/24\n<190>Jan  3 12:27:05 dhcpd: DHCPACK on 192.168.1.162 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:27:05 dhcpd: DHCPACK on 192.168.1.162 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:27:05 dhcpd: DHCPREQUEST for 192.168.1.162 (192.168.1.1) from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:27:05 dhcpd: DHCPREQUEST for 192.168.1.162 (192.168.1.1) from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:01:09 dhcpd: DHCPREQUEST for 192.168.1.18 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:01:09 dhcpd: DHCPREQUEST for 192.168.1.18 from 00:00:00:00:00:00 via re0\n<190>Jan  3 12:01:09 dhcpd: DHCPACK on 192.168.1.18 to 00:00:00:00:00:00 via re0\n<190>Jan  3 12:01:09 dhcpd: DHCPACK on 192.168.1.18 to 00:00:00:00:00:00 via re0\n<190>Jan  3 11:58:48 dhcpd: DHCPREQUEST for 192.168.1.195 from 00:00:00:00:00:00 via re0\n``"
+  },
+  {
+    "rank": 3,
+    "id": "msg_6852522a7de451b4a13a6573974995c637a1ae2de598b86a825505736b9bd1b8",
+    "score": 33.444668,
+    "link": "https://github.com/rancher/os/issues/2992",
+    "source": "github",
+    "origin_doc_id": "19335059471a81cf9f4a169af9cdfb52ca3fa251add2585687d36dddff24d58c",
+    "snippet": "14:27:20 dhcp01 dhcpd[789]: DHCPACK on xxx.xxx.141.136 to 00:50:56:90:a5:75 (rancher) via ens192 \n ```"
+  },
+  {
+    "rank": 4,
+    "id": "msg_af3519fd6454807093f633fba5c759535c5c6ef6986d36f5d2b7b5ab51000c2e",
+    "score": 33.444668,
+    "link": "https://github.com/rancher/rancher/issues/25339",
+    "source": "github",
+    "origin_doc_id": "2e05f6f8e5b12be790b2364bd8f618292bb43cf7332c3bc5585020edf4f75677",
+    "snippet": "14:27:20 dhcp01 dhcpd[789]: DHCPACK on xxx.xxx.141.136 to 00:50:56:90:a5:75 (rancher) via ens192 \n ```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_19c4fe4efce859b5774abd84cd320332462616642b80e150e74092943e7628c4",
+    "score": 33.091972,
+    "link": "https://github.com/rancher/os/issues/2992",
+    "source": "github",
+    "origin_doc_id": "19335059471a81cf9f4a169af9cdfb52ca3fa251add2585687d36dddff24d58c",
+    "snippet": "13:19:05 dhcp01 dhcpd[789]: DHCPACK on xxx.xxx.141.242 to 00:50:56:90:a5:75 (rancher) via ens192 \n ###**reboot**###"
+  },
+  {
+    "rank": 6,
+    "id": "msg_0a049805f8000b5f5c49eba3bb3f1e339d6c9c6af9e0b3b3731a2658a2031d3d",
+    "score": 33.091972,
+    "link": "https://github.com/rancher/rancher/issues/25339",
+    "source": "github",
+    "origin_doc_id": "2e05f6f8e5b12be790b2364bd8f618292bb43cf7332c3bc5585020edf4f75677",
+    "snippet": "13:19:05 dhcp01 dhcpd[789]: DHCPACK on xxx.xxx.141.242 to 00:50:56:90:a5:75 (rancher) via ens192 \n ###**reboot**###"
+  },
+  {
+    "rank": 7,
+    "id": "msg_99308e77192bada249dd4f42b3653ac6f42297936445563b206c14ceabbb724d",
+    "score": 32.588177,
+    "link": "https://github.com/hashicorp/vagrant/issues/9570",
+    "source": "github",
+    "origin_doc_id": "99a634398af7ff87c87aa9c5dbd0882d418c7039f80d5c59d384a120e26bd059",
+    "snippet": "``` \n Mar 14 00:20:55 vagrant dhclient[18843]: DHCPREQUEST of 172.28.128.5 on eth1 to 172.28.128.2 port 67 (xid=0x35b41cbd) \n Mar 14 00:20:55 vagrant dhclient[18843]: DHCPACK of 172.28.128.5 from 172.28.128.2 \n Mar 14 00:20:56 vagrant dhclient[18843]: bound to 172.28.128.5 -- renewal in 481 seconds. \n ```"
+  },
+  {
+    "rank": 8,
+    "id": "msg_d74b43b2d94333d53b9c9b286d8c3d8de842d01e86578d915e42170bc18cf715",
+    "score": 31.99394,
+    "link": "https://github.com/containernetworking/cni/issues/232",
+    "source": "github",
+    "origin_doc_id": "08441b742d3a0f40dd1f4b41d5f37cccf63f7731c000dec0b084ce5250aa2ffa",
+    "snippet": "2016/05/30 05:51:56 resource temporarily unavailable \n ```\nMay 30 05:51:37 vagrant-ubuntu-trusty-64 dhcpd: DHCPDISCOVER from 6a:94:b5:11:3e:fb via eth1 \n May 30 05:51:38 vagrant-ubuntu-trusty-64 dhcpd: DHCPOFFER on 192.168.33.119 to 6a:94:b5:11:3e:fb via eth1 \n May 30 05:51:51 vagrant-ubuntu-trusty-64 dhcpd: DHCPDISCOVER from 6a:94:b5:11:3e:fb via eth1 \n May 30 05:51:51 vagrant-ubuntu-trusty-64 dhcpd: DHCPOFFER on 192.168.33.119 to 6a:94:b5:11:3e:fb via eth1"
+  },
+  {
+    "rank": 9,
+    "id": "msg_36cebf9e6b4a57aff3933f1cc9e410495b89fd18d96936697a99db4917a19070",
+    "score": 31.42103,
+    "link": "https://github.com/pfelk/pfelk/issues/284",
+    "source": "github",
+    "origin_doc_id": "49fefefa507a867f67474c7610255387a6a82e885ab336929ccb0eaa37e2c7f8",
+    "snippet": "8 19:13:07 vFW01 dhcpd[30057]: DHCPACK on 172.16.1.10 to aa:aa:aa:aa:aa:aa via mlxen1.20`"
+  },
+  {
+    "rank": 10,
+    "id": "msg_064bab090afa9e4d5c42a050be8c43d5cf389026580490c27e39818b6417ccb4",
+    "score": 31.135838,
+    "link": "https://github.com/raspberrypi/firmware/issues/1124",
+    "source": "github",
+    "origin_doc_id": "73d7b25e9b37634b744f141b18fd471aeb5dea80d33b7a9d4a1ec750836d99f4",
+    "snippet": "request \n Waiting for dhcp_reply \n Sending DHCP request \n Waiting for dhcp_reply \n Sending DHCP request \n Waiting for dhcp_reply \n Sending DHCP request \n Waiting for dhcp_reply\n\n Mar 25 04:28:54 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1 \n Mar 25 04:28:59 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1 \n Mar 25 04:28:59 xinetd[2024]: START: tftp from=192.168.1.253 \n Mar 25 04:28:59 in.tftpd[31426]: RRQ from 192.168.1.253 filename bootcode.bin \n Mar 25 04:28:59 in.tftpd[31427]: RRQ from 192.168.1.253 filename bootsig.bin \n Mar 25 04:29:04 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1 \n Mar 25 04:29:04 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1 \n\nMar 25 04:29:09 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:09 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:14 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:14 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:19 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:19 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:24 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:24 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:29 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:29 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:34 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:34 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:39 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:39 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:44 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:44 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:49 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:49 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1\n\nMar 25 04:29:54 dhcpd: DHCPDISCOVER from b8:27:eb:5d:5d:74 via eth1\nMar 25 04:29:54 dhcpd: DHCPOFFER on 192.168.1.253 to b8:27:eb:5d:5d:74 via eth1"
+  }
+]

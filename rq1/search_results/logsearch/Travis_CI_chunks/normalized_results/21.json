@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_2a16f973a4bc4b223e1cc87b04188a2c26bfda042f3da8d56aa53788aa7abf92",
+    "score": 59.592,
+    "link": "https://github.com/jonnnnyw/php-phantomjs/issues/288",
+    "source": "github",
+    "origin_doc_id": "a95ba146e6cdd9d1058da4364659654ae50f9a469c8b0e74d4fa3f0e54a10b3f",
+    "snippet": "### Composer 2.0.7 - Error \n PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Composer\\Downloader\\DownloadManager::download() must implement interface Composer\\Package\\PackageInterface or be null, bool given, called in /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php \n ``` \n PhantomInstaller\\Installer::installPhantomJS \n PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Composer\\Downloader\\DownloadManager::download() must implement interface Composer\\Package\\PackageInterface or be null, bool given, called in /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php on line 192 and defined in phar:///usr/local/bin/composer/src/Composer/Downloader/DownloadManager.php:182 \n Stack trace: \n #0 /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(192): Composer\\Downloader\\DownloadManager->download() \n #1 /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(121): PhantomInstaller\\Installer->download() \n #2 /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(94): PhantomInstaller\\Installer->__invoke() \n #3 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php(323): PhantomInstaller\\Installer::installPhantomJS() \n#4  in phar:///usr/local/bin/composer/src/Composer/Downloader/DownloadManager.php on line 182 \n Fatal error: Uncaught TypeError: Argument 3 passed to Composer\\Downloader\\DownloadManager::download() must implement interface Composer\\Package\\PackageInterface or be null, bool given, called in /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php on line 192 and defined in phar:///usr/local/bin/composer/src/Composer/Downloader/DownloadManager.php:182 \n Stack trace: \n #0 /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(192): Composer\\Downloader\\DownloadManager->download() \n #1 /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(121): PhantomInstaller\\Installer->download() \n #2 /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(94): PhantomInstaller\\Installer->__invoke() \n #3 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php(323): PhantomInstaller\\Installer::installPhantomJS() \n #4  in phar:///usr/local/bin/composer/src/Composer/Downloader/DownloadManager.php on line 182"
+  },
+  {
+    "rank": 2,
+    "id": "msg_13034305522ab8c94465eba6aecff8991a97e91c3ef0b190ec39cdc3718d29e7",
+    "score": 59.592,
+    "link": "https://github.com/jakoch/phantomjs-installer/issues/49",
+    "source": "github",
+    "origin_doc_id": "cf25817775708b71b0e6a40942f53d7ea88fe89ef36f3e9e8470e210a3b33719",
+    "snippet": "### Composer 2.0.7 - Error \n PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Composer\\Downloader\\DownloadManager::download() must implement interface Composer\\Package\\PackageInterface or be null, bool given, called in /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php \n ``` \n PhantomInstaller\\Installer::installPhantomJS \n PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Composer\\Downloader\\DownloadManager::download() must implement interface Composer\\Package\\PackageInterface or be null, bool given, called in /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php on line 192 and defined in phar:///usr/local/bin/composer/src/Composer/Downloader/DownloadManager.php:182 \n Stack trace: \n #0 /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(192): Composer\\Downloader\\DownloadManager->download() \n #1 /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(121): PhantomInstaller\\Installer->download() \n #2 /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(94): PhantomInstaller\\Installer->__invoke() \n #3 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php(323): PhantomInstaller\\Installer::installPhantomJS() \n#4  in phar:///usr/local/bin/composer/src/Composer/Downloader/DownloadManager.php on line 182 \n Fatal error: Uncaught TypeError: Argument 3 passed to Composer\\Downloader\\DownloadManager::download() must implement interface Composer\\Package\\PackageInterface or be null, bool given, called in /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php on line 192 and defined in phar:///usr/local/bin/composer/src/Composer/Downloader/DownloadManager.php:182 \n Stack trace: \n #0 /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(192): Composer\\Downloader\\DownloadManager->download() \n #1 /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(121): PhantomInstaller\\Installer->download() \n #2 /vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(94): PhantomInstaller\\Installer->__invoke() \n #3 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php(323): PhantomInstaller\\Installer::installPhantomJS() \n #4  in phar:///usr/local/bin/composer/src/Composer/Downloader/DownloadManager.php on line 182"
+  },
+  {
+    "rank": 3,
+    "id": "msg_d6fb6befc42ee1be94bb45c4fb14e8c40457e39b0b6049dc68e8c9aca5062d3a",
+    "score": 58.637043,
+    "link": "https://github.com/composer/composer/issues/9128",
+    "source": "github",
+    "origin_doc_id": "3f8208f170b736855e3ff972f6bf9c3acf17332aded99ab9f8ed21b48eb3d625",
+    "snippet": "2020-08-17T06:06:07.1251336Z #7 phar://C:/tools/php/composer/src/Composer/Installer.php(250): Composer\\Installer->doUpdate()"
+  },
+  {
+    "rank": 4,
+    "id": "msg_674fa335e0d7fb5d89b67f4f3341fc5fa689e31a921b9c7d6319054451f7365a",
+    "score": 58.637043,
+    "link": "https://github.com/composer/composer/issues/9128",
+    "source": "github",
+    "origin_doc_id": "3f8208f170b736855e3ff972f6bf9c3acf17332aded99ab9f8ed21b48eb3d625",
+    "snippet": "2020-08-17T06:06:07.1252311Z #7 phar://C:/tools/php/composer/src/Composer/Installer.php(250): Composer\\Installer->doUpdate()"
+  },
+  {
+    "rank": 5,
+    "id": "msg_38942cfa5cebea539c47e8b16924ef934b052788e23f14d0b9d98eb037f0215e",
+    "score": 58.04103,
+    "link": "https://github.com/composer/composer/issues/8159",
+    "source": "github",
+    "origin_doc_id": "c637a5103b0541a872f29c3ac6f6449775ea321beecb771f162d396b4f549bd1",
+    "snippet": "running `php composer.phar update`: \n ``` \n Fatal error: Uncaught Error: Call to undefined method Composer\\Package\\AliasPackage::setDistUrl() in phar:///path/to/my/composerphar/composer.phar/src/Composer/Installer.php:1223 \n Stack trace: \n #0 phar:///path/to/my/composerphar/composer.phar/src/Composer/Installer.php(563): Composer\\Installer->updateInstallReferences(Object(Composer\\Package\\AliasPackage), '09a3858') \n #1 phar:///path/to/my/composerphar/composer.phar/src/Composer/Installer.php(229): Composer\\Installer->doInstall(Object(Composer\\Repository\\InstalledFilesystemRepository), Object(Composer\\Repository\\CompositeRepository), Object(Composer\\Repository\\PlatformRepository), Array) \n #2 phar:///path/to/my/composerphar/composer.phar/src/Composer/Command/UpdateCommand.php(163): Composer\\Installer->run() \n#3 phar:///path/to/my/composerphar/composer.phar/vendor/symfony/console/Command/Command.php(245): Composer\\Command\\UpdateCommand->execute(Object(Symfony\\Compon in phar:///path/to/my/composerphar/composer.phar/src/Composer/Installer.php on line 1223 \n ```"
+  },
+  {
+    "rank": 6,
+    "id": "msg_f187aa13c0f0aea3a19fa5eb2dd931719c5aef829572a7e5a3854c480800ef1b",
+    "score": 57.309887,
+    "link": "https://github.com/youzan/zan-installer/issues/6",
+    "source": "github",
+    "origin_doc_id": "62433059ad1beb436db85bb2a1f60dc9b1747ca6021b87556492a3437b4c45e1",
+    "snippet": "PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:\nerror:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/ubuntu/.config/composer/vendor/youzan/zan-installer/src/Installer.php on line 319\n\nWarning: file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:\nerror:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/ubuntu/.config/composer/vendor/youzan/zan-installer/src/Installer.php on line 319\nPHP Warning:  file_get_contents(): Failed to enable crypto in /home/ubuntu/.config/composer/vendor/youzan/zan-installer/src/Installer.php on line 319\n\nWarning: file_get_contents(): Failed to enable crypto in /home/ubuntu/.config/composer/vendor/youzan/zan-installer/src/Installer.php on line 319\nPHP Warning:  file_get_contents(https://codeload.github.com/youzan/zanhttp-boilerplate/zip/master): failed to open stream: operation failed in /home/ubuntu/.config/composer/vendor/youzan/zan-installer/src/Installer.php on line 319\nWarning: file_get_contents(https://codeload.github.com/youzan/zanhttp-boilerplate/zip/master): failed to open stream: operation failed in /home/ubuntu/.config/composer/vendor/youzan/zan-installer/src/Installer.php on line 319\nERROR: Download code fail :("
+  },
+  {
+    "rank": 7,
+    "id": "msg_56521df43e270b7988a6b83e03e5ce20f1266d8d03dad14c59ccc3c581acce69",
+    "score": 57.26971,
+    "link": "https://github.com/composer/satis/pull/654",
+    "source": "github",
+    "origin_doc_id": "7f50cbaa437efbcc2c826e7d6a89802a44087673a2f98f05011027d1c9a65bab",
+    "snippet": "errors: \n ``` \n  20/20 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% \n  ------ ----------------------------------------------------------------------------------------------  \n   Line   src/Console/Command/AddCommand.php                                                             \n  ------ ----------------------------------------------------------------------------------------------  \n   121    Class Composer\\Repository\\VcsRepository constructor invoked with 3 parameters, 4-8 required.   \n  ------ ----------------------------------------------------------------------------------------------  \n ------ ------------------------------------------------------------------------------------------  \n   Line   src/Console/Command/BuildCommand.php                                                       \n  ------ ------------------------------------------------------------------------------------------  \n   125    Class Composer\\Util\\RemoteFilesystem constructor invoked with 1 parameter, 2-5 required.   \n  ------ ------------------------------------------------------------------------------------------  \n  ------ --------------------------------------------------------------------------  \n   Line   src/PackageSelection/PackageSelection.php                                  \n  ------ --------------------------------------------------------------------------  \n  496    Variable $urlunpack might not be defined.                                  \n   662    Instantiated class Composer\\Semver\\Constraint\\EmptyConstraint not found.   \n          💡 Learn more at https://phpstan.org/user-guide/discovering-symbols         \n   721    Variable $matches might not be defined.                                    \n  ------ --------------------------------------------------------------------------  \n  ------ ------------------------------------------------------------------------------------------------  \n   Line   tests/Builder/ArchiveBuilderTest.php                                                             \n  ------ ------------------------------------------------------------------------------------------------  \n   84     Static call to instance method Composer\\Package\\Archiver\\ArchiveManager::getPackageFilename().   \n  91     Static call to instance method Composer\\Package\\Archiver\\ArchiveManager::getPackageFilename().   \n  ------ ------------------------------------------------------------------------------------------------  \n  [ERROR] Found 7 errors                                                                                                  \n ```"
+  },
+  {
+    "rank": 8,
+    "id": "msg_70e5113f570fe8bd78b9b82a5d84f8f865eaded000b93f9db69dba8ec5d220c5",
+    "score": 57.01473,
+    "link": "https://github.com/cweagans/composer-patches/issues/313",
+    "source": "github",
+    "origin_doc_id": "ef89f956138c45a6ae3b8c77f7a48882d127382f4945da8688522292061ef1c9",
+    "snippet": "Fatal error: Uncaught Error: Call to undefined method Composer\\DependencyResolver\\Operation\\InstallOperation::getJobType() in /home/runner/work/daiber/daiber/vendor/username_1/composer-patches/src/Patches.php:179 \n Stack trace: \n #0 [internal function]: username_1\\Composer\\Patches->gatherPatches() \n#1 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php(165): call_user_func()\n#2 phar:///usr/local/bin/composer/src/Composer/EventDispatcher/EventDispatcher.php(118): Composer\\EventDispatcher\\EventDispatcher->doDispatch()\n#3 phar:///usr/local/bin/composer/src/Composer/Installer/InstallationManager.php(368): Composer\\EventDispatcher\\EventDispatcher->dispatchPackageEvent()\n#4 phar:///usr/local/bin/composer/src/Composer/Installer/InstallationManager.php(309): Composer\\Installer\\InstallationManager->executeBatch()\n#5 phar:///usr/local/bin/composer/src/Composer/Installer.php(711): Composer\\Installer\\InstallationManager->execute()\n#6 phar:///usr/local/bin/composer/src/Composer/Installer.php(252): Composer\\Installer in /home/runner/work/daiber/daiber/vendor/username_1/composer-patches/src/Patches.php on line 179\n```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_b87a5914b6663403da8e006f4f22f1a07b33a24532e8e5650851787bfec93062",
+    "score": 56.940567,
+    "link": "https://github.com/preprocess/pre-plugin/pull/22",
+    "source": "github",
+    "origin_doc_id": "d6091a334b65ba7a4da80a63916f9870846324229a62a1e87e4023a4ac4b1055",
+    "snippet": "Fatal error: Uncaught Error: Undefined constant 'Composed\\BASE_DIR' in /Users/bosunsky/scripts/pre-plugin/source/Composer/Installer.php:42 \n Stack trace: \n #0 /Users/bosunsky/scripts/pre-plugin/source/Composer/Installer.php(27): Pre\\Plugin\\Composer\\Installer->addMacro('/Users/bosunsky...') \n #1 phar:///usr/local/bin/composer/src/Composer/Installer/LibraryInstaller.php(79): Pre\\Plugin\\Composer\\Installer->getInstallPath(Object(Composer\\Package\\CompletePackage)) \n #2 phar:///usr/local/bin/composer/src/Composer/Installer/InstallationManager.php(127): Composer\\Installer\\LibraryInstaller->isInstalled(Object(Composer\\Repository\\InstalledFilesystemRepository), Object(Composer\\Package\\CompletePackage)) \n #3 phar:///usr/local/bin/composer/src/Composer/Factory.php(559): Composer\\Installer\\InstallationManager->isPackageInstalled(Object(Composer\\Repository\\InstalledFilesystemRepository), Object(Composer\\Package\\CompletePackage)) \n#4 phar:///usr/local/bin/composer/src/Composer/Factory.php(404): Composer\\Factory->purgePackages(Object(Composer\\Repo in /Users/bosunsky/scripts/pre-plugin/source/Composer/Installer.php on line 42 \n ``` \n I'm"
+  },
+  {
+    "rank": 10,
+    "id": "msg_7ef689be4137fbd031e3a79e218e3813ad41a0ab38fbd925315c3dd1151f17e5",
+    "score": 56.61175,
+    "link": "https://github.com/composer/composer/issues/9698",
+    "source": "github",
+    "origin_doc_id": "56a494763bf45126004e5bab4638672c28c9f04a8ff36b2fd42b8a363d17026e",
+    "snippet": "post-update-cmd: PhantomInstaller\\Installer::installPhantomJS \n PHP Fatal error:  Uncaught TypeError: Argument 3 passed to Composer\\Downloader\\DownloadManager::download() must implement interface Composer\\Package\\PackageInterface or be null, bool given, called in /my_path/vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php on line 192 and defined in phar:///my_patht/composer.phar/src/Composer/Downloader/DownloadManager.php:182 \n#0 /my_path/vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(192): Composer\\Downloader\\DownloadManager->download(Object(Composer\\Package\\Package), '/my_path...', false) \n #1 /my_path/vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(121): PhantomInstaller\\Installer->download('/my_path...', '2.1.1') \n #2 /my_path/vendor/jakoch/phantomjs-installer/src/PhantomInstaller/Installer.php(94): PhantomInstaller\\Installer->__invoke() \n #3 phar:///my_path in phar:///my_path/composer.phar/src/Composer/Downloader/DownloadManager.php on line 182"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_2e3477dd78f6293856b848c96308f81115bed5b6559dca35426aba7f4d8605a7",
+    "score": 47.697254,
+    "link": "https://stackoverflow.com/questions/55355982",
+    "source": "so",
+    "origin_doc_id": "c58ae928c14eda4e8e61be281b56c74d2939ae6f5259ee4157428b905ffbbeae",
+    "snippet": "Dec 10 06:55:46 LabSZ sshd[24200]: reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT! \n Dec 10 06:55:46 LabSZ sshd[24200]: Invalid user webmaster from 173.234.31.186 \n Dec 10 06:55:46 LabSZ sshd[24200]: input_userauth_request: invalid user webmaster [preauth] \n Dec 10 06:55:46 LabSZ sshd[24200]: pam_unix(sshd:auth): check pass; user unknown \n Dec 10 06:55:46 LabSZ sshd[24200]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.234.31.186  \n Dec 10 06:55:48 LabSZ sshd[24200]: Failed password for invalid user webmaster from 173.234.31.186 port 38926 ssh2 \n Dec 10 06:55:48 LabSZ sshd[24200]: Connection closed by 173.234.31.186 [preauth] \n Dec 10 07:02:47 LabSZ sshd[24203]: Connection closed by 212.47.254.145 [preauth] \nDec 10 07:07:38 LabSZ sshd[24206]: Invalid user test9 from 52.80.34.196\nDec 10 07:07:38 LabSZ sshd[24206]: input_userauth_request: invalid user test9 [preauth]\nDec 10 07:07:38 LabSZ sshd[24206]: pam_unix(sshd:auth): check pass; user unknown"
+  },
+  {
+    "rank": 2,
+    "id": "msg_9f1df05e8f802fc1f5c5c4d23e08fc1f394efa439b4148972bd82c8f4157e41f",
+    "score": 25.463112,
+    "link": "https://stackoverflow.com/questions/50937811",
+    "source": "so",
+    "origin_doc_id": "4fcd57d9d397bf21e64fef59d615d6a3ec6f6ff7618d34535ce48383c594003f",
+    "snippet": "smtplib.SMTPSenderRefused: (553, b'Mail from must equal authorized user', 'webmaster@localhost')"
+  },
+  {
+    "rank": 3,
+    "id": "msg_7a1891be14247b286bfadefc0f04e67146bc580ad635c8ef22023e1632a645a3",
+    "score": 24.426163,
+    "link": "https://github.com/IBM/Drain3/issues/53",
+    "source": "github",
+    "origin_doc_id": "cadfc7986bf47496e563950573381efa6dccfc3365a051a07685c16098ff1183",
+    "snippet": "Dec 10 06:55:46 LabSZ sshd[24200]: reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT! \n ``` \n to:  \n ``` \n reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT!"
+  },
+  {
+    "rank": 4,
+    "id": "msg_75983f17af6ea9e5aba3c1368bbb42134c5e2f9d2f265cc1b853ab64498e2e5d",
+    "score": 23.762299,
+    "link": "https://github.com/Tivix/django-cron/issues/148",
+    "source": "github",
+    "origin_doc_id": "fcfc22e5742a62417df9463049943580a78fb05d5a778b23399274833736c169",
+    "snippet": "(552, b'the from address and the authenticated user must be the same email. #ERR_AUTH_FAIL', 'webmaster@localhost')**"
+  },
+  {
+    "rank": 5,
+    "id": "msg_fbfb837650fe9764d526b58d9360ea9d69da3348e10193b54b586e866027afa8",
+    "score": 22.551285,
+    "link": "https://stackoverflow.com/questions/2166962",
+    "source": "so",
+    "origin_doc_id": "b15d85b9a4a9d0219184cd9d4a748e5ec6c7b03ada23e9b7db0f405b6fe50591",
+    "snippet": "FrontPage Error.  \n  User: please report details to this site's webmaster.  \n  Webmaster: please see the server's application event log for more details."
+  },
+  {
+    "rank": 6,
+    "id": "msg_612f85a435859d8865483fb58439a2f4ab150ebeff7fee4e920ba09ceec65dca",
+    "score": 21.601059,
+    "link": "https://stackoverflow.com/questions/10451579",
+    "source": "so",
+    "origin_doc_id": "209d45ec4a346b49938377eb8af91d09bb7a037e21d8dc57229519de93897503",
+    "snippet": "Failed to add recipient: webmaster@domain.com@localhost \n [SMTP: Invalid response code received from server \n (code: 504, response: 5.5.2 : \n     Recipient address rejected: need fully-qualified address)]"
+  },
+  {
+    "rank": 7,
+    "id": "msg_be8e57ea18341aab27c223a0c551fb5090a5b620e442a7d2e32e4bcf84d7386a",
+    "score": 21.435308,
+    "link": "https://stackoverflow.com/questions/21644638",
+    "source": "so",
+    "origin_doc_id": "de591b31b810b76ddde9a7231bf957890a97af900cb0b2990cc3552322ec4820",
+    "snippet": "Failed: wordpress@52fluent.com → webmaster@52fluent.com 'Mailgun WordPress Plugin Test' Server response: 550 Verification failed for <bounce+dd882b.7933e-webmaster=52fluent.com@52fluent.com> No Such User Here\" Sender verify failed"
+  },
+  {
+    "rank": 8,
+    "id": "msg_36d1b2f27e43d716e67f8348cbe9bb9b580fd4b9655cf9f77183a07a4950124a",
+    "score": 21.00605,
+    "link": "https://stackoverflow.com/questions/28552668",
+    "source": "so",
+    "origin_doc_id": "e968938c2542129d72dae214ba16cf49fbca3c90b42bfbbeb6dd827e70a1bf27",
+    "snippet": "failed: \" .\n Connection failed: Access denied for user 'webmaster'@'localhost' (using password: NO)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_cb6f87ccad4d2a218ac40fa95f285139b158b4b2440075605bb0fc80b98a5af5",
+    "score": 20.18711,
+    "link": "https://github.com/bblanchon/ArduinoJson/issues/939",
+    "source": "github",
+    "origin_doc_id": "7fc7ebb235ca294ce7e92bf8f2b599e7d36fa86051603cb8dd4c90d797a4ac91",
+    "snippet": "included\n                 from C:\\Users\\webmaster\\Documents\\Arduino\\libraries\\ArduinoJson\\src/ArduinoJson.hpp:33,\n\n                 from C:\\Users\\webmaster\\Documents\\Arduino\\libraries\\ArduinoJson\\src/ArduinoJson.h:9,\n\n                 from C:\\Users\\webmaster\\Documents\\Arduino\\CSMS\\nodeMCUcSMS_3\\nodeMCUcSMS_3.ino:9:\n\nc:\\users\\webmaster\\documents\\arduino\\libraries\\arduinojson\\src\\arduinojson\\deserialization\\deserialize.hpp: In instantiation of 'ArduinoJson6100_000::DeserializationError ArduinoJson6100_000::deserialize(ArduinoJson6100_000::JsonDocument&, TStream&, ArduinoJson6100_000::NestingLimit) [with TDeserializer = ArduinoJson6100_000::JsonDeserializer; TStream = StreamUtils::BufferedStream<fs::File, 102u>]':\n\nC:\\Users\\webmaster\\Documents\\Arduino\\libraries\\ArduinoJson\\src/ArduinoJson/Json/JsonDeserializer.hpp:413:64:   required from 'ArduinoJson6100_000::DeserializationError ArduinoJson6100_000::deserializeJson(ArduinoJson6100_000::JsonDocument&, TInput&, ArduinoJson6100_000::NestingLimit) [with TInput = StreamUtils::BufferedStream<fs::File, 102u>]'\nC:\\Users\\webmaster\\Documents\\Arduino\\CSMS \n odeMCUcSMS_3 \n odeMCUcSMS_3.ino:105:51:   required from here \n c:\\users\\webmaster\\documents\\arduino\\libraries\\arduinojson\\src\\arduinojson\\deserialization\\deserialize.hpp:72:48: error: 'Stream' is an inaccessible base of 'StreamUtils::BufferedStream<fs::File, 102u>' \n               doc.memoryPool(), makeReader(input), \n                                                 ^ \n exit status 1 \n Error compilando para la tarjeta NodeMCU 1.0 (ESP-12E Module)."
+  },
+  {
+    "rank": 10,
+    "id": "msg_11f5b765f96fad86711bb1066fccdc06ba286366038a60631c97b23409f9ae59",
+    "score": 20.123053,
+    "link": "https://stackoverflow.com/questions/26981348",
+    "source": "so",
+    "origin_doc_id": "8cbf29443eebd3eb966f4179b005f5db252a250032f625d091c970e9cb7701a8",
+    "snippet": "Error: The application is trying to load a file from the webmaster plugin \n Error: Make sure your plugin webmaster is in the app\\Plugin directory and was loaded"
+  }
+]

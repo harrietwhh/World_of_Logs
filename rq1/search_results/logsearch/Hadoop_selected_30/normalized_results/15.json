@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_30e6677acfa7c28c9101fd4a7d28b71ed320f20a2e519c5c58c749c260702d07",
+    "score": 50.85891,
+    "link": "https://stackoverflow.com/questions/32131826",
+    "source": "so",
+    "origin_doc_id": "261da3c624f7126736515d9ffc6a224a9ea6255460ccac50365bb2c397ebf219",
+    "snippet": "2015-08-21 11:07:22,060 DEBUG [main] |         SPARK_YARN_CACHE_FILES -> hdfs://msra-sa-44:9000/user/msrabi/.sparkStaging/application_1440062075415_0026/spark-assembly-1.4.0-hadoop2.7.0.jar#__spark__.jar,hdfs://msra-sa-44:9000/user/msrabi/.sparkStaging/application_1440062075415_0026/spark-examples_2.10-1.4.0.jar#__app__.jar"
+  },
+  {
+    "rank": 2,
+    "id": "msg_fc61f2b920266408115e04c27cd15fcd3df2170075022684bf17aa04a48bbe94",
+    "score": 43.34541,
+    "link": "https://stackoverflow.com/questions/32131826",
+    "source": "so",
+    "origin_doc_id": "261da3c624f7126736515d9ffc6a224a9ea6255460ccac50365bb2c397ebf219",
+    "snippet": "2015-08-21 11:07:22,060 DEBUG [main] |         __hadoop_conf__ -> resource { scheme: \"hdfs\" host: \"msra-sa-44\" port: 9000 file: \"/user/msrabi/.sparkStaging/application_1440062075415_0026/__hadoop_conf__7908628615251032149.zip\" } size: 82888 timestamp: 1440126441794 type: ARCHIVE visibility: PRIVATE"
+  },
+  {
+    "rank": 3,
+    "id": "msg_9ab2b7c8f6930b1e019c3b065311ddd4660a387f73f31e20ff9e87340cac63ee",
+    "score": 43.00703,
+    "link": "https://stackoverflow.com/questions/32131826",
+    "source": "so",
+    "origin_doc_id": "261da3c624f7126736515d9ffc6a224a9ea6255460ccac50365bb2c397ebf219",
+    "snippet": "2015-08-21 11:07:22,060 DEBUG [main] |         __app__.jar -> resource { scheme: \"hdfs\" host: \"msra-sa-44\" port: 9000 file: \"/user/msrabi/.sparkStaging/application_1440062075415_0026/spark-examples_2.10-1.4.0.jar\" } size: 1420218 timestamp: 1440126441575 type: FILE visibility: PRIVATE"
+  },
+  {
+    "rank": 4,
+    "id": "msg_f6ef1149b916ba16c5c8d8329fa88151ded5b8a7dca7f5d3c71ca93dde0f5917",
+    "score": 42.629684,
+    "link": "https://stackoverflow.com/questions/32131826",
+    "source": "so",
+    "origin_doc_id": "261da3c624f7126736515d9ffc6a224a9ea6255460ccac50365bb2c397ebf219",
+    "snippet": "2015-08-21 11:07:22,060 DEBUG [main] |         __spark__.jar -> resource { scheme: \"hdfs\" host: \"msra-sa-44\" port: 9000 file: \"/user/msrabi/.sparkStaging/application_1440062075415_0026/spark-assembly-1.4.0-hadoop2.7.0.jar\" } size: 165181064 timestamp: 1440126441200 type: FILE visibility: PRIVATE"
+  },
+  {
+    "rank": 5,
+    "id": "msg_bfb869644b182fd5d3f16d1d148ca33c60519306425941b9f24ec0724455fe77",
+    "score": 36.443127,
+    "link": "https://github.com/fluent/fluent-plugin-grok-parser/issues/82",
+    "source": "github",
+    "origin_doc_id": "1b2a69649abdb388a748d7877e08b245626758f705454dc973cf7605658801a6",
+    "snippet": "2020-04-07 14:41:30.407889929 +0000 hadoop_grok_log: {\"timeOne\":\"2015-10-18 18:06:26,029\",\"loglevelOne\":\"INFO\",\"numberOne\":\"13\",\"numberTwo\":\"62270\",\"javaOne\":\"org.apache.hadoop.mapred.TaskAttemptListenerImpl\",\"loglevelTwo\":\"Error\",\"javaTwo\":\"java.net.NoRouteToHostException\",\"hostTwo\":\"127.0.0.1\",\"hostOne\":\"msra-sa-41:9000\",\"grok_name\":\"1ebc5ab2-6c6e-34bc-9d39-00d1d60c4a3e\"}"
+  },
+  {
+    "rank": 6,
+    "id": "msg_a9c15e8e4e0138547bd64da0c034cb17095b0e061c9fa4876e4ed736b720f1e2",
+    "score": 36.443127,
+    "link": "https://github.com/fluent/fluent-plugin-grok-parser/issues/82",
+    "source": "github",
+    "origin_doc_id": "1b2a69649abdb388a748d7877e08b245626758f705454dc973cf7605658801a6",
+    "snippet": "2020-04-07 14:41:30.438195222 +0000 hadoop_grok_log: {\"timeOne\":\"2015-10-18 18:06:28,217\",\"loglevelOne\":\"INFO\",\"numberOne\":\"4\",\"numberTwo\":\"62270\",\"javaOne\":\"org.apache.hadoop.mapred.TaskAttemptListenerImpl\",\"loglevelTwo\":\"Error\",\"javaTwo\":\"java.net.NoRouteToHostException\",\"hostTwo\":\"127.0.0.1\",\"hostOne\":\"msra-sa-41:9000\",\"grok_name\":\"1ebc5ab2-6c6e-34bc-9d39-00d1d60c4a3e\"}"
+  },
+  {
+    "rank": 7,
+    "id": "msg_957a5b8cb96bc57324441752ce411147237b10d416fcfafab4c6cde1c687da0d",
+    "score": 35.893646,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,507 INFO [main] org.apache.hadoop.mapreduce.v2.jobhistory.JobHistoryUtils: Default file system [hdfs://hdfs-master-0.hdfs-service.hdfs:9000]"
+  },
+  {
+    "rank": 8,
+    "id": "msg_97c6746271e6c1d85eaaea7276627a9254e7eba9e7c601af9ace2324ac69887c",
+    "score": 35.893646,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,514 INFO [main] org.apache.hadoop.mapreduce.v2.jobhistory.JobHistoryUtils: Default file system [hdfs://hdfs-master-0.hdfs-service.hdfs:9000]"
+  },
+  {
+    "rank": 9,
+    "id": "msg_ec6cdad73ad7ff0f33c89d316c7e772f2ff113b1dd8d57d59524ac9ac78592ca",
+    "score": 35.893646,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,521 INFO [main] org.apache.hadoop.mapreduce.v2.jobhistory.JobHistoryUtils: Default file system [hdfs://hdfs-master-0.hdfs-service.hdfs:9000]"
+  },
+  {
+    "rank": 10,
+    "id": "msg_6bb26214ab89e03b430dda7f9bef237be0289f81886dbbf47a55cbcd8c96a7b8",
+    "score": 34.703735,
+    "link": "https://issues.apache.org/jira/browse/HBASE-11776",
+    "source": "jira",
+    "origin_doc_id": "76c27b1245179ffd5d6ffb95dd1c1179dcbdf01f191b079fbeff2123e6ed7553",
+    "snippet": "2014-08-17 15:41:02,713 DEBUG [regionserver60020-smallCompactions-1408258247722] regionserver.HRegionFileSystem: Committing store file hdfs://hbase:9000/hbase/data/default/top_subchannel_2/0b47596c0bff1a60cf749cf1101eb642/.tmp/f2e60ae4574a4d6eb89745d43582e9b4 as hdfs://hbase:9000/hbase/data/default/top_subchannel_2/0b47596c0bff1a60cf749cf1101eb642/s/f2e60ae4574a4d6eb89745d43582e9b4"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_809623f7bc4067df297457459b9bb4236c514943f4d6c9cc60cda9a0542bd5cc",
+    "score": 73.67002,
+    "link": "https://github.com/ubergeek42/weechat-android/issues/303",
+    "source": "github",
+    "origin_doc_id": "7055210bed3eb071aabc63e8194f45739862c25a32a3bb0b5b0b1cb8100c99e3",
+    "snippet": "error: Received disconnect from 127.0.0.1 port 48581:3: com.jcraft.jsch.JSchException: Auth fail [preauth"
+  },
+  {
+    "rank": 2,
+    "id": "msg_434ea9b63fea501a176d6455a2813fba360b8bd036bdfafc51939bf80cb5e039",
+    "score": 73.67002,
+    "link": "https://github.com/dbeaver/dbeaver/issues/11613",
+    "source": "github",
+    "origin_doc_id": "0fbf721f274d7ac79de9baa347aeaf0586c49ce395bd375219821e8207345395",
+    "snippet": "error: Received disconnect from 192.168.2.11 port 47582:3: com.jcraft.jsch.JSchException: Auth fail [preauth]"
+  },
+  {
+    "rank": 3,
+    "id": "msg_79277bbec7e09557427acfac9eeb96ff34ab41928130d7f39bc45c2123bacc69",
+    "score": 67.44294,
+    "link": "https://stackoverflow.com/questions/79260649",
+    "source": "so",
+    "origin_doc_id": "dcfa983ff33cb8bcd845f12ecfba82a1220136cc5a13b2f6e01887540a7a2361",
+    "snippet": "2024-12-07 13:49:44 Received disconnect from 172.17.0.1 port 59336:3: com.jcraft.jsch.JSchException: Auth fail [preauth]"
+  },
+  {
+    "rank": 4,
+    "id": "msg_2b53bed27487777a58ec25cb84d164aa77847fcbb6e715fe05cd1332ef733c35",
+    "score": 62.32815,
+    "link": "https://stackoverflow.com/questions/50067611",
+    "source": "so",
+    "origin_doc_id": "66025bcf83b25727e46c4d7c1939bcc3d3a0a053524252ac1db32a22df2470a6",
+    "snippet": "Apr 27 13:20:48 james-host sshd[4402]: error: Received disconnect from 192.168.11.1 port 53717:3: com.jcraft.jsch.JSchException: Auth fail [preauth]\nApr 27 13:20:48 james-host sshd[4402]: Disconnected from 192.168.11.1 port 53717 [preauth]"
+  },
+  {
+    "rank": 5,
+    "id": "msg_8563b9d4dc3a04b9340a3a81b18f5147257ea34ad141eaf5c154a3dc9c7697bd",
+    "score": 60.56078,
+    "link": "https://stackoverflow.com/questions/50067611",
+    "source": "so",
+    "origin_doc_id": "66025bcf83b25727e46c4d7c1939bcc3d3a0a053524252ac1db32a22df2470a6",
+    "snippet": "Received disconnect from 192.168.11.1 port 53292:3: com.jcraft.jsch.JSchException: Auth fail [preauth] \n Disconnected from 192.168.11.1 port 53292 [preauth] \n debug1: do_cleanup [preauth] \n debug1: monitor_read_log: child log fd closed \n debug1: do_cleanup \n debug1: PAM: cleanup \n debug1: Killing privsep child 4296 \n debug1: audit_event: unhandled event 12"
+  },
+  {
+    "rank": 6,
+    "id": "msg_57a222f2227137bad8404f134cd86d42f10a27aa9580981085057f4d6949abfa",
+    "score": 56.34192,
+    "link": "https://github.com/bradand/XMouse/issues/35",
+    "source": "github",
+    "origin_doc_id": "2967683ca916f349fe957a35b9392849b78b6a187178e4b95cf0bc239157480f",
+    "snippet": "Nov  3 14:28:57 tux sshd[2338]: Accepted publickey for tw from 10.10.10.154 port 37713 ssh2: ECDSA SHA256:KGqgknI25/oAKCF01cp4sIswqIXmYRrQrmbOGie6z1I \n Nov  3 14:28:57 tux sshd[2338]: pam_unix(sshd:session): session opened for user tw by (uid=0) \n Nov  3 14:28:57 tux systemd-logind[774]: New session 953 of user tw. \n ```\nNov  3 14:42:24 tux sshd[2934]: error: Received disconnect from 10.10.10.154 port 37782:3: com.jcraft.jsch.JSchException: Auth fail [preauth] \n Nov  3 14:42:24 tux sshd[2934]: Disconnected from authenticating user tw 10.10.10.154 port 37782 [preauth] \n Nov  3 14:42:27 tux sshd[2936]: error: Received disconnect from 10.10.10.154 port 37783:3: com.jcraft.jsch.JSchException: Auth fail [preauth] \n Nov  3 14:42:27 tux sshd[2936]: Disconnected from authenticating user tw 10.10.10.154 port 37783 [preauth] \n ..."
+  },
+  {
+    "rank": 7,
+    "id": "msg_1de4f28a94a742953df52b7bc91b00fc9e27cc5747bbf86f28ee79121563fd38",
+    "score": 53.614082,
+    "link": "https://stackoverflow.com/questions/9963971",
+    "source": "so",
+    "origin_doc_id": "63af8e39f3b506411940455f1eb5f89446042325c239270c04c51eeb6bf8092a",
+    "snippet": "Apr  1 12:00:21 nagios sshd[6176]: Received disconnect from 172.16.3.88: 3: com.jcraft.jsch.JSchException: Auth fail"
+  },
+  {
+    "rank": 8,
+    "id": "msg_cf5ef99047bdc8a11c45f550c4a432adf1aa18e148dfeb2dc54d7436b946de6b",
+    "score": 52.59738,
+    "link": "https://issues.apache.org/jira/browse/IVY-1374",
+    "source": "jira",
+    "origin_doc_id": "30387d53abcf8673c71b6600c63eba63bd2787f5f92bb0658e10dc969d0f44c6",
+    "snippet": "Aug 30 10:36:02 zzz sshd[1371]: Received disconnect from zzz.zzz.zzz.zzz: 3: com.jcraft.jsch.JSchException: verify: false [preauth]"
+  },
+  {
+    "rank": 9,
+    "id": "msg_945b9ab3175c5e3632fc84447ac0bfd2d27e9de9973001e0c82cf04d8889015a",
+    "score": 49.263546,
+    "link": "https://stackoverflow.com/questions/47913735",
+    "source": "so",
+    "origin_doc_id": "35920e5f53fdb5cf7c45d5eaa980d423b887ae9f3f8218ddb18befdebb2505dc",
+    "snippet": "Dec 20 19:46:36 raspberrypi sshd[1929]: Received disconnect from 106.250.183.218 port 20371:11: Bye Bye [preauth] \n Dec 20 19:46:36 raspberrypi sshd[1929]: Disconnected from 106.250.183.218 port 20371 [preauth] \n Dec 20 19:47:58 raspberrypi sshd[1931]: Received disconnect from 221.194.47.245 port 37247:11:  [preauth] \n Dec 20 19:47:58 raspberrypi sshd[1931]: Disconnected from 221.194.47.245 port 37247 [preauth] \n Dec 20 19:48:50 raspberrypi sshd[1934]: Did not receive identification string from 23.254.161.114 port 51435 \n Dec 20 19:50:15 raspberrypi sshd[1935]: Did not receive identification string from 195.154.60.109 port 64642 \n Dec 20 19:50:15 raspberrypi sshd[1936]: Invalid user user from 195.154.60.109 port 64943 \nDec 20 19:50:15 raspberrypi sshd[1936]: input_userauth_request: invalid user user [preauth]\nDec 20 19:50:15 raspberrypi sshd[1936]: error: Received disconnect from 195.154.60.109 port 64943:3: com.jcraft.jsch.JSchException: Auth fail [preauth]\nDec 20 19:50:15 raspberrypi sshd[1936]: Disconnected from 195.154.60.109 port 64943 [preauth]\nDec 20 20:02:05 raspberrypi sshd[1997]: Did not receive identification string from 195.154.60.109 port 51264\nDec 20 20:02:06 raspberrypi sshd[1998]: Invalid user user from 195.154.60.109 port 51418\nDec 20 20:02:06 raspberrypi sshd[1998]: input_userauth_request: invalid user user [preauth]\nDec 20 20:02:06 raspberrypi sshd[1998]: error: Received disconnect from 195.154.60.109 port 51418:3: com.jcraft.jsch.JSchException: Auth fail [preauth]\nDec 20 20:02:06 raspberrypi sshd[1998]: Disconnected from 195.154.60.109 port 51418 [preauth]\nDec 20 20:02:31 raspberrypi sshd[2002]: Did not receive identification string from 91.227.47.234 port 53975\nDec 20 20:02:32 raspberrypi sshd[2003]: Invalid user user from 91.227.47.234 port 53982\nDec 20 20:02:32 raspberrypi sshd[2003]: input_userauth_request: invalid user user [preauth]\nDec 20 20:02:32 raspberrypi sshd[2003]: Received disconnect from 91.227.47.234 port 53982:11: Bye Bye [preauth]\nDec 20 20:02:32 raspberrypi sshd[2003]: Disconnected from 91.227.47.234 port 53982 [preauth]\nDec 20 20:03:05 raspberrypi sshd[2023]: Did not receive identification string from 103.79.142.58 port 50841\nDec 20 20:03:08 raspberrypi sshd[2024]: Invalid user user from 103.79.142.58 port 52943\nDec 20 20:03:08 raspberrypi sshd[2024]: input_userauth_request: invalid user user [preauth]\nDec 20 20:03:08 raspberrypi sshd[2024]: error: Received disconnect from 103.79.142.58 port 52943:3: com.jcraft.jsch.JSchException: Auth fail [preauth]"
+  },
+  {
+    "rank": 10,
+    "id": "msg_79c319295d804397fa46bfad498992a58f4876f310e508f321972fd22f14656d",
+    "score": 48.702286,
+    "link": "https://issues.apache.org/jira/browse/NETBEANS-1191",
+    "source": "jira",
+    "origin_doc_id": "9f53a419d345bc3cda3c405b56f3aa19e2c9f7fd3ad6c76f3ebd2a7b5d64417e",
+    "snippet": "25 20:32:32 hq-1 sshd[10726]: error: Received disconnect from 92.251.66.76 port 49622:3: com.jcraft.jsch.JSchException: Auth fail [preauth] Aug 25 20:33:13 hq-1 sshguard[10608]: Blocking 92.251.66.76 for 840 secs (4 attacks in 41 secs, after 1 abuses over 41 secs) Aug 25 20:33:14 hq-1 sshguard[10608]: 92.251.66.76 has already been blocked}}"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_e50d27136844a6ce21c39af504ba804b32d7e7f90b04ebfd2c3005f6cb353525",
+    "score": 38.717636,
+    "link": "https://issues.apache.org/jira/browse/TEZ-2429",
+    "source": "jira",
+    "origin_doc_id": "a267eb1563f6f8c28be26d74c0e0fb31ce35422a1b85e3ac5f905857100c2adf",
+    "snippet": "2015-05-07 16:17:04,878 INFO [main] impl.DAGImpl: dag_1429683757595_0799_1 transitioned from NEW to INITED"
+  },
+  {
+    "rank": 2,
+    "id": "msg_469455803fa3d4aaeb995cab094db226a51e528dad54002ae78765ae50bfab19",
+    "score": 38.28661,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,826 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: job_1564159650361_0001Job Transitioned from NEW to INITED"
+  },
+  {
+    "rank": 3,
+    "id": "msg_0e87c8e994138a4fbcc427f24295e6680e0ea440f24d2b21d8954df93c34b751",
+    "score": 38.28661,
+    "link": "https://stackoverflow.com/questions/29075106",
+    "source": "so",
+    "origin_doc_id": "8804889924d3bb86586e2b967059d726e1328690ac16880f1a3ffbd69e9b1e96",
+    "snippet": "2015-03-16 11:46:53,473 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: job_1426498753001_0001Job Transitioned from NEW to INITED"
+  },
+  {
+    "rank": 4,
+    "id": "msg_8442551ab3f2a2b08e8c18872e076cf4f6ba46190be713691326cfd29f5ffc5b",
+    "score": 38.28661,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:25,489 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: job_1428324095255_0006Job Transitioned from NEW to INITED"
+  },
+  {
+    "rank": 5,
+    "id": "msg_0131b489786fd828ef9621fb2dcc96270669fb77d9056eb184597a3eceec6b33",
+    "score": 38.28661,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:55,568 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: job_1492953411349_0001Job Transitioned from NEW to INITED"
+  },
+  {
+    "rank": 6,
+    "id": "msg_11b60ca797c3c9e9034964aeba45b64d3acc57fa48a077585900681a4b9fbb5b",
+    "score": 38.28661,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:41,857 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: job_1493117927548_0001Job Transitioned from NEW to INITED"
+  },
+  {
+    "rank": 7,
+    "id": "msg_5d908139286d3aabdde24fa04ee69c8ff669b8994e443256fa1bbbf1d1971cb1",
+    "score": 38.28661,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:55,256 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: job_1458608803637_0005Job Transitioned from NEW to INITED"
+  },
+  {
+    "rank": 8,
+    "id": "msg_b37a0e141967234e0189c0fc06edaaa304e2a69f46a2b47a0e53ecec65129a7d",
+    "score": 38.28661,
+    "link": "https://github.com/crs4/pydoop/issues/154",
+    "source": "github",
+    "origin_doc_id": "10efddefd4b8ea3b9e1d5f97d32e75c0c8263a8a5bd3426f0ec9092de77cc2f8",
+    "snippet": "2015-07-17 00:16:27,782 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: job_1437076532675_0007Job Transitioned from NEW to INITED"
+  },
+  {
+    "rank": 9,
+    "id": "msg_abe3fd8e275f8df5c0b3490bf9966ee95d3970df487a7a7b414e3b8f0a52d7c3",
+    "score": 38.28661,
+    "link": "https://stackoverflow.com/questions/49366285",
+    "source": "so",
+    "origin_doc_id": "bab7bd228140fbee7bf887a8ad9a2638f1894ba5dc8341321ccb79ce6cd0cf96",
+    "snippet": "2018-03-20 18:52:35,156 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: job_1518685780617_47486Job Transitioned from NEW to INITED"
+  },
+  {
+    "rank": 10,
+    "id": "msg_41bca72b1f5883caff77f7e33f24de627d87fcc9364432612cf358a3a5b4820a",
+    "score": 38.28661,
+    "link": "https://github.com/crs4/pydoop/issues/216",
+    "source": "github",
+    "origin_doc_id": "92c44987a78dab8d4832c1dcd6cd493412735f9b576da51b8be83f1197678df3",
+    "snippet": "2016-06-22 16:49:01,155 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: job_1465331659466_1048Job Transitioned from NEW to INITED"
+  }
+]

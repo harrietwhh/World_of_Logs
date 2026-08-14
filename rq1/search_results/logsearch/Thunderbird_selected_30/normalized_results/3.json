@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_52b66ee149b7a2eca19f371176f54a892065268cec11f1b4d73f93ca8ff13f56",
+    "score": 63.76749,
+    "link": "https://stackoverflow.com/questions/32291476",
+    "source": "so",
+    "origin_doc_id": "a0761d886f61a458cd05be2a5468e601d26e71b3f18afa2a9c4f8e5449ce7290",
+    "snippet": "Aug 29 07:17:01 aarmora CRON[18387]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Aug 29 08:17:01 aarmora CRON[21194]: (root) CMD (   cd / && run-parts --report / \n etc/cron.hourly) \n Aug 29 09:17:01 aarmora CRON[23532]: (root) CMD (   cd / && run-parts --report / \n etc/cron.hourly) \n Aug 29 10:17:01 aarmora CRON[24551]: (root) CMD (   cd / && run-parts --report / \n etc/cron.hourly) \n Aug 29 11:17:01 aarmora CRON[24910]: (root) CMD (   cd / && run-parts --report / \n etc/cron.hourly) \nAug 29 12:17:01 aarmora CRON[25275]: (root) CMD (   cd / && run-parts --report /\netc/cron.hourly)\nAug 29 13:17:01 aarmora CRON[25662]: (root) CMD (   cd / && run-parts --report /\netc/cron.hourly)\nAug 29 14:17:01 aarmora CRON[25940]: (root) CMD (   cd / && run-parts --report /\netc/cron.hourly)\nAug 29 15:17:01 aarmora CRON[26114]: (root) CMD (   cd / && run-parts --report /\netc/cron.hourly)\nAug 29 16:17:01 aarmora CRON[26517]: (root) CMD (   cd / && run-parts --report /\netc/cron.hourly)\nAug 29 17:17:01 aarmora CRON[26917]: (root) CMD (   cd / && run-parts --report / \n etc/cron.hourly) \n Aug 29 18:17:01 aarmora CRON[27368]: (root) CMD (   cd / && run-parts --report / \n etc/cron.hourly)"
+  },
+  {
+    "rank": 2,
+    "id": "msg_72909068ae4e564ab1153cb7cb5206ead4f9f4f89f062f52b50348bf924fca5d",
+    "score": 60.865715,
+    "link": "https://github.com/osixia/docker-openldap-backup/issues/9",
+    "source": "github",
+    "origin_doc_id": "a46ffbf535d4b766a4b735ff8412ae485127d1473aa4d9c3077412268c3a3403",
+    "snippet": "Dec 19 17:17:01 openldap CRON[374]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Dec 19 18:17:01 openldap CRON[379]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Dec 19 19:17:01 openldap CRON[385]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Dec 19 20:17:01 openldap CRON[390]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_027661e8dce5bea9d6a92028c75c0f00a85d30499960d189fd19d59c7aa7fb91",
+    "score": 59.9896,
+    "link": "https://stackoverflow.com/questions/12453432",
+    "source": "so",
+    "origin_doc_id": "d7f8a921fa04a0d95b34bcb256cc4b0f39e004f4344c98455dfaf0d6ae24cfd6",
+    "snippet": "CROND[1876]: (ec2-user) CMD (/home/ec2-user/utilities/create-snapshots.sh) \n CROND[1877]: (root) CMD (/usr/lib64/sa/sa1 -S DISK 1 1) \n CROND[1892]: (root) CMD (run-parts /etc/cron.hourly) \n run-parts(/etc/cron.hourly)[1892]: starting 0anacron\nrun-parts(/etc/cron.hourly)[1901]: finished 0anacron"
+  },
+  {
+    "rank": 4,
+    "id": "msg_be658a456b2813d0263abe0276b7129585daa0445652e830ae50aa566461ff94",
+    "score": 59.065628,
+    "link": "https://stackoverflow.com/questions/60842683",
+    "source": "so",
+    "origin_doc_id": "4a6857a17edd416bd78772c28d109a9f70b898b6c1e914c9b932bb1efaceb2d2",
+    "snippet": "... \n Mar 25 03:05:01 ip-172-31-32-110 CRON[10077]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Mar 25 03:06:01 ip-172-31-32-110 CRON[10108]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Mar 25 03:07:01 ip-172-31-32-110 CRON[10122]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \nMar 25 03:08:01 ip-172-31-32-110 CRON[10149]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Mar 25 03:09:01 ip-172-31-32-110 CRON[10162]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_3e78225022c03e186bc88314db8a0670f5bca16f8b74df9fea93195cef55caf8",
+    "score": 58.354015,
+    "link": "https://stackoverflow.com/questions/4899827",
+    "source": "so",
+    "origin_doc_id": "e30914f3236a16607ac71f785e44d052424cf5c872015755ef6405df972bd2de",
+    "snippet": "Feb  4 07:00:01 ---- crond[27745]: (root) CMD (/etc/wordpress.sh    #WordPress mirror) \n Feb  4 07:01:01 ---- crond[27773]: (root) CMD (run-parts /etc/cron.hourly) \n Feb  4 08:00:01 ---- crond[29095]: (root) CMD (/etc/wordpress.sh    #WordPress mirror) \nFeb  4 08:01:01 ---- crond[29142]: (root) CMD (run-parts /etc/cron.hourly) \n Feb  4 09:00:01 ---- crond[29708]: (root) CMD (/etc/wordpress.sh    #WordPress mirror) \n Feb  4 09:01:01 ---- crond[29718]: (root) CMD (run-parts /etc/cron.hourly) \n Feb  4 10:00:01 ---- crond[30328]: (root) CMD (/etc/wordpress.sh    #WordPress mirror) \n Feb  4 10:01:01 ---- crond[30337]: (root) CMD (run-parts /etc/cron.hourly)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_5427d0f8893bd5f312292d3688fbd8f77bf9567a03226cb951aa5abd765a003b",
+    "score": 56.71851,
+    "link": "https://stackoverflow.com/questions/53213626",
+    "source": "so",
+    "origin_doc_id": "6ffcaac17d8a346c36a7df2fed2ebdd4ed3d2edee7c3349774f35756765df327",
+    "snippet": "$ grep CRON /var/log/syslog \n Oct 16 07:17:01 raspberrypi CRON[17192]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Oct 16 08:17:01 raspberrypi CRON[17230]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Oct 16 09:17:01 raspberrypi CRON[17265]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Oct 16 10:17:01 raspberrypi CRON[17301]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Oct 16 10:17:03 raspberrypi cron[319]: (CRON) INFO (pidfile fd = 3) \nOct 16 10:17:03 raspberrypi cron[319]: (CRON) INFO (Running @reboot jobs)\nOct 16 10:17:03 raspberrypi cron[298]: (CRON) INFO (pidfile fd = 3)\nOct 16 10:17:03 raspberrypi cron[298]: (CRON) INFO (Running @reboot jobs)\nOct 16 11:17:01 raspberrypi CRON[1718]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nOct 16 11:51:38 raspberrypi cron[276]: (CRON) INFO (pidfile fd = 3)\nOct 16 11:51:38 raspberrypi cron[276]: (CRON) INFO (Running @reboot jobs)\nOct 16 12:17:01 raspberrypi CRON[1019]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nOct 16 13:17:02 raspberrypi CRON[1051]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nOct 16 14:17:01 raspberrypi CRON[1171]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nOct 16 15:17:01 raspberrypi CRON[1283]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)"
+  },
+  {
+    "rank": 7,
+    "id": "msg_fefd87a50e42ee65ccd17a4298e033a5f5a6dd28c26d8636efec4d08f6f2bfd2",
+    "score": 55.819954,
+    "link": "https://stackoverflow.com/questions/29060681",
+    "source": "so",
+    "origin_doc_id": "f17e7d1e3bc31e316434ded2b30a490efe9e22f63d1281e8925087298ea21cb4",
+    "snippet": "ar 15 06:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[16107]: starting logrotateTomcat \n Mar 15 06:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[16124]: finished logrotateTomcat \n Mar 15 06:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[16107]: starting mcelog.cron \n Mar 15 06:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[16139]: finished mcelog.cron \n Mar 15 06:10:01 adaptapppsdev CROND[16273]: (root) CMD (/usr/lib64/sa/sa1 1 1) \n Mar 15 06:20:01 adaptapppsdev CROND[16423]: (root) CMD (/usr/lib64/sa/sa1 1 1) \n Mar 15 06:30:01 adaptapppsdev CROND[16567]: (root) CMD (/usr/lib64/sa/sa1 1 1) \nMar 15 06:40:01 adaptapppsdev CROND[16713]: (root) CMD (/usr/lib64/sa/sa1 1 1)\nMar 15 06:50:01 adaptapppsdev CROND[16859]: (root) CMD (/usr/lib64/sa/sa1 1 1)\nMar 15 07:00:01 adaptapppsdev CROND[17005]: (root) CMD (/usr/lib64/sa/sa1 1 1)\nMar 15 07:01:01 adaptapppsdev CROND[17025]: (root) CMD (run-parts /etc/cron.hourly)\nMar 15 07:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[17025]: starting 0anacron\nMar 15 07:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[17034]: finished 0anacron\nMar 15 07:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[17025]: starting logrotateTomcat\nMar 15 07:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[17042]: finished logrotateTomcat\nMar 15 07:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[17025]: starting mcelog.cron\nMar 15 07:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[17057]: finished mcelog.cron\nMar 15 07:10:01 adaptapppsdev CROND[17187]: (root) CMD (/usr/lib64/sa/sa1 1 1)\nMar 15 07:20:01 adaptapppsdev CROND[17333]: (root) CMD (/usr/lib64/sa/sa1 1 1)\nMar 15 07:30:02 adaptapppsdev CROND[17479]: (root) CMD (/usr/lib64/sa/sa1 1 1)\nMar 15 07:40:01 adaptapppsdev CROND[17625]: (root) CMD (/usr/lib64/sa/sa1 1 1)\nMar 15 07:50:01 adaptapppsdev CROND[17772]: (root) CMD (/usr/lib64/sa/sa1 1 1)\nMar 15 08:00:01 adaptapppsdev CROND[17954]: (root) CMD (/usr/lib64/sa/sa1 1 1)\nMar 15 08:01:01 adaptapppsdev CROND[17977]: (root) CMD (run-parts /etc/cron.hourly)\nMar 15 08:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[17977]: starting 0anacron\nMar 15 08:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[17986]: finished 0anacron\nMar 15 08:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[17977]: starting logrotateTomcat\nMar 15 08:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[17994]: finished logrotateTomcat \n Mar 15 08:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[17977]: starting mcelog.cron \n Mar 15 08:01:01 adaptapppsdev run-parts(/etc/cron.hourly)[18009]: finished mcelog.cron \n Mar 15 08:10:01 adaptapppsdev CROND[18168]: (root) CMD (/usr/lib64/sa/sa1 1 1) \n Mar 15 08:14:04 adaptapppsdev crontab[18230]: (root) LIST (root) \n Mar 15 08:20:01 adaptapppsdev CROND[18327]: (root) CMD (/usr/lib64/sa/sa1 1 1) \n Mar 15 08:30:01 adaptapppsdev CROND[18473]: (root) CMD (/usr/lib64/sa/sa1 1 1)"
+  },
+  {
+    "rank": 8,
+    "id": "msg_c154d8cd299b1a4cd80e6a7129b5c6216999447bfbccee4a59862040d4f08fcc",
+    "score": 55.207577,
+    "link": "https://stackoverflow.com/questions/51655134",
+    "source": "so",
+    "origin_doc_id": "4ec278ae6d44bc75c0e9f95b2e3fdb84c166785b34cace274bca07aafb18c5ab",
+    "snippet": "found\nAug  3 08:17:01 Domarius-LinuxMint CRON[3259]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nAug  3 09:17:01 Domarius-LinuxMint CRON[3876]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nAug  3 10:17:01 Domarius-LinuxMint CRON[4122]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nAug  3 11:17:01 Domarius-LinuxMint CRON[4349]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nAug  3 12:17:01 Domarius-LinuxMint CRON[4719]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nAug  3 13:17:01 Domarius-LinuxMint CRON[5028]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nAug  3 14:17:01 Domarius-LinuxMint CRON[5317]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nAug  3 15:17:01 Domarius-LinuxMint CRON[5933]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nAug  3 16:17:01 Domarius-LinuxMint CRON[7083]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nAug  3 20:26:38 Domarius-LinuxMint cron[1089]: (CRON) INFO (pidfile fd = 3)\nAug  3 20:26:38 Domarius-LinuxMint cron[1089]: (CRON) INFO (Running @reboot jobs)\nAug  3 20:30:01 Domarius-LinuxMint CRON[2670]: (root) CMD (shutdown -P now \"Shutting down...\")\nAug  3 20:30:01 Domarius-LinuxMint CRON[2671]: (domarius) CMD (/sbin/shutdown -p now)\nAug  3 20:30:01 Domarius-LinuxMint CRON[2669]: (CRON) info (No MTA installed, discarding output)\nAug  3 20:30:01 Domarius-LinuxMint CRON[2668]: (CRON) info (No MTA installed, discarding output)\nAug  3 21:17:01 Domarius-LinuxMint CRON[3058]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nAug  3 21:30:01 Domarius-LinuxMint CRON[3232]: (domarius) CMD (/sbin/shutdown -p now)\nAug  3 21:30:01 Domarius-LinuxMint CRON[3233]: (root) CMD (shutdown -P now \"Shutting down...\")\nAug  3 21:30:01 Domarius-LinuxMint CRON[3231]: (CRON) info (No MTA installed, discarding output)\nAug  3 21:30:01 Domarius-LinuxMint CRON[3230]: (CRON) info (No MTA installed, discarding output)\nAug  3 22:17:01 Domarius-LinuxMint CRON[3515]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_2f0ba8663a2e148475bf6ced21663725c744ba295483d5036138b26d04104a08",
+    "score": 55.196564,
+    "link": "https://github.com/jishi/node-sonos-http-api/issues/550",
+    "source": "github",
+    "origin_doc_id": "ff689f87bc6445ffd8211b81b239aeab15b7f81b3455ce509bccefceb22d852a",
+    "snippet": "/var/log/syslog \n Oct 22 08:17:01 raspberrypi CRON[24758]: (root) CMD ( cd / && run-parts --report /etc/cron.hourly) \n Oct 22 09:17:01 raspberrypi CRON[24781]: (root) CMD ( cd / && run-parts --report /etc/cron.hourly) \n Oct 22 10:17:01 raspberrypi CRON[24799]: (root) CMD ( cd / && run-parts --report /etc/cron.hourly) \n Oct 22 11:17:01 raspberrypi CRON[24823]: (root) CMD ( cd / && run-parts --report /etc/cron.hourly) \n Oct 22 12:17:01 raspberrypi CRON[24847]: (root) CMD ( cd / && run-parts --report /etc/cron.hourly) \n Oct 22 12:35:52 raspberrypi systemd[1]: Starting Cleanup of Temporary Directories... \n Oct 22 12:35:52 raspberrypi systemd[1]: Started Cleanup of Temporary Directories. \nOct 22 13:17:01 raspberrypi CRON[24871]: (root) CMD ( cd / && run-parts --report /etc/cron.hourly)\nOct 22 13:26:03 raspberrypi systemd[1]: Started Session c4 of user pi.\nOct 22 13:27:42 raspberrypi systemd[1]: Started Session c5 of user pi."
+  },
+  {
+    "rank": 10,
+    "id": "msg_5e4def26dc9b33ce06b2cebcd5288a69d154f9f37d8899dfb57d71f7478f7710",
+    "score": 55.196564,
+    "link": "https://github.com/bwssytems/ha-bridge/issues/746",
+    "source": "github",
+    "origin_doc_id": "f1710571a22f5f335a2805490b6de6378ad342c223bb29ae414257b7e806a3c4",
+    "snippet": "-f /var/log/syslog \n Oct 22 08:17:01 raspberrypi CRON[24758]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Oct 22 09:17:01 raspberrypi CRON[24781]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Oct 22 10:17:01 raspberrypi CRON[24799]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Oct 22 11:17:01 raspberrypi CRON[24823]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Oct 22 12:17:01 raspberrypi CRON[24847]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Oct 22 12:35:52 raspberrypi systemd[1]: Starting Cleanup of Temporary Directories... \n Oct 22 12:35:52 raspberrypi systemd[1]: Started Cleanup of Temporary Directories. \nOct 22 13:17:01 raspberrypi CRON[24871]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)\nOct 22 13:26:03 raspberrypi systemd[1]: Started Session c4 of user pi.\nOct 22 13:27:42 raspberrypi systemd[1]: Started Session c5 of user pi."
+  }
+]

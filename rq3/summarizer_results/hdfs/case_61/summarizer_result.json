@@ -1,0 +1,7 @@
+{
+  "case_id": "61",
+  "case_input": "retrieval_results/query_group_logs/hdfs_intermediate_group_logs/case_61_group_logs/case_input.json",
+  "retrieved_candidates": "retrieval_results/query_group_logs/hdfs_intermediate_group_logs/case_61_group_logs/retrieved_candidates.json",
+  "response": "Filtered Relevant Items:\n1. [4] DFS logging in NameSystem.pendingTransfer consumes all disk space\n\nExternal Knowledge Summary:\n- A reported NameNode failure mode produced roughly 10,000 `ask ... to replicate ...` messages per second, eventually exhausting disk space.\n- The discussion links the flood to replication work entering a pending state for retries, while the referenced implementation noted that the retry timer was not yet implemented.",
+  "external_knowledge_summary": "- A reported NameNode failure mode produced roughly 10,000 `ask ... to replicate ...` messages per second, eventually exhausting disk space.\n- The discussion links the flood to replication work entering a pending state for retries, while the referenced implementation noted that the retry timer was not yet implemented."
+}

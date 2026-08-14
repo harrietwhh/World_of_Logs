@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_1000512f8557b2c3c2d327855e0d3bc996a159142ee775475377248525d26d1c",
+    "score": 42.097496,
+    "link": "https://stackoverflow.com/questions/35327809",
+    "source": "so",
+    "origin_doc_id": "311f6d225004077b4b785bdc3c361b58b27a366a55ee369b86d84e6d4386b3c7",
+    "snippet": "System.out.println(\"max value is \" +max);\nSystem.out.println(\"min value is \"+min);\nSystem.out.println(\"max value is \" +max);"
+  },
+  {
+    "rank": 2,
+    "id": "msg_1ba1a1ad8bf03aee1b7ce50d1dd838dd0854899a96dd99b1a97743138f16e5ea",
+    "score": 41.38493,
+    "link": "https://issues.apache.org/jira/browse/HBASE-26023",
+    "source": "jira",
+    "origin_doc_id": "15e41af2a488f1b4875cc3dfe46806ef9b12e8a79fa494271a3c8c3957008bf9",
+    "snippet": "LOG.info(\"min = {}, max = {}, cost= {}\", min, max, value);"
+  },
+  {
+    "rank": 3,
+    "id": "msg_65c77e4f3a526d252a5afee47abd18c5aee6aa29c2f5b209a2bb5a1e75caa7d9",
+    "score": 41.13389,
+    "link": "https://github.com/rstudio/shiny/pull/3273",
+    "source": "github",
+    "origin_doc_id": "beab2d9c7010b6d9bd51d0fda2b30a91572ace09cae2bec8c509eeedc44483bf",
+    "snippet": "Error in validate_slider_value(min, max, value, \"sliderInput\") :  \n   argument \"min\" is missing, with no default \n ```\nError in dropNulls(list(value, min, max)) :  \n   argument \"value\" is missing, with no default"
+  },
+  {
+    "rank": 4,
+    "id": "msg_4e0dc1559b0864aecee775c6e2fd02690684128f1e3b2167e2db28ec15e7108d",
+    "score": 41.09743,
+    "link": "https://stackoverflow.com/questions/60644367",
+    "source": "so",
+    "origin_doc_id": "9156690114ba63389e5a79d6519bc19008b1b6c201b70bf2a4b90ab930283f09",
+    "snippet": "System.out.print(\"min value is = \" + min + \" max value is = \" + max);"
+  },
+  {
+    "rank": 5,
+    "id": "msg_c9929ba79ee58a3bcd1eba69bd86af6b54db7c21461b222d88aadeeeb10215bd",
+    "score": 40.51703,
+    "link": "https://stackoverflow.com/questions/35327809",
+    "source": "so",
+    "origin_doc_id": "311f6d225004077b4b785bdc3c361b58b27a366a55ee369b86d84e6d4386b3c7",
+    "snippet": "input.nextInt();\nSystem.out.println(\"max value is \" +max); \nSystem.out.println(\"min value is \"+min);"
+  },
+  {
+    "rank": 6,
+    "id": "msg_8ca734f2aa14215fb3e1dd741628c1e9eeedda66f97701ec638e1acb9287be81",
+    "score": 39.40405,
+    "link": "https://stackoverflow.com/questions/191153",
+    "source": "so",
+    "origin_doc_id": "e0b7de6e4d4329768c1a6eaf4570b685c87852dff8efe7c002d6145e7f2ee6ac",
+    "snippet": "Console.WriteLine(\"max and min value is valid\");\nConsole.WriteLine(\"max and min value is not valid\");"
+  },
+  {
+    "rank": 7,
+    "id": "msg_801ca14c27305b2a81fa1f444ee20d11b9852970e3e0a90481cd69f49831ff37",
+    "score": 39.40405,
+    "link": "https://stackoverflow.com/questions/20765559",
+    "source": "so",
+    "origin_doc_id": "50a16ce7529b559fcf1c4edc8a90d73fd5018a98a12940557f874ac2274f4b0e",
+    "snippet": "Console.WriteLine(\"max and min value is valid\");\nConsole.WriteLine(\"max and min value is not valid\");"
+  },
+  {
+    "rank": 8,
+    "id": "msg_fff007ca33d6806460ac5a08d391643c8a6dad3a9532e83788710126668da1ba",
+    "score": 39.032425,
+    "link": "https://stackoverflow.com/questions/29452190",
+    "source": "so",
+    "origin_doc_id": "171246c5c6a63423b901f7641091c9d2d9ff63137829c58139558932d2bdd74b",
+    "snippet": "System.out.println(\"min value is \" + m);\nSystem.out.println(\"max value is \" + l); // outputs max value"
+  },
+  {
+    "rank": 9,
+    "id": "msg_9922293a791aff0cae0f9c074ef54601722fb50177ef49e8803764c4ef315191",
+    "score": 38.678764,
+    "link": "https://stackoverflow.com/questions/57229673",
+    "source": "so",
+    "origin_doc_id": "576544ebb953798e5453204c8ab21ddd1d89098b720c100aaf5201e6daebed8e",
+    "snippet": "System.out.println(\"CHARACTER WITH MAX & MIN CODE POINT VALUE  IN WORD \"+word +\"IS: \"+ max + min);"
+  },
+  {
+    "rank": 10,
+    "id": "msg_e7e01aadc2a32d6116a80f526ec114e7d36bfc8b652bbace4ee99851ebf0a35c",
+    "score": 38.659286,
+    "link": "https://github.com/code-iai/iai_kinect2/issues/387",
+    "source": "github",
+    "origin_doc_id": "57503a330e7b5cd005fed4cb88fff9e9153b7f8eea583844b48147f989437938",
+    "snippet": "Field\nTopic depth: /kinect2/sd/image_depth\n       Path: ./\n\n[ INFO] [main] starting recorder...\n[ INFO] [Recorder::startRecord] Controls:\n   [ESC, q] - Exit\n [SPACE, s] - Save current frame\n        [l] - decrease min and max value for IR value range\n        [h] - increase min and max value for IR value range\n        [1] - decrease min value for IR value range\n        [2] - increase min value for IR value range\n        [3] - decrease max value for IR value range\n        [4] - increase max value for IR value range\n[ERROR] Tried to advertise a service that is already advertised in this node [/kinect2_calib_1498205553081554212/compressed/set_parameters]\n[ERROR] Tried to advertise a service that is already advertised in this node [/kinect2_calib_1498205553081554212/compressed/set_parameters]\nPlease help"
+  }
+]

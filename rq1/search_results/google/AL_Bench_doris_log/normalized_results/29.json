@@ -1,0 +1,150 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Unable to establish SSL connection, how do I fix my ...",
+    "link": "https://stackoverflow.com/questions/15166950/unable-to-establish-ssl-connection-how-do-i-fix-my-ssl-cert",
+    "displayed_link": "10+ answers · 13 years ago",
+    "snippet": "Enable SSL/TLS on the port at the server. The error usually means HTML (served over HTTP) is being interpreted as a SSL Record (as if it was served over HTTPS).",
+    "snippet_highlighted_words": [
+      "SSL",
+      "error",
+      "SSL"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "This error usually occurs when a fatal SSL/TLS alert is ...",
+    "link": "https://github.com/desktop/desktop/issues/15577",
+    "displayed_link": "https://github.com › desktop › desktop › issues",
+    "snippet": "This error usually occurs when a fatal SSL/TLS alert is received (eg handshake failed). More detail may be available in the Windows System event log.",
+    "snippet_highlighted_words": [
+      "error",
+      "fatal SSL",
+      "failed"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "ANS1592E Failed to initialize SSL protocol",
+    "link": "https://www.ibm.com/support/pages/ans1592e-failed-initialize-ssl-protocol",
+    "displayed_link": "https://www.ibm.com › support › pages",
+    "snippet": "The following error is displayed when dsmc command is issued: ANS1592E (RC-362) Failed to initialize SSL protocol.",
+    "snippet_highlighted_words": [
+      "ANS1592E (RC-362"
+    ],
+    "source": "IBM",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "How to Fix “Could not create SSL/TLS secure channel”",
+    "link": "https://kodekloud.com/blog/how-to-fix-could-not-create-ssl-tls-secure-channel/",
+    "displayed_link": "https://kodekloud.com › blog › how-to-fix-could-not-c...",
+    "snippet": "Learn how to troubleshoot and fix the common SSL/TLS error that occurs when you try to access a web service or API over HTTPS.",
+    "snippet_highlighted_words": [
+      "Learn how to troubleshoot and fix the common SSL/TLS error"
+    ],
+    "source": "KodeKloud",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Apache: fatal error initialising mod_ssl / Networking, Server ...",
+    "link": "https://bbs.archlinux.org/viewtopic.php?id=225495",
+    "displayed_link": "https://bbs.archlinux.org › viewtopic",
+    "snippet": "The proper fix is to ensure you have an up to date mirror and fully update your system (like nearly every other of the dozen or so related threads posted today ...",
+    "snippet_highlighted_words": [],
+    "source": "Arch Linux Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "javax.net.ssl.SSLException: Received fatal alert",
+    "link": "https://help.hcl-software.com/commerce/9.0.0/admin/refs/rlstroubleshootlogs2.html",
+    "displayed_link": "https://help.hcl-software.com › refs › rlstroubleshootlogs2",
+    "snippet": "Use this topic to troubleshoot authentication errors in your WebSphere Application Server V8.5.5 Liberty logs.",
+    "snippet_highlighted_words": [
+      "troubleshoot authentication errors"
+    ],
+    "source": "HCLSoftware",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Error when trying to start Apache after installing SSL cert",
+    "link": "https://serverfault.com/questions/444400/error-when-trying-to-start-apache-after-installing-ssl-cert",
+    "displayed_link": "https://serverfault.com › questions › error-when-trying-...",
+    "snippet": "I am trying to install an SSL certificate, and I get the following errors: AH02241: Init: Unable to read server certificate from file /path/my.crt.",
+    "snippet_highlighted_words": [
+      "SSL",
+      "Init",
+      "Unable"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Fixing the Git fatal: unable to access Error: SSL Certificate ...",
+    "link": "https://lucaberton.medium.com/fixing-the-git-fatal-unable-to-access-error-ssl-certificate-problem-self-signed-certificate-in-a5ad77cc78f7",
+    "displayed_link": "1 like · 7 months ago",
+    "snippet": "This issue commonly arises when Git cannot validate the SSL certificate of the server you're connecting to — usually because the server is using ...",
+    "snippet_highlighted_words": [
+      "SSL",
+      "because"
+    ],
+    "source": "Medium · Luca Berton",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "How to resolve common ssl-related errors in Apache",
+    "link": "https://knowledge.digicert.com/solution/steps-to-resolve-common-apache-errors",
+    "displayed_link": "https://knowledge.digicert.com › Troubleshooting",
+    "snippet": "This error can be caused by mod_ssl not being installed on a server. This module is required by Apache to create SSL connections.",
+    "snippet_highlighted_words": [
+      "error",
+      "create SSL"
+    ],
+    "source": "DigiCert",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "A fatal error occurred when attempting to access the SSL ...",
+    "link": "https://learn.microsoft.com/en-us/answers/questions/1251692/a-fatal-error-occurred-when-attempting-to-access-t",
+    "displayed_link": "https://learn.microsoft.com › en-us › answers › questions",
+    "snippet": "A fatal error occurred when attempting to access the SSL server credential private key. The error code returned from the cryptographic module is 0x8009030d.",
+    "snippet_highlighted_words": [
+      "fatal error",
+      "SSL",
+      "error"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

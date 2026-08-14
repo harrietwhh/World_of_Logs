@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_76981e0026f017ad98e635862aaa346fa8a7e4aa4dc0d5d0d954b547b89d6db1",
+    "score": 79.4965,
+    "link": "https://github.com/php/php-src/pull/3488",
+    "source": "github",
+    "origin_doc_id": "34f1d13bc23fe26d0b25107e57425dbdae914794eba45b214a514be3fe8af43f",
+    "snippet": "001+ Warning: stream_socket_client(): SSL: Handshake timed out in C:\\projects\\php-src\\ext\\openssl\\tests\\ServerClientTestCase.inc(130) : eval()'d code on line 14 \n 001- Warning: stream_socket_client(): Peer certificate CN=`*.test.com' did not match expected CN=`foo.test.com.sg' in %s on line %d \n ========DONE======== \n FAIL Bug #65729: CN_match gives false positive when wildcard is used [C:\\projects\\php-src\\ext\\openssl\\tests\\bug65729.phpt]"
+  },
+  {
+    "rank": 2,
+    "id": "msg_5afae30d112025849d9142c8905fa44f39b8fbdebed5e90934b265446aeff29b",
+    "score": 76.82703,
+    "link": "https://github.com/phpv8/v8js/issues/270",
+    "source": "github",
+    "origin_doc_id": "40e9ddf473994a34baa2e6c662b9e07e16d5630d19c9f98135c9b90e796d43d9",
+    "snippet": "TEST 40/163 [tests/create_snapshot_basic.phpt] \n ========DIFF======== \n 001+ ** ERROR: process timed out ** \n 001- string(29) \"snapshot successfully created\" \n 002- int(46) \n 003- ===EOF=== \n ========DONE======== \n FAIL Test V8Js::createSnapshot() : Basic snapshot creation & re-use [tests/create_snapshot_basic.phpt]  \nTEST 114/163 [tests/memory_limit.phpt] \n ========DIFF======== \n 001+ ** ERROR: process timed out ** \n 001- V8JsMemoryLimitException \n 002- Script memory limit of 10000000 bytes exceeded \n 003- ===EOF=== \n ========DONE======== \n FAIL Test V8::executeString() : Memory limit [tests/memory_limit.phpt]  \n TEST 149/163 [tests/set_memory_limit_001.phpt] \n========DIFF======== \n 003+  \n 004+  ** ERROR: process timed out ** \n 003- V8JsMemoryLimitException \n 004- Script memory limit of 10000000 bytes exceeded \n 005- ===EOF=== \n ========DONE======== \n FAIL Test V8::setMemoryLimit() : Memory limit applied to V8Function calls [tests/set_memory_limit_001.phpt]  \n TEST 150/163 [tests/set_memory_limit_003.phpt] \n========DIFF======== \n 003+  \n 004+  ** ERROR: process timed out ** \n 003- V8JsMemoryLimitException \n 004- Script memory limit of 10000000 bytes exceeded \n 005- ===EOF=== \n ========DONE======== \n FAIL Test V8::setMemoryLimit() : Memory limit can be imposed later [tests/set_memory_limit_003.phpt]  \n TEST 151/163 [tests/set_memory_limit_basic.phpt] \n========DIFF======== \n 001+ ** ERROR: process timed out ** \n 001- V8JsMemoryLimitException \n 002- Script memory limit of 10000000 bytes exceeded \n 003- ===EOF=== \n ========DONE======== \n FAIL Test V8::setMemoryLimit() : Memory limit can be set on V8Js object [tests/set_memory_limit_basic.phpt]  \n Number of tests :  163               160 \n Tests skipped   :    3 (  1.8%) -------- \nTests warned    :    0 (  0.0%) (  0.0%) \n Tests failed    :    5 (  3.1%) (  3.1%) \n Expected fail   :    0 (  0.0%) (  0.0%) \n Tests passed    :  155 ( 95.1%) ( 96.9%) \n ```"
+  },
+  {
+    "rank": 3,
+    "id": "msg_5e109d1703b273cd9e8ed07309ce27cee36ed759e1dc287302ff08d1fc401029",
+    "score": 70.34584,
+    "link": "https://github.com/php/php-src/pull/5624",
+    "source": "github",
+    "origin_doc_id": "8009aef9c65e8cc076a5d0839b5a6dee6dcbc7d11f06e6f0e122aec5b28dca84",
+    "snippet": "001+ Warning: IntlCalendar::roll(): intlcal_roll: value out of bounds in /home/vsts/work/1/s/ext/intl/tests/calendar_roll_variation1.php on line 6 \n 002+ bool(false) \n 001- bool(true) \n 003- int(29) \n 004+ int(28) \n 006- int(28) \n007+ int(27) \n ========DONE======== \n FAIL IntlCalendar::roll() bool argument variation [ext/intl/tests/calendar_roll_variation1.phpt]  \n ========DIFF======== \n 001+ Warning: IntlCalendar::roll(): intlcal_roll: value out of bounds in /home/vsts/work/1/s/ext/intl/tests/calendar_isEquivalentTo_basic.php on line 9 \n ========DONE======== \n FAIL IntlCalendar::isEquivalentTo() basic test [ext/intl/tests/calendar_isEquivalentTo_basic.phpt]  \n ```\nEnsure type hints are enforced for functions invoked as callbacks. [tests/classes/type_hinting_004.phpt] \n ZE2 type hinting [tests/lang/type_hints_002.phpt] \n Bug #63635 (Segfault in gc_collect_cycles) [Zend/tests/bug63635.phpt] \n Bug #68446 (Array constant not accepted for array parameter default) [Zend/tests/bug68446.phpt] \n Testing type-hinted lambda parameter inside namespace [Zend/tests/ns_074.phpt] \n Testing parameter type-hinted with default value inside namespace [Zend/tests/ns_070.phpt] \n Testing parameter type-hinted (array) with default value inside namespace [Zend/tests/ns_071.phpt] \n Testing parameter type-hinted with interface [Zend/tests/ns_072.phpt]"
+  },
+  {
+    "rank": 4,
+    "id": "msg_65328f8ef65bdd0a857580133a0bd7b7e4ea14106b0872936a604dd0809b4752",
+    "score": 70.28439,
+    "link": "https://github.com/krakjoe/cmark/issues/17",
+    "source": "github",
+    "origin_doc_id": "ed0ee0f712ff0051f3a9aded7c7a8bd147be27b5b56e694791292e872a17803c",
+    "snippet": "``` \n TEST 108/268 [tests/Node/BulletList/009.phpt] \n ========DIFF======== \n 001+ Termsig=11 \n 001- bool(false) \n 002- bool(true) \n ========DONE======== \n FAIL CommonMark\\Node\\BulletList cached write tight [tests/Node/BulletList/009.phpt]  \n TEST 110/268 [tests/Node/BulletList/011.phpt] \n========DIFF======== \n 001+ Termsig=11 \n 001- int(1) \n 002- int(2) \n ========DONE======== \n FAIL CommonMark\\Node\\BulletList cached write delimiter [tests/Node/BulletList/011.phpt]  \n TEST 139/268 [tests/Node/Custom/004.phpt] \n ========DIFF======== \n 001+ Termsig=11 \n001- string(2) \"OK\" \n 002- string(2) \"KO\" \n ========DONE======== \n FAIL CommonMark\\Node\\Custom cached write onEnter [tests/Node/Custom/004.phpt]  \n TEST 140/268 [tests/Node/Custom/005.phpt] \n ========DIFF======== \n 001+ Termsig=11 \n 001- string(2) \"OK\" \n 002- string(2) \"KO\" \n========DONE======== \n FAIL CommonMark\\Node\\Custom cached write onLeave [tests/Node/Custom/005.phpt]  \n TEST 182/268 [tests/Node/Heading/008.phpt] \n ========DIFF======== \n 001+ Termsig=11 \n 001- int(1) \n 002- int(2) \n ========DONE======== \n FAIL CommonMark\\Node\\Heading cached write [tests/Node/Heading/008.phpt]  \nTEST 207/268 [tests/Node/Media/011.phpt] \n ========DIFF======== \n 001+ Termsig=11 \n 001- string(2) \"OK\" \n 002- string(2) \"KO\" \n ========DONE======== \n FAIL CommonMark\\Node\\Media write cached title [tests/Node/Media/011.phpt]  \n TEST 208/268 [tests/Node/Media/012.phpt] \n========DIFF======== \n 001+ Termsig=11 \n 001- string(2) \"OK\" \n 002- string(2) \"KO\" \n ========DONE======== \n FAIL CommonMark\\Node\\Media write cached url [tests/Node/Media/012.phpt]  \n TEST 226/268 [tests/Node/OrderedList/007.phpt] \n ========DIFF======== \n 001+ Termsig=11 \n001- OK \n ========DONE======== \n FAIL CommonMark\\Node\\OrderedList write cached start [tests/Node/OrderedList/007.phpt]  \n TEST 239/268 [tests/Node/Text/007.phpt] \n ========DIFF======== \n 001+ Termsig=11 \n 001- string(2) \"OK\" \n 002- string(2) \"KO\" \n ========DONE======== \nFAIL CommonMark\\Node\\Text cached write [tests/Node/Text/007.phpt]"
+  },
+  {
+    "rank": 5,
+    "id": "msg_c28dfd44759152edcf59165f74a62789fb2bfe463d63c2f7b333bd578a95aba2",
+    "score": 69.35117,
+    "link": "https://github.com/php/php-src/issues/8147",
+    "source": "github",
+    "origin_doc_id": "f1a4d1be2255900824f278a2dcc70084fe19f5a8511fc53d91d6f11f6a10c272",
+    "snippet": "========DIFF======== \n 001+ Segmentation fault \n 001- DONE \n ========DONE======== \n FAIL JIT ASSIGN_DIM_OP: overflow [ext/opcache/tests/jit/assign_dim_op_007.phpt]  \n ```"
+  },
+  {
+    "rank": 6,
+    "id": "msg_b97c664af94fd38b55c938e23eb0f2f0401b15db5125844de7f334e220841a7c",
+    "score": 68.769104,
+    "link": "https://github.com/php/php-src/pull/3752",
+    "source": "github",
+    "origin_doc_id": "4adb417b14c547d8496f0c140511682996347e167123ecfb316befd72d9e476a",
+    "snippet": "001- string(0) \"\" \n ========DONE======== \n FAIL Bug #76705: feof might hang on TLS streams in case of fragmented TLS records [ext/openssl/tests/bug77390.phpt]  \n ```"
+  },
+  {
+    "rank": 7,
+    "id": "msg_d98f53717eec2dcd9f0ef32b0749c3fd6b81bf39aa61f8488b62488aa0b453f5",
+    "score": 67.77247,
+    "link": "https://github.com/php/php-src/pull/5307",
+    "source": "github",
+    "origin_doc_id": "3db5c6478b3f257a69a4f569942494c77a03a6fdd78622ca79bc543c8af25078",
+    "snippet": "Running selected tests. \n TEST 1/1 [ext/com_dotnet/tests/bug79332.phpt] \n ========DIFF======== \n 001+ Fatal error: Uncaught Error: Class 'COMPersistHelper' not found in /srv/php/ext/com_dotnet/tests/bug79332.php:2 \n 001- A com_exception has been thrown \n 002+ Stack trace: \n 003+ #0\n004+   thrown in /srv/php/ext/com_dotnet/tests/bug79332.php on line 2 \n ========DONE======== \n FAIL Bug #79332 (php_istreams are never freed) [ext/com_dotnet/tests/bug79332.phpt] \n **After:** \n Running selected tests. \n SKIP Bug #79332 (php_istreams are never freed) [ext/com_dotnet/tests/bug79332.phpt] reason: com_dotnet extension not available"
+  },
+  {
+    "rank": 8,
+    "id": "msg_64d75da4d1efa96e594d213d5a78f485dbe29dd781afa47ebf76d3f2e513a8e4",
+    "score": 66.805534,
+    "link": "https://github.com/php/php-src/pull/5201",
+    "source": "github",
+    "origin_doc_id": "c4fd393128328fe47b140d4c9faf855187bf9f5dea5b22ceaf78431498ab4483",
+    "snippet": "001+ Fatal error: Uncaught Error: Call to undefined function pcntl_alarm() in C:\\projects\\php-src\\ext\\standard\\tests\\http\\server.inc:11 \n 002+ Stack trace: \n 003+ #0 C:\\projects\\php-src\\ext\\standard\\tests\\http\\server.inc(43): http_server_init('tcp://127.0.0.1...', NULL) \n 004+ #1 C:\\projects\\php-src\\ext\\standard\\tests\\http\\bug79265.php(8): http_server('tcp://127.0.0.1...', Array, NULL) \n 005+ #2 {main} \n 001- GET\n002- Connection: close \n 003- RandomHeader: localhost:8080 \n 004- Cookie: foo=bar \n 005- Host: userspecifiedvalue \n 006+   thrown in C:\\projects\\php-src\\ext\\standard\\tests\\http\\server.inc on line 11 \n ========DONE======== \n FAIL Bug #79265 (Improper injection of Host header when using fopen for http requests) [C:\\projects\\php-src\\ext\\standard\\tests\\http\\bug79265.phpt]  \n ```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_b015d36020156957d2bb8ae0a42ca110610c05840270b0171745e7790f1dd08c",
+    "score": 66.72873,
+    "link": "https://github.com/php/php-src/pull/7355",
+    "source": "github",
+    "origin_doc_id": "6c010a76baa4291ed00147374af5c754526f3f09f68bb9953721de7bec652c64",
+    "snippet": "001+ Memory Leak Detected: 446 != 442 \n      done \n ========DONE======== \n FAIL PDO PgSQL Bug #69752 (memory leak with closeCursor) [C:\\projects\\php-src\\ext\\pdo_pgsql\\tests\\bug69752.phpt]"
+  },
+  {
+    "rank": 10,
+    "id": "msg_83a27fa77f79c65c0f14175da3d286bff10ba6009912c8d9324baac52aaf6b5d",
+    "score": 66.68837,
+    "link": "https://github.com/msgpack/msgpack-php/pull/104",
+    "source": "github",
+    "origin_doc_id": "4c3e335f3be31191a5365c26f43819019d00b264015ee0fd7eb80adc9c17237e",
+    "snippet": "37/122 [tests/040.phpt] \n ========DIFF======== \n 001+ ec \n 001-\n002+ int(-20) \n ========DONE======== \n FAIL broken random data test [tests/040.phpt]  \n TEST 38/122 [tests/040b.phpt] \n ========DIFF======== \n 001+ ec \n 001-  \n 002+ int(-20) \n ========DONE======== \n FAIL broken random data test : MessagePack class [tests/040b.phpt]  \nTEST 39/122 [tests/040c.phpt]\n========DIFF========\n001+ ec\n001- \n002+ int(-20)\n========DONE========\nFAIL broken random data test : MessagePackUnpacker::feed [tests/040c.phpt] \nTEST 40/122 [tests/040d.phpt]\n========DIFF========\n001+ ec\n001- \n002+ int(-20)\n========DONE========\nFAIL broken random data test : MessagePackUnpacker::execute [tests/040d.phpt] \nTEST 41/122 [tests/041.phpt]\n========DIFF========\n022+ float(-0)\n023+ float(-0)\n024+ cb8000000000000000\n022- float(0)\n023- float(0) \n 024- cb0000000000000000 \n ========DONE======== \n FAIL Check for double NaN, Inf, -Inf, 0, and -0 [tests/041.phpt]"
+  }
+]

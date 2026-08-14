@@ -1,0 +1,152 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "\"Failed password for root\" SSH login hacking attemp?",
+    "link": "https://www.reddit.com/r/hetzner/comments/13w21j5/failed_password_for_root_ssh_login_hacking_attemp/",
+    "displayed_link": "20+ comments · 2 years ago",
+    "snippet": "I was under a barrage of failed SSH login attempts across all my servers. The attacks were relentless and commenced as soon as my servers went live.",
+    "snippet_highlighted_words": [
+      "failed"
+    ],
+    "source": "Reddit · r/hetzner",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Why is SSH authentication failing when using the login ...",
+    "link": "https://serverfault.com/questions/1004020/why-is-ssh-authentication-failing-when-using-the-login-password",
+    "displayed_link": "https://serverfault.com › questions › why-is-ssh-authenti...",
+    "snippet": "Most SSH servers by default doesn't allow root login over SSH, you'll need to change a line in the SSH server configuration to allow this.",
+    "snippet_highlighted_words": [
+      "root"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Root password not working on ssh - Security",
+    "link": "https://community.ipfire.org/t/root-password-not-working-on-ssh/2569",
+    "displayed_link": "https://community.ipfire.org › root-password-not-workin...",
+    "snippet": "When trying to login to my IPFire Corporate system the root password is not working for ssh. I can still login to the GUI, but the root password is not working ...",
+    "snippet_highlighted_words": [
+      "root password is not working for ssh"
+    ],
+    "source": "IPFire Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "SSH attack - multiple root login attempts",
+    "link": "https://askubuntu.com/questions/1451948/ssh-attack-multiple-root-login-attempts",
+    "displayed_link": "https://askubuntu.com › questions › ssh-attack-multiple-...",
+    "snippet": "Change your ssh port, add fail2ban, disable root, disable password authentication and so on, just do the usual hardening stuff and you'll be fine.",
+    "snippet_highlighted_words": [
+      "port",
+      "root",
+      "password"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Failed password for <user>from <IP address> port <...",
+    "link": "https://community.hpe.com/t5/operating-system-hp-ux/failed-password-for-lt-user-gt-from-lt-ip-address-gt-port-lt/td-p/3788200",
+    "displayed_link": "https://community.hpe.com › td-p",
+    "snippet": "Re: Failed password for <user>from <IP address> port <port> ssh2. Shalom Tony, Seems like a simple authentication error. Try resetting the password on the user.",
+    "snippet_highlighted_words": [
+      "Seems like a simple authentication error"
+    ],
+    "source": "Hewlett Packard Enterprise Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "sshd attacks - failed passwords",
+    "link": "https://www.linuxquestions.org/questions/linux-security-4/sshd-attacks-failed-passwords-493240/",
+    "displayed_link": "https://www.linuxquestions.org › linux-security-4 › sshd-...",
+    "snippet": "... Failed password for root from ***.***.***.*** port 41501 ssh2. Oct 15 ... Failed password for root from ***.***.***.*** port 41834 ssh2",
+    "snippet_highlighted_words": [
+      "Failed password for root from",
+      "port",
+      "ssh2",
+      "Failed password for root from",
+      "port",
+      "ssh2"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "SSH password authentication fails with “Failed password” ...",
+    "link": "https://access.redhat.com/solutions/7138892",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Issue. SSH password authentication fails for users. Console login using the same username and password works successfully.",
+    "snippet_highlighted_words": [
+      "SSH password authentication fails for users"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Root password set but cannot login via console ...",
+    "link": "https://discourse.ubuntu.com/t/root-password-set-but-cannot-login-via-console-ubuntu-server/75704",
+    "displayed_link": "https://discourse.ubuntu.com › root-password-set-but-ca...",
+    "snippet": "I'm running Ubuntu Server 22.04.5 and I'm facing an issue with root login on vsphere console. I have already set the root password successfully:",
+    "snippet_highlighted_words": [
+      "root",
+      "root password"
+    ],
+    "source": "Ubuntu Community Hub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "SSH login as root fails, but I'm sure I entered the right ...",
+    "link": "https://unix.stackexchange.com/questions/45778/ssh-login-as-root-fails-but-im-sure-i-entered-the-right-password",
+    "displayed_link": "https://unix.stackexchange.com › questions › ssh-login-...",
+    "snippet": "Check this file: /etc/ssh/sshd_config and search for the line: PermitRootLogin no. replace it by: PermitRootLogin yes.",
+    "snippet_highlighted_words": [
+      "PermitRootLogin",
+      "PermitRootLogin"
+    ],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Proxmox 8 after reboot SSH password login does not work",
+    "link": "https://forum.proxmox.com/threads/proxmox-8-after-reboot-ssh-password-login-does-not-work.152595/",
+    "displayed_link": "https://forum.proxmox.com › threads › proxmox-8-afte...",
+    "snippet": "After a reboot using password authentication fails, but then after a login with an SSH key then after logging in with a password works fine.",
+    "snippet_highlighted_words": [
+      "password",
+      "password"
+    ],
+    "source": "Proxmox Support Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

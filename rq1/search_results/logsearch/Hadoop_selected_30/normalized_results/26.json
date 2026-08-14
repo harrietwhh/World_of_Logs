@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_d47988f831cf3eac25fdaaf07bb5e84839f64e8fe7b516a7bfe06df1a49d1d16",
+    "score": 36.23235,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,826 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Number of reduces for job job_1564159650361_0001 = 1"
+  },
+  {
+    "rank": 2,
+    "id": "msg_97f3382c2db85ef23ce4231c01e7273966a81d41666be886bbf5758bf64a58b8",
+    "score": 36.23235,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:55,568 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Number of reduces for job job_1492953411349_0001 = 1"
+  },
+  {
+    "rank": 3,
+    "id": "msg_72e3cd28918088d2dca16e402bb91d8a92dc2e71831c0f740800fd19d94a8cfc",
+    "score": 36.23235,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:41,857 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Number of reduces for job job_1493117927548_0001 = 1"
+  },
+  {
+    "rank": 4,
+    "id": "msg_60c09da2360d380ba8a6fca7a2a6a2fc0963d6c609da0fd7d1da58cf40517cfb",
+    "score": 36.23235,
+    "link": "https://github.com/crs4/pydoop/issues/216",
+    "source": "github",
+    "origin_doc_id": "92c44987a78dab8d4832c1dcd6cd493412735f9b576da51b8be83f1197678df3",
+    "snippet": "2016-06-22 16:49:01,155 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Number of reduces for job job_1465331659466_1048 = 1"
+  },
+  {
+    "rank": 5,
+    "id": "msg_4d336e0a7834be322ecc0d658dbba34c2884ff2499003d1039970c1dfe02886a",
+    "score": 35.451706,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6948",
+    "source": "jira",
+    "origin_doc_id": "7926967bdad5b60f27350dc281925a241f632dc7f7db6409eb7079622b044f42",
+    "snippet": "2017-08-30 10:12:21,945 INFO  [Thread-49] impl.JobImpl (JobImpl.java:createReduceTasks(1579)) - Number of reduces for job job_1234567890000_0001 = 1"
+  },
+  {
+    "rank": 6,
+    "id": "msg_d09c60c86fb99a3b076a25a1654e019de4e13ce077d0c277bb267d798f8d5534",
+    "score": 35.451706,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6831",
+    "source": "jira",
+    "origin_doc_id": "d037a51e5ad2fac3e28f4c05e4789937b9dda13ad87d125ed83cef35ef5d9e5b",
+    "snippet": "2016-12-12 00:26:29,734 INFO  [Thread-12] impl.JobImpl (JobImpl.java:createReduceTasks(1568)) - Number of reduces for job job_1234567890000_0001 = 1"
+  },
+  {
+    "rank": 7,
+    "id": "msg_3f7e36c4a31fbb07dd6331de4b131ae31f18dca3c91a82a3ed6d3913d1c36d99",
+    "score": 33.82058,
+    "link": "https://stackoverflow.com/questions/29075106",
+    "source": "so",
+    "origin_doc_id": "8804889924d3bb86586e2b967059d726e1328690ac16880f1a3ffbd69e9b1e96",
+    "snippet": "2015-03-16 11:46:53,473 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Number of reduces for job job_1426498753001_0001 = 0"
+  },
+  {
+    "rank": 8,
+    "id": "msg_afc25e92d4a2175c3d66850a2f93ee6c3204ef647b93bbc67b20de261f273a76",
+    "score": 33.82058,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:25,489 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Number of reduces for job job_1428324095255_0006 = 0"
+  },
+  {
+    "rank": 9,
+    "id": "msg_d77fedb4ea8f394a73b15c0ae3c79bb08df3111446418b5b66d2adb5512de7dd",
+    "score": 33.82058,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:55,256 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Number of reduces for job job_1458608803637_0005 = 0"
+  },
+  {
+    "rank": 10,
+    "id": "msg_489b8cc6dc866b2bd78f669d7a4e7a87fc70426373d84839879e8a658ac94bbd",
+    "score": 33.82058,
+    "link": "https://github.com/crs4/pydoop/issues/154",
+    "source": "github",
+    "origin_doc_id": "10efddefd4b8ea3b9e1d5f97d32e75c0c8263a8a5bd3426f0ec9092de77cc2f8",
+    "snippet": "2015-07-17 00:16:27,781 INFO [main] org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl: Number of reduces for job job_1437076532675_0007 = 15"
+  }
+]

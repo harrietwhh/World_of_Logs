@@ -1,0 +1,7 @@
+{
+  "case_id": "60",
+  "case_input": "retrieval_results/query_group_logs/spark_intermediate_group_logs/case_60_group_logs/case_input.json",
+  "retrieved_candidates": "retrieval_results/query_group_logs/spark_intermediate_group_logs/case_60_group_logs/retrieved_candidates.json",
+  "response": "Filtered Relevant Items:\n1. [11] “sortbykey() doesn't seem to work on strings in pyspark” — contains successful PySpark tasks with `PythonRunner` timing entries where `boot` is negative, matching the unusual timing values in this log group.\n\nExternal Knowledge Summary:\n- Negative `PythonRunner boot` timing values can appear in logs even when PySpark tasks finish successfully.\n- The retrieved discussion does not identify a cause or remediation for these negative timing values.",
+  "external_knowledge_summary": "- Negative `PythonRunner boot` timing values can appear in logs even when PySpark tasks finish successfully.\n- The retrieved discussion does not identify a cause or remediation for these negative timing values."
+}

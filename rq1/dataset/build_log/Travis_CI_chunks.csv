@@ -1,0 +1,99 @@
+LineId,Language,Repo,BuildId,Log,Category,Keywords,Content
+1,CSS,google@material-design-icons,92806560,CSS/google@material-design-icons/failed/92806560.log,0,"rake aborted, No Rakefile found,","No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)
+/home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval'
+/home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>'"
+2,Clojure,technomancy@leiningen,239432824,Clojure/technomancy@leiningen/failed/239432824.log,1,"rake aborted, No Rakefile found,","No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)
+/home/travis/.rvm/gems/ruby-2.2.6/bin/ruby_executable_hooks:15:in `eval'
+/home/travis/.rvm/gems/ruby-2.2.6/bin/ruby_executable_hooks:15:in `<main>'"
+3,Lua,cmusatyalab@openface,199282796,Lua/cmusatyalab@openface/failed/199282796.log,2,"ERROR, ,","+ ERROR! openface/celeb-classifier.nn4.small2.v1.pkl md5sum did not match.
+  + Expected: 199a2c0d32fd0f22f14ad2d248280475
+  + Actual: 390264772e075a0aa5c907e4ed0c2561
+  + Please manually delete this file and try re-running this script."
+4,R,twitter@AnomalyDetection,48330777,R/twitter@AnomalyDetection/failed/48330777.log,3,"ERROR, failed,","Installation failed.
+See ‘/home/travis/build/twitter/AnomalyDetection/AnomalyDetection.Rcheck/00install.out’ for details."
+5,Haskell,koalaman@shellcheck,553130518,Haskell/koalaman@shellcheck/failed/553130518.log,4,"server is down ,","cabal.exe: Couldn't establish HTTP connection. Possible cause: HTTP proxy
+
+server is down."
+6,Haskell,koalaman@shellcheck,563353767,Haskell/koalaman@shellcheck/failed/563353767.log,5,"Error, error,","container_linux.go:265: starting container process caused ""exec: \""-c\"": executable file not found in $PATH""
+docker: Error response from daemon: oci runtime error: container_linux.go:265: starting container process caused ""exec: \""-c\"": executable file not found in $PATH""."
+7,Haskell,koalaman@shellcheck,563381753,Haskell/koalaman@shellcheck/failed/563381753.log,6,"invalid, ,","+docker build -t :current .
+invalid argument "":current"" for t: invalid reference format"
+8,Ruby,discourse@discourse,566815121,Ruby/discourse@discourse/failed/566815121.log,7,"Failed, ,","Module Failed: date-time-input-range
+Test Failed: prevents toDate to be before fromDate
+  Assertion Failed: failed, expected argument to be falsy, was: true    
+  Assertion Failed: failed, expected argument to be truthy, was: false
+    Expected: true, Actual: false"
+9,C,php@php-src,529279089,C/php@php-src/failed/529279089.log,0,"ERROR, FAIL, DIFF","001+ ** ERROR: process timed out **
+
+001- OK.
+========DONE========
+FAIL Bug #60120 (proc_open hangs when data in stdin/out/err is getting larger or equal to 2048) [ext/standard/tests/file/bug60120.phpt]"
+10,C#,NancyFx@Nancy,461393228,C#/NancyFx@Nancy/failed/461393228.log,3,"FAILED, error, Error","Extensions/CollectionExtensions.cs(20,40): error CS0103: The name 'key' does not exist in the current context [/home/travis/build/NancyFx/Nancy/src/Nancy/Nancy.csproj]
+Extensions/CollectionExtensions.cs(21,17): error CS0103: The name 'key' does not exist in the current context [/home/travis/build/NancyFx/Nancy/src/Nancy/Nancy.csproj]
+Extensions/CollectionExtensions.cs(23,24): error CS0029: Cannot implicitly convert type 'string[]' to 'System.Collections.Generic.IDictionarystring, System.Collections.Generic.IEnumerablestring>>' [/home/travis/build/NancyFx/Nancy/src/Nancy/Nancy.csproj]
+Extensions/CollectionExtensions.cs(25,20): error CS0029: Cannot implicitly convert type 'string[]' to 'System.Collections.Generic.IDictionarystring, System.Collections.Generic.IEnumerablestring>>' [/home/travis/build/NancyFx/Nancy/src/Nancy/Nancy.csproj]"
+11,C++,bitcoin@bitcoin,567143552,C++/bitcoin@bitcoin/failed/567143552.log,1,"failure, ,","diff --git a/src/wallet/rpcwallet.cpp b/src/wallet/rpcwallet.cpp
+@@ -3338,4 +3342,5 @@ static UniValue bumpfee(const JSONRPCRequest& request)
++            true, true);
+^---- failure generated from test/lint/lint-whitespace.sh"
+12,CoffeeScript,Atom@atom,544693739,CoffeeScript/Atom@atom/failed/544693739.log,0,"Error, failing,","1) AtomApplication command-line interface behavior atom:// URLs with a ""core"" host sends a URI message to the most recently focused non-spec window that owns the open locations:
+     Error: timeout of 2000ms exceeded. Ensure the done() callback is being called in this test."
+13,Elixir,elixir-lang@elixir,574602754,Elixir/elixir-lang@elixir/failed/574602754.log,2,"failed, Error,","** (Mix) mix format failed due to --check-formatted.
+The following files were not formatted:
+
+  * lib/elixir/test/elixir/module/types/infer_test.exs"
+14,Erlang,processone@ejabberd,555654050,Erlang/processone@ejabberd/failed/555654050.log,1,"failed, Reason:, FAILED","suite:send_recv failed on line 593
+Reason: timetrap_timeout"
+15,Go,getlantern@lantern,547502360,Go/getlantern@lantern/failed/547502360.log,2,"FAIL, failed,","src/github.com/getlantern/appdir/appdir_test.go:4: log redeclared as imported package name
+	previous declaration at $WORK/github.com/getlantern/appdir/_test/_obj_test/appdir.go:16
+FAIL	github.com/getlantern/appdir [build failed]"
+16,HTML,necolas@normalize.css,123680531,HTML/necolas@normalize.css/failed/123680531.log,0,"Error, ERR!, failed","normalize.css[24m[22m
+[1m429[22m[1m:1[22m	Unexpected missing newline at end of file (no-missing-eof-newline)"
+17,Java,ReactiveX@RxJava,561008032,Java/ReactiveX@RxJava/failed/561008032.log,0,"FAILED, Error,","io.reactivex.internal.operators.observable.ObservableRefCountTest > publishNoLeak FAILED
+    java.lang.AssertionError: 13,928,704 -> 113,907,376
+        at org.junit.Assert.fail(Assert.java:88)
+        at org.junit.Assert.assertTrue(Assert.java:41)
+        at io.reactivex.internal.operators.observable.ObservableRefCountTest.publishNoLeak(ObservableRefCountTest.java:731)"
+18,JavaScript,FreeCodeCamp@freecodecamp,566116668,JavaScript/FreeCodeCamp@freecodecamp/failed/566116668.log,1,"1), Error, failing","1) Check challenges
+       Check challenges (english)
+         Add a Text Alternative to Images for Visually Impaired Accessibility
+           Common checks:
+     ValidationError: ""forumTopicId"" is not allowed"
+19,Lisp,syl20bnr@spacemacs,407365973,Lisp/syl20bnr@spacemacs/failed/407365973.log,2,"ERROR, error,","current-buffer: README.orgphoenix>2>
+current-file: /tmp/docs/layers/+frameworks/phoenix/README.org
+error: File ""/tmp/docs/layers/+frameworks/phoenix/README.org"" doesn't have ""Features:""(With a colon) list in the top level ""Description"" headline
+See ""https://github.com/syl20bnr/spacemacs/blob/develop/core/templates/README.org.template"""
+20,Objective-C,Realm@realm-cocoa,552059876,Objective-C/Realm@realm-cocoa/failed/552059876.log,2,"warning, Violation,","/Users/travis/build/realm/realm-cocoa/RealmSwift/Object+Combine.swift:88:42: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)
+
+/Users/travis/build/realm/realm-cocoa/RealmSwift/Object+Combine.swift:46:31: warning: Empty Parentheses with Trailing Closure Violation: When using trailing closures, empty parentheses should be avoided after the method call. (empty_parentheses_with_trailing_closure)"
+21,PHP,composer@composer,566904372,PHP/composer@composer/failed/566904372.log,1,"ERROR, error, --------------------------------------------------------------","Line   src/Composer/Installer.php                                    
+ ------ -------------------------------------------------------------- 
+  1174   Method Composer\Installer::updatePackageUrl() invoked with 8  
+         parameters, 7 required."
+22,Perl,jlord@git-it-electron,295480897,Perl/jlord@git-it-electron/failed/295480897.log,0,"ERR!, failed,","standard: Use JavaScript Standard Style (https://github.com/feross/standard) 
+  /home/travis/build/jlord/git-it-electron/lib/build-challenges.js:178:40: A space is required after ','."
+23,Python,nvbn@thefuck,545320732,Python/nvbn@thefuck/failed/545320732.log,1,"exited with 1, ,","./thefuck/rules/terraform_init.py:8:9: E128 continuation line under-indented for visual indent
+./thefuck/rules/terraform_init.py:9:5: E124 closing bracket does not match visual indentation"
+24,Rust,redox-os@redox,391353410,Rust/redox-os@redox/failed/391353410.log,2,"No such file or directory, ,","fusermount: bad mount point build/filesystem/: No such file or directory
+rm -rf build
+make: *** No rule to make target `travis'.  Stop."
+25,Scala,twitter@finagle,565242073,Scala/twitter@finagle/failed/565242073.log,0,"FAILED, ***, Exception","[info] - Single client and rejecting server results in both sides TLS connections at 0 *** FAILED ***
+[info]   Expected exception com.twitter.finagle.SslException to be thrown, but com.twitter.finagle.Failure was thrown (ThriftSmuxSslTest.scala:151)"
+26,Shell,Tj@git-extras,525540804,Shell/Tj@git-extras/failed/525540804.log,0,"exited with 1, ,","[0K$ ./check_integrity.sh $(find bin | cut -b 5- | xargs)
+Skip command rscp
+Run 'make docs' to create man/git-rename-remote.1 and man/git-rename-remote.html"
+27,Swift,SwiftyJSON@SwiftyJSON,364917910,Swift/SwiftyJSON@SwiftyJSON/failed/364917910.log,1,"error, ,","xcodebuild: error: Unable to find a destination matching the provided destination specifier:
+
+		{ platform:tvOS Simulator, name:Apple TV 1080p }"
+28,TeX,soulmachine@leetcode,172062089,TeX/soulmachine@leetcode/failed/172062089.log,0,"rake aborted!, ,","rake aborted!
+No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)"
+29,TypeScript,Microsoft@TypeScript,567573637,TypeScript/Microsoft@TypeScript/failed/567573637.log,1,"Error, ,","Error: Process exited with code: 2
+    at ChildProcess.anonymous> (/home/travis/build/microsoft/TypeScript/scripts/build/utils.js:52:24)
+    at ChildProcess.emit (events.js:203:13)
+    at ChildProcess.EventEmitter.emit (domain.js:494:23)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:272:12)"
+30,Haskell,purescript@purescript,574008409,Haskell/purescript@purescript/failed/574008409.log,4,"error, ,","/home/travis/build/purescript/purescript/sdist-test/[;1msrc/Language/PureScript/TypeChecker/Types.hs:40:1: [;1m[31merror:[0m[0m[;1m [[;1m[31m-Wunused-imports, -Werror=unused-imports[0m[0m[;1m][0m[0m[;1m[0m
+[0m    The import of ‘!!’ from module ‘Data.List’ is redundant[0m[0m[0m
+[0m[;1m[34m   |[0m[0m[0m
+[0m[;1m[34m40 |[0m[0m [;1m[31mimport Data.List (transpose, (\\), partition, delete, (!!))[0m[0m[0m
+[0m[;1m[34m   |[0m[0m[;1m[31m ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"

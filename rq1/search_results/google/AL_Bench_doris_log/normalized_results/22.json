@@ -1,0 +1,166 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Logging time for skipped tasks : r/dataannotation",
+    "link": "https://www.reddit.com/r/dataannotation/comments/1cw9eh4/logging_time_for_skipped_tasks/",
+    "displayed_link": "20+ comments · 1 year ago",
+    "snippet": "Generally logging time in for reading and skipping multiple tasks is fine. So for example, if you spend up to 10 minutes skipping multiple tasks, this poster ...",
+    "snippet_highlighted_words": [
+      "logging time",
+      "skipping",
+      "tasks",
+      "skipping",
+      "tasks"
+    ],
+    "source": "Reddit · r/dataannotation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Skip debug instructions (and their content) if logging is set ...",
+    "link": "https://stackoverflow.com/questions/39999767/skip-debug-instructions-and-their-content-if-logging-is-set-to-info",
+    "displayed_link": "2 answers · 9 years ago",
+    "snippet": "I have a program in which I wrote logs both as info and debug. Since the debug contains also calls to slow functions, my program is running slow ...",
+    "snippet_highlighted_words": [
+      "logs",
+      "info",
+      "the"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Scheduler Results and Logging",
+    "link": "https://docs-info.zendesk.com/hc/en-us/articles/24830964429965-Scheduler-Results-and-Logging",
+    "displayed_link": "https://docs-info.zendesk.com › en-us › articles › 24830...",
+    "snippet": "The results file contains details about the parameters passed to the targeted Process task, time stamps, a final status, and any error message ...",
+    "snippet_highlighted_words": [
+      "The",
+      "the",
+      "the",
+      "task",
+      "time",
+      "final"
+    ],
+    "source": "insightsoftware",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "The Problem With Logging",
+    "link": "https://blog.codinghorror.com/the-problem-with-logging/",
+    "displayed_link": "https://blog.codinghorror.com › the-problem-with-logging",
+    "snippet": "Is it for debugging, troubleshooting occasional errors / exceptions, helping to analyze the program flow, give extra technical information to ...",
+    "snippet_highlighted_words": [
+      "analyze the",
+      "information"
+    ],
+    "source": "Coding Horror",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Configuring Logging",
+    "link": "https://docs.mulesoft.com/mule-runtime/latest/logging-in-mule",
+    "displayed_link": "https://docs.mulesoft.com › latest › logging-in-mule",
+    "snippet": "MuleSoft provides application logs and a runtime log to help you monitor and troubleshoot your Mule applications and the Mule instance.",
+    "snippet_highlighted_words": [
+      "logs",
+      "log",
+      "the"
+    ],
+    "source": "Mulesoft",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "[Bug]: Summary metrics (min, max, last, etc.) ignore logged ...",
+    "link": "https://github.com/wandb/wandb/issues/9684",
+    "displayed_link": "https://github.com › wandb › wandb › issues",
+    "snippet": "Summary metrics (using define_metric(..., summary=...)) fail to update the summary in resumed jobs. When resuming a job and then logging ...",
+    "snippet_highlighted_words": [
+      "the",
+      "logging"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Logging library - ESP32 - — ESP-IDF Programming Guide ...",
+    "link": "https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/system/log.html",
+    "displayed_link": "https://docs.espressif.com › api-reference › system › log",
+    "snippet": "ESP-IDF provides a flexible logging system with two configurable versions, Log V1 and Log V2, selectable via CONFIG_LOG_VERSION.",
+    "snippet_highlighted_words": [
+      "logging",
+      "Log",
+      "Log",
+      "LOG"
+    ],
+    "source": "Espressif Systems",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Log Levels Explained and How to Use Them",
+    "link": "https://www.xurrent.com/blog/log-levels",
+    "displayed_link": "https://www.xurrent.com › blog › log-levels",
+    "snippet": "Understand log levels like DEBUG, INFO, WARN, ERROR, FATAL with real-world use cases and code. Learn how to use them for incident detection, ...",
+    "snippet_highlighted_words": [
+      "log",
+      "INFO",
+      "them"
+    ],
+    "source": "Xurrent",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "35 Debugging Tools and Techniques",
+    "link": "https://docs.yoctoproject.org/dev-manual/debugging.html",
+    "displayed_link": "https://docs.yoctoproject.org › dev-manual › debugging",
+    "snippet": "“Viewing Logs from Failed Tasks” describes how to find and view logs from tasks that failed during the build process. “Viewing Variable Values” describes how to ...",
+    "snippet_highlighted_words": [
+      "Logs",
+      "Tasks",
+      "logs",
+      "tasks",
+      "the"
+    ],
+    "source": "The Yocto Project",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "26 Using LogMiner to Analyze Redo Log Files",
+    "link": "https://docs.oracle.com/en/database/oracle/oracle-database/23/sutil/oracle-logminer-utility.html?source=%3Aex%3Apw%3A%3A%3A%3A%3ATNS_SQL_2_D%2C%3Aex%3Apw%3A%3A%3A%3A%3ATNS_SQL_2_D%2C%3Aex%3Apw%3A%3A%3A%3A%3ATNS_SQL_2_D",
+    "displayed_link": "https://docs.oracle.com › ... › Release 26",
+    "snippet": "LogMiner, which is a feature of Oracle databases, enables you to query online and archived redo log files through a SQL interface.",
+    "snippet_highlighted_words": [
+      "LogMiner"
+    ],
+    "source": "Oracle",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

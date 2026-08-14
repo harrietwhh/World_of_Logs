@@ -1,0 +1,31 @@
+{
+  "case_id": "74",
+  "summary_raw": "[\"gige temperature critical\",\"gige temperature normal\",\"gige temperature warning\"]",
+  "summary_items": [
+    "gige temperature critical",
+    "gige temperature normal",
+    "gige temperature warning"
+  ],
+  "group_logs_lines": [
+    "gige temperature 1119553324 1 critical",
+    "gige temperature 1119552124 1 warning",
+    "gige temperature 1119550927 1 warning",
+    "gige temperature 1119550927 1 critical",
+    "gige temperature 1119550625 1 normal",
+    "gige temperature 1119550324 1 warning",
+    "gige temperature 1119549723 1 critical",
+    "gige temperature 1119549123 1 warning",
+    "gige temperature 1119548825 1 warning",
+    "gige temperature 1119548823 1 critical",
+    "gige temperature 1119548761 1 warning",
+    "gige temperature 1119548525 1 normal",
+    "gige temperature 1119548524 1 warning",
+    "gige temperature 1119548398 1 normal",
+    "gige temperature 1119548225 1 warning",
+    "gige temperature 1119548223 1 critical",
+    "gige temperature 1119548161 1 normal",
+    "gige temperature 1119548525 1 normal",
+    "gige temperature 1119547925 1 normal",
+    "gige temperature 1119547798 1 warning"
+  ]
+}

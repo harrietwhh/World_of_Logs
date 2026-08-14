@@ -1,0 +1,33 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Thunderbird/Thunderbird_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Thunderbird/Thunderbird_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Thunderbird",
+    "snippet": "... root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1].",
+    "snippet_highlighted_words": [
+      "root",
+      "0/0",
+      "delay",
+      "00:00:01",
+      "xdelay",
+      "00:00:00",
+      "mailer",
+      "relay",
+      "pri",
+      "659060",
+      "relay=[127.0.0.1",
+      "127.0.0.1",
+      "dsn",
+      "4.0.0",
+      "stat",
+      "Deferred",
+      "Connection refused",
+      "127.0.0.1"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

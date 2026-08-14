@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_e7acbcb6808bbfeadc84126a26529eaac0ec79c66a57b961319782f460af36a0",
+    "score": 31.321548,
+    "link": "https://github.com/erlang/otp/pull/656",
+    "source": null,
+    "origin_doc_id": "0598311860fe544065558b1c5081a0731c9255bb15741083a667b7bb45544603",
+    "snippet": "file:file:... \n *** CT Error Notification 2015-05-04 06:11:03.402 *** ssl_test_lib:check_result failed on line 264 Reason: timetrap_timeout Full error description and stacktrace \n === Ended at 2015-05-04 06:11:03 \n=== Location: [{ssl_test_lib,check_result,264},\n              {ssl_to_openssl_SUITE,erlang_server_openssl_client_sni_test,1286},\n              {ssl_to_openssl_SUITE,erlang_server_openssl_client_sni_no_match,last_expr},\n              {test_server,ts_tc,1408},\n              {test_server,run_test_case_eval1,984},\n              {test_server,run_test_case_eval,926}]\n=== Reason: timetrap timeout"
+  },
+  {
+    "rank": 2,
+    "id": "msg_9841a3899b0713488d0246669de581ebb7f56c3a47294913b57815421ae190c9",
+    "score": 29.483837,
+    "link": "https://github.com/erlang/otp/pull/2021",
+    "source": "github",
+    "origin_doc_id": "92fb3eb24fb8f2355def8d43a7297b1513fdfc481a55845a361d20302c9af56a",
+    "snippet": "User 2018-12-04 05:55:02.549 *** \n Server error result {error,timeout} \n *** CT Error Notification 2018-12-04 05:55:07.530 ***\nssl_test_lib:start_client failed on line 257 \n Reason: timetrap_timeout \n Full error description and stacktrace \n === Ended at 2018-12-04 05:55:07 \n === Location: [{ssl_test_lib,start_client,257}, \n               {ssl_basic_SUITE,handshake_continue_timeout,705},\ntimetrap timeout"
+  },
+  {
+    "rank": 3,
+    "id": "msg_68bae16ca3b1094fe9a954bf701fa836a77f5fd035f16d0e1198c2fa0052c629",
+    "score": 23.058731,
+    "link": "https://github.com/cameron314/concurrentqueue/issues/42",
+    "source": "github",
+    "origin_doc_id": "aae52b730c4b41a03f5056f803214091263b2d4069d08f5899f56906c898bb2b",
+    "snippet": "core_add_only_list: 252 successful, 0 failed\n core_thread_local: 197 successful, 14 failed\n - Executed 1335 tests so far\n\nReason: assertion failed on line 593: p->value == 0\n Seed: d7990b4e4dea1895\n Seed: 96fe1c7d0392537b\n Seed: 139af5f3d1c7e4bb\n Seed: d013a74b4faa2d1b\n Seed: 7b0ceb690c3286d9\n Seed: 955a9db3764ac57b\n Seed: 09efdf685ad77030\n\nReason: assertion failed on line 611: *localData[i] == i\n Seed: 3eab167012cb7d8c\n Seed: c448fd7c0b9725fc\n Seed: 4e5b54df425bbbb6\n Seed: 639d2c83865d2b47\n Seed: f9ae9a0365bec08c\n Seed: c3bd84c3c96e2f17\nException : %s \n       Seed: %08x%08x \n       Test: %s \n  \n \", e.what(), (uint32_t)(seed >> 32), (uint32_t)(seed), test_names[test]);"
+  },
+  {
+    "rank": 4,
+    "id": "msg_a512e40eb8f0bd7a61fce478ea8de70213db3a89839e9a97cc453fc99005d7ea",
+    "score": 21.23129,
+    "link": "https://github.com/esl/amoc/pull/23",
+    "source": "github",
+    "origin_doc_id": "3256587596f4eee06c874d7c793e59c325bfa570de5f77edfbb50aed0556d196",
+    "snippet": "amoc git:(simple_api2_scenario_handler) ✗ SUITE=amoc_api_scenario_handler make ct \n .... \n - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n amoc_api_scenario_handler_SUITE:'-get_scenario_status_returns_200_when_scenario_exists/1-fun-0-' failed on line 50 \n Reason: assertEqual \n - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nTesting dev.amoc.amoc_api_scenario_handler_SUITE: *** FAILED test case 1 of 5 ***\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\namoc_api_scenario_handler_SUITE:'-get_scenario_status_returns_404_when_scenario_not_exists/1-fun-0-' failed on line 59\nReason: assertEqual\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nTesting dev.amoc.amoc_api_scenario_handler_SUITE: *** FAILED test case 2 of 5 ***\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\namoc_api_scenario_handler_SUITE:'-patch_scenario_returns_404_when_scenario_not_exists/1-fun-0-' failed on line 69\nReason: assertEqual\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nTesting dev.amoc.amoc_api_scenario_handler_SUITE: *** FAILED test case 3 of 5 ***\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\namoc_api_scenario_handler_SUITE:'-patch_scenario_returns_400_when_malformed_request/1-fun-0-' failed on line 79\nReason: assertEqual\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nTesting dev.amoc.amoc_api_scenario_handler_SUITE: *** FAILED test case 4 of 5 ***\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nmeck_proc:wait failed on line 169\nReason: timeout\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"
+  },
+  {
+    "rank": 5,
+    "id": "msg_9befe3e51c4584845a45540b9a8fdd8ff37112b00370a5ad1a7573cdbdf1e370",
+    "score": 21.106314,
+    "link": "https://github.com/SyncFree/antidote/pull/223",
+    "source": "github",
+    "origin_doc_id": "ff89c9a2dd783693e3787284769c9f35765b8050e8308a2c244cd6d3eba12a5c",
+    "snippet": "multiple_dcs_SUITE:'-replicated_set_test/1-fun-13-' failed on line 401 \n Reason: assertEqual \n physics_SUITE:'-physics_test_prepare/1-fun-7-' failed on line 323 \n Reason: assertEqual"
+  },
+  {
+    "rank": 6,
+    "id": "msg_c1185888cdee92ce779bfca04e74837a5bcf8f6c9fc890302a1ed45af36d9213",
+    "score": 20.27434,
+    "link": "https://github.com/at-wat/mcl_3dl/pull/230",
+    "source": "github",
+    "origin_doc_id": "b1c6cfef2593e33ba8f44faa5c89c7f01fb44239bf842115ec11073fef02bb09",
+    "snippet": "## [#593] FAILED on melodic \n docker build failed"
+  },
+  {
+    "rank": 7,
+    "id": "msg_a5e8f581636f381a8f00af06184248f506c48a170308e3309be071016afe857a",
+    "score": 20.176023,
+    "link": "https://github.com/rabbitmq/rabbitmq-autocluster/pull/30",
+    "source": "github",
+    "origin_doc_id": "001be548f633b3d8977af58d94efd1b22ab6fc6b81e1e47ea740a61632f47344",
+    "snippet": "unit_test_SUITE:autocluster_consul_tests failed on line 35 \n Reason:"
+  },
+  {
+    "rank": 8,
+    "id": "msg_97b6ccf86082b9c20be634cf873ae7d4e2ae9d5f67263d49420515db12cc796c",
+    "score": 19.926403,
+    "link": "https://github.com/erlang/otp/pull/2458",
+    "source": "github",
+    "origin_doc_id": "aafe10d6d897a0fb65dbd668cd266de26f271da0e26bda49f5b2c096a4b253f7",
+    "snippet": "inet_SUITE:t_gethostnative failed on line 696 \n Reason: case_clause \n ```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_b64796bfe4ea0551db40e361a971996cfdff4f479419122abb8292ca23908e6a",
+    "score": 19.893888,
+    "link": "https://github.com/erlang/rebar3/pull/1395",
+    "source": "github",
+    "origin_doc_id": "8053ed8df905c5744d26140ab7ce222254dfc3662b6788926174d22b89b9f06e",
+    "snippet": "- - - - - - - - - - - - \n relx:format_error failed on line 220 \n Reason: function_clause \n - - - - - - - - - - - - - - - - - - - - - - - - - - \n %%% rebar_release_SUITE ==> dev_mode_release: FAILED \n %%% rebar_release_SUITE ==> {failed, \n     {function_clause, \n- - - - - - - - - - - - - - - - - - - - - - - - - - \n relx:format_error failed on line 220 \nReason: function_clause\n- - - - - - - - - - - - - - - - - - - - - - - - - -\n\n%%% rebar_release_SUITE ==> user_output_dir: FAILED\n%%% rebar_release_SUITE ==> {failed,\n    {function_clause,\n        [{relx,format_error,\n             [{error,eacces}],\n             [{file,\n                  \"/home/artem/erlang/rebar3/_build/default/lib/relx/src/relx.erl\"},"
+  },
+  {
+    "rank": 10,
+    "id": "msg_8b580c9545246bdb96fd0fa67c2b4334fa7222a761bc8ef1d39d5acabf216d82",
+    "score": 19.787117,
+    "link": "https://github.com/projectcalico/typha/issues/291",
+    "source": "github",
+    "origin_doc_id": "f707742d0e7faf6050e60b21da94a2a1bee0f790b4246f31a05e9cfdb6e7c509",
+    "snippet": "2019-08-22 16:11:11.392 [WARNING][46508] daemon.go 593: Felix is shutting down reason=\"Connection to Typha failed\""
+  }
+]

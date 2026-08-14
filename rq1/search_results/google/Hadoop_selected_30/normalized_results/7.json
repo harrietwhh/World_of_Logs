@@ -1,0 +1,156 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Solved: Hadoop not running tasks",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Hadoop-not-running-tasks/td-p/305332",
+    "displayed_link": "https://community.cloudera.com › td-p",
+    "snippet": "I have a cluster of 1 Master and 1 Slave that are connected and \"probably\" communicating, I have followed several guides to install and setup the cluster.",
+    "snippet_highlighted_words": [],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "hadoop - Mapreduce job ipc.Client retrying to connect",
+    "link": "https://stackoverflow.com/questions/37901108/mapreduce-job-ipc-client-retrying-to-connect",
+    "displayed_link": "1 answer · 9 years ago",
+    "snippet": "I am testing my hadoop cluster which consists of 4 docker containers: Datanode; Secondary Namenode; Namenode; Resource Manager. When I submit a ...",
+    "snippet_highlighted_words": [
+      "hadoop"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Map reduce not Working with RMR2 / YARN · Issue #113",
+    "link": "https://github.com/RevolutionAnalytics/rmr2/issues/113",
+    "displayed_link": "https://github.com › RevolutionAnalytics › rmr2 › issues",
+    "snippet": "... EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler ... apache.hadoop.yarn.webapp.WebApps: Registered webapp ...",
+    "snippet_highlighted_words": [
+      "EventType",
+      "class org",
+      "apache",
+      "hadoop",
+      "mapreduce",
+      "jobhistory",
+      "JobHistoryEventHandler",
+      "apache",
+      "hadoop",
+      "Registered"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "ERROR [main] org.apache.hadoop.mapreduce.v2.app. ...",
+    "link": "https://lists.apache.org/thread/cwqodhsd5jzf16mc3yp2tsbo3l3c5dpw",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "dear users: I'm currently stucked by this error when building the cube. any ideas, thanks very much! Log Type: syslog Log Upload Time: Tue Dec 22 00:40:40 ...",
+    "snippet_highlighted_words": [],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "import hive table from parquet files, there is no 'job. ...",
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "displayed_link": "https://issues.apache.org › browse › MAPREDUCE-6736",
+    "snippet": "... EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler 2016-07-20 17:57:27,232 INFO [main] org.apache.hadoop.yarn ...",
+    "snippet_highlighted_words": [
+      "EventType",
+      "class org",
+      "apache",
+      "hadoop",
+      "mapreduce",
+      "jobhistory",
+      "JobHistoryEventHandler",
+      "org",
+      "apache",
+      "hadoop"
+    ],
+    "source": "Apache Software Foundation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Apache oozie spark workflow keeps running for a long time ...",
+    "link": "https://stackoverflow.com/questions/32295402/apache-oozie-spark-workflow-keeps-running-for-a-long-time-before-getting-killed",
+    "displayed_link": "10 years ago",
+    "snippet": "I am trying to run an OOZIE workflow using spark-action using yarn-cluster as master. The app seems to run fine when I use spark-submit from command line.",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "pydoop mapreduce job hangs because ...",
+    "link": "https://github.com/crs4/pydoop/issues/216",
+    "displayed_link": "https://github.com › crs4 › pydoop › issues",
+    "snippet": "I tried similar mapreduce on mrjob and it worked fine, but I want to use pydoop. What am I missing possibly? I am on the Hadoop 2.6 CDH5. I ...",
+    "snippet_highlighted_words": [
+      "mapreduce",
+      "Hadoop"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Solved: Re: Oozie-sqoop action in CDH 5.2-Heart beat issue",
+    "link": "https://community.cloudera.com/t5/Batch-Processing-and-Workflow/Oozie-sqoop-action-in-CDH-5-2-Heart-beat-issue/m-p/23494/highlight/true",
+    "displayed_link": "https://community.cloudera.com › highlight › true",
+    "snippet": "I tried below solution it works perfectly for me. 1) Change the Hadoop schedule type from capacity scheduler to - 22181.",
+    "snippet_highlighted_words": [
+      "Hadoop"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "[jira] [Comment Edited] (YARN-9690) Invalid AMRM token ...",
+    "link": "https://lists.apache.org/thread/0298vp5mj6tj79w5vhv8791cf2k2lxf8",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "AsyncDispatcher: Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.",
+    "snippet_highlighted_words": [
+      "Registering class org.apache.hadoop.mapreduce.jobhistory.EventType"
+    ],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "spark application failing, after mapreduce success",
+    "link": "https://stackoverflow.com/questions/55907838/spark-application-failing-after-mapreduce-success",
+    "displayed_link": "6 years ago",
+    "snippet": "However, an error occurs when the JobHistoryEventHandler writes the job history event of MRAppMaster directly to DFS in the staging directory ...",
+    "snippet_highlighted_words": [
+      "JobHistoryEventHandler",
+      "job history"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

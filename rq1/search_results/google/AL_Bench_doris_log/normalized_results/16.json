@@ -1,0 +1,154 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "How does one identify which journal log errors/failures ...",
+    "link": "https://www.reddit.com/r/linuxquestions/comments/11i1tp6/how_does_one_identify_which_journal_log/",
+    "displayed_link": "1 comment · 3 years ago",
+    "snippet": "How does one identify which journal log errors/failures require action and which can be ignored? I'm not new to GNU/Linux, but I'm fairly ...",
+    "snippet_highlighted_words": [
+      "does",
+      "journal log errors",
+      "be"
+    ],
+    "source": "Reddit · r/linuxquestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Crash: systemd-journal Failed to write entry. Ignoring: read- ...",
+    "link": "https://askubuntu.com/questions/1173738/crash-systemd-journal-failed-to-write-entry-ignoring-read-only-file-system-on",
+    "displayed_link": "https://askubuntu.com › questions › crash-systemd-jour...",
+    "snippet": "I'm on Ubuntu 18.04, Gnome 3.28.2 with no dual boot and no external USB devices. Once in a while I get a black terminal screen with several errors.",
+    "snippet_highlighted_words": [
+      "get"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "catch error message and create Journal entry",
+    "link": "https://stackoverflow.com/questions/43262255/catch-error-message-and-create-journal-entry",
+    "displayed_link": "2 answers · 9 years ago",
+    "snippet": "I am searching for a code to replace this combination of exec and logger with a function put in trap \"createErrorMessage\" ERR. But I don't know how to catch/ ...",
+    "snippet_highlighted_words": [
+      "logger"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Docker errors msgs - journald: error processing journal",
+    "link": "https://github.com/moby/moby/issues/41551",
+    "displayed_link": "https://github.com › moby › moby › issues",
+    "snippet": "Application logs of several minutes loss, cannot be found in journal. Describe the results you expected: No logs loss, no warning messages.",
+    "snippet_highlighted_words": [
+      "logs",
+      "be",
+      "journal",
+      "logs"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Status of Journal Entry Verification and Troublesh...",
+    "link": "https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/status-of-journal-entry-verification-and-troubleshooting-reference/ba-p/12822484",
+    "displayed_link": "https://community.sap.com › ... › ERP Blog Posts by SAP",
+    "snippet": "This status shows you have successfully submitted the journal entry, and you are waiting for the processor to take the next action.",
+    "snippet_highlighted_words": [
+      "status",
+      "have",
+      "journal"
+    ],
+    "source": "SAP Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "[SOLVED] What's the meaing of this warning(systemd ...",
+    "link": "https://bbs.archlinux.org/viewtopic.php?id=145217",
+    "displayed_link": "https://bbs.archlinux.org › Newbie Corner",
+    "snippet": "I am not familiar with systemd, but this probably means that the log file has been rotated by logrotate. You can find the rotated log in ...",
+    "snippet_highlighted_words": [
+      "log",
+      "log"
+    ],
+    "source": "Arch Linux Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Failed to write entry to system.journal",
+    "link": "https://www.linux.org/threads/failed-to-write-entry-to-system-journal.53234/",
+    "displayed_link": "https://www.linux.org › ... › Getting Started",
+    "snippet": "Hi, after fresh installation of Ubuntu 24.04.1 LTS I've encountered issues like: Failed to write entry to /var/log/journal/.",
+    "snippet_highlighted_words": [
+      "Failed",
+      "log",
+      "journal"
+    ],
+    "source": "Linux.org",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Journal: A \"bad message\" error results in an infinite hot-loop",
+    "link": "https://github.com/grafana/loki/issues/4053",
+    "displayed_link": "https://github.com › grafana › loki › issues",
+    "snippet": "The systemd journal library may at times follow logs that it cannot process. When that happens, promtail enters an infinite loop that will produce the ...",
+    "snippet_highlighted_words": [
+      "journal",
+      "logs",
+      "will"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Dependency errors in File System Check when booting ...",
+    "link": "https://bbs.archlinux.org/viewtopic.php?id=289080",
+    "displayed_link": "https://bbs.archlinux.org › Newbie Corner",
+    "snippet": "You are in emergency mode. After logging in, type \"journalctl -xb\" to view system logs, \"systemctl reboot\" to reboot, or \"exit\" to continue ...",
+    "snippet_highlighted_words": [
+      "logging",
+      "logs",
+      "exit"
+    ],
+    "source": "Arch Linux Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Cyber Forensics Investigation | Digital Forensics Guide",
+    "link": "https://notestime.in/cyber-security/cyber-forensics-investigation",
+    "displayed_link": "https://notestime.in › cyber-security › cyber-forensics-i...",
+    "snippet": "Learn Cyber Forensics Investigation with beginner-friendly notes covering digital evidence collection, disk forensics, memory forensics, network forensics, ...",
+    "snippet_highlighted_words": [],
+    "source": "Notes Time",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,62 @@
+[1/30] LineId=1 querying: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188....
+[1/30] LineId=1 success, results=10
+[2/30] LineId=2 querying: check pass; user unknown
+[2/30] LineId=2 success, results=10
+[3/30] LineId=4 querying: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-...
+[3/30] LineId=4 success, results=10
+[4/30] LineId=14 querying: session opened for user cyrus by (uid=0)
+[4/30] LineId=14 success, results=10
+[5/30] LineId=15 querying: session closed for user cyrus
+[5/30] LineId=15 success, results=10
+[6/30] LineId=16 querying: ALERT exited abnormally with [1]
+[6/30] LineId=16 success, results=10
+[7/30] LineId=83 querying: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07...
+[7/30] LineId=83 success, results=10
+[8/30] LineId=91 querying: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.46.2...
+[8/30] LineId=91 success, results=10
+[9/30] LineId=136 querying: User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005
+[9/30] LineId=136 success, results=10
+[10/30] LineId=144 querying: cupsd shutdown succeeded
+[10/30] LineId=144 success, results=10
+[11/30] LineId=145 querying: cupsd startup succeeded
+[11/30] LineId=145 success, results=10
+[12/30] LineId=146 querying: restart.
+[12/30] LineId=146 success, results=10
+[13/30] LineId=167 querying: Received SNMP packet(s) from 67.170.148.126
+[13/30] LineId=167 success, results=10
+[14/30] LineId=539 querying: Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in r...
+[14/30] LineId=539 success, results=10
+[15/30] LineId=540 querying: Kerberos authentication failed
+[15/30] LineId=540 success, results=10
+[16/30] LineId=553 querying: Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connec...
+[16/30] LineId=553 success, results=10
+[17/30] LineId=896 querying: *** info [mice.c(1766)]:
+[17/30] LineId=896 success, results=10
+[18/30] LineId=897 querying: imps2: Auto-detected intellimouse PS/2
+[18/30] LineId=897 success, results=10
+[19/30] LineId=898 querying: session opened for user root by LOGIN(uid=0)
+[19/30] LineId=898 success, results=10
+[20/30] LineId=899 querying: ROOT LOGIN ON tty2
+[20/30] LineId=899 success, results=10
+[21/30] LineId=901 querying: removing device node '/udev/vcsa2'
+[21/30] LineId=901 success, results=10
+[22/30] LineId=903 querying: creating device node '/udev/vcs2'
+[22/30] LineId=903 success, results=10
+[23/30] LineId=953 querying: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.13...
+[23/30] LineId=953 success, results=10
+[24/30] LineId=1242 querying: authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=
+[24/30] LineId=1242 success, results=10
+[25/30] LineId=1243 querying: Couldn't authenticate user
+[25/30] LineId=1243 success, results=10
+[26/30] LineId=1748 querying: ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)
+[26/30] LineId=1748 success, results=10
+[27/30] LineId=1810 querying: notify question section contains no SOA
+[27/30] LineId=1810 success, results=10
+[28/30] LineId=1826 querying: getpeername (ftpd): Transport endpoint is not connected
+[28/30] LineId=1826 success, results=10
+[29/30] LineId=1828 querying: warning: can't get client address: Connection reset by peer
+[29/30] LineId=1828 success, results=10
+[30/30] LineId=1909 querying: syslogd startup succeeded
+[30/30] LineId=1909 success, results=10
+Batch results saved to: RQ1/search_results/logsearch/Linux_selected_30
+Summary: rows=30, attempted=30, successes=30, failures=0, skipped=0

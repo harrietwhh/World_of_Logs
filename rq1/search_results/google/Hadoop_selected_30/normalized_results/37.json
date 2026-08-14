@@ -1,0 +1,159 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Re: YARN is completely down.Cluster is in trouble",
+    "link": "https://community.cloudera.com/t5/Support-Questions/YARN-is-completely-down-Cluster-is-in-trouble/m-p/79844",
+    "displayed_link": "https://community.cloudera.com › Support-Questions",
+    "snippet": "Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter) ... Added filter static_user_filter (class=org ...",
+    "snippet_highlighted_words": [
+      "Added global filter 'safety"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Hadoop MapReduce Unable to connect to ...",
+    "link": "https://stackoverflow.com/questions/44402975/hadoop-mapreduce-unable-to-connect-to-resourcemanager",
+    "displayed_link": "1 answer · 8 years ago",
+    "snippet": "HttpServer2: Added global filter 'safety' (class=org.apache.hadoop ... Jun 7, 2017 at 5:23. I found this in the Resource Manager log: FATAL org.",
+    "snippet_highlighted_words": [
+      "HttpServer2",
+      "Added global filter",
+      "safety",
+      "class",
+      "org",
+      "apache",
+      "hadoop",
+      "org"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "HttpServer2.java",
+    "link": "https://github.com/c9n/hadoop/blob/master/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/http/HttpServer2.java",
+    "displayed_link": "https://github.com › java › org › apache › hadoop › http",
+    "snippet": "* Add an internal servlet in the server. * Note: This method is to be used for adding servlets that facilitate. * internal communication and ...",
+    "snippet_highlighted_words": [
+      "Add",
+      "server",
+      "adding"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "HttpServer.QuotingInputFilter (Hadoop 1.2.1 API)",
+    "link": "https://hadoop.apache.org/docs/r1.2.1/api/org/apache/hadoop/http/HttpServer.QuotingInputFilter.html",
+    "displayed_link": "https://hadoop.apache.org › org › apache › hadoop › http",
+    "snippet": "org.apache.hadoop.http. Class HttpServer.QuotingInputFilter ... A Servlet input filter that quotes all HTML active characters in the parameter names and values.",
+    "snippet_highlighted_words": [
+      "Class HttpServer.QuotingInputFilter"
+    ],
+    "source": "Apache Hadoop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Pig based Alpine operators fail to run on HA MapR4.1 cluster",
+    "link": "https://support.tibco.com/external/article/82673/hadoop-pig-based-alpine-operators-fail.html",
+    "displayed_link": "https://support.tibco.com › external › article › hadoop-...",
+    "snippet": "Pig based Alpine operators fail to run on HA MapR4.1 cluster - ArrayIndexOutOfBoundsException 1. See the attached screenshot for the regular data source ...",
+    "snippet_highlighted_words": [],
+    "source": "Tibco",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Why doesn't change of ports work in pseudo distributed ...",
+    "link": "https://stackoverflow.com/questions/35200249/why-doesnt-change-of-ports-work-in-pseudo-distributed-mode-for-hadoop-2-6-0",
+    "displayed_link": "2 answers · 10 years ago",
+    "snippet": "Why doesn't change of ports work in pseudo distributed mode for hadoop 2.6.0? · Did you reboot the cluster after changing the config?",
+    "snippet_highlighted_words": [
+      "hadoop"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Index (Apache Hadoop Common 2.7.3 API)",
+    "link": "https://www.javadoc.io/doc/org.apache.hadoop/hadoop-common/2.7.3/index-all.html",
+    "displayed_link": "https://www.javadoc.io › hadoop-common › index-all",
+    "snippet": "Add a global filter to the container. addGroup(String) - Method in class org.apache.hadoop.security.authorize.AccessControlList. Add group to the names ...",
+    "snippet_highlighted_words": [
+      "Add a global filter to the container"
+    ],
+    "source": "javadoc.io",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "failed to deploy hadoop data node after config ...",
+    "link": "https://github.com/microsoft/pai/issues/2637",
+    "displayed_link": "https://github.com › microsoft › pai › issues",
+    "snippet": "... Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter) 19/04/23 02:51:05 INFO http.HttpServer2: Added filter ...",
+    "snippet_highlighted_words": [
+      "Added global filter 'safety"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Hadoop Two Web Proxy Server",
+    "link": "http://johnjianfang.blogspot.com/2014/09/hadoop-two-web-proxy-server.html",
+    "displayed_link": "http://johnjianfang.blogspot.com › 2014/09 › hadoop-t...",
+    "snippet": "The proxy server uses HttpServer2 under the hood. HttpServer2 loads filters by checking the parameter \"hadoop.http.filter.initializers\". public ...",
+    "snippet_highlighted_words": [
+      "server",
+      "HttpServer2",
+      "HttpServer2",
+      "filters",
+      "hadoop",
+      "http",
+      "filter"
+    ],
+    "source": "Blogger.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Source code - Apache HBase",
+    "link": "https://hbase.apache.org/2.4/devapidocs/src-html/org/apache/hadoop/hbase/http/HttpServer.QuotingInputFilter.html",
+    "displayed_link": "https://hbase.apache.org › apache › hadoop › hbase › http",
+    "snippet": "> clz = Class.forName(\"org.apache.hadoop.metrics.MetricsServlet\"); 742 addPrivilegedServlet(\"metrics\", \"/metrics\", clz.asSubclass(HttpServlet.class)); 743 } ...",
+    "snippet_highlighted_words": [
+      "Class",
+      "org",
+      "apache",
+      "hadoop",
+      "class"
+    ],
+    "source": "Apache HBase",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "input_csv": "RQ1/dataset/runtime_log/Linux_selected_30.csv",
+  "query_column": "Content",
+  "requested_num": 10,
+  "sleep_seconds": 5.0,
+  "provider": "LogSearch API",
+  "engine": "logsearch",
+  "endpoint": "http://129.97.92.71:8000/api/search",
+  "timeout_seconds": 30.0,
+  "batch_name": "Linux_selected_30",
+  "output_files": {
+    "batch_metadata": "batch_metadata.json",
+    "query_manifest": "query_manifest.csv",
+    "normalized_results_dir": "normalized_results/"
+  },
+  "total_rows_seen": 30,
+  "total_query_candidates": 30,
+  "total_queries_attempted": 30,
+  "total_successes": 30,
+  "total_failures": 0,
+  "total_skipped_empty_query": 0,
+  "started_at_utc": "2026-04-09T20:25:16.104683+00:00",
+  "finished_at_utc": "2026-04-09T20:27:51.590690+00:00"
+}

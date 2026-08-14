@@ -1,0 +1,134 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "LogHub - Mozilla Thunderbird Log Data",
+    "link": "https://www.kaggle.com/datasets/omduggineni/loghub-mozilla-thunderbird-log-data/data",
+    "displayed_link": "https://www.kaggle.com › datasets › omduggineni › data",
+    "snippet": "... ]: warning: unable to look up public/pickup: No such file or directory ... [ib_sm_sweep.c:1455]: No topology change - 1131563436 2005.11.09 tbird-sm1 Nov 9 11:10: ...",
+    "snippet_highlighted_words": [
+      "ib_sm_sweep.c:1455]: No topology change"
+    ],
+    "source": "Kaggle",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "loghub/Thunderbird/Thunderbird_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Thunderbird/Thunderbird_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Thunderbird",
+    "snippet": "... ]: [ib_sm_sweep.c:1455]: No topology change. - 1131566474 2005.11.09 tbird ... ]: [ib_sm_sweep.c:1455]: No topology change. - 1131566488 2005.11.09 tbird ...",
+    "snippet_highlighted_words": [
+      "ib_sm_sweep.c:1455]: No topology change"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "LPB-Gen: Systematic Large Log-Parsing Benchmarks ...",
+    "link": "https://ece.uwaterloo.ca/~wshang/pubs/TOSEM_HETONG_DAI_2025.pdf",
+    "displayed_link": "https://ece.uwaterloo.ca › ~wshang › pubs › TOS...",
+    "snippet": "... ]: [ib_sm_sweep.c:1455]: No topology change. 1134600604 src@tbird-sm1 ib_sm.x ... No topology change. ********************** NEW SWEEP ...",
+    "snippet_highlighted_words": [
+      "ib_sm_sweep.c:1455]: No topology change"
+    ],
+    "source": "University of Waterloo",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "loghub/Thunderbird/Thunderbird_2k.log_structured.csv at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Thunderbird/Thunderbird_2k.log_structured.csv",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Thunderbird",
+    "snippet": "... [ib_sm_sweep.c:1455]: No topology change, E6, [ib_sm_sweep.c:1455]: No topology change. 65. 64, -, 1131566474, 2005.11.09, tbird-sm1, Nov, 9, 12:01:14, src@tbird ...",
+    "snippet_highlighted_words": [
+      "ib_sm_sweep.c:1455]: No topology change"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Topology Change, Loop-back detect and Storm Control",
+    "link": "https://community.cisco.com/t5/switching/topology-change-loop-back-detect-and-storm-control/td-p/2492973",
+    "displayed_link": "https://community.cisco.com › switching › td-p",
+    "snippet": "Topology change flag not set, detected flag not set. Number of topology changes 39 last change occurred 00:05:11 ago from FastEthernet1/0/24.",
+    "snippet_highlighted_words": [
+      "Topology change",
+      "not",
+      "not",
+      "topology changes"
+    ],
+    "source": "Cisco Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Any one knows how to fix the Topology in Omada ...",
+    "link": "https://www.reddit.com/r/TPLink_Omada/comments/1gflxhf/any_one_knows_how_to_fix_the_topology_in_omada/",
+    "displayed_link": "20+ comments · 1 year ago",
+    "snippet": "You can enable LLDP in settings. It might help, though it might not be that useful if you don't have any Omada switches connected.",
+    "snippet_highlighted_words": [
+      "not"
+    ],
+    "source": "Reddit · r/TPLink_Omada",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "[Solved] Topology and client port at switch not updated ...",
+    "link": "https://community.ui.com/questions/Solved-Topology-and-client-port-at-switch-not-updated-after-move-of-client/e71356b3-089a-4c85-ad76-dfbf89cd6d27",
+    "displayed_link": "https://community.ui.com › questions › Solved-Topolo...",
+    "snippet": "In the topology display as well as in the overview data of each client the uplink switch and the respective port is not updated after a client is moved from ...",
+    "snippet_highlighted_words": [
+      "topology",
+      "switch",
+      "not"
+    ],
+    "source": "Ubiquiti Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "How to Troubleshoot Spanning Tree Topology Changes",
+    "link": "https://support.hpe.com/hpesc/public/docDisplay?docId=c02718744&docLocale=en_US",
+    "displayed_link": "https://support.hpe.com › hpesc › public › docDisplay",
+    "snippet": "This document outlines the main causes of spanning-tree topology changes and covers the applicable switch show commands to diagnose the problem.",
+    "snippet_highlighted_words": [
+      "topology changes"
+    ],
+    "source": "Hewlett Packard Enterprise",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Topology Map does not Update properly",
+    "link": "https://community.ui.com/questions/Topology-Map-does-not-Update-properly/d7c9c6df-56fb-4468-b2b1-6fa39a9dcf0e",
+    "displayed_link": "https://community.ui.com › questions › Topology-Map...",
+    "snippet": "The Two switches with these clients have both been restarted with no change to the Clients topology information. @RoChess Thanks for the comments. I am ...",
+    "snippet_highlighted_words": [
+      "no change",
+      "topology"
+    ],
+    "source": "Ubiquiti Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Yarn Resource Manager throws error",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Yarn-Resource-Manager-throws-error/td-p/81393",
+    "displayed_link": "https://community.cloudera.com › td-p",
+    "snippet": "... apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context ...",
+    "snippet_highlighted_words": [
+      "Added filter AM_PROXY_FILTER"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Map reduce not Working with RMR2 / YARN · Issue #113",
+    "link": "https://github.com/RevolutionAnalytics/rmr2/issues/113",
+    "displayed_link": "https://github.com › RevolutionAnalytics › rmr2 › issues",
+    "snippet": "... apache.hadoop.http.HttpServer: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context ...",
+    "snippet_highlighted_words": [
+      "Added filter AM_PROXY_FILTER",
+      "class",
+      "org",
+      "apache",
+      "hadoop",
+      "yarn",
+      "server",
+      "webproxy",
+      "amfilter",
+      "AmIpFilter",
+      "context"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Unable to start thrift-server due to class org.apache.hadoop ...",
+    "link": "https://stackoverflow.com/questions/79224196/unable-to-start-thrift-server-due-to-class-org-apache-hadoop-yarn-server-webprox",
+    "displayed_link": "1 answer · 1 year ago",
+    "snippet": "Unable to start thrift-server due to class org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter is not a javax.servlet.Filter · java 1.8, ...",
+    "snippet_highlighted_words": [
+      "class org",
+      "apache",
+      "hadoop",
+      "yarn",
+      "server",
+      "webproxy",
+      "amfilter",
+      "AmIpFilter",
+      "Filter"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Re: Yarn AM is abending job when submitting a remote ...",
+    "link": "https://lists.apache.org/thread/7cnsvh1oy8cm458m6s4vnkkqoypj9ygg",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "Ulul, I will try your recommendation and see what happens. My prototype came from examples in Tom White's Hadoop Definitive guide book Chapter 5.",
+    "snippet_highlighted_words": [
+      "Hadoop"
+    ],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Pig based Alpine operators fail to run on HA MapR4.1 cluster",
+    "link": "https://support.tibco.com/external/article/82673/hadoop-pig-based-alpine-operators-fail.html",
+    "displayed_link": "https://support.tibco.com › external › article › hadoop-...",
+    "snippet": "Pig based Alpine operators fail to run on HA MapR4.1 cluster - ArrayIndexOutOfBoundsException 1. See the attached screenshot for the regular data source ...",
+    "snippet_highlighted_words": [],
+    "source": "Tibco",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "import hive table from parquet files, there is no 'job. ...",
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "displayed_link": "https://issues.apache.org › browse › MAPREDUCE-6736",
+    "snippet": "... apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context ...",
+    "snippet_highlighted_words": [
+      "Added filter AM_PROXY_FILTER"
+    ],
+    "source": "Apache Software Foundation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "pydoop mapreduce job hangs because ...",
+    "link": "https://github.com/crs4/pydoop/issues/216",
+    "displayed_link": "https://github.com › crs4 › pydoop › issues",
+    "snippet": "I tried similar mapreduce on mrjob and it worked fine, but I want to use pydoop. What am I missing possibly? I am on the Hadoop 2.6 CDH5. I ...",
+    "snippet_highlighted_words": [
+      "mapreduce",
+      "Hadoop"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Re: Can't run hadoop examples with YARN Single node cluster ...",
+    "link": "https://lists.apache.org/thread/fqbq51cpjdvcxv1ygbyt769sv4q5bwcw",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "Hi guys, thanks for your answers. Wordcount logs: 16/01/19 21:58:32 INFO client.RMProxy: Connecting to ResourceManager at hdnode01/192.168.0.10:8050 SLF4J: ...",
+    "snippet_highlighted_words": [],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Solved: Re: Oozie-sqoop action in CDH 5.2-Heart beat issue",
+    "link": "https://community.cloudera.com/t5/Batch-Processing-and-Workflow/Oozie-sqoop-action-in-CDH-5-2-Heart-beat-issue/m-p/23494/highlight/true",
+    "displayed_link": "https://community.cloudera.com › highlight › true",
+    "snippet": "I tried below solution it works perfectly for me. 1) Change the Hadoop schedule type from capacity scheduler to - 22181.",
+    "snippet_highlighted_words": [
+      "Hadoop"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "[jira] [Comment Edited] (YARN-9690) Invalid AMRM token ...",
+    "link": "https://lists.apache.org/thread/0298vp5mj6tj79w5vhv8791cf2k2lxf8",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop ... org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler ...",
+    "snippet_highlighted_words": [
+      "Added filter AM_PROXY_FILTER",
+      "class",
+      "org",
+      "apache",
+      "hadoop",
+      "org",
+      "apache",
+      "hadoop",
+      "mapreduce"
+    ],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

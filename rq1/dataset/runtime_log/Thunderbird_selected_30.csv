@@ -1,0 +1,31 @@
+LineId,Time,Level,Content,EventId,EventTemplate
+1,12:01:01,,session closed for user root,E117,session closed for user <*>
+2,12:01:01,,session opened for user root by (uid=0),E118,session opened for user <*> by (uid=<*>)
+3,12:01:01,,(root) CMD (run-parts /etc/cron.hourly),E3,(<*>) CMD (run-parts <*>)
+40,12:01:01,,data_thread() got not answer from any [Thunderbird_A8] datasource,E32,data_thread() got not answer from any [<*>] datasource
+46,12:01:03,,"synchronized to 10.100.20.250, stratum 3",E125,"synchronized to <*>, stratum <*>"
+56,12:01:10,,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,E8,[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************
+63,12:01:14,,[ib_sm_sweep.c:1455]: No topology change,E6,[ib_sm_sweep.c:<*>]: No topology change
+64,12:01:14,,[ib_sm_sweep.c:1482]: No configuration change required,E7,[ib_sm_sweep.c:<*>]: No configuration change required
+74,12:01:19,,Local disconnected: Connection closed.,E67,Local disconnected: Connection closed.
+75,12:01:19,,connection lost: 'Connection closed.',E30,connection lost: 'Connection closed.'
+96,12:01:30,,unable to qualify my own domain name (eadmin1) -- using short name,E131,unable to qualify my own domain name (<*>) -- using short name
+98,12:01:31,,"jA9J1UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.jA9J1UvC004306@eadmin1>, relay=#7#@localhost",E15,"<*>: from=<*>, size=<*>, class=<*>, nrcpts=<*>, msgid=<*>, relay=#<*>#@localhost"
+99,12:01:31,,"jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]",E16,"<*>: to=<*>, ctladdr=<*> (0/0), delay=<*>:<*>:<*>, xdelay=<*>:<*>:<*>, mailer=relay, pri=<*>, relay=[<*>] [<*>], dsn=<*>, stat=Deferred: Connection refused by [<*>]"
+128,12:01:41,,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1,E36,DHCPDISCOVER from <*> via eth1
+129,12:01:41,,DHCPOFFER on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1,E38,DHCPOFFER on <*> to <*> via eth1
+132,12:01:41,,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases,E37,DHCPDISCOVER from <*> via eth1: network A_net: no free leases
+139,12:01:43,,DHCPACK on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1,E35,DHCPACK on <*> to <*> via eth1
+140,12:01:43,,DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1,E39,DHCPREQUEST for <*> (<*>) from <*> via eth1
+141,12:01:43,,START: tftp pid=16563 from=10.100.4.251,E119,START: tftp pid=<*> from=<*>
+142,12:01:43,,DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.,E40,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.
+404,12:03:57,,RRD_update (/var/lib/ganglia/rrds/C Nodes/cn304/pkts_out.rrd): illegal attempt to update using time 1131563037 when last update time is 1131563037 (minimum one second step),E111,RRD_update (<*>): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+459,12:04:25,,kernel time sync disabled 0041,E61,kernel time sync disabled <*>
+460,12:04:25,,time reset +0.182379 s,E128,time reset +<*> s
+566,12:05:12,,Received SNMP packet(s) from #34#,E98,Received SNMP packet(s) from #<*>#
+957,12:08:45,,kernel time sync enabled 0001,E62,kernel time sync enabled <*>
+1101,12:10:01,,(root) CMD (/projects/tbird/temps/get_temps a),E2,(<*>) CMD (<*> <*>)
+1162,12:10:31,,My unqualified host name (eadmin1) unknown; sleeping for retry,E75,My unqualified host name (<*>) unknown; sleeping for retry
+1182,12:10:43,,CentOS-4 (Kernel Module GPG key),E25,CentOS-<*> (Kernel Module GPG key)
+1183,12:10:43,,(supports S0 S4 S5),E4,(supports <*>)
+1184,12:10:43,,DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000,E10,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>

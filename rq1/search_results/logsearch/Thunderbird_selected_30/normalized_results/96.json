@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_05e5ace25ec056d3b9476c8ca39b34ab90c5b0fe9c896cb75a46bff9f7c34dd0",
+    "score": 78.320145,
+    "link": "https://stackoverflow.com/questions/43842478",
+    "source": "so",
+    "origin_doc_id": "b60cb36bddcd229d3f731e5257e359643439777a75b78572711ea09a343c3428",
+    "snippet": "Unable to qualify my own domain name (hugo) -- using short name"
+  },
+  {
+    "rank": 2,
+    "id": "msg_f0b695cede4674145bc9eed689b58801c5ceef73fe5ad7d1716691b99dd966df",
+    "score": 71.97305,
+    "link": "https://github.com/darvid/python-hyperscan/issues/1",
+    "source": "github",
+    "origin_doc_id": "8146dfff1a2c8c1dd4e88ec7e5a681b7895b47deee05af8ba8e8fbcf8f0ad9b7",
+    "snippet": "[Truncated]\neid: 1 match: Jul 1\nb'Jul 1 20:20:01 hostname sm-msp-queue[28678]: My unqualified host name (hostname) unknown; sleeping for retry'\neid: 1 match: Jul 1 20:20:01\nb'Jul 1 20:21:01 hostname sm-msp-queue[28678]: unable to qualify my own domain name (hostname) -- using short name'\neid: 1 match: Jul\nb'Jul 1 20:21:01 hostname sm-msp-queue[28678]: unable to qualify my own domain name (hostname) -- using short name'\neid: 1 match: Jul\nb'Jul 1 20:21:01 hostname sm-msp-queue[28678]: unable to qualify my own domain name (hostname) -- using short name'\neid: 1 match: Jul 1\nb'Jul 1 20:21:01 hostname sm-msp-queue[28678]: unable to qualify my own domain name (hostname) -- using short name' \n eid: 1 match: Jul 1 \n b'Jul 1 20:21:01 hostname sm-msp-queue[28678]: unable to qualify my own domain name (hostname) -- using short name' \n eid: 1 match: Jul 1 20:21:01 \n lines/sec: 8361.850079744816 \n lines: 5"
+  },
+  {
+    "rank": 3,
+    "id": "msg_496744a1d681a0b10ff9893e394945633191e63ee8ec9cdf6324939a57bc1be4",
+    "score": 68.81392,
+    "link": "https://stackoverflow.com/questions/22342093",
+    "source": "so",
+    "origin_doc_id": "308428fd9ddc6497eaf7f30cb6e3ea6bbfa5b7b0003067732e1a8afd64d4807d",
+    "snippet": "My unqualified host name (localhost) unknown; sleeping for retry localhost sendmail[11620]: unable to qualify my own domain name (localhost) -- using short name(errors that I get in"
+  },
+  {
+    "rank": 4,
+    "id": "msg_aaff61b03315164227e2bc14b849632061fcc19caa605fcd3d0c1376794039aa",
+    "score": 67.656456,
+    "link": "https://stackoverflow.com/questions/21286671",
+    "source": "so",
+    "origin_doc_id": "ea2573ebb4d54d5dfb70d855821d876b955b700ec0524594e0745260c875838a",
+    "snippet": "unable to qualify my own domain name (antonsk) -- using short name \n Jan 22 16:00:01 antonsk sm-msp-queue[3513]: My unqualified host name (antonsk) unknown; sleeping for retry"
+  },
+  {
+    "rank": 5,
+    "id": "msg_df4d83005af852e33169569ca64d8ca347e6cb2fc67101e9bfa3bbac305ec79e",
+    "score": 62.434227,
+    "link": "https://github.com/kanboard/kanboard/issues/4051",
+    "source": "github",
+    "origin_doc_id": "dc97857290ace19eec696fb96dbd2fc0c0f74d723df4b3cd5deaf88f8f5a334d",
+    "snippet": "Oct 22 13:00:02 cloud sm-msp-queue[2557]: My unqualified host name (cloud) unknown; sleeping for retry \n Oct 22 13:01:02 cloud sm-msp-queue[2557]: unable to qualify my own domain name (cloud) -- using short name"
+  },
+  {
+    "rank": 6,
+    "id": "msg_fe02400e900934287c3ca5aa120da1d2d523fabd45e83370561b4077093dbb74",
+    "score": 55.632812,
+    "link": "https://github.com/jkroepke/openshift-mta/issues/5",
+    "source": "github",
+    "origin_doc_id": "b6ad7c1588d9e4a445e00135a4563523c6debcbb805d7b4db64992eb7a568a4a",
+    "snippet": "/etc/mail/aliases: 77 aliases, longest 10 bytes, 784 bytes total \n -- \n   | WARNING: Can not use -d with -q.  Disabling debugging. \n   | sendmail: My unqualified host name (eywc2i1a8qyx72hmsj687nuou-smtp-6995bb9dcf-7tvhk) unknown; sleeping for retry \n   | sendmail: unable to qualify my own domain name (eywc2i1a8qyx72hmsj687nuou-smtp-6995bb9dcf-7tvhk) -- using short name \n   | sendmail: starting daemon (8.14.7): SMTP+persistent-queueing@00:00:01 \n `"
+  },
+  {
+    "rank": 7,
+    "id": "msg_9e0bcf064f3aad49df40c16080ef3bb864e37acccb9928264c7ec7478fda99f6",
+    "score": 51.465298,
+    "link": "https://stackoverflow.com/questions/5832487",
+    "source": "so",
+    "origin_doc_id": "6dc8b1818572df0d74537ca2ca752fbc3c648b1fa8afc0dcb1ce937dd58e16d4",
+    "snippet": "Apr 29 16:12:05 IT02 sendmail[7660]: My unqualified host name (IT02) unknown; sleeping    for retry  \n Apr 29 16:13:05 IT02 sendmail[7660]: unable to qualify my own domain name (IT02) -- using short name  \n Apr 29 16:13:05 IT02 sendmail[7660]: p3TED551007660: from=www-data, size=210, class=0, nrcpts=0, msgid=<201104291413.p3TED551007660@IT02>, bodytype=8BITMIME, relay=www-data@localhost  \n  Does anybody know what it"
+  },
+  {
+    "rank": 8,
+    "id": "msg_d1da3281fab7d3e1265f4dfdab6ecadf717c7e029cbe2575253ea3654c1f6509",
+    "score": 50.219486,
+    "link": "https://stackoverflow.com/questions/21383953",
+    "source": "so",
+    "origin_doc_id": "fa982ae58169f15a1fee0babc9fcfc65b82a4435a742b4ec5c79c286365c141a",
+    "snippet": "Jan 27 10:11:49 localhost sendmail[22457]: My unqualified host name (localhost) unknown; sleeping for retry \nJan 27 10:12:49 localhost sendmail[22457]: unable to qualify my own domain name (localhost) -- using short name\nJan 27 10:12:50 localhost sendmail[22457]: gethostbyaddr(192.241.186.7) failed: 1\nJan 27 10:12:50 localhost sendmail[22457]: gethostbyaddr(10.128.248.128) failed: 1\nJan 27 10:12:50 localhost sendmail[22457]: alias database /etc/mail/aliases rebuilt by root\nJan 27 10:12:50 localhost sendmail[22457]: /etc/mail/aliases: 4 aliases, longest 10 bytes, 66 bytes total\nJan 27 10:12:50 localhost sm-mta[22516]: My unqualified host name (localhost) unknown; sleeping for retry\nJan 27 10:12:52 localhost sm-msp-queue[22521]: My unqualified host name (localhost) unknown; sleeping for retry\nJan 27 10:13:50 localhost sm-mta[22516]: unable to qualify my own domain name (localhost) -- using short name\nJan 27 10:13:50 localhost sm-mta[22516]: gethostbyaddr(192.241.186.7) failed: 1\nJan 27 10:13:50 localhost sm-mta[22516]: gethostbyaddr(10.128.248.128) failed: 1\nJan 27 10:13:50 localhost sm-mta[22523]: starting daemon (8.14.4): SMTP+queueing@00:10:00 \n Jan 27 10:13:52 localhost sm-msp-queue[22521]: unable to qualify my own domain name (localhost) -- using short name \n Jan 27 10:14:10 localhost sendmail[22542]: My unqualified host name (localhost) unknown; sleeping for retry \n Jan 27 10:15:10 localhost sendmail[22542]: unable to qualify my own domain name (localhost) -- using short name \n Jan 27 10:15:10 localhost sendmail[22542]: s0RFFAmY022542: from=www-data, size=423, class=0, nrcpts=1, msgid=<201401271515.s0RFFAmY022542@$ \n Jan 27 10:15:10 localhost sm-mta[22546]: s0RFFAC7022546: from=<www-data@localhost>, size=638, class=0, nrcpts=1, msgid=<201401271515.s0RFF$ \n Jan 27 10:15:10 localhost sendmail[22542]: s0RFFAmY022542: to=example@outlook.com, ctladdr=www-data (33/33), delay=00:00:00, xdelay=00:00$ \n Jan 27 10:15:11 localhost sm-mta[22548]: s0RFFAC7022546: to=<example@outlook.com>, ctladdr=<www-data@localhost> (33/33), delay=00:00:01, $enter code here"
+  },
+  {
+    "rank": 9,
+    "id": "msg_5d49f69b1fcb8e21c8f086e35f73ac8d798ce5fd5e3726bb4ca3242b518c6bcc",
+    "score": 47.455956,
+    "link": "https://stackoverflow.com/questions/17878887",
+    "source": "so",
+    "origin_doc_id": "4060e5b8e963883b166b7756a3fb6f0d3a3aed7d96d4fd85322957b1ecb01007",
+    "snippet": "Jul 27 17:26:27 vps sm-mta[28178]: r6NNcp6u021157: to=<user@email.co.uk>, ctladdr=<www-data@sergeserver> (33/33), delay=3+15:47:36, xdelay=00:02:06, mailer=esmtp, pri=47557620, relay=email.co.uk. [62.116.143.15], dsn=4.0.0, stat=Deferred: Connection timed out with email.co.uk. \n Jul 27 17:40:01 vps sm-msp-queue[28198]: My unqualified host name (sergeserver) unknown; sleeping for retry \n Jul 27 17:41:01 vps sm-msp-queue[28198]: unable to qualify my own domain name (sergeserver) -- using short name"
+  },
+  {
+    "rank": 10,
+    "id": "msg_5a615e9870c790954736fe6c0889f2208081cb302c76092a5de812515818d9a3",
+    "score": 43.592003,
+    "link": "https://stackoverflow.com/questions/58555137",
+    "source": "so",
+    "origin_doc_id": "1e75e5832ccb508b4d56b63bd13ce55cef6dd62a14bdbdd472489f8d9fa4934c",
+    "snippet": "myid     12232  0.0  0.1   2040   632 pts/1    S+   08:17   0:00 grep cron \n  $ tail -24 /var/log/syslog  \n  Oct 25 08:01:08 localhost crontab[5224]: (myid) BEGIN EDIT (myid) \n Oct 25 08:01:44 localhost init: Id \"1\" respawning too fast: disabled for 5 minutes \n Oct 25 08:03:37 localhost crontab[5224]: (myid) END EDIT (myid) \n Oct 25 08:05:01 localhost /USR/SBIN/CRON[7008]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1) \n Oct 25 08:07:31 localhost sendmail[9090]: My unqualified host name (localhost) unknown; sleeping for retry \n Oct 25 08:07:35 localhost init: Id \"1\" respawning too fast: disabled for 5 minutes \n Oct 25 08:08:01 localhost /usr/sbin/cron[2771]: (*system*sendmail) RELOAD (/etc/cron.d/sendmail) \nOct 25 08:08:31 localhost sendmail[9090]: unable to qualify my own domain name (localhost) -- using short name\nOct 25 08:08:31 localhost sendmail[9090]: alias database /etc/mail/aliases rebuilt by root\nOct 25 08:08:31 localhost sendmail[9090]: /etc/mail/aliases: 12 aliases, longest 10 bytes, 134 bytes total\nOct 25 08:08:32 localhost sm-mta[9484]: My unqualified host name (localhost) unknown; sleeping for retry\nOct 25 08:08:34 localhost sm-msp-queue[9501]: My unqualified host name (localhost) unknown; sleeping for retry\nOct 25 08:09:32 localhost sm-mta[9484]: unable to qualify my own domain name (localhost) -- using short name\nOct 25 08:09:32 localhost sm-mta[9732]: starting daemon (8.14.4): SMTP+queueing@00:10:00\nOct 25 08:09:34 localhost sm-msp-queue[9501]: unable to qualify my own domain name (localhost) -- using short name\nOct 25 08:13:26 localhost init: Id \"1\" respawning too fast: disabled for 5 minutes\nOct 25 08:14:30 localhost crontab[11351]: (myid) BEGIN EDIT (myid)\nOct 25 08:15:01 localhost /USR/SBIN/CRON[11524]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1) \n Oct 25 08:16:21 localhost crontab[11351]: (myid) END EDIT (myid) \n Oct 25 08:17:01 localhost /USR/SBIN/CRON[12193]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly) \n Oct 25 08:19:17 localhost init: Id \"1\" respawning too fast: disabled for 5 minutes \n Oct 25 08:20:01 localhost /USR/SBIN/CRON[13206]: (smmsp) CMD (test -x /etc/init.d/sendmail && /usr/share/sendmail/sendmail cron-msp) \n Oct 25 08:20:02 localhost sm-msp-queue[13222]: My unqualified host name (localhost) unknown; sleeping for retry \n Oct 25 08:21:02 localhost sm-msp-queue[13222]: unable to qualify my own domain name (localhost) -- using short name \n  $ service cron status  \n  [ ok ] cron is running."
+  }
+]

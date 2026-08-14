@@ -1,0 +1,151 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "\"Failed password for root\" SSH login hacking attemp?",
+    "link": "https://www.reddit.com/r/hetzner/comments/13w21j5/failed_password_for_root_ssh_login_hacking_attemp/",
+    "displayed_link": "20+ comments · 2 years ago",
+    "snippet": "I was under a barrage of failed SSH login attempts across all my servers. The attacks were relentless and commenced as soon as my servers went live.",
+    "snippet_highlighted_words": [
+      "failed"
+    ],
+    "source": "Reddit · r/hetzner",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "SSH attack - multiple root login attempts",
+    "link": "https://askubuntu.com/questions/1451948/ssh-attack-multiple-root-login-attempts",
+    "displayed_link": "https://askubuntu.com › questions › ssh-attack-multiple-...",
+    "snippet": "Nothing to worry about. Change your ssh port, add fail2ban, disable root, disable password authentication and so on, just do the usual hardening ...",
+    "snippet_highlighted_words": [
+      "port",
+      "root",
+      "password"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "SSH password authentication fails with “Failed password” ...",
+    "link": "https://access.redhat.com/solutions/7138892",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Issue. SSH password authentication fails for users. Console login using the same username and password works successfully.",
+    "snippet_highlighted_words": [
+      "password",
+      "fails",
+      "password"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Please may I know why I am getting this Sshd log",
+    "link": "https://security.stackexchange.com/questions/202939/please-may-i-know-why-i-am-getting-this-sshd-log",
+    "displayed_link": "https://security.stackexchange.com › questions › please-...",
+    "snippet": "With high probability someone try to login as root enumerating different password (from generator or list). You should decide do you have ...",
+    "snippet_highlighted_words": [
+      "root",
+      "password"
+    ],
+    "source": "Information Security Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Why is SSH authentication failing when using the login ...",
+    "link": "https://serverfault.com/questions/1004020/why-is-ssh-authentication-failing-when-using-the-login-password",
+    "displayed_link": "https://serverfault.com › questions › why-is-ssh-authenti...",
+    "snippet": "Most SSH servers by default doesn't allow root login over SSH, you'll need to change a line in the SSH server configuration to allow this.",
+    "snippet_highlighted_words": [
+      "root"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "fail2ban has maxretry of 3 but I see authentication failures ...",
+    "link": "https://superuser.com/questions/1180000/fail2ban-has-maxretry-of-3-but-i-see-authentication-failures-repeated-5-times",
+    "displayed_link": "https://superuser.com › questions › fail2ban-has-maxret...",
+    "snippet": "I am running Ubuntu 16.04 with ssh enabled through ufw and have configured fail2ban to enable the [sshd] and [sshd-ddos] jails with a maxretry of 3.",
+    "snippet_highlighted_words": [],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Root password not working on ssh - Security",
+    "link": "https://community.ipfire.org/t/root-password-not-working-on-ssh/2569",
+    "displayed_link": "https://community.ipfire.org › root-password-not-workin...",
+    "snippet": "When trying to login to my IPFire Corporate system the root password is not working for ssh. I can still login to the GUI, but the root password is not working ...",
+    "snippet_highlighted_words": [
+      "root password",
+      "root password"
+    ],
+    "source": "IPFire Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "SSH fails to log in when enters root password for many ...",
+    "link": "https://docs.jdcloud.com/en/virtual-machines/ssh-login-issue",
+    "displayed_link": "https://docs.jdcloud.com › ssh-login-issue",
+    "snippet": "Login via SSH is denied after entering the root password for many times, with the error below reported: Too many authentication failures for root · Too many ...",
+    "snippet_highlighted_words": [
+      "root password",
+      "times",
+      "error",
+      "failures",
+      "root"
+    ],
+    "source": "jdcloud.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Troubleshooting SSH Authentication Failures",
+    "link": "https://medium.com/@rajsek/troubleshooting-ssh-authentication-failures-6a80557df2b3",
+    "displayed_link": "1 year ago",
+    "snippet": "Here's a walk through of my process and how I resolved it. The Issue. During an SSH connection attempt, I was met with the following error:",
+    "snippet_highlighted_words": [
+      "error"
+    ],
+    "source": "Medium · Raja Sekar Durairaj",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "SSH Login failures in the last 24 hours. Prohibit root password",
+    "link": "https://www.truenas.com/community/threads/ssh-login-failures-in-the-last-24-hours-prohibit-root-password.106181/",
+    "displayed_link": "https://www.truenas.com › ... › TrueNAS SCALE",
+    "snippet": "Hello, I am wondering if I can some how \"disable password\" for root, but not for others. I mean set it with a reply to clients \"root@server: ...",
+    "snippet_highlighted_words": [
+      "password\" for root",
+      "root"
+    ],
+    "source": "truenas.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

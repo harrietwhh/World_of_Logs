@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "YALP/gpt-3.5-turbo-0125.json at main",
+    "link": "https://github.com/ZJU-ACES-ISE/YALP/blob/main/gpt-3.5-turbo-0125.json",
+    "displayed_link": "https://github.com › ZJU-ACES-ISE › YALP › blob › gp...",
+    "snippet": "... job history data to the timeline server is not enabled`\\\"}]\": \"``Emitting ... Adding job token for job_1445144423722_0020 to jobTokenSecretManager`\\\"}]\": \"`` ...",
+    "snippet_highlighted_words": [
+      "Adding job token for job_1445144423722_0020 to jobTokenSecretManager"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Aliph0th/logtheus-ml-ds · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/Aliph0th/logtheus-ml-ds/viewer/default/train?p=1",
+    "displayed_link": "https://huggingface.co › datasets › viewer › default › train",
+    "snippet": "... job.impl.JobImpl: Adding job token for job_1445144423722_0020 to jobTokenSecretManager. [ { \"start\": 0, \"end\": 23, \"label\": \"timestamp\" }, { \"start\": 24 ...",
+    "snippet_highlighted_words": [
+      "Adding job token for job_1445144423722_0020 to jobTokenSecretManager"
+    ],
+    "source": "Hugging Face",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "loghub/Hadoop/Hadoop_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Hadoop/Hadoop_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Hadoop",
+    "snippet": "... job.impl.JobImpl: Adding job token for job_1445144423722_0020 to jobTokenSecretManager. 2015-10-18 18:01:51,619 INFO [main] org.apache.hadoop.mapreduce.v2.app.",
+    "snippet_highlighted_words": [
+      "Adding job token for job_1445144423722_0020 to jobTokenSecretManager"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Job token permission development guidelines",
+    "link": "https://docs.gitlab.com/development/permissions/granular_access/job_tokens/",
+    "displayed_link": "https://docs.gitlab.com › permissions › granular_access",
+    "snippet": "Add a job token permission. Job token permissions are defined in several locations. When adding new permissions, ensure the following files are updated:.",
+    "snippet_highlighted_words": [
+      "Add a job token permission"
+    ],
+    "source": "about.gitlab.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "YALP/gpt-4-turbo-2024-04-09.json at main",
+    "link": "https://github.com/ZJU-ACES-ISE/YALP/blob/main/gpt-4-turbo-2024-04-09.json",
+    "displayed_link": "https://github.com › ZJU-ACES-ISE › YALP › blob › gp...",
+    "snippet": "... job history data to the timeline server is not enabled`\\\"}]\": \"`Emitting job ... Adding job token for job_1445144423722_0020 to jobTokenSecretManager`\\\"}]\": \"` ...",
+    "snippet_highlighted_words": [
+      "Adding job token for job_1445144423722_0020 to jobTokenSecretManager"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "GitLab CI/CD job token",
+    "link": "https://costa.ls.fi.upm.es/gitlab/help/ci/jobs/ci_job_token.md",
+    "displayed_link": "https://costa.ls.fi.upm.es › gitlab › help › jobs › ci_job_t...",
+    "snippet": "On the top bar, select Menu > Projects and find your project. · On the left sidebar, select Settings > CI/CD. · Expand Token Access. · Toggle Limit CI_JOB_TOKEN ...",
+    "snippet_highlighted_words": [
+      "Token"
+    ],
+    "source": "Universidad Complutense de Madrid",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "GitLab CI/CD job token",
+    "link": "https://repository.prace-ri.eu/git/help/ci/jobs/ci_job_token.md",
+    "displayed_link": "https://repository.prace-ri.eu › git › help › jobs › ci_job...",
+    "snippet": "You can add projects to your job token allowlist to allow access your project's resources with a job token for authentication. By default, the allowlist of any ...",
+    "snippet_highlighted_words": [
+      "add",
+      "job token",
+      "job token"
+    ],
+    "source": "PRACE - Partnership for Advanced Computing in Europe",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

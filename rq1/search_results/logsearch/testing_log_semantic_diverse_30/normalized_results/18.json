@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_e8146aa9421c9653e42623c4dd4627c120a29bb28173bdff92dc55491cef235b",
+    "score": 108.21075,
+    "link": "https://issues.apache.org/jira/browse/HDFS-3682",
+    "source": "jira",
+    "origin_doc_id": "a7153d88159d2399e3ad2d70ceac737caf42118c6f563642efe7eb2c63cbafa5",
+    "snippet": "2015-01-16 01:09:18,052 INFO  hdfs.MiniDFSCluster (MiniDFSCluster.java:<init>(372)) - starting cluster: numNameNodes=1, numDataNodes=1"
+  },
+  {
+    "rank": 2,
+    "id": "msg_6257dedb0d34884b24d7d017014dc91a0257cf27093c996bb6f7a60836bdd6c5",
+    "score": 98.909645,
+    "link": "https://github.com/sakserv/hadoop-mini-clusters/issues/31",
+    "source": "github",
+    "origin_doc_id": "776636f4120f333c413678caede8b7b8b7533b7492c09434057c605fd02c93c4",
+    "snippet": "2021-04-13 17:22:07,186 INFO  [main] hdfs.MiniDFSCluster (MiniDFSCluster.java:<init>(509)) - starting cluster: numNameNodes=1, numDataNodes=1"
+  },
+  {
+    "rank": 3,
+    "id": "msg_b9467db12e6d4f4b5e8e23a9b78d438dfebe9e49e7293ddd2a9c806b5b4dff5d",
+    "score": 96.93857,
+    "link": "https://issues.apache.org/jira/browse/HDFS-10644",
+    "source": "jira",
+    "origin_doc_id": "54a7ee0c0dc77efe3a698b2a3c853987956b26c14363e679d1ab53bd0ce156aa",
+    "snippet": "2016-09-13 19:42:01,254 [main] INFO  hdfs.MiniDFSCluster (MiniDFSCluster.java:<init>(465)) - starting cluster: numNameNodes=2, numDataNodes=0\nFormatting using clusterid: testClusterID"
+  },
+  {
+    "rank": 4,
+    "id": "msg_9203bdc024d54761f713af65bb76034bfdd9caa8889d5b5a9c250f50e3d41363",
+    "score": 94.872536,
+    "link": "https://issues.apache.org/jira/browse/HDFS-10641",
+    "source": "jira",
+    "origin_doc_id": "03f1d32741684b7fceecc7b62defd63ed20392ab55bf3322b463ad6b41e476c4",
+    "snippet": "2016-07-13 23:58:32,613 [main] INFO  hdfs.MiniDFSCluster (MiniDFSCluster.java:<init>(465)) - starting cluster: numNameNodes=1, numDataNodes=1\nFormatting using clusterid: testClusterID"
+  },
+  {
+    "rank": 5,
+    "id": "msg_b166429ba5d9a6fd317e33bb8c4f955522199ff3aedf5b9781d1fa2045e9a667",
+    "score": 94.872536,
+    "link": "https://issues.apache.org/jira/browse/TEZ-2342",
+    "source": "jira",
+    "origin_doc_id": "26b9f0b224349d5553f7db8b49608b53493694aff7ba2f33549369da0a79d1b2",
+    "snippet": "2015-04-17 07:46:11,508 INFO  [main] hdfs.MiniDFSCluster (MiniDFSCluster.java:<init>(446)) - starting cluster: numNameNodes=1, numDataNodes=1\nFormatting using clusterid: testClusterID"
+  },
+  {
+    "rank": 6,
+    "id": "msg_ae2a430c4a30673d49aba088f8a97c9a20d344a8074094a9d3863b9dabd5b7ae",
+    "score": 94.69128,
+    "link": "https://issues.apache.org/jira/browse/HDFS-15308",
+    "source": "jira",
+    "origin_doc_id": "0c61c08f4ce58e72c87d84ef8977d28316320c93224b9e3b5fec932c3b250150",
+    "snippet": "2020-10-16 23:05:16,252 [Listener at localhost/35179] INFO  hdfs.MiniDFSCluster (MiniDFSCluster.java:<init>(529)) - starting cluster: numNameNodes=1, numDataNodes=12"
+  },
+  {
+    "rank": 7,
+    "id": "msg_bbfee236c5232f851b8c7812bbe6b7cea2e5ecd7c9ce2c282b7b31e5e7256708",
+    "score": 94.69128,
+    "link": "https://github.com/apache/hadoop/pull/2408",
+    "source": "github",
+    "origin_doc_id": "b095a8018bcfb246e3576d3bf00456fec0801e7aa138a1532bf4faf1af59528c",
+    "snippet": "2020-10-23 22:41:06,342 [Listener at localhost/37463] INFO  hdfs.MiniDFSCluster (MiniDFSCluster.java:<init>(529)) - starting cluster: numNameNodes=1, numDataNodes=11"
+  },
+  {
+    "rank": 8,
+    "id": "msg_89098ea535ae10f7e8066796ed459672bb5100a88faa30937f09603b35855aea",
+    "score": 93.70313,
+    "link": "https://issues.apache.org/jira/browse/HDFS-12378",
+    "source": "jira",
+    "origin_doc_id": "0cc814f1286fab130961f2b16275f333b758156e6410fd476db0d557e46579a2",
+    "snippet": "2017-08-30 18:02:37,714 [main] INFO  hdfs.MiniDFSCluster (MiniDFSCluster.java:<init>(469)) - starting cluster: numNameNodes=1, numDataNodes=3\nFormatting using clusterid: testClusterID"
+  },
+  {
+    "rank": 9,
+    "id": "msg_c82251a2cbc17395455843d3d55b6525913a03396bfbc2668752c806574cd028",
+    "score": 81.23703,
+    "link": "https://issues.apache.org/jira/browse/SENTRY-524",
+    "source": "jira",
+    "origin_doc_id": "d073e6ebcf6335b85f45bc5e50774ed8d428ea3bdd6a190bf5a3164da9b0aa47",
+    "snippet": "2014-11-13 18:21:46,493 (main) [INFO - org.apache.hadoop.hdfs.MiniDFSCluster.<init>(MiniDFSCluster.java:375)] starting cluster: numNameNodes=1, numDataNodes=2"
+  },
+  {
+    "rank": 10,
+    "id": "msg_6d5388d387f6db5f6e98a0af60c55f49bb256411db7eadc197e301d328494593",
+    "score": 79.71625,
+    "link": "https://stackoverflow.com/questions/39919648",
+    "source": "so",
+    "origin_doc_id": "2bfa0fed4c329c615e61b0673e6a92332890a36832c7ca06f8b9a728742074e3",
+    "snippet": "16/10/07 16:16:33 INFO hdfs.MiniDFSCluster: starting cluster: numNameNodes=1, numDataNodes=2"
+  }
+]

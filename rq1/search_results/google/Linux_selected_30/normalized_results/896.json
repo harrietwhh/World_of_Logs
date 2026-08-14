@@ -1,0 +1,90 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Server rebooted unexpectedly",
+    "link": "https://access.redhat.com/solutions/114593",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Issue. Below messages are seen in the logs: Raw. host1 init: Switching to runlevel: 0 host1 gpm[5283]: *** info [mice.c(1766)]: host1 gpm[5283]: ...",
+    "snippet_highlighted_words": [
+      "*** info",
+      "mice.c",
+      "1766)]:"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "evdev/xorg help? USB mouse/kbd: 2.6.24=\"just works ...",
+    "link": "https://www.linuxquestions.org/questions/linux-hardware-18/evdev-xorg-help-usb-mouse-kbd-2-6-24%3D-just-works-2-6-25%3D-unplug-replug-to-work-654357/",
+    "displayed_link": "https://www.linuxquestions.org › linux-hardware-18",
+    "snippet": "I don't know FOR SURE that client 24 and client 25 are the USB mouse & kbd, but it looks that way, especially as there is not a similar bunch of ...",
+    "snippet_highlighted_words": [
+      "mouse"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "128382 – USB mouse stops working, requires chvt or ...",
+    "link": "https://bugzilla.redhat.com/show_bug.cgi?id=128382",
+    "displayed_link": "https://bugzilla.redhat.com › show_bug",
+    "snippet": "Switching VTs causes /dev/input/mice to be closed and reopen by X. Since ... *** info [mice.c(1766)]: Sep 28 12:57:08 fuggles gpm[2647]: imps2: Auto ...",
+    "snippet_highlighted_words": [
+      "*** info",
+      "mice.c",
+      "1766)]:"
+    ],
+    "source": "Red Hat Bugzilla",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Clustering, RHEL5, Conga, Issues",
+    "link": "https://forums.zimbra.org/viewtopic.php?t=35465",
+    "displayed_link": "https://forums.zimbra.org › ... › Installation and Upgrade",
+    "snippet": "... *** info [mice.c(1766)]: Oct 10 14:19:05 xxxxxx gpm[4116]: imps2: Auto-detected intellimouse PS/2. Oct 10 14:19:06 xxxxxx gpm: gpm startup ...",
+    "snippet_highlighted_words": [
+      "*** info",
+      "mice.c",
+      "1766)]:"
+    ],
+    "source": "Zimbra Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Athymic Heterozygous Mouse (Athymic HE)",
+    "link": "https://www.criver.com/products-services/find-model/athymic-mouse-heterozygous",
+    "displayed_link": "https://www.criver.com › products-services › find-model",
+    "snippet": "This immunocompetent mouse is the heterozygous offspring of the mating of a heterozygous female and a homozygous male.",
+    "snippet_highlighted_words": [
+      "mouse"
+    ],
+    "source": "Charles River Laboratories",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "SciCrunch | Research Resource Resolver",
+    "link": "https://scicrunch.org/resolver/IMSR_CRL:194",
+    "displayed_link": "https://scicrunch.org › resolver › IMSR_CRL:194",
+    "snippet": "Description: Mus musculus with name CAnN.Cg-Foxn1 nu /Crl from IMSR. Species: Mus musculus Notes: gene symbol note: forkhead box N1; inbred strain: Foxn1",
+    "snippet_highlighted_words": [],
+    "source": "SciCrunch",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

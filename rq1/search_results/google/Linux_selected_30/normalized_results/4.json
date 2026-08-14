@@ -1,0 +1,210 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Linux/Linux_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Linux/Linux_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Linux",
+    "snippet": "Jun 14 15:16:01 combo sshd(pam_unix)[19939]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 Jun 14 15:16:02 combo ...",
+    "snippet_highlighted_words": [
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh ruser",
+      "rhost"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Cyber Threat Analyzer Using LLMs and Cloud | by Surya G",
+    "link": "https://medium.com/@suryagsnair/cyber-threat-analyzer-using-llms-and-cloud-5fb39fb80b4c",
+    "displayed_link": "https://medium.com › ...",
+    "snippet": "Detects potential cybersecurity threats; Extracts key entities (like IP addresses and malware names); Validates IPs using AbuseIPDB; Shows results in a nice UI ...",
+    "snippet_highlighted_words": [
+      "IP"
+    ],
+    "source": "Medium",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Parse a custom log file into a dictionary using regex",
+    "link": "https://stackoverflow.com/questions/61694150/parse-a-custom-log-file-into-a-dictionary-using-regex",
+    "displayed_link": "3 answers · 5 years ago",
+    "snippet": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net user=root\\n'. 1, Jun 15 02:04:59, sshd ...",
+    "snippet_highlighted_words": [
+      "authentication failure"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "redmojo7/linux_2k · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/redmojo7/linux_2k",
+    "displayed_link": "https://huggingface.co › datasets › redmojo7",
+    "snippet": "Jun 15 02:04:59 combo sshd(pam_unix) 20882.0 authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net user= ...",
+    "snippet_highlighted_words": [
+      "failure"
+    ],
+    "source": "Hugging Face",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "logsentinelai",
+    "link": "https://pypi.org/project/logsentinelai/",
+    "displayed_link": "https://pypi.org › project › logsentinelai",
+    "snippet": "LogSentinelAI is an AI-powered cybersecurity tool that leverages LLM with Declarative Extraction to analyze security events, anomalies, and errors from various ...",
+    "snippet_highlighted_words": [
+      "LogSentinelAI"
+    ],
+    "source": "PyPI",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "ECLIPSE: Efficient Cross-Lingual Log Intelligence Parser ...",
+    "link": "https://dl.acm.org/doi/pdf/10.1145/3746252.3761231",
+    "displayed_link": "https://dl.acm.org › doi › pdf",
+    "snippet": "0 …… 115 authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net user=root. Vectorize. Figure ...",
+    "snippet_highlighted_words": [
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh ruser",
+      "rhost",
+      "220-135-151-1",
+      "hinet",
+      "ip",
+      "hinet",
+      "net user",
+      "root"
+    ],
+    "source": "ACM Digital Library",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "DeST: An Unsupervised Decoupled Spatio-Temporal Framework for ...",
+    "link": "https://netman.aiops.org/wp-content/uploads/2025/11/DeST_CameraReady.pdf",
+    "displayed_link": "https://netman.aiops.org › DeST_CameraReady",
+    "snippet": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet- ip.hinet.net user=rooti ... exclusively for root cause localization.",
+    "snippet_highlighted_words": [
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh ruser",
+      "rhost",
+      "220-135-151-1",
+      "hinet",
+      "ip",
+      "hinet",
+      "net user",
+      "for root"
+    ],
+    "source": "Tsinghua NetMan Lab",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Semantic Entropy-LCS for Cross-Lingual Industrial Log ...",
+    "link": "https://arxiv.org/pdf/2405.13548",
+    "displayed_link": "https://arxiv.org › pdf",
+    "snippet": "0 …… 115 authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net user=root. Vectorize. Figure ...",
+    "snippet_highlighted_words": [
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh ruser",
+      "rhost",
+      "220-135-151-1",
+      "hinet",
+      "ip",
+      "hinet",
+      "net user",
+      "root"
+    ],
+    "source": "arXiv",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "linuxstructuredlogs",
+    "link": "https://www.kaggle.com/datasets/omghorpade21/linuxstructuredlogs",
+    "displayed_link": "https://www.kaggle.com › datasets › omghorpade21 › li...",
+    "snippet": "... ruser= rhost=150.183.249.110 user=root ... E18 authentication failure; logname= uid=0 euid=0 tty=NODEVssh ... 0 euid=0 tty=NODEVssh ruser= rhost=<*>. lightbulb ...",
+    "snippet_highlighted_words": [
+      "ruser",
+      "rhost",
+      "user",
+      "root",
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh",
+      "euid",
+      "0 tty",
+      "NODEVssh ruser",
+      "rhost"
+    ],
+    "source": "Kaggle",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "logsentinelai",
+    "link": "https://pypi.org/project/logsentinelai/0.5.0/",
+    "displayed_link": "https://pypi.org › project › logsentinelai",
+    "snippet": "... user=root Jun 15 02:04:59 combo sshd(pam_unix)[20893]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net ...",
+    "snippet_highlighted_words": [
+      "user",
+      "root",
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh ruser",
+      "rhost",
+      "220-135-151-1",
+      "hinet",
+      "ip",
+      "hinet",
+      "net"
+    ],
+    "source": "PyPI",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

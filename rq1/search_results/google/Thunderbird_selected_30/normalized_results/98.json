@@ -1,0 +1,16 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Sendmail: what does nrcpts=0 mean?",
+    "link": "https://serverfault.com/questions/372028/sendmail-what-does-nrcpts-0-mean",
+    "displayed_link": "https://serverfault.com › questions › sendmail-what-doe...",
+    "snippet": "nrcpts=0 means that the mail was temporarily rejected right after the MAIL FROM: command at the SMTP dialog.",
+    "snippet_highlighted_words": [
+      "nrcpts=0"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

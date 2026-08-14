@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Solved: Ambari unable to sign in",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Ambari-unable-to-sign-in/td-p/213786",
+    "displayed_link": "https://community.cloudera.com › td-p",
+    "snippet": "I am challenged for Ambari credentials (http://127.0.0.1:8080/#/login). I've tried different credentials but always blocked on error: \"Unable to sign in. ...",
+    "snippet_highlighted_words": [
+      "Ambari",
+      "login",
+      "error",
+      "sign"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "How to change the Port Number for Ambari",
+    "link": "https://support.teradata.com/knowledge?id=kb_article_view&sys_kb_id=c95b90f71b973f00682ca8233a4bcbac",
+    "displayed_link": "https://support.teradata.com › ... › Hadoop",
+    "snippet": "1. On the Ambari Server host, open /etc/ambari-server/conf/ambari.properties with a text editor. · 2. Add the client API port property and set it to your desired ...",
+    "snippet_highlighted_words": [
+      "Ambari",
+      "ambari",
+      "ambari",
+      "port"
+    ],
+    "source": "Teradata",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Can't authenticate user \"ambari\" in ambari-server setup ...",
+    "link": "https://stackoverflow.com/questions/39849370/cant-authenticate-user-ambari-in-ambari-server-setup-in-postgresql",
+    "displayed_link": "1 answer · 9 years ago",
+    "snippet": "I suspect that ambari-server setup is connecting via localhost, that's why I get the same error. Can you tell what's wrong with my configuration ...",
+    "snippet_highlighted_words": [
+      "ambari-server setup is connecting via localhost"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "SSH Suddenly returning Invalid format",
+    "link": "https://serverfault.com/questions/854208/ssh-suddenly-returning-invalid-format",
+    "displayed_link": "https://serverfault.com › questions › ssh-suddenly-retur...",
+    "snippet": "Starting openssh 7.6, it defaults to a new more secure format. You can force it to convert to that format using the commands below to change your key password.",
+    "snippet_highlighted_words": [
+      "format",
+      "format"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "After Upgrading ambari from 2.4.2 to 2.5.0, Not ab...",
+    "link": "https://community.cloudera.com/t5/Community-Articles/After-Upgrading-ambari-from-2-4-2-to-2-5-0-Not-able-to-Login/ta-p/246132",
+    "displayed_link": "https://community.cloudera.com › ta-p",
+    "snippet": "ISSUE:- /var/log/ambari-server/ambari-server.log. 18 May 2017 07:56:33,754 WARN [ambari-client-thread-26] PermissionHelper:78 - Error ...",
+    "snippet_highlighted_words": [
+      "log",
+      "ambari",
+      "ambari",
+      "log",
+      "ambari",
+      "Error"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "java.sql.SQLException: Io exception: Invalid number format ...",
+    "link": "https://stackoverflow.com/questions/22766133/java-sql-sqlexception-io-exception-invalid-number-format-for-port-number",
+    "displayed_link": "4 answers · 12 years ago",
+    "snippet": "It's in the stack trace: \"Invalid number format for port number\" You should put a valid port number instead of CUSTDB.",
+    "snippet_highlighted_words": [
+      "Invalid",
+      "format",
+      "port",
+      "port"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Ambari agent not able to register with ...",
+    "link": "https://community.cloudera.com/t5/Community-Articles/Ambari-agent-not-able-to-register-with-Ambari-server/ta-p/248450",
+    "displayed_link": "https://community.cloudera.com › ta-p",
+    "snippet": "SYMPTOM: Ambari agent not able to register with Ambari server. ERROR: Below is the error logs - ERROR - 248450.",
+    "snippet_highlighted_words": [
+      "Ambari",
+      "Ambari",
+      "logs",
+      "ERROR"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Docker compose shows Invalid port error when I set ...",
+    "link": "https://stackoverflow.com/questions/58111343/docker-compose-shows-invalid-port-error-when-i-set-ports-as-env-variables",
+    "displayed_link": "2 answers · 6 years ago",
+    "snippet": "The env_file optin will only set environment variables in the docker container itself. Not on the host which is used during the compose 'build'.",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Cloudera Flow Management Upgrade and Migration",
+    "link": "https://docs.cloudera.com/cfm/2.1.5/upgrade-paths/cfm-upgrade-paths.pdf",
+    "displayed_link": "https://docs.cloudera.com › cfm-upgrade-paths",
+    "snippet": "• export ambariport=8080. HTTP or HTTPs port number which is needed for Ambari REST API calls. • export backupdir=/data/backups. The directory ...",
+    "snippet_highlighted_words": [
+      "ambariport",
+      "port",
+      "Ambari"
+    ],
+    "source": "Cloudera Documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "View topic - NTPD Issue: Kernel time sync never enables",
+    "link": "https://forums.gentoo.org/viewtopic-t-371689-start-0.html",
+    "displayed_link": "https://forums.gentoo.org › viewtopic-t-371689-start-0",
+    "snippet": "... kernel time sync disabled 0041. But never anything like \"kernel time sync enabled 0001\" and after a day ntpd not only seems to stop working ...",
+    "snippet_highlighted_words": [
+      "kernel time sync disabled 0041"
+    ],
+    "source": "Gentoo Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "ntpd fails to sync TIME_ERROR: 0x41: Clock ...",
+    "link": "https://serverfault.com/questions/1048870/ntpd-fails-to-sync-time-error-0x41-clock-unsynchronized",
+    "displayed_link": "https://serverfault.com › questions › ntpd-fails-to-sync-t...",
+    "snippet": "On Debian 10, ntpd 4.2.8p12@1.3728-o fails to sync with following error: kernel reports TIME_ERROR: 0x41: Clock Unsynchronize.",
+    "snippet_highlighted_words": [
+      "kernel reports TIME_ERROR: 0x41"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Server keeps crashing - ntpd[1793]: kernel reports ...",
+    "link": "https://www.reddit.com/r/unRAID/comments/nile4q/server_keeps_crashing_ntpd1793_kernel_reports/",
+    "displayed_link": "3 comments · 4 years ago",
+    "snippet": "Server keeps crashing - ntpd[1793]: kernel reports TIME_ERROR: 0x41: Clock Unsynchronized ... Its not able to sync the time using NTP for whatever ...",
+    "snippet_highlighted_words": [
+      "kernel",
+      "Clock",
+      "sync",
+      "time"
+    ],
+    "source": "Reddit · r/unRAID",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "kernel reports TIME_ERROR: 0x41: Clock Unsynchronized",
+    "link": "https://forum.netgate.com/topic/171949/ntp-problem-kernel-reports-time_error-0x41-clock-unsynchronized",
+    "displayed_link": "https://forum.netgate.com › topic › ntp-problem-kernel...",
+    "snippet": "I found some threads about this error, but solutions did not worked for me. Tried sysctl -w kern.timecounter.hardware=ACPI-fast, ...",
+    "snippet_highlighted_words": [],
+    "source": "Netgate Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Solved: NTP Problem, receiving alerts...",
+    "link": "https://community.hpe.com/t5/operating-system-linux/ntp-problem-receiving-alerts/td-p/4538126",
+    "displayed_link": "https://community.hpe.com › td-p",
+    "snippet": "... kernel time sync disabled 0041. Nov 28 04:40:24 XXXXXXX ntpd[3716]: kernel time sync enabled 0001. These are the log messages indicating that ...",
+    "snippet_highlighted_words": [
+      "kernel time sync disabled 0041"
+    ],
+    "source": "Hewlett Packard Enterprise Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "TIME_ERROR: 0x41: Clock Unsynchronized",
+    "link": "https://community.ntppool.org/t/time-error-0x41-clock-unsynchronized/2575",
+    "displayed_link": "https://community.ntppool.org › time-error-0x41-clock...",
+    "snippet": "The kernel reports TIME_ERROR: 0x41: Clock Unsynchronized line is normal in ntpd startup. The real problem is the following:",
+    "snippet_highlighted_words": [
+      "kernel",
+      "Clock"
+    ],
+    "source": "NTP Pool Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "ntpdate does not update clock using ZynqMP Ultrascale+ and ...",
+    "link": "https://adaptivesupport.amd.com/s/question/0D52E00006hpLVtSAM/ntpdate-does-not-update-clock-using-zynqmp-ultrascale-and-petalinux-build?language=en_US",
+    "displayed_link": "https://adaptivesupport.amd.com › question › ntpdate-do...",
+    "snippet": "It seems the problem caused by the Windows 10 NTP server implementation. I switched the configuration to use an Ubuntu 18 based NTP server and the issue ...",
+    "snippet_highlighted_words": [],
+    "source": "AMD",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "What do the messages \"kernel time sync disabled\" with a ...",
+    "link": "https://access.redhat.com/solutions/267753",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "What do the messages \"kernel time sync disabled\" with a number code mean? ... Issue. Ntpd will send notices to system logs similar to: Raw. ntpd[ ...",
+    "snippet_highlighted_words": [
+      "kernel time sync disabled"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "ntpd kernel reports TIME_ERROR: 0x2041: Clock ...",
+    "link": "https://forums.freebsd.org/threads/ntpd-kernel-reports-time_error-0x2041-clock-unsynchronized.80575/",
+    "displayed_link": "https://forums.freebsd.org › Base System › General",
+    "snippet": "Hello. My system FreeBSD 11.4-RELEASE-p9 amd64. I see an incomprehensible error in the log. What is this error and how can I fix it?",
+    "snippet_highlighted_words": [],
+    "source": "FreeBSD",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "26 Time Synchronization with NTP",
+    "link": "https://documentation.suse.com/sles/12-SP5/html/SLES-all/cha-netz-xntp.html",
+    "displayed_link": "https://documentation.suse.com › html › cha-netz-xntp",
+    "snippet": "The goal is twofold—maintaining the absolute time and synchronizing the system time of all machines within a network. Maintaining an exact system time is ...",
+    "snippet_highlighted_words": [
+      "time",
+      "time",
+      "time"
+    ],
+    "source": "SUSE Documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

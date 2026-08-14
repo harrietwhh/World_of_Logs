@@ -1,0 +1,32 @@
+{
+  "case_id": "80",
+  "summary_raw": "[\"Finished task\",\"Got assigned task\",\"Partition not found\",\"Block stored in memory\"]",
+  "summary_items": [
+    "Finished task",
+    "Got assigned task",
+    "Partition not found",
+    "Block stored in memory"
+  ],
+  "group_logs_lines": [
+    "INFO python.PythonRunner : Times : total = 42 , boot = -35 , init = 76 , finish = 1",
+    "INFO python.PythonRunner : Times : total = 183 , boot = -32 , init = 214 , finish = 1",
+    "INFO executor.Executor : Finished task 35.0 in stage 3947.0 ( TID 158359 ) . 2142 bytes result sent to driver",
+    "INFO executor.Executor : Finished task 2.0 in stage 3947.0 ( TID 158329 ) . 2142 bytes result sent to driver",
+    "INFO executor.Executor : Finished task 13.0 in stage 3947.0 ( TID 158340 ) . 2142 bytes result sent to driver",
+    "INFO python.PythonRunner : Times : total = 220 , boot = -32 , init = 251 , finish = 1",
+    "INFO executor.Executor : Finished task 24.0 in stage 3947.0 ( TID 158351 ) . 2142 bytes result sent to driver",
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 158364",
+    "INFO executor.Executor : Running task 2.0 in stage 3948.0 ( TID 158364 )",
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 158375",
+    "INFO executor.Executor : Running task 13.0 in stage 3948.0 ( TID 158375 )",
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 158386",
+    "INFO executor.Executor : Running task 24.0 in stage 3948.0 ( TID 158386 )",
+    "INFO executor.CoarseGrainedExecutorBackend : Got assigned task 158396",
+    "INFO broadcast.TorrentBroadcast : Started reading broadcast variable 3965",
+    "INFO executor.Executor : Running task 35.0 in stage 3948.0 ( TID 158396 )",
+    "INFO storage.MemoryStore : Block broadcast_3965_piece0 stored as bytes in memory ( estimated size 5.7 KB , free 877.3 KB )",
+    "INFO broadcast.TorrentBroadcast : Reading broadcast variable 3965 took 5 ms",
+    "INFO storage.MemoryStore : Block broadcast_3965 stored as values in memory ( estimated size 10.3 KB , free 887.6 KB )",
+    "INFO spark.CacheManager : Partition rdd_6369_2 not found , computing it"
+  ]
+}

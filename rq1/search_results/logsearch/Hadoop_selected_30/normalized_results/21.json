@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_1bf7fa427a8d5dde2c245949d61a2ffe52faebec5cdba087edb1d7a5d3700359",
+    "score": 49.878986,
+    "link": "https://issues.apache.org/jira/browse/HADOOP-11603",
+    "source": "jira",
+    "origin_doc_id": "d0dff067538b094d8d53442a20f23f11b085a4bceb32853e24998688eedfe579",
+    "snippet": "LOG.info(\"Scheduled snapshot period at \"+ period +\" second(s).\");"
+  },
+  {
+    "rank": 2,
+    "id": "msg_20e2ad374c8207a97fbc79731f3e12c4d941f90492b2d44e21fd14bef49782c8",
+    "score": 48.718315,
+    "link": "https://stackoverflow.com/questions/20469026",
+    "source": "so",
+    "origin_doc_id": "31417845b0776386ed03a10b1861cc56c1806bca62ad9f2f9e6ce407aa1958a9",
+    "snippet": "12:02:16.047 [main] INFO  o.a.h.m.impl.MetricsSystemImpl - Scheduled snapshot period at 10 second(s)."
+  },
+  {
+    "rank": 3,
+    "id": "msg_5bdcd27c8be3c2b2e6ede303c968cc3db5ae05464ec2d4cb8144e5d7e077d117",
+    "score": 48.386654,
+    "link": "https://stackoverflow.com/questions/19419951",
+    "source": "so",
+    "origin_doc_id": "1e33e7cad89d19c365e69cd93e21151cf3c9e8af8b81aadb005e605dbf1b1671",
+    "snippet": "13/10/17 03:21:55 INFO impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s)."
+  },
+  {
+    "rank": 4,
+    "id": "msg_916a479843369761907229354223f842b0d939e657ba75245c0239be5b8f3b71",
+    "score": 48.386654,
+    "link": "https://stackoverflow.com/questions/27401033",
+    "source": "so",
+    "origin_doc_id": "c1b9f1ba983c01e1abef413dd008189f47561ad1d561ea348c04bd261952b6b0",
+    "snippet": "14/12/10 17:52:00 INFO impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s)."
+  },
+  {
+    "rank": 5,
+    "id": "msg_14f0e3842f1d37d831d175a730213076453f580703c81d66107600d9548af753",
+    "score": 48.386654,
+    "link": "https://issues.apache.org/jira/browse/HDFS-3813",
+    "source": "jira",
+    "origin_doc_id": "6af5369a93e7b9bb3f86c8f1ae3db2abddd8a6055f1f4da74ca829a78bc77047",
+    "snippet": "12/10/04 08:46:59 INFO impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s)."
+  },
+  {
+    "rank": 6,
+    "id": "msg_00c8c170c1ed5693109aee70cd916d97e7a74d8d6f40a145385be186156499b0",
+    "score": 48.386654,
+    "link": "https://issues.apache.org/jira/browse/HDFS-9096",
+    "source": "jira",
+    "origin_doc_id": "9e0761fe554251cdea29d5e9dce6da01b032d33a784f796b69578e339a0c1f97",
+    "snippet": "16/10/18 18:58:25 INFO impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s)."
+  },
+  {
+    "rank": 7,
+    "id": "msg_7354594c56d018dc904ce81ade168e2cdd4ba992c90d476b4f55ad87cc9ec358",
+    "score": 48.208557,
+    "link": "https://issues.apache.org/jira/browse/HDFS-11525",
+    "source": "jira",
+    "origin_doc_id": "01652a7441259e7761ba418617aa0dcea9f4b114ade80f6bfaf0bb2b185566f0",
+    "snippet": "2017-03-10 10:22:18,459 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s)."
+  },
+  {
+    "rank": 8,
+    "id": "msg_b7abf6e523e3797e4ceb1cd5a76fd95f14d8ae150535ddf16b9c05ec7570352d",
+    "score": 48.208557,
+    "link": "https://issues.apache.org/jira/browse/HDDS-2330",
+    "source": "jira",
+    "origin_doc_id": "1b7809c6a52251051b9dec885115c21762a2c4f4184248cfc1e07347393146c7",
+    "snippet": "2019-10-18 10:44:45,381 INFO impl.MetricsSystemImpl: Scheduled Metric snapshot period at 10 second(s)."
+  },
+  {
+    "rank": 9,
+    "id": "msg_98e24416d1b4393e589d4b0fdeefd419cf0ef61887c79f4250790e1b1ffb3ccd",
+    "score": 48.208557,
+    "link": "https://stackoverflow.com/questions/16260403",
+    "source": "so",
+    "origin_doc_id": "8607a73a18e00b0f2f42179a3a048e665991000a6958fcd0468caeebf574b329",
+    "snippet": "2013-04-28 10:10:38,596 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s)."
+  },
+  {
+    "rank": 10,
+    "id": "msg_856061a80e2aa528b0d8a3d249ba8cb374c066c1a8d2b4478d4f897de8397270",
+    "score": 48.208557,
+    "link": "https://stackoverflow.com/questions/63337975",
+    "source": "so",
+    "origin_doc_id": "68182e75dc59623703c638e3f57359d1acfff90a0b6aa01f30933d7c9b694841",
+    "snippet": "2020-08-10 10:54:05,032 INFO impl.MetricsSystemImpl: Scheduled Metric snapshot period at 10 second(s)."
+  }
+]

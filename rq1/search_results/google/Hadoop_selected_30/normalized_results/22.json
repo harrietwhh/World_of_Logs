@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "MRAppMaster (Apache Hadoop MapReduce App 3.4.2 API)",
+    "link": "https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-app/apidocs/org/apache/hadoop/mapreduce/v2/app/MRAppMaster.html",
+    "displayed_link": "https://hadoop.apache.org › docs › stable › apidocs › org",
+    "snippet": "The Map-Reduce Application Master. The state machine is encapsulated in the implementation of Job interface. All state changes happens via Job interface.",
+    "snippet_highlighted_words": [],
+    "source": "Apache Hadoop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Re: MapReduce failed since Task connection timeout...",
+    "link": "https://community.cloudera.com/t5/Support-Questions/MapReduce-failed-since-Task-connection-timeout-with-App/m-p/315428",
+    "displayed_link": "https://community.cloudera.com › Support-Questions › M...",
+    "snippet": "MetricsSystemImpl: MapTask metrics system started 2021-04-25 13:51:01,895 ... MRAppMaster: Created MRAppMaster for application ...",
+    "snippet_highlighted_words": [
+      "MetricsSystemImpl",
+      "metrics system started",
+      "MRAppMaster",
+      "Created MRAppMaster"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "MRAppMaster.java",
+    "link": "https://github.com/Jerry-Xin/hadoop/blob/master/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/src/main/java/org/apache/hadoop/mapreduce/v2/app/MRAppMaster.java",
+    "displayed_link": "https://github.com › apache › hadoop › mapreduce › app",
+    "snippet": "... metrics system init is really init & start. // It's more test friendly to put it here. DefaultMetricsSystem.initialize(\"MRAppMaster\"); boolean initFailed ...",
+    "snippet_highlighted_words": [
+      "metrics system",
+      "start",
+      "MRAppMaster"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Map Reduce Job Failing with OOM [org.apache.hadoop. ...",
+    "link": "https://stackoverflow.com/questions/78833275/map-reduce-job-failing-with-oom-org-apache-hadoop-mapreduce-v2-app-mrappmaster",
+    "displayed_link": "1 answer · 1 year ago",
+    "snippet": "MRAppMaster: Error starting MRAppMaster] · Ask Question. Asked 1 year, 8 months ago. Modified 1 year, 7 months ago. Viewed 70 times. This ...",
+    "snippet_highlighted_words": [
+      "MRAppMaster",
+      "MRAppMaster"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "ERROR [main] org.apache.hadoop.mapreduce.v2.app. ...",
+    "link": "https://lists.apache.org/thread/cwqodhsd5jzf16mc3yp2tsbo3l3c5dpw",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "ERROR [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Error starting MRAppMaster java.lang.NoClassDefFoundError: org/eclipse/jetty/server/ResourceService ...",
+    "snippet_highlighted_words": [
+      "Error starting MRAppMaster"
+    ],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "hadoop - Mapreduce job ipc.Client retrying to connect",
+    "link": "https://stackoverflow.com/questions/37901108/mapreduce-job-ipc-client-retrying-to-connect",
+    "displayed_link": "1 answer · 9 years ago",
+    "snippet": "... MRAppMaster: Error starting MRAppMaster java.io.IOException: Was asked to shut down. at org.apache.hadoop.mapreduce.v2.app.MRAppMaster$4.run ...",
+    "snippet_highlighted_words": [
+      "MRAppMaster",
+      "MRAppMaster",
+      "MRAppMaster"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "pydoop mapreduce job hangs because ...",
+    "link": "https://github.com/crs4/pydoop/issues/216",
+    "displayed_link": "https://github.com › crs4 › pydoop › issues",
+    "snippet": "Hello guys. I have already tried all examples possible. I tried to set job to pick up files from local name node and from HDFS.",
+    "snippet_highlighted_words": [],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "MRAppMetrics (Apache Hadoop MapReduce App 2.10.1 ...",
+    "link": "https://www.javadoc.io/static/org.apache.hadoop/hadoop-mapreduce-client-app/2.10.1/org/apache/hadoop/mapreduce/v2/app/metrics/MRAppMetrics.html",
+    "displayed_link": "https://www.javadoc.io › org › mapreduce › app › metrics",
+    "snippet": "Method Summary ; static MRAppMetrics · create() ; static MRAppMetrics · create(org.apache.hadoop.metrics2.MetricsSystem ms) ; void, endPreparingJob(Job job) ; void ...",
+    "snippet_highlighted_words": [
+      "MetricsSystem"
+    ],
+    "source": "javadoc.io",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Spark job stuck at s3a-file-system metrics system started ...",
+    "link": "https://lists.apache.org/thread/2qt0mr362v6oxocjsjrsf48pjvyn9cz0",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "I am trying to run a spark job that is trying to write the data into a custom s3 endpoint bucket. But I am stuck at this line of output and job is not moving ...",
+    "snippet_highlighted_words": [],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Hadoop 3.2 : No appenders could be found for logger (org. ...",
+    "link": "https://stackoverflow.com/questions/57788006/hadoop-3-2-no-appenders-could-be-found-for-logger-org-apache-hadoop-mapreduce",
+    "displayed_link": "https://stackoverflow.com › questions › hadoop-3-2-no-...",
+    "snippet": "I have a local Hadoop 3.2 installation : 1 master + 1 worker both running in my laptop. This is an experimental setup to make quick tests ...",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

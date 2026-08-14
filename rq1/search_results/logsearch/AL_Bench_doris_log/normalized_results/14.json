@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_5c5cc63a2b5b14389a40586b590105de8cbb665b0a4c7422cc9f043e397087d9",
+    "score": 26.631403,
+    "link": "https://stackoverflow.com/questions/79529863",
+    "source": "so",
+    "origin_doc_id": "7272cef0ffdc31c2b2aef4730624255da908f79169e4dd59ca56d53bdb3038f3",
+    "snippet": "LOG.info(\"Message is {}\", message);\nLOG.info(\"Kafka Sink initialized\");"
+  },
+  {
+    "rank": 2,
+    "id": "msg_30f44c72930bfbeb7910d3c74d5f8825078b5547cf9fa226bbd425fc8da2aa47",
+    "score": 24.655952,
+    "link": "https://issues.apache.org/jira/browse/FLINK-22617",
+    "source": "jira",
+    "origin_doc_id": "581f61caae9a04b0c450a3452a446efd4d27bd5091fd55e0531df3159995016c",
+    "snippet": "LOG.info(\"Hive streaming sink: Use \n\n LOG.info(\"Hive streaming sink: Use native parquet&orc writer.\"); \n LOG.info( \n  \"Hive streaming sink: Use MapReduce RecordWriter writer because BulkWriter Factory not available.\");"
+  },
+  {
+    "rank": 3,
+    "id": "msg_0b8457893b9afc0d272bc3527503bd0dc63ab2ce95288af16cb5e246ae4f2e51",
+    "score": 23.48903,
+    "link": "https://issues.apache.org/jira/browse/HIVE-17270",
+    "source": "jira",
+    "origin_doc_id": "ebe6eacda1218ec55a5c2573ca2527ee35cd201974baf15e9502042283e52fc3",
+    "snippet": "LOG.info(\"Set parallelism for reduce sink \" + sink + \" to: \" + numReducers +"
+  },
+  {
+    "rank": 4,
+    "id": "msg_a58c9eb2da4235227e542e3ade78670652a171c73ec79e4c7b03400df993d1af",
+    "score": 23.27669,
+    "link": "https://issues.apache.org/jira/browse/HIVE-17270",
+    "source": "jira",
+    "origin_doc_id": "ebe6eacda1218ec55a5c2573ca2527ee35cd201974baf15e9502042283e52fc3",
+    "snippet": "LOG.info(\"Set parallelism for reduce sink \" + sink + \" to: \" + numReducers + \n               \" (calculated)\");"
+  },
+  {
+    "rank": 5,
+    "id": "msg_978480d7396b726a8894d613f5bda08e181186051822ba847c1a955bef91a980",
+    "score": 23.253883,
+    "link": "https://github.com/ray-project/ray/issues/17602",
+    "source": "github",
+    "origin_doc_id": "d55a5e40ea01649d4e523040880543228f5a39723b604cfad1a42cfc5174abdf",
+    "snippet": "LOG.info(\"flatMap:\"+index + \":\" + System.currentTimeMillis());\nLOG.info(\"sink:\" + index + \":\" + System.currentTimeMillis());"
+  },
+  {
+    "rank": 6,
+    "id": "msg_7d39c3716024c9a3c08f8dbc128849841425842e5318fb3bc92a9220b0921eea",
+    "score": 23.092266,
+    "link": "https://issues.apache.org/jira/browse/FLINK-22617",
+    "source": "jira",
+    "origin_doc_id": "581f61caae9a04b0c450a3452a446efd4d27bd5091fd55e0531df3159995016c",
+    "snippet": "LOG.info(\"Hive streaming sink: Use native parquet&orc writer.\"); \n LOG.info( \n  \"Hive streaming sink: Use MapReduce RecordWriter writer because BulkWriter Factory not available.\");"
+  },
+  {
+    "rank": 7,
+    "id": "msg_f5ea2a63087470a72a0002fb0eef234585503f672f1e37c4ea1bf120423f982c",
+    "score": 22.9492,
+    "link": "https://stackoverflow.com/questions/65956349",
+    "source": "so",
+    "origin_doc_id": "5ba023a6c5541f377774c9a2d0715ba61ec95156830f16cd79f23b3f63a96d88",
+    "snippet": "to cassandra database\"));\n            log.info(LogMessageBuilder.buildLogMessage(\"Cassandra sink cluster builder is ready\"));\n        } catch (Exception exp) {\n            (exp.printstacktrace());\n        }\n    }\n====================================================================================================================================="
+  },
+  {
+    "rank": 8,
+    "id": "msg_4dcbc2892a7b97336995f0be5e2eaf1c92210735229d26eaa8d3ffdf2d7e3cff",
+    "score": 22.807343,
+    "link": "https://stackoverflow.com/questions/76006117",
+    "source": "so",
+    "origin_doc_id": "cb97000e8afe2d1e9b9afb01a2141dcbd1b668fafd50eb2a983b3dab19a06fcd",
+    "snippet": "log.info(\"Moving microphone to a different sink\") \nlog.info(run([MOVE_SINK_COMMAND]))"
+  },
+  {
+    "rank": 9,
+    "id": "msg_9b9fb7fc96ff51cf5621a882af2aedb5496f9c364de46d46efdf20f2935e38aa",
+    "score": 22.35448,
+    "link": "https://issues.apache.org/jira/browse/FLINK-22617",
+    "source": "jira",
+    "origin_doc_id": "581f61caae9a04b0c450a3452a446efd4d27bd5091fd55e0531df3159995016c",
+    "snippet": "LOG.info(\"Hive streaming sink: Use"
+  },
+  {
+    "rank": 10,
+    "id": "msg_9e8e6ccff5c61e1f4e5c62f71d02168e2b6d5042ce194aafa92fdcc808603a64",
+    "score": 22.35448,
+    "link": "https://stackoverflow.com/questions/76943866",
+    "source": "so",
+    "origin_doc_id": "ca7daa8d11bcfe56d7ac59a9fe58fd1920858509fc45a04b1c7fd4875c6e5fd5",
+    "snippet": "log.info(\"sink count:\" + value);//this"
+  }
+]

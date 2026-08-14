@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_866e5109903a8b0e98cae138e3808e4938b3ad2c7bdc0716d367446cf86d24f2",
+    "score": 46.62363,
+    "link": "https://github.com/beave/sagan-rules/issues/29",
+    "source": "github",
+    "origin_doc_id": "35dcbaef19c14ce1a550c975e3d34ddaa3c20d6ba53101e219e15dd694addfb1",
+    "snippet": "Did not receive identification string from %src-p:ipv4% \n rule=: Did not receive identification string from %src-ip:ipv6%"
+  },
+  {
+    "rank": 2,
+    "id": "msg_f69f330eedf517175c56c7f81744fccbf5840653d648df33e8fea347385672ac",
+    "score": 44.712738,
+    "link": "https://github.com/jenkinsci/azure-container-agents-plugin/issues/18",
+    "source": "github",
+    "origin_doc_id": "43ee185337dd1d52f6d75f6e76d5137ab31a558b721c3412f85c11166a4c8d1f",
+    "snippet": "+ chown -Rf jenkins:jenkins /home/jenkins/.ssh\n+ chmod 0700 -R /home/jenkins/.ssh\n+ [[ 0 -gt 0 ]]\n+ grep _\n+ env\n+ ssh-keygen -A\nssh-keygen: generating new host keys: DSA \n+ exec /usr/sbin/sshd -D -e\nServer listening on 0.0.0.0 port 22.\nServer listening on :: port 22.\nDid not receive identification string from 10.240.x.x port 53589\nDid not receive identification string from 10.240.x.x port 61040\nDid not receive identification string from 10.240.x.x port 53924\nDid not receive identification string from 10.240.x.x port 61365\nDid not receive identification string from 10.240.x.x5 port 54129\nDid not receive identification string from 10.240.x.x6 port 61557"
+  },
+  {
+    "rank": 3,
+    "id": "msg_02e4a4b1a3e4af9412135500c2e97f23383a52fce202f71b4e3c91284cbd9b5c",
+    "score": 43.390297,
+    "link": "https://stackoverflow.com/questions/58814166",
+    "source": "so",
+    "origin_doc_id": "872fd32729bebc33b4689b4a5a1a8942e00b157fa4350defdaceea81ee80e47e",
+    "snippet": "Oct 20 10:23:14 hpit32 sshd[14073]: Did not receive identification string from ****** \n Oct 20 10:23:16 hpit32 sshd[14074]: Did not receive identification string from ******"
+  },
+  {
+    "rank": 4,
+    "id": "msg_969e0da480fddd91436239f385fff5ba6f0b7b96bebeb4432fab00ebb7ee3239",
+    "score": 43.10848,
+    "link": "https://stackoverflow.com/questions/61321492",
+    "source": "so",
+    "origin_doc_id": "3f8fe73c2b6a8dee3d4a0b4c40e1384f8dffdebf2f7cd7773974f4803a616baf",
+    "snippet": "did not receive identification string from *****"
+  },
+  {
+    "rank": 5,
+    "id": "msg_b3061c2f5453d999f1ff68189eba20fb85667c0108671878de6a9f2e7ef94e9c",
+    "score": 41.902985,
+    "link": "https://stackoverflow.com/questions/13502559",
+    "source": "so",
+    "origin_doc_id": "71ebfff70bc1571893356c1114c676bb9e7a2fdee1fbac9cea55a76ddcd6935f",
+    "snippet": "not retrieve catalog from remote server: Error 400 on SERVER'\n 'Finished catalog run in',\n 'Did not receive identification string from',\n '^.*?(Cluster.CCR).*?$'\n],\n warningexceptions => [\n 'connect from nagioszone01.mydomain.com',\n 'from 10.20.28.140',\n 'Finished catalog run in',\n 'Did not receive identification string from',\n 'Cluster.CCR'"
+  },
+  {
+    "rank": 6,
+    "id": "msg_3ac8053993185a4fa5ef141bbcd4b5190e200b45d5b0a4516dd89c4be19ec299",
+    "score": 41.54708,
+    "link": "https://github.com/fatedier/frp/issues/1226",
+    "source": "github",
+    "origin_doc_id": "9c4ee9cc03f5367f61f05b39e1125dd73ffdcc378190d027088a7d900f33bbf4",
+    "snippet": "sshd[10776]: Did not receive identification string from 127.0.0.1"
+  },
+  {
+    "rank": 7,
+    "id": "msg_c4ba870815b83301cbe09b598b05f7edf8c7fbebae494737f406adc1c884be03",
+    "score": 38.968147,
+    "link": "https://github.com/rancher/os/issues/2223",
+    "source": "github",
+    "origin_doc_id": "2fb283328440af79c519f0ca3ba14dfa5a3196a84d629ef5e23b709d5c8d1e15",
+    "snippet": "Binary file ./boot/ros-sysinit.log matches \n ./messages.1:Jan 14 11:45:44 swarm-manager sshd[10273]: Did not receive identification string from 172.16.17.32 port 51812 \n ./syslog.1:Jan 14 11:45:44 swarm-manager sshd[10273]: Did not receive identification string from 172.16.17.32 port 51812"
+  },
+  {
+    "rank": 8,
+    "id": "msg_9b87599c19e1ae10c65eba6467422eec0e4046b92fa479f8b827fb81c6cd1b6f",
+    "score": 38.740692,
+    "link": "https://github.com/connectbot/connectbot/issues/357",
+    "source": "github",
+    "origin_doc_id": "98fac163d31875099d0a03de997406e1f069678dadce962b89b0612cf38c3ffa",
+    "snippet": "Dec 23 10:23:01 {hostname} sshd[27780]: Did not receive identification string from {android_device_ip_address}"
+  },
+  {
+    "rank": 9,
+    "id": "msg_64acb083fc269861f180505fcba1ac50a14a289165624082fbdbbd5d83cf2b93",
+    "score": 37.887627,
+    "link": "https://github.com/crazy-max/docker-fail2ban/issues/8",
+    "source": "github",
+    "origin_doc_id": "daac64fc49698ad6efff97648709ea6aeb8d58a94519d37978e932cb23ec6b45",
+    "snippet": "2018-11-18 20:20:15,805 fail2ban.server         [1]: DEBUG     failregex: '^Did not receive identification string from <HOST>'"
+  },
+  {
+    "rank": 10,
+    "id": "msg_c7c34e2577bc967600cf504061141cfcd4e90231a1d26d0924ae2025a3b9900d",
+    "score": 37.887627,
+    "link": "https://stackoverflow.com/questions/66329974",
+    "source": "so",
+    "origin_doc_id": "373cd5e6880ed279d0952ec07987ecb4d981e9a939f25eb0608b5ee37303bb47",
+    "snippet": "client side  \n  ssh_exchange_identification: read: Connection reset by peer \n  Server side  \n  Did not receive identification string from x.x.x.x.x"
+  }
+]

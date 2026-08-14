@@ -1,0 +1,150 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "assembly - easy way to get opcodes",
+    "link": "https://stackoverflow.com/questions/4774797/easy-way-to-get-opcodes",
+    "displayed_link": "5 answers · 15 years ago",
+    "snippet": "I know how to get the opcodes and the corresponding assembly syntax from an executable; however is there an easy way to get the opcodes of a particular ...",
+    "snippet_highlighted_words": [
+      "opcodes",
+      "opcodes"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "windbg: How to determine the opcode for an assembly ...",
+    "link": "https://reverseengineering.stackexchange.com/questions/6637/windbg-how-to-determine-the-opcode-for-an-assembly-language-instruction-or-set",
+    "displayed_link": "https://reverseengineering.stackexchange.com › questions",
+    "snippet": "RTA is an easy to use tool that allows you to enter either opcodes or mnemonics and will convert them from one to the other.",
+    "snippet_highlighted_words": [
+      "opcodes"
+    ],
+    "source": "Reverse Engineering Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "DWARFExpression.cpp Source File - LLDB - LLVM.org",
+    "link": "https://lldb.llvm.org/cpp_reference/DWARFExpression_8cpp_source.html",
+    "displayed_link": "https://lldb.llvm.org › cpp_reference",
+    "snippet": "466 // Subtract one to account for the opcode. 467 llvm::ArrayRef data_before_op = m_data.GetData().take_front(offset - 1);. 468.",
+    "snippet_highlighted_words": [
+      "opcode",
+      ");"
+    ],
+    "source": "LLVM",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "vera-Harmony-Hub/chm-ludl/L_Harmony.lua at master",
+    "link": "https://github.com/reneboer/vera-Harmony-Hub/blob/master/chm-ludl/L_Harmony.lua",
+    "displayed_link": "https://github.com › reneboer › vera-Harmony-Hub › blob",
+    "snippet": "-- API to handle basic logging and debug messaging. local function ... opcode = opcode - 128. -- Mask bit never set on response from hub ...",
+    "snippet_highlighted_words": [
+      "logging",
+      "debug",
+      "opcode",
+      "opcode"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "https://git.zabbix.com/projects/ZBX/repos/zabbix/r...",
+    "link": "https://git.zabbix.com/projects/ZBX/repos/zabbix/raw/src/libs/zbxembed/duktape.c?at=edce2ae8a40ec4704b4ad8fd5d51ead4fbd72510",
+    "displayed_link": "https://git.zabbix.com › src › libs › zbxembed › duktape",
+    "snippet": "... ); \\ } while (0) #define DUK_DBLUNION_SET_HIGH32(u,v) do { \\ (u)->ui[DUK_DBL_IDX_UI0] = (duk_uint32_t) (v); \\ } while (0) #if defined(DUK_USE_64BIT_OPS) #if ...",
+    "snippet_highlighted_words": [
+      ");",
+      ");"
+    ],
+    "source": "Zabbix Git repository",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Exit codes - TON Docs",
+    "link": "https://docs.ton.org/tvm/exit-codes",
+    "displayed_link": "https://docs.ton.org › tvm › exit-codes",
+    "snippet": "An exit code is a 32-bit signed integer that indicates whether the compute or action phase of the transaction was successful. If not, it holds the code of ...",
+    "snippet_highlighted_words": [],
+    "source": "TON Docs",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "evm - How to get opcode trace of failed transaction without ...",
+    "link": "https://ethereum.stackexchange.com/questions/123236/how-to-get-opcode-trace-of-failed-transaction-without-solidity-source",
+    "displayed_link": "https://ethereum.stackexchange.com › questions › how-...",
+    "snippet": "In the remix debugger you can enter a transaction hash and start debugging without source code. You might need an archive node if the transaction is old.",
+    "snippet_highlighted_words": [
+      "debugging"
+    ],
+    "source": "Ethereum Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "https://os.mbed.com/teams/Cesanta/code/v7/raw-file...",
+    "link": "https://os.mbed.com/teams/Cesanta/code/v7/raw-file/c0ecb8bf28eb/v7.c",
+    "displayed_link": "https://os.mbed.com › teams › Cesanta › code › raw-file",
+    "snippet": "... ); #endif typedef int sock_t; #define INVALID_SOCKET (-1) #define SIZE_T_FMT \"zu\" typedef struct stat cs_stat_t; #define DIRSEP '/' #define to64(x) strtoll ...",
+    "snippet_highlighted_words": [
+      ");"
+    ],
+    "source": "Mbed",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "platform/frameworks/base - Git at Google",
+    "link": "https://android.googlesource.com/platform/frameworks/base/+/9b4fcde939472adb8816e202f4a7b97c639492bc%5E2..9b4fcde939472adb8816e202f4a7b97c639492bc/",
+    "displayed_link": "https://android.googlesource.com › platform › base",
+    "snippet": "+ * The results can be used to debug why a given job may not be currently executing. + */ + @FlaggedApi(Flags.FLAG_GET_PENDING_JOB_REASONS_API) + @NonNull + @ ...",
+    "snippet_highlighted_words": [
+      "debug"
+    ],
+    "source": "Android GoogleSource",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "2 Monitoring and Maintaining Your BRM System",
+    "link": "https://docs.oracle.com/cd/E16754_01/doc.75/e16719/adm_monitor.htm",
+    "displayed_link": "https://docs.oracle.com › doc.75 › adm_monitor",
+    "snippet": "Setting the Log Level for a Specific Opcode. You can record debug-level information for a specified opcode without having to reset the default system log level.",
+    "snippet_highlighted_words": [
+      "Log",
+      "Opcode",
+      "debug",
+      "opcode",
+      "log"
+    ],
+    "source": "Oracle Help Center",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

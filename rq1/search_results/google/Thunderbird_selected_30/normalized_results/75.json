@@ -1,0 +1,118 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Single player world crashing ( says connection lost server ...",
+    "link": "https://www.reddit.com/r/allthemods/comments/1hkw1u2/single_player_world_crashing_says_connection_lost/",
+    "displayed_link": "20+ comments · 1 year ago",
+    "snippet": "Single player world crashing ( says connection lost server closed). Help. been playing allthemods 10 for like 2 weeks and never had this issue ...",
+    "snippet_highlighted_words": [
+      "connection lost",
+      "closed"
+    ],
+    "source": "Reddit · r/allthemods",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Connection to the Server Has Been Lost - Suddenly really ...",
+    "link": "https://forums.eveonline.com/t/connection-to-the-server-has-been-lost-suddenly-really-regular/459976",
+    "displayed_link": "https://forums.eveonline.com › ... › General Issues",
+    "snippet": "I have been having server connection dropouts really regularly during a session. Just had 2 within 4 minutes of one another. My internet connection seems ...",
+    "snippet_highlighted_words": [
+      "connection",
+      "connection"
+    ],
+    "source": "EVE Online Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Connection lost, no matter what??? - Server",
+    "link": "https://board.aternos.org/thread/80388-connection-lost-no-matter-what/",
+    "displayed_link": "https://board.aternos.org › ... › Users help Users › Server",
+    "snippet": "The connection lost message typically appears when you don't have the same mod collection installed on your computer as on the server.",
+    "snippet_highlighted_words": [
+      "connection lost"
+    ],
+    "source": "Aternos Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "How do I fix the \"Network Connection Lost\" error message?",
+    "link": "https://www.epicgames.com/help/fortnite-save-the-world-c-202300000001632/gameplay-c-202300000001706/a202300000015813",
+    "displayed_link": "https://www.epicgames.com › help › gameplay-c-20230...",
+    "snippet": "If you're seeing the error message above, verifying Fortnite game files and/or checking Fortnite installation options will likely restore your connection.",
+    "snippet_highlighted_words": [
+      "verifying Fortnite game files"
+    ],
+    "source": "Epic Games",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "What does “Connection Closed” when joining a Minecraft ...",
+    "link": "https://www.quora.com/What-does-Connection-Closed-when-joining-a-Minecraft-server-mean-and-how-can-I-fix-it",
+    "displayed_link": "1 answer · 5 years ago",
+    "snippet": "The most frequent cause is simply the client not connecting solidly to the server within the time out period. Low upload speed on the host tends ...",
+    "snippet_highlighted_words": [
+      "client not connecting solidly to the server within the time out period"
+    ],
+    "source": "Quora",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Re: Problem with connections: closed (connection lost)",
+    "link": "https://www.openldap.org/lists/openldap-software/200707/msg00076.html",
+    "displayed_link": "https://www.openldap.org › lists › msg00076",
+    "snippet": "Re: Problem with connections: closed (connection lost) ... Index(es):. Chronological · Thread.",
+    "snippet_highlighted_words": [
+      "connections",
+      "closed",
+      "connection lost"
+    ],
+    "source": "OpenLDAP",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "An existing connection was forcibly closed by the remote host",
+    "link": "https://support.cloudm.io/hc/en-us/articles/9116310844060-An-existing-connection-was-forcibly-closed-by-the-remote-host",
+    "displayed_link": "https://support.cloudm.io › en-us › articles › 91163108...",
+    "snippet": "This article explains how to diagnose and resolve a common network error that can occur during a migration, indicating that a connection...",
+    "snippet_highlighted_words": [
+      "connection"
+    ],
+    "source": "CloudM",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "How do I resolve a ssh connection closed by remote host ...",
+    "link": "https://superuser.com/questions/522094/how-do-i-resolve-a-ssh-connection-closed-by-remote-host-due-to-inactivity",
+    "displayed_link": "https://superuser.com › questions › how-do-i-resolve-a-...",
+    "snippet": "If you are using Putty. Change the keepalive setting in Putty. Increase that value to 15 or 30 in the Putty connection settings. Melroy van den ...",
+    "snippet_highlighted_words": [
+      "connection"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

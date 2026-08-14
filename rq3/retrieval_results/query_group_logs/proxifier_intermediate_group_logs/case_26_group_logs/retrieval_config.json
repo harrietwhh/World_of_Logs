@@ -1,0 +1,28 @@
+{
+  "mode": "csv_case",
+  "case_id": "26",
+  "query_source": "group_logs",
+  "query_count": 8,
+  "queries": [
+    "- proxy.cse.cuhk.edu.hk: 5070 open through proxy proxy.cse.cuhk.edu.hk: 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 451 bytes sent, 353 bytes received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 14227 bytes ( 13.8 KB ) sent, 4700 bytes ( 4.58 KB ) received, lifetime 01: 02",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 2115 bytes ( 2.06 KB ) sent, 1342 bytes ( 1.31 KB ) received, lifetime 04: 00",
+    "- long.weixin.qq.com: 443 error: A connection request was canceled before the completion",
+    "- dir.minigame.qq.com: 80 open through proxy proxy.cse.cuhk.edu.hk: 5070 HTTPS",
+    "- 137.189.89.156: 22 open through proxy socks.cse.cuhk.edu.hk: 1080 SOCKS5",
+    "- ptlogin2.qq.com: 80 open through proxy proxy.cse.cuhk.edu.hk: 5070 HTTPS"
+  ],
+  "log_message": "",
+  "cases_csv": "data/Proxifier.csv",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 50,
+  "retrieved_candidate_count": 50,
+  "output_dir": "proxifier_intermediate_group_logs/case_26_group_logs",
+  "generated_at_utc": "2026-03-23T00:47:21.123746+00:00"
+}

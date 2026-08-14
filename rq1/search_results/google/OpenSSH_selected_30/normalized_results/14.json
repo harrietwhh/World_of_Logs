@@ -1,0 +1,140 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "What's the purpose? Strange login attemps \"sshd[***] ...",
+    "link": "https://security.stackexchange.com/questions/44238/whats-the-purpose-strange-login-attemps-sshd-received-disconnect-from",
+    "displayed_link": "https://security.stackexchange.com › questions › whats-t...",
+    "snippet": "This error rises from a fatal error in the authentication process (see monitor.c of OpenSSH versions 6.1p1+). It is likely that the attacker is using some ...",
+    "snippet_highlighted_words": [],
+    "source": "Information Security Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Received disconnect from xx.xx.xx.xx port 33598:11: Bye ...",
+    "link": "https://superuser.com/questions/1564476/received-disconnect-from-xx-xx-xx-xx-port-3359811-bye-bye-preauth",
+    "displayed_link": "https://superuser.com › questions › received-disconnect...",
+    "snippet": "Apparently my home server is getting checked out by a lot of bots online. I have daily more than 500 connection requests at port 11.",
+    "snippet_highlighted_words": [
+      "11"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Received disconnect: Bye Bye [preauth]",
+    "link": "https://www.linuxquestions.org/questions/linux-security-4/received-disconnect-bye-bye-%5Bpreauth%5D-4175720207/",
+    "displayed_link": "https://www.linuxquestions.org › linux-security-4 › recei...",
+    "snippet": "My logwatch report shows this in the SSHD section: Received disconnect: Bye Bye [preauth] : 6004 Times Can someone tell me what this means?",
+    "snippet_highlighted_words": [
+      "Received disconnect: Bye Bye [preauth"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "fail2ban not banning sshd[8583]: Received disconnect ...",
+    "link": "https://github.com/fail2ban/fail2ban/issues/2115",
+    "displayed_link": "https://github.com › issues",
+    "snippet": "On preauth phase, message Received disconnect is normally always followed by Disconnected from (with the same session-id, see excerpt from #2115 ...",
+    "snippet_highlighted_words": [
+      "preauth",
+      "Received disconnect"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Spammed by SSH connection attempts : r/archlinux",
+    "link": "https://www.reddit.com/r/archlinux/comments/mpx516/spammed_by_ssh_connection_attempts/",
+    "displayed_link": "20+ comments · 4 years ago",
+    "snippet": "apr 12 10:13:04 Void sshd[4002096]: Received disconnect from 124.156.226.224 port 40806:11: Bye Bye [preauth] apr 12 10:13:04 Void sshd ...",
+    "snippet_highlighted_words": [
+      "Received disconnect from 124.156.226.224 port"
+    ],
+    "source": "Reddit · r/archlinux",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Is it safe to apply fail2ban on sshd \"Received disconnect/ ...",
+    "link": "https://serverfault.com/questions/1048415/is-it-safe-to-apply-fail2ban-on-sshd-received-disconnect-disconnected-prea",
+    "displayed_link": "https://serverfault.com › questions › is-it-safe-to-apply-f...",
+    "snippet": "Which parts would make a safe combination ? Would matching the words \"Disconnected\" and the tag \"[preauth]\" necessarily indicate a failed ...",
+    "snippet_highlighted_words": [
+      "Disconnected",
+      "preauth"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "DevOps Classroomnotes 03/Mar/2022",
+    "link": "https://directdevops.blog/2022/03/03/devops-classroomnotes-03-mar-2022/",
+    "displayed_link": "https://directdevops.blog › 2022/03/03 › devops-classro...",
+    "snippet": "... Received disconnect from 52.80.34.196: 11: Bye Bye [preauth] Dec 10 ... Received disconnect from 202.100.179.208: 11: Bye Bye [preauth] ...",
+    "snippet_highlighted_words": [
+      "Received disconnect from 52.80.34.196: 11: Bye Bye [preauth"
+    ],
+    "source": "directdevops.blog",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Solved: bye bye messages from ssh attempts",
+    "link": "https://www.experts-exchange.com/questions/24314357/bye-bye-messages-from-ssh-attempts.html",
+    "displayed_link": "https://www.experts-exchange.com › questions › bye-b...",
+    "snippet": "Received disconnect from 129.1.64.81: 11: Bye Bye Now I'm happy I'm OK and I have denyhosts enabled and secure passwords etc etc. I was ...",
+    "snippet_highlighted_words": [
+      "Received disconnect from 129.1.64.81: 11: Bye Bye"
+    ],
+    "source": "Experts Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "many preauth sshd disconnects-- what do they mean?",
+    "link": "https://groups.google.com/g/comp.security.ssh/c/R5YnkP0WLVg",
+    "displayed_link": "https://groups.google.com › comp.security.ssh",
+    "snippet": "... Received disconnect from 112.85.42.123: 11: [preauth] Feb 5 11:35:05 dilaton sshd[10800]: Received disconnect from 116.31.116.27: 11: [preauth]",
+    "snippet_highlighted_words": [
+      "Received disconnect from 112.85.42.123"
+    ],
+    "source": "Google Groups",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Solved - People trying to break in the SSH - SW help",
+    "link": "https://forum.turris.cz/t/solved-people-trying-to-break-in-the-ssh/1823",
+    "displayed_link": "https://forum.turris.cz › Software › SW help",
+    "snippet": "I suspect some bad boys from China have crashed your web server. In the current situation (we don't know if they have broken into your Omnia) I ...",
+    "snippet_highlighted_words": [],
+    "source": "Turris forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_8529355c407477d2259e7855c2daf5a12ce520fe953e01d2f5e57065f9b44919",
+    "score": 28.481962,
+    "link": "https://github.com/gluster/gluster-kubernetes/issues/564",
+    "source": "github",
+    "origin_doc_id": "acc05143236647c309e04b1b2124d28d19617972188e2e6496f952785521e656",
+    "snippet": "deploy]# heketi-cli topology load --json=topology.json \n \tFound node bdprdsn0002 on cluster 833a3f14267b9d2708a1a36aee21752f \n \t\tAdding device /dev/sdc ... Unable to add device: WARNING: Device /dev/sdc not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/vg-root/lv_root not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/sda1 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/vg-root/lv_usr not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/sda2 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/vg_data/lv_opt not initialized in udev database even after waiting 10000000 microseconds. \n  WARNING: Device /dev/sda3 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/vg_data/lv_home not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/sda5 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/sda6 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/vg-root/lv_tmp not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/vg-root/lv_var not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/sdb1 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/sdc not initialized in udev database even after waiting 10000000 microseconds.\n  Can't initialize physical volume \"/dev/sdc\" of volume group \"vg_f69a0ab1d705f0a84b648f25d5018809\" without -ff\n  /dev/sdc: physical volume not initialized.\n\tCreating node bdprdsn0003 ... ID: add9a6ab175d2b4f292d8c2675b84b31\n\t\tAdding device /dev/sdc ... OK\n\tCreating node bdprdsn0004 ... ID: bde73d725835bf12c3284e9d98c6ef08\n\t\tAdding device /dev/sdc ... Unable to add device: Get http://10.100.30.141:8080/queue/971117d58b46fc72ddc39a8d0a1f3681: dial tcp 10.100.30.141:8080: socket: too many open files\n```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_520369f64f7125eaed54d55da052e5481d97f5188717554f997680c5ddb61039",
+    "score": 25.184132,
+    "link": "https://github.com/gluster/gluster-kubernetes/issues/590",
+    "source": "github",
+    "origin_doc_id": "402ef5868082e6002348f3d696070701af63195de5709251ce7372df411e3b0d",
+    "snippet": "./gk-deploy -gvy\n\nDetermining heketi service URL ... OK\n/bin/kubectl -n default exec -i deploy-heketi-865f55765-2j6qh -- heketi-cli -s http://localhost:8080 --user admin --secret '' topology load --json=/etc/heketi/topology.json 2>&1\nFound node k8s213 on cluster d335d724802283e6f22cf3acce6ae996\nFound device /dev/sdb\nFound node k8s174 on cluster d335d724802283e6f22cf3acce6ae996\nFound device /dev/sdb\nFound node k8s52 on cluster d335d724802283e6f22cf3acce6ae996\nAdding device /dev/sdb ... Unable to add device: Setup of device /dev/sdb failed (already initialized or contains data?):   WARNING: Device /dev/sdb not initialized in udev database even after waiting 10000000 microseconds.\nWARNING: Device /dev/sda2 not initialized in udev database even after waiting 10000000 microseconds.\nWARNING: Device /dev/sda3 not initialized in udev database even after waiting 10000000 microseconds.\nWARNING: Device /dev/vg_5d5e600579ef3ca89250289215289508/brick_44f35f61d155a4c2e0f94106a9b43b35 not initialized in udev database even after waiting 10000000 microseconds.\nWARNING: Device /dev/sda5 not initialized in udev database even after waiting 10000000 microseconds.\nWARNING: Device /dev/sda6 not initialized in udev database even after waiting 10000000 microseconds.\nWARNING: Device /dev/sdb not initialized in udev database even after waiting 10000000 microseconds.\nCan't open /dev/sdb exclusively.  Mounted filesystem?\nCan't open /dev/sdb exclusively.  Mounted filesystem?\nError loading the cluster topology.\nPlease check the failed node or device and rerun this script."
+  },
+  {
+    "rank": 3,
+    "id": "msg_eb881353b60fed722b52e35a86850a2c7201c67475c07451c9b2f2434de372c6",
+    "score": 24.31861,
+    "link": "https://github.com/gluster/gluster-kubernetes/issues/619",
+    "source": "github",
+    "origin_doc_id": "e6bfcd33866b8c17e4f61d9b12a9729919e63c24b72d650cb9b9b7fd7b5d3fe9",
+    "snippet": "[kubeexec] ERROR 2019/10/23 07:47:04 heketi/pkg/remoteexec/log/commandlog.go:62:log.(*CommandLogger).Timeout: Timeout on command [pvcreate -qq --metadatasize=128M --dataalignment=256K '/dev/vdb'] on [pod:glusterfs-tq9z7 c:glusterfs ns:glusterfs (from host:node4 selector:glusterfs-node)]: Err[<nil>]: Stdout []: Stderr [  WARNING: Device /dev/vdb not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/loop0 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/dm-0 not initialized in udev database even after waiting 10000000 microseconds. \n  WARNING: Device /dev/loop1 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/vda1 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-1 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/vda2 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-2 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-3 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-4 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-5 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-6 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-7 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-8 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-9 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-10 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-11 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-12 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-13 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-14 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-15 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/vdb not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-16 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/dm-17 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/dm-18 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/dm-19 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/dm-20 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/dm-21 not initialized in udev database even after waiting 10000000 microseconds. \n ]"
+  },
+  {
+    "rank": 4,
+    "id": "msg_adc99f7127053053780f2e1a97f23eb18b0495681e86dd86e35c2f18e5f4db3f",
+    "score": 23.412052,
+    "link": "https://github.com/TheReal1604/disk-encryption-hetzner/pull/23",
+    "source": "github",
+    "origin_doc_id": "f2c1ae8dceb6743c13267b33e0aea58e4ef2a3c009aec313316ff1046631b981",
+    "snippet": "WARNING: Device /dev/ram0 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/nvme1n1 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/loop0 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/md0 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/mapper/cryptroot not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/ram1 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/nvme0n1 not initialized in udev database even after waiting 10000000 microseconds."
+  },
+  {
+    "rank": 5,
+    "id": "msg_fe524aedd7052381c5d63c764d2ee4f9a7d85dd5347a93ff978532e95628bc95",
+    "score": 22.830547,
+    "link": "https://github.com/rook/rook/issues/7411",
+    "source": "github",
+    "origin_doc_id": "a09dc82bc64a3e6455e34ca2cf89096fc59cbb937206314a389035876859d9b7",
+    "snippet": "[2021-03-17 02:42:58,211][ceph_volume.process][INFO  ] stderr Udev is running and DM_DISABLE_UDEV environment variable is set. Bypassing udev, LVM will manage logical volume symlinks in device directory.\n  Udev is running and DM_DISABLE_UDEV environment variable is set. Bypassing udev, LVM will obtain device list by scanning device directory."
+  },
+  {
+    "rank": 6,
+    "id": "msg_194e541fe3d201d2bbdda3baee97f58642282dd7d4e11fca0aa6191cc19769b7",
+    "score": 22.700665,
+    "link": "https://github.com/go-debos/debos/issues/160",
+    "source": "github",
+    "origin_doc_id": "4e7d3d11a152056c6b149ca160be5e19de056ab84288d1e126899a7d6bf31936",
+    "snippet": "Found linux image: /boot/vmlinuz-4.19.0-1-amd64 \n Found initrd image: /boot/initrd.img-4.19.0-1-amd64 \n   WARNING: Device /dev/vda not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/vda1 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/vda2 not initialized in udev database even after waiting 10000000 microseconds. \n   WARNING: Device /dev/vda3 not initialized in udev database even after waiting 10000000 microseconds. \n  WARNING: Device /dev/vda4 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/vda5 not initialized in udev database even after waiting 10000000 microseconds.\n  WARNING: Device /dev/vda6 not initialized in udev database even after waiting 10000000 microseconds.\n```"
+  },
+  {
+    "rank": 7,
+    "id": "msg_e2f89f1723493b38efe65e5e025b641bcc4556854ab6459bb79469eff2360198",
+    "score": 22.61295,
+    "link": "https://github.com/Mirantis/solar/pull/275",
+    "source": "github",
+    "origin_doc_id": "251c9712c477e4d2fdf797a757927800dbc45175445b20aeadfcb8e2cefd2b08",
+    "snippet": "Creating udev"
+  },
+  {
+    "rank": 8,
+    "id": "msg_40c20b065f9f5ff1d289dfc32abb9900d47af2e62c356d3029b175697d70eb44",
+    "score": 22.61295,
+    "link": "https://github.com/pixelcog/opsworks-vm/issues/8",
+    "source": "github",
+    "origin_doc_id": "ad39a746f06ea89f59832d665c3b9b6207847abde627f499298f085f3937ff50",
+    "snippet": "Creating udev"
+  },
+  {
+    "rank": 9,
+    "id": "msg_91510777c43a9991ffde6f94039788d7a83df34dbd8136845e8ed16d76c529ac",
+    "score": 22.365929,
+    "link": "https://github.com/lima-vm/lima/issues/499",
+    "source": "github",
+    "origin_doc_id": "39095ca1082b230d399f5b1e1afbce07844d0dbd677a36b8949ace5566757ea5",
+    "snippet": "OK  ] Found device /dev/disk/by-label/UEFI. \n [    5.996438] usb 1-1: device descriptor read/64, error -110 \n [   21.612094] usb 1-1: device descriptor read/64, error -110 \n [   27.245800] usb 1-1: device descriptor read/64, error -110 \n [    **] A start job is running for udev Wai…Device Initialization (39s / 3min) \n [***   ] A start job is running for udev Wai…Device Initialization (50s / 3min) \n [  *** ] A start job is running for udev Wai…ce Initialization (1min 1s / 3min) \n [   64.698577] usb 1-1: device not accepting address 5, error -110 \n[     *] A start job is running for udev Wai…ce Initialization (1min 7s / 3min)\n[  *** ] A start job is running for udev Wai…e Initialization (1min 22s / 3min)\n[     *] A start job is running for udev Wai…e Initialization (1min 28s / 3min)\n[ ***  ] A start job is running for udev Wai…e Initialization (1min 44s / 3min)\n[   ***] A start job is running for udev Wai…e Initialization (1min 55s / 3min)\n[FAILED] Failed to start udev Wait …omplete Device Initialization.\n```"
+  },
+  {
+    "rank": 10,
+    "id": "msg_5e93d4d3e2f541a6a671a3e82eaa59a38f638f676c4b2405e3e594ee1b00879c",
+    "score": 22.318613,
+    "link": "https://stackoverflow.com/questions/45814295",
+    "source": "so",
+    "origin_doc_id": "598543f75406ce60dcea43174224ef7cd6fb52ee8b83d3182f55e5655d8491cc",
+    "snippet": "Creating udev rule"
+  }
+]

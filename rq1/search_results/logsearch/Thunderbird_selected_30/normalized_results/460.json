@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_d830d3077a939d5af8f293b67f46adb34392f7426ba549a2a695e34d996bf53b",
+    "score": 23.106047,
+    "link": "https://github.com/GamingAnonymous/TornCityAPISharp/issues/4",
+    "source": "github",
+    "origin_doc_id": "7a042db9076b06c662783c47cb788626b0fdb67fb51ffbe667018bdcbeb2df24",
+    "snippet": "ApiCallCount time is greater than 60 seconds since reset, resetting!\");\nNot time to reset yet \" + timeDiff.Seconds + \"s\");\nApiCallCount time is greater than 60 seconds since reset, resetting!\");\nNot time to reset yet \" + timeDiff.Seconds + \"s\");"
+  },
+  {
+    "rank": 2,
+    "id": "msg_c753f07e67d6b3f4497016801e7753c69ec918ed596ece11e00adfd85f8c9c9a",
+    "score": 20.90762,
+    "link": "https://stackoverflow.com/questions/18279424",
+    "source": "so",
+    "origin_doc_id": "7b2a9e6db91cbf2904dc7863f6f9e45b9376c081fbb49847fdf1a1adae397c5e",
+    "snippet": "System.out.println(\"reset method is called\"+count+ \" time/s\");\nSystem.out.println(\"validate method is called\"+count+\" time/s\");"
+  },
+  {
+    "rank": 3,
+    "id": "msg_48aeea7565c01f03cd9439edc7fadfab6fd1a2f7aabbd6d48e955b36ddfb3945",
+    "score": 19.843048,
+    "link": "https://github.com/GoogleCloudPlatform/java-docs-samples/pull/4087",
+    "source": null,
+    "origin_doc_id": "0636cc70a7de73a32e933984f07c744b7cb4050eb528040fa3b08edc40e7b6eb",
+    "snippet": "[ERROR] Tests run: 21, Failures: 0, Errors: 17, Skipped: 4, Time elapsed: 451.364 s <<< FAILURE! - in com.example.cloud.iot.examples.ManagerIT \n [ERROR] com.example.cloud.iot.examples.ManagerIT.testMqttDeviceState  Time elapsed: 445.836 s  <<< ERROR! \n org.eclipse.paho.client.mqttv3.MqttException: Connection lost \n Caused by: javax.net.ssl.SSLException: Connection reset \nCaused by: java.net.SocketException: Connection reset"
+  },
+  {
+    "rank": 4,
+    "id": "msg_247c8a27b8a52291a3f86e3c72bbfc1d25612586250f31e5f1b688a1568628db",
+    "score": 19.338804,
+    "link": "https://issues.apache.org/jira/browse/OAK-6367",
+    "source": "jira",
+    "origin_doc_id": "963d5e2d425e4b06c6cd533e2c5ce1f41de8a053ebd6920c6abd6087fa9c0a91",
+    "snippet": "[INFO] Running org.apache.jackrabbit.oak.upgrade.cli.JdbcToSegmentTest \n [ERROR] Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.788 s <<< FAILURE! - in org.apache.jackrabbit.oak.upgrade.cli.JdbcToSegmentTest \n [ERROR] validateMigration(org.apache.jackrabbit.oak.upgrade.cli.JdbcToSegmentTest)  Time elapsed: 3.788 s  <<< ERROR! \n javax.jcr.RepositoryException: Failed to copy content \nCaused by: java.lang.IllegalStateException: Branch with failed reset \n Caused by: org.apache.jackrabbit.oak.api.CommitFailedException: OakOak0100: Branch reset failed \n Caused by: org.apache.jackrabbit.oak.plugins.document.DocumentStoreException: Empty branch cannot be reset"
+  },
+  {
+    "rank": 5,
+    "id": "msg_ebec0073e98282008d76016f2b5496495eb3964ac6da2a46958b1a7e9a224811",
+    "score": 19.155243,
+    "link": "https://github.com/tomakehurst/wiremock/issues/1369",
+    "source": "github",
+    "origin_doc_id": "700b1302e6d8403a1b6a13fb3ced257a22dd421a07c542dfae8407642eff4333",
+    "snippet": "[ERROR] Tests run: `, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 13.192 s <<< FAILURE! - in com.test.ServiceIT \n [ERROR] testRestCall  Time elapsed: 0.788 s  <<< ERROR! \n org.springframework.web.client.ResourceAccessException: I/O error on GET request for \"http://localhost:52582/services/test\": Connection reset; nested exception is java.net.SocketException: Connection reset \n         at in com.test.ServiceIT.testRestCall.java:98)\nCaused by: java.net.SocketException: Connection reset at com.test.ServiceIT.testRestCall.java:98)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_91fa706ff7751ede33fb1d2b6ec1536227b29f398253a5ee306079281514014f",
+    "score": 18.930527,
+    "link": "https://stackoverflow.com/questions/14900718",
+    "source": "so",
+    "origin_doc_id": "cd699a2c49b4cc070d469c9a9df43ee7bcb33a16e60f91550044e244db91eb09",
+    "snippet": "NSLog(@\"Timed Out has been reset to %s\",[defaults boolForKey:@\"isTimedOut\"] ? \"YES\" : \"NO\"); \n     [defaults synchronize];\nNSLog(@\"Timed Out has been reset to %s\",appDelegate.isTimedOut ? \"YES\" : \"NO\");\nNSLog(@\"Time between dates in seconds %f\",distanceBetweenDates);"
+  },
+  {
+    "rank": 7,
+    "id": "msg_5168643e5af1d5dbbe73f3a5549fbab7b1988f480244e2d8bb3706fd5b7253bc",
+    "score": 18.833664,
+    "link": "https://github.com/streamnative/pulsar/issues/3497",
+    "source": "github",
+    "origin_doc_id": "d4e5c1954358394df2eca1428d32c4b8724f5c6644b56e559ad5aca6e48124ac",
+    "snippet": "root@a4b1093e63a4:/pulsar# bin/pulsar-admin topics reset-cursor non-existing -s sub --time 1m"
+  },
+  {
+    "rank": 8,
+    "id": "msg_32ed5754818cab41a78ac9031ea6d52ae19116e0f8746a27f9490a3de7f5fe58",
+    "score": 18.73212,
+    "link": "https://issues.apache.org/jira/browse/HBASE-24123",
+    "source": "jira",
+    "origin_doc_id": "95dd65d6989a7e49620831b3cefdfb2c2fa9f06959164336aaead9a6cbd04d0f",
+    "snippet": "Test set: org.apache.hadoop.hbase.thrift2.TestThrift2ServerCmdLine \n  ------------------------------------------------------------------------------- \n  Tests run: 32, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 126.301 s <<< FAILURE! - in org.apache.hadoop.hbase.thrift2.TestThrift2ServerCmdLine \n  org.apache.hadoop.hbase.thrift2.TestThrift2ServerCmdLine.testRunThriftServer[29]  Time elapsed: 0.964 s  <<< ERROR! \n  java.lang.Exception: org.apache.thrift.transport.TTransportException: java.net.SocketException: Connection reset \n    at org.apache.hadoop.hbase.thrift2.TestThrift2ServerCmdLine.talkToThriftServer(TestThrift2ServerCmdLine.java:92) \n  Caused by: java.net.SocketException: Connection reset \n    at org.apache.hadoop.hbase.thrift2.TestThrift2ServerCmdLine.talkToThriftServer(TestThrift2ServerCmdLine.java:92)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_ad2b87acddd46ac99a19359c7ab9346159f35d4f82407ad5f77bbd1db59bab53",
+    "score": 18.730822,
+    "link": "https://github.com/apache/pulsar/pull/5532",
+    "source": "github",
+    "origin_doc_id": "1bb8c569d31474eb68d6429f42f0589845368879c789ef94be1960443bb0be1c",
+    "snippet": "Unknown option: --help\n\nReset position for subscription to position closest to timestamp or messageId\nUsage: reset-cursor [options] persistent://tenant/namespace/topic\n  Options:\n    --messageId, -m\n       messageId to reset back to (ledgerId:entryId)\n  * -s, --subscription\n       Subscription to reset position on\n    --time, -t"
+  },
+  {
+    "rank": 10,
+    "id": "msg_5e6581d4720b04553ee47db84db64924920119bac519f94d46ac6e6a3a21b102",
+    "score": 18.529228,
+    "link": "https://issues.apache.org/jira/browse/OAK-6398",
+    "source": "jira",
+    "origin_doc_id": "5ceda06d0ba374e17273168f726486b05386561eb43aac0bf0fc9ebc14b774ae",
+    "snippet": "org.apache.jackrabbit.oak.upgrade.cli.JdbcToSegmentTest \n [ERROR] validateMigration(org.apache.jackrabbit.oak.upgrade.cli.JdbcToSegmentTest)  Time elapsed: 63.619 s  <<< ERROR! \n javax.jcr.RepositoryException: Failed to copy content \n Caused by: java.lang.IllegalStateException: Branch with failed reset \nCaused by: org.apache.jackrabbit.oak.api.CommitFailedException: OakOak0100: Branch reset failed \n Caused by: org.apache.jackrabbit.oak.plugins.document.DocumentStoreException: Empty branch cannot be reset"
+  }
+]

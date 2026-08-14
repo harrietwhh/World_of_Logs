@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_8152dad1248e673bdc3eef288bd42cc934ff3dc5df290f5b8e1feff7d1534fe8",
+    "score": 22.918272,
+    "link": "https://github.com/wrouesnel/postgres_exporter/issues/166",
+    "source": "github",
+    "origin_doc_id": "4f7ebcbdd809095ae378cb2ad2692b04b4b2e157890c01a69546a656cfcf724c",
+    "snippet": "2018/03/18 20:53:12 exec: go list ./...\nFinished 1 of 6\nFinished 2 of 6\nFinished 3 of 6\nFinished 4 of 6\nFinished 5 of 6\nFinished 6 of 6\nError: failed to run \"gometalinter --disable-all --enable=gofmt --enable=goimports /root/projects/src/src/github.com/username_2/postgres_exporter/cmd/postgres_exporter/pg_setting.go /root/projects/src/src/github.com/username_2/postgres_exporter/cmd/postgres_exporter/pg_setting_test.go /root/projects/src/src/github.com/username_2/postgres_exporter/cmd/postgres_exporter/postgres_exporter.go /root/projects/src/src/github.com/username_2/postgres_exporter/cmd/postgres_exporter/postgres_exporter_integration_test.go /root/projects/src/src/github.com/username_2/postgres_exporter/cmd/postgres_exporter/postgres_exporter_test.go /root/projects/src/src/github.com/username_2/postgres_exporter/mage.go /root/projects/src/src/github.com/username_2/postgres_exporter/magefile.go: exec: \"gometalinter\": executable file not found in $PATH\"\nexit status 1"
+  },
+  {
+    "rank": 2,
+    "id": "msg_054c0fd5b228e904d47873616eefedfc5e8f0c4a19f0696eada75670f9be91ff",
+    "score": 21.976702,
+    "link": "https://github.com/ppc64le/build-scripts/pull/690",
+    "source": "github",
+    "origin_doc_id": "70623447f53719a54f7bb39243cc4366ceaf245a69a16055ec4ea42cdfe86793",
+    "snippet": "root@5aa9a4cc546a:~/projects/velero# make \n make[1]: Entering directory '/root/projects/velero' \n building: _output/bin/linux/**amd64**/velero \n make shell CMD=\"-c '\\"
+  },
+  {
+    "rank": 3,
+    "id": "msg_1f8df39b5ebd62295b6284f9edf889feed62d08faa57d23e1baf866351bfa81a",
+    "score": 21.02364,
+    "link": "https://github.com/sunny0826/kubecm/issues/26",
+    "source": "github",
+    "origin_doc_id": "89a79baf737335d585ce123694dd03dc4b187b7edf3120e391d438d07e8d7a1b",
+    "snippet": "delete \n 😸 Select:2123d \n 👻 True \n Context Delete:「2123d」 \n 「/Users/root/.kube/config」 write successful! \n panic: runtime error: invalid memory address or nil pointer dereference \n [signal SIGSEGV: segmentation violation code=0x1 addr=0x10 pc=0x1eab718] \ngoroutine 1 [running]:\ngithub.com/username_1/kubecm/cmd.PrintTable(0xc0004105a0, 0xc0001a8008, 0x212e220)\n        /Users/root/projects/kubecm/cmd/utils.go:93 +0x178\ngithub.com/username_1/kubecm/cmd.WriteConfig(0xc000219d01, 0xc000324c20, 0x17, 0xc0004105a0, 0x0, 0x0)\n        /Users/root/projects/kubecm/cmd/utils.go:230 +0x16f\ngithub.com/username_1/kubecm/cmd.(*DeleteCommand).runDelete(0xc0003bf558, 0xc000360dc0, 0x2b43b60, 0x0, 0x0, 0x0, 0x0)\n        /Users/root/projects/kubecm/cmd/delete.go:56 +0x165\ngithub.com/username_1/kubecm/cmd.(*DeleteCommand).Init.func1(0xc000360dc0, 0x2b43b60, 0x0, 0x0, 0x0, 0x0)\n        /Users/root/projects/kubecm/cmd/delete.go:25 +0x52\ngithub.com/spf13/cobra.(*Command).execute(0xc000360dc0, 0x2b43b60, 0x0, 0x0, 0xc000360dc0, 0x2b43b60)\n        /Users/root/go/pkg/mod/github.com/spf13/cobra@v1.0.0/command.go:842 +0x47c \n github.com/spf13/cobra.(*Command).ExecuteC(0xc0003602c0, 0x1046d17, 0x2aa00c0, 0xc000000180) \n         /Users/root/go/pkg/mod/github.com/spf13/cobra@v1.0.0/command.go:950 +0x375 \n github.com/spf13/cobra.(*Command).Execute(...) \n         /Users/root/go/pkg/mod/github.com/spf13/cobra@v1.0.0/command.go:887 \n main.main() \n         /Users/root/projects/kubecm/main.go:27 +0x36 \n ```"
+  },
+  {
+    "rank": 4,
+    "id": "msg_dbb8f4fd100f7f6a22fa4b77d9e6b6cd784f663dc606fa90cfda1da71e79c4ec",
+    "score": 20.993137,
+    "link": "https://issues.apache.org/jira/browse/WW-4031",
+    "source": "jira",
+    "origin_doc_id": "9fef095d36a2bb5da2c5f2f5547ae1a19f0898f6b1423e1a277b0f36c9ce15af",
+    "snippet": "2013-03-27 21:16:16.928:INFO:oejsh.ContextHandler:started o.m.j.p.JettyWebAppContext{/struts2-blank,file:/Users/lukaszlenart/Projects/Temps/struts2-log4j-test/src/main/webapp/},file:/Users/lukaszlenart/Projects/Temps/struts2-log4j-test/src/main/webapp/ \n log4j:ERROR Could not read configuration file from URL [file:/Users/lukaszlenart/Projects/Apache/struts2/archetypes/struts2-archetype-blank/src/main/resources/log4j.properties]. \n java.io.FileNotFoundException: /Users/lukaszlenart/Projects/Apache/struts2/archetypes/struts2-archetype-blank/src/main/resources/log4j.properties (No such file or directory) \n \tat java.io.FileInputStream.open(Native Method)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_41138b38d7721c43307c1741579f36f8b24d1eda08f43cd91aec3b2ea0ee7e17",
+    "score": 20.779852,
+    "link": "https://stackoverflow.com/questions/70078282",
+    "source": "so",
+    "origin_doc_id": "8bb41bc49fe62e631a693f74314ce8c2efa0450feec1dbe2ad25e1d1afda355c",
+    "snippet": "Output : \n Temps base : 30 <== Why ?? \n Temps base : -25 \n Temps base : -10"
+  },
+  {
+    "rank": 6,
+    "id": "msg_39b00c64c49c9bc8e1ab65cf504b5fef34c01ac6bc685f05e9a26f322478a21c",
+    "score": 20.572474,
+    "link": "https://stackoverflow.com/questions/70078282",
+    "source": "so",
+    "origin_doc_id": "8bb41bc49fe62e631a693f74314ce8c2efa0450feec1dbe2ad25e1d1afda355c",
+    "snippet": "base : 65 <== Why ?? \n Temps base : -25 \n Temps base : -10 \n Temps base total : 65"
+  },
+  {
+    "rank": 7,
+    "id": "msg_6046d4a8406c105292136d62e276359456aa14e7328fd49dcb876080b16394bf",
+    "score": 20.570578,
+    "link": "https://stackoverflow.com/questions/79480059",
+    "source": "so",
+    "origin_doc_id": "c78fad321d42ef3a386c53292ba20bfb177b0dd04ebd85758e5cc00c0dd1a43b",
+    "snippet": "print(\"---> temps: \\(temps)\")"
+  },
+  {
+    "rank": 8,
+    "id": "msg_bcf642d134511d5510db216a85e9b3ca363f4cc530af5aba36f6d436fb20d397",
+    "score": 20.482716,
+    "link": "https://github.com/MaskRay/ccls/issues/614",
+    "source": "github",
+    "origin_doc_id": "7de0a1707809c700e8164fff04052cf881cea8d25988653718678370de4303b5",
+    "snippet": "16:20:30 indexer0         pipeline.cc:340 I parse /home/lokfry/Projects/ccls_test/main.cpp\n  /usr/local/bin/clang++ --driver-mode=g++ -save-temps -o CMakeFiles/ccls_test.dir/main.cpp.o -c /home/lokfry/Projects/ccls_test/main.cpp -working-directory=/home/lokfry/Projects/ccls_test"
+  },
+  {
+    "rank": 9,
+    "id": "msg_f5bbc26cb349d3f67ba0aef617d3bab0be271bc38a20f16722406d5025b8cea6",
+    "score": 20.482716,
+    "link": "https://github.com/MaskRay/ccls/issues/614",
+    "source": "github",
+    "origin_doc_id": "7de0a1707809c700e8164fff04052cf881cea8d25988653718678370de4303b5",
+    "snippet": "16:20:30 indexer1         pipeline.cc:340 I parse /home/lokfry/Projects/ccls_test/main.cpp\n  /usr/local/bin/clang++ --driver-mode=g++ -save-temps -o CMakeFiles/ccls_test.dir/main.cpp.o -c /home/lokfry/Projects/ccls_test/main.cpp -working-directory=/home/lokfry/Projects/ccls_test"
+  },
+  {
+    "rank": 10,
+    "id": "msg_cb3f25edcfea6b9a21f7d8986b5004b2b7f68716daf66689b2bcf6b17d6706e9",
+    "score": 20.417768,
+    "link": "https://stackoverflow.com/questions/16612208",
+    "source": "so",
+    "origin_doc_id": "72a3d5dca1e052aa33f74f2db800062fdccc7242c8c3ae0d51799247473aaec1",
+    "snippet": "console.log(temps);\nconsole.log(temps);"
+  }
+]

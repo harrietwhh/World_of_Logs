@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_61e0293eb310137d4a3504ca81df2520f5a90905b55765fbffa795fb52a0a5c3",
+    "score": 36.868378,
+    "link": "https://stackoverflow.com/questions/33150424",
+    "source": "so",
+    "origin_doc_id": "c968a19fb2b97563601992e44e28e22ee28c99d3691cb2e746eea3b56d3d3dcf",
+    "snippet": "+ \" - \" + methods[idx].getName() + \" - \");\n\n \" + methods[idx] + \" declared by \" + methods[idx].getDeclaringClass());"
+  },
+  {
+    "rank": 2,
+    "id": "msg_9ae60b16fa168d78a92acd647331842572225250e18e5f564ff803b3e2e6d90e",
+    "score": 33.865955,
+    "link": "https://stackoverflow.com/questions/33150424",
+    "source": "so",
+    "origin_doc_id": "c968a19fb2b97563601992e44e28e22ee28c99d3691cb2e746eea3b56d3d3dcf",
+    "snippet": "System.out.println(\"1 -> \" + list.get(i));\n(Log.DEBUG, \"Dual\", methods[idx] + \" declared by \" + methods[idx].getDeclaringClass() + \" \n \");"
+  },
+  {
+    "rank": 3,
+    "id": "msg_97dd0a9c137612d4249a682309a4b220688ca8c7cab12a85711b9ae3d4c92158",
+    "score": 32.861584,
+    "link": "https://stackoverflow.com/questions/25234128",
+    "source": "so",
+    "origin_doc_id": "3f0303a89e0e2ad8326bf539cf5c3ba032bcfa1650090146e50578ec4d743bb0",
+    "snippet": "LOG.error(\"Generic parameter type: \"+type.getClass().getName());\nLOG.error(\"Constructor has \"+parameterTypes.length+\" parameters\");"
+  },
+  {
+    "rank": 4,
+    "id": "msg_24b32a3dfb94a989204419f1375102be00a46643eda0ab21af9130f05f38b179",
+    "score": 29.507631,
+    "link": "https://stackoverflow.com/questions/46239879",
+    "source": "so",
+    "origin_doc_id": "6055b0ca09d5c3fb03b979fd1093a91eb4adc4567edab371b42b05108dca13ee",
+    "snippet": "log.debug( \"Lock '\" + lockName + \"' is being obtained: \" + Thread.currentThread().getName());\nid=60 idx=0x104 tid=21586 prio=5 alive,"
+  },
+  {
+    "rank": 5,
+    "id": "msg_8f3160b747b4196ccd299b220d5766e013193324b575e09e0bec47f3d7c4e630",
+    "score": 27.983864,
+    "link": "https://stackoverflow.com/questions/17437844",
+    "source": "so",
+    "origin_doc_id": "d1fc26d2bb5d7a3f587230df103591c7d48ed83150656f90ad358716e9e9b9c4",
+    "snippet": "log.debug(sm.getString(\"deltaManager.createMessage.delta\", getName(), sessionId));\nlog.debug(sm.getString(\"deltaManager.createMessage.access\", getName(), sessionId));\nlog.error(sm.getString(\"deltaManager.createMessage.unableCreateDeltaRequest\", sessionId), x);\nlog.debug(sm.getString(\"deltaManager.receiveMessage.eventType\", getName(), msg.getEventTypeString(), sender));\nlog.error(sm.getString(\"deltaManager.receiveMessage.error\", getName()), x);\ngetName(), sender.getHost(), new\ngetName(), msg.getSessionID()));\nlog.debug(sm.getString(\"deltaManager.receiveMessage.createNewSession\", getName(), msg.getSessionID()));\ngetName()));\nlog.debug(sm.getString(\"deltaManager.receiveMessage.allSessionDataAfter\", getName()));\nlog.debug(sm.getString(\"deltaManager.receiveMessage.unloadingBegin\", getName()));\nlog.debug(sm.getString(\"deltaManager.createMessage.allSessionTransfered\", getName()));\nlog.debug(sm.getString(\"deltaManager.receiveMessage.unloadingAfter\", getName()));"
+  },
+  {
+    "rank": 6,
+    "id": "msg_f566f5cfccd45e6d20a0c3dfe8b664e027193526e859aca5a63af5b64ec23c4c",
+    "score": 27.520685,
+    "link": "https://github.com/OHDSI/Cyclops/issues/16",
+    "source": "github",
+    "origin_doc_id": "2ddb1f670dbe3b96679766f32fc8fffc209800f35f86fce531ea173eab6d6af8",
+    "snippet": "Loading required package: methods\nError: logLik(cyclopsFit) not equal to logLik(gold.clogit) \n Attributes: < Length mismatch: comparison on first 2 components > \n Execution halted \n ``` \n cross_val_weightsv2 \n ```R \n Loading required package: methods \n [1] \"* print(logLik(cyclopsFit))\" \nError: logLik(cyclopsFit) not equal to logLik(gold.clogit) \n Attributes: < Length mismatch: comparison on first 2 components > \n Execution halted"
+  },
+  {
+    "rank": 7,
+    "id": "msg_7838cbf6b2d6822b85385102119bf47a5fbc6eb5ad42d45a8fa48790058f1ff4",
+    "score": 27.049633,
+    "link": "https://stackoverflow.com/questions/59058791",
+    "source": "so",
+    "origin_doc_id": "251d7335223a98a205ff945bd60f9c7cd47a9f7a188bf11c152213d455a19858",
+    "snippet": "log(Log.DEBUG, TAG, \"downloadAndSaveData Thread.currentThread().getName() \" + Thread.currentThread().getName());\nlog(Log.DEBUG, TAG, \"onSaveFileToDisk Thread.currentThread().getName() \" + Thread.currentThread().getName());\nlog(Log.DEBUG, TAG, \"call Thread.currentThread().getName() \" + Thread.currentThread().getName());\nlog(Log.DEBUG, TAG, \"File download concluded, saving file from url \" + \n                         responseBodyResponse.raw().request().url().toString() + \" to disk\");\nlog(Log.DEBUG, TAG, \"Thread.currentThread().getName() \" + Thread.currentThread().getName());\nlog(Log.DEBUG, TAG, \"downloadResult Thread.currentThread().getName() \" + Thread.currentThread().getName());"
+  },
+  {
+    "rank": 8,
+    "id": "msg_1b6a0f6c77d57f2c4c8e605addea360b1e1a5b347f3298c53f42ce38b944ac86",
+    "score": 26.93906,
+    "link": "https://stackoverflow.com/questions/70464734",
+    "source": "so",
+    "origin_doc_id": "4dc17d299553372869bd77943eeae790aa8af3c99732abfe9b2b34d55463f47e",
+    "snippet": "Multiple entries with same key: org.apache.logging.log4j.core.util.SystemClock=DeclaredClass{className=org.apache.logging.log4j.core.util.SystemClock, parents=[org.apache.logging.log4j.core.util.Clock, java.lang.Object], methods={MethodDescriptor{returnType=void, name=<init>, parameterTypes=[]}=DeclaredMethod{descriptor=MethodDescriptor{returnType=void, name=<init>, parameterTypes=[]}, methodCalls=[CalledMethod{owner=java.lang.Object, descriptor=MethodDescriptor{returnType=void, name=<init>, parameterTypes=[]}, lineNumber=22}], fieldAccesses=[]}, MethodDescriptor{returnType=long, name=currentTimeMillis, parameterTypes=[]}=DeclaredMethod{descriptor=MethodDescriptor{returnType=long, name=currentTimeMillis, parameterTypes=[]}, methodCalls=[CalledMethod{owner=java.lang.System, descriptor=MethodDescriptor{returnType=long, name=currentTimeMillis, parameterTypes=[]}, lineNumber=30}], fieldAccesses=[]}}, fields=[]} and org.apache.logging.log4j.core.util.SystemClock=DeclaredClass{className=org.apache.logging.log4j.core.util.SystemClock, parents=[org.apache.logging.log4j.core.time.PreciseClock, org.apache.logging.log4j.core.util.Clock, java.lang.Object], methods={MethodDescriptor{returnType=void, name=<init>, parameterTypes=[]}=DeclaredMethod{descriptor=MethodDescriptor{returnType=void, name=<init>, parameterTypes=[]}, methodCalls=[CalledMethod{owner=java.lang.Object,"
+  },
+  {
+    "rank": 9,
+    "id": "msg_b71c9c4cd9371c1d19b68b3e35dc2e9760c5f3f2e901bbae88eff8b9d9ca9c35",
+    "score": 26.926378,
+    "link": "https://stackoverflow.com/questions/48356315",
+    "source": "so",
+    "origin_doc_id": "108efe9720049c973b584995c1757194bd5ca1d41b4274cb65d13efd0125e648",
+    "snippet": "LOG.debug(\"Response body \"+Thread.currentThread().getName());\nLOG.debug(\"getInfoAboutUser \"+Thread.currentThread().getName());\nLOG.debug(\" executor thread\");\nLOG.debug(\"Result \"+Thread.currentThread().getName());"
+  },
+  {
+    "rank": 10,
+    "id": "msg_900ee6dbbed6862f05d02483462efc8fe91201a4f459f03b9c22cbc2d1c830d4",
+    "score": 26.909609,
+    "link": "https://github.com/smallrye/smallrye-mutiny/issues/186",
+    "source": "github",
+    "origin_doc_id": "1ba9e1b5b877e7358ac9c98a24f9d7c80665c20a3dff9bb9e764540c08933bb2",
+    "snippet": "log.debug(\"requestfailure: \" + failure.getClass().getName());\nlog.debug(\"unkonwfailure: \" + failure.getClass().getName());\nlog.debug(\"responsefailure: \"+failure.getClass().getName());"
+  }
+]

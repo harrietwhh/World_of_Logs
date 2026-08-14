@@ -1,0 +1,28 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Built-in string formatting vs string concatenation as logging ...",
+    "link": "https://stackoverflow.com/questions/42388341/built-in-string-formatting-vs-string-concatenation-as-logging-parameter",
+    "displayed_link": "4 answers · 9 years ago",
+    "snippet": "The built-in string formatting should be used instead of string concatenation, and if the message is the result of a method call, then Preconditions should be ...",
+    "snippet_highlighted_words": [
+      "string concatenation"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "datax源码解析-JobContainer的初始化阶段解析",
+    "link": "https://cloud.tencent.com/developer/article/1921156",
+    "displayed_link": "https://cloud.tencent.com › article",
+    "snippet": "本文解析DataX 3.0源码中JobContainer初始化阶段，涵盖preHandle、init、prepare三部分。init对reader和writer初始化，含插件加载与配置检查；prepare ...",
+    "snippet_highlighted_words": [],
+    "source": "腾讯云",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

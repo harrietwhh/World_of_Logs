@@ -1,0 +1,181 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "FileOutputCommitter (Apache Hadoop Main 2.6.1 API)",
+    "link": "https://hadoop.apache.org/docs/r2.6.1/api/org/apache/hadoop/mapreduce/lib/output/FileOutputCommitter.html",
+    "displayed_link": "https://hadoop.apache.org › mapreduce › lib › output",
+    "snippet": "An OutputCommitter that commits files specified in job output directory i.e. ${mapreduce.output.fileoutputformat.outputdir}. Field Summary. Fields ...",
+    "snippet_highlighted_words": [
+      "OutputCommitter",
+      "output",
+      "mapreduce",
+      "output",
+      "fileoutputformat",
+      "outputdir"
+    ],
+    "source": "Apache Hadoop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Package org.apache.hadoop.mapreduce.lib.output",
+    "link": "https://hadoop.apache.org/docs/stable/api/org/apache/hadoop/mapreduce/lib/output/package-summary.html",
+    "displayed_link": "https://hadoop.apache.org › output › package-summary",
+    "snippet": "An OutputCommitter that commits files specified in job output directory i.e.. FileOutputFormat<K,V>. A base class for OutputFormat s that read from FileSystem s ...",
+    "snippet_highlighted_words": [
+      "An OutputCommitter that commits files specified in job output directory"
+    ],
+    "source": "Apache Hadoop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "FileOutputCommitter.java - apache/hadoop",
+    "link": "https://github.com/apache/hadoop/blob/trunk/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java/org/apache/hadoop/mapreduce/lib/output/FileOutputCommitter.java",
+    "displayed_link": "https://github.com › hadoop › mapreduce › lib › output",
+    "snippet": "*/ package org.apache.hadoop.mapreduce.lib.output; import java.io ... import org.apache.hadoop.mapreduce.OutputCommitter;. import org.apache.hadoop ...",
+    "snippet_highlighted_words": [
+      "org",
+      "apache",
+      "hadoop",
+      "mapreduce",
+      "lib",
+      "output",
+      "org",
+      "apache",
+      "hadoop",
+      "mapreduce",
+      "OutputCommitter",
+      "org",
+      "apache",
+      "hadoop"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Spark magic output committer settings not recognized",
+    "link": "https://stackoverflow.com/questions/70504376/spark-magic-output-committer-settings-not-recognized",
+    "displayed_link": "2 answers · 4 years ago",
+    "snippet": "I'm trying to play around with different Spark output committer settings for s3, and wanted to try out the magic committer. So far I didn't manage to get my ...",
+    "snippet_highlighted_words": [
+      "output committer"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "FileOutputCommitter (Apache Hadoop Main 3.4.2 API)",
+    "link": "https://hadoop.apache.org/docs/r3.4.2/api/org/apache/hadoop/mapreduce/lib/output/FileOutputCommitter.html",
+    "displayed_link": "https://hadoop.apache.org › mapreduce › lib › output",
+    "snippet": "An OutputCommitter that commits files specified in job output directory i.e. ${mapreduce.output.fileoutputformat.outputdir}. Field Summary. Fields ...",
+    "snippet_highlighted_words": [
+      "OutputCommitter",
+      "output",
+      "mapreduce",
+      "output",
+      "fileoutputformat",
+      "outputdir"
+    ],
+    "source": "Apache Hadoop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Run Spark jobs with DataprocFileOutputCommitter",
+    "link": "https://docs.cloud.google.com/dataproc/docs/guides/dataproc-fileoutput-committer",
+    "displayed_link": "https://docs.cloud.google.com › dataproc › docs › guides",
+    "snippet": "The DataprocFileOutputCommitter feature is an enhanced version of the open source FileOutputCommitter . It enables concurrent writes by Apache Spark jobs to ...",
+    "snippet_highlighted_words": [
+      "DataprocFileOutputCommitter",
+      "FileOutputCommitter",
+      "Apache"
+    ],
+    "source": "Google Cloud Documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "org.apache.hadoop.mapreduce.lib.output.committer. ...",
+    "link": "https://community.getorchestra.io/apache-foundation/apache-hadoop-org-apache-hadoop-mapreduce-lib-output-committer-manifest-files/",
+    "displayed_link": "https://community.getorchestra.io › apache-foundation",
+    "snippet": "Traditional output committers included with Hadoop, like FileOutputCommitter , handle job outputs in a way that can be susceptible to issues ...",
+    "snippet_highlighted_words": [
+      "output",
+      "Hadoop",
+      "FileOutputCommitter",
+      "outputs"
+    ],
+    "source": "Get Orchestra",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Uses of Class org.apache.hadoop.mapreduce.OutputCommitter",
+    "link": "https://hadoop.apache.org/docs/r3.4.2/api/org/apache/hadoop/mapreduce/class-use/OutputCommitter.html",
+    "displayed_link": "https://hadoop.apache.org › org › mapreduce › class-use",
+    "snippet": "Support for committing the output of analytics jobs directly to S3. org.apache.hadoop.fs.s3a.commit.magic. This is the \"Magic\" committer and support.",
+    "snippet_highlighted_words": [
+      "output",
+      "org",
+      "apache",
+      "hadoop"
+    ],
+    "source": "Apache Hadoop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Package org.apache.hadoop.mapreduce.lib.output",
+    "link": "https://hadoop.apache.org/docs/r3.5.0/api/org/apache/hadoop/mapreduce/lib/output/package-summary.html",
+    "displayed_link": "https://hadoop.apache.org › output › package-summary",
+    "snippet": "FileOutputCommitter. An OutputCommitter that commits files specified in job output directory i.e.. org.apache.hadoop.mapreduce.lib.output.",
+    "snippet_highlighted_words": [
+      "FileOutputCommitter",
+      "OutputCommitter",
+      "output",
+      "org",
+      "apache",
+      "hadoop",
+      "mapreduce",
+      "lib",
+      "output"
+    ],
+    "source": "Apache Hadoop",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "org.apache.hadoop.mapred.DirectFileOutputCommitter.java",
+    "link": "https://gist.github.com/apivovarov/bb215f08318318570567",
+    "displayed_link": "https://gist.github.com › apivovarov",
+    "snippet": "* simply writes directly to the final location. *. * The FileOutputCommitter is required for HDFS + speculation, which allows only one writer at. * a time for ...",
+    "snippet_highlighted_words": [
+      "FileOutputCommitter"
+    ],
+    "source": "Gist",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

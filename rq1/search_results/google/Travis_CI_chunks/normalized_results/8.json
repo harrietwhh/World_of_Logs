@@ -1,0 +1,147 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "how to fix 'AssertionError: expected false to be truthy' error?",
+    "link": "https://stackoverflow.com/questions/55344328/how-to-fix-assertionerror-expected-false-to-be-truthy-error",
+    "displayed_link": "1 answer · 7 years ago",
+    "snippet": "I am beginner on E2E Tests and I want to make a e2e signup to a github account test with TestCafe, but I get this error when runing test.",
+    "snippet_highlighted_words": [
+      "Tests",
+      "test",
+      "error",
+      "test"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "bug(DatePicker): Date Range validation error #27170",
+    "link": "https://github.com/angular/components/issues/27170",
+    "displayed_link": "https://github.com › angular › components › issues",
+    "snippet": "Is this a regression? Yes, this behavior used to work in the previous version The previous version in which this bug was not present was No ...",
+    "snippet_highlighted_words": [],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Junit Assertion Error - Getting error even though Expected ...",
+    "link": "https://www.reddit.com/r/javahelp/comments/xmmatz/junit_assertion_error_getting_error_even_though/",
+    "displayed_link": "9 comments · 3 years ago",
+    "snippet": "It seems in the test cases they are directly checking the reference variable instead of checking elements inside.",
+    "snippet_highlighted_words": [
+      "test"
+    ],
+    "source": "Reddit · r/javahelp",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "What does this AssertionError mean in the context of my ...",
+    "link": "https://forum.freecodecamp.org/t/what-does-this-assertionerror-mean-in-the-context-of-my-code-fail-test-arrangement-test-module-unittests/458669",
+    "displayed_link": "https://forum.freecodecamp.org › what-does-this-asserti...",
+    "snippet": "I'm working on an arithmetic arranger problem. The program arranges and returns the problem as shown below in the console output.",
+    "snippet_highlighted_words": [],
+    "source": "The freeCodeCamp Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Failing assertion message does not make sense with ...",
+    "link": "https://github.com/fluentassertions/fluentassertions/issues/694",
+    "displayed_link": "https://github.com › fluentassertions › issues",
+    "snippet": "I have a test where comparing two dates results in a failed assertion with following message: Xunit.Sdk.XunitException: Expected <2017-11-23 ...",
+    "snippet_highlighted_words": [
+      "test",
+      "dates",
+      "failed assertion",
+      "Expected"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "UI Bootstrap",
+    "link": "https://angular-ui.github.io/bootstrap/versioned-docs/1.0.0/",
+    "displayed_link": "https://angular-ui.github.io › bootstrap › versioned-docs",
+    "snippet": "If the date a user enters falls outside of the min-/max-date range, a dateDisabled validation error will show on the form. Edit in plunker. Markup. JavaScript.",
+    "snippet_highlighted_words": [
+      "date",
+      "date range",
+      "error"
+    ],
+    "source": "AngularUI",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "undergraduate college catalog",
+    "link": "https://www.peirce.edu/content/pdf/catalogs/025-14_catalog_final_120414.pdf",
+    "displayed_link": "https://www.peirce.edu › content › pdf › catalogs",
+    "snippet": "successfully test out of the course, the fee will be credited toward future tuition charges at Peirce. College within one calendar year from date of test out.",
+    "snippet_highlighted_words": [
+      "test",
+      "from date",
+      "test"
+    ],
+    "source": "Peirce.edu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Arizona Administrative Code 1974, Title 04",
+    "link": "https://azmemory.azlibrary.gov/nodes/view/203698?keywords=Master+list+of+state+government+programs&type=all&highlights=WyJNYXN0ZXIiLCJsaXN0Iiwib2YiLCJzdGF0ZSIsImdvdmVybm1lbnQiLCJwcm9ncmFtcyJd",
+    "displayed_link": "https://azmemory.azlibrary.gov › nodes › view",
+    "snippet": "The Arizona Memory Project is celebrating its 20th Anniversary in 2026! Join us for a free, virtual event that will provide a history of AMP and include ...",
+    "snippet_highlighted_words": [
+      "for"
+    ],
+    "source": "Arizona Memory Project (.gov)",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Robust Client-Side JavaScript – A Developer's Guide - molily",
+    "link": "https://molily.de/robust-javascript/",
+    "displayed_link": "https://molily.de › robust-javascript",
+    "snippet": "In this guide, we will investigate why JavaScript might fail and how to prevent or handle these errors in a graceful way that ensures a working website.",
+    "snippet_highlighted_words": [
+      "fail",
+      "prevent"
+    ],
+    "source": "molily.de",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "HANDBOOK",
+    "link": "https://www.bitsavers.org/pdf/dec/handbooks/Digital_Logic_Handbook_1969.pdf",
+    "displayed_link": "https://www.bitsavers.org › pdf › dec › handbooks",
+    "snippet": "This fifth edition of the Logic Handbook is your guide to the most extensive array of logic capabilities, hardware and applications information ever offered.",
+    "snippet_highlighted_words": [],
+    "source": "Bitsavers",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

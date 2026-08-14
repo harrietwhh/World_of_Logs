@@ -1,0 +1,25 @@
+{
+  "mode": "csv_case",
+  "case_id": "52",
+  "query_source": "group_logs",
+  "query_count": 5,
+  "queries": [
+    "node status 1079615340 0 configured out",
+    "node status 1079615336 0 not responding",
+    "node status 1079615340 1 configured out",
+    "domain status 1079615340 1 inconsistent nodesets node-127 0x1fffffffe <ok> node-97 0x0000000e <ok> node-96 0x0000000e <ok> node-98 0x0000000e <ok>",
+    "domain status 1079615340 1 inconsistent nodesets node-95 0x1fffffffe <ok> node-64 0x0000000e <ok> node-65 0x0000000e <ok> node-66 0x0000000e <ok>"
+  ],
+  "log_message": "",
+  "cases_csv": "data/HPC.csv",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 35,
+  "retrieved_candidate_count": 35,
+  "output_dir": "hpc_intermediate_group_logs/case_52_group_logs",
+  "generated_at_utc": "2026-03-23T01:17:19.570411+00:00"
+}

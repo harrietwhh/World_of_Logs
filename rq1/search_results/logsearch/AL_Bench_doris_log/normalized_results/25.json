@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_20c49eb33c2a1efeb1a6444cbbc14a6c866ee3d652124366bb2d1b237698a0ce",
+    "score": 24.099743,
+    "link": "https://stackoverflow.com/questions/54357806",
+    "source": "so",
+    "origin_doc_id": "8958bed31d1a65996bc1b81cd4dc93bfb878e0357dc29662d8f4a7bc6304ec78",
+    "snippet": "log.error(\"init sqlSessionFactory failed.\", e); \nAPPLICATION FAILED TO START"
+  },
+  {
+    "rank": 2,
+    "id": "msg_027fd7fcd7441ce372716cb37ebfa8d569b2b637f0f982cb5e990942a08b141d",
+    "score": 23.999926,
+    "link": "https://issues.apache.org/jira/browse/YARN-1405",
+    "source": "jira",
+    "origin_doc_id": "7dbad496192d4c0c92c00f1e750d0e0d8108a89368e53bcd5b2e37de47c9e150",
+    "snippet": "LOG.error(\"Failed to init state store\", e);"
+  },
+  {
+    "rank": 3,
+    "id": "msg_821fe45bda1b66d964a97f98f9be705694f29f77bd3ac1ccfe0d3b7a5d4c8fec",
+    "score": 23.666935,
+    "link": "https://stackoverflow.com/questions/4244350",
+    "source": "so",
+    "origin_doc_id": "d0a61460981e59b7aeb0d0e9a6247b81b548bb14890c419017c95601f3f1930e",
+    "snippet": "log.warn(\"Failed connection to \" +  \nlog.warn(\"pvCheck had an exception\", e);\nLOG.error(\"Failed in thrift init\", e);\nLOG.error(\"Failed in thrift init\", e);\nLOG.info(\"Starting Dumbo Payment thrift server on \" +  \n             listenAddress + \":\" + Integer.toString(port));"
+  },
+  {
+    "rank": 4,
+    "id": "msg_fe0c83fc563344ed7ced4652c6df50484ef88768a6941f28c2d25ca1bbc72a97",
+    "score": 23.39178,
+    "link": "https://github.com/microsoftgraph/msgraph-sdk-java/issues/718",
+    "source": "github",
+    "origin_doc_id": "cf55d11e0585257fec88fc692c3d8137e4bbb8492c9e70b7a5bb13b91db895ac",
+    "snippet": "\"message\": \"Access token is empty.\", \n ```\nLOG.error(\"Failed to load truststore file\", e);\nLOG.error(\"Unable to init TrustManager and sslContext, querying outside of the proxy will most likely fail.\");\nLOG.error(\"Failed to connect: {},{}\", uri, sa, ioe);"
+  },
+  {
+    "rank": 5,
+    "id": "msg_ab4bddf2e3b34de1f1f8b440f43d4b7b60ed38762e7d129e3f8a0dfaa54f876d",
+    "score": 22.219023,
+    "link": "https://github.com/schemahero/schemahero/pull/260",
+    "source": "github",
+    "origin_doc_id": "ea8ecb50b09b441d268910eb6701e3d2046073139a73188e044bb3e44a1e97a8",
+    "snippet": "table reconciler is not implemented\")) \n +\t\tlogger.Error(fmt.Errorf(\"updating database reconciler StatefulSet %s:%s is not implemented\", databaseInstance.Namespace, statefulsetName))"
+  },
+  {
+    "rank": 6,
+    "id": "msg_c5371f9ec6def9f35c5629b98c580ea2cb4dc848ed52bdf81428b234bac5527b",
+    "score": 22.087076,
+    "link": "https://stackoverflow.com/questions/48908309",
+    "source": "so",
+    "origin_doc_id": "1ab24355df1f3e4800f07d4b023134a3e3b8a991ce5f277027462df6fd3f6867",
+    "snippet": "LOG.info(\"inside init\");\nLOG.error(\"Failed to load kiesession:\", e);\nLOG.info(\"Loading rule file \" + file);"
+  },
+  {
+    "rank": 7,
+    "id": "msg_8cb54592c4835a9b0ad6654f00aad16b6ba6657eb495f9fbae7ba7665b0c95bf",
+    "score": 21.912943,
+    "link": "https://github.com/nodegit/nodegit/issues/560",
+    "source": "github",
+    "origin_doc_id": "64343ccbbda4545569e2a27104e5f3ca06b5382e30fdca098b1cae0fce958c9d",
+    "snippet": "log.error(\"submodule init failed \"+ e);"
+  },
+  {
+    "rank": 8,
+    "id": "msg_159188bfc5b6c38585f8aba6c2e54e828fbdfb9e31a0aae05e1bdbda4ce5d55c",
+    "score": 21.912943,
+    "link": "https://github.com/minio/minio-java/issues/847",
+    "source": "github",
+    "origin_doc_id": "ced36ae9172d74e4047c72364bf5cc478b441b991441c04c6779ba6811e96828",
+    "snippet": "log.error(\"Minio init failed.\", e);"
+  },
+  {
+    "rank": 9,
+    "id": "msg_8c111803e64832c780583c31642e81435410cc8ea610c6ee761adef0ab0afcf8",
+    "score": 21.638437,
+    "link": "https://stackoverflow.com/questions/72363886",
+    "source": "so",
+    "origin_doc_id": "c06ab82f2064abce6f5f1377ac0201ab4becce9616628be4a3e60f07b15c756c",
+    "snippet": "Log.error(\"Failed init for appointment \\(rowModel)\")"
+  },
+  {
+    "rank": 10,
+    "id": "msg_370700240b0c0494e6c89c02318deacdab84c346f5995319458192d38c7d053c",
+    "score": 21.071663,
+    "link": "https://github.com/skupperproject/skupper-cli/issues/35",
+    "source": "github",
+    "origin_doc_id": "6955234e20e7a4661a0e50d2c17d22a014a546d74b8afbf559eb7885b7a82d1f",
+    "snippet": "deployment/xx \n Error: expose target must be specified (e.g. 'skupper expose deployment <name>' \n Usage: \n   skupper expose [deployment <name>|pods <selector>|statefulset <statefulsetname>] [flags]"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_7bb25dad6d04e660ac938104da3f553c349eb89bb1ba9aba96782701d3a879e5",
+    "score": 135.27219,
+    "link": "https://github.com/sto/ngx_http_auth_pam_module/issues/16",
+    "source": "github",
+    "origin_doc_id": "b816256ef7ba267d8b22168714457b8f323d6f2f5a8c5ea3d22e7dbf704cec0e",
+    "snippet": "Feb  8 09:33:06 hostname sshd[14194]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=X.X.X.X  user=root"
+  },
+  {
+    "rank": 2,
+    "id": "msg_a2261758f142db603f8c089b26c314f96dff2bc216fa913fe7aa09d485332a71",
+    "score": 135.27219,
+    "link": "https://stackoverflow.com/questions/59955852",
+    "source": "so",
+    "origin_doc_id": "e26bf1792d889377a197dc39453569416db90894bdc3f0650b32dee55c516c0d",
+    "snippet": "Jan 03 12:36:19 nix02 sshd[17643]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.9.28  user=root"
+  },
+  {
+    "rank": 3,
+    "id": "msg_7f1fce234f50f78b0d0004f997a98c122868e3f82970a1097259cbf75d09daf4",
+    "score": 133.93036,
+    "link": "https://stackoverflow.com/questions/9570804",
+    "source": "so",
+    "origin_doc_id": "7248e991019734b4f61b450d5eafbb55680b98e4293e9d24e06abe880705236a",
+    "snippet": "Jan 10 09:32:07 j4-be03 sshd[3876]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=218.241.173.35  user=root"
+  },
+  {
+    "rank": 4,
+    "id": "msg_99df27303e37f465b45692f381264dde0aa286b60cde1316da25fe95987caad3",
+    "score": 132.45728,
+    "link": "https://stackoverflow.com/questions/31246845",
+    "source": "so",
+    "origin_doc_id": "34a368f6cc967745b26642a1e7d7e0e8cfb058902377de2d3d86e61fd5476334",
+    "snippet": "debug2: input_userauth_request: try method none [preauth] \n  ... \n  pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.98.106  user=admin"
+  },
+  {
+    "rank": 5,
+    "id": "msg_11a8f5a0e6244e6b11b4cf9fc25dc01f2c2f229958e11e092863935f3da7e6f8",
+    "score": 130.0194,
+    "link": "https://stackoverflow.com/questions/62682855",
+    "source": "so",
+    "origin_doc_id": "733eacefe02340c4343017b71a2ee8285f6d2e3e29849dae4254dd02586d1a01",
+    "snippet": "[\"Apr 22 18:53:46 <hostname> sshd[****]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=XXX.XX.XX.XXX\", \"Apr 22 18:53:48 <hostname> sshd[****]: Failed password for invalid user pengjing from XXX.XX.XX.XXX port **** ssh2\", \"Apr 22 18:55:14 <hostname> sshd[****]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=XXX.XX.XX.XXX\", \"Apr 22 18:55:15 <hostname> sshd[****]: Failed password for invalid user git from XXX.XX.XX.XXX port **** ssh2\", \"Apr 22 18:56:42 <hostname> sshd[****]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=XXX.XX.XX.XXX\", \"Apr 22 18:56:44 <hostname> sshd[****]: Failed password for invalid user test from XXX.XX.XX.XXX port **** ssh2\", \"Apr 22 18:58:14 <hostname> sshd[****]: Failed password for root from XXX.XX.XX.XXX port **** ssh2\", \"Apr 22 18:59:44 <hostname> sshd[****]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=XXX.XX.XX.XXX\", \"Apr 22 18:59:46 <hostname> sshd[****]: Failed password for invalid"
+  },
+  {
+    "rank": 6,
+    "id": "msg_6cfd34e96f7dc5d878a487b800a43484ecb663aec67e8f3b3b1d60d216285f6e",
+    "score": 129.79486,
+    "link": "https://stackoverflow.com/questions/61721025",
+    "source": "so",
+    "origin_doc_id": "adcf41b503d579e53163da5929949150852c9e19f3c90f1a37f8267d27187167",
+    "snippet": "Authentication:  \n  May 11 00:25:29 SERVER sshd[28119]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=x.x.x.x  user=USERNAME \n  Sudo:  \n  May 11 01:33:14 SERVER sudo: pam_unix(sudo:auth): authentication failure; logname=USER_NAME uid=2005125 euid=0 tty=/dev/pts/2 ruser=USER_NAME rhost=  user=USER_NAME \n  Configuration  \n  /etc/samba/smb.conf:"
+  },
+  {
+    "rank": 7,
+    "id": "msg_7fbca570c9f2c619b83aaa885fc6bf2f870b8a22f2fd44bebed9c8eb48da32d2",
+    "score": 128.51826,
+    "link": "https://stackoverflow.com/questions/31246845",
+    "source": "so",
+    "origin_doc_id": "34a368f6cc967745b26642a1e7d7e0e8cfb058902377de2d3d86e61fd5476334",
+    "snippet": "Jul  6 13:00:05 orbit-32 sshd[11517]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.98.106  user=admin"
+  },
+  {
+    "rank": 8,
+    "id": "msg_efa8f1b6c2c1973fbbc0035791606650e8f8df84fcb49e939476de5fbf38a5da",
+    "score": 127.60235,
+    "link": "https://stackoverflow.com/questions/33451402",
+    "source": "so",
+    "origin_doc_id": "6a941b62479fe35585fe5d40db528627799ebc29626fccadf2994b0d319da010",
+    "snippet": "Oct 31 07:52:41 logserver sshd[17041]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=localhost"
+  },
+  {
+    "rank": 9,
+    "id": "msg_bcec8842b11ce7ee7364f9285dc22edecd9040ae6df6968824ad971f12fbc0df",
+    "score": 127.56526,
+    "link": "https://stackoverflow.com/questions/9635128",
+    "source": "so",
+    "origin_doc_id": "d993eeb713bcdb373291572f3a8dd69b283b0b72289b25e5fe7fa3a506fbbd48",
+    "snippet": "Jan 10 09:32:07 j4-be03 sshd[3876]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=218.241.173.35  user=root \n Jan 10 09:32:09 j4-be03 sshd[3876]: Failed password for root from 218.241.173.35 port 47084 ssh2 \nJan 10 09:32:17 j4-be03 sshd[3879]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=218.241.173.35  user=root \n Jan 10 09:32:19 j4-be03 sshd[3879]: Failed password for root from 218.241.173.35 port 47901 ssh2    \n Jan 10 09:32:26 j4-be03 sshd[3881]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=218.241.173.35  user=root \n Jan 10 09:32:29 j4-be03 sshd[3881]: Failed password for root from 218.241.173.35 port 48652 ssh2"
+  },
+  {
+    "rank": 10,
+    "id": "msg_3fbdbb15d0ab6ec082d5d2abbfbfc8465c708ffc9992db2c223e45e03896e56c",
+    "score": 127.56526,
+    "link": "https://stackoverflow.com/questions/9651322",
+    "source": "so",
+    "origin_doc_id": "8054b21453f817e8b63fc0f186767595564aa853f7f3c0c99214cd9852390169",
+    "snippet": "Jan 10 09:32:07 j4-be03 sshd[3876]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=218.241.173.35  user=root \n Jan 10 09:32:09 j4-be03 sshd[3876]: Failed password for root from 218.241.173.35 port 47084 ssh2 \n Jan 10 09:32:17 j4-be03 sshd[3879]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=218.241.173.35  user=root \n Jan 10 09:32:19 j4-be03 sshd[3879]: Failed password for root from 218.241.173.35 port 47901 ssh2 \n Jan 10 09:32:26 j4-be03 sshd[3881]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=218.241.173.35  user=root \n Jan 10 09:32:29 j4-be03 sshd[3881]: Failed password for root from 218.241.173.35 port 48652 ssh2"
+  }
+]

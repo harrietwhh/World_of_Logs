@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "How do I resolve this “localhost unexpectedly closed the ...",
+    "link": "https://stackoverflow.com/questions/36818112/how-do-i-resolve-this-localhost-unexpectedly-closed-the-connection-error",
+    "displayed_link": "3 answers · 9 years ago",
+    "snippet": "I receive the following error message: This site can't be reached localhost unexpectedly closed the connection. ERR_CONNECTION_CLOSED",
+    "snippet_highlighted_words": [
+      "localhost unexpectedly closed the connection"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "How To Fix “ERR_CONNECTION_CLOSED” in Chrome",
+    "link": "https://www.youtube.com/watch?v=G-zYPXQH5jA",
+    "displayed_link": "67.1K+ views · 3 years ago",
+    "snippet": "In this video I'm going to take you through 13 troubleshooting steps that you can implement to fix this issue.",
+    "snippet_highlighted_words": [],
+    "source": "YouTube · Kinsta",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Computer disconnects from local servers intermittently",
+    "link": "https://www.reddit.com/r/linuxmint/comments/z6e4th/computer_disconnects_from_local_servers/",
+    "displayed_link": "3 comments · 3 years ago",
+    "snippet": "Only way to fix this once it's happened is to restart the desktop. Since it happens with zpools hosted on ubuntu and mint operating systems, and ...",
+    "snippet_highlighted_words": [
+      "restart the desktop"
+    ],
+    "source": "Reddit · r/linuxmint",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "ssh - SSHD: Difference between \"connection closed...\" and ...",
+    "link": "https://serverfault.com/questions/1093505/sshd-difference-between-connection-closed-and-disconnected-from-in-lo",
+    "displayed_link": "https://serverfault.com › questions › sshd-difference-bet...",
+    "snippet": "The messages: Disconnected from invalid user Connection closed by invalid user both indicate a failed login attempt with a username that doesn't exist on your ...",
+    "snippet_highlighted_words": [
+      "both indicate a failed login attempt"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "How do I resolve a ssh connection closed by remote host ...",
+    "link": "https://superuser.com/questions/522094/how-do-i-resolve-a-ssh-connection-closed-by-remote-host-due-to-inactivity",
+    "displayed_link": "https://superuser.com › questions › how-do-i-resolve-a-...",
+    "snippet": "If you are using Putty. Change the keepalive setting in Putty. Increase that value to 15 or 30 in the Putty connection settings. Melroy van den ...",
+    "snippet_highlighted_words": [
+      "connection"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Fix Err_Connection_Closed error on Windows PC",
+    "link": "https://www.youtube.com/watch?v=M8J_WMOYEFM",
+    "displayed_link": "13.8K+ views · 5 years ago",
+    "snippet": "In this video we will talk about how to fix the air connection close error on windows 10.",
+    "snippet_highlighted_words": [],
+    "source": "YouTube · TheWindowsClub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "ssh connection closes after successful login",
+    "link": "https://askubuntu.com/questions/36944/ssh-connection-closes-after-successful-login",
+    "displayed_link": "https://askubuntu.com › questions › ssh-connection-clos...",
+    "snippet": "... disconnected by user Apr 25 15:39:27 linux sshd[4932]: pam_unix(sshd ... Local version string SSH-2.0-OpenSSH_5.5p1 Debian-4ubuntu5 ...",
+    "snippet_highlighted_words": [
+      "disconnected",
+      "Local"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Troubleshoot Remote desktop disconnected errors",
+    "link": "https://learn.microsoft.com/en-us/troubleshoot/windows-server/remote/troubleshoot-remote-desktop-disconnected-errors",
+    "displayed_link": "https://learn.microsoft.com › ... › Windows Server",
+    "snippet": "Provides troubleshooting information for Remote desktop disconnected errors.",
+    "snippet_highlighted_words": [
+      "disconnected"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Localhost unexpectedly closed the connection - sage",
+    "link": "https://discourse.roots.io/t/localhost-unexpectedly-closed-the-connection/13880",
+    "displayed_link": "https://discourse.roots.io › localhost-unexpectedly-close...",
+    "snippet": "I am experiencing a strange issue when I run “Yarn Start” everything compiles and runs properly but when the browser opens up I get the following error message.",
+    "snippet_highlighted_words": [],
+    "source": "Roots Discourse",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Connection closed by remote host popup · Issue #2358",
+    "link": "https://github.com/mRemoteNG/mRemoteNG/issues/2358",
+    "displayed_link": "https://github.com › mRemoteNG › mRemoteNG › issues",
+    "snippet": "Whenever session disconnects there is this \"Connection closed\" popup which originates from PuTTy. That popup steals focus and is annoying when multiple ...",
+    "snippet_highlighted_words": [
+      "Connection closed\" popup"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

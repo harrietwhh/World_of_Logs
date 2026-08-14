@@ -1,0 +1,68 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "DataX DorisWriter 插件DorisStreamLoadObserver类详细解读",
+    "link": "https://www.gitweixin.com/?p=2584",
+    "displayed_link": "https://www.gitweixin.com › ...",
+    "snippet": "DorisStreamLoadObserver 类是一个用于将数据加载到Doris（以前称为Palo）数据库中并监视加载过程的Java 类。该类提供了一组方法，用于构建HTTP 请求、处理HTTP 响应以及 ...",
+    "snippet_highlighted_words": [],
+    "source": "gitweixin.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "2023年8月",
+    "link": "https://www.gitweixin.com/?m=202308",
+    "displayed_link": "https://www.gitweixin.com › ...",
+    "snippet": "\"); } LOG.debug(\"StreamLoad response:{}\", JSONValue.toJSONString(loadResult)); if (RESULT_FAILED.equals(loadResult.get(keyStatus))) { throw new IOException ...",
+    "snippet_highlighted_words": [
+      "LOG",
+      "debug",
+      "StreamLoad response:{}",
+      "toJSONString",
+      "loadResult));"
+    ],
+    "source": "gitweixin.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "doris – 第2页– gitweixin",
+    "link": "http://www.gitweixin.com/?paged=2&cat=303",
+    "displayed_link": "http://www.gitweixin.com › ...",
+    "snippet": "\"); } LOG.debug(\"StreamLoad response:{}\", JSONValue.toJSONString(loadResult)); if (RESULT_FAILED.equals(loadResult.get(keyStatus))) { throw new IOException ...",
+    "snippet_highlighted_words": [
+      "LOG",
+      "debug",
+      "StreamLoad response:{}",
+      "toJSONString",
+      "loadResult));"
+    ],
+    "source": "gitweixin.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "2023年– 第4页– gitweixin",
+    "link": "https://www.gitweixin.com/?paged=4&m=2023",
+    "displayed_link": "https://www.gitweixin.com › ...",
+    "snippet": "\"); } LOG.debug(\"StreamLoad response:{}\", JSONValue.toJSONString(loadResult)); if (RESULT_FAILED.equals(loadResult.get(keyStatus))) { throw new IOException ...",
+    "snippet_highlighted_words": [
+      "LOG",
+      "debug",
+      "StreamLoad response:{}",
+      "toJSONString",
+      "loadResult));"
+    ],
+    "source": "gitweixin.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

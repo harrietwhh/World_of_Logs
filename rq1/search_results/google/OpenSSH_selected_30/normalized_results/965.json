@@ -1,0 +1,145 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Failing SSH login due to \"pam_unix(sshd:session)",
+    "link": "https://serverfault.com/questions/1135795/failing-ssh-login-due-to-pam-unixsshdsession-session-closed-for-user",
+    "displayed_link": "https://serverfault.com › questions › failing-ssh-login-d...",
+    "snippet": "I've mounted an s3 bucket to a small ec2 instance and am able to SSH into the instance either via the CLI or using a client like cyberduck.",
+    "snippet_highlighted_words": [],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "When being connected, SSH shows following error ...",
+    "link": "https://docs.jdcloud.com/en/virtual-machines/ssh-connection-error-session-closed",
+    "displayed_link": "https://docs.jdcloud.com › virtual-machines › ssh-conne...",
+    "snippet": "pam_unix(sshd:session): session closed for user test. Problem causes: This problem is usually caused by modification of corresponding user's default shell.",
+    "snippet_highlighted_words": [
+      "pam_unix(sshd:session): session closed for user test"
+    ],
+    "source": "京东云",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "[SOLVED] ssh server terminates connection immediately ...",
+    "link": "https://bbs.archlinux.org/viewtopic.php?id=291293",
+    "displayed_link": "https://bbs.archlinux.org › viewtopic",
+    "snippet": "Immediately after entering the password, which is accepted, the ssh server closes the connection. Here is the journal (with LogLevel = DEBUG)",
+    "snippet_highlighted_words": [],
+    "source": "Arch Linux Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "PAM closing SSH session - Unix Linux Community",
+    "link": "https://community.unix.com/t/pam-closing-ssh-session/311568",
+    "displayed_link": "https://community.unix.com › pam-closing-ssh-session",
+    "snippet": "The message doesn't mean PAM forced it to close. It just means that PAM noticed it closing. You get that for any logout.",
+    "snippet_highlighted_words": [
+      "PAM noticed it closing"
+    ],
+    "source": "Unix Linux Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "ssh connection closed automatically after login",
+    "link": "https://forum.directadmin.com/threads/ssh-connection-closed-automatically-after-login.65299/",
+    "displayed_link": "https://forum.directadmin.com › threads › ssh-connecti...",
+    "snippet": "Hi after user login to ssh to putty below error coming and shh is automatically closed immediately after login.",
+    "snippet_highlighted_words": [
+      "user",
+      "closed"
+    ],
+    "source": "DirectAdmin Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "[SOLVED] Unable to connect with SSH",
+    "link": "https://www.linuxquestions.org/questions/linux-server-73/unable-to-connect-with-ssh-4175680926/",
+    "displayed_link": "https://www.linuxquestions.org › linux-server-73 › unabl...",
+    "snippet": "pam_unix(sshd:session): session opened for user myname by (uid=0) pam_unix(sshd:session): session closed for user myname. mallen. View Public ...",
+    "snippet_highlighted_words": [
+      "pam_unix(sshd:session): session closed for user myname"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "How to suppress pam_unix(sshd:session)",
+    "link": "https://askubuntu.com/questions/612438/how-to-suppress-pam-unixsshdsession-session-closed-for-user",
+    "displayed_link": "https://askubuntu.com › questions › how-to-suppress-pa...",
+    "snippet": "You can configure rsyslogd to discard messages mentioning the gitlab user. Create a file in /etc/rsyslog.d/ (say, 10-filter-git.conf ) ...",
+    "snippet_highlighted_words": [
+      "user"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Getting error \"request failed\" in /var/log/secure while login ...",
+    "link": "https://access.redhat.com/solutions/2989451",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Getting error \"request failed\" in /var/log/secure while login as local user via ssh. Solution Verified - Updated June 14 2024 at 6:49 PM.",
+    "snippet_highlighted_words": [
+      "Getting error \"request failed\" in /var/log/secure"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "What OpenSSH sshd logs when a session disconnects ...",
+    "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/OpenSSHDisconnectLogging?showcomments",
+    "displayed_link": "https://utcc.utoronto.ca › OpenSSHDisconnectLogging",
+    "snippet": "sshd logged one single line that said a session had ended, what user it was for (and where from), and what the reason for ending the session was.",
+    "snippet_highlighted_words": [
+      "sshd",
+      "session",
+      "ended",
+      "user",
+      "session"
+    ],
+    "source": "Information Technology Services - University of Toronto",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "TL-WR740N and pam_unix(sshd:session)",
+    "link": "https://winscp.net/forum/viewtopic.php?t=13247",
+    "displayed_link": "https://winscp.net › forum › viewtopic",
+    "snippet": "Re: TL-WR740N and pam_unix(sshd:session): session closed for use ... Please attach a full log file showing the problem (using the latest version ...",
+    "snippet_highlighted_words": [
+      "pam_unix",
+      "sshd",
+      "session): session closed"
+    ],
+    "source": "WinSCP",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

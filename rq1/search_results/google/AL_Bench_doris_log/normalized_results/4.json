@@ -1,0 +1,41 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "DataX DorisWriter 插件DorisWriterManager类详细解读",
+    "link": "https://www.gitweixin.com/?p=2580",
+    "displayed_link": "https://www.gitweixin.com › ...",
+    "snippet": "DorisWriterManager 的类，用于将数据写入到Doris 中。以下是代码的具体作用和功能解释：. 导入必要的包和类： 代码开头导入了所需的包和类，包括日志记录、线程池、字符 ...",
+    "snippet_highlighted_words": [],
+    "source": "gitweixin.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "doris – 第2页– gitweixin",
+    "link": "http://www.gitweixin.com/?paged=2&cat=303",
+    "displayed_link": "http://www.gitweixin.com › ...",
+    "snippet": "LOG : 用于记录日志的Logger 对象。 · visitor : DorisStreamLoadObserver 类的实例，用于处理数据写入Doris 的观察者。 · options : Keys 类的实例，包含了一些配置选项。",
+    "snippet_highlighted_words": [
+      "LOG",
+      "Logger"
+    ],
+    "source": "gitweixin.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "2023年8月",
+    "link": "https://www.gitweixin.com/?m=202308",
+    "displayed_link": "https://www.gitweixin.com › ...",
+    "snippet": "总体来说，这段代码的作用是从Druid连接池中获取一个可用的数据库连接，并在一系列条件判断和验证后返回该连接对象。其中包括了连接超时处理、连接有效性验证、废弃连接移除 ...",
+    "snippet_highlighted_words": [],
+    "source": "gitweixin.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

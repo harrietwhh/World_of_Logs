@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_690aef2b514663c738fca6412408c97f13bd3e1d13e650ea119b74caa4f89767",
+    "score": 99.77155,
+    "link": "https://github.com/apache/incubator-kyuubi/issues/2101",
+    "source": "github",
+    "origin_doc_id": "2ac1d3f3ffff3ccb4cb8191f1df62bbc04f707d01c0ca51117ea4e5b7f88d8c0",
+    "snippet": "11:03:48.279 INFO org.apache.hadoop.security.UserGroupInformation: Login successful for user xxxxx using keytab file xxxxxx. Keytab auto renewal enabled : false"
+  },
+  {
+    "rank": 2,
+    "id": "msg_36f07a07d224cd047404d8939dea6aecee3512725f18a6ad14f33bbd4aafd89e",
+    "score": 92.77518,
+    "link": "https://issues.apache.org/jira/browse/AMBARI-21614",
+    "source": "jira",
+    "origin_doc_id": "24d898be175138d6f7d4bc066e352693dd0b8ba4503ac7f43727299e821fccf0",
+    "snippet": "2017-07-26 04:47:17,839 INFO  security.UserGroupInformation (UserGroupInformation.java:loginUserFromKeytab(1101)) - Login successful for user nfs/ctr-e134-1499953498516-54517-01-000003.hwx.site@EXAMPLE.COM using keytab file /etc/security/keytabs/nfs.service.keytab"
+  },
+  {
+    "rank": 3,
+    "id": "msg_8da826e051e06d0a1d5cb14a40da41afca91fbfffc3c95299115ba0e8ce9d680",
+    "score": 91.38505,
+    "link": "https://issues.apache.org/jira/browse/YARN-2795",
+    "source": "jira",
+    "origin_doc_id": "249a9aedb3fd57fdb7a0dea9a6750113d8e50e21ed06efb176bb7ec09a2bd717",
+    "snippet": "2014-10-31 12:04:09,866 INFO  security.UserGroupInformation (UserGroupInformation.java:loginUserFromKeytab(938)) - L\nogin successful for user rm/host.running.rm@SLIDER1.EXAMPLE.COM using keytab file /etc/sec"
+  },
+  {
+    "rank": 4,
+    "id": "msg_7722a131f56696a454bdd94deda8a6141d44751401180878530b24ae3a2f0fc5",
+    "score": 91.20274,
+    "link": "https://issues.apache.org/jira/browse/HIVE-10240",
+    "source": "jira",
+    "origin_doc_id": "1aba29a490e4cf4f6a9257ea0e82c2b4d3a208434f8d4d1ba18c75b9bac15548",
+    "snippet": "2015-04-07 16:38:41,384 INFO  [main]: security.UserGroupInformation (UserGroupInformation.java:loginUserFromKeytab(938)) - Login successful for user hive/node2.proto.bsi.de@PROTO.BSI.DE using keytab file /etc/hive.keytab"
+  },
+  {
+    "rank": 5,
+    "id": "msg_fc35b93d954b69080708ca31159c83dbf99d3089220df3cadfd061fba2eb763a",
+    "score": 89.78214,
+    "link": "https://github.com/rstudio/sparklyr/issues/542",
+    "source": "github",
+    "origin_doc_id": "051cf1411097d652e0de91b7680cf71bceaa2951e2d818484b7770fdea035ebd",
+    "snippet": "17/03/09 16:54:24 INFO security.UserGroupInformation: Login successful for user dycjh@example.com using keytab file /tmp/xx.keytab \n Welcome to...."
+  },
+  {
+    "rank": 6,
+    "id": "msg_2f4bcee9a67c15adb0ebe1715683b030424b813d4439721ac1a98e9b91493a63",
+    "score": 84.07513,
+    "link": "https://github.com/airbnb/reair/pull/27",
+    "source": "github",
+    "origin_doc_id": "745bc3553fa49c57f5bf5da9aac38e9f4044060e94448cdf27cca8cf7ea4f9b9",
+    "snippet": "16/09/26 10:23:26 INFO security.UserGroupInformation: Login successful for user hadoop/reair using keytab file /home/hadoop/reair3.keytab"
+  },
+  {
+    "rank": 7,
+    "id": "msg_59044bd66fd077707421a51b75a8854835b4a672d9b8fe4c9d029e616c9a04c7",
+    "score": 81.103195,
+    "link": "https://github.com/jupyterhub/yarnspawner/issues/16",
+    "source": "github",
+    "origin_doc_id": "15c44a5363115d1a943c89a33b40e44e0fe5a95bbb2f125cb0c0d83afef482bc",
+    "snippet": "20/01/28 17:55:54 INFO security.UserGroupInformation: Login successful for user lyhxr@example.com using keytab file /etc/security/keytabs/hdfs.headless.keytab"
+  },
+  {
+    "rank": 8,
+    "id": "msg_41f462f4590dc7667ca3abf683b1797b488ce2aa967e1c3109afe36441c2c57e",
+    "score": 80.92478,
+    "link": "https://stackoverflow.com/questions/49187101",
+    "source": "so",
+    "origin_doc_id": "41a697de124b52c626182e4a7786a7f83df69e75e5dba74cdddb5d7407f7d478",
+    "snippet": "18/03/13 20:54:51 INFO security.UserGroupInformation: Login successful for user ampuser using keytab file ampuser.keytab"
+  },
+  {
+    "rank": 9,
+    "id": "msg_6eede8822ded47f8b4b23d10917d31a58826c6772dbebee8a340df401423ea0b",
+    "score": 79.65711,
+    "link": "https://issues.apache.org/jira/browse/SPARK-6882",
+    "source": "jira",
+    "origin_doc_id": "9201233fc469b077483585104038e68a2e38ebf88ff4572a49470e0bcd878725",
+    "snippet": "2015-04-13 16:37:20,688 INFO  org.apache.hadoop.security.UserGroupInformation (UserGroupInformation.java:loginUserFromKeytab(893)) - Login successful for user hiveserver/alee-vpc2-dt.test.testhost.com@TEST.TESTHOST.COM using keytab file /etc/testhost/secrets/hiveserver.keytab"
+  },
+  {
+    "rank": 10,
+    "id": "msg_cdd404e6d5046b98ade50fe505f44c5a1c15cca1555eaa444a9b24152bf2dcb8",
+    "score": 79.65711,
+    "link": "https://issues.apache.org/jira/browse/SPARK-6882",
+    "source": "jira",
+    "origin_doc_id": "9201233fc469b077483585104038e68a2e38ebf88ff4572a49470e0bcd878725",
+    "snippet": "2015-04-13 16:37:20,923 INFO  org.apache.hadoop.security.UserGroupInformation (UserGroupInformation.java:loginUserFromKeytab(893)) - Login successful for user hiveserver/alee-vpc2-dt.test.testhost.com@TEST.TESTHOST.COM using keytab file /etc/testhost/secrets/hiveserver.keytab"
+  }
+]

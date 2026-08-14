@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_84f03bb0cb15f38eea9634d7817adcffe18970b21f8969d838f4f7c9ce9d314a",
+    "score": 60.394905,
+    "link": "https://github.com/clash-lang/clash-compiler/issues/1411",
+    "source": "github",
+    "origin_doc_id": "b0d62ff4a894a1d3b9cdf314cb116425694a5a521cbcf5159f42d8af3e052d23",
+    "snippet": "Warning: Caught exception during _mirrors lookup:res_query: permission denied \n (Permission denied) \n Warning: No mirrors found for http://hackage.haskell.org/ \n dieVerbatim: user error (cabal: Couldn't establish HTTP connection. Possible cause: HTTP proxy server \n is down. \n )\nerror: snap \"clash\" has no plug named \"network\" \n ```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_12820448a1f81749f222e817c901b4de00955d87e4008c7dbc1bdb4576d3d05d",
+    "score": 38.058247,
+    "link": "https://github.com/microsoft/ReportingServicesTools/issues/355",
+    "source": "github",
+    "origin_doc_id": "3a9e4ef6b7d045a325e2caba1e14dc6bf2313ef080056736033d8f824526c7c6",
+    "snippet": "Failed to establish proxy connection to http://server/reportserver/ReportService2010.asmx : there was an error downloading 'http://server/reportserver/ReportService2010.asmx'."
+  },
+  {
+    "rank": 3,
+    "id": "msg_d8bd131cbdbad14b4397d675b839a6fb0786745a7e1f829dd1a8ee1888bd8049",
+    "score": 36.51023,
+    "link": "https://github.com/elastic/apm-agent-ruby/issues/881",
+    "source": "github",
+    "origin_doc_id": "de549a4a0a9bcd232b6c9fc949b045b2a1ab4da135d94684a86236b85509fa33",
+    "snippet": "[ElasticAPM] Couldn't establish connection to APM Server: \n \"#<HTTP::ConnectionError: failed to connect: Connection refused - connect(2) for \\\"localhost\\\" port 8200>\" \n ```"
+  },
+  {
+    "rank": 4,
+    "id": "msg_c467e50dd455a64d5123214f4dc51b205c1f512d721b45bf45856ea630a757ae",
+    "score": 35.700344,
+    "link": "https://github.com/pocoproject/poco/pull/1068",
+    "source": "github",
+    "origin_doc_id": "9d0912369724a75e025ebcc2008afd6f62a56c68f80b644637e20d61d192f67b",
+    "snippet": "HTTP Exception: Cannot establish proxy connection: Forbidden`"
+  },
+  {
+    "rank": 5,
+    "id": "msg_110aebb4e92b5b3775840634e5ab3691c93b964528203541be06760455450f59",
+    "score": 35.60649,
+    "link": "https://stackoverflow.com/questions/48681647",
+    "source": "so",
+    "origin_doc_id": "d096c134fb1723487e13bd12a8494e7e3b4fb49838ae8b5f5750e7dda1da44e8",
+    "snippet": "System.out.println(\"Error Occured \n \" \n                         + \"Message: An error occured while accepting a request \n \" \n                         + \"Cause: \" + e.getMessage());\nSystem.out.println(\"New connection request has been accepted \n \");\nSystem.out.println(\"Error Occured \n \" \n                     + \"Message: Couldn't close Server Socket \n \" \n                     + \"Cause: \" + e.getMessage() + \" \n \");\nSystem.out.println(\"Error Occured \n \" \n                     + \"Message: Couldn't establish server socket for connection \n \" \n             + \"Cause: \" + e.getMessage() + \" \n \");"
+  },
+  {
+    "rank": 6,
+    "id": "msg_9421421648cd4e118e9cfde9f227f8d392c2080454d3157492d64499f9b3708f",
+    "score": 35.264053,
+    "link": "https://github.com/pocoproject/poco/pull/1068",
+    "source": "github",
+    "origin_doc_id": "9d0912369724a75e025ebcc2008afd6f62a56c68f80b644637e20d61d192f67b",
+    "snippet": "testProxy: HTTP Exception: Cannot establish proxy connection: Forbidden"
+  },
+  {
+    "rank": 7,
+    "id": "msg_16f96c54695c29fe63559a691b0e44a3335d893c6df2c4cc7d4d2eedbe619cbb",
+    "score": 34.989517,
+    "link": "https://github.com/Microsoft/ReportingServicesTools/issues/50",
+    "source": "github",
+    "origin_doc_id": "0b6b3374b99f78ade6525cb75b80d0f91dc3f41d9d3256be62a70d3f08beaf1b",
+    "snippet": "$ReportServerUri parameter \n Failed to establish proxy connection to http://localhost/reportserver/ : Failed to establish proxy connection to http://localhost/reportserver/ReportService2010.asmx : There was an error downloading 'http://localhost/reportserver/ReportService2010.asmx'. \n At C:\\Program Files\\WindowsPowerShell\\Modules\\ReportingServicesTools\\0.0.1.6\\Functions\\Utilities\\New-RsWebServiceProxy.ps1:line:74 char:17 \n +                 t <<<< hrow (New-Object System.Exception(\"Failed to establish proxy connection to $([Microsoft.ReportingServicesTools.ConnectionHost]::Uri) : $($_.Exception.Message)\", $_.Exception))"
+  },
+  {
+    "rank": 8,
+    "id": "msg_4cda9fa9529d624a4ddcc4229dfe52990b5dfcbbab59868829f263abb361a0b1",
+    "score": 34.905285,
+    "link": "https://stackoverflow.com/questions/16101984",
+    "source": "so",
+    "origin_doc_id": "c373d8566e65a03aeef30019ceaf6ac3514aa5fb2b8dc654964d717e47d0403d",
+    "snippet": "\"Error in function (type, msg, asError = TRUE)  : couldn't connect to host\" \n \"Error in function (type, msg, asError = TRUE)  : couldn't connect to host\" \n * About to connect() to proxy 123.456.7.89 port 8080 (#0)\n*   Trying 123.456.7.89... * connected\n* Connected to 123.456.7.89 (123.456.7.89) port 8080 (#0)\n* Establish HTTP proxy tunnel to api.twitter.com:443\n> CONNECT api.twitter.com:443 HTTP/1.1\nHost: api.twitter.com:443\nProxy-Connection: Keep-Alive\n\n< HTTP/1.1 407 Proxy Authentication Required ( Forefront TMG requires authorization to fulfill the request. Access to the Web Proxy filter is denied.  )\n< Via: 1.1 ORG-TMG1\n* Ignore 719 bytes of response-body\n* Received HTTP code 407 from proxy after CONNECT\n* About to connect() to proxy 123.456.7.89 port 8080 (#0)\n*   Trying 123.456.7.89... * connected\n* Connected to 123.456.7.89 (123.456.7.89) port 8080 (#0)\n* Establish HTTP proxy tunnel to api.twitter.com:443\n* Proxy auth using NTLM with user 'ORG\\tumbledown'\n> CONNECT api.twitter.com:443 HTTP/1.1\nHost: api.twitter.com:443\nProxy-Authorization: NTLM <LOTS OF RANDOM LETTERS>==\n< Via: 1.1 ORG-TMG1\n< Connection: Keep-Alive\n< Proxy-Connection: Keep-Alive\n< \n* Proxy replied OK to CONNECT request\n* successfully set certificate verify locations:\n*   CAfile: \\\\ORG-nas/tumbledown/R/win-library/2.15/RCurl/CurlSSL/cacert.pem\n  CApath: none\n* SSL connection using RC4-SHA\n* Server certificate:\n< x-transaction: <LOTS OF RANDOM LETTERS>\n< x-xss-protection: 1; mode=block\n< \n* Connection #0 to host 123.456.7.89 left intact\nError: Proxy Authentication Required ( Forefront TMG requires authorization to fulfill the request. Access to the Web Proxy filter is denied.  )"
+  },
+  {
+    "rank": 9,
+    "id": "msg_206e2fac554894d45c887eea564bc66962907d253fd08159c21e28917bf9b8f7",
+    "score": 34.75471,
+    "link": "https://github.com/mmajcica/DeploySsrs/issues/51",
+    "source": "github",
+    "origin_doc_id": "0bf88ac4e124d12176427bcf66121b3566638d72e6cb85d22554f72f7c932e01",
+    "snippet": "Failed to establish proxy connection to http://101.112.20.1/ReportServer/ReportService2010.asmx : There was a \n downloading 'http://101.112.20.1/ReportServer/ReportService2010.asmx'. \n     + CategoryInfo          : OperationStopped: (:) [], Exception \n     + FullyQualifiedErrorId : Failed to establish proxy connection to http://101.112.20.1/ReportServer/Report \n    2010.asmx : There was an error downloading 'http://101.112.20.1/ReportServer/ReportService2010.asmx'."
+  },
+  {
+    "rank": 10,
+    "id": "msg_e7f474c5a9e21cb123dd2957109ede04f7b77fc942896e1a4b5ab7258340df08",
+    "score": 34.456738,
+    "link": "https://stackoverflow.com/questions/31588869",
+    "source": "so",
+    "origin_doc_id": "d499bb0ea702b1055b7dcc13fa5fb2cb8e23e9d2b6778d5881e069dfce4dbae3",
+    "snippet": "15:21:17.015575 run-command.c:351       trace: run_command: 'git-remote-https' 'origin' 'https://gitub.com/USERNAME/REPO' \n* Couldn't find host gitub.com in the .netrc file; using defaults\n* Hostname was NOT found in DNS cache\n*   Trying PROXY-SERVER-IP-ADDRESS...\n* Connected to (PROXY-SERVER-IP-ADDRESS) port 80 (#0)\n* Establish HTTP proxy tunnel to gitub.com:443\n> CONNECT gitub.com:443 HTTP/1.1\nHost: gitub.com:443\nUser-Agent: git/2.3.2 (Apple Git-55)\nProxy-Connection: Keep-Alive\nPragma: no-cache\nto host PROXY-SERVER-IP-ADDRESS left intact \n fatal: unable to access 'https://gitub.com/USERNAME/REPO/': Received HTTP code 503 from proxy after CONNECT"
+  }
+]

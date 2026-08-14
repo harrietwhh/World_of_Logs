@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_956bb2bf7c67b9d140eb7aca4d949a6954cae98598b8a4356ea1f76ffe49e898",
+    "score": 38.608723,
+    "link": "https://issues.apache.org/jira/browse/HIVE-14303",
+    "source": "jira",
+    "origin_doc_id": "f7681bd3f721bbc571695d866a17243d9d46a73d6c3e5805c7cc8d83092b4411",
+    "snippet": "log.debug(\"Exception in closing \" + c, e);"
+  },
+  {
+    "rank": 2,
+    "id": "msg_315f87ca928d47c40e4f48fd8e199c961eb7b488b6c0fe205394921e720bcc79",
+    "score": 31.18113,
+    "link": "https://issues.apache.org/jira/browse/AMQ-2139",
+    "source": "jira",
+    "origin_doc_id": "a2a755d6339e487b926eadb9229ee8107415a4d050226c0737f7ebad38db6f20",
+    "snippet": "LOG.debug(\"Caught exception closing socket\",e);"
+  },
+  {
+    "rank": 3,
+    "id": "msg_270600553e2c9bbf7ea3c6d39df286c0803827265d24e8b84379b21a31beac70",
+    "score": 30.419004,
+    "link": "https://stackoverflow.com/questions/25892364",
+    "source": "so",
+    "origin_doc_id": "47d6568fd35e87da6dacba507a650cee620033615893e77a5a51410f970c2a6d",
+    "snippet": "log.debug(\"Closing WebSocket\");\nlog.warn(\"Interrupted Exception: \"+e.getLocalizedMessage(), e);"
+  },
+  {
+    "rank": 4,
+    "id": "msg_a71db0dd2fd2fa0f7e85137827643cfb16c6ce4769b0abeaa543cab7321c3921",
+    "score": 30.419004,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2737",
+    "source": "jira",
+    "origin_doc_id": "0d9d273bdd2d3be26c223a0cd5633f42fdae3630697cbf2172cc4c3709976956",
+    "snippet": "LOG.warn(\"Exception caught \" + e, e.getCause());\nLOG.debug(\"Closing \" + cnxn);"
+  },
+  {
+    "rank": 5,
+    "id": "msg_fe53061ecf3993fcaf924e1866f913f0a36e147b8fb2c2dc18ae46ec2fca1a48",
+    "score": 30.051744,
+    "link": "https://github.com/fabric8io/kubernetes-client/issues/2798",
+    "source": "github",
+    "origin_doc_id": "bdb432eaf63ac6f47492ad9d092dff1e90f240147e50c56a27163c9c5a028653",
+    "snippet": "log.error(\"Watch closing\");\nlog.debug(\"Exception received during watch\", e);"
+  },
+  {
+    "rank": 6,
+    "id": "msg_df994e25e0ded0d8246f4bbfe4f232b5e7fb09f6123596c284d6eb3e8ba1225e",
+    "score": 29.544075,
+    "link": "https://stackoverflow.com/questions/6375588",
+    "source": "so",
+    "origin_doc_id": "f3b72454a164df7d502cad67aecfc652f1d0ea27193642b33808f02403806b65",
+    "snippet": "log.debug(\"Opening Hibernate Session in method \"+pjp.getSignature());\nlog.debug(\"Closing Hibernate Session in method (Exception thrown) \"+pjp.getSignature());\nlog.debug(\"Closing Hibernate Session in method \"+pjp.getSignature());"
+  },
+  {
+    "rank": 7,
+    "id": "msg_4ab02ff5e40d0932b92d3b94d9bbc557aa7983d678faf6985e8e3f5fba0930b2",
+    "score": 29.343199,
+    "link": "https://issues.apache.org/jira/browse/AMQ-2139",
+    "source": "jira",
+    "origin_doc_id": "a2a755d6339e487b926eadb9229ee8107415a4d050226c0737f7ebad38db6f20",
+    "snippet": "+            }}, \"ActiveMQ Transport Sender: \" + toString(), getStackSize()); \n +  \n\n LOG.debug(\"Caught exception closing socket\",e);"
+  },
+  {
+    "rank": 8,
+    "id": "msg_eedd62344ba885775f780ebfc8571cef70350194312dd241f2e97d67e69a7939",
+    "score": 27.759243,
+    "link": "https://stackoverflow.com/questions/33242118",
+    "source": "so",
+    "origin_doc_id": "6de5efa5dcf894c8b579173a39ecb2c03ac1d1e64b2dcc46efc917418bc2c101",
+    "snippet": "Log.debug(\"Closing port\");\nLog.debug(\"mouseReleased: \"+e);\nLog.debug(\"OFF button released\");"
+  },
+  {
+    "rank": 9,
+    "id": "msg_2d53f7addc8cd7614b27f63068747642e5fe7a48cd95a3e3ad1243d1bfd7a38b",
+    "score": 27.65229,
+    "link": "https://stackoverflow.com/questions/65130020",
+    "source": "so",
+    "origin_doc_id": "e07b804188b2e50446aec6c81b0d66d4c0c0c36be9f8c62fd17ada9415207fc6",
+    "snippet": "log.warn(\"Exception in closing \" + c, e);"
+  },
+  {
+    "rank": 10,
+    "id": "msg_7b740ca042e77441b2737e1de49af28169b12509634e62051c0a2d3b34befd15",
+    "score": 27.440464,
+    "link": "https://stackoverflow.com/questions/9494350",
+    "source": "so",
+    "origin_doc_id": "29aed7275e1ac8d543bb546d776e22fb65bccf0b78c73538acead4ef19e35b47",
+    "snippet": "while Closing statement \", e,\nlog.debug(\"Invoked\");\nlog.debug(\"Leaving\");"
+  }
+]

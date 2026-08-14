@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_4a18f6c2364617f2fdc17306e76417d1019ae8ad9433e8eb4d4c6bc787070806",
+    "score": 25.10084,
+    "link": "https://github.com/Linuxbrew/linuxbrew/pull/1070",
+    "source": "github",
+    "origin_doc_id": "98a499f833cc9c440603c601552a83b341bbccaa46dc7c3d2c873798f145ac79",
+    "snippet": "mice.c:59:10: fatal error: 'linux/kdev_t.h' file not found"
+  },
+  {
+    "rank": 2,
+    "id": "msg_a4a3028551a16062da23cbd4e4715cccce16e9e00079eb758f9d9806010cff42",
+    "score": 20.676737,
+    "link": "https://github.com/oznu/homebridge-config-ui-x/issues/1182",
+    "source": "github",
+    "origin_doc_id": "83804e5cb903141fd4de71715f03806917f062ec873e99280469213be8ac8b18",
+    "snippet": "[1623749991741] INFO (1766 on odroidn2): request completed \n    [1623749989385] INFO (1766 on odroidn2): incoming request"
+  },
+  {
+    "rank": 3,
+    "id": "msg_282309d867eadb06526cfc24caaeff69e88125d1c1716535951e0c96e6dd74c1",
+    "score": 17.625328,
+    "link": "https://github.com/FreeRDP/FreeRDP/issues/4722",
+    "source": "github",
+    "origin_doc_id": "3463d5a4bc97e570d3470d9dbd1f75e0a5bd36ec73776a51cfeb71f50aacbad8",
+    "snippet": "[16:57:14:682] [1766:1767] [INFO][com.freerdp.client.common.cmdline] - loading channelEx rdpdr"
+  },
+  {
+    "rank": 4,
+    "id": "msg_1f8db8ae4f2072ecedfa5fb349b011de8df4a81665dc891b8091a8668f983cb4",
+    "score": 17.625328,
+    "link": "https://github.com/FreeRDP/FreeRDP/issues/4722",
+    "source": "github",
+    "origin_doc_id": "3463d5a4bc97e570d3470d9dbd1f75e0a5bd36ec73776a51cfeb71f50aacbad8",
+    "snippet": "[16:57:14:682] [1766:1767] [INFO][com.freerdp.client.common.cmdline] - loading channelEx rdpsnd"
+  },
+  {
+    "rank": 5,
+    "id": "msg_639c69a6afabc52a07f991dfc079ee3c310009a223e57d6bcf12345596a9a3e5",
+    "score": 17.460733,
+    "link": "https://stackoverflow.com/questions/24347201",
+    "source": "so",
+    "origin_doc_id": "0b0d9d6612e16e1f1eedecb41b572731f027d3f4abc38f635ab1e5e062fa0734",
+    "snippet": "06-21 20:26:38.487: E/AndroidRuntime(1766): FATAL EXCEPTION: AsyncTask #1 \n 06-21 20:26:38.487: E/AndroidRuntime(1766): Process: com.mmexample.newschanr, PID: 1766 \n 06-21 20:26:38.487: E/AndroidRuntime(1766): java.lang.RuntimeException: An error occured while executing doInBackground() \n 06-21 20:26:38.487: E/AndroidRuntime(1766):     at android.os.AsyncTask$3.done(AsyncTask.java:300) \n 06-21 20:26:38.487: E/AndroidRuntime(1766):     at java.util.concurrent.FutureTask.finishCompletion(FutureTask.java:355) \n 06-21 20:26:38.487: E/AndroidRuntime(1766):     at java.util.concurrent.FutureTask.setException(FutureTask.java:222) \n 06-21 20:26:38.487: E/AndroidRuntime(1766):     at java.util.concurrent.FutureTask.run(FutureTask.java:242) \n 06-21 20:26:38.487: E/AndroidRuntime(1766):     at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112) \n 06-21 20:26:38.487: E/AndroidRuntime(1766):     at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587) \n06-21 20:26:38.487: E/AndroidRuntime(1766):     at java.lang.Thread.run(Thread.java:841)\n06-21 20:26:38.487: E/AndroidRuntime(1766): Caused by: java.lang.NoClassDefFoundError: org.jsoup.Jsoup\n06-21 20:26:38.487: E/AndroidRuntime(1766):     at com.mmexample.newschanr.MainActivity$TheTask.doInBackground(MainActivity.java:74)\n06-21 20:26:38.487: E/AndroidRuntime(1766):     at com.mmexample.newschanr.MainActivity$TheTask.doInBackground(MainActivity.java:1)\n06-21 20:26:38.487: E/AndroidRuntime(1766):     at android.os.AsyncTask$2.call(AsyncTask.java:288)\n06-21 20:26:38.487: E/AndroidRuntime(1766):     at java.util.concurrent.FutureTask.run(FutureTask.java:237)\n06-21 20:26:38.487: E/AndroidRuntime(1766):     ... 3 more"
+  },
+  {
+    "rank": 6,
+    "id": "msg_bc6af3b8d65ca8081c82dfc91ebff3c1a02620d9eaf75f43db39daef92d3b9a5",
+    "score": 17.419968,
+    "link": "https://github.com/FreeRDP/FreeRDP/issues/4722",
+    "source": "github",
+    "origin_doc_id": "3463d5a4bc97e570d3470d9dbd1f75e0a5bd36ec73776a51cfeb71f50aacbad8",
+    "snippet": "[16:57:14:682] [1766:1767] [INFO][com.freerdp.client.common.cmdline] - loading channelEx cliprdr\nGatewayPassword:"
+  },
+  {
+    "rank": 7,
+    "id": "msg_0eaf5b14fc0b3be9848496b3c723d171bce8be3e13721d623aee6970c87c6116",
+    "score": 17.397802,
+    "link": "https://github.com/react-spring/react-spring/issues/1102",
+    "source": "github",
+    "origin_doc_id": "00d9d52ad34d36ae2f677357167cc510e74544ae761bab7bef3a239bbc5c6d95",
+    "snippet": "~~~~~ \n   node_modules/@types/react/index.d.ts:1766:9 \n     1766         style?: CSSProperties; \n                  ~~~~~"
+  },
+  {
+    "rank": 8,
+    "id": "msg_49366927be29eb5eed6a7134a825fbb4c129b7274c97e83bd2eb1744294f9c38",
+    "score": 17.339834,
+    "link": "https://stackoverflow.com/questions/16655012",
+    "source": "so",
+    "origin_doc_id": "5fbd25065afb998f84f8f9145e8d8a9072bd941e694538ca133503c7ad5567cf",
+    "snippet": "05-20 17:47:34.741: W/dalvikvm(1766): threadid=1: thread exiting with uncaught exception (group=0x40a71930) \n     05-20 17:47:34.761: E/AndroidRuntime(1766): FATAL EXCEPTION: main \n     05-20 17:47:34.761: E/AndroidRuntime(1766): java.lang.NullPointerException \n     05-20 17:47:34.761: E/AndroidRuntime(1766):     at com.projectcaruso.naturalfamilyplaning.LoginFragment.init(LoginFragment.java:78) \n     05-20 17:47:34.761: E/AndroidRuntime(1766):     at com.projectcaruso.naturalfamilyplaning.LoginFragment.onCreateView(LoginFragment.java:61) \n     05-20 17:47:34.761: E/AndroidRuntime(1766):     at android.support.v4.app.Fragment.performCreateView(Fragment.java:1460) \n    05-20 17:47:34.761: E/AndroidRuntime(1766):     at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:911)\n    05-20 17:47:34.761: E/AndroidRuntime(1766):     at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1088)\n    05-20 17:47:34.761: E/AndroidRuntime(1766):     at android.support.v4.app.BackStackRecord.run(BackStackRecord.java:682)\n    05-20 17:47:34.761: E/AndroidRuntime(1766):     at android.support.v4.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1444)\n    05-20 17:47:34.761: E/AndroidRuntime(1766):     at android.support.v4.app.FragmentManagerImpl$1.run(FragmentManager.java:429)\n    05-20 17:47:34.761: E/AndroidRuntime(1766):     at android.os.Handler.handleCallback(Handler.java:725)\n    05-20 17:47:34.761: E/AndroidRuntime(1766):     at android.os.Handler.dispatchMessage(Handler.java:92)\n    05-20 17:47:34.761: E/AndroidRuntime(1766):     at android.os.Looper.loop(Looper.java:137)\n    05-20 17:47:34.761: E/AndroidRuntime(1766):     at android.app.ActivityThread.main(ActivityThread.java:5041)\n    05-20 17:47:34.761: E/AndroidRuntime(1766):     at java.lang.reflect.Method.invokeNative(Native Method)\n   05-20 17:47:34.761: E/AndroidRuntime(1766):     at java.lang.reflect.Method.invoke(Method.java:511) \n     05-20 17:47:34.761: E/AndroidRuntime(1766):     at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:793) \n     05-20 17:47:34.761: E/AndroidRuntime(1766):     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:560) \n     05-20 17:47:34.761: E/AndroidRuntime(1766):     at dalvik.system.NativeStart.main(Native Method)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_156f7b67189f69a306fd7c858292f0b56295c75e14577042b087475a8ac54568",
+    "score": 17.313122,
+    "link": "https://stackoverflow.com/questions/21407713",
+    "source": "so",
+    "origin_doc_id": "5a68794b9f6937fdf3155e09e18415c6aadec92dec5a24770c14b1aed1fcdb6b",
+    "snippet": "01-28 09:12:45.150: D/AndroidRuntime(1766): Shutting down VM \n 01-28 09:12:45.150: W/dalvikvm(1766): threadid=1: thread exiting with uncaught exception (group=0x41465700) \n 01-28 09:12:45.180: E/AndroidRuntime(1766): FATAL EXCEPTION: main\n01-28 09:12:45.180: E/AndroidRuntime(1766): java.lang.RuntimeException: Unable to start activity ComponentInfo{www.gurjit.taskmanager/www.gurjit.taskmanager.MainActivity}: android.view.InflateException: Binary XML file line #29: Error inflating class button\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2211)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2261)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.app.ActivityThread.access$600(ActivityThread.java:141)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1256)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.os.Handler.dispatchMessage(Handler.java:99)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.os.Looper.loop(Looper.java:137)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.app.ActivityThread.main(ActivityThread.java:5103)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at java.lang.reflect.Method.invokeNative(Native Method)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at java.lang.reflect.Method.invoke(Method.java:525)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:737)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:553)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at dalvik.system.NativeStart.main(Native Method)\n01-28 09:12:45.180: E/AndroidRuntime(1766): Caused by: android.view.InflateException: Binary XML file line #29: Error inflating class button\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:707)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.view.LayoutInflater.rInflate(LayoutInflater.java:755)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.view.LayoutInflater.inflate(LayoutInflater.java:492)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.view.LayoutInflater.inflate(LayoutInflater.java:397)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.view.LayoutInflater.inflate(LayoutInflater.java:353)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at com.android.internal.policy.impl.PhoneWindow.setContentView(PhoneWindow.java:267)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.app.Activity.setContentView(Activity.java:1895)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at www.gurjit.taskmanager.MainActivity.onCreate(MainActivity.java:20)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.app.Activity.performCreate(Activity.java:5133)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1087)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2175)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     ... 11 more\n01-28 09:12:45.180: E/AndroidRuntime(1766): Caused by: java.lang.ClassNotFoundException: Didn't find class \"android.view.button\" on path: DexPathList[[zip file \"/data/app/www.gurjit.taskmanager-2.apk\"],nativeLibraryDirectories=[/data/app-lib/www.gurjit.taskmanager-2, /vendor/lib, /system/lib]]\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at dalvik.system.BaseDexClassLoader.findClass(BaseDexClassLoader.java:53)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at java.lang.ClassLoader.loadClass(ClassLoader.java:501)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at java.lang.ClassLoader.loadClass(ClassLoader.java:461)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.view.LayoutInflater.createView(LayoutInflater.java:559)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.view.LayoutInflater.onCreateView(LayoutInflater.java:652)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at com.android.internal.policy.impl.PhoneLayoutInflater.onCreateView(PhoneLayoutInflater.java:66)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.view.LayoutInflater.onCreateView(LayoutInflater.java:669)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     at android.view.LayoutInflater.createViewFromTag(LayoutInflater.java:694)\n01-28 09:12:45.180: E/AndroidRuntime(1766):     ... 21 more"
+  },
+  {
+    "rank": 10,
+    "id": "msg_5ca9779b28b027bbe2c3e975dea3d2b5a28d3305affb17bfc340a6cae6bde00b",
+    "score": 17.278206,
+    "link": "https://stackoverflow.com/questions/3360605",
+    "source": "so",
+    "origin_doc_id": "bfbb6883ffee61282aae18840367a612f0cca4ce0f6f2881a5e6c117c2e44629",
+    "snippet": "08-29 08:20:57.961: ERROR/AndroidRuntime(1766): java.lang.RuntimeException: Unable to start activity ComponentInfo{one.two/one.two.Booking}: java.lang.IllegalArgumentException: column '_id' does not exist \n 08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2268) \n 08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2284) \n 08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.app.ActivityThread.access$1800(ActivityThread.java:112) \n 08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1692) \n 08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.os.Handler.dispatchMessage(Handler.java:99) \n 08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.os.Looper.loop(Looper.java:123) \n 08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.app.ActivityThread.main(ActivityThread.java:3948) \n08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at java.lang.reflect.Method.invokeNative(Native Method)\n08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at java.lang.reflect.Method.invoke(Method.java:521)\n08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:782)\n08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:540)\n08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at dalvik.system.NativeStart.main(Native Method)\n08-29 08:20:57.961: ERROR/AndroidRuntime(1766): Caused by: java.lang.IllegalArgumentException: column '_id' does not exist\n08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.database.AbstractCursor.getColumnIndexOrThrow(AbstractCursor.java:314)\n08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.widget.CursorAdapter.init(CursorAdapter.java:111)\n08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.widget.CursorAdapter.<init>(CursorAdapter.java:90)\n08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.widget.ResourceCursorAdapter.<init>(ResourceCursorAdapter.java:47)\n08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.widget.SimpleCursorAdapter.<init>(SimpleCursorAdapter.java:85) \n 08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at one.two.Booking.onCreate(Booking.java:34) \n 08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1123) \n 08-29 08:20:57.961: ERROR/AndroidRuntime(1766):     at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2231)\nLog.w(TAG, \"Upgrading database from version \" + oldVersion"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Thunderbird/Thunderbird_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Thunderbird/Thunderbird_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Thunderbird",
+    "snippet": "... DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1. - 1131566501 2005.11.09 ... e3:ba:c3 via eth1: network A_net: no free leases. - 1131566501 2005.11.09 ...",
+    "snippet_highlighted_words": [
+      "DHCPDISCOVER from 00:11:43",
+      "e3",
+      "ba",
+      "c3 via eth1",
+      "e3",
+      "ba",
+      "c3 via eth1",
+      "network A_net",
+      "no free leases"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

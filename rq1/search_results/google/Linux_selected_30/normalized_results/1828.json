@@ -1,0 +1,143 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "warning: can't get client address: Connection reset by peer",
+    "link": "https://community.hpe.com/t5/operating-system-linux/warning-can-t-get-client-address-connection-reset-by-peer/td-p/4397085",
+    "displayed_link": "https://community.hpe.com › td-p",
+    "snippet": "Solved: Hi everyone, We have our ftp server running Red Hat Enterprise Linux Server release 5.2 I have noticed the following warnings in the ...",
+    "snippet_highlighted_words": [
+      "have",
+      "have",
+      "warnings"
+    ],
+    "source": "Hewlett Packard Enterprise Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "What does \"connection reset by peer\" mean?",
+    "link": "https://stackoverflow.com/questions/1434451/what-does-connection-reset-by-peer-mean",
+    "displayed_link": "2 answers · 16 years ago",
+    "snippet": "It's fatal. The remote server has sent you a RST packet, which indicates an immediate dropping of the connection, rather than the usual handshake.",
+    "snippet_highlighted_words": [
+      "connection"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Connection reset by peer - Support and Troubleshooting",
+    "link": "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2559396",
+    "displayed_link": "https://support.servicenow.com › ...",
+    "snippet": "A \"Connection reset by peer\" error typically indicates that the connection was unexpectedly closed from the client or network side after the response was ...",
+    "snippet_highlighted_words": [
+      "Connection reset by peer",
+      "client"
+    ],
+    "source": "ServiceNow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "can't get client address: Connection reset by peer in MYSQL?",
+    "link": "https://askubuntu.com/questions/1283919/how-to-solve-warning-cant-get-client-address-connection-reset-by-peer-in-mysq",
+    "displayed_link": "https://askubuntu.com › questions › how-to-solve-warni...",
+    "snippet": "Probably another host has tried to contact your MySQL server and stopped. In this case, there is nothing you can do. The problem originates at ...",
+    "snippet_highlighted_words": [],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "unable to receive control message: Connection reset by peer",
+    "link": "https://github.com/esnet/iperf/issues/1683",
+    "displayed_link": "https://github.com › esnet › iperf › issues",
+    "snippet": "The error message \"Connection reset by peer\" indicates that the server closed the connection. What are the related error/messages the server ...",
+    "snippet_highlighted_words": [
+      "Connection reset by peer"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Understanding the \"Connection Reset by Peer\" TCP Error",
+    "link": "https://www.youtube.com/watch?v=5AXcOjhR9oM",
+    "displayed_link": "1.6K+ views · 1 year ago",
+    "snippet": "A connection reset by peer error occurs when the remote side Pier of the connection unexpectedly resets or closes the connection.",
+    "snippet_highlighted_words": [],
+    "source": "YouTube · vlogommentary",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Workaround for 'Connection Reset by Peer' error",
+    "link": "https://www.reddit.com/r/learnpython/comments/5wwhh4/workaround_for_connection_reset_by_peer_error/",
+    "displayed_link": "5 comments · 9 years ago",
+    "snippet": "The best thing you can do is to catch the exception and reconnect and re-start from where you were before. Or tell the client to have some ...",
+    "snippet_highlighted_words": [
+      "catch the exception and reconnect and re-start"
+    ],
+    "source": "Reddit · r/learnpython",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "can't get client address: Connection reset by peer' in log file?",
+    "link": "https://access.redhat.com/solutions/44272",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Issue. Vsftpd reports 'warning: can't get client address: Connection reset by peer' in log files. Name resolving is disabled in the server.",
+    "snippet_highlighted_words": [
+      "warning",
+      "can't get client address",
+      "Connection reset by peer"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "warning: can't get client address: Connection reset by peer",
+    "link": "https://talk.plesk.com/threads/xinetd-16263-warning-cant-get-client-address-connection-reset-by-peer.71361/",
+    "displayed_link": "https://talk.plesk.com › threads › xinetd-16263-warning...",
+    "snippet": "It is normal warning that the address of remote server could not be known. Also please check Knowledge Base article.",
+    "snippet_highlighted_words": [
+      "normal warning that the address of remote server could not be known"
+    ],
+    "source": "Plesk Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Connection reset by peer - error updating SSL certificate",
+    "link": "https://community.letsencrypt.org/t/connection-reset-by-peer-error-updating-ssl-certificate/215827",
+    "displayed_link": "https://community.letsencrypt.org › connection-reset-by...",
+    "snippet": "To fix these errors, please make sure that your domain name was entered correctly and the DNS A/AAAA record(s) for that domain contain(s) the right IP address.",
+    "snippet_highlighted_words": [
+      "make sure that your domain name was entered correctly"
+    ],
+    "source": "Let's Encrypt Community Support",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

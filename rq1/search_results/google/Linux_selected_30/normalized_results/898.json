@@ -1,0 +1,139 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "CRON: pam_unix(cron:session): session opened for user ...",
+    "link": "https://unix.stackexchange.com/questions/281117/cron-pam-unixcronsession-session-opened-for-user-root-by-uid-0-is-it-a-m",
+    "displayed_link": "https://unix.stackexchange.com › questions › cron-pam...",
+    "snippet": "This log message tells you every single time that a cron job runs as root, which could be potentially malicious, it should be considered a must have process.",
+    "snippet_highlighted_words": [
+      "root"
+    ],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Why do I see a CRON session opening and closing every ...",
+    "link": "https://askubuntu.com/questions/465544/why-do-i-see-a-cron-session-opening-and-closing-every-hour-in-var-log-auth-log",
+    "displayed_link": "https://askubuntu.com › questions › why-do-i-see-a-cro...",
+    "snippet": "My best guess is that every hour my SSH client has looked to see whether or not it could obtain root access as a way to verify the connection to ...",
+    "snippet_highlighted_words": [
+      "root"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "session opened for user root by (uid=0)",
+    "link": "https://superuser.com/questions/236479/pam-unixcronsession-session-opened-for-user-root-by-uid-0",
+    "displayed_link": "https://superuser.com › questions › pam-unixcronsessio...",
+    "snippet": "<Edit> According to your update, you have four cronjobs in /etc/crontab . They are being run by cron on their specified times, and that's what ...",
+    "snippet_highlighted_words": [],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Can't log in as root when require_auditd is set in PAM ...",
+    "link": "https://access.redhat.com/solutions/199403",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Login via sshd works fine when require_auditd is not present in sshd's PAM configuration file. auditd is running at the time of the tests.",
+    "snippet_highlighted_words": [
+      "Login"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "What does session opened for user USERNAME by (uid=0 ...",
+    "link": "https://forums.fedoraforum.org/showthread.php?167953-What-does-session-opened-for-user-USERNAME-by-(uid-0)-mean",
+    "displayed_link": "https://forums.fedoraforum.org › showthread › 167953-...",
+    "snippet": "It seems autologout=\"0\" means, disable automatic logout. Despite this it appears that USERNAME is connecting via ssh and is then logged out immediately.",
+    "snippet_highlighted_words": [
+      "0"
+    ],
+    "source": "Fedora Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "session opened/closed for user root\" in auth.log",
+    "link": "https://forums.raspberrypi.com/viewtopic.php?t=255121",
+    "displayed_link": "https://forums.raspberrypi.com › ... › Troubleshooting",
+    "snippet": "Hello, I have a Pi setup as a Pi-hole. It is running Raspbian Lite. The only other thing I installed on it is fail2ban. The auth log on the pi is filled ...",
+    "snippet_highlighted_words": [],
+    "source": "Raspberry Pi Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "[SOLVED] Why is auth log showing so many root open/close?",
+    "link": "https://www.linuxquestions.org/questions/linux-security-4/why-is-auth-log-showing-so-many-root-open-close-4175510484/",
+    "displayed_link": "https://www.linuxquestions.org › linux-security-4 › why-...",
+    "snippet": "My /var/log/auth is showing a lot of lines that look like this: Quote: Is someone breaking into my computer? Or is it something else?",
+    "snippet_highlighted_words": [],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "pam_unix(su:session): session opened for user - linux",
+    "link": "https://serverfault.com/questions/402499/pam-unixsusession-session-opened-for-user",
+    "displayed_link": "https://serverfault.com › questions › pam-unixsusession...",
+    "snippet": "What that is telling you is that someone who is logged in as root has for example su'ed to the user {USER}. Whether this is a problem only ...",
+    "snippet_highlighted_words": [
+      "root",
+      "user",
+      "USER"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "crond(pam_unix)session closed for user root",
+    "link": "https://help.goacoustic.com/hc/en-us/articles/360043283674-crond-pam-unix-session-closed-for-user-root",
+    "displayed_link": "https://help.goacoustic.com › en-us › articles › 3600432...",
+    "snippet": "There might be situations where your messages directory is full of crond(pam_unix) session closed for user root messages. For example, the /var/log/messages ...",
+    "snippet_highlighted_words": [
+      "session",
+      "user root"
+    ],
+    "source": "Acoustic Help Center",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "session opened for user root by (uid=0) - Koozali.org",
+    "link": "https://forums.koozali.org/index.php?topic=33001.0",
+    "displayed_link": "https://forums.koozali.org › ...",
+    "snippet": "In my message log I see a lot of these. Jul 25 03:25:01 servername crond(pam_unix)[19510]: session opened for user root by (uid=0)",
+    "snippet_highlighted_words": [
+      "session opened for user root by (uid=0"
+    ],
+    "source": "Koozali - SME Server",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_8373bdcaaa9fb3cd6f9e1c0896466552915c3363a92943598f78f40089f1f7bc",
+    "score": 12.869966,
+    "link": "https://github.com/apache/apisix-java-plugin-runner/issues/72",
+    "source": "github",
+    "origin_doc_id": "ae2f2f6c00e821cef16c81ec3680e6a8ab3165a716459a6f56a4d6329efbfd42",
+    "snippet": "log.info( \n//        \"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\");\n//    log.info(\n//        \"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\");\n//    log.info(\n//        \"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\");\n    log.info(\n        \"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\");\n    log.info(\n        \"???????????????????????????????????????????????????????????????????????\");\n    log.info(\nlog.info(\"test------------------failed\");"
+  },
+  {
+    "rank": 2,
+    "id": "msg_db3c702ed908d589e7130244bab9b0069cba712b80c477cbc4999e65a1c1ac3e",
+    "score": 12.809886,
+    "link": "https://stackoverflow.com/questions/60580872",
+    "source": "so",
+    "origin_doc_id": "a2b3d3e90054cb257d93b7e579dc5200f0d9bb99bb7440c24ac2acf2e762821b",
+    "snippet": "LOG.info(\"MORE CONTINUE: \" + MORE);\n                                        LOG.info(\"*** A330 MPF MORE Record ***\"); \n                                         LOG.info(summary.getReportId()); \n                                         LOG.info(summary.getAreg()); \n                                         LOG.info(summary.getShip()); \n                                         LOG.info(summary.getOrig()); \n                                         LOG.info(summary.getDest()); \n                                         LOG.info(summary.getTimestamp()); \n                                         LOG.info(summary.getAta()); \n                                         LOG.info(summary.getTime()); \nLOG.info(summary.getFm());"
+  },
+  {
+    "rank": 3,
+    "id": "msg_4951cd43e338b4513076bde4f5df2c5024e30bfdfc4ee8edbf1c8ed5e583c7b8",
+    "score": 12.800669,
+    "link": "https://stackoverflow.com/questions/40984431",
+    "source": "so",
+    "origin_doc_id": "c2eee6b8b7ce401a4e602061947aadfd42e74b5a6aeebf04139461e4edb1451d",
+    "snippet": "XMLHttpRequest cannot load  http://localhost:3000/keystone/api/ . No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin ' http://localhost ' is therefore not allowed access.\n$log.info(response);\n$log.info(response);\n$log.info(response);\n$log.info(response);\n$log.info(response);\n$log.info(response); \n$log.info(response);\n$log.info(response);\n$log.info(response); \n$log.info(response);\n$log.info(response);\n$log.info(response);\n$log.info(response);\n$log.info(response);\n$log.info(response);\n$log.info(response);\n$log.info(response);\n$log.info(response);\n$log.info(response);\n$log.info(response);\n$log.info(response);\n$log.info(response);"
+  },
+  {
+    "rank": 4,
+    "id": "msg_134197edaf40c1ea6dc39bab29a643568c103aeb7c4c0ce5cc1276973ead2e2b",
+    "score": 12.740089,
+    "link": "https://github.com/spring-projects/spring-boot/issues/15210",
+    "source": "github",
+    "origin_doc_id": "aac910f0d13c0ca068a4aaf0a4df5a3913a6a04c37a0877fc24b0dc814d7cd66",
+    "snippet": "log.info( \n           \"####################################################################################\"); \n      log.info(\"#\");\n      log.info(\"# TomcatCustomizer\");\n      log.info(\"#\");\n      log.info(\"# origin maxKeepAliveRequests {}\", originMaxKeepAliveRequests);\n      log.info(\"# custom maxKeepAliveRequests {}\", protocol.getMaxKeepAliveRequests());\n      log.info(\"# origin keepalive timeout: {} ms\", originKeepAliveTimeout);\n      log.info(\"# keepalive timeout: {} ms\", protocol.getKeepAliveTimeout());\n      log.info(\"# connection timeout: {} ms\", protocol.getConnectionTimeout());\n      log.info(\"# max connections: {}\", protocol.getMaxConnections());\n      log.info(\"#\");\nlog.info( \n           \"####################################################################################\");"
+  },
+  {
+    "rank": 5,
+    "id": "msg_5643880caead4610108ccdec379ae43871f1ee3c42a23548777863313bb0ca22",
+    "score": 12.716761,
+    "link": "https://github.com/tarantool/tarantool/issues/6748",
+    "source": "github",
+    "origin_doc_id": "e72310748be415eedf41b69f7a8633e468724f569f19a1c703b4ee2b3bd91ee3",
+    "snippet": "log.info(box.info.memory()) \n log.info(box.slab.info())\nlog.info(\"Run 2:\") \n test() \n log.info(box.info.memory()) \n log.info(box.slab.info()) \n log.info(\"Run 3:\") \n test() \nlog.info(box.info.memory()) \n log.info(box.slab.info()) \n log.info(\"OK\")\n[Truncated]"
+  },
+  {
+    "rank": 6,
+    "id": "msg_0e64673ca836346d7eaaa843bd832aeb3988ef1b2bef7b883087ac7c8cdb5c0e",
+    "score": 12.660729,
+    "link": "https://stackoverflow.com/questions/67531829",
+    "source": "so",
+    "origin_doc_id": "ceeb36be7c9b6160334c232fd8baaf8a66ac9d44c4599db12f91484bf3891425",
+    "snippet": "log.info(\"Number: {}\",\nlog.info(\"Number: {}\",\nlog.info(\"Number: {}\",\nlog.info(\"Number: {}\",\nlog.info(\"Number: {}\",\nlog.info(\"Number: {}\",\nlog.info(\"error:[{}], obj:[{}]\", error,"
+  },
+  {
+    "rank": 7,
+    "id": "msg_0b9b0362b16083e655e9d82b6d0434ccad419193db1d646f3aa1c7bdf69e9446",
+    "score": 12.636093,
+    "link": "https://stackoverflow.com/questions/74027632",
+    "source": "so",
+    "origin_doc_id": "5920fd5c2f2adc8021858dcb220134d879d29b2425920d6b7550cf4ef939cd67",
+    "snippet": "log.info(\"test\");\nlog.info(\"test1\");\nlog.info(\"test\");\nlog.info(\"test1\");\nlog.info(\"test\");\nlog.info(\"test1\");"
+  },
+  {
+    "rank": 8,
+    "id": "msg_e86fccda4597c1131a621353db29b510837ae18871cc162720e14abb260b20a2",
+    "score": 12.625133,
+    "link": "https://stackoverflow.com/questions/60627955",
+    "source": "so",
+    "origin_doc_id": "20f9cc74c88d20bea413e7bcf1c92a21c3e7c906d866842a1772d2f4169aa3ff",
+    "snippet": "log.info(\"STATUS_COMMITTEDE=\"+Status.STATUS_COMMITTED);\n            log.info(\"STATUS_COMMITTING=\"+Status.STATUS_COMMITTING);\n            log.info(\"STATUS_MARKED_ROLLBACK=\"+Status.STATUS_MARKED_ROLLBACK);\n            log.info(\"STATUS_NO_TRANSACTION=\"+Status.STATUS_NO_TRANSACTION);\n            log.info(\"STATUS_PREPARED=\"+Status.STATUS_PREPARED);\n            log.info(\"STATUS_PREPARING=\"+Status.STATUS_PREPARING);\n            log.info(\"STATUS_ROLLEDBACK=\"+Status.STATUS_ROLLEDBACK);\n            log.info(\"STATUS_ROLLING_BACK=\"+Status.STATUS_ROLLING_BACK);\n            log.info(\"STATUS_UNKNOWN=\"+Status.STATUS_UNKNOWN);"
+  },
+  {
+    "rank": 9,
+    "id": "msg_719078390934927ef8c6afae4a5861036ce15569ad16bcfa5346d18156aebaae",
+    "score": 12.602013,
+    "link": "https://github.com/zemuldo/iso_8583/issues/76",
+    "source": "github",
+    "origin_doc_id": "5a9e7e63bf037e4696a408fd3b0446985740b60885496cc9bac138459b4760f0",
+    "snippet": "log.info('****** sending sign on ******'); \nlog.info(buffer) \n  log.info(buffer.byteLength) \n  log.info(buffer.toString()) \n  log.info(\"******************\") \n   log.info(new_signon);"
+  },
+  {
+    "rank": 10,
+    "id": "msg_7d0c4207c6d88f81fb41a2150e5d44d785f57d53d58a12f9140808b73acefa04",
+    "score": 12.601761,
+    "link": "https://stackoverflow.com/questions/64006562",
+    "source": "so",
+    "origin_doc_id": "ad2c03eaf5066bf2ef51ac8fa977ec241a70908645cbb65b44cff98c856fb560",
+    "snippet": "LOG.info('#########################') \n     LOG.info(session) \n     LOG.info(kwargs) \n     LOG.info(action.geturl()) \n     LOG.info('#########################')"
+  }
+]

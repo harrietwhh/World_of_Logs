@@ -1,0 +1,7 @@
+{
+  "case_id": "89",
+  "case_input": "retrieval_results/query_group_logs/hdfs_intermediate_group_logs/case_89_group_logs/case_input.json",
+  "retrieved_candidates": "retrieval_results/query_group_logs/hdfs_intermediate_group_logs/case_89_group_logs/retrieved_candidates.json",
+  "response": "Filtered Relevant Items:\n1. [18] DataNode packet I/O at INFO level routinely logs block reception, completed block size, and PacketResponder termination, which can generate large volumes of otherwise normal log entries.\n\nExternal Knowledge Summary:\n- The `Receiving block`, `Received block`, and `PacketResponder ... terminating` messages are normal DataNode communication details logged at INFO level.\n- A separate logger or adjusted log level can reduce this packet-I/O noise while retaining visibility into other DataNode operations.",
+  "external_knowledge_summary": "- The `Receiving block`, `Received block`, and `PacketResponder ... terminating` messages are normal DataNode communication details logged at INFO level.\n- A separate logger or adjusted log level can reduce this packet-I/O noise while retaining visibility into other DataNode operations."
+}

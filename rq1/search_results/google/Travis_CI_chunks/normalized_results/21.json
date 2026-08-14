@@ -1,0 +1,129 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Composer error \"Your PHP version does not satisfy ...",
+    "link": "https://stackoverflow.com/questions/66368196/reference-composer-error-your-php-version-does-not-satisfy-requirements-afte",
+    "displayed_link": "5 answers · 5 years ago",
+    "snippet": "After updating PHP from 7.4 to 8.0, I ran composer update on my existing project, and got an error like this: acme/some-package[1.0.0, ..., 1.4.0] requires php ^ ...",
+    "snippet_highlighted_words": [
+      "PHP",
+      "composer",
+      "php"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "How to Fix the Composer Error: \"Your requirements could ...",
+    "link": "https://laravel-news.com/composer-requirements-errors",
+    "displayed_link": "https://laravel-news.com › Laravel Tutorials",
+    "snippet": "A possible solution to fixing this error is to use the --ignore-platform-reqs flag when running composer install . This flag tells Composer to ...",
+    "snippet_highlighted_words": [
+      "composer install",
+      "Composer"
+    ],
+    "source": "Laravel News",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Error during composer update: In Problem.php line 143 ...",
+    "link": "https://github.com/composer/composer/issues/11359",
+    "displayed_link": "https://github.com › composer › composer › issues",
+    "snippet": "I'm running composer 2.5.4 on PHP 8.2.3. Composer crashes at the end of composer update with this error. My composer.json: { \"name\": ...",
+    "snippet_highlighted_words": [
+      "composer",
+      "PHP",
+      "Composer",
+      "composer",
+      "composer"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "PHP 7.4 and 7.4.6 and php 8 conflicts?!",
+    "link": "https://laracasts.com/discuss/channels/php/php-74-and-746-and-php-8-conflicts",
+    "displayed_link": "https://laracasts.com › discuss › channels › php-74-and-...",
+    "snippet": "Problem 1 - Root composer.json requires php 7.4 but your php version (7.4.6) does not satisfy that requirement.",
+    "snippet_highlighted_words": [
+      "composer",
+      "requires php",
+      "php"
+    ],
+    "source": "Laracasts",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Composer tries to install package incompatible with PHP ...",
+    "link": "https://github.com/composer/composer/issues/11806",
+    "displayed_link": "https://github.com › composer › composer › issues",
+    "snippet": "I get the following output: Loading composer repositories with package information Updating dependencies Your requirements could not be resolved ...",
+    "snippet_highlighted_words": [
+      "composer",
+      "requirements"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Diff - GitHub",
+    "link": "https://patch-diff.githubusercontent.com/raw/joomla/joomla-cms/pull/46155.diff",
+    "displayed_link": "https://patch-diff.githubusercontent.com › joomla › pull",
+    "snippet": "php @@ -149,7 +149,7 @@ public function setup(\\SimpleXMLElement $element, $value, $group = null) { $result = parent::setup($element, $value, $group); - if ...",
+    "snippet_highlighted_words": [
+      "php",
+      "7",
+      "7",
+      "setup",
+      "::setup"
+    ],
+    "source": "githubusercontent.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "composer update fails when verbose · Issue #2494",
+    "link": "https://github.com/composer/composer/issues/2494",
+    "displayed_link": "https://github.com › composer › composer › issues",
+    "snippet": "When using an SVN repository, composer update -v fails with the following error message : [RuntimeException] Failed to execute svn log ...",
+    "snippet_highlighted_words": [
+      "composer"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "while installing package through composer it require too ...",
+    "link": "https://github.com/composer/composer/issues/7012",
+    "displayed_link": "https://github.com › composer › composer › issues",
+    "snippet": "To install your composer.json on my computer, it takes approximately 1 minute. If it takes you a lot longer, network issues or slow disks might be the cause.",
+    "snippet_highlighted_words": [
+      "install",
+      "composer"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Meaning of “Connection closed by xxx [preauth]” in sshd logs",
+    "link": "https://unix.stackexchange.com/questions/102502/meaning-of-connection-closed-by-xxx-preauth-in-sshd-logs",
+    "displayed_link": "https://unix.stackexchange.com › questions › meaning-...",
+    "snippet": "The sshd server will disconnect if the client doesn't try to authenticate in a certain period of time, as documented in the -g option.",
+    "snippet_highlighted_words": [
+      "disconnect"
+    ],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "SSH fails with 'Received disconnect' only for select users",
+    "link": "https://superuser.com/questions/1136602/ssh-fails-with-received-disconnect-only-for-select-users",
+    "displayed_link": "https://superuser.com › questions › ssh-fails-with-receiv...",
+    "snippet": "If I attempt connections using lftp or sftp, the same happens: the connection is dropped right away for the select user This makes me wonder ...",
+    "snippet_highlighted_words": [
+      "for",
+      "user"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "ssh - SSHD: Difference between \"connection closed...\" and ...",
+    "link": "https://serverfault.com/questions/1093505/sshd-difference-between-connection-closed-and-disconnected-from-in-lo",
+    "displayed_link": "https://serverfault.com › questions › sshd-difference-bet...",
+    "snippet": "The messages: Disconnected from invalid user Connection closed by invalid user both indicate a failed login attempt with a username that doesn't exist on your ...",
+    "snippet_highlighted_words": [
+      "Disconnected",
+      "user",
+      "closed",
+      "user"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "[SOLVED] sshd Connection closed by <IP> [preauth]",
+    "link": "https://www.linuxquestions.org/questions/linux-networking-3/sshd-connection-closed-by-ip-%5Bpreauth%5D-4175731566/",
+    "displayed_link": "https://www.linuxquestions.org › linux-networking-3 › s...",
+    "snippet": "Sounds like a firewall is rejecting the connections somewhere, or hosts.deny if you use it. It could also be a restriction in the server config ...",
+    "snippet_highlighted_words": [
+      "use"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "[SOLVED] - Connection closed by IP port xxxx [preauth]",
+    "link": "https://forum.proxmox.com/threads/connection-closed-by-ip-port-xxxx-preauth.46734/",
+    "displayed_link": "https://forum.proxmox.com › threads › connection-clos...",
+    "snippet": "We run a 3 nodes cluster with CEPH. Recently we have noticed that we are unable to use Web VNC for 2 of the nodes, upon some reading online I have restarted ...",
+    "snippet_highlighted_words": [
+      "use",
+      "for"
+    ],
+    "source": "Proxmox Support Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "[SSHD] connection closed immediately on login",
+    "link": "https://forums.freebsd.org/threads/sshd-connection-closed-immediately-on-login.43029/",
+    "displayed_link": "https://forums.freebsd.org › threads › sshd-connection-...",
+    "snippet": "sshd is running and accepts connections, but claims that the \"user disconnected\" immediately after login. It also complains as: Code: csh: No such file or ...",
+    "snippet_highlighted_words": [
+      "user disconnected"
+    ],
+    "source": "FreeBSD",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "16.04 - SSH Connection to Ubuntu Server fails with ...",
+    "link": "https://askubuntu.com/questions/798555/ssh-connection-to-ubuntu-server-fails-with-connection-closed-ip-preauth",
+    "displayed_link": "https://askubuntu.com › questions › ssh-connection-to-...",
+    "snippet": "Just hangs there. In the auth.log on the server not much is happening. After a while it says Connection closed <ip> [preauth] .",
+    "snippet_highlighted_words": [
+      "closed",
+      "preauth"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Spammed by SSH connection attempts : r/archlinux",
+    "link": "https://www.reddit.com/r/archlinux/comments/mpx516/spammed_by_ssh_connection_attempts/",
+    "displayed_link": "20+ comments · 4 years ago",
+    "snippet": "apr 12 10:13:04 Void sshd[4002096]: Received disconnect from ... Disconnected from invalid user anke 157.230.109.166 port 33528 [preauth].",
+    "snippet_highlighted_words": [
+      "Received disconnect",
+      "user",
+      "preauth"
+    ],
+    "source": "Reddit · r/archlinux",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "SSHD error: Received disconnect",
+    "link": "https://bbs.archlinux.org/viewtopic.php?id=160408",
+    "displayed_link": "https://bbs.archlinux.org › viewtopic",
+    "snippet": "All I can say is that when running sshd.service with \"-Dddd\" the disconnect messages are recorded using the usual auth.info facility, not auth.err.",
+    "snippet_highlighted_words": [
+      "disconnect"
+    ],
+    "source": "Arch Linux Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "SSH and the (apparently) dreaded \"Connection closed ...",
+    "link": "https://forum.level1techs.com/t/ssh-and-the-apparently-dreaded-connection-closed-preauth/115323",
+    "displayed_link": "https://forum.level1techs.com › ... › Linux",
+    "snippet": "I have a Linux problem. Basically the server that I use to get ssh access to my network no longer lets me connect from the outside world.",
+    "snippet_highlighted_words": [
+      "use",
+      "get"
+    ],
+    "source": "Level1Techs Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "case_id": "24",
+  "summary_raw": "[\"double-hummer alignment exceptions\"]",
+  "summary_items": [
+    "double-hummer alignment exceptions"
+  ],
+  "group_logs_lines": [
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 2016000 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 2016000 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions",
+    "RAS KERNEL INFO 1969920 double-hummer alignment exceptions"
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_7d05a9631dfed28c0978982a3a4ea13162eb72a4b291bb08c8fe5ca034da1a21",
+    "score": 76.72105,
+    "link": "https://stackoverflow.com/questions/32800599",
+    "source": "so",
+    "origin_doc_id": "8390d084973116120224c3aa0cf561fbc1a471faeddd63879a7af26c1a26c397",
+    "snippet": "2015-09-25 21:18:26,678 INFO org.apache.hadoop.http.HttpServer2: Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)"
+  },
+  {
+    "rank": 2,
+    "id": "msg_519d57e54216e4bedd1bde936db40f0a84514ea8aea88187bd9f52ad8020125e",
+    "score": 76.72105,
+    "link": "https://stackoverflow.com/questions/25320696",
+    "source": "so",
+    "origin_doc_id": "1be60d9a4b6fb92aba703a8fcc10d7df64a2280b19b156d50cbeee65a3105cbf",
+    "snippet": "2014-08-15 10:17:54,620 INFO org.apache.hadoop.http.HttpServer2: Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_01fe7d16942bcd886bd343ba15c50e53b73e157d431d70d76b625d7faf2eafa6",
+    "score": 76.72105,
+    "link": "https://stackoverflow.com/questions/28172413",
+    "source": "so",
+    "origin_doc_id": "16d3d663f14f87352f580dddfc2eb3579aa647fc12280a5f0fdedf3153ff7e0f",
+    "snippet": "2015-01-27 19:30:33,284 INFO org.apache.hadoop.http.HttpServer2: Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)"
+  },
+  {
+    "rank": 4,
+    "id": "msg_e5502c0fedfeac7c3425f424ac006a7792bb126207a216fc7099261d8c4d5ed9",
+    "score": 76.72105,
+    "link": "https://stackoverflow.com/questions/28363263",
+    "source": "so",
+    "origin_doc_id": "d93c034f8f5cd01acac9cc8fdf05c43f0738a70cfa44e5bcb90da8dc81078566",
+    "snippet": "2015-02-06 11:40:35,129 INFO org.apache.hadoop.http.HttpServer2: Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_7c0b6a662a04ab75d4d413fead5aed94127bba8f96f46a9dd4ca0e1d857dbb7d",
+    "score": 76.72105,
+    "link": "https://stackoverflow.com/questions/34126781",
+    "source": "so",
+    "origin_doc_id": "c6e1ec048b02c23b4ffe75eca02a159dbba480b4fedcd16bf1c74cba0de05a73",
+    "snippet": "2015-12-08 16:24:53,336 INFO org.apache.hadoop.http.HttpServer2: Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_59ddb4427d5737ccdeb9fbb17b0d5af44b0edff0d013d9c0ed5491eaf106c78f",
+    "score": 76.72105,
+    "link": "https://stackoverflow.com/questions/34149090",
+    "source": "so",
+    "origin_doc_id": "88b3248234383c4e63f7ac9cfb5b2e34d4b53e1bed0a80778f29ae4bc938b051",
+    "snippet": "2015-12-08 10:26:20,185 INFO org.apache.hadoop.http.HttpServer2: Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)"
+  },
+  {
+    "rank": 7,
+    "id": "msg_044305d5a0607976b4d19316621d022658b1d3a022f0f2414ef9a1604d7cc8e4",
+    "score": 76.72105,
+    "link": "https://stackoverflow.com/questions/31378818",
+    "source": "so",
+    "origin_doc_id": "4f7335eabe154cb9b16f3c4699d53e24ba257a28142c26b6a71182c7ac7984bb",
+    "snippet": "2015-07-13 12:29:01,050 INFO org.apache.hadoop.http.HttpServer2: Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)"
+  },
+  {
+    "rank": 8,
+    "id": "msg_2662a7c611d2821fb92abbfb41d47ee2472a06566af33884a000c8cea6fe08d7",
+    "score": 76.72105,
+    "link": "https://stackoverflow.com/questions/31440556",
+    "source": "so",
+    "origin_doc_id": "b9a2f8e106676323a990682b4fde1a3208e74b3836583287910fdf1e506c8ab3",
+    "snippet": "2015-07-10 00:27:17,941 INFO org.apache.hadoop.http.HttpServer2: Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_01326ed02525a3e676732e76e0af34284a0a5d1034cba77bbb35ac91683a501a",
+    "score": 76.72105,
+    "link": "https://issues.apache.org/jira/browse/HDFS-11525",
+    "source": "jira",
+    "origin_doc_id": "01652a7441259e7761ba418617aa0dcea9f4b114ade80f6bfaf0bb2b185566f0",
+    "snippet": "2017-03-10 10:22:18,574 INFO org.apache.hadoop.http.HttpServer2: Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)"
+  },
+  {
+    "rank": 10,
+    "id": "msg_8bed8f7b7c0a62dab0d46e607107d2abd2129ddc40be54c5a987ad3267ea1a2b",
+    "score": 76.72105,
+    "link": "https://issues.apache.org/jira/browse/HDDS-610",
+    "source": "jira",
+    "origin_doc_id": "094a4aa12b2eccfa1001cd3dc872cd0c8697aa3502c9ccdc661e7b1761873cdb",
+    "snippet": "2018-10-09 23:34:12,840 INFO org.apache.hadoop.http.HttpServer2: Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)"
+  }
+]

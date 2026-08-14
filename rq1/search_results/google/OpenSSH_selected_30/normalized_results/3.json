@@ -1,0 +1,141 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "ssh server config - input_userauth_request: invalid user",
+    "link": "https://serverfault.com/questions/665587/ssh-server-config-input-userauth-request-invalid-user",
+    "displayed_link": "https://serverfault.com › questions › ssh-server-config-i...",
+    "snippet": "At the moment your sshd configuration has no authentication methods enabled, thus it's impossible for sshd to authenticate users.",
+    "snippet_highlighted_words": [
+      "users"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Permission denied but publickey added on server?",
+    "link": "https://stackoverflow.com/questions/44399393/permission-denied-but-publickey-added-on-server",
+    "displayed_link": "1 answer · 8 years ago",
+    "snippet": "input_userauth_request: invalid user USERNAME [preauth]. Means that the user does not exist on the server. Is it a local user or a user from ...",
+    "snippet_highlighted_words": [
+      "input_userauth_request",
+      "invalid user",
+      "preauth"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Unable to login with local user via ssh with error ...",
+    "link": "https://access.redhat.com/solutions/4952131",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Unable to login with local user via ssh with error \"input_userauth_request: invalid user\". Solution Verified - Updated January 26 2026 at 5 ...",
+    "snippet_highlighted_words": [
+      "input_userauth_request",
+      "invalid user"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Invalid users trying to log in to my server",
+    "link": "https://security.stackexchange.com/questions/21027/invalid-users-trying-to-log-in-to-my-server",
+    "displayed_link": "https://security.stackexchange.com › questions › invalid...",
+    "snippet": "I'm seeing a lot of log entries that appear to be failed login attempts from unknown IP addresses. I am using private and public keys to log in with SSH.",
+    "snippet_highlighted_words": [],
+    "source": "Information Security Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "ssh PasswordAuthentication scheme + Kerberos = invalid ...",
+    "link": "https://www.linuxquestions.org/questions/linux-software-2/ssh-passwordauthentication-scheme-kerberos-%3D-invalid-user-4175558969/",
+    "displayed_link": "https://www.linuxquestions.org › linux-software-2 › ssh-...",
+    "snippet": "input_userauth_request: invalid user servicenow [preauth]. So I created a local user on the server, used that and we had success. So somehow ...",
+    "snippet_highlighted_words": [
+      "input_userauth_request",
+      "invalid user",
+      "preauth"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "SSH is refusing me (all of a sudden)",
+    "link": "https://askubuntu.com/questions/891404/ssh-is-refusing-me-all-of-a-sudden",
+    "displayed_link": "https://askubuntu.com › questions › ssh-is-refusing-me-...",
+    "snippet": "I have a Ubuntu 14.04 server which has automatic security updates enabled. SSH is configured with the following options: Port 22, PermitRootLogin no, ...",
+    "snippet_highlighted_words": [],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Why would someone try to ssh with HTML fragments?",
+    "link": "https://www.reddit.com/r/sysadmin/comments/57zrqy/why_would_someone_try_to_ssh_with_html_fragments/",
+    "displayed_link": "5 comments · 9 years ago",
+    "snippet": "Someone stuffed up the file permissions on the usernames.txt file, so the webserver is returning a generic error page instead of the list of ...",
+    "snippet_highlighted_words": [],
+    "source": "Reddit · r/sysadmin",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Unable to SSH Login to RHEL 7.4 VM",
+    "link": "https://community.spiceworks.com/t/unable-to-ssh-login-to-rhel-7-4-vm/687537",
+    "displayed_link": "https://community.spiceworks.com › ... › question",
+    "snippet": "I've tried to SSH to both systems using my AD Account admin.acct@domain.com, I can login to both systems without any issues, but when other AD users user2@ ...",
+    "snippet_highlighted_words": [],
+    "source": "Spiceworks Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Unable to login with AD user via ssh with AVC denials in ...",
+    "link": "https://access.redhat.com/solutions/3376571",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Unable to login as AD user, changing SELinux into permissive resolves the issue and user can login successfully. /var/log/audit/audit.log shows ...",
+    "snippet_highlighted_words": [
+      "user",
+      "user"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Unable to log into ssh after useradd new user - blog of stigok",
+    "link": "https://blog.stigok.com/2017/06/13/unable-to-log-into-ssh-after-useradd-new-user.html",
+    "displayed_link": "https://blog.stigok.com › 2017/06/13 › unable-to-log-in...",
+    "snippet": "In my case, the account is locked because the user has no password. Create a new password for the user and try again. root@server# passwd foob ...",
+    "snippet_highlighted_words": [
+      "user",
+      "user"
+    ],
+    "source": "stigok.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

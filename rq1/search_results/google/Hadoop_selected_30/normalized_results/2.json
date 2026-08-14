@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Execution Tokens Tutorial - Gforth Manual",
+    "link": "https://www.complang.tuwien.ac.at/forth/gforth/Docs-html/Execution-Tokens-Tutorial.html",
+    "displayed_link": "https://www.complang.tuwien.ac.at › gforth › Docs-html",
+    "snippet": "3.29 Execution Tokens. ' word gives you the execution token (XT) of a word. The XT is a cell representing the interpretation semantics of a word.",
+    "snippet_highlighted_words": [
+      "Execution Tokens"
+    ],
+    "source": "Technische Universität Wien | TU Wien",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Execute Token | Get started with Plant an App",
+    "link": "https://learn.plantanapp.com/docs/Actions/execute-token",
+    "displayed_link": "https://learn.plantanapp.com › docs › Actions › execute...",
+    "snippet": "This actions executes a token, usually a token, where tokens can contain business logic that generates and/or saves data. This action will output a token ...",
+    "snippet_highlighted_words": [
+      "executes a token"
+    ],
+    "source": "Plant an App",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Does executing a long-running command use tokens?",
+    "link": "https://www.reddit.com/r/ClaudeAI/comments/1nmq8ip/does_executing_a_longrunning_command_use_tokens/",
+    "displayed_link": "1 comment · 6 months ago",
+    "snippet": "Does executing a long-running command use tokens? Question. I have CodeRabbit being run by Claude Code as per each file change. The time it ...",
+    "snippet_highlighted_words": [
+      "Does executing a long-running command use tokens"
+    ],
+    "source": "Reddit · r/ClaudeAI",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Token-Level Execution Traces: Debugging LLM Agents by ...",
+    "link": "https://medium.com/@pablojusue/token-level-execution-traces-debugging-llm-agents-by-inspecting-their-stepwise-computational-c14beef0dfba",
+    "displayed_link": "4 months ago",
+    "snippet": "A token-level execution trace is a structured representation of how the model's logits evolve at each generation step. Think of it as: A time- ...",
+    "snippet_highlighted_words": [
+      "how the model's logits evolve at each generation step"
+    ],
+    "source": "Medium · Pablo jusue",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Access Token Manipulation, Technique T1134 - Enterprise",
+    "link": "https://attack.mitre.org/techniques/T1134/",
+    "displayed_link": "https://attack.mitre.org › techniques",
+    "snippet": "A user can manipulate access tokens to make a running process appear as though it is the child of a different process or belongs to someone other than the user ...",
+    "snippet_highlighted_words": [
+      "make a running process appear as though it is the child of a different process"
+    ],
+    "source": "MITRE ATT&CK®",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Proposal: Clarification for execution token",
+    "link": "https://forth-standard.org/proposals/clarification-for-execution-token",
+    "displayed_link": "https://forth-standard.org › proposals › clarification-for...",
+    "snippet": "For any execution token there exists at least one Forth definition (named or unnamed) the execution semantics of which are identified by this execution ...",
+    "snippet_highlighted_words": [
+      "For any execution token there exists at least one Forth definition"
+    ],
+    "source": "Forth Standard",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Execution token (Gforth Manual)",
+    "link": "https://gforth.org/manual/Execution-token.html",
+    "displayed_link": "https://gforth.org › manual › Execution-token",
+    "snippet": "An execution token (XT) represents some behaviour of a word. You can use execute to invoke this behaviour.",
+    "snippet_highlighted_words": [
+      "represents some behaviour of a word"
+    ],
+    "source": "Gforth",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Most devs don't understand how LLM tokens work",
+    "link": "https://www.youtube.com/watch?v=nKSk_TiR8YA",
+    "displayed_link": "207.7K+ views · 6 months ago",
+    "snippet": "Tokens are the currency of LLMs when you send an input of Hello World to an LLM that gets broken down into its constituent tokens.",
+    "snippet_highlighted_words": [],
+    "source": "YouTube · Matt Pocock",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Hadoop Delegation Tokens Explained | Blog",
+    "link": "https://www.cloudera.com/blog/technical/hadoop-delegation-tokens-explained.html",
+    "displayed_link": "https://www.cloudera.com › blog › technical › hadoop-...",
+    "snippet": "This blog post introduces the concept of Hadoop Delegation Tokens in the context of Hadoop Distributed File System (HDFS) and Hadoop Key Management Server (KMS ...",
+    "snippet_highlighted_words": [
+      "Hadoop Delegation Tokens"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Token - Docs",
+    "link": "https://docs.flowx.ai/5.1/docs/building-blocks/token",
+    "displayed_link": "https://docs.flowx.ai › docs › building-blocks › token",
+    "snippet": "A token is created each time a new process instance starts. As actions on the process instance execute, the token advances from one node to the ...",
+    "snippet_highlighted_words": [
+      "token",
+      "execute",
+      "token"
+    ],
+    "source": "FlowX.AI documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

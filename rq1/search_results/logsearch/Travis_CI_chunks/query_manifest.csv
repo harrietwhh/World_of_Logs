@@ -1,0 +1,99 @@
+batch_index,line_id,event_id,event_template,query_text,normalized_results_file,requested_at_utc,num_results,status,error_message
+1,1,,,"No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)
+/home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval'
+/home/travis/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>'",normalized_results/1.json,2026-04-10T21:31:12.029482+00:00,10,success,
+2,2,,,"No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)
+/home/travis/.rvm/gems/ruby-2.2.6/bin/ruby_executable_hooks:15:in `eval'
+/home/travis/.rvm/gems/ruby-2.2.6/bin/ruby_executable_hooks:15:in `<main>'",normalized_results/2.json,2026-04-10T21:31:18.144801+00:00,10,success,
+3,3,,,"+ ERROR! openface/celeb-classifier.nn4.small2.v1.pkl md5sum did not match.
+  + Expected: 199a2c0d32fd0f22f14ad2d248280475
+  + Actual: 390264772e075a0aa5c907e4ed0c2561
+  + Please manually delete this file and try re-running this script.",normalized_results/3.json,2026-04-10T21:31:23.539661+00:00,10,success,
+4,4,,,"Installation failed.
+See ‘/home/travis/build/twitter/AnomalyDetection/AnomalyDetection.Rcheck/00install.out’ for details.",normalized_results/4.json,2026-04-10T21:31:29.734450+00:00,10,success,
+5,5,,,"cabal.exe: Couldn't establish HTTP connection. Possible cause: HTTP proxy
+
+server is down.",normalized_results/5.json,2026-04-10T21:31:35.389946+00:00,10,success,
+6,6,,,"container_linux.go:265: starting container process caused ""exec: \""-c\"": executable file not found in $PATH""
+docker: Error response from daemon: oci runtime error: container_linux.go:265: starting container process caused ""exec: \""-c\"": executable file not found in $PATH"".",normalized_results/6.json,2026-04-10T21:31:41.052611+00:00,10,success,
+7,7,,,"+docker build -t :current .
+invalid argument "":current"" for t: invalid reference format",normalized_results/7.json,2026-04-10T21:31:46.864771+00:00,10,success,
+8,8,,,"Module Failed: date-time-input-range
+Test Failed: prevents toDate to be before fromDate
+  Assertion Failed: failed, expected argument to be falsy, was: true    
+  Assertion Failed: failed, expected argument to be truthy, was: false
+    Expected: true, Actual: false",normalized_results/8.json,2026-04-10T21:31:53.124460+00:00,10,success,
+9,9,,,"001+ ** ERROR: process timed out **
+
+001- OK.
+========DONE========
+FAIL Bug #60120 (proc_open hangs when data in stdin/out/err is getting larger or equal to 2048) [ext/standard/tests/file/bug60120.phpt]",normalized_results/9.json,2026-04-10T21:31:58.680503+00:00,10,success,
+10,10,,,"Extensions/CollectionExtensions.cs(20,40): error CS0103: The name 'key' does not exist in the current context [/home/travis/build/NancyFx/Nancy/src/Nancy/Nancy.csproj]
+Extensions/CollectionExtensions.cs(21,17): error CS0103: The name 'key' does not exist in the current context [/home/travis/build/NancyFx/Nancy/src/Nancy/Nancy.csproj]
+Extensions/CollectionExtensions.cs(23,24): error CS0029: Cannot implicitly convert type 'string[]' to 'System.Collections.Generic.IDictionarystring, System.Collections.Generic.IEnumerablestring>>' [/home/travis/build/NancyFx/Nancy/src/Nancy/Nancy.csproj]
+Extensions/CollectionExtensions.cs(25,20): error CS0029: Cannot implicitly convert type 'string[]' to 'System.Collections.Generic.IDictionarystring, System.Collections.Generic.IEnumerablestring>>' [/home/travis/build/NancyFx/Nancy/src/Nancy/Nancy.csproj]",normalized_results/10.json,2026-04-10T21:32:05.064927+00:00,10,success,
+11,11,,,"diff --git a/src/wallet/rpcwallet.cpp b/src/wallet/rpcwallet.cpp
+@@ -3338,4 +3342,5 @@ static UniValue bumpfee(const JSONRPCRequest& request)
++            true, true);
+^---- failure generated from test/lint/lint-whitespace.sh",normalized_results/11.json,2026-04-10T21:32:10.613956+00:00,10,success,
+12,12,,,"1) AtomApplication command-line interface behavior atom:// URLs with a ""core"" host sends a URI message to the most recently focused non-spec window that owns the open locations:
+     Error: timeout of 2000ms exceeded. Ensure the done() callback is being called in this test.",normalized_results/12.json,2026-04-10T21:32:16.055104+00:00,10,success,
+13,13,,,"** (Mix) mix format failed due to --check-formatted.
+The following files were not formatted:
+
+  * lib/elixir/test/elixir/module/types/infer_test.exs",normalized_results/13.json,2026-04-10T21:32:22.885260+00:00,10,success,
+14,14,,,"suite:send_recv failed on line 593
+Reason: timetrap_timeout",normalized_results/14.json,2026-04-10T21:32:28.188661+00:00,10,success,
+15,15,,,"src/github.com/getlantern/appdir/appdir_test.go:4: log redeclared as imported package name
+	previous declaration at $WORK/github.com/getlantern/appdir/_test/_obj_test/appdir.go:16
+FAIL	github.com/getlantern/appdir [build failed]",normalized_results/15.json,2026-04-10T21:32:34.536157+00:00,10,success,
+16,16,,,"normalize.css[24m[22m
+[1m429[22m[1m:1[22m	Unexpected missing newline at end of file (no-missing-eof-newline)",normalized_results/16.json,2026-04-10T21:32:40.462927+00:00,10,success,
+17,17,,,"io.reactivex.internal.operators.observable.ObservableRefCountTest > publishNoLeak FAILED
+    java.lang.AssertionError: 13,928,704 -> 113,907,376
+        at org.junit.Assert.fail(Assert.java:88)
+        at org.junit.Assert.assertTrue(Assert.java:41)
+        at io.reactivex.internal.operators.observable.ObservableRefCountTest.publishNoLeak(ObservableRefCountTest.java:731)",normalized_results/17.json,2026-04-10T21:32:46.053509+00:00,10,success,
+18,18,,,"1) Check challenges
+       Check challenges (english)
+         Add a Text Alternative to Images for Visually Impaired Accessibility
+           Common checks:
+     ValidationError: ""forumTopicId"" is not allowed",normalized_results/18.json,2026-04-10T21:32:51.455861+00:00,10,success,
+19,19,,,"current-buffer: README.orgphoenix>2>
+current-file: /tmp/docs/layers/+frameworks/phoenix/README.org
+error: File ""/tmp/docs/layers/+frameworks/phoenix/README.org"" doesn't have ""Features:""(With a colon) list in the top level ""Description"" headline
+See ""https://github.com/syl20bnr/spacemacs/blob/develop/core/templates/README.org.template""",normalized_results/19.json,2026-04-10T21:32:57.122446+00:00,10,success,
+20,20,,,"/Users/travis/build/realm/realm-cocoa/RealmSwift/Object+Combine.swift:88:42: warning: Colon Violation: Colons should be next to the identifier when specifying a type and next to the key in dictionary literals. (colon)
+
+/Users/travis/build/realm/realm-cocoa/RealmSwift/Object+Combine.swift:46:31: warning: Empty Parentheses with Trailing Closure Violation: When using trailing closures, empty parentheses should be avoided after the method call. (empty_parentheses_with_trailing_closure)",normalized_results/20.json,2026-04-10T21:33:04.290349+00:00,10,success,
+21,21,,,"Line   src/Composer/Installer.php                                    
+ ------ -------------------------------------------------------------- 
+  1174   Method Composer\Installer::updatePackageUrl() invoked with 8  
+         parameters, 7 required.",normalized_results/21.json,2026-04-10T21:33:11.427837+00:00,10,success,
+22,22,,,"standard: Use JavaScript Standard Style (https://github.com/feross/standard) 
+  /home/travis/build/jlord/git-it-electron/lib/build-challenges.js:178:40: A space is required after ','.",normalized_results/22.json,2026-04-10T21:33:17.534590+00:00,10,success,
+23,23,,,"./thefuck/rules/terraform_init.py:8:9: E128 continuation line under-indented for visual indent
+./thefuck/rules/terraform_init.py:9:5: E124 closing bracket does not match visual indentation",normalized_results/23.json,2026-04-10T21:33:23.109417+00:00,10,success,
+24,24,,,"fusermount: bad mount point build/filesystem/: No such file or directory
+rm -rf build
+make: *** No rule to make target `travis'.  Stop.",normalized_results/24.json,2026-04-10T21:33:28.509922+00:00,10,success,
+25,25,,,"[info] - Single client and rejecting server results in both sides TLS connections at 0 *** FAILED ***
+[info]   Expected exception com.twitter.finagle.SslException to be thrown, but com.twitter.finagle.Failure was thrown (ThriftSmuxSslTest.scala:151)",normalized_results/25.json,2026-04-10T21:33:34.774811+00:00,10,success,
+26,26,,,"[0K$ ./check_integrity.sh $(find bin | cut -b 5- | xargs)
+Skip command rscp
+Run 'make docs' to create man/git-rename-remote.1 and man/git-rename-remote.html",normalized_results/26.json,2026-04-10T21:33:40.361614+00:00,10,success,
+27,27,,,"xcodebuild: error: Unable to find a destination matching the provided destination specifier:
+
+		{ platform:tvOS Simulator, name:Apple TV 1080p }",normalized_results/27.json,2026-04-10T21:33:46.666163+00:00,10,success,
+28,28,,,"rake aborted!
+No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)",normalized_results/28.json,2026-04-10T21:33:53.021138+00:00,10,success,
+29,29,,,"Error: Process exited with code: 2
+    at ChildProcess.anonymous> (/home/travis/build/microsoft/TypeScript/scripts/build/utils.js:52:24)
+    at ChildProcess.emit (events.js:203:13)
+    at ChildProcess.EventEmitter.emit (domain.js:494:23)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:272:12)",normalized_results/29.json,2026-04-10T21:33:58.190632+00:00,10,success,
+30,30,,,"/home/travis/build/purescript/purescript/sdist-test/[;1msrc/Language/PureScript/TypeChecker/Types.hs:40:1: [;1m[31merror:[0m[0m[;1m [[;1m[31m-Wunused-imports, -Werror=unused-imports[0m[0m[;1m][0m[0m[;1m[0m
+[0m    The import of ‘!!’ from module ‘Data.List’ is redundant[0m[0m[0m
+[0m[;1m[34m   |[0m[0m[0m
+[0m[;1m[34m40 |[0m[0m [;1m[31mimport Data.List (transpose, (\\), partition, delete, (!!))[0m[0m[0m
+[0m[;1m[34m   |[0m[0m[;1m[31m ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",normalized_results/30.json,2026-04-10T21:34:05.268972+00:00,10,success,

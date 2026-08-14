@@ -1,0 +1,29 @@
+{
+  "case_id": "18",
+  "summary_raw": "[\"ServerFileSystem domain is no longer served\"]",
+  "summary_items": [
+    "ServerFileSystem domain is no longer served"
+  ],
+  "group_logs_lines": [
+    "clusterfilesystem clusterfilesystem.not_served 1074123881 1 ClusterFileSystem : ServerFileSystem domain root7_domain is no longer served by node node-230",
+    "clusterfilesystem clusterfilesystem.not_served 1074123885 1 ClusterFileSystem : ServerFileSystem domain root21_domain is no longer served by node node-32",
+    "clusterfilesystem clusterfilesystem.not_served 1074123909 1 ClusterFileSystem : ServerFileSystem domain root24_domain is no longer served by node node-128",
+    "clusterfilesystem clusterfilesystem.not_served 1074123912 1 ClusterFileSystem : ServerFileSystem domain root21_domain is no longer served by node node-224",
+    "clusterfilesystem clusterfilesystem.not_served 1074123963 1 ClusterFileSystem : ServerFileSystem domain root25_domain is no longer served by node node-96",
+    "clusterfilesystem clusterfilesystem.not_served 1074123982 1 ClusterFileSystem : ServerFileSystem domain root10_domain is no longer served by node node-105",
+    "clusterfilesystem clusterfilesystem.not_served 1074123988 1 ClusterFileSystem : ServerFileSystem domain root10_domain is no longer served by node node-137",
+    "clusterfilesystem clusterfilesystem.not_served 1074124008 1 ClusterFileSystem : ServerFileSystem domain root24_domain is no longer served by node node-192",
+    "clusterfilesystem clusterfilesystem.not_served 1074124043 1 ClusterFileSystem : ServerFileSystem domain root3_domain is no longer served by node node-194",
+    "clusterfilesystem clusterfilesystem.not_served 1074124048 1 ClusterFileSystem : ServerFileSystem domain root24_domain is no longer served by node node-64",
+    "clusterfilesystem clusterfilesystem.not_served 1074124050 1 ClusterFileSystem : ServerFileSystem domain root22_domain is no longer served by node node-0",
+    "clusterfilesystem clusterfilesystem.not_served 1074124084 1 ClusterFileSystem : ServerFileSystem domain root22_domain is no longer served by node node-32",
+    "clusterfilesystem clusterfilesystem.not_served 1074124109 1 ClusterFileSystem : ServerFileSystem domain root22_domain is no longer served by node node-224",
+    "clusterfilesystem clusterfilesystem.not_served 1074124124 1 ClusterFileSystem : ServerFileSystem domain root8_domain is no longer served by node node-231",
+    "clusterfilesystem clusterfilesystem.not_served 1074124125 1 ClusterFileSystem : ServerFileSystem domain root25_domain is no longer served by node node-128",
+    "clusterfilesystem clusterfilesystem.not_served 1074124134 1 ClusterFileSystem : ServerFileSystem domain root10_domain is no longer served by node node-73",
+    "clusterfilesystem clusterfilesystem.not_served 1074124165 1 ClusterFileSystem : ServerFileSystem domain root11_domain is no longer served by node node-138",
+    "clusterfilesystem clusterfilesystem.not_served 1074124173 1 ClusterFileSystem : ServerFileSystem domain root11_domain is no longer served by node node-106",
+    "clusterfilesystem clusterfilesystem.not_served 1074124183 1 ClusterFileSystem : ServerFileSystem domain root26_domain is no longer served by node node-96",
+    "clusterfilesystem clusterfilesystem.not_served 1074124218 1 ClusterFileSystem : ServerFileSystem domain root25_domain is no longer served by node node-192"
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_c5b71ca8d530107d4e288865ee9884d68fe769d215bd11a5406aea6ed244fff4",
+    "score": 71.732475,
+    "link": "https://issues.apache.org/jira/browse/TEZ-2460",
+    "source": "jira",
+    "origin_doc_id": "0b621b5f484663f5f6d6b2fc7688351df31fc6f6e3ea4e5e0b2b32785456be92",
+    "snippet": "2015-05-18 16:57:50,254 INFO [ServiceThread:org.apache.tez.dag.app.web.WebUIService] http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static"
+  },
+  {
+    "rank": 2,
+    "id": "msg_cf02e9979e29da98dd735eea0fbb9bd49e2f39276a3876163441b537dd757791",
+    "score": 71.732475,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:27,860 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static"
+  },
+  {
+    "rank": 3,
+    "id": "msg_83b15a9e63a53ff3ecbbd53a5a7667ea5fa265eee6bd5bee1245dcbbcb0f9ac9",
+    "score": 71.732475,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:48,019 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static"
+  },
+  {
+    "rank": 4,
+    "id": "msg_1d13f7ddc62f9bab29a9ccb5c4518c44aab264c546d637cc4682c6669f134f96",
+    "score": 71.732475,
+    "link": "https://issues.apache.org/jira/browse/HIVE-12810",
+    "source": "jira",
+    "origin_doc_id": "1b46e2b8c97e6af691aff409bee8984507bd35ebfe7bdbe53e4e17f2b79104aa",
+    "snippet": "2016-01-08 09:26:09,394 INFO [ServiceThread:org.apache.tez.dag.app.web.WebUIService] http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static"
+  },
+  {
+    "rank": 5,
+    "id": "msg_f965d05872b8420842597006519c6acea6fa60b99195fdc210442822aa5c9bfb",
+    "score": 71.732475,
+    "link": "https://stackoverflow.com/questions/29075106",
+    "source": "so",
+    "origin_doc_id": "8804889924d3bb86586e2b967059d726e1328690ac16880f1a3ffbd69e9b1e96",
+    "snippet": "2015-03-16 11:46:53,663 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static"
+  },
+  {
+    "rank": 6,
+    "id": "msg_af52ebb9a30b668cd6909604631989e1c54edde567698d9ad0ec37b32e01875c",
+    "score": 71.732475,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:25,614 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static"
+  },
+  {
+    "rank": 7,
+    "id": "msg_c2f4b434c0a73b9d495bf72cf9dc4484e247991c7a76941db8df77f5772f2e7d",
+    "score": 71.732475,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:55,187 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static"
+  },
+  {
+    "rank": 8,
+    "id": "msg_812eb6b62001240baf284fdf6db23010bb2e39cc2d39ac9fd25067bf5d0b21d4",
+    "score": 71.732475,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:42,291 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static"
+  },
+  {
+    "rank": 9,
+    "id": "msg_fcf9d5c362b47d320ee80c4e588965e0a91d3467fc613ffd88be4ad2489fedf1",
+    "score": 71.732475,
+    "link": "https://issues.apache.org/jira/browse/YARN-10317",
+    "source": "jira",
+    "origin_doc_id": "ed36856b414ae278cb196ad7718b1ec45f3f6d7fe031ad6b45da26cfb10bdefd",
+    "snippet": "2020-06-16 15:10:15,730 [INFO] [ServiceThread:org.apache.tez.dag.app.web.WebUIService] |http.HttpServer2|: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static"
+  },
+  {
+    "rank": 10,
+    "id": "msg_2ce8832bc223e4d8a4dc8caecb2f591baa8905c7bfe620c370f772d1b35b7569",
+    "score": 71.732475,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:55,543 INFO [main] org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static"
+  }
+]

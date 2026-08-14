@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_596f07fc7660cd884584f470b60e1bf4ec23cc5ce677693e5cfe29aa78cba805",
+    "score": 29.78658,
+    "link": "https://github.com/lightningnetwork/lnd/issues/1463",
+    "source": "github",
+    "origin_doc_id": "f668d470fc2fdef2494395e5cac3707e8b445b30f4ef01214715849d2bc2ab7a",
+    "snippet": "; <<>> DiG 9.10.6 <<>> soa lightning.directory @172.16.17.32\n;; global options: +cmd\n;; Got answer:\n;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 18450\n;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0\n;; WARNING: recursion requested but not available\n\n;; QUESTION SECTION:\n;lightning.directory.\t\tIN\tSOA\n;; Query time: 175 msec \n ;; SERVER: 104.131.26.124#53(104.131.26.124) \n ;; WHEN: Tue Jul 10 12:31:12 CEST 2018 \n ;; MSG SIZE  rcvd: 37 \n ``` \n no SOA configured for lightning.directory."
+  },
+  {
+    "rank": 2,
+    "id": "msg_7ee8e89afdde78ac6a86c264531b85eae45f1de7320a4eefe25427e907ccf533",
+    "score": 29.614952,
+    "link": "https://github.com/rancher/rancher/issues/7866",
+    "source": "github",
+    "origin_doc_id": "ccc206b363a281b1770aeef313502492b9dcb4cf16d9c03a2c64157b432119e9",
+    "snippet": ";; WARNING: recursion requested but not available\n\n;; OPT PSEUDOSECTION:\n; EDNS: version: 0, flags:; udp: 1680\n;; QUESTION SECTION:\n;dol.pax.ch.                    IN      SOA\n\n;; ANSWER SECTION:\ndol.pax.ch.             86400   IN      SOA     dns.dol.pax.ch. zone.dol.pax.ch. 2017021701 2400 360 1209600 300\n;; Query time: 6 msec\n;; SERVER: 192.168.60.201#53(192.168.60.201)\n;; WHEN: Mon Feb 20 07:27:36 UTC 2017\n;; MSG SIZE  rcvd: 84"
+  },
+  {
+    "rank": 3,
+    "id": "msg_c89df64e650dc9223c3837fb1bc2602572bf97cfc1360977a4d44ce7be700c24",
+    "score": 28.358068,
+    "link": "https://github.com/LuckyLuv77/security-alerts/issues/10",
+    "source": "github",
+    "origin_doc_id": "e3d2a68d2e179cf5d0dcfd9dbebfaff083320293e824e2e6eee7d43ebba321f3",
+    "snippet": "; <<>> Hurricane Electric Dig <<>> atlsecsrv.com\n;; global options: +cmd\n;; Got answer:\n;; ->>HEADER<<- opcode: QUERY, status: NOERROR\n\n;; QUESTION SECTION:\natlsecsrv.com\tIN\tSOA\n;; AUTHORITY SECTION:\natlsecsrv.com\t21600\tIN\tSOA\tns-cloud-e1.googledomains.com\tcloud-dns-hostmaster.google.com\t131\t21600\t3600\t259200\t300\n;; QUESTION SECTION:\nns-cloud-e2.googledomains.com\t322582\tIN\tAAAA\tfc00:e968:6179::de52:7100\nns-cloud-e3.googledomains.com\t335389\tIN\tA\t192.168.3.11\nns-cloud-e3.googledomains.com\t251975\tIN\tAAAA\tfd00:a516:7c1b:17cd:6d81:2137:bd2a:2c5b\nns-cloud-e4.googledomains.com\t345600\tIN\tA\t192.168.3.11\nns-cloud-e4.googledomains.com\t251948\tIN\tAAAA\tfd00:c2b6:b24b:be67:2827:688d:e6a1:6a3b\nError IN A type not found\nError IN AAAA type not found\n;; QUESTION SECTION:\n;atlsecsrv.com\tIN\tMX\n;; ANSWER SECTION:\nError IN PTR type not found"
+  },
+  {
+    "rank": 4,
+    "id": "msg_379a409c0d3c8cd47c22e1aaa882b63fcfc74c9b1c4b29cca2857e6dce1e6e2e",
+    "score": 27.870342,
+    "link": "https://github.com/zonemaster/zonemaster/issues/497",
+    "source": "github",
+    "origin_doc_id": "5b660660fdc4509f6fb921a6ab10b6659cc63faf58a5463a8669453481f700c0",
+    "snippet": ";; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 4, ADDITIONAL: 1\n;; WARNING: recursion requested but not available\n\n;; OPT PSEUDOSECTION:\n; EDNS: version: 0, flags: do; udp: 4096\n;; QUESTION SECTION:\n;geant.org.\t\tIN DS\n\n;; AUTHORITY SECTION:\norg.\t\t\t900 IN SOA a0.org.afilias-nst.info. noc.afilias-nst.info. ("
+  },
+  {
+    "rank": 5,
+    "id": "msg_5b3b2e07052e4b880eb6d31d772c746f5e55c0d4746d6495c49c31bb9567997e",
+    "score": 27.352911,
+    "link": "https://github.com/zonemaster/zonemaster-engine/issues/489",
+    "source": "github",
+    "origin_doc_id": "d2f0a460874cbc8f54e5dc28e7825c272277cc94d17775eef78a054c40969552",
+    "snippet": "459.37 DEBUG2    SYSTEM:QUERY flags={\"edns_details\":{\"version\":1}}; ip=2001:fdf8:f53e:61e4::18; name=google.com; type=SOA \n  459.37 DEBUG     SYSTEM:EXTERNAL_QUERY flags={\"class\":\"IN\",\"edns_details\":{\"version\":1}}; ip=2001:fdf8:f53e:61e4::18; name=google.com; type=SOA \n  459.38 DEBUG3    SYSTEM:EXTERNAL_RESPONSE packet=;; ->>HEADER<<- opcode: QUERY, rcode: NOERROR, id: 0 \n ;; flags: qr aa ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0  \n ;; QUESTION SECTION: \n ;; google.com.  IN      SOA \nMSG SIZE  rcvd: 39"
+  },
+  {
+    "rank": 6,
+    "id": "msg_c86292f169746471a15efd7cc95f08b168619137cc4b746733cc9e474d8ab776",
+    "score": 27.034859,
+    "link": "https://github.com/github/octodns/issues/131",
+    "source": "github",
+    "origin_doc_id": "2997bbd2444db0e80b35dbaccfdd2db66ab2d52bfe78482cffc7a554c5ae1064",
+    "snippet": ";; WARNING: recursion requested but not available\n\n;; QUESTION SECTION:\n;asmith.net.         IN  PTR\n\n;; AUTHORITY SECTION:\nasmith.net.      3600    IN  SOA dns1.p01.nsone.net. hostmaster.nsone.net. 1508539750 43200 7200 1209600 3600\n\n;; Query time: 20 msec\n;; SERVER: 198.51.44.7#53(198.51.44.7)\n;; WHEN: Fri Oct 20 15:52:10 2017 \n ;; MSG SIZE  rcvd: 102 \n ```"
+  },
+  {
+    "rank": 7,
+    "id": "msg_9bf200bd740e3cb68c5660bea571b7da662f4a2d2ad8402d709a616752eec21e",
+    "score": 27.034859,
+    "link": "https://github.com/coredns/coredns/issues/941",
+    "source": "github",
+    "origin_doc_id": "a37e1bda9897ebd24bd2f50d820b72e18f01db83ddd271bc2dcf03153be7386c",
+    "snippet": "helpers.go:115: rcode is \"NXDOMAIN\", expected \"NOERROR\" \n \thelpers.go:274: ;; opcode: QUERY, status: NXDOMAIN, id: 4749 \n \t\t;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0 \n \t\t;; QUESTION SECTION: \n \t\t;*.any.svc1.*.svc.cluster.local.\tIN\t A \n \t\t;; AUTHORITY SECTION: \n\t\tcluster.local.\t300\tIN\tSOA\tns.dns.cluster.local. hostmaster.cluster.local. 1503093253 7200 1800 86400 60 \n ~~~"
+  },
+  {
+    "rank": 8,
+    "id": "msg_19d964a6e96b3559b33bad89ae6a3bab4ab0e89126674a2ebfb0e23a448fa7d9",
+    "score": 26.738327,
+    "link": "https://github.com/coredns/coredns/issues/895",
+    "source": "github",
+    "origin_doc_id": "f6d9a6be5e2e627698d1316dbd1a8b14c83997bd5f2a56ae1654f60fbbb07219",
+    "snippet": "-- FAIL: TestServeDNS (0.00s) \n \thelpers.go:119: answer for \"svc0.testns.fed.svc.cluster.local.\" contained 0 results, 1 expected \n \thandler_test.go:239: CNAME Service (Remote Federated) Received: \n \t\t ;; opcode: QUERY, status: NOERROR, id: 10411 \n \t\t;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0 \n \t\t;; QUESTION SECTION: \n \t\t;svc0.testns.fed.svc.cluster.local.\tIN\t CNAME \n\t\t\n\t\t;; AUTHORITY SECTION:\n\t\tcluster.local.\t300\tIN\tSOA\tns.dns.cluster.local. hostmaster.cluster.local. 1502454179 7200 1800 86400 60\n\t\t\n\thelpers.go:119: answer for \"external.testns.svc.cluster.local.\" contained 0 results, 1 expected\n\thandler_test.go:239: CNAME External Received:\n\t\t ;; opcode: QUERY, status: NOERROR, id: 25541\n\t\t;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0\n\t\t\n\t\t;; QUESTION SECTION:\n\t\t;external.testns.svc.cluster.local.\tIN\t CNAME \n \t\t;; AUTHORITY SECTION: \n \t\tcluster.local.\t300\tIN\tSOA\tns.dns.cluster.local. hostmaster.cluster.local. 1502454179 7200 1800 86400 60 \n --- FAIL: TestServices (0.00s) \n ~~~"
+  },
+  {
+    "rank": 9,
+    "id": "msg_c7fcc99876941352265c44ee4283b210c97c4ba066d4092f1814a8ab5c94d686",
+    "score": 26.39867,
+    "link": "https://github.com/bluejekyll/trust-dns/issues/1309",
+    "source": "github",
+    "origin_doc_id": "092f02feded31b7e97e8a37d4591908603e7da036d520ffb03563ec1c1f357af",
+    "snippet": ";; flags: qr aa rd; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1\n;; WARNING: recursion requested but not available\n\n;; OPT PSEUDOSECTION:\n; EDNS: version: 0, flags:; udp: 512\n;; QUESTION SECTION:\n;www.google.com.\t\t\tIN\tSOA\n\n;; AUTHORITY SECTION:\ngoogle.com.\t\t60\tIN\tSOA\tns1.google.com. dns-admin.google.com. 345197775 900 900 1800 60\n\n;; Query time: 57 msec\n;; SERVER: 2001:4860:4802:32::a#53(2001:4860:4802:32::a)\n;; WHEN: Mi Dez 02 23:34:13 CET 2020\n;; MSG SIZE  rcvd: 93\n```"
+  },
+  {
+    "rank": 10,
+    "id": "msg_5d334036145c8c233177062c755404f4fabf14dc397fe890ac07322c642bfed3",
+    "score": 26.067924,
+    "link": "https://github.com/rspamd/rspamd/issues/2585",
+    "source": "github",
+    "origin_doc_id": "f78bc68f152c540eec60afa18d2bae872d063181b45bcd8d373e17b82c4465e4",
+    "snippet": "; <<>> DiG 9.10.3-P4-Debian <<>> soa debian.org\n;; global options: +cmd\n;; Got answer:\n;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7540\n;; flags: qr rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1\n\n;; OPT PSEUDOSECTION:\n; EDNS: version: 0, flags:; udp: 4096\n;; QUESTION SECTION:"
+  }
+]

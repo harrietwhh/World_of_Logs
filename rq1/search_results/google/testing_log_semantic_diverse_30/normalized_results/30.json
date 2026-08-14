@@ -1,0 +1,169 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "ActiveMQ KahaDB always locking and waiting",
+    "link": "https://stackoverflow.com/questions/22887519/activemq-kahadb-always-locking-and-waiting",
+    "displayed_link": "4 answers · 12 years ago",
+    "snippet": "I am trying to use ActiveMQ in a relatively simple work queue use case. I have one queue, and have a simple Producer and Consumer. My question is what am I ...",
+    "snippet_highlighted_words": [
+      "ActiveMQ"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "KahaDB/lock is locked by another server.",
+    "link": "https://knowledge.broadcom.com/external/article/193247/message-server-not-getting-the-initializ.html",
+    "displayed_link": "https://knowledge.broadcom.com › external › article",
+    "snippet": "This broker is now in slave mode waiting a lock to be acquired. Cause. Unable to update ../messageService/BrokerData directory. Resolution.",
+    "snippet_highlighted_words": [
+      "broker",
+      "now",
+      "slave mode waiting",
+      "lock",
+      "acquired",
+      "BrokerData"
+    ],
+    "source": "Broadcom support portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Shared File System Master Slave - ActiveMQ",
+    "link": "https://activemq.apache.org/components/classic/documentation/shared-file-system-master-slave",
+    "displayed_link": "https://activemq.apache.org › classic › documentation › s...",
+    "snippet": "This effectively renders the ActiveMQ Classic data directory inaccessible because the ActiveMQ Classic slave broker can't acquire the lock and therefore cannot ...",
+    "snippet_highlighted_words": [
+      "ActiveMQ",
+      "data",
+      "ActiveMQ",
+      "slave broker",
+      "acquire",
+      "lock"
+    ],
+    "source": "ActiveMQ",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "KahaDB lock",
+    "link": "https://community.sap.com/t5/crm-and-cx-q-a/kahadb-lock/qaq-p/12041612",
+    "displayed_link": "https://community.sap.com › ... › CRM and CX Q&A",
+    "snippet": "I'm using Hybris 6.5. When doing startup, I hit ActiveMQ KahaDB locking causing the whole boot process to stop. It seems to me more than one ...",
+    "snippet_highlighted_words": [
+      "ActiveMQ KahaDB locking"
+    ],
+    "source": "SAP Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "ActiveMQ Master/Slave KahaDB on OCFS2 shared file ...",
+    "link": "https://icicimov.github.io/ActiveMQ-Master-Slave-KahaDB-on-OCFS2-shared-file-system/",
+    "displayed_link": "https://icicimov.github.io › ActiveMQ-Master-Slave-Kah...",
+    "snippet": "During my tests of shared storage clusters I wondered if ActiveMQ supports file locking on OCFS2 file system which I used on couple of ...",
+    "snippet_highlighted_words": [
+      "ActiveMQ",
+      "locking"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "ActiveMQ JMS Broker services fails to start on a slave ...",
+    "link": "http://support.sas.com/kb/54802.html",
+    "displayed_link": "http://support.sas.com › ...",
+    "snippet": "In SAS 9.4, ActiveMQ JMS Broker services fails to start on a slave machine when it is clustered and running on two different machines.",
+    "snippet_highlighted_words": [
+      "ActiveMQ",
+      "Broker",
+      "slave"
+    ],
+    "source": "SAS Support",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Fail to acquire lock. Stays as \"slave\"",
+    "link": "https://lists.apache.org/thread/7ojx03mfdzgs4bo29on1b3jo1qrhs8gg",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "We've been using four brokers in a master/slave configuration mixed with broker networks topoloy. Now we are going to run activemq 5.5.0 as sandalone broker.",
+    "snippet_highlighted_words": [
+      "brokers",
+      "slave",
+      "broker",
+      "Now",
+      "activemq",
+      "broker"
+    ],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Kahadb Activemq holds the lock but does start the broker ...",
+    "link": "https://users.activemq.apache.narkive.com/VFao7nRt/kahadb-activemq-holds-the-lock-but-does-start-the-broker-service-or-connectors",
+    "displayed_link": "https://users.activemq.apache.narkive.com › kahadb-act...",
+    "snippet": "Hi, We had shared file locker with kaha db based persistence adapter in our 3 node master-slave-slave architecture. Master activemq was restarted couple of ...",
+    "snippet_highlighted_words": [
+      "shared file locker",
+      "kaha db",
+      "slave",
+      "slave",
+      "activemq"
+    ],
+    "source": "narkive",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "ActiveMQ broker shuts down when connection between ...",
+    "link": "https://access.redhat.com/solutions/251323",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "On startup, master and slave will try to connect and acquire a lock on the same shared JDBC database. The broker instance that successfully ...",
+    "snippet_highlighted_words": [
+      "slave",
+      "acquire",
+      "lock",
+      "database",
+      "broker"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Resolving Common ActiveMQ Persistence Issues",
+    "link": "https://reintech.io/blog/resolving-common-activemq-persistence-issues",
+    "displayed_link": "https://reintech.io › blog › resolving-common-activemq-...",
+    "snippet": "Explore practical solutions to common persistence issues in ActiveMQ. Learn how to tackle database lock failures, message store corruption, ...",
+    "snippet_highlighted_words": [
+      "ActiveMQ",
+      "database lock"
+    ],
+    "source": "Reintech.io",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

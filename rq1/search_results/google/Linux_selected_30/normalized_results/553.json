@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "java.net.SocketException: Software caused connection abort",
+    "link": "https://stackoverflow.com/questions/135919/java-net-socketexception-software-caused-connection-abort-recv-failed",
+    "displayed_link": "10+ answers · 17 years ago",
+    "snippet": "This error occurs when a connection is closed abruptly (when a TCP connection is reset while there is still data in the send buffer).",
+    "snippet_highlighted_words": [
+      "error",
+      "connection",
+      "connection"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "loghub/Linux/Linux_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Linux/Linux_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Linux",
+    "snippet": "... Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort. Jun 30 20:53:04 combo klogind[19268]: Kerberos authentication failed.",
+    "snippet_highlighted_words": [
+      "Authentication failed from 163.27.187.39"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "How to fix a \"Software caused connection abort\" error in ...",
+    "link": "https://askubuntu.com/questions/450206/how-to-fix-a-software-caused-connection-abort-error-in-ubuntu-14-04",
+    "displayed_link": "https://askubuntu.com › questions › how-to-fix-a-softw...",
+    "snippet": "The first thread - limited to SSH problems - was resolved by eliminating redundant IPs on the network. That is not my problem. It's a small home ...",
+    "snippet_highlighted_words": [],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "software caused connection abort' when typing into Putty",
+    "link": "https://community.cisco.com/t5/switching/network-error-software-caused-connection-abort-when-typing-into/td-p/2460900",
+    "displayed_link": "https://community.cisco.com › switching › td-p",
+    "snippet": "As soon as I try typing the login credentials, it gives the error 'Network error: software caused connection abort' and knocks me out.",
+    "snippet_highlighted_words": [
+      "login",
+      "error",
+      "error",
+      "software caused connection abort"
+    ],
+    "source": "Cisco Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Network error: Software caused connection abort | SRX",
+    "link": "https://community.juniper.net/discussion/sftp-to-external-server-issues-network-error-software-caused-connection-abort",
+    "displayed_link": "https://community.juniper.net › discussion › sftp-to-exter...",
+    "snippet": "Error: Network error: Software caused connection abort. Error: Could not connect to server. I checked the wireshark logs on and all of the packets are being ...",
+    "snippet_highlighted_words": [
+      "Error: Network error: Software caused connection abort"
+    ],
+    "source": "Juniper Elevate Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "PuTTY Network Error: Software caused connection abort",
+    "link": "https://superuser.com/questions/294824/putty-network-error-software-caused-connection-abort",
+    "displayed_link": "https://superuser.com › questions › putty-network-error...",
+    "snippet": "The error Network error: Software caused connection abort from PuTTY is the result if there is an IP address conflict (two or more computers ...",
+    "snippet_highlighted_words": [
+      "error",
+      "error",
+      "Software caused connection abort"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Putty gives, \"Network Error: software caused connection ...",
+    "link": "https://www.reddit.com/r/ccnp/comments/1fb9kkc/putty_gives_network_error_software_caused/",
+    "displayed_link": "3 comments · 1 year ago",
+    "snippet": "Something changed - network security policy, service running on remote host updated, possible cipher or key change on the server (typically ...",
+    "snippet_highlighted_words": [],
+    "source": "Reddit · r/ccnp",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Network error: Software caused connection abort",
+    "link": "https://winscp.net/eng/docs/message_software_caused_connection_abort",
+    "displayed_link": "https://winscp.net › eng › docs › message_software_caus...",
+    "snippet": "If you are getting the error in the middle of session, it means that Windows network code killed an established connection for some reason.",
+    "snippet_highlighted_words": [
+      "Windows network code killed an established connection"
+    ],
+    "source": "WinSCP",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Network error: Software caused connection abort",
+    "link": "https://groups.google.com/g/beagleboard/c/Eq_eg98qPA4",
+    "displayed_link": "https://groups.google.com › beagleboard",
+    "snippet": "This is usually the result of a packet filter or NAT device timing out your TCP connection due to inactivity. You can check the \"Enable SSH keepalive\" box under ...",
+    "snippet_highlighted_words": [
+      "connection"
+    ],
+    "source": "Google Groups",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Software caused connection abort",
+    "link": "https://forum.filezilla-project.org/viewtopic.php?p=55895",
+    "displayed_link": "https://forum.filezilla-project.org › ... › General Discussion",
+    "snippet": "I've been trying to do a file transfer. I've done the connection 2 times before and I've been successful. This time though, I've been getting these error ...",
+    "snippet_highlighted_words": [
+      "connection",
+      "error"
+    ],
+    "source": "FileZilla Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

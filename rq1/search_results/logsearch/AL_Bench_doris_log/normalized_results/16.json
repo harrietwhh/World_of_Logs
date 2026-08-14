@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_e2b5a073cd9927281761e9a2dd6b7833dfbf5370031598399189c0eab2b62368",
+    "score": 39.02664,
+    "link": "https://github.com/apache/incubator-doris/issues/5292",
+    "source": "github",
+    "origin_doc_id": "d9a5b90e0d1ac2f7d7e0bc872482475edda5b8e004e137fa73ff41726bcc8817",
+    "snippet": "not find the key:1, fail to get journal cursor. will exit.`"
+  },
+  {
+    "rank": 2,
+    "id": "msg_a7de1c28b0529264a84946cb356e67a12ecb6526be0831f89dc1d29426563a36",
+    "score": 31.87795,
+    "link": "https://github.com/coreos/fleet/pull/1567",
+    "source": "github",
+    "origin_doc_id": "6e59c2f62a5b24ee3155b70a1aef3dd7f3057a2124717a7f7f066f6e3883ae21",
+    "snippet": "--- FAIL: TestSingleNodeConnectivityLoss (25.83s) \n     connectivity-loss_test.go:216: Failed to retrieve journal: exit status 1 \n ```"
+  },
+  {
+    "rank": 3,
+    "id": "msg_bbb9d458152d00ceacd361198cfef6b0268453a8882d30e32cd190932a8dbfdb",
+    "score": 31.000023,
+    "link": "https://stackoverflow.com/questions/9729150",
+    "source": "so",
+    "origin_doc_id": "f6b34e98fe0f305ea77fa4f6c54c5f711fb7f7e93ad31880ebf2ac831c66cc73",
+    "snippet": "null\nGet-OperationStatus : HTTP Status Code: BadRequest - HTTP Error Message: The operation request ID was not found  ... in Microsoft.WindowsAzure.Samples.ManagementTools.PowerShell.Services.Common.GetOperationStatusCommand  \n  Get-OperationStatus : Object reference not set to an instance of an object .... in Microsoft.WindowsAzure.Samples.ManagementTools.PowerShell.Services.Common.GetOperationStatusCommand\"*"
+  },
+  {
+    "rank": 4,
+    "id": "msg_d356c77bd6ce74cb1677be2f8ed47454ac6ac726b293f546c9833099469526c0",
+    "score": 28.448093,
+    "link": "https://stackoverflow.com/questions/8399635",
+    "source": "so",
+    "origin_doc_id": "247ab13ce70f51b90bd5e42d703a14f694c3c10ae56c4da8f0b5f1e2d9818f78",
+    "snippet": "Get-OperationStatus : Failed: The current update to this deployment has been \n preempted.At \n D:\\TFS\\12\\Deploy-Api\\Sources\\CloudServices\\BuildProcessTemplates\\DeploymentScripts\\ChangeAllRolesInstanceCount.ps1:64 char:120 \n + $deployment | Set-DeploymentConfiguration {$deployment.RolesConfiguration} \n -ErrorVariable +err | Get-OperationStatus << -WaitToComplete -ErrorVariable +err; \n + CategoryInfo : CloseError: (:) [Get-OperationStatus], Exception \n + FullyQualifiedErrorId : \n Microsoft.WindowsAzure.Samples.ManagementTools.PowerShell.Services.Common.GetOperationStatusCommand"
+  },
+  {
+    "rank": 5,
+    "id": "msg_743b97c9a7d8ec9d3e63db55e1f02ade3955adea7bf5b05cb8640956c4781dff",
+    "score": 28.089336,
+    "link": "https://stackoverflow.com/questions/79063560",
+    "source": "so",
+    "origin_doc_id": "df3e031fc778bb44b4a0c1c97d5cf2d25b37bd6bd878b7447beabc06ac2386b5",
+    "snippet": ");\ncontext.log(`Checking status of '${operationObj.blobName}'...`);\ncontext.log(`operationStatus: ${operationStatus}`);"
+  },
+  {
+    "rank": 6,
+    "id": "msg_d9a2b674bfaae310d610a8c717c5ec60def797605b6216834bcb9cd1429f6455",
+    "score": 27.589504,
+    "link": "https://stackoverflow.com/questions/72563253",
+    "source": "so",
+    "origin_doc_id": "46a45fbe1cccca0d5c2daf8770e206baed63d7a70d8de2beea53cd8896e41b00",
+    "snippet": "log.error(\"Fail to get MD5 instance\");"
+  },
+  {
+    "rank": 7,
+    "id": "msg_d46bf005b6bd68b2afcef8711a1e936f809e62c97c97e1485896a2271f774375",
+    "score": 27.467815,
+    "link": "https://stackoverflow.com/questions/41541215",
+    "source": "so",
+    "origin_doc_id": "225ab084c248a975d3830e006cd50fb87cfe527f235dce8477bbe9c9e8c0d20f",
+    "snippet": "able to get results from the OperationStatus API?"
+  },
+  {
+    "rank": 8,
+    "id": "msg_4db9da870a1d31d187754db77eea9a7602ba4507e712dec0c659ccdd55b631ff",
+    "score": 27.248163,
+    "link": "https://issues.apache.org/jira/browse/HDDS-4386",
+    "source": "jira",
+    "origin_doc_id": "ab05162ca65221954a0ba78c3e7237a9cb2d8a8c5b4bb5bac80b16b3f855dc28",
+    "snippet": "LOG.error(\"Fail to get scm addresses\", e);"
+  },
+  {
+    "rank": 9,
+    "id": "msg_7681b76048fb6c5bae448a4e9712992b7bfbb8c90eefd35fd73b7b01dbdb8b66",
+    "score": 27.248163,
+    "link": "https://github.com/knowm/XChange/issues/4080",
+    "source": "github",
+    "origin_doc_id": "311b70c1e9cbef614e509bde3bb44ee437e3c7418072ac8b3c513a940a459cac",
+    "snippet": "LOG.error(\"Fail to get ticker {}\", throwable.getMessage(), throwable);"
+  },
+  {
+    "rank": 10,
+    "id": "msg_767b5c287ac2be5f36855330ab3c328d8904e6837744130618171b7ab63a7259",
+    "score": 27.248163,
+    "link": "https://github.com/apache/hadoop-ozone/pull/1518",
+    "source": "github",
+    "origin_doc_id": "a562fe58ec271dbb332684a74f8e08031fe129715c89517492c48c9c0f439bf2",
+    "snippet": "LOG.error(\"Fail to get scm addresses\", e);"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "case_id": "70",
+  "case_input": "retrieval_results/query_group_logs/hdfs_intermediate_group_logs/case_70_group_logs/case_input.json",
+  "retrieved_candidates": "retrieval_results/query_group_logs/hdfs_intermediate_group_logs/case_70_group_logs/retrieved_candidates.json",
+  "response": "Filtered Relevant Items:\n1. [1] Namenode blockMap not updated when datanode invalidates a block on heartbeat.\n2. [2] Data lost at cluster startup time.\n\nExternal Knowledge Summary:\n- [1] shows the same `dfs.FSDataset: Deleting block ...` message when a DataNode removes an over-replicated block. If the deletion is not reported to the NameNode, the NameNode may request deletion again, producing a `BlockInfo not found in volumeMap` warning.\n- [2] shows that block deletions can be initiated by the NameNode when replicas have inconsistent sizes or are considered excess; the replicas are placed in invalidation sets and DataNodes are instructed to delete them.",
+  "external_knowledge_summary": "- [1] shows the same `dfs.FSDataset: Deleting block ...` message when a DataNode removes an over-replicated block. If the deletion is not reported to the NameNode, the NameNode may request deletion again, producing a `BlockInfo not found in volumeMap` warning.\n- [2] shows that block deletions can be initiated by the NameNode when replicas have inconsistent sizes or are considered excess; the replicas are placed in invalidation sets and DataNodes are instructed to delete them."
+}

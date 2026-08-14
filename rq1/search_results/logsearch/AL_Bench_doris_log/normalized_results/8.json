@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_d3c274a6489033f4e200c7214314b19a6b146f913d3e5f66959f2fac1cf8eef3",
+    "score": 22.109932,
+    "link": "https://github.com/pinojs/pino/issues/479",
+    "source": "github",
+    "origin_doc_id": "9427627040f83b2fd4eb3da9ffd4e8c8a382ec9e36ee1fb5c7b900075c7e09c4",
+    "snippet": "console.log('global serializer invoked')\nlog.info('does not invoke global serializer') \n log.info({will: 'invoke global serializer'})\nconsole.log('global serializer invoked')\nlog.info('does not invoke global serializer') \n log.info({will: 'invoke global serializer'})"
+  },
+  {
+    "rank": 2,
+    "id": "msg_75f6425a410bc1a0d4ed9a5710862ac6c9429a0859199b2165e6e55647516d7c",
+    "score": 21.795181,
+    "link": "https://github.com/tensorflow/tensorflow/issues/16455",
+    "source": "github",
+    "origin_doc_id": "3dfe729ec0647b376077cda9e51f74123868a274b2c217a2d911bfe300669707",
+    "snippet": "[Truncated] \n INFO:tensorflow:Saving dict for global step 348: accuracy = 0.11751261, global_step = 348, loss = 2.2920265 \n INFO:tensorflow:Saving dict for global step 528: accuracy = 0.13106872, global_step = 528, loss = 2.5031097 \n INFO:tensorflow:Saving dict for global step 697: accuracy = 0.085986756, global_step = 697, loss = 30.668789 \n INFO:tensorflow:Saving dict for global step 871: accuracy = 0.10009458, global_step = 871, loss = 47931.96 \n ...\n\n INFO:tensorflow:Saving dict for global step 185: accuracy = 0.1012768, global_step = 185, loss = 2.3037012 \n INFO:tensorflow:Saving dict for global step 374: accuracy = 0.10001576, global_step = 374, loss = 2.3124988 \n INFO:tensorflow:Saving dict for global step 560: accuracy = 0.20081967, global_step = 560, loss = 2.0881999 \n INFO:tensorflow:Saving dict for global step 740: accuracy = 0.26134932, global_step = 740, loss = 2.0297167 \n INFO:tensorflow:Saving dict for global step 930: accuracy = 0.26379257, global_step = 930, loss = 1.9529407 \n INFO:tensorflow:Saving dict for global step 1112: accuracy = 0.3454445, global_step = 1112, loss = 1.832811"
+  },
+  {
+    "rank": 3,
+    "id": "msg_dbd27e6f55726c30d416f9bb6ce56d3999141a5023d38bcb138c71243bfc463a",
+    "score": 21.785622,
+    "link": "https://stackoverflow.com/questions/57704203",
+    "source": "so",
+    "origin_doc_id": "bd12d79545ed0712beb2b0b0648ba6e923ff09a4dbbba5e80dd7c6fb7b88b7a1",
+    "snippet": "TransactionRule.VALIDATE_TAG_SERIAL_NUM_VEHICLE_PLATE_NUM); \n log.info(\"Transaction before builder :{}\",transaction.getTcTransactionId());\nlog.info(\"Transaction after builder :{}\",transaction.getTcTransactionId());"
+  },
+  {
+    "rank": 4,
+    "id": "msg_3f870a12973f7be72cc68ef74b49ca7ec2a327cac2af7cc4af8cb0119767a0c2",
+    "score": 21.73206,
+    "link": "https://issues.apache.org/jira/browse/SSHD-901",
+    "source": "jira",
+    "origin_doc_id": "a7ad36c5a763ee9c7251b4e66f20917de04adadfd16b864f04d352d12ff6f1cc",
+    "snippet": "log.info(\"Sent {} global request\", KEEP_ALIVE);\nlog.info(\"Received {} global request\", CloudConnectClient.KEEP_ALIVE); \nlog.info(\"Replied to {} global request\", CloudConnectClient.KEEP_ALIVE);"
+  },
+  {
+    "rank": 5,
+    "id": "msg_fbeb9d29db12a2adb677d8f4360072901597a7eb1f4a0d0e8d046ed04427205c",
+    "score": 21.207575,
+    "link": "https://github.com/spring-cloud/spring-cloud-gateway/issues/1341",
+    "source": "github",
+    "origin_doc_id": "fe79f7a8c8c8f91c2830dddd6c3735da62688e088b859f18620e4fe5ecea2693",
+    "snippet": "log.info(\"into global filter2....\");\nlog.info(\"into route filter...{},{}\", config.getName(), config.getValue());\nlog.info(\"into global filter1....\");"
+  },
+  {
+    "rank": 6,
+    "id": "msg_38131730bd54aa5e75d95dde6e439015f48b1115ff55835143b7a1e18f54a0e0",
+    "score": 21.195038,
+    "link": "https://issues.apache.org/jira/browse/TS-3487",
+    "source": "jira",
+    "origin_doc_id": "29f679e5acb279c77d322d29d66e8bf2e2c508b745a8f32f11d223a7b1fd5bfa",
+    "snippet": "log.info('start test global config...') \n\n time.sleep(3)\n log.info('test global config: pass!') \n\n log.info('test global config: fail!')\nlog.info('start test per remap config...') \nlog.info('test per remap config: pass!') \nlog.info('test per remap config: fail!') \n\n __name__"
+  },
+  {
+    "rank": 7,
+    "id": "msg_1d2e0782b944a18a7ff2cd7b16d9f905318b6037e1497eac416a67470c1f1b6e",
+    "score": 21.107523,
+    "link": "https://stackoverflow.com/questions/64025568",
+    "source": "so",
+    "origin_doc_id": "59f6f21af5b6be9b889869af6dc52b902dd7a5a3bf0debc8d3773146b748b61a",
+    "snippet": "LOG.info(\"2. Global Response Handling\");\nLOG.info(\"Global Exception Handling\");"
+  },
+  {
+    "rank": 8,
+    "id": "msg_ecd5d30ae61018e76da2be98ffbad56439dec75e6fa4d77d91ebc9bb18e5fad8",
+    "score": 21.0327,
+    "link": "https://github.com/tensorflow/tensorflow/issues/13895",
+    "source": "github",
+    "origin_doc_id": "f01680f72f591d92a85f6c1d70fc317e744f8e1523e01442b5d66e23b4c6c100",
+    "snippet": "INFO:tensorflow:Saving dict for global step 0: accuracy = 0.158545, global_step = 0, loss = 3.36605 \n INFO:tensorflow:Saving dict for global step 50: accuracy = 0.0, global_step = 50, loss = 0.0 \n INFO:tensorflow:Saving dict for global step 100: accuracy = 0.0, global_step = 100, loss = 0.0 \n INFO:tensorflow:Saving dict for global step 150: accuracy = 0.0, global_step = 150, loss = 0.0"
+  },
+  {
+    "rank": 9,
+    "id": "msg_47804c5c7fca4e268a00a2922f7e90d96cd924b7b503802b6934ae6e786054b1",
+    "score": 20.977388,
+    "link": "https://github.com/tensorflow/tensorflow/issues/22857",
+    "source": "github",
+    "origin_doc_id": "cd6f6dc3bb0cba04758fee71eb3e531d5f4e0ee63afeacb1fdb0844a3cb04432",
+    "snippet": "INFO:tensorflow:Saving dict for global step 18621: auc = 0.6128701, global_step = 18621, loss = 0.17829555\nINFO:tensorflow:Saving dict for global step 37242: auc = 0.6212857, global_step = 37242, loss = 0.17826068\nINFO:tensorflow:Saving dict for global step 55863: auc = 0.6261746, global_step = 55863, loss = 0.17617485\nINFO:tensorflow:Saving dict for global step 74484: auc = 0.630533, global_step = 74484, loss = 0.17646796\nINFO:tensorflow:Saving dict for global step 93105: auc = 0.63444453, global_step = 93105, loss = 0.17552255\nINFO:tensorflow:Saving dict for global step 111726: auc = 0.63371396, global_step = 111726, loss = 0.17790207\nINFO:tensorflow:Saving dict for global step 130347: auc = 0.62660295, global_step = 130347, loss = 0.17602158\nINFO:tensorflow:Saving dict for global step 148968: auc = 0.6290031, global_step = 148968, loss = 0.17708226\nINFO:tensorflow:Saving dict for global step 167589: auc = 0.6234657, global_step = 167589, loss = 0.17724389\nINFO:tensorflow:Saving dict for global step 186210: auc = 0.62800914, global_step = 186210, loss = 0.17702612\n                input_fn=lambda: input_fn(...),\n                checkpoint_path=FLAGS.model_dir + \"/model.ckpt-\" + str(ckpt))\n\nINFO:tensorflow:Saving dict for global step 18621: auc = 0.6088399, global_step = 18621, loss = 0.1782806\nINFO:tensorflow:Saving dict for global step 37242: auc = 0.61857945, global_step = 37242, loss = 0.17766058\nINFO:tensorflow:Saving dict for global step 55863: auc = 0.6241194, global_step = 55863, loss = 0.17692827\nINFO:tensorflow:Saving dict for global step 74484: auc = 0.627106, global_step = 74484, loss = 0.17647153\nINFO:tensorflow:Saving dict for global step 93105: auc = 0.62898576, global_step = 93105, loss = 0.17620046\nINFO:tensorflow:Saving dict for global step 111726: auc = 0.62996054, global_step = 111726, loss = 0.17710653\nINFO:tensorflow:Saving dict for global step 130347: auc = 0.63045925, global_step = 130347, loss = 0.17653853\nINFO:tensorflow:Saving dict for global step 148968: auc = 0.6306327, global_step = 148968, loss = 0.17709586 \n INFO:tensorflow:Saving dict for global step 167589: auc = 0.6306394, global_step = 167589, loss = 0.1774284 \n INFO:tensorflow:Saving dict for global step 186210: auc = 0.6304847, global_step = 186210, loss = 0.17686236\nprint(\"%s sklearn.auc is :\", (epoch, data_mode, auc_local)) \n %s auc is : (0, 'test', 0.608910481886984) \n %s auc is : (1, 'test', 0.6186364169158124) \n %s auc is : (2, 'test', 0.6242379534016801) \n %s auc is : (3, 'test', 0.6272265511554851) \n %s auc is : (4, 'test', 0.6291364474305191) \n %s auc is : (5, 'test', 0.6300167648655547)\n%s auc is : (6, 'test', 0.6305495577793957)\n%s auc is : (7, 'test', 0.6307263729168348)\n%s auc is : (8, 'test', 0.6307389062228584)\n%s auc is : (9, 'test', 0.6306225969185617)\n```"
+  },
+  {
+    "rank": 10,
+    "id": "msg_fa9edbf33d72f8480b367222c3243a58b552cb387a17dc75eae9e5636c44a8ba",
+    "score": 20.900127,
+    "link": "https://github.com/reactor/BlockHound/issues/135",
+    "source": "github",
+    "origin_doc_id": "5455aa0a92503c458901a222e452e93db9de2bfbcc8d9cfa0b367209370a0fcf",
+    "snippet": "eactor.blockhound.BlockingOperationError: Blocking call! java.io.RandomAccessFile#readBytes \n    at java.base/java.io.RandomAccessFile.readBytes(RandomAccessFile.java)\nlog.info(\"Applying {} Integrations ...\", AllowBlockingIntegration.class.getSimpleName());\nlog.info(\"{} Builder: {}\", AllowBlockingIntegration.class.getSimpleName(), builder);"
+  }
+]

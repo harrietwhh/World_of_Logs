@@ -1,0 +1,172 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "c# - error CS0103: The name ' ' does not exist in the current ...",
+    "link": "https://stackoverflow.com/questions/26067741/error-cs0103-the-name-does-not-exist-in-the-current-context",
+    "displayed_link": "2 answers · 11 years ago",
+    "snippet": "I get an error saying: error CS0103: The name 'imgsrc' does not exist in the current context. I suppose this is because the \"imgsrc\" variable is defined in a ...",
+    "snippet_highlighted_words": [
+      "error",
+      "error CS0103",
+      "name",
+      "does not exist",
+      "current context",
+      "is",
+      "is"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "C# novice help request - getting error CS0103 \"the name -- ...",
+    "link": "https://www.reddit.com/r/learncsharp/comments/1e5d18h/c_novice_help_request_getting_error_cs0103_the/",
+    "displayed_link": "7 comments · 1 year ago",
+    "snippet": "I keep getting error CS0103 in the DisplayNewCar() method below (\"the name MyCar does not exist in the current context\"). But none of the methods are private.",
+    "snippet_highlighted_words": [
+      "error CS0103",
+      "name",
+      "does not exist",
+      "current context"
+    ],
+    "source": "Reddit · r/learncsharp",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Compiler Error CS0103 - C# reference",
+    "link": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-messages/cs0103",
+    "displayed_link": "https://learn.microsoft.com › Learn › .NET › C#",
+    "snippet": "This error frequently occurs if you declare a variable in a loop or a try or if block and then attempt to access it from an enclosing code block or a separate ...",
+    "snippet_highlighted_words": [
+      "error"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "error CS0103: The name 'File' does not exist in the current ...",
+    "link": "https://github.com/dotnet/machinelearning-modelbuilder/issues/2503",
+    "displayed_link": "https://github.com › dotnet › issues",
+    "snippet": "In step 3 run the console application using dotnet run; See the error: ~/myMLApp/SentimentModel/SentimentModel.training.cs(62,29): error CS0103: ...",
+    "snippet_highlighted_words": [
+      "error",
+      "cs",
+      "): error CS0103"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "error CS0103: The name 'xxx' does not exist in the current ...",
+    "link": "https://www.outsystems.com/forums/discussion/70724/error-cs0103-the-name-xxx-does-not-exist-in-the-current-context/",
+    "displayed_link": "https://www.outsystems.com › forums › discussion › err...",
+    "snippet": "As a workaround (if indeed the above is the problem) you could remove the ProbabilityInfo attribute and add the ProbabilityId and DecimalNumber ...",
+    "snippet_highlighted_words": [
+      "is",
+      "problem"
+    ],
+    "source": "OutSystems",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Getting the error CS0103 The name 'paramName' does not ...",
+    "link": "https://github.com/dotnet/sdk/issues/39162",
+    "displayed_link": "https://github.com › dotnet › sdk › issues",
+    "snippet": "Describe the bug If I try to build project that have the following code in the project I get error CS0103: The name 'paramName' does not ...",
+    "snippet_highlighted_words": [
+      "bug",
+      "build",
+      "error CS0103",
+      "name",
+      "does not"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "How to fix 'does not exist in the current context'?",
+    "link": "https://learn.microsoft.com/en-us/answers/questions/565076/how-to-fix-does-not-exist-in-the-current-context",
+    "displayed_link": "https://learn.microsoft.com › en-us › answers › questions",
+    "snippet": "I get the following error: run.csx(61,19): error CS0103: The name 'RunAvailabilityTestAsync' does not exist in the current context.",
+    "snippet_highlighted_words": [
+      "error",
+      "error",
+      "name",
+      "does not exist",
+      "current context"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "error CS0103: The name 'Host' does not exist in the current ...",
+    "link": "https://github.com/dotnet/docs/issues/33265",
+    "displayed_link": "https://github.com › dotnet › docs › issues",
+    "snippet": "In .NET Core 3.1 and .NET 5 I get the compile error: error CS0103: The name 'Host' does not exist in the current context. I had to install the package ...",
+    "snippet_highlighted_words": [
+      "error",
+      "error CS0103",
+      "name",
+      "does not exist",
+      "current context"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "ERROR: The name '' does not exist in the current context",
+    "link": "https://learn.microsoft.com/en-us/answers/questions/1129621/error-the-name-does-not-exist-in-the-current-conte",
+    "displayed_link": "https://learn.microsoft.com › en-us › answers › questions",
+    "snippet": "I am having these much errors in my project, as I recently created a new project in Visual Studio 2022 those names actually exists in the client side.",
+    "snippet_highlighted_words": [
+      "errors",
+      "names",
+      "exists"
+    ],
+    "source": "Microsoft Learn",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "The name 'InitializeComponent' does not ...",
+    "link": "https://github.com/dotnet/vscode-csharp/issues/6863",
+    "displayed_link": "https://github.com › dotnet › vscode-csharp › issues",
+    "snippet": "Disabled any other extension, enable \"C# Extension\", then I get \"The name 'InitializeComponent' does not exist in the current context ...",
+    "snippet_highlighted_words": [
+      "extension",
+      "Extension",
+      "name",
+      "does not exist",
+      "current context"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

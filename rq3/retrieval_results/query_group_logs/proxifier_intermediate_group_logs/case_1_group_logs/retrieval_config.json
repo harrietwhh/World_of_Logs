@@ -1,0 +1,31 @@
+{
+  "mode": "csv_case",
+  "case_id": "1",
+  "query_source": "group_logs",
+  "query_count": 11,
+  "queries": [
+    "- proxy.cse.cuhk.edu.hk: 5070 open through proxy proxy.cse.cuhk.edu.hk: 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 1036 bytes ( 1.01 KB ) sent, 34151 bytes ( 33.3 KB ) received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 1040 bytes ( 1.01 KB ) sent, 15872 bytes ( 15.5 KB ) received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 1052 bytes ( 1.02 KB ) sent, 8362 bytes ( 8.16 KB ) received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 1060 bytes ( 1.03 KB ) sent, 1633 bytes ( 1.59 KB ) received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 1066 bytes ( 1.04 KB ) sent, 1782 bytes ( 1.74 KB ) received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 1091 bytes ( 1.06 KB ) sent, 367 bytes received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 1097 bytes ( 1.07 KB ) sent, 366 bytes received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 1124 bytes ( 1.09 KB ) sent, 529 bytes received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 403 bytes sent, 426 bytes received, lifetime <1 sec",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 0 bytes sent, 0 bytes received, lifetime 00: 01"
+  ],
+  "log_message": "",
+  "cases_csv": "data/Proxifier.csv",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 27,
+  "retrieved_candidate_count": 27,
+  "output_dir": "proxifier_intermediate_group_logs/case_1_group_logs",
+  "generated_at_utc": "2026-03-23T00:43:47.189367+00:00"
+}

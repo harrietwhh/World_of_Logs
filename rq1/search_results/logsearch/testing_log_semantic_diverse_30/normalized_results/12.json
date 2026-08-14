@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_ac24b1bba4cd8b4feae614ec1c574265c53dfed688cb457f5aa9f0d75cbb3e4d",
+    "score": 113.50586,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2577",
+    "source": "jira",
+    "origin_doc_id": "960ab4d84b5ad0971d6a6f9ab4284160a542c5bf0de51213db06e14c562cbde6",
+    "snippet": "2016-09-13 05:09:26,140 [myid:2] - INFO  [QuorumPeer[myid=2](plain=/127.0.0.1:13921)(secure=disabled):FileTxnSnapLog@298] - Snapshotting: 0x0 to /home/jenkins/jenkins-slave/workspace/ZooKeeper-trunk-openjdk7/build/test/tmp/test5455612786130415623.junit.dir/data/version-2/snapshot.0"
+  },
+  {
+    "rank": 2,
+    "id": "msg_e324b53c1108431ff68525181a32230d71086520044bf2e3e01219303c88049e",
+    "score": 113.064804,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,960 [myid:2] - INFO  [QuorumPeer[myid=2](plain=/127.0.0.1:11228)(secure=disabled):FileTxnSnapLog@298] - Snapshotting: 0x0 to /home/jenkins/jenkins-slave/workspace/ZooKeeper-trunk/trunk/build/test/tmp/test1038022970424066351.junit.dir/data/version-2/snapshot.0"
+  },
+  {
+    "rank": 3,
+    "id": "msg_5255d0b631fd3f5d150114e99e45a68255ceb28ed546b65cd9362a2ae3a45623",
+    "score": 112.11008,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2577",
+    "source": "jira",
+    "origin_doc_id": "960ab4d84b5ad0971d6a6f9ab4284160a542c5bf0de51213db06e14c562cbde6",
+    "snippet": "2016-09-13 05:09:26,209 [myid:1] - INFO  [QuorumPeer[myid=1](plain=/127.0.0.1:13918)(secure=disabled):FileTxnSnapLog@298] - Snapshotting: 0x0 to /home/jenkins/jenkins-slave/workspace/ZooKeeper-trunk-openjdk7/build/test/tmp/test1768888919429940621.junit.dir/data/version-2/snapshot.0"
+  },
+  {
+    "rank": 4,
+    "id": "msg_54b2891934467ffe1acd25c7579c16faa0daec5a2bcec7790d7203015b31d1d8",
+    "score": 112.11008,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2577",
+    "source": "jira",
+    "origin_doc_id": "960ab4d84b5ad0971d6a6f9ab4284160a542c5bf0de51213db06e14c562cbde6",
+    "snippet": "2016-09-13 05:09:26,215 [myid:0] - INFO  [QuorumPeer[myid=0](plain=/127.0.0.1:13915)(secure=disabled):FileTxnSnapLog@298] - Snapshotting: 0x0 to /home/jenkins/jenkins-slave/workspace/ZooKeeper-trunk-openjdk7/build/test/tmp/test8397079557861207505.junit.dir/data/version-2/snapshot.0"
+  },
+  {
+    "rank": 5,
+    "id": "msg_766a20fabf101aec718a8906bb9559f1c14617dbd5cba722425147cd4f5629fe",
+    "score": 111.66902,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:18,980 [myid:0] - INFO  [QuorumPeer[myid=0](plain=/127.0.0.1:11222)(secure=disabled):FileTxnSnapLog@298] - Snapshotting: 0x0 to /home/jenkins/jenkins-slave/workspace/ZooKeeper-trunk/trunk/build/test/tmp/test7330020881446886387.junit.dir/data/version-2/snapshot.0"
+  },
+  {
+    "rank": 6,
+    "id": "msg_d7ee4cd3c9dbd827cf4bcc11ef35bed608d85bc8ec2d6a147d35eb57e95c2ff1",
+    "score": 111.66902,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:18,981 [myid:1] - INFO  [QuorumPeer[myid=1](plain=/127.0.0.1:11225)(secure=disabled):FileTxnSnapLog@298] - Snapshotting: 0x0 to /home/jenkins/jenkins-slave/workspace/ZooKeeper-trunk/trunk/build/test/tmp/test7260737707555606353.junit.dir/data/version-2/snapshot.0"
+  },
+  {
+    "rank": 7,
+    "id": "msg_d06f234f16927fafb07e1f306240d92c35eacdde858bd301297a496b8068bd40",
+    "score": 102.96999,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2499",
+    "source": "jira",
+    "origin_doc_id": "30eda5a9c12fa67903ac98df58e6f91b4c8a3f2ae6ffe5fd74dfd80018a74e36",
+    "snippet": "2016-08-03 05:33:42,747 [myid:2] - INFO  [QuorumPeer[myid=2](plain=localhost/127.0.0.1:30081)(secure=0.0.0.0/0.0.0.0:30082):FileTxnSnapLog@298] - Snapshotting: 0x0 to /home/jenkins/jenkins-slave/workspace/PreCommit-ZOOKEEPER-Build/trunk/build/test/tmp/test4754133370740902988.junit.dir/data/version-2/snapshot.0"
+  },
+  {
+    "rank": 8,
+    "id": "msg_b9af1f248ff20f75af0748564f6801377d523d5af9fec03ac5b04d8796882ccc",
+    "score": 101.55198,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2499",
+    "source": "jira",
+    "origin_doc_id": "30eda5a9c12fa67903ac98df58e6f91b4c8a3f2ae6ffe5fd74dfd80018a74e36",
+    "snippet": "2016-08-03 05:33:43,908 [myid:1] - INFO  [QuorumPeer[myid=1](plain=localhost/127.0.0.1:30077)(secure=0.0.0.0/0.0.0.0:30078):FileTxnSnapLog@298] - Snapshotting: 0x0 to /home/jenkins/jenkins-slave/workspace/PreCommit-ZOOKEEPER-Build/trunk/build/test/tmp/test5311610672905591522.junit.dir/data/version-2/snapshot.0"
+  },
+  {
+    "rank": 9,
+    "id": "msg_06a924253a050ff4a20110ac2eedf55bb3aebb1887d9e83c0ffc18ccb004d169",
+    "score": 101.55198,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2499",
+    "source": "jira",
+    "origin_doc_id": "30eda5a9c12fa67903ac98df58e6f91b4c8a3f2ae6ffe5fd74dfd80018a74e36",
+    "snippet": "2016-08-03 05:33:43,908 [myid:0] - INFO  [QuorumPeer[myid=0](plain=localhost/127.0.0.1:30073)(secure=0.0.0.0/0.0.0.0:30074):FileTxnSnapLog@298] - Snapshotting: 0x0 to /home/jenkins/jenkins-slave/workspace/PreCommit-ZOOKEEPER-Build/trunk/build/test/tmp/test8166855371662584608.junit.dir/data/version-2/snapshot.0"
+  },
+  {
+    "rank": 10,
+    "id": "msg_53716956551a4deb335b819aa9a1961ab4d856e835fe396df9ca621b6c9714bf",
+    "score": 97.59583,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2502",
+    "source": "jira",
+    "origin_doc_id": "a7800415497cd6ffde9576be3249073bc21ea2feb9f2ba94c8de007f226c66a7",
+    "snippet": "2016-07-12 22:34:59,174 [myid:] - INFO  [QuorumPeer[myid=0]/0:0:0:0:0:0:0:0:11240:FileTxnSnapLog@240] - Snapshotting: 0x100000000 to /x1/jenkins/jenkins-slave/workspace/ZooKeeper_branch34_jdk8/branch-3.4/build/test/tmp/test8108741215991761367.junit.dir/version-2/snapshot.100000000"
+  }
+]

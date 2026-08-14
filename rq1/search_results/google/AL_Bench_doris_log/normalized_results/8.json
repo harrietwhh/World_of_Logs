@@ -1,0 +1,33 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "API to get Global protect users logs - LIVEcommunity - 347350",
+    "link": "https://live.paloaltonetworks.com/t5/automation-api-discussions/api-to-get-global-protect-users-logs/td-p/347350",
+    "displayed_link": "https://live.paloaltonetworks.com › td-p",
+    "snippet": "Hi All, Any suggestions on how to get Global protect logs for last 24 hours from panorama. In the Web interface in the systems logs if we ...",
+    "snippet_highlighted_words": [
+      "Global",
+      "logs",
+      "logs"
+    ],
+    "source": "Palo Alto Networks LIVEcommunity",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Accessing global dictionaries - python",
+    "link": "https://stackoverflow.com/questions/66004725/accessing-global-dictionaries",
+    "displayed_link": "1 answer · 5 years ago",
+    "snippet": "Accessing dictionary in django template engine · 1 · Make a global dict object in python which can access and edit from any py files · 1.",
+    "snippet_highlighted_words": [
+      "dictionary",
+      "global dict"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

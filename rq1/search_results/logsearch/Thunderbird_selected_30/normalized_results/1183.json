@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_f6ae60458132ff33471c3fe8f79e81b29da803e2a1159336304e5e2176fa1984",
+    "score": 54.598972,
+    "link": "https://github.com/fiji-flo/x1carbon2018s3/issues/22",
+    "source": "github",
+    "origin_doc_id": "f6930d9e4101bdafb67cb3313aadae0cb1b156d2089cb4f23cc200dc314d7a15",
+    "snippet": "[    0.121298] ACPI: (supports S0 S4 S5)"
+  },
+  {
+    "rank": 2,
+    "id": "msg_6dbb5ed9e421279384c2e01ed097ac7f1fbd3f27b1e0ff314022dc7aa708ac44",
+    "score": 38.64609,
+    "link": "https://github.com/GaloisInc/cryptol/issues/573",
+    "source": "github",
+    "origin_doc_id": "201947b3c2ce9d31996e7444def553052686b091baa3939974fcf6a60f0c529c",
+    "snippet": "... \n [GOOD] (set-logic QF_BV) \n ... \n [GOOD] (define-fun s1 () (_ BitVec 8) #x02)\n[GOOD] (define-fun s3 () (_ BitVec 8) #x04)\n[GOOD] (declare-fun s0 () (_ BitVec 8))\n...\n[GOOD] (define-fun s2 () (_ BitVec 8) (bvshl s0 s1))\n[GOOD] (define-fun s4 () (_ BitVec 8) (bvmul s0 s3))\n[GOOD] (define-fun s5 () Bool (= s2 s4))\n[GOOD] (assert (not s5))\n[SEND] (check-sat)\n[RECV] unsat\n*** Solver   : Z3"
+  },
+  {
+    "rank": 3,
+    "id": "msg_6684e5280d03ec78f1e7f1ba1a6c682bf142fa72598d85e3d81bc3b0ae2c8e3d",
+    "score": 38.468735,
+    "link": "https://github.com/fiji-flo/x1carbon2018s3/issues/15",
+    "source": "github",
+    "origin_doc_id": "753c7e2f7347ef1799c765c106255f1e0a50f1cced389cd89d7ffd75708f32fc",
+    "snippet": "0.194101] ACPI: (supports S0 S3 S4"
+  },
+  {
+    "rank": 4,
+    "id": "msg_05c1d4255ae8ce4e4982f089aa331aee85f6a933bbf2c359ede359915f26f6f1",
+    "score": 36.625557,
+    "link": "https://github.com/LeventErkok/sbv/issues/327",
+    "source": "github",
+    "origin_doc_id": "9ff95f330ff8114f78564512923bb67d01d339c359e3646970fa591275fe7061",
+    "snippet": "(let ((s16 (>= s0 s15))) \n             (and s10 s14 s16)))))))))))) \n ; [14:26:59.345] Received: success \n ; [14:26:59.346] Sending: \n (assert (= s4 s5)) \n ; [14:26:59.347] Received: (error \"line 28 column 11: unknown constant s4\")"
+  },
+  {
+    "rank": 5,
+    "id": "msg_3040c8e4305671f086162acbdc185a1d3a46efc82d3203b448ac9a29481df619",
+    "score": 34.209835,
+    "link": "https://stackoverflow.com/questions/30827572",
+    "source": "so",
+    "origin_doc_id": "e9cc35017e3ee35087763fb6b5dc1f8f0447890a607083a091fcdf4e6072fe3c",
+    "snippet": "System.out.println(\" \n s4 == s5 : - \"+(s4 ==\nSystem.out.println(\"s4 == s6 : - \"+(s4 == s6));"
+  },
+  {
+    "rank": 6,
+    "id": "msg_359bd888d7c69b5e7b6da238cee8568c0beb9c64a385732f26bdfe553ca3b9b0",
+    "score": 33.89986,
+    "link": "https://github.com/RelistenNet/relisten-ios/issues/58",
+    "source": "github",
+    "origin_doc_id": "01f5d76f88046ee0d61399c931a405c4a8c8548fbbf00aa90bfb7f408f683878",
+    "snippet": "2018-08-10 16:48:53.973104-0700 Relisten[33346:8463063] [Collection] New content: { itemCounts = [ <S0: 1> <S1: 0> <S2: 1> <S3: 1> <S4: 1> <S5: 3> <S6: 5> <S7: 128> ] }"
+  },
+  {
+    "rank": 7,
+    "id": "msg_5be402eb1187edc2a2d560d920d66b535b29568fc79ab1122681c30c0e74342b",
+    "score": 33.26288,
+    "link": "https://github.com/naftulikay/thinkpad-yoga-3rd-gen-acpi/pull/4",
+    "source": "github",
+    "origin_doc_id": "01a99caffc7c453cb9e4a27cd6de4bd6c47b349024bd5adf1fb96a48ef382fed",
+    "snippet": "[    0.000000] ACPI: DSDT ACPI table found in initrd [kernel/firmware/acpi/dsdt.aml][0x241bf]\n[    0.000000] ACPI: Table Upgrade: override [DSDT-LENOVO-SKL     ] \n [    0.000000] ACPI: DSDT 0x000000004FFBD000 Physical table override, new table: 0x000000004DB15000 \n [    0.000000] ACPI: DSDT 0x000000004DB15000 0241BF (v02 LENOVO SKL      00000001 INTL 20190215) \n [    0.290076] ACPI: \\_SB_.PCI0.LPCB.EC__: Used as boot DSDT EC to handle transactions and events \n ``` \n ``` \n % dmesg | grep ACPI | grep supports \n [    0.189551] ACPI: (supports S0 S3 S4 S5) \n ```"
+  },
+  {
+    "rank": 8,
+    "id": "msg_bc7d2fcd4f566abde8ba9a52ee8f1ca66d2ac76d5bb39a0419a2ab384b9da5fb",
+    "score": 33.10016,
+    "link": "https://stackoverflow.com/questions/58148437",
+    "source": "so",
+    "origin_doc_id": "41792c55d4ff355a44d9e364ffdcf80fb2ed070dbab6a11c32415c04f216cb49",
+    "snippet": "Console.WriteLine(\"s4 == s5 should be true \" + (s4 =="
+  },
+  {
+    "rank": 9,
+    "id": "msg_a19685cbc08d1aebf4ca19f52d1a50c517a4f58b1127cf68e5ab8ef3750180fa",
+    "score": 32.729534,
+    "link": "https://github.com/mne-tools/mne-python/pull/6674",
+    "source": "github",
+    "origin_doc_id": "7d0fa967d5bd6ed6b1bd4fc2a65af4409e7efcd1d5dc6de2f61cde5dd417cc88",
+    "snippet": "message = \"Channel names are not unique, found duplicates for: {'S2-D3', 'S5-D5', 'S4-D4', 'S5-D8', 'S5-D6', 'S1-D1', 'S5-D7', 'S5-D13', 'S3-D11', 'S1-D9', 'S4-D12', 'S3-D2', 'S2-D10'}. Applying running numbers for duplicates.\""
+  },
+  {
+    "rank": 10,
+    "id": "msg_f35f562579be03dd1e1e5d607666d280a2f05f12c56e8e17d74d0ec6ca92131c",
+    "score": 32.35596,
+    "link": "https://stackoverflow.com/questions/16587190",
+    "source": "so",
+    "origin_doc_id": "c3f51e8963f78d1602f8cf79525208ef326b2db90523d2379e7796bfc0d49f65",
+    "snippet": "At State: S1\nAt State: S2\nAt State: S4\nS2\nS3\nAt State: S5\nS3\nS4\nAt State: S3\nAt State: S5"
+  }
+]

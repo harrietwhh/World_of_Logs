@@ -1,0 +1,29 @@
+{
+  "case_id": "100",
+  "summary_raw": "[\"Removing RDD\"]",
+  "summary_items": [
+    "Removing RDD"
+  ],
+  "group_logs_lines": [
+    "INFO storage.BlockManager : Removing RDD 12810",
+    "INFO storage.BlockManager : Removing RDD 12806",
+    "INFO storage.BlockManager : Removing RDD 12802",
+    "INFO storage.BlockManager : Removing RDD 12798",
+    "INFO storage.BlockManager : Removing RDD 12792",
+    "INFO storage.BlockManager : Removing RDD 12788",
+    "INFO storage.BlockManager : Removing RDD 12784",
+    "INFO storage.BlockManager : Removing RDD 12780",
+    "INFO storage.BlockManager : Removing RDD 12776",
+    "INFO storage.BlockManager : Removing RDD 12768",
+    "INFO storage.BlockManager : Removing RDD 12764",
+    "INFO storage.BlockManager : Removing RDD 12760",
+    "INFO storage.BlockManager : Removing RDD 12756",
+    "INFO storage.BlockManager : Removing RDD 12752",
+    "INFO storage.BlockManager : Removing RDD 12748",
+    "INFO storage.BlockManager : Removing RDD 12744",
+    "INFO storage.BlockManager : Removing RDD 12740",
+    "INFO storage.BlockManager : Removing RDD 12736",
+    "INFO storage.BlockManager : Removing RDD 12732",
+    "INFO storage.BlockManager : Removing RDD 12728"
+  ]
+}

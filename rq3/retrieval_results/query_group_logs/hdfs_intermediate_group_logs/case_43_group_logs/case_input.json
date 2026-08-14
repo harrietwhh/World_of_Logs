@@ -1,0 +1,30 @@
+{
+  "case_id": "43",
+  "summary_raw": "[\"Unexpected error trying to delete block\",\"BlockInfo not found\"]",
+  "summary_items": [
+    "Unexpected error trying to delete block",
+    "BlockInfo not found"
+  ],
+  "group_logs_lines": [
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8156709250431663669. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8157007602552620601. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8172850113585605633. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8184460545867171342. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8219212597580975288. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8263445520288317388. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8275179600949786072. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8293688447689532097. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8293803025629105098. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8293844257258679343. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8301560018213196661. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8301985470397963141. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8306020498792651472. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8316088262788831522. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8316604396152647415. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8332111402582119335. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8335945263120084738. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8337226166059423434. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8344179782425106011. BlockInfo not found in volumeMap.",
+    "WARN dfs.FSDataset : Unexpected error trying to delete block blk_8348244786737435793. BlockInfo not found in volumeMap."
+  ]
+}

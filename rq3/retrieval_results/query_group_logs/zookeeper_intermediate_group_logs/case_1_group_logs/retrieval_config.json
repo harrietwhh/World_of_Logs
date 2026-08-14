@@ -1,0 +1,28 @@
+{
+  "mode": "csv_case",
+  "case_id": "1",
+  "query_source": "group_logs",
+  "query_count": 8,
+  "queries": [
+    "WARN Connection broken for id 188978561024, my id = 1, error =",
+    "WARN Interrupted while waiting for message on queue",
+    "WARN Send worker leaving thread",
+    "WARN Interrupting SendWorker",
+    "INFO Received connection request /10.10.34.11: 45328",
+    "INFO Received connection request /10.10.34.11: 45329",
+    "INFO Received connection request /10.10.34.11: 45336",
+    "INFO Received connection request /10.10.34.11: 45338"
+  ],
+  "log_message": "",
+  "cases_csv": "data/Zookeeper.csv",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 32,
+  "retrieved_candidate_count": 32,
+  "output_dir": "zookeeper_intermediate_group_logs/case_1_group_logs",
+  "generated_at_utc": "2026-03-14T03:05:41.232497+00:00"
+}

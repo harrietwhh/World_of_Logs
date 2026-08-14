@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_34fbd1cd0c00e96706cbbe2a990970041aa4efb0dbd76ca869debcffdf58e767",
+    "score": 19.904488,
+    "link": "https://github.com/haywire/haywire/pull/107",
+    "source": "github",
+    "origin_doc_id": "ecf6da115ac781f5b4d196dfda1054cdaab919d030faa835fa3eedd9dfa08bf9",
+    "snippet": "640.00\nAddress: 0.0.0.0\nPort: 8000\nThreads: 0\nParser: pico\nTCP No Delay: off\nListen backlog: 128\nMaximum request size: 1048576\nListening...\nSTART\tNREAD: 78 BUFUSED: 78 PREVBUFLEN: 0\nLOOP\tNREAD: 78 BUFUSED: 78 PREVBUFLEN: 0\nSWEEP\tNREAD: 78 BUFUSED: 78 PREVBUFLEN: 78 OLD: 78 NEW: 78 PREVBUFLEN: 78\nSTART\tNREAD: 78 BUFUSED: 78 PREVBUFLEN: 0\nLOOP\tNREAD: 78 BUFUSED: 78 PREVBUFLEN: 0\nSWEEP\tNREAD: 78 BUFUSED: 78 PREVBUFLEN: 78 OLD: 78 NEW: 78 PREVBUFLEN: 78\nSTART\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 0\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 0\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 40 OLD: 2560 NEW: 2560 PREVBUFLEN: 40\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 40\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 80 OLD: 2560 NEW: 2560 PREVBUFLEN: 80\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 80\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 120 OLD: 2560 NEW: 2560 PREVBUFLEN: 120\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 120\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 160 OLD: 2560 NEW: 2560 PREVBUFLEN: 160\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 160\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 200 OLD: 2560 NEW: 2560 PREVBUFLEN: 200\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 200\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 240 OLD: 2560 NEW: 2560 PREVBUFLEN: 240\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 240\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 280 OLD: 2560 NEW: 2560 PREVBUFLEN: 280\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 280\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 320 OLD: 2560 NEW: 2560 PREVBUFLEN: 320\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 320\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 360 OLD: 2560 NEW: 2560 PREVBUFLEN: 360\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 360\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 400 OLD: 2560 NEW: 2560 PREVBUFLEN: 400\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 400\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 440 OLD: 2560 NEW: 2560 PREVBUFLEN: 440\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 440\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 480 OLD: 2560 NEW: 2560 PREVBUFLEN: 480\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 480\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 520 OLD: 2560 NEW: 2560 PREVBUFLEN: 520\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 520\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 560 OLD: 2560 NEW: 2560 PREVBUFLEN: 560\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 560\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 600 OLD: 2560 NEW: 2560 PREVBUFLEN: 600\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 600\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 640 OLD: 2560 NEW: 2560 PREVBUFLEN: 640\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 640\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 680 OLD: 2560 NEW: 2560 PREVBUFLEN: 680\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 680\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 720 OLD: 2560 NEW: 2560 PREVBUFLEN: 720\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 720\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 760 OLD: 2560 NEW: 2560 PREVBUFLEN: 760\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 760\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 800 OLD: 2560 NEW: 2560 PREVBUFLEN: 800\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 800\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 840 OLD: 2560 NEW: 2560 PREVBUFLEN: 840\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 840\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 880 OLD: 2560 NEW: 2560 PREVBUFLEN: 880\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 880\n[Truncated]\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2280\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2320 OLD: 2560 NEW: 2560 PREVBUFLEN: 2320\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2320\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2360 OLD: 2560 NEW: 2560 PREVBUFLEN: 2360\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2360\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2400 OLD: 2560 NEW: 2560 PREVBUFLEN: 2400\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2400\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2440 OLD: 2560 NEW: 2560 PREVBUFLEN: 2440\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2440\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2480 OLD: 2560 NEW: 2560 PREVBUFLEN: 2480\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2480\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2520 OLD: 2560 NEW: 2560 PREVBUFLEN: 2520\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2520\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2560 OLD: 2560 NEW: 2560 PREVBUFLEN: 2560\nSTART\tNREAD: 2560 BUFUSED: 5120 PREVBUFLEN: 2560\nLOOP\tNREAD: 2560 BUFUSED: 5120 PREVBUFLEN: 2560\nSWEEP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 2600 OLD: 5120 NEW: 2560 PREVBUFLEN: 40\nLOOP\tNREAD: 2560 BUFUSED: 2560 PREVBUFLEN: 40\nSWEEP\tNREAD: 2560 BUFUSED: 0 PREVBUFLEN: 80 OLD: 2560 NEW: 0 PREVBUFLEN: 0"
+  },
+  {
+    "rank": 2,
+    "id": "msg_a2792d1c2b7a3206e1fba4c2e5574647a177c2c3279a286740342e0189e90379",
+    "score": 19.319996,
+    "link": "https://github.com/FreeRDP/FreeRDP/issues/3642",
+    "source": "github",
+    "origin_doc_id": "cb7105aa38358dbeb063212c72b9fccafbfc72919a62fc831803d26110fef217",
+    "snippet": "[11:53:37:213] [12609:12627] [INFO][com.freerdp.codec.clear] - new vBar will at 1831"
+  },
+  {
+    "rank": 3,
+    "id": "msg_c76f3cc66cbef3a191e3509495f25483eb2fdb1f9a32050b32b8c9591b5a4a5c",
+    "score": 19.100016,
+    "link": "https://issues.apache.org/jira/browse/OOZIE-2422",
+    "source": "jira",
+    "origin_doc_id": "5fec991d263e2dbbdb7c317ba2454011dc3b88b843b6b898493d8d50f2fec3ac",
+    "snippet": "There are no new bugs found in [examples]. \n {color:green}+1 BACKWARDS_COMPATIBILITY{color}\nrun: 1831"
+  },
+  {
+    "rank": 4,
+    "id": "msg_6fb9c46f2362058f7dc90a5728756d77dd140167f59c483736a49e5ecda8e720",
+    "score": 18.88499,
+    "link": "https://issues.apache.org/jira/browse/OOZIE-2746",
+    "source": "jira",
+    "origin_doc_id": "b6a5441465290ecf9ff4387f2b81424271acca987b5090b0a67ccdbc20c8392f",
+    "snippet": "There are no new bugs found in [sharelib/spark]. \n {color:green}+1 BACKWARDS_COMPATIBILITY{color}\nrun: 1831"
+  },
+  {
+    "rank": 5,
+    "id": "msg_22abd38339d6affa026c5c841b1dbad09cfc5b5b2757b17352e95085b528e5e3",
+    "score": 18.661568,
+    "link": "https://github.com/qooob/authentic-theme/issues/631",
+    "source": "github",
+    "origin_doc_id": "f22e10ac3ace23cf50848ed7752ada2782be89d5eafcc7f3c71c9a0867a2f847",
+    "snippet": "Browser output below: \n parent.min.js?1831:6 Uncaught TypeError: lang(...).toUpperCase is not a function \n     at get_right_panel_sysinfo_data (parent.min.js?1831:6) \n     at __si__bg_upd_exec (parent.min.js?1831:6) \n     at parent.min.js?1831:6 \nget_right_panel_sysinfo_data @ parent.min.js?1831:6\n__si__bg_upd_exec @ parent.min.js?1831:6\n(anonymous) @ parent.min.js?1831:6\ninit.min.js?1831:6 Uncaught ReferenceError: __mss is not defined\n    at HTMLIFrameElement.<anonymous> (init.min.js?1831:6)\n    at HTMLIFrameElement.dispatch (bundle.min.js?1831:2)\n    at HTMLIFrameElement.r.handle (bundle.min.js?1831:2)\n(anonymous) @ init.min.js?1831:6\ndispatch @ bundle.min.js?1831:2\nr.handle @ bundle.min.js?1831:2"
+  },
+  {
+    "rank": 6,
+    "id": "msg_96fdd193b2d75b2fb736b8d3b812eb1433b8a3469f946dc1028065ad103ee21c",
+    "score": 17.95653,
+    "link": "https://github.com/Azure/Azurite/issues/1381",
+    "source": "github",
+    "origin_doc_id": "70026b31f37f0a75b7610b1a5506ab117e24ed19efad835933a4c324da0aeaa4",
+    "snippet": "2022-03-08T22:44:06.828Z \t info: QueueGCManager:markSweepLoop() Start new mark and sweep."
+  },
+  {
+    "rank": 7,
+    "id": "msg_f63156afe01aac5e65cdd25a99ba680612fca03e2f5530883503bd7ed5a80be6",
+    "score": 17.95653,
+    "link": "https://github.com/Azure/Azurite/issues/1381",
+    "source": "github",
+    "origin_doc_id": "70026b31f37f0a75b7610b1a5506ab117e24ed19efad835933a4c324da0aeaa4",
+    "snippet": "2022-03-08T22:45:06.831Z \t info: QueueGCManager:markSweepLoop() Start new mark and sweep."
+  },
+  {
+    "rank": 8,
+    "id": "msg_bee8a3754e9a1891972be813ec6d03e8d31970492e5a6d620533fdbe68286bec",
+    "score": 17.95653,
+    "link": "https://github.com/Azure/Azurite/issues/793",
+    "source": "github",
+    "origin_doc_id": "6d7ea4cb83ebbdd72deb94773d3f8e64020f0df223f7e499a6b141dd8433fb38",
+    "snippet": "2021-05-22T23:05:12.386Z \t info: QueueGCManager:markSweepLoop() Start new mark and sweep."
+  },
+  {
+    "rank": 9,
+    "id": "msg_f9a44d7d9d3165ae1b68065fc6e59741c0a3bcc1fcaa1f8c971a708661fd6c76",
+    "score": 17.95653,
+    "link": "https://github.com/Azure/Azurite/issues/1228",
+    "source": "github",
+    "origin_doc_id": "ee6002db780c6e0034c4bad34df6fac9e2b0e3d384e2113631e4907237c6df57",
+    "snippet": "2021-12-18T23:24:16.217Z \t info: QueueGCManager:markSweepLoop() Start new mark and sweep."
+  },
+  {
+    "rank": 10,
+    "id": "msg_894f7d00470a2c2348b347375a0cb9dc16ba3e28f37387375a669e3337faeb40",
+    "score": 17.95653,
+    "link": "https://github.com/Azure/Azurite/issues/794",
+    "source": "github",
+    "origin_doc_id": "9b17dc3a6bb1d1a0f62780d0fcebff2fa1e164a236b12e3eb6774e440636a1ae",
+    "snippet": "2021-05-22T23:50:36.187Z \t info: QueueGCManager:markSweepLoop() Start new mark and sweep."
+  }
+]

@@ -1,0 +1,242 @@
+{
+  "sources": {
+    "github": {
+      "eval_summary": {
+        "negative_sampled": 100,
+        "negative_evaluated": 100,
+        "negative_skipped_not_sure": 0,
+        "negative_missed": 2,
+        "missed_negative_rows": [
+          {
+            "sample_id": "github_negative_doc_0066",
+            "url": "https://github.com/Microsoft/perfview/pull/530",
+            "gt_block_count": 2,
+            "gt_msg_count": 2
+          },
+          {
+            "sample_id": "github_negative_doc_0100",
+            "url": "https://github.com/raisezhang/react-drag-listview/issues/31",
+            "gt_block_count": 1,
+            "gt_msg_count": 1
+          }
+        ],
+        "positive_evaluated": 96,
+        "positive_confirmed": 93,
+        "positive_unconfirmed": 3,
+        "boundary_proxy": {
+          "no_gt_log_tag": 3,
+          "exact_proxy": 32,
+          "mixed_or_wrong_proxy": 57,
+          "under_extraction_proxy": 4
+        }
+      },
+      "annotation_summary": {
+        "negative_doc": {
+          "rows": 100,
+          "rows_with_log_type": 2,
+          "not_sure": 0,
+          "label_counts": {
+            "test_log": 1,
+            "log_in_NL": 1
+          },
+          "nb_counts": {}
+        },
+        "positive_doc": {
+          "rows": 100,
+          "rows_with_log_type": 93,
+          "not_sure": 4,
+          "label_counts": {
+            "error_message": 35,
+            "stack_trace": 34,
+            "logging_statement": 14,
+            "build_log": 12,
+            "execution_log": 6,
+            "log_in_NL": 5,
+            "test_log": 3,
+            "Hardware_Detection_Log": 1,
+            "Deployment_Log": 1,
+            "console_log": 1,
+            "stach_trace": 1
+          },
+          "nb_counts": {}
+        }
+      }
+    },
+    "so": {
+      "eval_summary": {
+        "negative_sampled": 100,
+        "negative_evaluated": 100,
+        "negative_skipped_not_sure": 0,
+        "negative_missed": 10,
+        "missed_negative_rows": [
+          {
+            "sample_id": "stack_overflow_negative_doc_0009",
+            "url": "https://stackoverflow.com/questions/79769482",
+            "gt_block_count": 1,
+            "gt_msg_count": 1
+          },
+          {
+            "sample_id": "stack_overflow_negative_doc_0013",
+            "url": "https://stackoverflow.com/questions/79848923",
+            "gt_block_count": 2,
+            "gt_msg_count": 1
+          },
+          {
+            "sample_id": "stack_overflow_negative_doc_0034",
+            "url": "https://stackoverflow.com/questions/79797321",
+            "gt_block_count": 12,
+            "gt_msg_count": 7
+          },
+          {
+            "sample_id": "stack_overflow_negative_doc_0037",
+            "url": "https://stackoverflow.com/questions/79714660",
+            "gt_block_count": 2,
+            "gt_msg_count": 2
+          },
+          {
+            "sample_id": "stack_overflow_negative_doc_0040",
+            "url": "https://stackoverflow.com/questions/79804439",
+            "gt_block_count": 2,
+            "gt_msg_count": 2
+          },
+          {
+            "sample_id": "stack_overflow_negative_doc_0042",
+            "url": "https://stackoverflow.com/questions/79852125",
+            "gt_block_count": 1,
+            "gt_msg_count": 1
+          },
+          {
+            "sample_id": "stack_overflow_negative_doc_0085",
+            "url": "https://stackoverflow.com/questions/79776598",
+            "gt_block_count": 1,
+            "gt_msg_count": 1
+          },
+          {
+            "sample_id": "stack_overflow_negative_doc_0094",
+            "url": "https://stackoverflow.com/questions/79732408",
+            "gt_block_count": 1,
+            "gt_msg_count": 1
+          },
+          {
+            "sample_id": "stack_overflow_negative_doc_0098",
+            "url": "https://stackoverflow.com/questions/79776379",
+            "gt_block_count": 2,
+            "gt_msg_count": 4
+          },
+          {
+            "sample_id": "stack_overflow_negative_doc_0099",
+            "url": "https://stackoverflow.com/questions/79870067",
+            "gt_block_count": 1,
+            "gt_msg_count": 1
+          }
+        ],
+        "positive_evaluated": 97,
+        "positive_confirmed": 97,
+        "positive_unconfirmed": 0,
+        "boundary_proxy": {
+          "mixed_or_wrong_proxy": 65,
+          "exact_proxy": 25,
+          "under_extraction_proxy": 5,
+          "over_extraction_proxy": 2
+        }
+      },
+      "annotation_summary": {
+        "negative_doc": {
+          "rows": 100,
+          "rows_with_log_type": 10,
+          "not_sure": 0,
+          "label_counts": {
+            "logging_statement": 11,
+            "log_in_NL": 1,
+            "build_log": 1
+          },
+          "nb_counts": {}
+        },
+        "positive_doc": {
+          "rows": 100,
+          "rows_with_log_type": 100,
+          "not_sure": 3,
+          "label_counts": {
+            "logging_statement": 51,
+            "build_log": 16,
+            "console_log": 15,
+            "exception": 13,
+            "execution_log": 12,
+            "log_in_NL": 8,
+            "other": 4,
+            "Configuration_Error": 3,
+            "?": 3,
+            "Environment_Error": 1,
+            "Assembly": 1,
+            "db_err": 1,
+            "UI_error_msg": 1
+          },
+          "nb_counts": {}
+        }
+      }
+    },
+    "cc": {
+      "eval_summary": {
+        "negative_sampled": 100,
+        "negative_evaluated": 98,
+        "negative_skipped_not_sure": 2,
+        "negative_missed": 0,
+        "missed_negative_rows": [],
+        "positive_evaluated": 81,
+        "positive_confirmed": 68,
+        "positive_unconfirmed": 13,
+        "boundary_proxy": {
+          "exact_proxy": 29,
+          "mixed_or_wrong_proxy": 38,
+          "over_extraction_proxy": 1,
+          "no_gt_log_tag": 13
+        }
+      },
+      "annotation_summary": {
+        "negative_doc": {
+          "rows": 100,
+          "rows_with_log_type": 2,
+          "not_sure": 2,
+          "label_counts": {
+            "web_error_msg": 2
+          },
+          "nb_counts": {
+            "prompt for users to take actions; template error": 1,
+            "prompt for users to take actions": 1
+          }
+        },
+        "positive_doc": {
+          "rows": 100,
+          "rows_with_log_type": 83,
+          "not_sure": 19,
+          "label_counts": {
+            "web_error_msg": 34,
+            "php_err": 30,
+            "execution_log": 5,
+            "configuration_error_msg": 5,
+            "db_error_msg": 4,
+            "build_log": 2,
+            "access_log": 1,
+            "monitoring_log": 1,
+            "log_in_NL": 1,
+            "Installation_Error": 1,
+            "python_traceback": 1,
+            "err_msg": 1
+          },
+          "nb_counts": {
+            "prompt for users to take actions": 9,
+            "It may or may not be taken into account.": 4,
+            "liquid error": 2,
+            "issue title related to logs": 2,
+            "execution_log": 1,
+            "health warnning msg; format similar to log pattern": 1,
+            "not sure log boundry": 1,
+            "Installation Error, Configuration Error, Excel VBA Runtime Error": 1,
+            "issue title related to build logs": 1,
+            "issue title related to logs: Environment Error / Configuration Error": 1
+          }
+        }
+      }
+    }
+  }
+}

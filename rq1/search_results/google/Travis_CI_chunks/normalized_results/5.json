@@ -1,0 +1,149 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "cabal-install update fails going through a HTTP proxy (but ...",
+    "link": "https://github.com/haskell/cabal/issues/555",
+    "displayed_link": "https://github.com › haskell › cabal › issues",
+    "snippet": "In particular in the failing case we get a cache hit followed by a mystery miss and finally Connection: close. In the working case we get no miss and a Proxy- ...",
+    "snippet_highlighted_words": [
+      "Connection"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "cabal can't use http proxy",
+    "link": "https://stackoverflow.com/questions/23137795/cabal-cant-use-http-proxy",
+    "displayed_link": "3 answers · 11 years ago",
+    "snippet": "You can use cntlm to talk to proxy. It will handle authentication issues. After configuring and installing cntlm, set up the new environmental variable.",
+    "snippet_highlighted_words": [
+      "proxy",
+      "set up"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "#562: cabal-install update fails going through a HTTP proxy",
+    "link": "https://mail.haskell.org/pipermail/libraries/2009-November/012815.html",
+    "displayed_link": "https://mail.haskell.org › libraries › 2009-November",
+    "snippet": "#562: cabal-install update fails going through a HTTP proxy. Valery V. Vorotyntsev valery.vv at gmail.com. Mon Nov 23 07:27:36 EST 2009.",
+    "snippet_highlighted_words": [
+      "cabal-install update fails going through a HTTP proxy"
+    ],
+    "source": "Haskell Language",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "cabal update fails with http_proxy · Issue #1602",
+    "link": "https://github.com/haskell/cabal/issues/1602",
+    "displayed_link": "https://github.com › haskell › cabal › issues",
+    "snippet": "The problem appears to be with the HTTP library attempting to reuse a closed connection. (Network/Browser.hs in the HTTP library, line 949-960).",
+    "snippet_highlighted_words": [
+      "HTTP",
+      "connection",
+      "HTTP"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "How do I set the proxy for Cabal?",
+    "link": "https://superuser.com/questions/272168/how-do-i-set-the-proxy-for-cabal",
+    "displayed_link": "https://superuser.com › questions › how-do-i-set-the-pr...",
+    "snippet": "After installing cntlm on your Ubuntu machine, you configure it to authenticate via NTLM at the ISA proxy with your Windows username and password.",
+    "snippet_highlighted_words": [
+      "proxy"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Cabal can't open a TCP connection",
+    "link": "https://ghc-devs.haskell.narkive.com/liY1pige/cabal-can-t-open-a-tcp-connection",
+    "displayed_link": "https://ghc-devs.haskell.narkive.com › cabal-can-t-open...",
+    "snippet": "Dear ghc-devs. Cabal can't open a TCP connection from my Linux box. It used to work fine. Here's what it says: cabal -v3 update",
+    "snippet_highlighted_words": [
+      "Cabal can't open a TCP connection"
+    ],
+    "source": "narkive",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Anyone else having issues with cabal update? : r/haskell",
+    "link": "https://www.reddit.com/r/haskell/comments/1d3m5n5/anyone_else_having_issues_with_cabal_update/",
+    "displayed_link": "5 comments · 1 year ago",
+    "snippet": "I keep getting this error message when I run cabal update. Is there some sort of maintenance/server issue?",
+    "snippet_highlighted_words": [
+      "cabal",
+      "server"
+    ],
+    "source": "Reddit · r/haskell",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Cabal Package Installation Woes - Organic Donut",
+    "link": "https://organicdonut.com/2020/04/28/cabal-package-installation-woes/",
+    "displayed_link": "https://organicdonut.com › 2020/04/28 › cabal-package-...",
+    "snippet": "I'm trying to write a simple webserver based on Warp, but I ran into an issue with a hidden package. Here's my imports in Server.hs.",
+    "snippet_highlighted_words": [
+      "Server"
+    ],
+    "source": "organicdonut.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "~/.cabal/config does not allow setting a http proxy · Issue ...",
+    "link": "https://github.com/haskell/cabal/issues/1138",
+    "displayed_link": "https://github.com › haskell › cabal › issues",
+    "snippet": "Cabal uses Network.HTTP.Proxy which looks up proxy settings via the http_proxy and HTTP_PROXY environment variables.",
+    "snippet_highlighted_words": [
+      "Cabal",
+      "HTTP",
+      "Proxy",
+      "proxy"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "cabal-install update fails going through a HTTP proxy",
+    "link": "https://mail.haskell.org/pipermail/cabal-devel/2009-November/005787.html",
+    "displayed_link": "https://mail.haskell.org › cabal-devel › 2009-November",
+    "snippet": "[patch] #562: cabal-install update fails going through a HTTP proxy · Previous message: [Hackage] #608: Files that are only used by cabal setup ...",
+    "snippet_highlighted_words": [
+      "cabal-install update fails going through a HTTP proxy"
+    ],
+    "source": "Haskell Language",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

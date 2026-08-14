@@ -1,0 +1,31 @@
+LineId,Time,Level,Content,EventId,EventTemplate
+1,"18:01:47,978",INFO,Created MRAppMaster for application appattempt_1445144423722_0020_000001,E29,Created MRAppMaster for application <*>
+2,"18:01:48,963",INFO,Executing with tokens:,E42,Executing with tokens:
+3,"18:01:48,963",INFO,"Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 20 cluster_timestamp: 1445144423722 } attemptId: 1 } keyId: -127633188)",E61,"Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: <*> cluster_timestamp: <*> } attemptId: <*> } keyId: <*>)"
+4,"18:01:49,228",INFO,Using mapred newApiCommitter.,E111,Using mapred newApiCommitter.
+5,"18:01:50,353",INFO,OutputCommitter set in config null,E76,OutputCommitter set in config <*>
+6,"18:01:50,509",INFO,OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter,E75,OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+7,"18:01:50,556",INFO,Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler,E89,Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>
+15,"18:01:50,634",INFO,Default file system [hdfs://msra-sa-41:9000],E31,Default file system [hdfs://<*>:<*>]
+18,"18:01:50,728",INFO,Emitting job history data to the timeline server is not enabled,E37,Emitting job history data to the timeline server is not enabled
+20,"18:01:51,197",INFO,loaded properties from hadoop-metrics2.properties,E63,loaded properties from hadoop-metrics2.properties
+21,"18:01:51,306",INFO,Scheduled snapshot period at 10 second(s).,E92,Scheduled snapshot period at <*> second(s).
+22,"18:01:51,306",INFO,MRAppMaster metrics system started,E69,MRAppMaster metrics system started
+23,"18:01:51,322",INFO,Adding job token for job_1445144423722_0020 to jobTokenSecretManager,E7,Adding job token for <*> to jobTokenSecretManager
+24,"18:01:51,619",INFO,Not uberizing job_1445144423722_0020 because: not enabled; too many maps; too much input;,E71,Not uberizing <*> because: not enabled; too many maps; too much input;
+25,"18:01:51,650",INFO,Input size for job job_1445144423722_0020 = 1256521728. Number of splits = 10,E48,Input size for job <*> = <*>. Number of splits = <*>
+26,"18:01:51,650",INFO,Number of reduces for job job_1445144423722_0020 = 1,E73,Number of reduces for job <*> = <*>
+27,"18:01:51,650",INFO,job_1445144423722_0020Job Transitioned from NEW to INITED,E55,<*> Transitioned from NEW to INITED
+28,"18:01:51,650",INFO,"MRAppMaster launching normal, non-uberized, multi-container job job_1445144423722_0020.",E68,"MRAppMaster launching normal, non-uberized, multi-container job <*>."
+29,"18:01:51,713",INFO,Using callQueue class java.util.concurrent.LinkedBlockingQueue,E110,Using callQueue class java.util.concurrent.LinkedBlockingQueue
+30,"18:01:51,775",INFO,Starting Socket Reader #1 for port 62260,E98,Starting Socket Reader #<*> for port <*>
+31,"18:01:51,791",INFO,Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server,E9,Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server
+32,"18:01:51,791",INFO,Instantiated MRClientService at MININT-FNANLI5.fareast.corp.microsoft.com/10.86.169.121:62260,E49,Instantiated MRClientService at MININT-<*>/<*>:<*>
+33,"18:01:51,806",INFO,IPC Server Responder: starting,E51,IPC Server Responder: starting
+34,"18:01:51,806",INFO,IPC Server listener on 62260: starting,E50,IPC Server listener on <*>: starting
+35,"18:01:51,885",INFO,Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog,E64,Logging to <*>(org.mortbay.log) via <*>
+36,"18:01:51,900",INFO,Http request log for http.requests.mapreduce is not defined,E47,Http request log for http.requests.mapreduce is not defined
+37,"18:01:51,916",INFO,Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter),E5,Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)
+38,"18:01:51,916",INFO,Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce,E3,Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce
+39,"18:01:51,916",INFO,Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static,E4,Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static
+40,"18:01:51,947",INFO,adding path spec: /mapreduce/*,E8,adding path spec: <*>

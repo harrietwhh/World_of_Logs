@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_300b820edf86504b472a08c6515f793b10eb956cf45d2c057d57bfa54f13337d",
+    "score": 32.28892,
+    "link": "https://stackoverflow.com/questions/41745717",
+    "source": "so",
+    "origin_doc_id": "45f89fbc0d1a350d8d8e27723e5c33987d0725e140f6d44eeb74b02276360f3a",
+    "snippet": "LOG.info(\"Tasks submitted\");"
+  },
+  {
+    "rank": 2,
+    "id": "msg_f03207a84e432759dcadf879e4803a1ff3d232acafd54685979550e9b48f1955",
+    "score": 29.741653,
+    "link": "https://issues.apache.org/jira/browse/HUDI-3068",
+    "source": "jira",
+    "origin_doc_id": "b38b09275d6fb179ca7891eb70bbdae47847985aef138794650aab9c559bddcf",
+    "snippet": "LOG.info(\"Last commit time synced is \" + lastCommitTimeSynced.get() + \", Getting commits since then\");\nLOG.info(\"Last commit time synced is not known, listing all partitions in \" + basePath + \",FS :\" + fs);"
+  },
+  {
+    "rank": 3,
+    "id": "msg_1773579223fe663a3a1ef0d60e27b868adfad490b3b91d75c828167f0d55d079",
+    "score": 29.590134,
+    "link": "https://github.com/SeleniumHQ/selenium/issues/2226",
+    "source": "github",
+    "origin_doc_id": "e03c698970e5ac7cb87cedcd822e0224ee63c6f6881393a6bd66525f77e4535f",
+    "snippet": "log.info(\"Starting tasks\");\nlog.info(\"Awaiting tasks\");\nlog.info(\"All tasks finished\");"
+  },
+  {
+    "rank": 4,
+    "id": "msg_39050c3ac4638718a01cb5d4de3cb5109623cc4cf1e20ac6f92d404bc54571f4",
+    "score": 29.47699,
+    "link": "https://github.com/alibaba/freeline/issues/65",
+    "source": "github",
+    "origin_doc_id": "a20bcc97b8e3f9c6c4b02998216cbe7d38b5b4dd798888a489470c656f4a9df6",
+    "snippet": "@username_1  \n Logcat输出：freeline I/Freeline.CheckSync: dev apkflag:47817, last sync is:47818, current sync is:47818 \n terminal输出： \n [INFO] preparing for tasks... \n [-][connect_device_task] finished. in 0.2s \n [-][gradle_aapt_task] finished. in 0.0s \n [-][http] finished. in 0.0s \n [-][keyBoard] finished. in 0.0s \n[-][credit] finished. in 0.0s\n[-][mainproject] finished. in 0.0s\n[-][merge_dex_task] finished. in 0.0s\n[-][gradle_sync_task] finished. in 0.0s\n[-][clean_cache_task] finished. in 0.0s\n[-][update_stat_task] finished. in 0.0s\n[DEBUG] --------------------------------------------------------\n[DEBUG] Prepare tasks time: 0.1s\n[DEBUG] Task engine running time: 0.3s\n[DEBUG] Total time: 0.4s"
+  },
+  {
+    "rank": 5,
+    "id": "msg_59573a3e431f96a7f78afdc5ed8fc5b5bbf712baa0e3986e29f6b4d8d5a16380",
+    "score": 28.36343,
+    "link": "https://github.com/tektoncd/pipeline/pull/3135",
+    "source": "github",
+    "origin_doc_id": "95328a70f86e15152cb2a86a8a516b5c083d2f486be013b2f9e27cf2d0b562c7",
+    "snippet": "Conditions:\n    Last Transition Time:  2020-08-26T12:02:08Z\n    Message:               Tasks Completed: 0 (Failed: 0, Cancelled 0), Skipped: 1\n    Reason:                Completed\n    Status:                True\n    Type:                  Succeeded\n  Pipeline Spec:\n    Tasks:\n      Name:  skip-this-task\n      Task Spec:\n        Values:\n          foo\n  Start Time:  2020-08-26T12:02:08Z\n  Task Runs:\n    Pipelinerun - To - Skip - Task - Skip - This - Task - Phpfz:\n      Pipeline Task Name:  skip-this-task\n      Status:\n        Conditions:\n          Last Transition Time:  2020-08-26T12:02:08Z\n          Message:               When Expressions for Task pipelinerun-to-skip-task-skip-this-task-phpfz in PipelineRun pipelinerun-to-skip-task evaluated to False"
+  },
+  {
+    "rank": 6,
+    "id": "msg_94746b411dbca7323ca3b4973852bcd66fc917dc04c1d254ff40befd00e3c62e",
+    "score": 28.244846,
+    "link": "https://stackoverflow.com/questions/77571822",
+    "source": "so",
+    "origin_doc_id": "7972ae4427c2d1635be74a35ae149199622e4cd5eae8ee010bd2ddd81606a8cf",
+    "snippet": "log.info(\"Submitted all {} tasks to the executor, waiting.\", TASK_COUNT);\nlog.warn(\"Error executing task\", e);"
+  },
+  {
+    "rank": 7,
+    "id": "msg_88732cb2229ab9a43dc4731bdfc53620e44a817f1f6fb3999470a0b1a025d6d2",
+    "score": 28.238625,
+    "link": "https://issues.apache.org/jira/browse/YARN-3888",
+    "source": "jira",
+    "origin_doc_id": "2689f569b58e0775adb9bb7492e725d85be8e1c74b337096dfa6c49ec650b2ce",
+    "snippet": "15/07/06 19:46:16 INFO impl.YarnClientImpl: Application submission is not finished, submitted application application_1436191509558_0003 is still in NEW \n 15/07/06 19:46:18 INFO impl.YarnClientImpl: Application submission is not finished, submitted application application_1436191509558_0003 is still in NEW \n 15/07/06 19:46:20 INFO impl.YarnClientImpl: Application submission is not finished, submitted application application_1436191509558_0003 is still in NEW"
+  },
+  {
+    "rank": 8,
+    "id": "msg_27767589b4d8c1a10be84660b48fe10516af30be6d2501562305c53e07d3c046",
+    "score": 28.004633,
+    "link": "https://stackoverflow.com/questions/34269873",
+    "source": "so",
+    "origin_doc_id": "c948d0043b56ce3e7cab8f85fc57fee6255cb4095635b63d8548203aef4ac535",
+    "snippet": "LOG.info(\"order will be submitted  {}\", order.getId());\nLOG.info(\"submitted order is marked\");"
+  },
+  {
+    "rank": 9,
+    "id": "msg_12f6707ab029021c04ee696809e319e5cbbf430c8796dfdcb2e7f0bfefdd9c99",
+    "score": 27.983746,
+    "link": "https://stackoverflow.com/questions/51566029",
+    "source": null,
+    "origin_doc_id": "0d48014f95bed273d674e9b87be7c5d2d0a258ad42ed294def9699462fa7f636",
+    "snippet": "batch through Apache Livy API\")\nlog.info('Batch successfully submitted with Id %s', self.batch_id)\nTime is OUT.')"
+  },
+  {
+    "rank": 10,
+    "id": "msg_8bd12e80f9004996934fed59b79458e1fc4b1b684f43426a9060819a908d7196",
+    "score": 27.55281,
+    "link": "https://github.com/Angel-ML/angel/issues/786",
+    "source": "github",
+    "origin_doc_id": "5cf3a3bdf42f61e900fe397a930626c62e4e67dd975f72fc464e56a2d3315321",
+    "snippet": "19/06/13 11:27:51 INFO impl.YarnClientImpl: Application submission is not finished, submitted application application_1559141668369_2580449 is still in SUBMITTED"
+  }
+]

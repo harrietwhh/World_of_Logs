@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_609140d02826c4516c55518039af5da189b61098783ab6b299c8738c0c7014f5",
+    "score": 63.715107,
+    "link": "https://stackoverflow.com/questions/62212986",
+    "source": "so",
+    "origin_doc_id": "793feb9a35b619559406227779b01289cae56d1f92e32909f8c0176a73e9c084",
+    "snippet": "Jun  5 17:15:43 mariadb-01 xinetd[105173]: warning: can't get client address: Connection reset by peer \n Jun  5 17:15:44 mariadb-01 xinetd[105177]: warning: can't get client address: Connection reset by peer \n Jun  5 17:15:45 mariadb-01 xinetd[105181]: warning: can't get client address: Connection reset by peer \n Jun  5 17:15:46 mariadb-01 xinetd[105185]: warning: can't get client address: Connection reset by peer \n Jun  5 17:15:47 mariadb-01 xinetd[105189]: warning: can't get client address: Connection reset by peer \n Jun  5 17:15:48 mariadb-01 xinetd[105193]: warning: can't get client address: Connection reset by peer \n Jun  5 17:15:49 mariadb-01 xinetd[105197]: warning: can't get client address: Connection reset by peer \n Jun  5 17:15:50 mariadb-01 xinetd[105201]: warning: can't get client address: Connection reset by peer \nJun  5 17:15:51 mariadb-01 xinetd[105205]: warning: can't get client address: Connection reset by peer\nJun  5 17:15:52 mariadb-01 xinetd[105209]: warning: can't get client address: Connection reset by peer\nJun  5 17:15:53 mariadb-01 xinetd[105213]: warning: can't get client address: Connection reset by peer\nJun  5 17:15:54 mariadb-01 xinetd[105217]: warning: can't get client address: Connection reset by peer\nJun  5 17:15:55 mariadb-01 xinetd[105221]: warning: can't get client address: Connection reset by peer\nJun  5 17:15:56 mariadb-01 xinetd[105225]: warning: can't get client address: Connection reset by peer\nJun  5 17:15:57 mariadb-01 xinetd[105229]: warning: can't get client address: Connection reset by peer\nJun  5 17:15:58 mariadb-01 xinetd[105233]: warning: can't get client address: Connection reset by peer\nJun  5 17:16:00 mariadb-01 xinetd[105237]: warning: can't get client address: Connection reset by peer\nJun  5 17:16:01 mariadb-01 xinetd[105241]: warning: can't get client address: Connection reset by peer\nJun  5 17:16:02 mariadb-01 xinetd[105245]: warning: can't get client address: Connection reset by peer \n Jun  5 17:16:03 mariadb-01 xinetd[105249]: warning: can't get client address: Connection reset by peer \n Jun  5 17:16:04 mariadb-01 xinetd[105253]: warning: can't get client address: Connection reset by peer\n    mode            tcp\n    id          102\n    log         global\n    option          log-health-checks\n    balance         leastconn\n    timeout connect     30000\n    timeout server      30000\n    retries         3\n    server          mariadb-01 10.20.30.106:3306 id 104 check inter 1000 port 9200\n    server          mariadb-02 10.20.30.107:3306 id 105 check inter 1000 port 9200\ntelnet 10.20.30.106 9200 \n Trying 10.20.30.106... \n Connected to 10.20.30.106. \n Escape character is '^]'."
+  },
+  {
+    "rank": 2,
+    "id": "msg_58d77a84dd7220008f560e76c07717af6622bd490348efbcfd605768433b2d93",
+    "score": 54.737103,
+    "link": "https://stackoverflow.com/questions/56402244",
+    "source": "so",
+    "origin_doc_id": "353f2242b50db908c29a0478d23399ceb66ebd8c06b4e463fb261ad3271734d3",
+    "snippet": "can't get client address: connection reset by peer\"."
+  },
+  {
+    "rank": 3,
+    "id": "msg_726aed91f741889262ce4af01a207332273c12825a0bf91457f4b8845b9738bb",
+    "score": 42.327778,
+    "link": "https://github.com/jedisct1/dnscrypt-server-docker/issues/10",
+    "source": "github",
+    "origin_doc_id": "a16b6bd4f4fe8cf2664029036ed256b57bde692fcec4499453dc3cc50d8c0f4c",
+    "snippet": "[NOTICE] Proxying from 127.0.0.1:53 to 172.16.58.3:49152 \n [WARNING] recvfrom(client): [Connection reset by peer [WSAECONNRESET ]] \n [WARNING] recvfrom(client): [Connection reset by peer [WSAECONNRESET ]]"
+  },
+  {
+    "rank": 4,
+    "id": "msg_855b780e5ab85e224c5800f502a1bd2a19e52452b8beb6dc5121fcf6bb300aca",
+    "score": 40.70076,
+    "link": "https://stackoverflow.com/questions/20587962",
+    "source": "so",
+    "origin_doc_id": "67605ec23de3cc7b2dc4fb70c302a4bd00bc382f190877bf909a720d8968a9aa",
+    "snippet": "[2436594] [fcgid:warn] (104)Connection reset by peer: [client xxx] mod_fcgid: error reading data from FastCGI server, referer (my webpage address)  \n  [fcgid:warn] (104)Connection reset by peer: [client xxx] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function, referer (my webpage address)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_af08886747d083dfb963f49f2ffe09e494a26a17dc41f18f483610cd8c5afab7",
+    "score": 39.65851,
+    "link": "https://github.com/golang/go/issues/18751",
+    "source": "github",
+    "origin_doc_id": "d1207074ea1f8196d05c17f2596248a4513697cbfa5a11b062701ef9241b6673",
+    "snippet": "transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58386->127.0.0.1:58385: read: connection reset by peer \n     transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58389->127.0.0.1:58385: read: connection reset by peer \n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58391->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58390->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58388->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58395->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58394->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58396->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58393->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58392->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58405->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58410->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58404->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58407->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58401->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58387->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58402->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58399->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58400->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58398->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58403->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58408->127.0.0.1:58385: read: connection reset by peer\n    transport_test.go:1413: client fetch error: Get http://127.0.0.1:58385: read tcp 127.0.0.1:58409->127.0.0.1:58385: read: connection reset by peer\npanic: Fail in goroutine after TestTransportPersistConnLeak has completed\n\ngoroutine 2061 [running]:\ntesting.(*common).Fail(0xc000376600)\n\t/Users/username_9/gotip/src/testing/testing.go:553 +0x128\ntesting.(*common).Errorf(0xc000376600, 0x1511423, 0x16, 0xc0003c1f98, 0x1, 0x1)\n\t/Users/username_9/gotip/src/testing/testing.go:645 +0x83\nnet/http_test.TestTransportPersistConnLeak.func2(0xc000285b00, 0xc00051cc60, 0xc000319e00, 0xc000376600, 0xc000319e80)\n\t/Users/username_9/gotip/src/net/http/transport_test.go:1413 +0xec\ncreated by net/http_test.TestTransportPersistConnLeak\n\t/Users/username_9/gotip/src/net/http/transport_test.go:1409 +0x226\npanic: Fail in goroutine after TestTransportPersistConnLeak has completed\n\ngoroutine 2070 [running]:\ntesting.(*common).Fail(0xc000376600)\n\t/Users/username_9/gotip/src/testing/testing.go:553 +0x128\ntesting.(*common).Errorf(0xc000376600, 0x1511423, 0x16, 0xc000579f98, 0x1, 0x1)\n\t/Users/username_9/gotip/src/testing/testing.go:645 +0x83\nnet/http_test.TestTransportPersistConnLeak.func2(0xc000285b00, 0xc00051cc60, 0xc000319e00, 0xc000376600, 0xc000319e80)\n\t/Users/username_9/gotip/src/net/http/transport_test.go:1413 +0xec \n created by net/http_test.TestTransportPersistConnLeak \n \t/Users/username_9/gotip/src/net/http/transport_test.go:1409 +0x226 \n FAIL\tnet/http\t0.589s \n ```"
+  },
+  {
+    "rank": 6,
+    "id": "msg_81c918070956cdecf982cbd6be9fcbf43ffeed27655e278bca56d4f5d12b97ce",
+    "score": 38.929577,
+    "link": "https://github.com/golang/go/issues/18541",
+    "source": "github",
+    "origin_doc_id": "78cf08ae353abeb6a9f7202abd83c57332f873b417534fc3fcfe50def6c871e3",
+    "snippet": "--- FAIL: TestTransportConcurrency (0.00s) \n \ttransport_test.go:1338: error on req request-3: Get http://127.0.0.1:56615/?echo=request-3: read tcp 127.0.0.1:56616->127.0.0.1:56615: read: connection reset by peer \n -- \n --- FAIL: TestTransportDiscardsUnneededConns (0.02s) \n \tclientserver_test.go:1000: Get: Get https://127.0.0.1:58528: read tcp 127.0.0.1:58532->127.0.0.1:58528: read: connection reset by peer \n -- \n --- FAIL: TestTransportPersistConnLeak (0.00s) \n \ttransport_test.go:1110: client fetch error: Get http://127.0.0.1:59800: read tcp 127.0.0.1:59801->127.0.0.1:59800: read: connection reset by peer \n--\n--- FAIL: TestServerEmptyBodyRace_h2 (0.01s)\n\tserve_test.go:3798: Get https://127.0.0.1:62729: read tcp 127.0.0.1:62731->127.0.0.1:62729: read: connection reset by peer\n--\n--- FAIL: TestServerEmptyBodyRace_h2 (0.02s)\n\tserve_test.go:3798: Get https://127.0.0.1:64327: read tcp 127.0.0.1:64329->127.0.0.1:64327: read: connection reset by peer\n--\n--- FAIL: TestTransportDiscardsUnneededConns (0.02s)\n\tclientserver_test.go:1000: Get: Get https://127.0.0.1:54481: dial tcp 127.0.0.1:54481: getsockopt: connection reset by peer\n--\n--- FAIL: TestTimeoutHandlerRaceHeader (0.00s)\n\tserve_test.go:2024: Get http://127.0.0.1:54738: read tcp 127.0.0.1:54739->127.0.0.1:54738: read: connection reset by peer\n--\n--- FAIL: TestServerEmptyBodyRace_h2 (0.02s)\n\tserve_test.go:3798: Get https://127.0.0.1:59287: read tcp 127.0.0.1:59288->127.0.0.1:59287: read: connection reset by peer\n--\n--- FAIL: TestServerEmptyBodyRace_h2 (0.11s)\n\tserve_test.go:3798: Get https://127.0.0.1:52769: read tcp 127.0.0.1:52772->127.0.0.1:52769: read: connection reset by peer\n--\n--- FAIL: TestRetryIdempotentRequestsOnError (0.00s)\n\ttransport_test.go:2589: Get http://127.0.0.1:54153: read tcp 127.0.0.1:54154->127.0.0.1:54153: read: connection reset by peer\n--\n--- FAIL: TestTransportPersistConnLeak (0.00s)\n\ttransport_test.go:1110: client fetch error: Get http://127.0.0.1:59721: read tcp 127.0.0.1:59722->127.0.0.1:59721: read: connection reset by peer\n--\n--- FAIL: TestRetryIdempotentRequestsOnError (0.00s)\n\ttransport_test.go:2606: Get http://127.0.0.1:60903: read tcp 127.0.0.1:60906->127.0.0.1:60903: read: connection reset by peer\n--\n--- FAIL: TestServerEmptyBodyRace_h2 (0.11s)\n\tserve_test.go:3798: Get https://127.0.0.1:60971: read tcp 127.0.0.1:60972->127.0.0.1:60971: read: connection reset by peer\n--\n--- FAIL: TestTransportDiscardsUnneededConns (0.12s)\n\tclientserver_test.go:1000: Get: Get https://127.0.0.1:64291: read tcp 127.0.0.1:64305->127.0.0.1:64291: read: connection reset by peer\n--\n--- FAIL: TestTransportConcurrency (0.01s)\n\ttransport_test.go:1338: error on req request-0: Get http://127.0.0.1:50162/?echo=request-0: read tcp 127.0.0.1:50163->127.0.0.1:50162: read: connection reset by peer\n--\n--- FAIL: TestTransportDiscardsUnneededConns (0.12s)\n\tclientserver_test.go:1000: Get: Get https://127.0.0.1:53562: read tcp 127.0.0.1:53582->127.0.0.1:53562: read: connection reset by peer\n--\n--- FAIL: TestTransportPersistConnLeak (0.00s)\n\ttransport_test.go:1110: client fetch error: Get http://127.0.0.1:55092: read tcp 127.0.0.1:55096->127.0.0.1:55092: read: connection reset by peer\n--\n--- FAIL: TestTransportConcurrency (0.10s)\n\ttransport_test.go:1338: error on req request-0: Get http://127.0.0.1:63500/?echo=request-0: read tcp 127.0.0.1:63501->127.0.0.1:63500: read: connection reset by peer\n--\n--- FAIL: TestTransportPersistConnLeak (0.00s)\n\ttransport_test.go:1110: client fetch error: Get http://127.0.0.1:51099: read tcp 127.0.0.1:51101->127.0.0.1:51099: read: connection reset by peer\n--\n--- FAIL: TestTimeoutHandlerRaceHeader (0.00s)\n\tserve_test.go:2024: Get http://127.0.0.1:58952: read tcp 127.0.0.1:58953->127.0.0.1:58952: read: connection reset by peer\n--\n--- FAIL: TestServerEmptyBodyRace_h2 (0.11s)\n\tserve_test.go:3798: Get https://127.0.0.1:59166: read tcp 127.0.0.1:59168->127.0.0.1:59166: read: connection reset by peer\n```"
+  },
+  {
+    "rank": 7,
+    "id": "msg_75ad29bbd3d40b53a7d18e023742ff2e694e8fdbe055cb218e5863a9fdd37186",
+    "score": 38.871593,
+    "link": "https://github.com/xetorthio/jedis/issues/1793",
+    "source": "github",
+    "origin_doc_id": "e502764811c32b4295615ed3ecd57ee145ac2e0beaf021ed97123819d3007eae",
+    "snippet": "28062:M 20 Mar 08:33:37.238 - Reading from client: Connection reset by peer\n28062:M 20 Mar 08:38:07.355 - Reading from client: Connection reset by peer\n28062:M 20 Mar 08:38:07.355 - Reading from client: Connection reset by peer\n28062:M 20 Mar 08:38:42.265 - Reading from client: Connection reset by peer\n28062:M 20 Mar 08:38:42.265 - Reading from client: Connection reset by peer\n28062:M 20 Mar 08:42:48.255 - Reading from client: Connection reset by peer\n28062:M 20 Mar 08:42:48.255 - Reading from client: Connection reset by peer\n28062:M 20 Mar 20:26:55.349 . I/O error reading from node link: Connection reset by peer\n28062:M 20 Mar 20:29:15.735 . I/O error reading from node link: Connection reset by peer\n28071:S 20 Mar 20:36:15.938 - Error writing to client: Connection reset by peer\n28071:S 20 Mar 20:36:22.723 - Error writing to client: Connection reset by peer\n28071:M 20 Mar 20:39:01.218 . I/O error reading from node link: Connection reset by peer\n28071:M 20 Mar 21:57:03.803 - Reading from client: Connection reset by peer\n28071:M 20 Mar 20:39:01.218 . I/O error reading from node link: Connection reset by peer\n28071:M 20 Mar 21:57:03.803 - Reading from client: Connection reset by peer\n28071:M 21 Mar 01:16:22.471 - Reading from client: Connection reset by peer\n28071:M 21 Mar 01:16:22.471 - Reading from client: Connection reset by peer\n28071:M 21 Mar 01:16:22.471 - Reading from client: Connection reset by peer\n```"
+  },
+  {
+    "rank": 8,
+    "id": "msg_79d1a6eb66b66e579fdc1f31a0640d5e310eb0a4255fa1bd33c67bc3438a9e10",
+    "score": 38.303833,
+    "link": "https://github.com/pystatgen/sgkit/pull/613",
+    "source": "github",
+    "origin_doc_id": "affaa9d77e5f51f381cff0fd840826ee10a3e062e047b6a1bb77ea9e8507c389",
+    "snippet": "|  68% ::warning::%0A(\"Connection broken: ConnectionResetError(104, 'Connection reset by peer')\", ConnectionResetError(104, 'Connection reset by peer'))%0A%0A \n   (\"Connection broken: ConnectionResetError(104, 'Connection reset by peer')\", ConnectionResetError(104, 'Connection reset by peer')) \n ```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_2a3ee3fac8ee7a4f43d7a08041c439bd4058893960f149772e3c473c36a75ac1",
+    "score": 38.22372,
+    "link": "https://stackoverflow.com/questions/78403120",
+    "source": "so",
+    "origin_doc_id": "62cb74fb355d1864525b4443645880072c021ccded4fc569c73a805c042f423c",
+    "snippet": "##[warning]Failed to download task 'CmdLine'. Error Unable to read data from the transport connection: Connection reset by peer. \n ##[warning]Inner Exception: Connection reset by peer \n ##[warning]Back off 21.485 seconds before retry. \n ##[warning]Failed to download task 'CmdLine'. Error Unable to read data from the transport connection: Connection reset by peer. \n ##[warning]Inner Exception: Connection reset by peer \n ##[warning]Back off 27.578 seconds before retry.\n##[warning]Failed to download task 'CmdLine'. Error Unable to read data from the transport connection: Connection reset by peer. \n ##[warning]Inner Exception: Connection reset by peer \n ##[error]Unable to read data from the transport connection: Connection reset by peer."
+  },
+  {
+    "rank": 10,
+    "id": "msg_ddb64a7e206004a198642fb9fb9536334dcbeacf3153ce74839ecc5db3cde2c5",
+    "score": 38.20678,
+    "link": "https://stackoverflow.com/questions/33789814",
+    "source": "so",
+    "origin_doc_id": "069938473a9e7bb7c3752fe01f08781ce4dd4641be137b0533fbafe2664b5604",
+    "snippet": "> shiny::runApp() \n Listening on http://127.0.0.1:6116 \n Warning: closing unused RODBC handle 5 \n ERROR: [on_request_read] connection reset by peer \nERROR: [on_request_read] connection reset by peer\nERROR: [on_request_read] connection reset by peer\nERROR: [on_request_read] connection reset by peer\nERROR: [on_request_read] connection reset by peer\nERROR: [on_request_read] connection reset by peer"
+  }
+]

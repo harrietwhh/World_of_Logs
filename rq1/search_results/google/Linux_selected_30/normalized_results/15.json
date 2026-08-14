@@ -1,0 +1,145 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Why is Cyrus user running imap and pop3 events?",
+    "link": "https://www.3cx.com/community/threads/why-is-cyrus-user-running-imap-and-pop3-events.97685/",
+    "displayed_link": "https://www.3cx.com › ... › Elastix 2.x › General",
+    "snippet": "What is really going on and what does the user Cyrus do? How to disable it totally without any ramifications? Thanks ...",
+    "snippet_highlighted_words": [
+      "user Cyrus"
+    ],
+    "source": "3CX",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Known Protocol Limitations — Cyrus IMAP 3.8.6 documentation",
+    "link": "https://www.cyrusimap.org/3.8/imap/concepts/deployment/known_protocol_limitations.html",
+    "displayed_link": "https://www.cyrusimap.org › concepts › deployment › k...",
+    "snippet": "This chapter lists known limitations to protocols commonly in use today, that may impact your deployment.",
+    "snippet_highlighted_words": [
+      "use"
+    ],
+    "source": "cyrusimap.org",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "3.4.6 POP3 RETR failure for some messages · Issue #4717",
+    "link": "https://github.com/cyrusimap/cyrus-imapd/issues/4717",
+    "displayed_link": "https://github.com › cyrusimap › cyrus-imapd › issues",
+    "snippet": "Hi, Since our upgrade from v2.4.22 to v3.4.x there are some POP3 sessions that fail during the processing of a RETR command.",
+    "snippet_highlighted_words": [
+      "sessions"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "25134 – cyrus-imapd new security issue CVE-2019-11356",
+    "link": "https://bugs.mageia.org/show_bug.cgi?id=25134",
+    "displayed_link": "https://bugs.mageia.org › show_bug",
+    "snippet": "hviaene.thuis su[9335]: pam_unix(su:session): session closed for user cyrus jul 19 10:45:48 mach5.hviaene.thuis systemd[1]: Started Cyrus-imapd IMAP/POP3 email ...",
+    "snippet_highlighted_words": [
+      "session closed for user cyrus"
+    ],
+    "source": "Mageia",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Solved: cyrus - no connection to server",
+    "link": "https://www.experts-exchange.com/questions/24547708/cyrus-no-connection-to-server.html",
+    "displayed_link": "https://www.experts-exchange.com › questions › cyrus-...",
+    "snippet": "I cannot connect with the cyrus user on the web interface on my linus mail server. i have the login screen but when i try to login i get Could not start ...",
+    "snippet_highlighted_words": [
+      "cyrus user"
+    ],
+    "source": "Experts Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Prosody Cyrus SASL mod error initializing",
+    "link": "https://bbs.archlinux.org/viewtopic.php?id=169526",
+    "displayed_link": "https://bbs.archlinux.org › viewtopic",
+    "snippet": "I have prosody set up to use cyrus-sasl to authenticate. This was working well, until a recent full system upgrade. Now, I can't log in to XMPP.",
+    "snippet_highlighted_words": [
+      "use cyrus"
+    ],
+    "source": "Arch Linux Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Installed Cyrus / tls_sessions.db not created / process not ...",
+    "link": "https://askubuntu.com/questions/852094/installed-cyrus-tls-sessions-db-not-created-process-not-running",
+    "displayed_link": "https://askubuntu.com › questions › installed-cyrus-tls-s...",
+    "snippet": "You have to create this file and give it permissions for the cyrus user: # touch /var/lib/cyrus/tls_sessions.db # chown cyrus:mail tls_sessions.db",
+    "snippet_highlighted_words": [
+      "cyrus user",
+      "cyrus",
+      "cyrus"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "How to stop Cyrus from serving root certificate?",
+    "link": "https://serverfault.com/questions/691895/how-to-stop-cyrus-from-serving-root-certificate",
+    "displayed_link": "https://serverfault.com › questions › how-to-stop-cyrus-...",
+    "snippet": "My solution was to add a cyrus SASL user with the realm servername and everything works fine again. The \"self signed certificate\" error disappeared.",
+    "snippet_highlighted_words": [
+      "cyrus",
+      "user"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "imapd.conf(5) — cyrus-common — Debian testing",
+    "link": "https://manpages.debian.org/testing/cyrus-common/imapd.conf.5.en.html",
+    "displayed_link": "https://manpages.debian.org › imapd.conf.5.en.html",
+    "snippet": "If enabled, IMAP/POP3/NNTP clients will be disconnected by the server if the currently selected mailbox is (re)moved by another session. Otherwise, the missing ...",
+    "snippet_highlighted_words": [
+      "session"
+    ],
+    "source": "Debian Manpages",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Cyrus 2.2.12 / TLS problems (SSL working) / Thunderbird",
+    "link": "https://lists.andrew.cmu.edu/pipermail/info-cyrus/2006-July/022598.html",
+    "displayed_link": "https://lists.andrew.cmu.edu › info-cyrus › 2006-July",
+    "snippet": "I've got since 1 or 2 month problems with TLS connection to my cyrus server in IMAP. I will try to explain the configuration and the problem.",
+    "snippet_highlighted_words": [
+      "cyrus"
+    ],
+    "source": "Carnegie Mellon University",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "starting minidfscluster in tests - java",
+    "link": "https://stackoverflow.com/questions/20469026/starting-minidfscluster-in-tests",
+    "displayed_link": "2 answers · 12 years ago",
+    "snippet": "I'm starting MiniDfsCluster (my dependencies are 2.0.0-cdh4.5.0) in my test. I use a simple routine to start it.",
+    "snippet_highlighted_words": [
+      "starting MiniDfsCluster",
+      "test",
+      "start"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "MiniDFSCluster#init should provide more info when it fails",
+    "link": "https://issues.apache.org/jira/browse/HDFS-3682?page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel&focusedCommentId=13471529",
+    "displayed_link": "https://issues.apache.org › jira › browse › HDFS-3682",
+    "snippet": "I've seen the occasional test failure due to the MiniDFSCluster init failing due to \"java.io.IOException: Cannot remove data directory\" for the ...",
+    "snippet_highlighted_words": [
+      "test",
+      "MiniDFSCluster init",
+      "java"
+    ],
+    "source": "Apache.org",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Solved: Re: Namenodes fail starting on HA cluster - Fatals...",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Namenodes-fail-starting-on-HA-cluster-Fatals-exist-in/m-p/190270",
+    "displayed_link": "https://community.cloudera.com › Support-Questions",
+    "snippet": "Apparently my previous answer was just a workound. After the format it looked fine but an alarm definition on - 190267.",
+    "snippet_highlighted_words": [],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "MiniDFSCluster may still be partially running after ...",
+    "link": "https://issues.apache.org/jira/browse/HDFS-6678?page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel&focusedCommentId=14061167",
+    "displayed_link": "https://issues.apache.org › jira › browse › HDFS-6678",
+    "snippet": "MiniDFSCluster initializes the daemons (NameNodes, DataNodes) as part of object construction. If initialization fails, then the constructor throws an ...",
+    "snippet_highlighted_words": [
+      "MiniDFSCluster",
+      "initialization"
+    ],
+    "source": "Apache Software Foundation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Solved: Failed to start Hadoop namenode. Return value: 1",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Failed-to-start-Hadoop-namenode-Return-value-1/td-p/23999",
+    "displayed_link": "https://community.cloudera.com › td-p",
+    "snippet": "The first place to check for startup failure would be the datanode logs. There should be one or more exceptions logged before the shutdown.",
+    "snippet_highlighted_words": [
+      "one"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

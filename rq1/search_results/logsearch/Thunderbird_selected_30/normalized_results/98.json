@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_4b4290196f164434c8854125a71c69a94872dc178d029a01421d7a38df6e32bf",
+    "score": 64.29418,
+    "link": "https://stackoverflow.com/questions/30324193",
+    "source": "so",
+    "origin_doc_id": "6b7568364fb6153797ad92c7249a596400febbb3bc51fef0d64cd92e4f3a2e43",
+    "snippet": "May 19 13:18:02 al-Inspiron-5548 sendmail[6934]: t4JBI24R006934: from=www-data, size=416, class=0, nrcpts=0, msgid=<201505191118.t4JBI24R006934@localhost.localdomain>, relay=www-data@localhost \n May 19 13:18:02 al-Inspiron-5548 sendmail[6936]: t4JBI2ex006936: from=www-data, size=416, class=0, nrcpts=0, msgid=<201505191118.t4JBI2ex006936@localhost.localdomain>, relay=www-data@localhost"
+  },
+  {
+    "rank": 2,
+    "id": "msg_387648e7d30ac581ad648d5c590f2d368f7030c4505413152fcb9ca67de76900",
+    "score": 63.76697,
+    "link": "https://stackoverflow.com/questions/6590934",
+    "source": "so",
+    "origin_doc_id": "68a1a3c1b0c458cee389141d7840389cac29d99bc4ebb46e2ad27ea0bb3da271",
+    "snippet": "Jul  5 21:22:40 www sm-mta[25533]: p661MevV025533: from=<root@www.server.com>,  \n size=352, class=0, nrcpts=1, msgid=<201107060122.p661Mecm025532@www.server.com>,  \n proto=ESMTP, daemon=MTA-v4, relay=localhost [127.0.0.1]"
+  },
+  {
+    "rank": 3,
+    "id": "msg_5f035e3c22bd448234f6d4a0297a47aced2575ca4497a77ff38dc2bf79dbb9cc",
+    "score": 61.884693,
+    "link": "https://stackoverflow.com/questions/10050357",
+    "source": "so",
+    "origin_doc_id": "2bbe69310a1f92f7ac6e119e1ce39609232c43988eca3812f4c2b0004540f50d",
+    "snippet": "Apr  7 01:16:21 Andreas-PC-Ubuntu sendmail[11759]: q36NGIfD011759: from=andreas, size=5, class=0, nrcpts=1, msgid=<201204062316.q36NGIfD011759@home.hagenz.com>, relay=andreas@localhost \n Apr  7 01:16:21 Andreas-PC-Ubuntu sm-mta[11760]: q36NGL1J011760: from=<andreas@home.hagenz.com>, size=299, class=0, nrcpts=1, msgid=<201204062316.q36NGIfD011759@home.hagenz.com>, proto=ESMTP, daemon=MTA-v4, relay=ip6-localhost [127.0.0.1] \nApr  7 01:16:21 Andreas-PC-Ubuntu sendmail[11759]: q36NGIfD011759: to=xxxxxxx@xxxxxxx.com, ctladdr=andreas (1000/1000), delay=00:00:03, xdelay=00:00:00, mailer=relay, pri=30005, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (q36NGL1J011760 Message accepted for delivery) \n  So"
+  },
+  {
+    "rank": 4,
+    "id": "msg_669f026f7933cac8532195a2c23c16f9e457d0516e117a2d333cf72e696c0016",
+    "score": 60.218544,
+    "link": "https://stackoverflow.com/questions/28969954",
+    "source": "so",
+    "origin_doc_id": "c6ecc54dc7a7c94b47b413a13af84b27af96ef57c89d31f8ba2ef3d8d2bb1156",
+    "snippet": "Mar 10 16:59:09 localhost sendmail[11969]: t2AGx9Up011969: from=root,   size=258, class=0, nrcpts=1, msgid=<201503101659.t2AGx9Up011969@localhost.localdomain>, relay=root@localhost \n Mar 10 16:59:09 localhost sendmail[11970]: t2AGx9Js011970: from=<root@localhost.localdomain>, size=521, class=0, nrcpts=1, msgid=<201503101659.t2AGx9Up011969@localhost.localdomain>, proto=ESMTP, daemon=MTA, relay=localhost [127.0.0.1] \n Mar 10 16:59:09 localhost sendmail[11969]: t2AGx9Up011969: to=<my mail>, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=relay, pri=30258, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (t2AGx9Js011970 Message accepted for delivery) \n Mar 10 16:59:12 localhost sendmail[11972]: STARTTLS=client, relay=<my SMTP server>, version=TLSv1/SSLv3, verify=OK, cipher=DHE-RSA-AES256-GCM-SHA384, bits=256/256 \n Mar 10 16:59:15 localhost sendmail[11972]: t2AGx9Js011970: to=<my mail>, ctladdr=<root@localhost.localdomain> (0/0), delay=00:00:06, xdelay=00:00:06, mailer=relay,\n Mar 10 16:59:53 localhost sendmail[12024]: t2AGxrhg012024: from=codendiadm, size=258, class=0, nrcpts=1, msgid=<201503101659.t2AGxrhg012024@localhost.localdomain>, relay=codendiadm@localhost \n Mar 10 16:59:53 localhost sendmail[12025]: t2AGxr16012025: from=<codendiadm@localhost.localdomain>, size=556, class=0, nrcpts=1, msgid=<201503101659.t2AGxrhg012024@localhost.localdomain>, proto=ESMTP, daemon=MTA, relay=localhost [127.0.0.1] \n Mar 10 16:59:53 localhost sendmail[12024]: t2AGxrhg012024: to=<my mail>, ctladdr=codendiadm (495/492), delay=00:00:00, xdelay=00:00:00, mailer=relay, pri=30258, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (t2AGxr16012025 Message accepted for delivery) \n Mar 10 16:59:57 localhost sendmail[12027]: STARTTLS=client, relay=<my SMTP server>, version=TLSv1/SSLv3, verify=OK, cipher=DHE-RSA-AES256-GCM-SHA384, bits=256/256 \n Mar 10 17:00:00 localhost sendmail[12027]: t2AGxr16012025: to=<my mail>, ctladdr=<codendiadm@localhost.localdomain> (495/492), delay=00:00:07, xdelay=00:00:07, mailer=relay, pri=120556, relay=<my SMTP server> [IP], dsn=5.1.1,"
+  },
+  {
+    "rank": 5,
+    "id": "msg_9e729035af5fcb632cc6532c934eb3ba5efd0e5274bf848e29d95d8b6ce0e030",
+    "score": 60.18488,
+    "link": "https://stackoverflow.com/questions/6590934",
+    "source": "so",
+    "origin_doc_id": "68a1a3c1b0c458cee389141d7840389cac29d99bc4ebb46e2ad27ea0bb3da271",
+    "snippet": "`Jul  5 21:24:47 www sendmail[25603]: p661OlL7025603: from=www-data, size=106, class=0, \n  nrcpts=0, msgid=<201107060124.p661OlL7025603@www.server.com>, relay=www-data@localhost"
+  },
+  {
+    "rank": 6,
+    "id": "msg_393b2780c44e39bd1afb918bae6ee270901547b9fac5d5bced530a6cd5771a05",
+    "score": 58.401062,
+    "link": "https://stackoverflow.com/questions/45609340",
+    "source": "so",
+    "origin_doc_id": "6e9148457f1cbad160e8e9c09522b5ad32281816ffaf5e9c0c057b1ae5e98ef6",
+    "snippet": "Aug 10 14:12:10 localhost sendmail[13316]: v7A9CAPC013316: from=root, size=238, class=0, nrcpts=1, msgid=<201708100912.v7A9CAPC013316@localhost.test>, relay=root@localhost \n Aug 10 14:12:10 localhost sendmail[13317]: v7A9CAwD013317: from=<root@localhost.test>, size=484, class=0, nrcpts=1, msgid=<201708100912.v7A9CAPC013316@localhost.test>, proto=ESMTP, daemon=MTA, relay=localhost [127.0.0.1] \n Aug 10 14:12:10 localhost sendmail[13316]: v7A9CAPC013316: to=sandeelo.danyal@gmail.com, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=relay, pri=30238, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (v7A9CAwD013317 Message accepted for delivery) \n Aug 10 14:12:12 localhost sendmail[13319]: STARTTLS=client, relay=gmail-smtp-in.l.google.com., version=TLSv1/SSLv3, verify=FAIL, cipher=ECDHE-RSA-AES128-GCM-SHA256, bits=128/128 \n Aug 10 14:12:13 localhost sendmail[13319]: v7A9CAwD013317: to=<sandeelo.danyal@gmail.com>, ctladdr=<root@localhost.test> (0/0), delay=00:00:03, xdelay=00:00:03, mailer=esmtp, pri=120484, relay=gmail-smtp-in.l.google.com."
+  },
+  {
+    "rank": 7,
+    "id": "msg_16d6a2da7f21a4bb828b792f1cbf1e9f72616bfebcad8cb3598d336c97020755",
+    "score": 57.758892,
+    "link": "https://stackoverflow.com/questions/524224",
+    "source": "so",
+    "origin_doc_id": "5f33757e5ba90f0f25bf290b6335cf9e438e28a2f646dbd8c76d4e38b508669f",
+    "snippet": "Feb  7 18:03:03 vds sendmail[4100]: n17I33c2004100: test@example.com... User unknown \n Feb  7 18:03:03 vds sendmail[4100]: n17I33c2004100: to=test@example.com, delay=00:00:00, mailer=local, pri=0, dsn=5.1.1, stat=User unknown \n Feb  7 18:03:03 vds sendmail[4100]: n17I33c2004100: from=root, size=36, class=0, nrcpts=1, msgid=<200902071803.n17I33c2004100@vds.xxxxxx.com>, relay=root@localhost"
+  },
+  {
+    "rank": 8,
+    "id": "msg_2ff30fe73d7b70a1b56b80fe120805d40c7bb3d54c8b93bb85ed6705acd31b3e",
+    "score": 57.01348,
+    "link": "https://github.com/pulibrary/approvals/issues/464",
+    "source": "github",
+    "origin_doc_id": "f9e83e2d87b0243d3810436b163f68937fd3a8435fc176f37d3d80ecdee4aff3",
+    "snippet": "Jan  7 22:23:42 lib-ponyexpr sendmail[4716]: 0083NgF7004716: from=<kenaa@example.com>, size=1059, class=0, nrcpts=1, msgid=<dycjh@example.com>, proto=ESMTP, daemon=MTA, relay=lib-approvals-prod1.princeton.edu [128.112.200.48]"
+  },
+  {
+    "rank": 9,
+    "id": "msg_b5a4342bc447bab984a89824168d3bb3ddb1e3a79028a529651c5b9eee82ebe7",
+    "score": 56.96524,
+    "link": "https://stackoverflow.com/questions/5367779",
+    "source": "so",
+    "origin_doc_id": "920a251873eb73ddc43177f537e4c4793992904846b8f4a80ae33c80c6f733fb",
+    "snippet": "root@machine:/var/log# cat mail.err \n root@machine:/var/log# cat mail.log \n Mar 20 10:17:09 machine sendmail[12249]: p2K9H2R9012249: from=root, size=0, class=0, nrcpts=1, relay=root@localhost \n Mar 20 10:17:20 machine sendmail[12253]: p2K9HImw012253: from=root, size=0, class=0, nrcpts=0, relay=root@localhost \n Mar 20 10:17:25 machine sendmail[12255]: p2K9HOAC012255: from=root, size=0, class=0, nrcpts=1, relay=root@localhost \n Mar 20 10:20:00 machine sendmail[12277]: p2K9K09k012277: from=root, size=14, class=0, nrcpts=3, msgid=<201103200920.p2K9K09k012277@machine.domain.com>, relay=root@localhost \nMar 20 10:20:00 machine sm-mta[12279]: p2K9K0Ge012279: <-r@machine.domain.com>... User unknown\nMar 20 10:20:00 machine sendmail[12277]: p2K9K09k012277: to=-r, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=relay, pri=90014, relay=[127.0.0.1] [127.0.0.1], dsn=5.1.1, stat=User unknown\nMar 20 10:20:00 machine sm-mta[12279]: p2K9K0Ge012279: from=<root@machine.domain.com>, size=290, class=0, nrcpts=2, msgid=<201103200920.p2K9K09k012277@machine.domain.com>, proto=ESMTP, daemon=MTA-v4, relay=localhost [127.0.0.1]\nMar 20 10:20:00 machine sm-mta[12279]: STARTTLS=client, relay=gmail-smtp-in.l.google.com., version=TLSv1/SSLv3, verify=FAIL, cipher=RC4-SHA, bits=128/128\nMar 20 10:20:02 machine sm-mta[12279]: p2K9K0Ge012279: to=<you@domain.com>, ctladdr=<root@machine.domain.com> (0/0), delay=00:00:02, xdelay=00:00:02, mailer=esmtp, pri=60290, relay=gmail-smtp-in.l.google.com. [74.125.77.27], dsn=2.0.0, stat=Sent (OK 1300612802 w59si3196382eeh.92)\nMar 20 10:20:02 machine sm-mta[12279]: STARTTLS=client, relay=aspmx.l.google.com., version=TLSv1/SSLv3, verify=FAIL, cipher=RC4-SHA, bits=128/128\nMar 20 10:20:04 machine sm-mta[12279]: p2K9K0Ge012279: to=<you2@domain.com>, ctladdr=<root@machine.domain.com> (0/0), delay=00:00:04, xdelay=00:00:02, mailer=esmtp, pri=60290, relay=aspmx.l.google.com. [74.125.79.27], dsn=2.0.0, stat=Sent (OK 1300612804 p50si3196335eei.44)\nMar 20 10:20:04 machine sendmail[12277]: p2K9K09k012277: to=you2@domain.com,you@domain.com, ctladdr=root (0/0), delay=00:00:04, xdelay=00:00:04, mailer=relay, pri=90014, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (p2K9K0Ge012279 Message accepted for delivery)\nMar 20 10:20:04 machine sendmail[12277]: p2K9K09k012277: p2K9K09l012277: DSN: User unknown\nMar 20 10:20:04 machine sm-mta[12279]: p2K9K0Gg012279: from=<>, size=1921, class=0, nrcpts=1, msgid=<201103200920.p2K9K09l012277@machine.domain.com>, proto=ESMTP, daemon=MTA-v4, relay=localhost [127.0.0.1]\nMar 20 10:20:05 machine sm-mta[12279]: p2K9K0Gg012279: to=<root@machine.domain.com>, delay=00:00:01, xdelay=00:00:01, mailer=local, pri=31921, dsn=2.0.0, stat=Sent\nMar 20 10:20:05 machine sendmail[12277]: p2K9K09l012277: to=root, delay=00:00:01, xdelay=00:00:01, mailer=relay, pri=31038, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (p2K9K0Gg012279 Message accepted for delivery)\nMar 20 10:25:11 machine sendmail[12321]: p2K9PBC3012321: from=root, size=14, class=0, nrcpts=1, msgid=<201103200925.p2K9PBC3012321@machine.domain.com>, relay=root@localhost\nMar 20 10:25:11 machine sm-mta[12323]: p2K9PBLe012323: from=<root@machine.domain.com>, size=318, class=0, nrcpts=1, msgid=<201103200925.p2K9PBC3012321@machine.domain.com>, proto=ESMTP, daemon=MTA-v4, relay=localhost [127.0.0.1]\nMar 20 10:25:11 machine sm-mta[12323]: STARTTLS=client, relay=gmail-smtp-in.l.google.com., version=TLSv1/SSLv3, verify=FAIL, cipher=RC4-SHA, bits=128/128\nMar 20 10:25:12 machine sm-mta[12323]: p2K9PBLe012323: to=<you@domain.com>, ctladdr=<root@machine.domain.com> (0/0), delay=00:00:01, xdelay=00:00:01, mailer=esmtp, pri=30318, relay=gmail-smtp-in.l.google.com. [74.125.77.27], dsn=2.0.0, stat=Sent (OK 1300613112 u12si3204796eeh.99)\nMar 20 10:25:12 machine sendmail[12321]: p2K9PBC3012321: to=you@domain.com, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:01, mailer=relay, pri=30014, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (p2K9PBLe012323 Message accepted for delivery)\nMar 20 11:00:17 machine sendmail[12567]: p2KA0HX9012567: from=root, size=20, class=0, nrcpts=1, msgid=<201103201000.p2KA0HX9012567@machine.domain.com>, relay=root@localhost\nMar 20 11:00:17 machine sm-mta[12568]: p2KA0HNn012568: from=<root@machine.domain.com>, size=324, class=0, nrcpts=1, msgid=<201103201000.p2KA0HX9012567@machine.domain.com>, proto=ESMTP, daemon=MTA-v4, relay=localhost [127.0.0.1]\nMar 20 11:00:17 machine sm-mta[12568]: STARTTLS=client, relay=gmail-smtp-in.l.google.com., version=TLSv1/SSLv3, verify=FAIL, cipher=RC4-SHA, bits=128/128\nMar 20 11:00:18 machine sm-mta[12568]: p2KA0HNn012568: to=<you@domain.com>, ctladdr=<root@machine.domain.com> (0/0), delay=00:00:01, xdelay=00:00:01, mailer=esmtp, pri=30324, relay=gmail-smtp-in.l.google.com. [74.125.77.27], dsn=2.0.0, stat=Sent (OK 1300615218 w59si3268114eeh.65) \n Mar 20 11:00:18 machine sendmail[12567]: p2KA0HX9012567: to=you@domain.com, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:01, mailer=relay, pri=30020, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (p2KA0HNn012568 Message accepted for delivery) \n Mar 20 11:16:23 machine sendmail[12675]: p2KAGNg8012675: from=www-data, size=188, class=0, nrcpts=0, msgid=<201103201016.p2KAGNg8012675@machine.domain.com>, relay=www-data@localhost \n root@machine:/var/log#"
+  },
+  {
+    "rank": 10,
+    "id": "msg_169171fca43090602e3f2e8f14c519f80bd3a6a4bb3733582d88d78db76b7ab1",
+    "score": 55.584984,
+    "link": "https://stackoverflow.com/questions/9857594",
+    "source": "so",
+    "origin_doc_id": "27e36e801035beb0428b30c182bbc6f9aeb71e4bffed1487212129d3608cdc54",
+    "snippet": "sendmail[3694]: q2P2nP4M003694: Authentication-Warning: mydomain.com: username set sender to user@mydomain.com using -f \n webserv sendmail[3694]: q2P2nP4M003694: from=user@mydomain.com, size=2124, class=0, nrcpts=1, msgid=<d9dc266122bf46d87b59e20cbd0c7432@www.mydomain.com>, relay=username@localhost \n webserv sm-mta[3695]: q2P2nPOE003695: from=<user@mydomain.com>, size=2315, class=0, nrcpts=1, msgid=<d9dc266122bf46d87b59e20cbd0c7432@www.mydomain.com>, proto=ESMTP, daemon=MTA-v4, relay=localhost.localdomain [127.0.0.1] \n webserv sendmail[3694]: q2P2nP4M003694: to=receiver@otherdomain.com, ctladdr=user@mydomain.com (1001/1001), delay=00:00:00, xdelay=00:00:00, mailer=relay, pri=32124, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (q2P2nPOE003695 Message accepted for delivery) \n webserv sm-mta[3697]: q2P2nPOE003695: to=<receiver@otherdomain.com>,"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "sshd: constant \"fatal: Read from socket failed: Connection ...",
+    "link": "https://www.reddit.com/r/linuxadmin/comments/36nk1y/sshd_constant_fatal_read_from_socket_failed/",
+    "displayed_link": "10+ comments · 10 years ago",
+    "snippet": "sshd: constant \"fatal: Read from socket failed: Connection reset by peer [preauth]\" messages. Update: After making the ssh server ...",
+    "snippet_highlighted_words": [
+      "fatal",
+      "Read from socket failed",
+      "Connection reset by peer",
+      "preauth"
+    ],
+    "source": "Reddit · r/linuxadmin",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Fatal: Read from socket failed: Connection reset by peer ...",
+    "link": "https://community.unix.com/t/fatal-read-from-socket-failed-connection-reset-by-peer-preauth/343291",
+    "displayed_link": "https://community.unix.com › fatal-read-from-socket-fa...",
+    "snippet": "Hello, I have recently updated my AIX machine from version 6.1.7.5 to 6.1.9.1 and i noticed that the errpt of the server is full of ssh ...",
+    "snippet_highlighted_words": [],
+    "source": "Unix Linux Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Read from socket failed: Connection reset by peer",
+    "link": "https://serverfault.com/questions/583355/ssh-issues-read-from-socket-failed-connection-reset-by-peer",
+    "displayed_link": "https://serverfault.com › questions › ssh-issues-read-fro...",
+    "snippet": "The problem sounds like a server-side bug. When the client sends the list of ciphers the openssh server probably expects to be able to read ...",
+    "snippet_highlighted_words": [],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "How to Fix The \"Connection reset by peer\" SSH Error",
+    "link": "https://phoenixnap.com/kb/fix-connection-reset-by-peer-ssh-error",
+    "displayed_link": "https://phoenixnap.com › KB › Web Servers",
+    "snippet": "This article helps identify the cause of the \"ssh_exchange_identification: read: Connection reset by peer\" error and fix your connection fast.",
+    "snippet_highlighted_words": [
+      "Connection reset by peer",
+      "error"
+    ],
+    "source": "phoenixNAP",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Meaning of the logs \"sshd: fatal: userauth_finish: Connection ...",
+    "link": "https://community.progress.com/s/article/Meaning-of-the-logs-sshd-fatal-userauth-finish-Connection-reset-by-peer-preauth",
+    "displayed_link": "https://community.progress.com › article › Meaning-of-t...",
+    "snippet": "... fatal: userauth_finish: Connection reset by peer [preauth] ... The error indicates that an attempt to access the LoadMaster WUI has failed.",
+    "snippet_highlighted_words": [
+      "an attempt to access the LoadMaster WUI has failed"
+    ],
+    "source": "Progress Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "sshd gives an error \"Connection reset by peer\" message",
+    "link": "https://access.redhat.com/solutions/21600",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "As per above message, a sshd-session(PID:14213) seemd to be opened/closed properly, and this session is opened by running \"scp\" command to ...",
+    "snippet_highlighted_words": [],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Write Failed: Connection Reset by Peer",
+    "link": "https://groups.google.com/g/rundeck-discuss/c/deHR3Vx4wHg",
+    "displayed_link": "https://groups.google.com › rundeck-discuss",
+    "snippet": "It consistently fails during an SSH \"write\" with only this message as a clue on the client-side logs: \"Write Failed. Connection Reset by Peer\". As a workaround, ...",
+    "snippet_highlighted_words": [
+      "fails",
+      "write",
+      "Write Failed",
+      "Connection Reset by Peer"
+    ],
+    "source": "Google Groups",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "How to fix 'connection reset by peer' in SSH",
+    "link": "https://www.quora.com/How-do-I-fix-connection-reset-by-peer-in-SSH",
+    "displayed_link": "2 answers · 8 years ago",
+    "snippet": "You can fix it by finding out the root cause and then, eliminating it. I would do that by running ssh in verbose mode for a while.",
+    "snippet_highlighted_words": [],
+    "source": "Quora",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "SSH \"Write failed / Read from socket failed: Connection ...",
+    "link": "https://superuser.com/questions/886822/ssh-write-failed-read-from-socket-failed-connection-reset-by-peer",
+    "displayed_link": "https://superuser.com › questions › ssh-write-failed-read...",
+    "snippet": "When I try to connect to my SSH server (running Arch Linux) at home from my school (on my Windows 8 laptop), I sometimes get \"Write failed: ...",
+    "snippet_highlighted_words": [
+      "connect",
+      "Write failed"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Cisco Bug: CSCsl81015 - Critical sshd[32211]: fatal",
+    "link": "https://quickview.cloudapps.cisco.com/quickview/bug/CSCsl81015",
+    "displayed_link": "https://quickview.cloudapps.cisco.com › quickview › CS...",
+    "snippet": "Cisco Bug: CSCsl81015 - Critical sshd[32211]: fatal: Write failed: Connection reset by peer.",
+    "snippet_highlighted_words": [
+      "fatal: Write failed: Connection reset by peer"
+    ],
+    "source": "Cisco",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

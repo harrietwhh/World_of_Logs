@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_d10ef4de5178b6a5b05a2aa9128f1b3b2c26a49396e9dc2fdf786fdeaedd13f5",
+    "score": 40.494213,
+    "link": "https://github.com/raspberrypi/noobs/issues/268",
+    "source": "github",
+    "origin_doc_id": "ebf87d1173bd44e5cbcbe7cab43f27dfd94ab9a5512e4c7419dfa40a6f5c9406",
+    "snippet": "login[510]: root login on 'tty2'"
+  },
+  {
+    "rank": 2,
+    "id": "msg_49c7a9a7b4e9cb53d1dffe75e6fb066eadc00eb42e75b89725e30ace648870a9",
+    "score": 29.855677,
+    "link": "https://stackoverflow.com/questions/51074474",
+    "source": "so",
+    "origin_doc_id": "bcf61e4a65111295cd48dac8b3a39ed41f9fe2ff68cb50af9e80df952c27f361",
+    "snippet": "6899 id=s/12  term=0 exit=0 \n LOGIN      tty2         2018-**-** 09:58              7324 id=tty2 \n LOGIN      tty6"
+  },
+  {
+    "rank": 3,
+    "id": "msg_d0207007dea53a38d07a88c06abbade42ce4643280398f7a9a72cd2b10084249",
+    "score": 25.000235,
+    "link": "https://github.com/void-linux/void-packages/pull/25506",
+    "source": "github",
+    "origin_doc_id": "1653955f2cc4b166a7586ec39e30311609c4b78f37f831ed9002c88b28ad6a6e",
+    "snippet": "2020-11-25T20:53:41.43097 authpriv.notice: Nov 25 15:53:41 login: FAILED LOGIN SESSION FROM tty2 FOR ajh, Module is unknown"
+  },
+  {
+    "rank": 4,
+    "id": "msg_36adecb340858614c0eb1ec5b5d9a14dfc071e25128489386fd5df150c766d88",
+    "score": 23.659422,
+    "link": "https://github.com/log2timeline/plaso/pull/2459",
+    "source": "github",
+    "origin_doc_id": "23a6e73d04c6aa1b0e9d803fc66c70988142152883a35c6a75f5dd4ab7bc92fc",
+    "snippet": "username can be legitimate empty \n ``` \n Type of login                                                           : 0x00000008 (DEAD_PROCESS) \n PID                                                                     : 1823 \n Terminal                                                                : tty2 \n Terminal ID                                                             : 0 \n Username                                                                :  \n Hostname                                                                : /dev/tty2 \n Termination status                                                      : 0x0000 \nExit status                                                             : 0x0000\nSession                                                                 : 0\nTimestamp                                                               : 2018-05-17 10:23:22 UTC\nMicroseconds                                                            : 883446\nIP address                                                              : 0.0.0.0\n```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_ed1c5616d8430ff652d13515d379343ac2e47362b39e6af17cbd37a1933ae0a2",
+    "score": 23.14767,
+    "link": "https://stackoverflow.com/questions/58625647",
+    "source": "so",
+    "origin_doc_id": "1f2b756092e9fedf13bf9a5d3faf6927f49fdc4c120ac2aef9837d7a1c71a43a",
+    "snippet": "10830 10830 tty2     00:00:00 python3.6 \n 10830 10838 tty2     00:00:00 python3.6 \n 10830 10839 tty2     00:00:00 python3.6 \n 10830 10840 tty2     00:00:00 python3.6 \n 10830 10841 tty2     00:00:01 python3.6 \n 10830 10842 tty2     00:00:04 python3.6 \n 10830 10843 tty2     00:00:05 python3.6 \n 10830 10844 tty2     00:00:02 python3.6"
+  },
+  {
+    "rank": 6,
+    "id": "msg_de284df5b6b8f3155e3664c607043aae24038662d864272500c612296c38fa27",
+    "score": 22.592966,
+    "link": "https://stackoverflow.com/questions/67425344",
+    "source": "so",
+    "origin_doc_id": "de8393bf6a0ee4f6b69dc5b517aef61c4645fc53aa5ff2aec1c9df243de65128",
+    "snippet": "PID  PPID  C STIME TTY          TIME CMD \n root         1     0  0 16:41 ?        00:00:00 /init \n root       239     1  0 16:42 tty2     00:00:00 /init \n adamado+   240   239  0 16:42 tty2     00:00:00 sh -c \"$VSCODE_WSL_EXT_LOCATION/scripts/wslServer.sh\" 3c4e3df9e89829dce2 \n adamado+   241   240  0 16:42 tty2     00:00:00 sh /mnt/c/Users/Adam/.vscode/extensions/ms-vscode-remote.remote-wsl-0.54 \n adamado+   247   241  0 16:42 tty2     00:00:00 sh /home/adamadolfo/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b \n adamado+   249   247  0 16:42 tty2     00:00:02 /home/adamadolfo/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151 \n adamado+   260   249  0 16:42 tty2     00:00:00 /home/adamadolfo/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151 \nadamado+   315   249  1 16:42 tty2     00:00:09 /home/adamadolfo/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151\nadamado+   374   249  0 16:42 tty2     00:00:02 /home/adamadolfo/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151\nadamado+   385   260  0 16:42 pts/0    00:00:00 /bin/bash\nadamado+   418   374  0 16:42 tty2     00:00:02 /home/adamadolfo/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151\nadamado+   425   374  4 16:42 tty2     00:00:26 /home/adamadolfo/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151\nadamado+   482   425  1 16:42 tty2     00:00:05 /home/adamadolfo/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151\nadamado+   602   249  0 16:42 tty2     00:00:01 /home/adamadolfo/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151\nadamado+   609   249  0 16:42 tty2     00:00:02 /home/adamadolfo/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151\nadamado+   629   260  0 16:42 pts/1    00:00:00 /bin/bash\nroot       754     1  0 16:51 tty1     00:00:00 /init\nadamado+   755   754  1 16:51 tty1     00:00:00 -bash\nadamado+   922   755  0 16:52 tty1     00:00:00 ps -ef"
+  },
+  {
+    "rank": 7,
+    "id": "msg_8baf27fad85d48c62c3db523b85362fc567a319b35bda12f3383622a73591c1c",
+    "score": 22.138912,
+    "link": "https://stackoverflow.com/questions/29115369",
+    "source": "so",
+    "origin_doc_id": "b6e1a15799159ac61b3166a0d38a09c962eec6935184abbe5f495cdc7ffc974c",
+    "snippet": "root \n Password:  \n login[547]: root login on 'ttyJ0'"
+  },
+  {
+    "rank": 8,
+    "id": "msg_c502dba326c39f5a6cf11e0cb048432f86c26093d3cb9af171d4ad3566d0dede",
+    "score": 22.035114,
+    "link": "https://github.com/Difegue/LANraragi/issues/218",
+    "source": "github",
+    "origin_doc_id": "34f7734fc65f76f3d6da6202d40bbf68c626f376a048b0604579ee2ea4b0743b",
+    "snippet": "`ps fax` before restart:   \n ``` \n   784 tty2     S      0:00  \\_ -bash \n   841 tty2     Sl     0:00      \\_ npm \n   851 tty2     S      0:00          \\_ sh -c perl ./script/launcher.pl -f ./script/lanraragi \n   852 tty2     S      0:00              \\_ /mnt/c/humm (Hypnotoad manager) \n   855 ?        Ss     0:00                  \\_ /usr/bin/perl ./lib/Shinobu.pm \n   856 tty2     S      0:00                  \\_ /mnt/c/humm (Hypnotoad worker) \n   857 tty2     S      0:00                  \\_ /mnt/c/humm (Hypnotoad worker) \n  852 tty2     S      0:00              \\_ /mnt/c/humm (Hypnotoad manager) \n   856 tty2     S      0:00                  \\_ /mnt/c/humm (Hypnotoad worker) \n   881 ?        Ss     0:00                  |   \\_ /usr/bin/perl ./lib/Shinobu.pm \n   857 tty2     S      0:00                  \\_ /mnt/c/humm (Hypnotoad worker) \n   858 tty2     S      0:00                  \\_ /mnt/c/humm (Hypnotoad worker) \n   859 tty2     S      0:00                  \\_ /mnt/c/humm (Hypnotoad worker) \n ```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_929a19e8e4e1e3fa80cef9dfabeca4bdb949353d4fd6f0709611975b9be18d5c",
+    "score": 21.990164,
+    "link": "https://github.com/SpinalHDL/VexRiscv/issues/60",
+    "source": "github",
+    "origin_doc_id": "a4810a37d7a719e7023c9eee60ed963d980427e2e0489d90d9e13a292c38783f",
+    "snippet": "[Truncated] \n Welcome to Buildroot \n buildroot login: root \n login[82]: root login on 'hvc0' \n #"
+  },
+  {
+    "rank": 10,
+    "id": "msg_e00b7b7ccd8b5d821f149d54b86304260b68dd91d5be24d6be5783b3e17b7126",
+    "score": 21.616844,
+    "link": "https://github.com/ucb-bar/fpga-zynq/issues/85",
+    "source": "github",
+    "origin_doc_id": "881054ddaa1f3ff03f2e11f7ac49a48078c32a5591fd082206397272867a89e1",
+    "snippet": "zynq login: root  \n Password:  \n login[818]: root login  on `ttyPS0' \n root@zynq:~# ./fesvr-zynq pk hello  \n ERROR: No cores found"
+  }
+]

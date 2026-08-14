@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_a3a8676f21923f7fd1d66df675367ba61102a1db20a193679acb80cf5257d8ae",
+    "score": 175.37851,
+    "link": "https://github.com/ReactiveX/RxJava/issues/6965",
+    "source": "github",
+    "origin_doc_id": "50c946b93e0f0527ad66bee0e9d043503ae4e9dd72a761c102ce158bfb28a4aa",
+    "snippet": "``` \n io.reactivex.internal.operators.observable.ObservableRefCountTest > publishNoLeak FAILED \n     java.lang.AssertionError: 7,732,440 -> 107,856,800 \n         at org.junit.Assert.fail(Assert.java:88) \n         at org.junit.Assert.assertTrue(Assert.java:41) \n         at io.reactivex.internal.operators.observable.ObservableRefCountTest.publishNoLeak(ObservableRefCountTest.java:726) \n ```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_14cd728841f811d46ebd51fb4b0095d999b1ad91961926580b2403f4dae9b8b7",
+    "score": 93.940605,
+    "link": "https://github.com/hazelcast/hazelcast/issues/11161",
+    "source": "github",
+    "origin_doc_id": "6a8c545c105747dd1dab1c3c01ddd6140e076886418f0177555e8f01aaba82a0",
+    "snippet": "java.lang.AssertionError: latch failed to open \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat com.hazelcast.spi.impl.operationservice.impl.Invocation_BlockingTest.sync_testWaitingInfinitelyForTryLock(Invocation_BlockingTest.java:503) \n ```\njava.lang.AssertionError: null \n \tat org.junit.Assert.fail(Assert.java:86) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat org.junit.Assert.assertTrue(Assert.java:52) \n \tat com.hazelcast.spi.impl.operationservice.impl.Invocation_BlockingTest.sync_testWaitingIndefinitely(Invocation_BlockingTest.java:479)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_b54dbf05cfb9cd8581edd73da2d3e609ee5362d720c0b7e1cc471909bb3b94a6",
+    "score": 93.58359,
+    "link": "https://github.com/hazelcast/hazelcast/issues/12744",
+    "source": "github",
+    "origin_doc_id": "5d1f18e635ef1aea8b4c6018966fd793dd08158f7dd768f1a91fffb7c9a1546a",
+    "snippet": "java.lang.AssertionError: Heartbeats came too close to each other: 773ms \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n\n java.lang.AssertionError: At least 4 heartBeats expected, 3 came. \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat com.hazelcast.map.EntryProcessorOffloadableTest.testHeartBeatsComingWhenEntryPropcessorOffloaded(EntryProcessorOffloadableTest.java:990) \n\n java.lang.AssertionError: At least 4 heartBeats expected, 3 came. \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat com.hazelcast.map.EntryProcessorOffloadableTest.testHeartBeatsComingWhenEntryPropcessorOffloaded(EntryProcessorOffloadableTest.java:990) \n\n java.lang.AssertionError: Heartbeats came too close to each other: 773ms \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41)"
+  },
+  {
+    "rank": 4,
+    "id": "msg_5bb66d48483487ee850fdd12f0c0c15bdaa2238a0064d7ebd2f4e0520bb3650d",
+    "score": 92.952965,
+    "link": "https://github.com/hazelcast/hazelcast/issues/8645",
+    "source": "github",
+    "origin_doc_id": "993b8e1dd5d772935171aa806305e5ec417591bff3ae20f10ef14a656bf0c125",
+    "snippet": "java.lang.AssertionError: tryLock() is not interrupted! \n     at org.junit.Assert.fail(Assert.java:88) \n     at org.junit.Assert.assertTrue(Assert.java:41) \n     at com.hazelcast.concurrent.lock.LockAdvancedTest.testLockInterruption(LockAdvancedTest.java:226) \n\n java.lang.AssertionError: tryLock() is not interrupted!, failed to complete within 30 seconds, count left: 1 \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat com.hazelcast.test.HazelcastTestSupport.assertOpenEventually(HazelcastTestSupport.java:1019) \n \tat com.hazelcast.concurrent.lock.LockAdvancedTest.testLockInterruption(LockAdvancedTest.java:242) \n\n java.lang.AssertionError: tryLock() is not interrupted! \n     at org.junit.Assert.fail(Assert.java:88) \n     at org.junit.Assert.assertTrue(Assert.java:41) \n     at com.hazelcast.concurrent.lock.LockAdvancedTest.testLockInterruption(LockAdvancedTest.java:226) \n\n java.lang.AssertionError: tryLock() is not interrupted!, failed to complete within 30 seconds, count left: 1 \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat com.hazelcast.test.HazelcastTestSupport.assertOpenEventually(HazelcastTestSupport.java:1019) \n \tat com.hazelcast.concurrent.lock.LockAdvancedTest.testLockInterruption(LockAdvancedTest.java:242)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_c0405687930c9b2d6fc8bc41894e1197d0cfc8b05dd1fb9456802b5f04299161",
+    "score": 92.759735,
+    "link": "https://github.com/hazelcast/hazelcast/issues/6297",
+    "source": "github",
+    "origin_doc_id": "1114eb00dd98ae902a9c5f6f950098f469805e1fb084cfb216e924bf5e7ae8b4",
+    "snippet": "java.lang.AssertionError: null \n \tat org.junit.Assert.fail(Assert.java:86) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat org.junit.Assert.assertTrue(Assert.java:52) \n \tat com.hazelcast.collection.impl.queue.QueueAdvancedTest.testTakeInterruption(QueueAdvancedTest.java:601) \n\n java.lang.AssertionError: Expected queue.put() to be interrupted, but interrupted state is: false \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat com.hazelcast.collection.impl.queue.QueueAdvancedTest.testPutInterruption(QueueAdvancedTest.java:668)\n\n java.lang.AssertionError: null \n \tat org.junit.Assert.fail(Assert.java:86) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat org.junit.Assert.assertTrue(Assert.java:52) \n \tat com.hazelcast.collection.impl.queue.QueueAdvancedTest.testTakeInterruption(QueueAdvancedTest.java:601) \n\n java.lang.AssertionError: Expected queue.put() to be interrupted, but interrupted state is: false \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat com.hazelcast.collection.impl.queue.QueueAdvancedTest.testPutInterruption(QueueAdvancedTest.java:668)\njava.lang.AssertionError: Expected queue.take() to be interrupted, but interrupted state is: false \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat com.hazelcast.collection.impl.queue.QueueAdvancedTest.testTakeInterruption(QueueAdvancedTest.java:635)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_2e9ce520c3a180e354fc2327c82a7d4cfbc4ff17fbd58fb627c7992c913e3468",
+    "score": 92.64917,
+    "link": "https://github.com/hazelcast/hazelcast/issues/6297",
+    "source": "github",
+    "origin_doc_id": "1114eb00dd98ae902a9c5f6f950098f469805e1fb084cfb216e924bf5e7ae8b4",
+    "snippet": "java.lang.AssertionError: Expected queue.take() to be interrupted, but interrupted state is: false \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat com.hazelcast.collection.impl.queue.QueueAdvancedTest.testTakeInterruption(QueueAdvancedTest.java:635)\n\n java.lang.AssertionError: null \n \tat org.junit.Assert.fail(Assert.java:86) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat org.junit.Assert.assertTrue(Assert.java:52) \n \tat com.hazelcast.collection.impl.queue.QueueAdvancedTest.testTakeInterruption(QueueAdvancedTest.java:601) \n\n java.lang.AssertionError: Expected queue.take() to be interrupted, but interrupted state is: false \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat com.hazelcast.collection.impl.queue.QueueAdvancedTest.testTakeInterruption(QueueAdvancedTest.java:635)\n\n java.lang.AssertionError: null \n \tat org.junit.Assert.fail(Assert.java:86) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat org.junit.Assert.assertTrue(Assert.java:52) \n \tat com.hazelcast.collection.impl.queue.QueueAdvancedTest.testTakeInterruption(QueueAdvancedTest.java:601)"
+  },
+  {
+    "rank": 7,
+    "id": "msg_d1190d45d4c0f8b6b191b543c27e436ca3c3c4a4073e6194752c3eece9bc0194",
+    "score": 92.367325,
+    "link": "https://github.com/hazelcast/hazelcast/issues/8137",
+    "source": "github",
+    "origin_doc_id": "8cce5f63c23342f8922171495ef4442843e9a473241a8896c0e6e01cc1b336c6",
+    "snippet": "java.lang.AssertionError: null \n \tat org.junit.Assert.fail(Assert.java:86) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat org.junit.Assert.assertTrue(Assert.java:52) \n \tat com.hazelcast.cluster.SplitBrainHandlerTest.testClusterMerge_when_split_not_detected_by_slave_and_restart_during_merge(SplitBrainHandlerTest.java:839)\n\n java.lang.AssertionError: CountDownLatch failed to complete within 120 seconds , count left: 1 \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat com.hazelcast.test.HazelcastTestSupport.assertOpenEventually(HazelcastTestSupport.java:758) \n \tat com.hazelcast.test.HazelcastTestSupport.assertOpenEventually(HazelcastTestSupport.java:751) \n \tat com.hazelcast.cluster.SplitBrainHandlerTest.testClusterMerge_ignoresLiteMembers(SplitBrainHandlerTest.java:577)\n\n java.lang.AssertionError: null \n \tat org.junit.Assert.fail(Assert.java:86) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat org.junit.Assert.assertTrue(Assert.java:52) \n \tat com.hazelcast.cluster.SplitBrainHandlerTest.testClusterMerge_when_split_not_detected_by_slave_and_restart_during_merge(SplitBrainHandlerTest.java:839)\n\n java.lang.AssertionError: CountDownLatch failed to complete within 120 seconds , count left: 1 \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat com.hazelcast.test.HazelcastTestSupport.assertOpenEventually(HazelcastTestSupport.java:758) \n \tat com.hazelcast.test.HazelcastTestSupport.assertOpenEventually(HazelcastTestSupport.java:751) \n \tat com.hazelcast.cluster.SplitBrainHandlerTest.testClusterMerge_ignoresLiteMembers(SplitBrainHandlerTest.java:577)"
+  },
+  {
+    "rank": 8,
+    "id": "msg_a7e13a36ec4e8a7834699cffcd5b364de92fbabed9ba819114810ccdca4bfb90",
+    "score": 91.16814,
+    "link": "https://github.com/hazelcast/hazelcast/issues/8645",
+    "source": "github",
+    "origin_doc_id": "993b8e1dd5d772935171aa806305e5ec417591bff3ae20f10ef14a656bf0c125",
+    "snippet": "java.lang.AssertionError: tryLock() is not interrupted! \n \tat org.junit.Assert.fail(Assert.java:88) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat com.hazelcast.concurrent.lock.LockAdvancedTest.testLockInterruption(LockAdvancedTest.java:226) \n\n java.lang.AssertionError: null \n \tat org.junit.Assert.fail(Assert.java:86) \n \tat org.junit.Assert.assertTrue(Assert.java:41) \n \tat org.junit.Assert.assertTrue(Assert.java:52) \n \tat com.hazelcast.concurrent.lock.LockAdvancedTest.testLockInterruptibly(LockAdvancedTest.java:391)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_36367e14435937cfd7ee84e3a6896c75e0a4dd55fdaf1b6bce549f4c06c010d0",
+    "score": 91.13466,
+    "link": "https://issues.apache.org/jira/browse/GEODE-2226",
+    "source": "jira",
+    "origin_doc_id": "a2a19c9d5974f3e2ffe692613f628c43334b839a750d09e63de15d12e6ed3779",
+    "snippet": "java.lang.AssertionError: Timeout waiting for events \n        at org.junit.Assert.fail(Assert.java:88) \n         at org.junit.Assert.assertTrue(Assert.java:41) \n         at org.apache.geode.modules.session.internal.filter.SessionReplicationIntegrationJUnitTest.testHttpSessionListener1(SessionReplicationIntegrationJUnitTest.java:1434) \n {noformat} \n org.apache.geode.modules.session.internal.filter.SessionReplicationIntegrationJUnitTest > testHttpSessionListener2 FAILED \n {noformat} \n     java.lang.AssertionError: Timeout waiting for events \n         at org.junit.Assert.fail(Assert.java:88) \n         at org.junit.Assert.assertTrue(Assert.java:41) \n        at org.apache.geode.modules.session.internal.filter.SessionReplicationIntegrationJUnitTest.testHttpSessionListener2(SessionReplicationIntegrationJUnitTest.java:1475)"
+  },
+  {
+    "rank": 10,
+    "id": "msg_748147a5761e2eae297b1d69d976ace0d0db0e0da6bf3e1108c0bf770064b25c",
+    "score": 90.89205,
+    "link": "https://github.com/reactor/reactor-netty/issues/793",
+    "source": "github",
+    "origin_doc_id": "5e5423746e5664fc51e00e569630d2e2a97cedb26bbf49ea8d289b2b766f0696",
+    "snippet": "reactor.netty.udp.UdpClientTest > smokeTest FAILED \n     java.lang.AssertionError \n         at org.junit.Assert.fail(Assert.java:86) \n         at org.junit.Assert.assertTrue(Assert.java:41) \n         at org.junit.Assert.assertTrue(Assert.java:52) \n         at reactor.netty.udp.UdpClientTest.smokeTest(UdpClientTest.java:104) \n reactor.netty.udp.UdpServerTests > portBindingException FAILED \n     java.lang.AssertionError: illegal-success \n        at org.junit.Assert.fail(Assert.java:88)\n        at reactor.netty.udp.UdpServerTests.portBindingException(UdpServerTests.java:267)"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "java - Log4j2 using {} against using %d or %s",
+    "link": "https://stackoverflow.com/questions/41532840/log4j2-using-against-using-d-or-s",
+    "displayed_link": "1 answer · 9 years ago",
+    "snippet": "The {} notation is much more efficient than the %s %d String format notation. (There are benchmarks for this, I'll add some numbers later.)",
+    "snippet_highlighted_words": [
+      "s",
+      "String format"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

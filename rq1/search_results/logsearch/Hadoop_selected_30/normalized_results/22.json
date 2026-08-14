@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_2cd772b3f730bb460f695cb130f0e35dbb60ad23972bf0df6afe36dc0dfaa077",
+    "score": 38.194473,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:27,704 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MRAppMaster metrics system started"
+  },
+  {
+    "rank": 2,
+    "id": "msg_b731165a9b99d0c6a6d954576080e4034710143fdc505a8ae1cdaa9c1eaffe92",
+    "score": 38.194473,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,729 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MRAppMaster metrics system started"
+  },
+  {
+    "rank": 3,
+    "id": "msg_c28eb08de58192ada761f0bc399b4d125a42a319c2eac201ea188764f6a02bcd",
+    "score": 38.194473,
+    "link": "https://stackoverflow.com/questions/37901108",
+    "source": "so",
+    "origin_doc_id": "ba4709846428a88a72c537c1e133da9fc3b8b42e8df5d88af3cadf791144e27f",
+    "snippet": "2016-06-18 19:14:33,689 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MRAppMaster metrics system started"
+  },
+  {
+    "rank": 4,
+    "id": "msg_66af5bb7a15fce0ee8c80dd1bb8ae41c2f240e878c550c4537f62af8f22ba1f0",
+    "score": 38.194473,
+    "link": "https://stackoverflow.com/questions/29075106",
+    "source": "so",
+    "origin_doc_id": "8804889924d3bb86586e2b967059d726e1328690ac16880f1a3ffbd69e9b1e96",
+    "snippet": "2015-03-16 11:46:53,303 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MRAppMaster metrics system started"
+  },
+  {
+    "rank": 5,
+    "id": "msg_63db869e82f946f9e5f5db585fa0d909737f709ee7159eb797e4c61af5319b88",
+    "score": 38.194473,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:25,353 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MRAppMaster metrics system started"
+  },
+  {
+    "rank": 6,
+    "id": "msg_f5e48681ba277e56653c3862253845f92bf445bff7104e1ecd3a67d5e28fa3f0",
+    "score": 38.194473,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:55,448 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MRAppMaster metrics system started"
+  },
+  {
+    "rank": 7,
+    "id": "msg_e724dc897dafce291b9307e097d475b5a3bdf19b7cd215f99303a11b8b16e036",
+    "score": 38.194473,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:41,769 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MRAppMaster metrics system started"
+  },
+  {
+    "rank": 8,
+    "id": "msg_ae9ec389671c28a259b60f1bacf9d22df895473adce2ecd2fbcb99b82910cef4",
+    "score": 38.194473,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:55,208 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MRAppMaster metrics system started"
+  },
+  {
+    "rank": 9,
+    "id": "msg_b26db10bcedfb61e14ffda2a1c48374b387c3f4317990b096516a4bd70ea34dd",
+    "score": 38.194473,
+    "link": "https://github.com/crs4/pydoop/issues/154",
+    "source": "github",
+    "origin_doc_id": "10efddefd4b8ea3b9e1d5f97d32e75c0c8263a8a5bd3426f0ec9092de77cc2f8",
+    "snippet": "2015-07-17 00:16:27,696 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MRAppMaster metrics system started"
+  },
+  {
+    "rank": 10,
+    "id": "msg_0f25e9653555d18bff598b24c8e4a5f3035e6642e77a1f2d82dfebe120b2711b",
+    "score": 38.194473,
+    "link": "https://stackoverflow.com/questions/55002784",
+    "source": "so",
+    "origin_doc_id": "e8e20a6c6f892c147364299354b5fa2595b903d67ff4378479a9b9f819256425",
+    "snippet": "2019-03-05 14:56:06,672 INFO [main] org.apache.hadoop.metrics2.impl.MetricsSystemImpl: MRAppMaster metrics system started"
+  }
+]

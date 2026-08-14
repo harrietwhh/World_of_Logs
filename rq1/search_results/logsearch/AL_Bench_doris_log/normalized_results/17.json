@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_0b89378f6976e4ed78246bf8305d1f3b8e4012f689e2bed06325f74477d2d46f",
+    "score": 36.996674,
+    "link": "https://stackoverflow.com/questions/72191928",
+    "source": "so",
+    "origin_doc_id": "82d499feb73ab636687a4e51cd30e735da8192f23b716c261c4b3276da047410",
+    "snippet": "[2022-05-10 14:56:56] [DEBUG] payload length: 3399521902\n \nLog.Debug(\"Opcode: \", Log.StringifyCollection(opcode));"
+  },
+  {
+    "rank": 2,
+    "id": "msg_825c88d7acc2beabb8554db087aae7694f17f93d982f240a451ae2db33d38f91",
+    "score": 36.35903,
+    "link": "https://stackoverflow.com/questions/72191928",
+    "source": "so",
+    "origin_doc_id": "82d499feb73ab636687a4e51cd30e735da8192f23b716c261c4b3276da047410",
+    "snippet": "Log.Debug(\"Opcode: \", System.BitConverter.ToString(opcode.ToArray()));"
+  },
+  {
+    "rank": 3,
+    "id": "msg_701b2bef0f1113a9579c760e53fd36b13054bdbe1024c6b70e26392a8ae0b9fe",
+    "score": 34.73606,
+    "link": "https://stackoverflow.com/questions/79428786",
+    "source": "so",
+    "origin_doc_id": "e699e2bfdc5041a8909f7eccf0a139715f588cea90a5e964e9c4e20a687690a9",
+    "snippet": "winMultiWindowWMProc - Error code: 8 (Match), ID: 0x00180000,  \n Major opcode: 12 (ConfigureWindow), Minor opcode: 0 ((null)) \n winMultiWindowWMProc - Error code: 8 (Match), ID: 0x0020002d, Major opcode: 12 (ConfigureWindow), Minor opcode: 0 ((null)) \n winMultiWindowWMProc - Error code: 8 (Match), ID: 0x00380011, Major opcode: 12 (ConfigureWindow), Minor opcode: 0 ((null)) \n winMultiWindowWMProc - Error code: 3 (Window), ID: 0x00280007, Major opcode: 18 (ChangeProperty), Minor opcode: 0 ((null)) \n winMultiWindowWMProc - Error code: 3 (Window), ID: 0x00280007, Major opcode: 19 (DeleteProperty), Minor opcode: 0 ((null)) \n winMultiWindowWMProc - Error code: 3 (Window), ID: 0x00280007, Major opcode: 18 (ChangeProperty), Minor opcode: 0 ((null)) \n winMultiWindowWMProc - Error code: 3 (Window), ID: 0x00280007, Major opcode: 19 (DeleteProperty), Minor opcode: 0 ((null)) \n winMultiWindowWMProc - Error code: 3 (Window), ID: 0x00280007, Major opcode: 25 (SendEvent), Minor opcode: 0 ((null)) \nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x00280007, Major opcode: 25 (SendEvent), Minor opcode: 0 ((null))\nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x00280007, Major opcode: 25 (SendEvent), Minor opcode: 0 ((null))\nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x00280007, Major opcode: 25 (SendEvent), Minor opcode: 0 ((null))\nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x00280007, Major opcode: 25 (SendEvent), Minor opcode: 0 ((null))\nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x00280007, Major opcode: 18 (ChangeProperty), Minor opcode: 0 ((null))\nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x00280007, Major opcode: 19 (DeleteProperty), Minor opcode: 0 ((null))\nwinMultiWindowWMProc - Error code: 8 (Match), ID: 0x00200035, Major opcode: 12 (ConfigureWindow), Minor opcode: 0 ((null))\nwinMultiWindowWMProc - Error code: 8 (Match), ID: 0x00300014, Major opcode: 12 (ConfigureWindow), Minor opcode: 0 ((null))\nIsOverrideRedirect: Failed to get window attributes\nIsOverrideRedirect: Failed to get window attributes\nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x00380005, Major opcode: 18 (ChangeProperty), Minor opcode: 0 ((null))\nIsOverrideRedirect: Failed to get window attributes\nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x00380005, Major opcode: 19 (DeleteProperty), Minor opcode: 0 ((null))\nIsOverrideRedirect: Failed to get window attributes\nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x00380005, Major opcode: 18 (ChangeProperty), Minor opcode: 0 ((null))\nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x00380005, Major opcode: 19 (DeleteProperty), Minor opcode: 0 ((null))\nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x0038000c, Major opcode: 18 (ChangeProperty), Minor opcode: 0 ((null))\nIsOverrideRedirect: Failed to get window attributes\nIsOverrideRedirect: Failed to get window attributes\nIsOverrideRedirect: Failed to get window attributes\nIsOverrideRedirect: Failed to get window attributes \n IsOverrideRedirect: Failed to get window attributes \n IsOverrideRedirect: Failed to get window attributes \n winMultiWindowWMProc - Error code: 3 (Window), ID: 0x0038000c, Major opcode: 18 (ChangeProperty), Minor opcode: 0 ((null)) \n winMultiWindowWMProc - Error code: 3 (Window), ID: 0x0038000c, Major opcode: 19 (DeleteProperty), Minor opcode: 0 ((null))"
+  },
+  {
+    "rank": 4,
+    "id": "msg_1e9f618453a09cbd378e09efd156b42f2593d40967fd4a08ebd693107de35fd3",
+    "score": 31.91945,
+    "link": "https://github.com/tareq97/swam/issues/1",
+    "source": "github",
+    "origin_doc_id": "9dec44d5a809c900fe02d93abcda0414a0b0bfa530344331f30cbb40890bbabe",
+    "snippet": "Opcode :32 -> hitCount = 1\nOpcode :66 -> hitCount = 2\nOpcode :83 -> hitCount = 3\nOpcode :66 -> hitCount = 4\nOpcode :32 -> hitCount = 5\nOpcode :66 -> hitCount = 6\nOpcode :125 -> hitCount = 7\nOpcode :16 -> hitCount = 8\nOpcode :32 -> hitCount = 9\nOpcode :66 -> hitCount = 10\nOpcode :16 -> hitCount = 11\nOpcode :124 -> hitCount = 12\nOpcode :4 -> hitCount = 13\nOpcode :32 -> hitCount = 14\nOpcode :66 -> hitCount = 15\nOpcode :85 -> hitCount = 16\nOpcode :32 -> hitCount = 17\nOpcode :32 -> hitCount = 18\nOpcode :32 -> hitCount = 19\nOpcode :32 -> hitCount = 20\nOpcode :66 -> hitCount = 21\nOpcode :16 -> hitCount = 22\nOpcode :32 -> hitCount = 23\nOpcode :4 -> hitCount = 24\nOpcode :66 -> hitCount = 25\nOpcode :66 -> hitCount = 26\nOpcode :32 -> hitCount = 27\nOpcode :16 -> hitCount = 28\nOpcode :26 -> hitCount = 29\nOpcode :27 -> hitCount = 30\nOpcode :63 -> hitCount = 31\nOpcode :64 -> hitCount = 32\nOpcode :1 -> hitCount = 33\nOpcode :0 -> hitCount = 34\nOpcode :15 -> hitCount = 35\nOpcode :70 -> hitCount = 36\nOpcode :71 -> hitCount = 37\nOpcode :72 -> hitCount = 38\nOpcode :73 -> hitCount = 39\nOpcode :74 -> hitCount = 40\nOpcode :75 -> hitCount = 41\nOpcode :76 -> hitCount = 42\nOpcode :77 -> hitCount = 43\nOpcode :78 -> hitCount = 44\nOpcode :79 -> hitCount = 45\nOpcode :81 -> hitCount = 46\nOpcode :82 -> hitCount = 47\nOpcode :106 -> hitCount = 48\nOpcode :107 -> hitCount = 49\nOpcode :108 -> hitCount = 50\nOpcode :109 -> hitCount = 51\nOpcode :110 -> hitCount = 52\nOpcode :111 -> hitCount = 53\nOpcode :112 -> hitCount = 54\nOpcode :113 -> hitCount = 55\nOpcode :114 -> hitCount = 56\nOpcode :115 -> hitCount = 57\nOpcode :116 -> hitCount = 58\nOpcode :117 -> hitCount = 59\nOpcode :118 -> hitCount = 60\nOpcode :119 -> hitCount = 61 \n Opcode :120 -> hitCount = 62 \n Opcode :84 -> hitCount = 63 \n i: swam.runtime.Instance[cats.effect.IO] = swam.runtime.Instance@4d7909bd \n naive: swam.runtime.exports.EFunction1[Long,Long,cats.effect.IO] = <function1> \n clever: swam.runtime.exports.EFunction1[Long,Long,cats.effect.IO] = <function1>"
+  },
+  {
+    "rank": 5,
+    "id": "msg_cdf02e0e55037a36b3f462db22e1e3266addd9e58e33b28f10d0af95df477dcf",
+    "score": 31.698837,
+    "link": "https://github.com/visit-dav/visit/issues/1079",
+    "source": "github",
+    "origin_doc_id": "44fbe0dfc236b078d38785878e1503413a96bfa8d10b8298e7f2064aad987f0f",
+    "snippet": "Sending: opcode=19, len=1497, name=HostProfileListXfer::Update: Sending: opcode=39, len=43, name=MaterialAttributesXfer::Update: Sending: opcode=32, len=366, name=PickAttributesXfer::Update: Sending: opcode=42, len=469, name=QueryOverTimeAttributesXfer::Update: Sending: opcode=37, len=3479, name=QueryListXfer::Update: Sending: opcode=46, len=54, name=MeshManagementAttributesExecuting SetMFileOpenOptionsRPCXfer::Update: Sending: opcode=28, len=10520, name=SetMFileOpenOptionsRPCXfer::Process: Opcode=29, len=6, type=VisItRPC::RPCReply (from SetMFileOpenOptionsRPC)Qt: Warning: Could not get alpha channel; results will be suboptimalQt: Warning: QGLContext::makeCurrent(): Cannot make invalid context current.signalhandler_core: SIGSEGV! Using:env LIBGL_ALWAYS_INDIRECT=ON visit\nXfer::Update: Sending: opcode=19, len=1497, name=HostProfileListXfer::Update: Sending: opcode=39, len=43, name=MaterialAttributesXfer::Update: Sending: opcode=32, len=366, name=PickAttributesXfer::Update: Sending: opcode=42, len=469, name=QueryOverTimeAttributesXfer::Update: Sending: opcode=37, len=3479, name=QueryListXfer::Update: Sending: opcode=46, len=54, name=MeshManagementAttributesExecuting SetMFileOpenOptionsRPCXfer::Update: Sending: opcode=28, len=10520, name=SetMFileOpenOptionsRPCXfer::Process: Opcode=29, len=6, type=VisItRPC::RPCReply (from SetMFileOpenOptionsRPC)Qt: Warning: Could not get alpha channel; results will be suboptimalQt: Warning: QGLContext::makeCurrent(): Cannot make invalid context current.signalhandler_core: SIGSEGV! Using:env LIBGL_ALWAYS_INDIRECT=ON"
+  },
+  {
+    "rank": 6,
+    "id": "msg_43a86bc0af1257690586fb80d88b18febc06856942d9fa48d3b96966c6d45e60",
+    "score": 31.190199,
+    "link": "https://github.com/DataDog/dd-trace-php/pull/762",
+    "source": "github",
+    "origin_doc_id": "a02e293352271bb046cdde24dda18eb1eab4992e55f5236650ebbd95b16e292f",
+    "snippet": "state change detected. Cannot handle OPCODE (ZEND_INIT_FCALL)**\",\nOPCODE (ZEND_RETURN)\nOPCODE (ZEND_DO_FCALL -> DateTime::__construct)\nTraced DateTime\nOPCODE (ZEND_DO_FCALL -> DateTime::format)\nOPCODE (ZEND_RETURN)\nOPCODE (ZEND_DO_FCALL -> DateTime::__construct)\nTraced DateTime\nOPCODE (ZEND_DO_FCALL -> DateTime::format)\nOPCODE (ZEND_RETURN)\nOPCODE (ZEND_DO_FCALL -> dd_trace_serialize_closed_spans)"
+  },
+  {
+    "rank": 7,
+    "id": "msg_b657be45718108c752e7129d8a822d8ffffaa0f2532997f022e339cd499c8082",
+    "score": 31.168915,
+    "link": "https://github.com/DataDog/dd-trace-php/pull/762",
+    "source": "github",
+    "origin_doc_id": "a02e293352271bb046cdde24dda18eb1eab4992e55f5236650ebbd95b16e292f",
+    "snippet": "OPCODE (ZEND_DO_ICALL -> dd_trace_function)\nOPCODE (ZEND_DO_ICALL -> dd_trace_method)\nTraced array_sum\nOPCODE (ZEND_RETURN)\nVM state change detected. Cannot handle OPCODE (ZEND_INIT_FCALL)\nTraced array_sum\nOPCODE (ZEND_RETURN)\nVM state change detected. Cannot handle OPCODE (ZEND_NEW)\nTraced DateTime\nOPCODE (ZEND_DO_FCALL -> DateTime::format)\nOPCODE (ZEND_RETURN)\nVM state change detected. Cannot handle OPCODE (ZEND_FREE)\nTraced DateTime\nOPCODE (ZEND_DO_FCALL -> DateTime::format)\nOPCODE (ZEND_RETURN)\nVM state change detected. Cannot handle OPCODE (ZEND_FREE)\nOPCODE (ZEND_DO_ICALL -> dd_trace_serialize_closed_spans)\nOPCODE (ZEND_DO_ICALL -> array_map)\nDateTime: 2000-01-01\nOPCODE (ZEND_RETURN)\ndetected**\""
+  },
+  {
+    "rank": 8,
+    "id": "msg_10a47075c9b5c0a9045a78e0571dea066464aa37abf6f7faf4a656e31997692b",
+    "score": 31.0729,
+    "link": "https://stackoverflow.com/questions/882926",
+    "source": "so",
+    "origin_doc_id": "4b2584137c35ad0db147e51fd5595a9ba326fa2d607a7b040b60c452783952a9",
+    "snippet": "printf(\"opcode in varst1: %c,%c, %c \n \",varst1->opcode[0],varst1->opcode[1],varst1->opcode[2]);\nprintf(\"opcode in varst2: %c,%c,%c \n \",varst2->opcode[0],varst2->opcode[1],varst2->opcode[2]);"
+  },
+  {
+    "rank": 9,
+    "id": "msg_8db6fb235ebd72d4984b8f4a92597a7564ee5d9bc9dcda110145e2e568a53014",
+    "score": 30.961134,
+    "link": "https://github.com/uchan-nos/mikanos-build/issues/14",
+    "source": "github",
+    "origin_doc_id": "e327d67440bf21b0f04a45f7c55c4ad4a1b1e857f0eb42643f2b93bc9e770daa",
+    "snippet": "GLX_ARB_create_context_robustness \n (II) GLX: enabled GLX_EXT_create_context_es2_profile \n (II) GLX: enabled GLX_ARB_framebuffer_sRGB \n(II) AIGLX: enabled GLX_MESA_copy_sub_buffer\n(II) 110 pixel formats reported by wglGetPixelFormatAttribivARB\n(II) GLX: Initialized Win32 native WGL GL provider for screen 0\nwinClipboardThreadProc - DISPLAY=127.0.0.1:0.0\nwinClipboardProc - xcb_connect () returned and successfully opened the display.\nUsing Composite redirection\n\nwinMultiWindowWMProc - Error code: 8 (Match), ID: 0x00180000, Major opcode: 12 (ConfigureWindow), Minor opcode: 0 ((null))\nIsOverrideRedirect: Failed to get window attributes\nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x00200007, Major opcode: 2 (ChangeWindowAttributes), Minor opcode: 0 ((null))\nIsOverrideRedirect: Failed to get window attributes\nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x00200007, Major opcode: 12 (ConfigureWindow), Minor opcode: 0 ((null))\nwinMultiWindowWMProc - Error code: 3 (Window), ID: 0x00200016, Major opcode: 2 (ChangeWindowAttributes), Minor opcode: 0 ((null))\nIsOverrideRedirect: Failed to get window attributes"
+  },
+  {
+    "rank": 10,
+    "id": "msg_a3481dad8da66af9f60a914850448637131c6087c6b11f47efd38f5bbbaefcce",
+    "score": 30.923378,
+    "link": "https://github.com/tomara-x/witches/issues/7",
+    "source": "github",
+    "origin_doc_id": "5e6a546d455a2b02aaa580ccf57b3867576594e61b655bef031b9d8e5254f4f5",
+    "snippet": "Instrument: 1.000000, Opcode: 0.000000 \n Instrument: 2.000000, Opcode: 0.000000 \n Instrument: 3.000000, Opcode: 0.000000 \n Instrument: 4.000000, Opcode: 1.000000 \n Instrument: 5.000000, Opcode: 2.000000 \n Instrument: 6.000000, Opcode: 3.000000 \n Instrument: 7.000000, Opcode: 4.000000"
+  }
+]

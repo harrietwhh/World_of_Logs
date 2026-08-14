@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_cc4f96e685e3167bb31c0f3562247cb84d99d2a1f2ad51586c74843f3e3ecbc7",
+    "score": 103.81932,
+    "link": "https://github.com/neutrinolabs/xrdp/issues/1905",
+    "source": "github",
+    "origin_doc_id": "998b2c5c9d9a9d21f53e2766d5cddbbbd5a0c48fe6c314cb2016481114c97986",
+    "snippet": "xrdp-sesman[35456]: pam_unix(xrdp-sesman:auth): authentication failure; logname= uid=0 euid=0 tty=xrdp-sesman ruser= rhost= \n xrdp-sesman[35456]: pam_krb5(xrdp-sesman:auth): authentication failure; logname=DOMAIN\\username uid=0 euid=0 tty=xrdp-sesman ruser= rhost="
+  },
+  {
+    "rank": 2,
+    "id": "msg_8bd0fa94f17ce5cd38d114a117965ee670b5b7d759c43a2534138956055472e4",
+    "score": 102.78662,
+    "link": "https://github.com/MicrosoftDocs/azure-docs/issues/6105",
+    "source": "github",
+    "origin_doc_id": "e3c68f50067fcd9e6b35686dfcef8e382a13ab99237519a972aa49a9384706df",
+    "snippet": "sshd[41632]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.x.x  upchh@example.com \n pam_sss(sshd:auth): authentication success; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.x.x upchh@example.com \n pam_sss(sshd:account): Access denied for user anpch@example.com: 4 (System error) \n Failed password for anpch@example.com from 172.16.5.4 port 62257 ssh2 \n fatal: Access denied for user anpch@example.com by PAM account configuration [preauth]"
+  },
+  {
+    "rank": 3,
+    "id": "msg_f1d8c74b72b50f2e4626559715200c8d0dcf664d45a648456bbf034a04392fc1",
+    "score": 101.61718,
+    "link": "https://stackoverflow.com/questions/40315443",
+    "source": "so",
+    "origin_doc_id": "c5cbebb894be354499cbcc77aa8523027edb107f71c4ac10d04647c8ae1aea96",
+    "snippet": "Nov  1 10:53:22 digitalocean sshd[13684]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.111  user=root \nNov  1 10:53:49 digitalocean sshd[13701]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.111  user=root\nNov  1 10:53:50 digitalocean sshd[13701]: Failed password for root from 221.229.172.111 port 43992 ssh2\nNov  1 10:53:55 digitalocean sshd[13701]: message repeated 2 times: [ Failed password for root from 221.229.172.111 port 43992 ssh2]\nNov  1 10:53:55 digitalocean sshd[13701]: Received disconnect from 221.229.172.111 port 43992:11:  [preauth]\nNov  1 10:53:55 digitalocean sshd[13701]: Disconnected from 221.229.172.111 port 43992 [preauth]\nNov  1 10:53:55 digitalocean sshd[13701]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=221.229.172.111  user=root"
+  },
+  {
+    "rank": 4,
+    "id": "msg_03bee4423f40bdd610b93cabd0148aafe7e78020db7e7dc37827463a9db76b8f",
+    "score": 100.649925,
+    "link": "https://github.com/NixOS/nixpkgs/issues/95017",
+    "source": "github",
+    "origin_doc_id": "798fd922b0d4e7f50faf0e5a49f9e1724e124b51440a1d919e9f816f359ed96e",
+    "snippet": "Nov 22 13:13:52 austin-laptop sudo[11088]: pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=austin rhost=  user=austin \n Nov 22 13:14:10 austin-laptop sudo[11088]: pam_krb5(sudo:auth): authentication failure; logname=austin uid=1000 euid=0 tty=/dev/pts/0 ruser=austin rhost= \n Nov 22 13:14:40 austin-laptop sudo[11088]: pam_krb5(sudo:auth): authentication failure; logname=austin uid=1000 euid=0 tty=/dev/pts/0 ruser=austin rhost= \n Nov 22 13:15:10 austin-laptop sudo[11088]: pam_krb5(sudo:auth): authentication failure; logname=austin uid=1000 euid=0 tty=/dev/pts/0 ruser=austin rhost="
+  },
+  {
+    "rank": 5,
+    "id": "msg_6cfd34e96f7dc5d878a487b800a43484ecb663aec67e8f3b3b1d60d216285f6e",
+    "score": 100.45289,
+    "link": "https://stackoverflow.com/questions/61721025",
+    "source": "so",
+    "origin_doc_id": "adcf41b503d579e53163da5929949150852c9e19f3c90f1a37f8267d27187167",
+    "snippet": "Authentication:  \n  May 11 00:25:29 SERVER sshd[28119]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=x.x.x.x  user=USERNAME \n  Sudo:  \n  May 11 01:33:14 SERVER sudo: pam_unix(sudo:auth): authentication failure; logname=USER_NAME uid=2005125 euid=0 tty=/dev/pts/2 ruser=USER_NAME rhost=  user=USER_NAME \n  Configuration  \n  /etc/samba/smb.conf:"
+  },
+  {
+    "rank": 6,
+    "id": "msg_6882ad2ed5386e03b098bcdaf18cf8e1cca50489658135ea60ac9d042cb5cdec",
+    "score": 100.386894,
+    "link": "https://github.com/NixOS/nixpkgs/issues/25711",
+    "source": "github",
+    "origin_doc_id": "4dd6b2d1c10c49d4867191e4f6b9b72c410559cb398f1f00b0466acb8d626026",
+    "snippet": "lightdm: pam_unix(lightdm:auth): authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost="
+  },
+  {
+    "rank": 7,
+    "id": "msg_4687530af1d3225942d4bb3ecc3f22f8ce40f69a01030767a4cb3125466e83fc",
+    "score": 99.614555,
+    "link": "https://github.com/ifreund/waylock/issues/23",
+    "source": "github",
+    "origin_doc_id": "c8435c8f5d2042cce4b44719e915388b7eb7bbc089981637713c594885dad5dd",
+    "snippet": "Oct 30 20:51:32 localhost authpriv.notice unix_chkpwd[22440]: password check failed for user (diablo) \n Oct 30 20:51:32 localhost authpriv.notice : pam_unix(system-auth:auth): authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo \n Oct 30 20:51:32 localhost authpriv.notice unix_chkpwd[22443]: password check failed for user (diablo) \n Oct 30 20:51:33 localhost authpriv.notice : PAM 1 more authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo \n Oct 30 20:51:38 localhost authpriv.notice unix_chkpwd[22459]: password check failed for user (diablo) \n Oct 30 20:51:38 localhost authpriv.notice : pam_unix(system-auth:auth): authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo \n Oct 30 20:51:38 localhost authpriv.notice unix_chkpwd[22461]: password check failed for user (diablo) \n Oct 30 20:51:40 localhost authpriv.notice : PAM 1 more authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo \nOct 30 20:51:45 localhost authpriv.notice unix_chkpwd[22465]: password check failed for user (diablo)\nOct 30 20:51:45 localhost authpriv.notice : pam_unix(system-auth:auth): authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\nOct 30 20:51:45 localhost authpriv.notice unix_chkpwd[22467]: password check failed for user (diablo)\nOct 30 20:51:47 localhost authpriv.notice : PAM 1 more authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\nOct 30 20:51:56 localhost authpriv.notice unix_chkpwd[22472]: password check failed for user (diablo)\nOct 30 20:51:56 localhost authpriv.notice : pam_unix(system-auth:auth): authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\nOct 30 20:51:56 localhost authpriv.notice unix_chkpwd[22474]: password check failed for user (diablo)\nOct 30 20:51:58 localhost authpriv.notice : PAM 1 more authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\nOct 30 20:52:06 localhost authpriv.notice unix_chkpwd[22480]: password check failed for user (diablo)\nOct 30 20:52:06 localhost authpriv.notice : pam_unix(system-auth:auth): authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\nOct 30 20:52:06 localhost authpriv.notice unix_chkpwd[22482]: password check failed for user (diablo)\nOct 30 20:52:08 localhost authpriv.notice : PAM 1 more authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\nOct 30 20:52:23 localhost authpriv.notice unix_chkpwd[22487]: password check failed for user (diablo)\nOct 30 20:52:23 localhost authpriv.notice : pam_unix(system-auth:auth): authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\nOct 30 20:52:23 localhost authpriv.notice unix_chkpwd[22489]: password check failed for user (diablo)\nOct 30 20:52:26 localhost authpriv.notice : PAM 1 more authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\nOct 30 20:52:43 localhost authpriv.notice unix_chkpwd[22493]: password check failed for user (diablo)\nOct 30 20:52:43 localhost authpriv.notice : pam_unix(system-auth:auth): authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\nOct 30 20:52:43 localhost authpriv.notice unix_chkpwd[22495]: password check failed for user (diablo)\nOct 30 20:52:44 localhost authpriv.notice : PAM 1 more authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\nOct 30 20:52:57 localhost authpriv.notice unix_chkpwd[22497]: password check failed for user (diablo)\nOct 30 20:52:57 localhost authpriv.notice : pam_unix(system-auth:auth): authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\nOct 30 20:52:57 localhost authpriv.notice unix_chkpwd[22499]: password check failed for user (diablo)\nOct 30 20:52:59 localhost authpriv.notice : PAM 1 more authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\nOct 30 20:53:14 localhost authpriv.notice unix_chkpwd[22502]: password check failed for user (diablo)\nOct 30 20:53:14 localhost authpriv.notice : pam_unix(system-auth:auth): authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\nOct 30 20:53:14 localhost authpriv.notice unix_chkpwd[22504]: password check failed for user (diablo)\nOct 30 20:53:15 localhost authpriv.notice : PAM 1 more authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=diablo\n```"
+  },
+  {
+    "rank": 8,
+    "id": "msg_efa8f1b6c2c1973fbbc0035791606650e8f8df84fcb49e939476de5fbf38a5da",
+    "score": 99.523254,
+    "link": "https://stackoverflow.com/questions/33451402",
+    "source": "so",
+    "origin_doc_id": "6a941b62479fe35585fe5d40db528627799ebc29626fccadf2994b0d319da010",
+    "snippet": "Oct 31 07:52:41 logserver sshd[17041]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=localhost"
+  },
+  {
+    "rank": 9,
+    "id": "msg_99df27303e37f465b45692f381264dde0aa286b60cde1316da25fe95987caad3",
+    "score": 99.523254,
+    "link": "https://stackoverflow.com/questions/31246845",
+    "source": "so",
+    "origin_doc_id": "34a368f6cc967745b26642a1e7d7e0e8cfb058902377de2d3d86e61fd5476334",
+    "snippet": "debug2: input_userauth_request: try method none [preauth] \n  ... \n  pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.98.106  user=admin"
+  },
+  {
+    "rank": 10,
+    "id": "msg_11f85196d92d79b5275caed60c30810adf296671436a37d6084235517150c579",
+    "score": 99.01687,
+    "link": "https://github.com/google/google-authenticator/issues/502",
+    "source": "github",
+    "origin_doc_id": "448a9b7cbd8f81c2aa0d025ddd101010a9b0a5f49889ba5a7e8aa559e675aa6f",
+    "snippet": "May 22 13:45:55 rofrpn801a sshd[10770]: PAM unable to dlopen(/lib64/security/pam-google-authenticator.so): /lib64/security/pam-google-authe \n nticator.so: cannot open shared object file: No such file or directory \n May 22 13:45:55 rofrpn801a sshd[10770]: PAM adding faulty module: /lib64/security/pam-google-authenticator.so \n May 22 13:45:58 rofrpn801a sshd[10772]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=r0199176.ma \n yo.edu  user=ts00086 \n May 22 13:45:58 rofrpn801a sshd[10772]: pam_sss(sshd:auth): authentication success; logname= uid=0 euid=0 tty=ssh ruser= rhost=r0199176.may \no.edu user=ts00086 \n May 22 13:45:58 rofrpn801a sshd[10770]: Accepted keyboard-interactive/pam for ts00086 from 172.23.189.230 port 60087 ssh2 \n May 22 13:45:58 rofrpn801a sshd[10770]: pam_unix(sshd:session): session opened for user ts00086 by (uid=0)\nMay 22 13:49:19 rofrpn801a sshd[11351]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=r0199176.ma \n yo.edu  user=ts00086 \n May 22 13:49:19 rofrpn801a sshd[11351]: pam_sss(sshd:auth): authentication success; logname= uid=0 euid=0 tty=ssh ruser= rhost=r0199176.may \n o.edu user=ts00086 \n May 22 13:49:19 rofrpn801a sshd[11349]: Accepted keyboard-interactive/pam for ts00086 from 172.23.189.230 port 60100 ssh2"
+  }
+]

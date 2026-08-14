@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_412dd820df4dc2b8c155b1f1bb7d867e93c9ed924c7e20f107bba7a6e1ebbeeb",
+    "score": 34.25111,
+    "link": "https://stackoverflow.com/questions/32800599",
+    "source": "so",
+    "origin_doc_id": "8390d084973116120224c3aa0cf561fbc1a471faeddd63879a7af26c1a26c397",
+    "snippet": "2015-09-25 21:18:28,647 INFO org.apache.hadoop.mapreduce.v2.hs.HistoryClientService: Instantiated MRClientService at jose-ubuntu/127.0.0.1:10020"
+  },
+  {
+    "rank": 2,
+    "id": "msg_97aa865faeb8d8832b3c13e20022570b5d983b61ef7dc47e8cb0499a23aaa07c",
+    "score": 34.25111,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:27,780 INFO [main] org.apache.hadoop.mapreduce.v2.app.client.MRClientService: Instantiated MRClientService at da74/115.68.67.98:35855"
+  },
+  {
+    "rank": 3,
+    "id": "msg_bc228ccbf2005d0ce234fd3d3dff59d1b016857c81b65363127c6086e0329b73",
+    "score": 34.25111,
+    "link": "https://stackoverflow.com/questions/29075106",
+    "source": "so",
+    "origin_doc_id": "8804889924d3bb86586e2b967059d726e1328690ac16880f1a3ffbd69e9b1e96",
+    "snippet": "2015-03-16 11:46:53,566 INFO [main] org.apache.hadoop.mapreduce.v2.app.client.MRClientService: Instantiated MRClientService at company.com/172.24.4.231:44690"
+  },
+  {
+    "rank": 4,
+    "id": "msg_5e9977793cadbcb3bef46a99b86e0a1d36a959bad9ff4193452b09452ec08b23",
+    "score": 34.25111,
+    "link": "https://jira.spring.io/browse/XD-2912",
+    "source": "jira",
+    "origin_doc_id": "690fe629c5f907ae672ec8e8c9589daf04d8baebad0d82cd7cab78ea3daae31c",
+    "snippet": "2015-04-06 15:38:25,544 INFO [main] org.apache.hadoop.mapreduce.v2.app.client.MRClientService: Instantiated MRClientService at sandbox.hortonworks.com/192.168.3.128:51164"
+  },
+  {
+    "rank": 5,
+    "id": "msg_55eae769e8755c996e85ed916dd14c9ad47355b1d1a2871e0ecb38d9480a3f7c",
+    "score": 34.25111,
+    "link": "https://issues.apache.org/jira/browse/MYRIAD-191",
+    "source": "jira",
+    "origin_doc_id": "cefafbbd631bbd6b94a038022c2804e2b7d6d48833950b5aaebddc2e916cf997",
+    "snippet": "2016-03-22 15:03:55,352 INFO [main] org.apache.hadoop.mapreduce.v2.app.client.MRClientService: Instantiated MRClientService at foo.local/10.1.194.76:38420"
+  },
+  {
+    "rank": 6,
+    "id": "msg_5b3cdecc318c8fc4d8091f83cf6f0c32b718113908f6441eae842676d02a92d6",
+    "score": 34.25111,
+    "link": "https://github.com/crs4/pydoop/issues/154",
+    "source": "github",
+    "origin_doc_id": "10efddefd4b8ea3b9e1d5f97d32e75c0c8263a8a5bd3426f0ec9092de77cc2f8",
+    "snippet": "2015-07-17 00:16:27,819 INFO [main] org.apache.hadoop.mapreduce.v2.app.client.MRClientService: Instantiated MRClientService at a/192.168.0.1:37351"
+  },
+  {
+    "rank": 7,
+    "id": "msg_07236ebf0d3774739898b8ac4601672d5657ce3360975c0fa112cde14dce987e",
+    "score": 34.25111,
+    "link": "https://stackoverflow.com/questions/49366285",
+    "source": "so",
+    "origin_doc_id": "bab7bd228140fbee7bf887a8ad9a2638f1894ba5dc8341321ccb79ce6cd0cf96",
+    "snippet": "2018-03-20 18:52:35,230 INFO [main] org.apache.hadoop.mapreduce.v2.app.client.MRClientService: Instantiated MRClientService at host/host:38335"
+  },
+  {
+    "rank": 8,
+    "id": "msg_f7484cd0a52f11936ed04ed079ed3ae233b40f05a4d21cc8c4892e4165cbf47b",
+    "score": 33.87401,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6815",
+    "source": "jira",
+    "origin_doc_id": "e460905c994c0b63b47c2aca43e1edcb8187dd28d78551dedb713384dfab382d",
+    "snippet": "2016-11-23 10:08:07,277 INFO  [main] client.MRClientService (MRClientService.java:serviceStart(137)) - Instantiated MRClientService at localhost/127.0.0.1:37121"
+  },
+  {
+    "rank": 9,
+    "id": "msg_af24fe4676a9917b5ed0e2761bcf086801b8d8854fbf1f3b28261e18879c127a",
+    "score": 33.50512,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-23 05:17:55,720 INFO [main] org.apache.hadoop.mapreduce.v2.app.client.MRClientService: Instantiated MRClientService at se-vm-lz/192.168.0.180:37204"
+  },
+  {
+    "rank": 10,
+    "id": "msg_34402cdf961cc7bce120b8b4e748ee82637507c0dc0181831276352451adbb95",
+    "score": 33.50512,
+    "link": "https://issues.apache.org/jira/browse/YARN-6514",
+    "source": "jira",
+    "origin_doc_id": "b236a539495cd702d3dbae38cd43c43648b5987445cb89e3829e65dbfe201bf5",
+    "snippet": "2017-04-25 02:59:42,002 INFO [main] org.apache.hadoop.mapreduce.v2.app.client.MRClientService: Instantiated MRClientService at se-vm-lz/192.168.0.180:35662"
+  }
+]

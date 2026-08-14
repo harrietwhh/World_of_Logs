@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_6f1ede93d6a2ca5487b5fce12a7ee2330f85d80cd4dc93275d2821aecbe9c6c5",
+    "score": 55.549103,
+    "link": "https://stackoverflow.com/questions/39761679",
+    "source": "so",
+    "origin_doc_id": "4a053fadcb696453bf841fc70f6f4251121a966009b878ab0ce8f923edab3dd5",
+    "snippet": "sshd[6553]: fatal: Read from socket failed: Connection reset by peer [preauth] \n sshd[6823]: fatal: Read from socket failed: Connection reset by peer [preauth] \n sshd[6934]: Accepted password for pi from 172.19.0.5 port 51395 ssh2 \n sshd[6934]: pam_unix(sshd:session): session opened for user pi by (uid=0) \nfatal: Read from socket failed: Connection reset by peer [preauth]"
+  },
+  {
+    "rank": 2,
+    "id": "msg_9538701cff7312b646d06d16b6f543e0875cdd0e09bafba8748190e6e8095e57",
+    "score": 46.821423,
+    "link": "https://github.com/dacr/jassh/issues/21",
+    "source": "github",
+    "origin_doc_id": "19ef60cc1eb4e1ac7de8c4e34a8c772092f6ee5925514f49cd4afbc51d012eb1",
+    "snippet": "fatal: Write failed: Broken pipe \n sshd[16125]: fatal: Write failed: Connection reset by peer"
+  },
+  {
+    "rank": 3,
+    "id": "msg_554751e9acaf39fac597bff7570576f75fee6d46e270bb25324ef60cc563d6b6",
+    "score": 43.89032,
+    "link": "https://github.com/pSpaces/goSpace/issues/12",
+    "source": "github",
+    "origin_doc_id": "982d087fc93d3e9eaddd5a94600dbdd96f21e7121466467c4f969cd77fa18c3b",
+    "snippet": "... \n ErrSendMessage: write tcp4 127.0.0.1:43914->127.0.0.1:31415: write: connection reset by peer \n ErrSendMessage: write tcp4 127.0.0.1:43604->127.0.0.1:31415: write: connection reset by peer \n ErrSendMessage: write tcp4 127.0.0.1:44038->127.0.0.1:31415: write: connection reset by peer \n ErrSendMessage: write tcp4 127.0.0.1:43824->127.0.0.1:31415: write: connection reset by peer \nErrSendMessage: write tcp4 127.0.0.1:43820->127.0.0.1:31415: write: connection reset by peer\nErrSendMessage: write tcp4 127.0.0.1:44134->127.0.0.1:31415: write: connection reset by peer\nErrSendMessage: write tcp4 127.0.0.1:43980->127.0.0.1:31415: write: connection reset by peer\nErrSendMessage: write tcp4 127.0.0.1:43860->127.0.0.1:31415: write: connection reset by peer\nErrSendMessage: write tcp4 127.0.0.1:44104->127.0.0.1:31415: write: connection reset by peer\nErrSendMessage: write tcp4 127.0.0.1:44094->127.0.0.1:31415: write: connection reset by peer\nErrSendMessage: write tcp4 127.0.0.1:43868->127.0.0.1:31415: write: connection reset by peer\nErrSendMessage: write tcp4 127.0.0.1:43648->127.0.0.1:31415: write: connection reset by peer\nErrSendMessage: write tcp4 127.0.0.1:43776->127.0.0.1:31415: write: connection reset by peer\nErrSendMessage: write tcp4 127.0.0.1:43754->127.0.0.1:31415: write: connection reset by peer\nErrSendMessage: write tcp4 127.0.0.1:43974->127.0.0.1:31415: write: connection reset by peer \n ErrSendMessage: write tcp4 127.0.0.1:44028->127.0.0.1:31415: write: connection reset by peer \n ..."
+  },
+  {
+    "rank": 4,
+    "id": "msg_2e7c6f935ed0b2680c68b19a710700776e63212e51c7172de4bc4a146e968806",
+    "score": 43.200985,
+    "link": "https://stackoverflow.com/questions/17584303",
+    "source": "so",
+    "origin_doc_id": "4625d1e40ad672c7843451c8766a74acac1bd98b66aff001617012e71c654a07",
+    "snippet": "com.microsoft.sqlserver.jdbc.SQLServerException: Connection reset by peer: socket write error; nested exception is: com.microsoft.sqlserver.jdbc.SQLServerException: Connection reset by peer: socket write error: com.microsoft.sqlserver.jdbc.SQLServerException: Connection reset by peer: socket write error; nested exception is: com.microsoft.sqlserver.jdbc.SQLServerException: Connection reset by peer: socket write error: Connection reset by peer: socket write error"
+  },
+  {
+    "rank": 5,
+    "id": "msg_d0a7718c53222e159aad24abc3a642c046700de7c8f67959b0332483bedff681",
+    "score": 42.264256,
+    "link": "https://github.com/dotnet/SqlClient/issues/43",
+    "source": "github",
+    "origin_doc_id": "77906aa9b5b72002e65a7e57d7d21635455e23276ad2dad15db4f6f7ea39d80e",
+    "snippet": "(provider: TCP Provider, error: 35 - An internal exception was caught) ---> System.IO.IOException: The write operation failed, see inner exception. ---> System.AggregateException: One or more errors occurred. (Unable to write data to the transport connection: Connection reset by peer.) ---> System.IO.IOException: Unable to write data to the transport connection: Connection reset by peer. ---> System.Net.Sockets.SocketException: Connection reset by peer` \n 2.1 \n `System.AggregateException: One or more errors occurred. (Unable to write data to the transport connection: Connection reset by peer.) ---> System.IO.IOException: Unable to write data to the transport connection: Connection reset by peer. ---> System.Net.Sockets.SocketException: Connection reset by peer`"
+  },
+  {
+    "rank": 6,
+    "id": "msg_84421add1d4c27b7ba60e0b2c70d9e76295bb21856902b6cfc40ad83df0aa751",
+    "score": 41.858963,
+    "link": "https://stackoverflow.com/questions/62865071",
+    "source": "so",
+    "origin_doc_id": "676fedcf416c61f02a6ae905e459e4e8cb969f7a73c0f0613b85d4d6afeec1ed",
+    "snippet": "org.postgresql.util.PSQLException: An I/O error occurred while sending to the backend. \n Caused by: javax.net.ssl.SSLException: Connection reset by peer (Write failed) \n Suppressed: java.net.SocketException: Broken pipe (Write failed) \nCaused by: java.net.SocketException: Connection reset by peer (Write failed)"
+  },
+  {
+    "rank": 7,
+    "id": "msg_d50bbf748f467c377dec363fcb82af43dc00754be1d8567b9b7cdba9eefa26de",
+    "score": 41.8573,
+    "link": "https://jira.atlassian.com/browse/BCLOUD-8998",
+    "source": "jira",
+    "origin_doc_id": "e701ae92c235ea9aff65cd1aef5ce13df454d5b4032f85e028bd3a02d4eaea0c",
+    "snippet": "Write failed: Connection reset by peer\\\\ \n fatal: The remote end hung up unexpectedly\\\\ \n fatal: The remote end hung up unexpectedly"
+  },
+  {
+    "rank": 8,
+    "id": "msg_b856e62c5531adf7b6f7f06404ec1ca804d50670e6c2adb4e71df614e7815130",
+    "score": 41.79217,
+    "link": "https://github.com/jhy/jsoup/issues/958",
+    "source": "github",
+    "origin_doc_id": "309438b023d6e59f1ec2d0048d16dd11869c2cdf581f3f65c9d474e5b3360267",
+    "snippet": "main, WRITE: TLSv1.2 Change Cipher Spec, length = 1 \n main, handling exception: java.net.SocketException: Connection reset by peer: socket write error \n %% Invalidated:  [Session-4, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384] \n main, SEND TLSv1.2 ALERT:  fatal, description = unexpected_message \n main, WRITE: TLSv1.2 Alert, length = 2 \n main, Exception sending alert: java.net.SocketException: Connection reset by peer: socket write error \n main, called closeSocket() \nConnection reset by peer: socket write error"
+  },
+  {
+    "rank": 9,
+    "id": "msg_5c94947156f74a866ea56b6bfe056c4990c1f5c39c5a211110922ad5ff0a28ff",
+    "score": 40.671955,
+    "link": "https://stackoverflow.com/questions/17977206",
+    "source": "so",
+    "origin_doc_id": "84665f32682d0582b7371eb0f45b20cae0d135c4df0bdbcfc3390812f108c02f",
+    "snippet": "fatal: read error: Connection reset by peer\nRead from socket failed: Connection reset by peer \n fatal: The remote end hung up unexpectedly"
+  },
+  {
+    "rank": 10,
+    "id": "msg_6f2bda8cb95255b0e955070a4cc101853d7126c72a7ae3138e14698ddf9ec67e",
+    "score": 40.66044,
+    "link": "https://stackoverflow.com/questions/42101099",
+    "source": "so",
+    "origin_doc_id": "919f160f0caa91c2944b187a38bcc244e418d8b3e62193ead4ea12fd130e57cb",
+    "snippet": "ERROR:java.net.SocketException: Connection reset by peer: socket write error \n java.net.SocketException: Connection reset by peer: socket write error"
+  }
+]

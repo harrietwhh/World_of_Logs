@@ -1,0 +1,30 @@
+{
+  "case_id": "4",
+  "summary_raw": "[\"boot_cmd\",\"Command has completed\"]",
+  "summary_items": [
+    "boot_cmd",
+    "Command has completed"
+  ],
+  "group_logs_lines": [
+    "boot_cmd success 1077810607 1 Command has completed successfully",
+    "boot_cmd success 1077810608 1 Command has completed successfully",
+    "boot_cmd success 1077810661 1 Command has completed successfully",
+    "boot_cmd success 1077810661 1 Command has completed successfully",
+    "boot_cmd success 1077810662 1 Command has completed successfully",
+    "boot_cmd success 1077810662 1 Command has completed successfully",
+    "boot_cmd success 1077810688 1 Command has completed successfully",
+    "boot_cmd success 1077810689 1 Command has completed successfully",
+    "boot_cmd success 1077810689 1 Command has completed successfully",
+    "boot_cmd success 1077810689 1 Command has completed successfully",
+    "boot_cmd success 1077816955 1 Command has completed successfully",
+    "boot_cmd success 1077816970 1 Command has completed successfully",
+    "boot_cmd success 1077816985 1 Command has completed successfully",
+    "boot_cmd success 1077816987 1 Command has completed successfully",
+    "boot_cmd success 1077816987 1 Command has completed successfully",
+    "boot_cmd success 1077816990 1 Command has completed successfully",
+    "boot_cmd success 1077817021 1 Command has completed successfully",
+    "boot_cmd success 1077817742 1 Command has completed successfully",
+    "boot_cmd success 1077817742 1 Command has completed successfully",
+    "boot_cmd success 1077817773 1 Command has completed successfully"
+  ]
+}

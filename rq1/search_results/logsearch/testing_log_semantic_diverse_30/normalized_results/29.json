@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_dddc09efc9146b3b4d4b5537c8eace859f8c612be8e5080eb05f2850c8cbfeba",
+    "score": 69.07423,
+    "link": "https://issues.apache.org/jira/browse/AMQ-6291",
+    "source": "jira",
+    "origin_doc_id": "d5e396eaf28e471a6cc5f67d5b4e2fa6a6994504f66e0e60d2874a5e00522f33",
+    "snippet": "2016-05-11 23:32:34,345 [main           ] - DEBUG StompTestSupport               - Using stomp+ssl port 54202"
+  },
+  {
+    "rank": 2,
+    "id": "msg_d38a973d11e3f05199239ddc4fc1d3a46ccb3480940a31c7ea20a8c9763258b6",
+    "score": 68.2966,
+    "link": "https://issues.apache.org/jira/browse/AMQ-6291",
+    "source": "jira",
+    "origin_doc_id": "d5e396eaf28e471a6cc5f67d5b4e2fa6a6994504f66e0e60d2874a5e00522f33",
+    "snippet": "2016-05-11 23:32:34,350 [main           ] - DEBUG StompTestSupport               - Using stomp+nio+ssl port 50013"
+  },
+  {
+    "rank": 3,
+    "id": "msg_5934e63c9b1be9b2217b9c3c9007b122a0bc97daa5e1345a9e713bc309da4fd9",
+    "score": 61.663788,
+    "link": "https://issues.apache.org/jira/browse/AMQ-6291",
+    "source": "jira",
+    "origin_doc_id": "d5e396eaf28e471a6cc5f67d5b4e2fa6a6994504f66e0e60d2874a5e00522f33",
+    "snippet": "2016-05-11 23:32:34,339 [main           ] - DEBUG StompTestSupport               - Using stomp port 38198"
+  },
+  {
+    "rank": 4,
+    "id": "msg_554d2760a9de31517d2fa0a37e4204e78ef9d652cac4a1401caadf324b3d9533",
+    "score": 60.961678,
+    "link": "https://issues.apache.org/jira/browse/AMQ-6291",
+    "source": "jira",
+    "origin_doc_id": "d5e396eaf28e471a6cc5f67d5b4e2fa6a6994504f66e0e60d2874a5e00522f33",
+    "snippet": "2016-05-11 23:32:34,346 [main           ] - DEBUG StompTestSupport               - Using stomp+nio port 56816"
+  },
+  {
+    "rank": 5,
+    "id": "msg_e0c20d2b36c78f0baf5d7ccc1b535fa565eceb630a8e5a8f432509de1e66b0b0",
+    "score": 33.783005,
+    "link": "https://github.com/yaooqinn/spark-ranger/issues/23",
+    "source": "github",
+    "origin_doc_id": "f972778044cd180dce7990baa40393e1742c13fe60a0ad71bfcafd93ce0055a3",
+    "snippet": "2020-04-09 12:23:03 INFO  Utils:54 - Successfully started service 'sparkDriver' on port 35149."
+  },
+  {
+    "rank": 6,
+    "id": "msg_c3a89bfb033855ab0e1c9a7bcd038d5c7145d51e81c92315bf663ad5c75c066c",
+    "score": 32.11526,
+    "link": "https://stackoverflow.com/questions/35312221",
+    "source": "so",
+    "origin_doc_id": "09c093faf0f55e2e97443a2b9ae3d8592a7265baf13095df0b91ff7338be2cae",
+    "snippet": "DEBUG: .../IO/Socket/SSL.pm:605: socket not yet connected \n DEBUG: .../IO/Socket/SSL.pm:607: socket connected \n DEBUG: .../IO/Socket/SSL.pm:629: ssl handshake not started \n DEBUG: .../IO/Socket/SSL.pm:662: using SNI with hostname mmx-nprd3-07.cisco.com \n DEBUG: .../IO/Socket/SSL.pm:697: request OCSP stapling \n DEBUG: .../IO/Socket/SSL.pm:787: ssl handshake done \n # 2016/02/10-07:18:33 JmsClient.pl[6618]: connect to stomp+ssl://mmx-ntard-07.sammy.com:7222 ok: 160.**.1**.**2 \n\nStomp Client Object Created\n\nConnected to broker mmx-ntard-07.sammy.com (IP 1**.*8.**.**2), port 7222\n\n# 2016/02/10-07:18:33 JmsClient.pl[6618]: Net::STOMP::Client=HASH(0x194df00)->connect()\n# 2016/02/10-07:18:33 JmsClient.pl[6618]: encoding CONNECT frame\n# 2016/02/10-07:18:33 JmsClient.pl[6618]:  H accept-version:1.0,1.1,1.2\n# 2016/02/10-07:18:33 JmsClient.pl[6618]:  H host:mmx-ntard-07.sammy.com\n# 2016/02/10-07:18:33 JmsClient.pl[6618]: sent 65 bytes\n# 2016/02/10-07:18:33 JmsClient.pl[6618]: received 12 bytes \n # 2016/02/10-07:18:34 JmsClient.pl[6618]: received 0 bytes \n cannot sysread(): EOF \nprint(\"waiting for messages... \n \");"
+  },
+  {
+    "rank": 7,
+    "id": "msg_4c19bb87dc672a1e8be6905407069dcc5cec53576a9fb26954a65011ffb6c134",
+    "score": 31.845493,
+    "link": "https://issues.apache.org/jira/browse/AMQ-6291",
+    "source": "jira",
+    "origin_doc_id": "d5e396eaf28e471a6cc5f67d5b4e2fa6a6994504f66e0e60d2874a5e00522f33",
+    "snippet": "2016-05-11 23:32:34,331 [main           ] - INFO  StompTestSupport               - ========== start testOversizedActionOnNioSocket[0] =========="
+  },
+  {
+    "rank": 8,
+    "id": "msg_beda085c73b2e4e923b9cd15478f82ce75fcde0ddd1702d29e07be65015603aa",
+    "score": 31.148922,
+    "link": "https://github.com/pact-foundation/pact-jvm/issues/1264",
+    "source": "github",
+    "origin_doc_id": "9b0359c124cfe35df7c948cc5deabe3a8fd23c50f3d6a631725a22b145c5e0a5",
+    "snippet": "2020-12-14 12:37:47,557 DEBUG PactVerificationInvocationContextProvider:122 [main] Pact sources on test class: \n  @au.com.dius.pact.provider.junitsupport.loader.PactSource(value=au.com.dius.pact.provider.junitsupport.loader.PactBrokerLoader.class)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_aa8912aa0938a3adf5b0e78cebce89895e21f197a3dcd6f5e509948a1ba52e1d",
+    "score": 31.048687,
+    "link": "https://stackoverflow.com/questions/79019214",
+    "source": "so",
+    "origin_doc_id": "29582876deb87b48c06e0b93a791f64e3915081021cb8e9bc4c350d5b03e5557",
+    "snippet": "2024/09/24 14:47:33 [debug] 234#234: *3 http check ssl handshake"
+  },
+  {
+    "rank": 10,
+    "id": "msg_6236a585a85037d6b2ff04e0f2b421c5f3184a4a18506ed06290d7e34e95a910",
+    "score": 31.048687,
+    "link": "https://stackoverflow.com/questions/79019214",
+    "source": "so",
+    "origin_doc_id": "29582876deb87b48c06e0b93a791f64e3915081021cb8e9bc4c350d5b03e5557",
+    "snippet": "2024/09/24 14:47:33 [debug] 234#234: *3 https ssl handshake: 0x16"
+  }
+]

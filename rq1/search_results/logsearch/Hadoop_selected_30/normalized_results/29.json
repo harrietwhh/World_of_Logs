@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_e8d6edfdba35876dcfeb3bc5390f7f8c2ea886453426d4f637d5f89383912638",
+    "score": 46.494934,
+    "link": "https://issues.apache.org/jira/browse/FLINK-7436",
+    "source": "jira",
+    "origin_doc_id": "a716908ea725e940cc420af18c0eea633254825a3e195de9aac38c00455bcc82",
+    "snippet": "14:32:23,252 INFO                CallQueueManager:  53 - Using callQueue class java.util.concurrent.LinkedBlockingQueue"
+  },
+  {
+    "rank": 2,
+    "id": "msg_d5613ba19550e31607559383699865cc48884a33fe46911dbcbcf1b239ee44bb",
+    "score": 46.494934,
+    "link": "https://issues.apache.org/jira/browse/FLINK-7436",
+    "source": "jira",
+    "origin_doc_id": "a716908ea725e940cc420af18c0eea633254825a3e195de9aac38c00455bcc82",
+    "snippet": "14:32:23,420 INFO                CallQueueManager:  53 - Using callQueue class java.util.concurrent.LinkedBlockingQueue"
+  },
+  {
+    "rank": 3,
+    "id": "msg_86411660489be497d7cae5202068d22b2a3ef41c39648a316565fb2f4e3e3e44",
+    "score": 46.494934,
+    "link": "https://issues.apache.org/jira/browse/YARN-1986",
+    "source": "jira",
+    "origin_doc_id": "ae12240fb7755db77efd904c101cfdbe8b2a20e73a05aac05348b40f39f78ce4",
+    "snippet": "17:50:29,800  INFO CallQueueManager:53 - Using callQueue class java.util.concurrent.LinkedBlockingQueue"
+  },
+  {
+    "rank": 4,
+    "id": "msg_ba8071203eb79592d8a1184438272cd882dd265fc7f6297c02a54e507beee4a8",
+    "score": 45.411476,
+    "link": "https://stackoverflow.com/questions/32800599",
+    "source": "so",
+    "origin_doc_id": "8390d084973116120224c3aa0cf561fbc1a471faeddd63879a7af26c1a26c397",
+    "snippet": "2015-09-25 21:18:26,363 INFO org.apache.hadoop.ipc.CallQueueManager: Using callQueue class java.util.concurrent.LinkedBlockingQueue"
+  },
+  {
+    "rank": 5,
+    "id": "msg_19170782bb279d068f48084247609db8d89f47dd86f6d86bfe1e5f0ea62c8164",
+    "score": 45.411476,
+    "link": "https://stackoverflow.com/questions/32800599",
+    "source": "so",
+    "origin_doc_id": "8390d084973116120224c3aa0cf561fbc1a471faeddd63879a7af26c1a26c397",
+    "snippet": "2015-09-25 21:18:28,596 INFO org.apache.hadoop.ipc.CallQueueManager: Using callQueue class java.util.concurrent.LinkedBlockingQueue"
+  },
+  {
+    "rank": 6,
+    "id": "msg_3cbbf1fcfe2f73780a25c8f865805b5856e96aa7a94d36450feb101698d1f8fc",
+    "score": 45.411476,
+    "link": "https://stackoverflow.com/questions/25320696",
+    "source": "so",
+    "origin_doc_id": "1be60d9a4b6fb92aba703a8fcc10d7df64a2280b19b156d50cbeee65a3105cbf",
+    "snippet": "2014-08-15 10:18:00,909 INFO org.apache.hadoop.ipc.CallQueueManager: Using callQueue class java.util.concurrent.LinkedBlockingQueue"
+  },
+  {
+    "rank": 7,
+    "id": "msg_385c0889c57753b46255aac796a979f6b450343bc1e67fe725f36afdc358c6ef",
+    "score": 45.411476,
+    "link": "https://stackoverflow.com/questions/28172413",
+    "source": "so",
+    "origin_doc_id": "16d3d663f14f87352f580dddfc2eb3579aa647fc12280a5f0fdedf3153ff7e0f",
+    "snippet": "2015-01-27 19:30:34,611 INFO org.apache.hadoop.ipc.CallQueueManager: Using callQueue class java.util.concurrent.LinkedBlockingQueue"
+  },
+  {
+    "rank": 8,
+    "id": "msg_ee513ee41e83dd3ed24076069ec643e6b05fa2bbd85174d5e2f57063adae8479",
+    "score": 45.411476,
+    "link": "https://stackoverflow.com/questions/34126781",
+    "source": "so",
+    "origin_doc_id": "c6e1ec048b02c23b4ffe75eca02a159dbba480b4fedcd16bf1c74cba0de05a73",
+    "snippet": "2015-12-08 16:25:03,809 INFO org.apache.hadoop.ipc.CallQueueManager: Using callQueue class java.util.concurrent.LinkedBlockingQueue"
+  },
+  {
+    "rank": 9,
+    "id": "msg_3ea921606a2dd990fbbddb241a887e37c5f7da0591ba7c068987d68d7a44e1e3",
+    "score": 45.411476,
+    "link": "https://stackoverflow.com/questions/34149090",
+    "source": "so",
+    "origin_doc_id": "88b3248234383c4e63f7ac9cfb5b2e34d4b53e1bed0a80778f29ae4bc938b051",
+    "snippet": "2015-12-08 10:26:25,027 INFO org.apache.hadoop.ipc.CallQueueManager: Using callQueue class java.util.concurrent.LinkedBlockingQueue"
+  },
+  {
+    "rank": 10,
+    "id": "msg_b3ad0cf77e24623f94465f647016ca335b50a8d56f21ecfad5dace363370a52f",
+    "score": 45.411476,
+    "link": "https://stackoverflow.com/questions/31378818",
+    "source": "so",
+    "origin_doc_id": "4f7335eabe154cb9b16f3c4699d53e24ba257a28142c26b6a71182c7ac7984bb",
+    "snippet": "2015-07-13 12:29:00,112 INFO org.apache.hadoop.ipc.CallQueueManager: Using callQueue class java.util.concurrent.LinkedBlockingQueue"
+  }
+]

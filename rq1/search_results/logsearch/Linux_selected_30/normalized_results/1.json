@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_cc4f96e685e3167bb31c0f3562247cb84d99d2a1f2ad51586c74843f3e3ecbc7",
+    "score": 103.81932,
+    "link": "https://github.com/neutrinolabs/xrdp/issues/1905",
+    "source": "github",
+    "origin_doc_id": "998b2c5c9d9a9d21f53e2766d5cddbbbd5a0c48fe6c314cb2016481114c97986",
+    "snippet": "xrdp-sesman[35456]: pam_unix(xrdp-sesman:auth): authentication failure; logname= uid=0 euid=0 tty=xrdp-sesman ruser= rhost= \n xrdp-sesman[35456]: pam_krb5(xrdp-sesman:auth): authentication failure; logname=DOMAIN\\username uid=0 euid=0 tty=xrdp-sesman ruser= rhost="
+  },
+  {
+    "rank": 2,
+    "id": "msg_03bee4423f40bdd610b93cabd0148aafe7e78020db7e7dc37827463a9db76b8f",
+    "score": 100.649925,
+    "link": "https://github.com/NixOS/nixpkgs/issues/95017",
+    "source": "github",
+    "origin_doc_id": "798fd922b0d4e7f50faf0e5a49f9e1724e124b51440a1d919e9f816f359ed96e",
+    "snippet": "Nov 22 13:13:52 austin-laptop sudo[11088]: pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=austin rhost=  user=austin \n Nov 22 13:14:10 austin-laptop sudo[11088]: pam_krb5(sudo:auth): authentication failure; logname=austin uid=1000 euid=0 tty=/dev/pts/0 ruser=austin rhost= \n Nov 22 13:14:40 austin-laptop sudo[11088]: pam_krb5(sudo:auth): authentication failure; logname=austin uid=1000 euid=0 tty=/dev/pts/0 ruser=austin rhost= \n Nov 22 13:15:10 austin-laptop sudo[11088]: pam_krb5(sudo:auth): authentication failure; logname=austin uid=1000 euid=0 tty=/dev/pts/0 ruser=austin rhost="
+  },
+  {
+    "rank": 3,
+    "id": "msg_6882ad2ed5386e03b098bcdaf18cf8e1cca50489658135ea60ac9d042cb5cdec",
+    "score": 100.386894,
+    "link": "https://github.com/NixOS/nixpkgs/issues/25711",
+    "source": "github",
+    "origin_doc_id": "4dd6b2d1c10c49d4867191e4f6b9b72c410559cb398f1f00b0466acb8d626026",
+    "snippet": "lightdm: pam_unix(lightdm:auth): authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost="
+  },
+  {
+    "rank": 4,
+    "id": "msg_7aa3b72ba39867f9cbaa829fce23289feb56c8f539024763efe392890272036c",
+    "score": 96.58912,
+    "link": "https://github.com/neutrinolabs/xrdp/issues/392",
+    "source": "github",
+    "origin_doc_id": "86ac4a575d656e8346a0a1ab22234d9cce35642b6ee2bf89bd7d7da0d2fa4993",
+    "snippet": "pam_unix(xrdp-sesman:auth): authentication failure; logname= uid=0 euid=0 tty=xrdp-sesman ruser= rhost=  user=someuser`"
+  },
+  {
+    "rank": 5,
+    "id": "msg_154e9dec1adde9e5063f7bbe2172d422666a599abc22c2d8ba6c15b694cab4c0",
+    "score": 95.971436,
+    "link": "https://github.com/adelton/mod_authnz_pam/issues/10",
+    "source": "github",
+    "origin_doc_id": "bc53c2d1241c4d9b1497e7ac9d7a5a5561f5bf76bb6658954c9048039ff4a3b6",
+    "snippet": "Jan  8 19:28:28 authnz pamtester: pam_sss(webapp:auth): authentication success; logname=root uid=0 euid=0 tty= ruser= rhost= user=alpha \n\n Jan  8 19:30:35 authnz httpd: pam_sss(webapp:auth): authentication success; logname= uid=48 euid=48 tty= ruser= rhost=192.168.1.52 user=alpha \n Jan  8 19:30:35 authnz httpd: pam_sss(webapp:auth): authentication success; logname= uid=48 euid=48 tty= ruser= rhost=192.168.1.52 user=alpha \n Jan  8 19:30:35 authnz httpd: pam_sss(webapp:auth): authentication success; logname= uid=48 euid=48 tty= ruser= rhost=192.168.1.52 user=alpha"
+  },
+  {
+    "rank": 6,
+    "id": "msg_6cfd34e96f7dc5d878a487b800a43484ecb663aec67e8f3b3b1d60d216285f6e",
+    "score": 94.67675,
+    "link": "https://stackoverflow.com/questions/61721025",
+    "source": "so",
+    "origin_doc_id": "adcf41b503d579e53163da5929949150852c9e19f3c90f1a37f8267d27187167",
+    "snippet": "Authentication:  \n  May 11 00:25:29 SERVER sshd[28119]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=x.x.x.x  user=USERNAME \n  Sudo:  \n  May 11 01:33:14 SERVER sudo: pam_unix(sudo:auth): authentication failure; logname=USER_NAME uid=2005125 euid=0 tty=/dev/pts/2 ruser=USER_NAME rhost=  user=USER_NAME \n  Configuration  \n  /etc/samba/smb.conf:"
+  },
+  {
+    "rank": 7,
+    "id": "msg_43555ccc7ef937abd511d20003e39694897e3c3cda7d0509ab12e6192f2caafe",
+    "score": 94.65555,
+    "link": "https://stackoverflow.com/questions/62774192",
+    "source": "so",
+    "origin_doc_id": "8061bc676c14d28eb21ba300de435f8f93e637df4dd27002eb2fcf2a55b42ab6",
+    "snippet": "Jul 05 13:44:56 khUbuntu su[20464]: pam_unix(su-l:auth): authentication failure; logname= uid=1000 euid=0 tty=pts/1 ruser=kh rhost=  user=testusr1 \n Jul 05 14:56:44 khUbuntu su[23766]: pam_unix(su-l:auth): authentication failure; logname= uid=1000 euid=0 tty=pts/2 ruser=kh rhost=  user=testusr1"
+  },
+  {
+    "rank": 8,
+    "id": "msg_47ccf4a1bd63436bc854950eb04c833031979e71638ed109ecfd8af256707a4a",
+    "score": 93.59291,
+    "link": "https://github.com/dev-sec/ansible-collection-hardening/issues/518",
+    "source": "github",
+    "origin_doc_id": "f897618af9d3a6e88c489e7606cd58b3c26ec2241140cadbb41b83700f005853",
+    "snippet": "``` \n sudo: pam_unix(sudo:auth): authentication failure; logname=USER uid=1001 euid=0 tty=/dev/pts/0 ruser=USER rhost= user=USER \n ```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_de3be35f4a648eabecbd0a30ca9f5e6e901b07370f0d67f8c159e191b51715a1",
+    "score": 93.46909,
+    "link": "https://github.com/neutrinolabs/xrdp/issues/906",
+    "source": "github",
+    "origin_doc_id": "c6dce485b9e237401bd661a39e7cdbcc6e0323827e38936126925619dfc227fc",
+    "snippet": "xrdp-sesman[1597]: pam_unix(xrdp-sesman:auth): authentication failure; logname= uid=0 euid=0 tty=xrdp-sesman ruser= rhost= user=death \n xrdp-sesman[1597]: pam_sss(xrdp-sesman:auth): authentication success; logname= uid=0 euid=0 tty=xrdp-sesman ruser= rhost= user=death \n xrdp-sesman[1597]: pam_sss(xrdp-sesman:account): Access denied for user death: 6 (Permission denied)"
+  },
+  {
+    "rank": 10,
+    "id": "msg_5fc8ae1750acecdcff5e508c3f7e2a72bc295533eb66d5c7315a9eba284559a6",
+    "score": 92.635506,
+    "link": "https://github.com/neutrinolabs/xrdp/issues/262",
+    "source": "github",
+    "origin_doc_id": "85544149528d5e2100b516a4dfb038e32c3b9e7f4b9ed2555b8e049c446a68d9",
+    "snippet": "XRDP-sesman[31377] notice: pam_unix(xrdp-sesman:auth): authentication failure; logname= uid=0 euid=0 tty=xrdp-sesman ruser= rhost=  user=user1"
+  }
+]

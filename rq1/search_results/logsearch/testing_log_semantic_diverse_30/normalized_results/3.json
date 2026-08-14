@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_f74716a0c7ebd88d442fecdb07a2ae1694956b8ed82822965cd6044722b04c5f",
+    "score": 94.53656,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2577",
+    "source": "jira",
+    "origin_doc_id": "960ab4d84b5ad0971d6a6f9ab4284160a542c5bf0de51213db06e14c562cbde6",
+    "snippet": "2016-09-13 05:09:25,416 [myid:] - INFO  [main:QuorumPeerTestBase$MainThread@131] - id = 1 tmpDir = /home/jenkins/jenkins-slave/workspace/ZooKeeper-trunk-openjdk7/build/test/tmp/test1768888919429940621.junit.dir clientPort = 13918 adminServerPort = 8080"
+  },
+  {
+    "rank": 2,
+    "id": "msg_a70233333a42e67ace5471ea142058afcef84c7eb1e2b7f068b84f6768422d96",
+    "score": 93.93867,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2499",
+    "source": "jira",
+    "origin_doc_id": "30eda5a9c12fa67903ac98df58e6f91b4c8a3f2ae6ffe5fd74dfd80018a74e36",
+    "snippet": "2016-08-03 05:33:41,647 [myid:] - INFO  [main:QuorumPeerTestBase$MainThread@131] - id = 1 tmpDir = /home/jenkins/jenkins-slave/workspace/PreCommit-ZOOKEEPER-Build/trunk/build/test/tmp/test5311610672905591522.junit.dir clientPort = -1 adminServerPort = 8080"
+  },
+  {
+    "rank": 3,
+    "id": "msg_1f19b986fe2d1664ef7519ed7798790178e78c9e85889fbdc8aa99394c1e8ca5",
+    "score": 93.93867,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2499",
+    "source": "jira",
+    "origin_doc_id": "30eda5a9c12fa67903ac98df58e6f91b4c8a3f2ae6ffe5fd74dfd80018a74e36",
+    "snippet": "2016-08-03 05:33:44,737 [myid:] - INFO  [main:QuorumPeerTestBase$MainThread@131] - id = -1 tmpDir = /home/jenkins/jenkins-slave/workspace/PreCommit-ZOOKEEPER-Build/trunk/build/test/tmp/test1220380102294608498.junit.dir clientPort = -1 adminServerPort = 8080"
+  },
+  {
+    "rank": 4,
+    "id": "msg_60bce5ba1db5012ae735bcb3dafa51dd39459f57be5df0fce856b11cbd7385d4",
+    "score": 92.6903,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2499",
+    "source": "jira",
+    "origin_doc_id": "30eda5a9c12fa67903ac98df58e6f91b4c8a3f2ae6ffe5fd74dfd80018a74e36",
+    "snippet": "2016-08-03 05:33:41,641 [myid:] - INFO  [main:QuorumPeerTestBase$MainThread@131] - id = 0 tmpDir = /home/jenkins/jenkins-slave/workspace/PreCommit-ZOOKEEPER-Build/trunk/build/test/tmp/test8166855371662584608.junit.dir clientPort = -1 adminServerPort = 8080"
+  },
+  {
+    "rank": 5,
+    "id": "msg_34d42ecf1b3fd3cd4bb2d53c21c8280450ac33a81637bdc81a2060a2a9ac3a3a",
+    "score": 92.6903,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2499",
+    "source": "jira",
+    "origin_doc_id": "30eda5a9c12fa67903ac98df58e6f91b4c8a3f2ae6ffe5fd74dfd80018a74e36",
+    "snippet": "2016-08-03 05:33:41,648 [myid:] - INFO  [main:QuorumPeerTestBase$MainThread@131] - id = 2 tmpDir = /home/jenkins/jenkins-slave/workspace/PreCommit-ZOOKEEPER-Build/trunk/build/test/tmp/test4754133370740902988.junit.dir clientPort = -1 adminServerPort = 8080"
+  },
+  {
+    "rank": 6,
+    "id": "msg_671a7369f9a6dec66ccb54a61a95e72286c277747812187e18e9bc42896b5a35",
+    "score": 92.42651,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,262 [myid:] - INFO  [Time-limited test:QuorumPeerTestBase$MainThread@131] - id = 1 tmpDir = /home/jenkins/jenkins-slave/workspace/ZooKeeper-trunk/trunk/build/test/tmp/test7260737707555606353.junit.dir clientPort = 11225 adminServerPort = 8080"
+  },
+  {
+    "rank": 7,
+    "id": "msg_6db64b534175caf30befdafd8280227ef759d69f38c91f2a85389e23e61f453d",
+    "score": 90.35722,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2577",
+    "source": "jira",
+    "origin_doc_id": "960ab4d84b5ad0971d6a6f9ab4284160a542c5bf0de51213db06e14c562cbde6",
+    "snippet": "2016-09-13 05:09:25,406 [myid:] - INFO  [main:QuorumPeerTestBase$MainThread@131] - id = 0 tmpDir = /home/jenkins/jenkins-slave/workspace/ZooKeeper-trunk-openjdk7/build/test/tmp/test8397079557861207505.junit.dir clientPort = 13915 adminServerPort = 8080"
+  },
+  {
+    "rank": 8,
+    "id": "msg_e973ff613d1e9ac340ba58d98c50ec9e187403071d088fb6e9f0ae5d540c336d",
+    "score": 90.35722,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2577",
+    "source": "jira",
+    "origin_doc_id": "960ab4d84b5ad0971d6a6f9ab4284160a542c5bf0de51213db06e14c562cbde6",
+    "snippet": "2016-09-13 05:09:25,420 [myid:] - INFO  [main:QuorumPeerTestBase$MainThread@131] - id = 2 tmpDir = /home/jenkins/jenkins-slave/workspace/ZooKeeper-trunk-openjdk7/build/test/tmp/test5455612786130415623.junit.dir clientPort = 13921 adminServerPort = 8080"
+  },
+  {
+    "rank": 9,
+    "id": "msg_dbde8cf79300a095f265f71875f4139f72e4d90504de6f29544e5befc56faec2",
+    "score": 88.325424,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,256 [myid:] - INFO  [Time-limited test:QuorumPeerTestBase$MainThread@131] - id = 0 tmpDir = /home/jenkins/jenkins-slave/workspace/ZooKeeper-trunk/trunk/build/test/tmp/test7330020881446886387.junit.dir clientPort = 11222 adminServerPort = 8080"
+  },
+  {
+    "rank": 10,
+    "id": "msg_e969b58a40fc3247082c69c29f65f0fd65a69c98a2780a918a4cffa508efce2d",
+    "score": 88.325424,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,267 [myid:] - INFO  [Time-limited test:QuorumPeerTestBase$MainThread@131] - id = 2 tmpDir = /home/jenkins/jenkins-slave/workspace/ZooKeeper-trunk/trunk/build/test/tmp/test1038022970424066351.junit.dir clientPort = 11228 adminServerPort = 8080"
+  }
+]

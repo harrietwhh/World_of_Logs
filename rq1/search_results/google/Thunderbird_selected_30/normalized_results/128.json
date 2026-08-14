@@ -1,0 +1,23 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Thunderbird/Thunderbird_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Thunderbird/Thunderbird_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Thunderbird",
+    "snippet": "... DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1. - 1131566525 2005.11.09 aadmin1 Nov 9 12:02:05 src@aadmin1 dhcpd: DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1.",
+    "snippet_highlighted_words": [
+      "DHCPDISCOVER from 00:11:43",
+      "e3",
+      "ba",
+      "c3 via eth1",
+      "DHCPDISCOVER from 00:11:43",
+      "e3",
+      "ba",
+      "c3 via eth1"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

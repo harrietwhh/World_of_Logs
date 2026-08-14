@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "\"reverse mapping checking getaddrinfo\" and \"POSSIBLE ...",
+    "link": "https://access.redhat.com/solutions/83933",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "\"reverse mapping checking getaddrinfo\" and \"POSSIBLE BREAK-IN ATTEMPT\" error messages via SSH. Solution Verified - Updated August 6 2024 at 8:22 ...",
+    "snippet_highlighted_words": [
+      "reverse mapping checking getaddrinfo\" and \"POSSIBLE BREAK-IN ATTEMPT\" error messages"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "reverse mapping checking getaddrinfo for XXXXXX failed",
+    "link": "https://serverfault.com/questions/876143/reverse-mapping-checking-getaddrinfo-for-xxxxxx-failed-possible-break-in-attem",
+    "displayed_link": "https://serverfault.com › questions › reverse-mapping-c...",
+    "snippet": "The typical reason you see that warning is that the reverse DNS record for an IP-address used to connect to your SSH server resolves to a hostname.",
+    "snippet_highlighted_words": [
+      "reverse DNS"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "How to disable the message \"reverse mapping checking ...",
+    "link": "https://superuser.com/questions/1149850/how-to-disable-the-message-reverse-mapping-checking-getaddrinfo-for-xxx-failed",
+    "displayed_link": "https://superuser.com › questions › how-to-disable-the-...",
+    "snippet": "How to disable the message \"reverse mapping checking getaddrinfo for xxx failed - POSSIBLE BREAK-IN ATTEMPT!\"? Ask Question. Asked 9 years, 4 ...",
+    "snippet_highlighted_words": [
+      "reverse mapping checking getaddrinfo",
+      "failed",
+      "POSSIBLE BREAK",
+      "ATTEMPT"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Why does auth.log warn of a possible break in attempt?",
+    "link": "https://askubuntu.com/questions/756581/why-does-auth-log-warn-of-a-possible-break-in-attempt",
+    "displayed_link": "https://askubuntu.com › questions › why-does-auth-log...",
+    "snippet": "XXX] failed - POSSIBLE BREAK IN ATTEMPT! What's causing ... Probably the reverse DNS record for the new IP does not match the hostname.",
+    "snippet_highlighted_words": [
+      "failed",
+      "POSSIBLE BREAK",
+      "ATTEMPT",
+      "reverse DNS"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Fix: “reverse mapping checking getaddrinfo” SSH error",
+    "link": "https://kodeslogic.medium.com/fix-reverse-mapping-checking-getaddrinfo-ssh-error-9980be9edb17",
+    "displayed_link": "5 years ago",
+    "snippet": "Symptoms. You may find that you are unable to access your cPanel/WHM server via SSH even though you are providing the correct credentials.",
+    "snippet_highlighted_words": [],
+    "source": "Medium · Kodeslogic Web Solutions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Logging In to a Linux Host Using SSH Prompts \"reverse ...",
+    "link": "https://community.oracle.com/customerconnect/discussion/627384/logging-in-to-a-linux-host-using-ssh-prompts-reverse-mapping-checking-getaddrinfo-failed-error",
+    "displayed_link": "https://community.oracle.com › discussion › logging-in...",
+    "snippet": "<named_reverse_zone_name> [host2 IP address] failed - POSSIBLE BREAK-IN ATTEMPT! This error is caused by the UseDNS option being configured on ...",
+    "snippet_highlighted_words": [
+      "failed",
+      "POSSIBLE BREAK",
+      "ATTEMPT"
+    ],
+    "source": "Oracle Communities",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "\"reverse mapping checking getaddrinfo\" SSH error",
+    "link": "https://support.cpanel.net/hc/en-us/articles/360059685173--reverse-mapping-checking-getaddrinfo-SSH-error",
+    "displayed_link": "https://support.cpanel.net › en-us › articles › 36005968...",
+    "snippet": "Symptoms. You may find that you are unable to access your server via SSH even though you are providing the correct credentials.",
+    "snippet_highlighted_words": [],
+    "source": "cPanel",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Solved: SSH Reverse Lookup Errors",
+    "link": "https://community.hpe.com/t5/operating-system-linux/ssh-reverse-lookup-errors/td-p/4920171",
+    "displayed_link": "https://community.hpe.com › td-p",
+    "snippet": "alchemetrics.local failed - POSSIBLE BREAKIN ATTEMPT! However, when I try to reverse map that same address on the command line, it works fine:",
+    "snippet_highlighted_words": [
+      "failed",
+      "POSSIBLE BREAKIN ATTEMPT",
+      "reverse map"
+    ],
+    "source": "Hewlett Packard Enterprise Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "SSHD Reverse mapping checking \"getaddrinfo\"",
+    "link": "https://bbs.archlinux.org/viewtopic.php?id=177528",
+    "displayed_link": "https://bbs.archlinux.org › viewtopic",
+    "snippet": "I've been seeing this a lot in my logs, but none since I setup my firewall, fail2ban and sshguard. Just curious as to what this is, ...",
+    "snippet_highlighted_words": [],
+    "source": "Arch Linux Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "[Algorithm] Parallelize Drain pre-processing and maintain state ...",
+    "link": "https://github.com/SkyAPM/aiops-engine-for-skywalking/issues/10",
+    "displayed_link": "https://github.com › aiops-engine-for-skywalking › issues",
+    "snippet": "Dec 10 06:55:46 LabSZ sshd[24200]: reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT! to",
+    "snippet_highlighted_words": [
+      "reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

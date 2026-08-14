@@ -1,0 +1,29 @@
+{
+  "case_id": "12",
+  "summary_raw": "[\"Fan speeds\"]",
+  "summary_items": [
+    "Fan speeds"
+  ],
+  "group_logs_lines": [
+    "switch_module fan 1121579712 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579707 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579701 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579676 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579662 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579653 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579631 1 Fan speeds ( 3552 3534 3375 4500 3515 3479 )",
+    "switch_module fan 1121579609 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579608 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579607 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579600 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579598 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579596 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579594 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579587 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579585 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579583 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579576 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579570 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",
+    "switch_module fan 1121579564 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )"
+  ]
+}

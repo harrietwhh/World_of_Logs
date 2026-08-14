@@ -1,0 +1,7 @@
+{
+  "case_id": "70",
+  "case_input": "retrieval_results/query_group_logs/spark_intermediate_group_logs/case_70_group_logs/case_input.json",
+  "retrieved_candidates": "retrieval_results/query_group_logs/spark_intermediate_group_logs/case_70_group_logs/retrieved_candidates.json",
+  "response": "Filtered Relevant Items:\n1. [7] Simple RDD jobs take very long time to finish\n\nExternal Knowledge Summary:\n- PySpark task latency can be dominated by Python worker startup, visible in `PythonRunner` as high `boot` time.\n- In the retrieved example, Scala completed quickly while PySpark was slow because Python boot times reached hundreds or thousands of milliseconds.\n- The present log’s PythonRunner times are only about 39–41 ms total, with 32–33 ms boot time, so the retrieved example provides context but does not show a closely matching slowdown.",
+  "external_knowledge_summary": "- PySpark task latency can be dominated by Python worker startup, visible in `PythonRunner` as high `boot` time.\n- In the retrieved example, Scala completed quickly while PySpark was slow because Python boot times reached hundreds or thousands of milliseconds.\n- The present log’s PythonRunner times are only about 39–41 ms total, with 32–33 ms boot time, so the retrieved example provides context but does not show a closely matching slowdown."
+}

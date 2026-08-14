@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_0c067426f5f048494d3e282a52880fa9de16299c25abf0376c69709d9743399b",
+    "score": 55.229687,
+    "link": "https://github.com/gravitational/teleport/issues/3245",
+    "source": "github",
+    "origin_doc_id": "ecd525589e8e69c7b55f2cf874558488532e776cb42809e6ca7178adb5ae4b1b",
+    "snippet": "teleport: pam_loginuid(sshd:session): Error writing /proc/self/loginuid: Operation not permitted \n teleport: pam_loginuid(sshd:session): set_loginuid failed \n teleport: pam_unix(sshd:session): session opened for user root by (uid=0) \n systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0) \n systemd: pam_unix(systemd-user:session): session closed for user root \nteleport: pam_loginuid(sshd:session): Error writing /proc/self/loginuid: Operation not permitted\nteleport: pam_loginuid(sshd:session): set_loginuid failed\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session closed for user root\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session closed for user root\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nteleport: pam_loginuid(sshd:session): Error writing /proc/self/loginuid: Operation not permitted\nteleport: pam_loginuid(sshd:session): set_loginuid failed\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session closed for user root\n```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_0f82a3265ca96118cadb86d1560003e9737878127a1a166938cac6bb1b5118af",
+    "score": 51.630733,
+    "link": "https://github.com/nstinus/nordvpn/issues/27",
+    "source": "github",
+    "origin_doc_id": "a8b8aa64941ebc4af4cabc735f1fc9585efb6f908ab1f9705a887d117e0cd831",
+    "snippet": "pam_unix(sudo:session): session opened for user root by (uid=0) \n --: pam_unix(sudo:session): session closed for user root \n --: stupidme : TTY=pts/1 ; PWD=/home/stupidme ; USER=root ; COMMAND=/usr/bin/nordvpn\npam_unix(sudo:session): session opened for user root by (uid=0) \n --: pam_unix(sudo:session): session closed for user root"
+  },
+  {
+    "rank": 3,
+    "id": "msg_6282f415920970c93ecd0f685a7ceb8caf7226ac21c51e56c28542cc453d8049",
+    "score": 50.38053,
+    "link": "https://github.com/luisiam/homebridge-cmdswitch2/issues/60",
+    "source": "github",
+    "origin_doc_id": "a213ba665f098e8f2654e88bce5a195c55ff1190701462ef3d72e5bb3f313ca4",
+    "snippet": "pam_unix(sudo:session): session opened for user root by (uid=0) \n pam_unix(sudo:session): session closed for user root \n homebridge : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/bin/lsblk \n pam_unix(sudo:session): session opened for user root by (uid=0) \n pam_unix(sudo:session): session closed for user root \n homebridge : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/bin/ps4-waker search"
+  },
+  {
+    "rank": 4,
+    "id": "msg_c0004f8b91a011ca8e22a4875809fd5b326b58bd1f7092e016e492e40ad21fcc",
+    "score": 49.867588,
+    "link": "https://github.com/microsoft/OMS-Agent-for-Linux/issues/1004",
+    "source": "github",
+    "origin_doc_id": "695b7754d4533e3db5619b2d73ecc901d1d38419e60bcdc5be31569f70a6f883",
+    "snippet": "pam_unix(sudo:session): session opened for user root by (uid=0) \n   pam_unix(sudo:session): session closed for user root"
+  },
+  {
+    "rank": 5,
+    "id": "msg_2c9df9e5cbdb5dcfe396b60fa921aa9fce8f9f025560969831f17a988dc3dc30",
+    "score": 49.648476,
+    "link": "https://github.com/logstash-plugins/logstash-output-syslog/pull/49",
+    "source": "github",
+    "origin_doc_id": "627e397b256c5d2c82ab6f30be929efead9d2ee662da93f03ddcb84e275767fa",
+    "snippet": "Description: 'PAM: Ignoring Annoying Ubuntu/debian cron login events.' \n <13>Jan 30 17:17:01 127.0.0.1 CRON[13212]: pam_unix(cron:session): session opened for user root by (uid=0) \n**Phase 1: Completed pre-decoding. \n        full event: '<13>Jan 30 17:17:01 127.0.0.1 CRON[13212]: pam_unix(cron:session): session opened for user root by (uid=0)' \n        timestamp: '(null)' \n        hostname: 'logserver01' \n        program_name: '(null)' \n        log: '<13>Jan 30 17:17:01 127.0.0.1 CRON[13212]: pam_unix(cron:session): session opened for user root by (uid=0)' \n **Phase 2: Completed decoding. \n        No decoder matched."
+  },
+  {
+    "rank": 6,
+    "id": "msg_1a09f46a4c2b47363acffe5ef5a9c2c4da07137b1dd35fe77f9f99715ad3d218",
+    "score": 49.57538,
+    "link": "https://github.com/boltgolt/howdy/issues/179",
+    "source": "github",
+    "origin_doc_id": "0e42a1b8a9134593d278865ddb4ebbcfa6475cd560dcbe69ef8738af18f913ed",
+    "snippet": "Apr  1 10:25:01 username_2 CRON[11487]: pam_unix(cron:session): session opened for user root by (uid=0)\nApr  1 10:25:01 username_2 CRON[11487]: pam_unix(cron:session): session closed for user root\nApr  1 10:27:02 username_2 CRON[600]: pam_unix(cron:session): session opened for user daemon by (uid=0)\nApr  1 10:27:02 username_2 CRON[600]: pam_unix(cron:session): session closed for user daemon\nApr  1 10:30:01 username_2 CRON[724]: pam_unix(cron:session): session opened for user root by (uid=0)\nApr  1 10:30:01 username_2 CRON[724]: pam_unix(cron:session): session closed for user root\nApr  1 10:35:01 username_2 CRON[22309]: pam_unix(cron:session): session opened for user root by (uid=0)\nApr  1 10:35:01 username_2 CRON[22309]: pam_unix(cron:session): session closed for user root\nApr  1 10:39:01 username_2 CRON[806]: pam_unix(cron:session): session opened for user root by (uid=0)\nApr  1 10:39:01 username_2 CRON[806]: pam_unix(cron:session): session closed for user root"
+  },
+  {
+    "rank": 7,
+    "id": "msg_031b3d1295aa5faf17a393f74ae334d3309a9ca199669ec911242b345b021e61",
+    "score": 48.81303,
+    "link": "https://stackoverflow.com/questions/18263186",
+    "source": "so",
+    "origin_doc_id": "c87a14a2b9a92999b630bd42fc6afa6745b6974d53281839f8047cad6effd6ac",
+    "snippet": "raspberrypi sshd[2077]: Accepted password for pi from 192.168.0.3 port 47018 ssh2\nraspberrypi sshd[2077]: pam_unix(sshd:session): session opened for user pi by (uid=0)\nraspberrypi CRON[2183]: pam_unix(cron:session): session opened for user root by (uid=0)\nraspberrypi CRON[2183]: pam_unix(cron:session): session closed for user root\nraspberrypi sshd[2191]: Accepted password for pi from 192.168.0.3 port 47125 ssh2\nraspberrypi sshd[2191]: pam_unix(sshd:session): session opened for user pi by (uid=0)\nraspberrypi sshd[2198]: subsystem request for sftp by user pi\nraspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/mount -t ntfs-3g -o rw,uid=pi,gid=pi /dev/sda1 /mnt/book/\nraspberrypi sudo: pam_unix(sudo:session): session opened for user root by pi(uid=0)\nraspberrypi sudo: pam_unix(sudo:session): session closed for user root"
+  },
+  {
+    "rank": 8,
+    "id": "msg_b4d73b973062d61e9b49b27a0dc8d9c883207ad9e9e9e48c80e6a710635665b5",
+    "score": 48.52817,
+    "link": "https://github.com/espidev/ebackup/issues/3",
+    "source": "github",
+    "origin_doc_id": "fb8aaf6467bf4f5e59d6c89468932cb44df5a76b30e672e6d88b6796ca92809d",
+    "snippet": "ok here: \n Feb 16 00:17:01 broyojo-X10SAE CRON[10482]: pam_unix(cron:session): session opened for user root by (uid=0) \n Feb 16 00:17:01 broyojo-X10SAE CRON[10482]: pam_unix(cron:session): session closed for user root \n Feb 16 01:01:30 broyojo-X10SAE sudo:  broyojo : TTY=unknown ; PWD=/home/broyojo ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/checkAPT.py \n Feb 16 01:01:30 broyojo-X10SAE sudo: pam_unix(sudo:session): session opened for user root by (uid=0) \n Feb 16 01:01:36 broyojo-X10SAE sudo: pam_unix(sudo:session): session closed for user root \n Feb 16 01:10:51 broyojo-X10SAE cinnamon-screensaver-pam-helper: gkr-pam: unlocked login keyring \n Feb 16 01:17:01 broyojo-X10SAE CRON[13667]: pam_unix(cron:session): session opened for user root by (uid=0) \n Feb 16 01:17:02 broyojo-X10SAE CRON[13667]: pam_unix(cron:session): session closed for user root \n Feb 16 02:17:02 broyojo-X10SAE CRON[15474]: pam_unix(cron:session): session opened for user root by (uid=0) \nFeb 16 02:17:02 broyojo-X10SAE CRON[15474]: pam_unix(cron:session): session closed for user root\nFeb 16 03:01:30 broyojo-X10SAE sudo:  broyojo : TTY=unknown ; PWD=/home/broyojo ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/checkAPT.py\nFeb 16 03:01:30 broyojo-X10SAE sudo: pam_unix(sudo:session): session opened for user root by (uid=0)\nFeb 16 03:01:35 broyojo-X10SAE sudo: pam_unix(sudo:session): session closed for user root\nFeb 16 03:17:01 broyojo-X10SAE CRON[17840]: pam_unix(cron:session): session opened for user root by (uid=0)\nFeb 16 03:17:01 broyojo-X10SAE CRON[17840]: pam_unix(cron:session): session closed for user root\nFeb 16 04:17:01 broyojo-X10SAE CRON[19481]: pam_unix(cron:session): session opened for user root by (uid=0)\nFeb 16 04:17:01 broyojo-X10SAE CRON[19481]: pam_unix(cron:session): session closed for user root\nFeb 16 05:01:30 broyojo-X10SAE sudo:  broyojo : TTY=unknown ; PWD=/home/broyojo ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/checkAPT.py\nFeb 16 05:01:30 broyojo-X10SAE sudo: pam_unix(sudo:session): session opened for user root by (uid=0)\nFeb 16 05:01:33 broyojo-X10SAE sudo: pam_unix(sudo:session): session closed for user root\nFeb 16 05:17:01 broyojo-X10SAE CRON[21832]: pam_unix(cron:session): session opened for user root by (uid=0)\nFeb 16 05:17:01 broyojo-X10SAE CRON[21832]: pam_unix(cron:session): session closed for user root\nFeb 16 06:17:01 broyojo-X10SAE CRON[23542]: pam_unix(cron:session): session opened for user root by (uid=0)\nFeb 16 06:17:01 broyojo-X10SAE CRON[23542]: pam_unix(cron:session): session closed for user root\nFeb 16 06:25:01 broyojo-X10SAE CRON[23755]: pam_unix(cron:session): session opened for user root by (uid=0)\nFeb 16 06:25:01 broyojo-X10SAE CRON[23755]: pam_unix(cron:session): session closed for user root\nFeb 16 06:47:01 broyojo-X10SAE CRON[24345]: pam_unix(cron:session): session opened for user root by (uid=0)\nFeb 16 06:47:01 broyojo-X10SAE CRON[24345]: pam_unix(cron:session): session closed for user root\nFeb 16 07:01:30 broyojo-X10SAE sudo:  broyojo : TTY=unknown ; PWD=/home/broyojo ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/checkAPT.py\nFeb 16 07:01:30 broyojo-X10SAE sudo: pam_unix(sudo:session): session opened for user root by (uid=0)\nFeb 16 07:01:36 broyojo-X10SAE sudo: pam_unix(sudo:session): session closed for user root\nFeb 16 07:17:01 broyojo-X10SAE CRON[25877]: pam_unix(cron:session): session opened for user root by (uid=0)\nFeb 16 07:17:01 broyojo-X10SAE CRON[25877]: pam_unix(cron:session): session closed for user root\nFeb 16 07:30:01 broyojo-X10SAE CRON[26241]: pam_unix(cron:session): session opened for user root by (uid=0)\nFeb 16 07:30:01 broyojo-X10SAE CRON[26241]: pam_unix(cron:session): session closed for user root\nFeb 16 08:17:01 broyojo-X10SAE CRON[27503]: pam_unix(cron:session): session opened for user root by (uid=0)\nFeb 16 08:17:01 broyojo-X10SAE CRON[27503]: pam_unix(cron:session): session closed for user root\nFeb 16 08:40:28 broyojo-X10SAE cinnamon-screensaver-pam-helper: gkr-pam: unlocked login keyring"
+  },
+  {
+    "rank": 9,
+    "id": "msg_207d9d2ccc1d75ec478215a848093cb259faef0bd2f2521c375d04197000311a",
+    "score": 47.563976,
+    "link": "https://github.com/antirez/redis/issues/2885",
+    "source": "github",
+    "origin_doc_id": "98b6fc8bc35b00e2ee88c09d05b0534004ef9e30345949d49dc7d8863b11f4c6",
+    "snippet": "root@host [~/support/619105]# cat /var/log/secure-20151122 \n Nov 15 18:00:42 host atd[22113]: pam_unix(atd:session): session opened for user root by (uid=0) \n Nov 15 18:01:13 host atd[22113]: pam_unix(atd:session): session closed for user root \n Nov 16 18:01:13 host atd[19945]: pam_unix(atd:session): session opened for user root by (uid=0) \nNov 16 18:01:35 host atd[19945]: pam_unix(atd:session): session closed for user root\nNov 17 18:01:35 host atd[15783]: pam_unix(atd:session): session opened for user root by (uid=0)\nNov 17 18:02:34 host atd[15783]: pam_unix(atd:session): session closed for user root\nNov 18 18:02:34 host atd[16106]: pam_unix(atd:session): session opened for user root by (uid=0)\nNov 18 18:02:51 host atd[16106]: pam_unix(atd:session): session closed for user root\nNov 19 18:02:51 host atd[11115]: pam_unix(atd:session): session opened for user root by (uid=0)\nNov 19 18:03:17 host atd[11115]: pam_unix(atd:session): session closed for user root\nNov 20 18:03:17 host atd[3785]: pam_unix(atd:session): session opened for user root by (uid=0)\nNov 20 18:03:43 host atd[3785]: pam_unix(atd:session): session closed for user root\nNov 20 22:41:42 host sshd[7513]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=94.103.175.86 user=root\nNov 20 22:41:44 host sshd[7513]: Failed password for root from 192.168.3.11 port 44296 ssh2\nNov 20 22:41:49 host sshd[7515]: Accepted publickey for root from 192.168.3.11 port 51922 ssh2\nNov 20 22:41:49 host sshd[7515]: pam_unix(sshd:session): session opened for user root by (uid=0)\nNov 20 22:41:50 host useradd[7526]: new user: name=syss, UID=0, GID=0, home=/var/lib, shell=/bin/bash\nNov 20 22:41:55 host sshd[7515]: pam_unix(sshd:session): session closed for user root\nNov 20 22:41:55 host sshd[7514]: Connection closed by 192.168.3.11\nNov 21 18:03:43 host atd[28315]: pam_unix(atd:session): session opened for user root by (uid=0)\nNov 21 18:04:13 host atd[28315]: pam_unix(atd:session): session closed for user root"
+  },
+  {
+    "rank": 10,
+    "id": "msg_e6f775c6998a1cd312e0118cf443d5cf8e4737dba7eb46039c1337b1e82fb11b",
+    "score": 47.10597,
+    "link": "https://github.com/boltgolt/howdy/issues/148",
+    "source": "github",
+    "origin_doc_id": "d3b0541691e756a4522bf3492727dd6fef26e38b429a94a3b8b78c7bbc416a0b",
+    "snippet": "Feb 14 16:29:01 Stahlhand sudo:     root : TTY=tty4 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/timeout 1 loginctl unlock-sessions --no-ask-password \n Feb 14 16:29:01 Stahlhand sudo: pam_unix(sudo:session): session opened for user root by LOGIN(uid=0) \n Feb 14 16:29:01 Stahlhand sudo: pam_unix(sudo:session): session closed for user root \n Feb 14 16:29:01 Stahlhand login[25765]: pam_unix(login:session): session opened for user tim by LOGIN(uid=0) \nFeb 14 16:29:01 Stahlhand systemd-logind[915]: New session 26 of user tim. \n Feb 14 16:29:01 Stahlhand login[25765]: pam_unix(login:session): session closed for user tim \n Feb 14 16:29:01 Stahlhand systemd-logind[915]: Session 26 logged out. Waiting for processes to exit. \n Feb 14 16:29:01 Stahlhand systemd-logind[915]: Removed session 26."
+  }
+]

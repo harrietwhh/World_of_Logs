@@ -1,0 +1,23 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Flaky test: AtomApplication command-line interface ...",
+    "link": "https://github.com/atom/atom/issues/19512",
+    "displayed_link": "https://github.com › atom › atom › issues",
+    "snippet": "This test sometimes fails: 1) AtomApplication command-line interface behavior atom:// URLs with a \"core\" host sends a URI message to the most ...",
+    "snippet_highlighted_words": [
+      "1",
+      "AtomApplication command",
+      "line interface behavior atom",
+      "URLs",
+      "core",
+      "host sends",
+      "URI message",
+      "most"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

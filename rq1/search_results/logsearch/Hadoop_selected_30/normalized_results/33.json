@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_9bc9c46e4a348d12d0b9c10170022ae99d176f841742a3bbffb9027593fef5c1",
+    "score": 40.244297,
+    "link": "https://issues.apache.org/jira/browse/TEZ-2460",
+    "source": "jira",
+    "origin_doc_id": "0b621b5f484663f5f6d6b2fc7688351df31fc6f6e3ea4e5e0b2b32785456be92",
+    "snippet": "2015-05-18 16:57:50,178 INFO [IPC Server Responder] ipc.Server: IPC Server Responder: starting"
+  },
+  {
+    "rank": 2,
+    "id": "msg_c612d52a8028faab468785e348e2b9f733289c6bd05dbbc6bd0fdd01aaae3dd3",
+    "score": 40.244297,
+    "link": "https://issues.apache.org/jira/browse/TEZ-2460",
+    "source": "jira",
+    "origin_doc_id": "0b621b5f484663f5f6d6b2fc7688351df31fc6f6e3ea4e5e0b2b32785456be92",
+    "snippet": "2015-05-18 16:57:50,186 INFO [IPC Server Responder] ipc.Server: IPC Server Responder: starting"
+  },
+  {
+    "rank": 3,
+    "id": "msg_28099a224cb3910ae04145777871140275cd60ae2fb534fb0a44eecf8ce8479b",
+    "score": 40.244297,
+    "link": "https://issues.apache.org/jira/browse/YARN-3642",
+    "source": "jira",
+    "origin_doc_id": "052e0e9f67d533894db9baa647b077bf184ca2992c6c8bb6ec85ed1324dfcb78",
+    "snippet": "2015-05-13 17:49:34,660 INFO [IPC Server Responder] org.apache.hadoop.ipc.Server: IPC Server Responder: starting"
+  },
+  {
+    "rank": 4,
+    "id": "msg_6e13ff56b94f5090afe544934c9d0c0ef33fd8a210a6f7c79511226164312eab",
+    "score": 40.244297,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:27,779 INFO [IPC Server Responder] org.apache.hadoop.ipc.Server: IPC Server Responder: starting"
+  },
+  {
+    "rank": 5,
+    "id": "msg_155d59657a25ed444431e00cada5ba77d81ecb7b7726235e3df55434351fa34b",
+    "score": 40.244297,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "source": "jira",
+    "origin_doc_id": "999b470cd03df49a06c81efeec1f8a2830da4faca4f45c35a60507bf7b417031",
+    "snippet": "2016-07-20 17:57:28,502 INFO [IPC Server Responder] org.apache.hadoop.ipc.Server: IPC Server Responder: starting"
+  },
+  {
+    "rank": 6,
+    "id": "msg_b9219f85757405bd37be3fc33a8b3d5042a96bfc814c69fd706260598fbf3214",
+    "score": 40.244297,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:47,942 INFO [IPC Server Responder] org.apache.hadoop.ipc.Server: IPC Server Responder: starting"
+  },
+  {
+    "rank": 7,
+    "id": "msg_7a813d5ed3d020374340b9c0b87bb46ff425a5ae5203766e3ebe93374cb4ed8b",
+    "score": 40.244297,
+    "link": "https://issues.apache.org/jira/browse/YARN-9690",
+    "source": "jira",
+    "origin_doc_id": "9ab7dd0ab0200d3015132337b55f26d3899f1790050230d09cc61ad938788373",
+    "snippet": "2019-07-26 16:47:48,733 INFO [IPC Server Responder] org.apache.hadoop.ipc.Server: IPC Server Responder: starting"
+  },
+  {
+    "rank": 8,
+    "id": "msg_af7bc2d5d657cad328fb38157a9fa4cf7216c31912ffa72f98131086bb98845c",
+    "score": 40.244297,
+    "link": "https://issues.apache.org/jira/browse/YARN-7884",
+    "source": "jira",
+    "origin_doc_id": "9b569572609e2e13a16dc462ef7ce1439532d940d677fee2fdaedd41454921ff",
+    "snippet": "2018-02-02 22:53:30,606 [IPC Server Responder] INFO  ipc.Server - IPC Server Responder: starting"
+  },
+  {
+    "rank": 9,
+    "id": "msg_098bf4f3298e53ac1e50df0eabb37cc08d41ab7ab81923556321167e99839d0f",
+    "score": 40.244297,
+    "link": "https://issues.apache.org/jira/browse/HIVE-12810",
+    "source": "jira",
+    "origin_doc_id": "1b46e2b8c97e6af691aff409bee8984507bd35ebfe7bdbe53e4e17f2b79104aa",
+    "snippet": "2016-01-08 09:26:09,228 INFO [IPC Server Responder] ipc.Server: IPC Server Responder: starting"
+  },
+  {
+    "rank": 10,
+    "id": "msg_73991a1dc86712fb5c7529e29678fc98ba839309196a1c6e1e15999e6e5a1057",
+    "score": 40.244297,
+    "link": "https://issues.apache.org/jira/browse/HIVE-12810",
+    "source": "jira",
+    "origin_doc_id": "1b46e2b8c97e6af691aff409bee8984507bd35ebfe7bdbe53e4e17f2b79104aa",
+    "snippet": "2016-01-08 09:26:09,253 INFO [IPC Server Responder] ipc.Server: IPC Server Responder: starting"
+  }
+]

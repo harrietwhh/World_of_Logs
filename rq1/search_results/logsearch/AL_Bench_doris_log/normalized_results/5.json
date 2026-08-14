@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_3eca0018d3babaf69e7ba1c838a469055b78b0421bcb3d105bb093366f34a33f",
+    "score": 25.898262,
+    "link": "https://stackoverflow.com/questions/78546439",
+    "source": "so",
+    "origin_doc_id": "0093a4c4d7d20d2555a09ccaa21e170b11dcae1c0ec53e3b805ff3698cf0bd91",
+    "snippet": "log.warn(\"Unknown type\");\nlog.warn(\"Unknown type\");"
+  },
+  {
+    "rank": 2,
+    "id": "msg_8fb9f527b90d4ff605917e4e040e912b4e851b8ad71d3249b188e8b4117ffe10",
+    "score": 24.465605,
+    "link": "https://stackoverflow.com/questions/28116532",
+    "source": "so",
+    "origin_doc_id": "aa2beaf578d9c00370f538eba1d53bc199feb233c7d1ddc0b674ac5e858d2291",
+    "snippet": "Log.Warn( \n                 this + \" : unsupported IIndexable type : \" + indexable.GetType(), this);\nLog.Warn( \n                 this + \" : unsupported SitecoreIndexableItem type : \" + scIndexable.GetType(), this);"
+  },
+  {
+    "rank": 3,
+    "id": "msg_21c2f57bba4f3349b1a4946766ba2aad628183ee80f5de0712a948e93b6a23b7",
+    "score": 24.115921,
+    "link": "https://ecosystem.atlassian.net/browse/AO-3392",
+    "source": "jira",
+    "origin_doc_id": "ec8b840b872f85f9ea419b46387710e89603a79d77053afda01e4591446fe4d7",
+    "snippet": "log.warn(\"Results: \" + result);\n log.warn(type + \"s dropped\");"
+  },
+  {
+    "rank": 4,
+    "id": "msg_b0ea1e59cd7cbfc5e132f3696636a4d5af9ec465e17de826d4435084db7f1d1e",
+    "score": 23.262173,
+    "link": "https://issues.apache.org/jira/browse/OPENJPA-1789",
+    "source": "jira",
+    "origin_doc_id": "38a1931cc2aeb594995a63d6e945c8c2d082024eea27811f6c92bca8de9f8028",
+    "snippet": "log.warn(_loc.get(prefix + \"-incompat-col\", \n                             context, colName, Schemas.getJDBCName(type)));\nlog.warn(msg);"
+  },
+  {
+    "rank": 5,
+    "id": "msg_27047cc32192653762f446582a054f5851e35d235732a70ff7ab445a5123be20",
+    "score": 23.247997,
+    "link": "https://issues.apache.org/jira/browse/SOLR-4427",
+    "source": "jira",
+    "origin_doc_id": "c7f7d71db0db741a82a209c0de12f8decec0ca56fdf78b8cb628fe3f89b3ce15",
+    "snippet": "log.warn(\"Multiple plugins of type '\" + type + \"' found (\" + result.size() + \n           \") -"
+  },
+  {
+    "rank": 6,
+    "id": "msg_be1e03609a12cd75ecd2fb3a18e94116b1a092c3af99d6512cbb73b100a6e685",
+    "score": 23.183144,
+    "link": "https://issues.apache.org/jira/browse/SM-186",
+    "source": "jira",
+    "origin_doc_id": "c54dfcb7b916f96a4db53d106bfdc4b03d8a0b9eb1ee1254fd5863074cfec0b3",
+    "snippet": "log.warn(\"Unable to determine ComponentPacketEvent type: \" + event.getStatus() + \" for packet: \" \n                         + packet); \n    \n\n log.warn(\"Unable to determine ComponentPacketEvent type: \" + eventStatus + \" for packet: \" + packet); \n           \n\n //PS: END"
+  },
+  {
+    "rank": 7,
+    "id": "msg_2daf44b51702bdc96f7824f95bdb1e10cafc35239f48d5154fd99b4f023526d1",
+    "score": 23.026688,
+    "link": "https://stackoverflow.com/questions/78546439",
+    "source": "so",
+    "origin_doc_id": "0093a4c4d7d20d2555a09ccaa21e170b11dcae1c0ec53e3b805ff3698cf0bd91",
+    "snippet": "log.warn(\"Unknown type\");"
+  },
+  {
+    "rank": 8,
+    "id": "msg_551ce658649e7d65b62e816d3b8ce4b87904beb1344e7fb8dfee7075fa6fbadd",
+    "score": 23.019585,
+    "link": "https://github.com/seratch/jslack/issues/163",
+    "source": "github",
+    "origin_doc_id": "f12b3521c3db5818d5dcc2facac815e51f2d7034d5ae2b1d8b0d74a49de4115b",
+    "snippet": "log.warn(\"Unexpected request detected - Content-Type: {}\", req.getHeader(\"Content-Type\"));"
+  },
+  {
+    "rank": 9,
+    "id": "msg_2eae7b7466bc5249a4c6d1e17e2d6107fdd463e83007e0399a6b8f886b0c7aed",
+    "score": 23.019585,
+    "link": "https://stackoverflow.com/questions/58979586",
+    "source": "so",
+    "origin_doc_id": "a97187da82ab17b59ff79e908bd81764843a1c1f258246ff815298ece9a61f1f",
+    "snippet": "log.warn(\"Failed to find any documents of type $type\")"
+  },
+  {
+    "rank": 10,
+    "id": "msg_f8ab4693cb9760f4e30ba17b2225e35bdf3848fa3dbe17a7191743874be98403",
+    "score": 22.883265,
+    "link": "https://github.com/GMOD/Apollo/pull/1171",
+    "source": "github",
+    "origin_doc_id": "9195be80e7a769217d336c7abbd5aaaaf870e469c5884be39ba1929b1aac27f9",
+    "snippet": "log.warn \"No proper type for the CV is set ${propertyType as JSON}\"\nlog.warn \"No proper type for the CV is set ${propertyType as JSON}\" \n + **********"
+  }
+]

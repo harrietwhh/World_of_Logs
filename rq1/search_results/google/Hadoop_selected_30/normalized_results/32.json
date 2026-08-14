@@ -1,0 +1,35 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Hadoop/Hadoop_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Hadoop/Hadoop_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Hadoop",
+    "snippet": "... FNANLI5.fareast.corp.microsoft.com/10.86.169.121:62260. 2015-10-18 18:01 ... [MININT-FNANLI5.fareast.corp.microsoft.com:52368]. 2015-10-18 18:01:58,963 ...",
+    "snippet_highlighted_words": [
+      "10.86.169.121:62260",
+      "MININT",
+      "FNANLI5",
+      "fareast",
+      "corp",
+      "microsoft.com"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Aliph0th/logtheus-ml-ds · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/Aliph0th/logtheus-ml-ds/viewer/default/train?p=1",
+    "displayed_link": "https://huggingface.co › datasets › viewer › default › train",
+    "snippet": "... Created MRAppMaster for application ... MRClientService: Instantiated MRClientService at MININT-FNANLI5.fareast.corp.microsoft.com/10.86.169.121:62260.",
+    "snippet_highlighted_words": [
+      "Instantiated MRClientService at MININT-FNANLI5.fareast.corp.microsoft.com/10.86.169.121:62260"
+    ],
+    "source": "Hugging Face",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

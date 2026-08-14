@@ -1,0 +1,25 @@
+{
+  "mode": "csv_case",
+  "case_id": "46",
+  "query_source": "group_logs",
+  "query_count": 5,
+  "queries": [
+    "- proxy.cse.cuhk.edu.hk: 5070 open through proxy proxy.cse.cuhk.edu.hk: 5070 HTTPS",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 0 bytes sent, 0 bytes received, lifetime 00: 20",
+    "- long.weixin.qq.com: 8080 error: Could not connect through proxy proxy.cse.cuhk.edu.hk: 5070 - Proxy server cannot establish a connection with the target, status code 403",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 1406 bytes ( 1.37 KB ) sent, 411 bytes received, lifetime 00: 27",
+    "- proxy.cse.cuhk.edu.hk: 5070 close, 715 bytes sent, 4417 bytes ( 4.31 KB ) received, lifetime 00: 10"
+  ],
+  "log_message": "",
+  "cases_csv": "data/Proxifier.csv",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 31,
+  "retrieved_candidate_count": 31,
+  "output_dir": "proxifier_intermediate_group_logs/case_46_group_logs",
+  "generated_at_utc": "2026-03-23T00:50:04.794944+00:00"
+}

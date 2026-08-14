@@ -1,0 +1,146 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "dbora script not executing all startup processes",
+    "link": "https://forums.oracle.com/ords/apexds/post/dbora-script-not-executing-all-startup-processes-5193",
+    "displayed_link": "https://forums.oracle.com › ords › apexds › post › dbora-...",
+    "snippet": "The main problem I am having is that not all the process that need to be started are starting up. I've been messing around with the /etc/rc.d/init.d/rc.2..rc.3 ...",
+    "snippet_highlighted_words": [
+      "starting"
+    ],
+    "source": "Oracle Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Syslogd went bye bye. Will not start. | TrueNAS Community",
+    "link": "https://www.truenas.com/community/threads/syslogd-went-bye-bye-will-not-start.6985/",
+    "displayed_link": "https://www.truenas.com › ... › New to FreeNAS?",
+    "snippet": "So I've got FreeNAS 8.0.4 running on a box, syslog has gone away and will not start again. # /etc/rc.d/syslogd start",
+    "snippet_highlighted_words": [
+      "syslog has gone away and will not start again"
+    ],
+    "source": "truenas.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "syslogd does not start: timeout; how can I investigate this ...",
+    "link": "https://forums.opensuse.org/t/syslogd-does-not-start-timeout-how-can-i-investigate-this-further/119877",
+    "displayed_link": "https://forums.opensuse.org › English › Install/Boot/Login",
+    "snippet": "Jul 07 22:00:58 revue systemd[1]: syslogd.service: Failed with result 'timeout'. How can I research this further? It's a text-only Tumbleweed ...",
+    "snippet_highlighted_words": [
+      "syslogd",
+      "Failed"
+    ],
+    "source": "openSUSE Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Logs flooded with systemd messages: Created slice ...",
+    "link": "https://access.redhat.com/solutions/1564823",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Dec 01 14:14:18 r96 systemd[22233]: Started Mark boot as successful after the user session has run 2 minutes. Dec 01 14:14:18 r96 systemd ...",
+    "snippet_highlighted_words": [
+      "Started Mark boot as successful"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Cisco Secure Firewall ASA Series Syslog Messages",
+    "link": "https://www.cisco.com/c/en/us/td/docs/security/asa/syslog/asa-syslog/syslog-messages-722001-to-776020.html",
+    "displayed_link": "https://www.cisco.com › ... › Error and System Messages",
+    "snippet": "Explanation The service failed to start for a particular client of the EOBC RPC service on the server. Recommended Action Call the Cisco TAC. 743011. Error ...",
+    "snippet_highlighted_words": [
+      "failed"
+    ],
+    "source": "Cisco Systems",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "systemctl start syslog-ng error · Issue #3402",
+    "link": "https://github.com/syslog-ng/syslog-ng/issues/3402",
+    "displayed_link": "https://github.com › syslog-ng › syslog-ng › issues",
+    "snippet": "syslog-ng -s is not a problem, but the service cannot be started... what should i do? for your information, if i remove this part in the syslog-ng.conf file,",
+    "snippet_highlighted_words": [
+      "syslog",
+      "syslog"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "startup order",
+    "link": "https://forum.proxmox.com/threads/startup-order.1411/",
+    "displayed_link": "https://forum.proxmox.com › threads › startup-order",
+    "snippet": "The startup of the tomcat container ran fine until this migration and I get the same problem as mwixon : venet is started after tomcat causing ...",
+    "snippet_highlighted_words": [
+      "startup"
+    ],
+    "source": "Proxmox Support Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Solved - [help] syslogd does not start",
+    "link": "https://forums.freebsd.org/threads/help-syslogd-does-not-start.79250/",
+    "displayed_link": "https://forums.freebsd.org › Base System › General",
+    "snippet": "Some time after reboot, GH begins to wonder: \"why are the /var/log/messages not updated properly?\" GH checks service syslogd status : none, ...",
+    "snippet_highlighted_words": [
+      "syslogd"
+    ],
+    "source": "FreeBSD",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Configuring the syslog daemon",
+    "link": "https://www.ibm.com/docs/en/zos/2.5.0?topic=customization-configuring-syslog-daemon",
+    "displayed_link": "https://www.ibm.com › docs › zos",
+    "snippet": "The syslog daemon (syslogd) processing is controlled by a configuration file called /etc/syslog.conf, in which you define logging rules and output destinations.",
+    "snippet_highlighted_words": [
+      "syslog",
+      "syslogd",
+      "syslog"
+    ],
+    "source": "IBM",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Help with separating syslog messages. - Unix Linux Community",
+    "link": "https://community.unix.com/t/help-with-separating-syslog-messages/220987",
+    "displayed_link": "https://community.unix.com › help-with-separating-sysl...",
+    "snippet": "I have got syslog data on a linux server recording log messages from a device. I need to seperate the data from log to file so that I can push it excell and ...",
+    "snippet_highlighted_words": [
+      "syslog"
+    ],
+    "source": "Unix Linux Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

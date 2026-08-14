@@ -1,0 +1,457 @@
+[
+  {
+    "case_key": "HPC:1",
+    "project": "HPC",
+    "case_id": "1",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "HPC:4",
+    "project": "HPC",
+    "case_id": "4",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "HPC:10",
+    "project": "HPC",
+    "case_id": "10",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "HPC:12",
+    "project": "HPC",
+    "case_id": "12",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "HPC:18",
+    "project": "HPC",
+    "case_id": "18",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "HPC:29",
+    "project": "HPC",
+    "case_id": "29",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 4/5  \n\nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "HPC:52",
+    "project": "HPC",
+    "case_id": "52",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 4/5  \nSpecificity: 5/5  \nOverall: 4.5/5\n\nThe explanation accurately identifies the configured-out states, inconsistent nodeset masks, and earlier non-response signals while preserving uncertainty about the underlying failure. Its main weakness is implying that the non-responsive nodes were subsequently configured out, which is plausible but not proven, and prioritizing `node-95` and `node-127` as potentially unhealthy even though they are shown as nodeset reporters with `<ok>`, not explicitly as the non-responsive/configured-out nodes.",
+    "error": null
+  },
+  {
+    "case_key": "HPC:74",
+    "project": "HPC",
+    "case_id": "74",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "HPC:79",
+    "project": "HPC",
+    "case_id": "79",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "HPC:85",
+    "project": "HPC",
+    "case_id": "85",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "HPC:90",
+    "project": "HPC",
+    "case_id": "90",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "HPC:94",
+    "project": "HPC",
+    "case_id": "94",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "bgl:3",
+    "project": "bgl",
+    "case_id": "3",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5\n\nThe explanation is strongly grounded in the concrete `ciod` protocol errors, node numbers, tree addresses, message values, and repeated core generation. It appropriately states that the root cause is unclear and presents possible causes as hypotheses. Minor imprecision comes from treating the `core.<number>` suffixes definitively as process IDs and suggesting process termination; the logs confirm core generation but do not explicitly establish what those numbers represent or whether the processes terminated.",
+    "error": null
+  },
+  {
+    "case_key": "bgl:10",
+    "project": "bgl",
+    "case_id": "10",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 4.75/5",
+    "error": null
+  },
+  {
+    "case_key": "bgl:22",
+    "project": "bgl",
+    "case_id": "22",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "bgl:24",
+    "project": "bgl",
+    "case_id": "24",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "bgl:29",
+    "project": "bgl",
+    "case_id": "29",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "bgl:30",
+    "project": "bgl",
+    "case_id": "30",
+    "judge_response": "Correctness: 4/5  \nThe explanation is strongly grounded in the logs and appropriately states that the root cause is unclear. Minor imprecision: repeated messages do not definitively prove retries, and “nonfunctional” is somewhat stronger than the logged “not fully functional.”\n\nCompleteness: 5/5  \nIt covers the VPD mismatch, inaccessible U58 and U70 modules, LinkCard degradation, uncertainty, likely operational context, potential impact, and practical follow-up actions.\n\nHelpfulness: 5/5  \nThe response gives operators a clear inspection path: verify card identity, inspect seating and connections, check power/control paths and the backplane, refresh inventory if replacement was intentional, and escalate for hardware service.\n\nSpecificity: 5/5  \nIt cites the exact locations and components—U11/J15, U58, U70—and both ECID values, while recognizing the repeated HARDWARE SEVERE messages.\n\nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "bgl:39",
+    "project": "bgl",
+    "case_id": "39",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "bgl:43",
+    "project": "bgl",
+    "case_id": "43",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "bgl:46",
+    "project": "bgl",
+    "case_id": "46",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \n\nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "bgl:56",
+    "project": "bgl",
+    "case_id": "56",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "bgl:87",
+    "project": "bgl",
+    "case_id": "87",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "bgl:94",
+    "project": "bgl",
+    "case_id": "94",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "hdfs:1",
+    "project": "hdfs",
+    "case_id": "1",
+    "judge_response": "Correctness: 4/5  \nThe interpretation is strongly supported, though “read” activity is not directly shown, and not all transfers or block registrations can be definitively attributed to the identified MapReduce job.\n\nCompleteness: 5/5  \nIt covers block transfers, verification, allocation, replica registration, operational context, impact, and reasonable follow-up actions.\n\nHelpfulness: 5/5  \nIt clearly identifies the activity as routine, distinguishes successful signals from potential failure indicators, and gives practical monitoring guidance.\n\nSpecificity: 5/5  \nIt cites concrete block IDs, the 64 MiB size, port `50010`, scanner results, duplicate replica registration, task paths, and relevant HDFS components.\n\nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "hdfs:2",
+    "project": "hdfs",
+    "case_id": "2",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "hdfs:12",
+    "project": "hdfs",
+    "case_id": "12",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "hdfs:23",
+    "project": "hdfs",
+    "case_id": "23",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "hdfs:43",
+    "project": "hdfs",
+    "case_id": "43",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "hdfs:61",
+    "project": "hdfs",
+    "case_id": "61",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "hdfs:70",
+    "project": "hdfs",
+    "case_id": "70",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 4.75/5",
+    "error": null
+  },
+  {
+    "case_key": "hdfs:80",
+    "project": "hdfs",
+    "case_id": "80",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "hdfs:89",
+    "project": "hdfs",
+    "case_id": "89",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "proxifier:1",
+    "project": "proxifier",
+    "case_id": "1",
+    "judge_response": "Correctness: 4/5  \nThe interpretation is well supported overall, including the traffic totals and uncertainty around the zero-byte connection. However, `lifetime 00 : 01` more likely indicates approximately one second—not one minute—so that duration claim is questionable.\n\nCompleteness: 5/5  \nIt covers the repeated proxy connections, transfer behavior, likely request pattern, uncertainty, impact, and useful follow-up actions.\n\nHelpfulness: 5/5  \nIt correctly notes that these are connection lifecycle records rather than HTTP status/error logs and provides practical correlation and configuration checks.\n\nSpecificity: 5/5  \nIt cites the proxy hostname, port `5070`, HTTPS, aggregate traffic, sub-second lifetimes, zero-byte closure, and final unmatched opens.\n\nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "proxifier:2",
+    "project": "proxifier",
+    "case_id": "2",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "proxifier:26",
+    "project": "proxifier",
+    "case_id": "26",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "proxifier:32",
+    "project": "proxifier",
+    "case_id": "32",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5\n\nThe explanation is strongly grounded in the logs, appropriately preserves uncertainty, and provides useful follow-up actions. The only minor imprecision is saying successful sessions lasted “under two seconds,” since one session records a lifetime of `00:02`.",
+    "error": null
+  },
+  {
+    "case_key": "proxifier:43",
+    "project": "proxifier",
+    "case_id": "43",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "proxifier:46",
+    "project": "proxifier",
+    "case_id": "46",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "proxifier:60",
+    "project": "proxifier",
+    "case_id": "60",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \n\nOverall: 4.75/5\n\nThe explanation is strongly grounded in the logs and appropriately preserves uncertainty around the cancellations. Minor imprecision comes from describing the proxy session closures as “normal” and the events as occurring “at the same time,” neither of which is conclusively established without timestamps or closure-status details. These do not materially alter the interpretation.",
+    "error": null
+  },
+  {
+    "case_key": "proxifier:69",
+    "project": "proxifier",
+    "case_id": "69",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "proxifier:80",
+    "project": "proxifier",
+    "case_id": "80",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "proxifier:93",
+    "project": "proxifier",
+    "case_id": "93",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "spark:1",
+    "project": "spark",
+    "case_id": "1",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "spark:2",
+    "project": "spark",
+    "case_id": "2",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "spark:4",
+    "project": "spark",
+    "case_id": "4",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "spark:5",
+    "project": "spark",
+    "case_id": "5",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "spark:6",
+    "project": "spark",
+    "case_id": "6",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5\n\nThe explanation is strongly grounded in the logs and appropriately identifies this as normal Spark computation and caching rather than a failure. The only minor imprecision is that concurrent/interleaved logging prevents definitive mapping of every input split and `PythonRunner` timing record to each stored partition. The negative `boot` values are reasonably characterized as likely accounting artifacts, with suitable uncertainty.",
+    "error": null
+  },
+  {
+    "case_key": "spark:18",
+    "project": "spark",
+    "case_id": "18",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \n\nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "spark:40",
+    "project": "spark",
+    "case_id": "40",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5\n\nThe only minor issue is that “initialization completed successfully” is slightly stronger than the evidence: the logs confirm successful startup of multiple driver components and the Spark UI, but do not explicitly state that `SparkContext` initialization fully completed or that the application proceeded to job execution.",
+    "error": null
+  },
+  {
+    "case_key": "spark:50",
+    "project": "spark",
+    "case_id": "50",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "spark:60",
+    "project": "spark",
+    "case_id": "60",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "spark:70",
+    "project": "spark",
+    "case_id": "70",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "spark:80",
+    "project": "spark",
+    "case_id": "80",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "spark:100",
+    "project": "spark",
+    "case_id": "100",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "zookeeper:1",
+    "project": "zookeeper",
+    "case_id": "1",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5\n\nThe explanation is strongly grounded in the repeated connection requests, broken-connection warnings, and SendWorker interruption/exit messages. It appropriately states that the exact cause is unknown because the error field is empty and offers practical diagnostics. The only minor imprecision is saying that each accepted connection broke; the interleaved logs show repeated failures but do not conclusively map every source port to a specific failure.",
+    "error": null
+  },
+  {
+    "case_key": "zookeeper:4",
+    "project": "zookeeper",
+    "case_id": "4",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5\n\nThe explanation accurately identifies ten socket closures across eight client IPs and appropriately leaves the exact cause uncertain. It provides useful follow-up steps and cites concrete IPs, connection counts, session IDs, and the repeated end-of-stream pattern. Minor imprecision: the logs confirm socket closures associated with session IDs, but not that the sessions themselves were closed; additionally, without timestamps, the claim that clients disconnected “together” is plausible from the contiguous pattern but not definitive.",
+    "error": null
+  },
+  {
+    "case_key": "zookeeper:8",
+    "project": "zookeeper",
+    "case_id": "8",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "zookeeper:15",
+    "project": "zookeeper",
+    "case_id": "15",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "zookeeper:18",
+    "project": "zookeeper",
+    "case_id": "18",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "zookeeper:27",
+    "project": "zookeeper",
+    "case_id": "27",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5\n\nThe explanation is strongly grounded in the repeated `GOODBYE` and “Unexpected exception causing shutdown while sock still open” messages, correctly counts ten affected connections, and appropriately states that the root exception and service-wide impact are unknown. The diagnostic actions are practical and relevant. Minor imprecision: the ports are not every port “through `52271`,” and without timestamps the claim that the connections occurred “in a short period” cannot be firmly established solely from log contiguity.",
+    "error": null
+  },
+  {
+    "case_key": "zookeeper:38",
+    "project": "zookeeper",
+    "case_id": "38",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 4/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 4.75/5",
+    "error": null
+  },
+  {
+    "case_key": "zookeeper:68",
+    "project": "zookeeper",
+    "case_id": "68",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "zookeeper:74",
+    "project": "zookeeper",
+    "case_id": "74",
+    "judge_response": "Correctness: 5/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5",
+    "error": null
+  },
+  {
+    "case_key": "zookeeper:79",
+    "project": "zookeeper",
+    "case_id": "79",
+    "judge_response": "Correctness: 4/5  \nCompleteness: 5/5  \nHelpfulness: 5/5  \nSpecificity: 5/5  \nOverall: 5/5\n\nMinor correctness issue: the initial port `36432` closure does not have its corresponding accept/exception line in the group, so stating that every completed attempt failed specifically with the shown `IOException` is slightly broader than the evidence. Otherwise, the explanation is accurate, appropriately cautious, concrete, and operationally useful.",
+    "error": null
+  }
+]

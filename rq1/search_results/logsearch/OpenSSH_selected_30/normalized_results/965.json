@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_0c067426f5f048494d3e282a52880fa9de16299c25abf0376c69709d9743399b",
+    "score": 61.172173,
+    "link": "https://github.com/gravitational/teleport/issues/3245",
+    "source": "github",
+    "origin_doc_id": "ecd525589e8e69c7b55f2cf874558488532e776cb42809e6ca7178adb5ae4b1b",
+    "snippet": "teleport: pam_loginuid(sshd:session): Error writing /proc/self/loginuid: Operation not permitted \n teleport: pam_loginuid(sshd:session): set_loginuid failed \n teleport: pam_unix(sshd:session): session opened for user root by (uid=0) \n systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0) \n systemd: pam_unix(systemd-user:session): session closed for user root \nteleport: pam_loginuid(sshd:session): Error writing /proc/self/loginuid: Operation not permitted\nteleport: pam_loginuid(sshd:session): set_loginuid failed\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session closed for user root\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session closed for user root\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nteleport: pam_loginuid(sshd:session): Error writing /proc/self/loginuid: Operation not permitted\nteleport: pam_loginuid(sshd:session): set_loginuid failed\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session closed for user root\n```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_2abc74f5a4a23c8330439c1d50e611b20bd6d2cbb2c78b2e380ec4ed83e0999d",
+    "score": 56.423798,
+    "link": "https://stackoverflow.com/questions/23531078",
+    "source": "so",
+    "origin_doc_id": "1b8c692e4256cabcee2eea2292d1700c453e9bb640e43a7cde4894dd9979c789",
+    "snippet": "cat /var/log | grep session \n May  7 17:37:55 test sshd[27001]: pam_unix(sshd:session): session opened for user user by (uid=0) \n May  7 18:19:07 test sshd[27001]: pam_unix(sshd:session): session closed for user user \n May  7 18:26:56 test sshd[28466]: pam_unix(sshd:session): session opened for user user by (uid=0) \nMay  7 18:28:11 test sshd[28612]: pam_unix(sshd:session): session opened for user user by (uid=0)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_9be51c8578e46294854a07cfc9f4ce446861513aa833c885f20517ec055e2311",
+    "score": 54.952564,
+    "link": "https://stackoverflow.com/questions/62656817",
+    "source": "so",
+    "origin_doc_id": "54f664827c88d1c17e55241836a23ce88b25a3e81617fc97471c62abc94904e9",
+    "snippet": "sshd[25494]: Accepted publickey for advanced from 192.168.47.2 port 32589 ssh2: RSA SHA256:ofWD8Ii5DnGUyK2wUDpl71KhQcRajEqBWv6n27YwQ8g \nsshd[25494]: pam_keyinit(sshd:session): Unable to look up user \"advanced\" \n sshd[25494]: pam_unix(sshd:session): session opened for user advanced by (uid=0) \n sshd[25500]: Received disconnect from 192.168.47.2: 11: disconnected by user \n sshd[25494]: pam_unix(sshd:session): session closed for user advanced \n sshd[25500]: Disconnected from 192.168.47.2 \n  Unsuccessful (with git bash)  \n  sshd[24626]: Accepted publickey for advanced from 192.168.47.2 port 32488 ssh2: RSA SHA256:ofWD8Ii5DnGUyK2wUDpl71KhQcRajEqBWv6n27YwQ8g \n sshd[24626]: pam_keyinit(sshd:session): Unable to look up user \"advanced\" \n sshd[24626]: pam_unix(sshd:session): session opened for user advanced by (uid=0) \nsshd[24626]: pam_unix(sshd:session): session closed for user advanced"
+  },
+  {
+    "rank": 4,
+    "id": "msg_a0536be0a25789bf7173f776816e3bb54365a582a2b7e5ec4c54a16cc7af5e47",
+    "score": 54.92707,
+    "link": "https://stackoverflow.com/questions/28448577",
+    "source": "so",
+    "origin_doc_id": "22c960777699f1bf700a59a02a119b7bd52ddca5ecb02626fd837abc59545752",
+    "snippet": "Feb 11 07:35:45 MY_SERVER sshd[22334]: pam_unix(sshd:session): session opened for user my_user by (uid=0) \nFeb 11 07:35:47 MY_SERVER sshd[22334]: pam_unix(sshd:session): session closed for user my_user"
+  },
+  {
+    "rank": 5,
+    "id": "msg_d8f740e816155cb86d84901977cb1ac40edfbbb8a55e38bfb057f1559dc7c099",
+    "score": 54.24012,
+    "link": "https://github.com/logstash-plugins/logstash-filter-grok/issues/109",
+    "source": "github",
+    "origin_doc_id": "496a216008be87b630ae215ffd007fba63d63a8655e66d12e72176c789b812b8",
+    "snippet": "(?<sshd_result>Accepted) %{WORD:sshd_auth_type} for %{USERNAME:sshd_user} from %{IP:sshd_client_ip} port %{NUMBER:sshd_port} %{GREEDYDATA:sshd_protocol} \n     SSHD_DISCONNECT     Received disconnect from %{IP:sshd_client_ip}: (?<sshd_disconnect_code>\\d+): %{GREEDYDATA:sshd_disconnect_reason} \n     SSHD_CONN_CLOSE     Connection closed by %{IP:sshd_client_ip} \n     SSHD_SESSION_OPEN   pam_unix\\(sshd:session\\): session opened for user %{USERNAME:sshd_user} by \\(uid=\\d+\\) \n     SSHD_SESSION_CLOSE  pam_unix\\(sshd:session\\): session closed for user %{USERNAME:sshd_user}"
+  },
+  {
+    "rank": 6,
+    "id": "msg_43a227eb97bbdc66dc7fb23d674c18029fc32665d3fe4afe5a6673387aef9c6c",
+    "score": 53.042744,
+    "link": "https://github.com/jkumar2001/graylog-generic-syslog/issues/2",
+    "source": "github",
+    "origin_doc_id": "6e19652ac699c76b6607ebba7add1d64e658097ad2c18bb724bb0159758a5b98",
+    "snippet": "pam_unix(sshd:session): session closed for"
+  },
+  {
+    "rank": 7,
+    "id": "msg_4936939a3a9ecf6862ab2c3af47bd3782718a1eda5a837f49a3d3a7fef841358",
+    "score": 52.910923,
+    "link": "https://stackoverflow.com/questions/61840390",
+    "source": "so",
+    "origin_doc_id": "8de0200b6d4c0486911196a6929b19eb773cbb78e24d48503af2b60c7e321e7f",
+    "snippet": "Unable to connect to server: \nsystemd[1]: Started Session 28 of user ***. \n sshd[630]: pam_unix(sshd:session): session opened for user *** by (uid=0) \n sshd[634]: error: connect_to /var/run/postgresql: unknown host (Name or service not known) \n sshd[630]: pam_unix(sshd:session): session closed for user ***"
+  },
+  {
+    "rank": 8,
+    "id": "msg_7961c5c1d6230615d6239de868c282182da2dd2362e498d5966dccb47e8fb122",
+    "score": 52.90437,
+    "link": "https://stackoverflow.com/questions/72167137",
+    "source": "so",
+    "origin_doc_id": "836d7abc579d1e45aaf7c5fbab55a36477e0dcbf6e75b1b0cbda8694f0397e9b",
+    "snippet": "2018-12-02T14:03:00Z sshd[0000003]: pam_unix(sshd:session): session closed for user root"
+  },
+  {
+    "rank": 9,
+    "id": "msg_404fe33b3315562ba89ed5abb4bedbb97602ee881e0687b5bb613faaf3e1830c",
+    "score": 52.30878,
+    "link": "https://stackoverflow.com/questions/7268788",
+    "source": "so",
+    "origin_doc_id": "4a27d9e2774ad8640d60ff63954680f7c806b449029fbcd2960d223b20ec1dbb",
+    "snippet": "Sep  1 11:57:17 MyCentosVM sshd[1880]: pam_unix(sshd:session): session closed for user root"
+  },
+  {
+    "rank": 10,
+    "id": "msg_d426cf56a8fdfbb6b9018d57ae48c4e85885cc5a389607bafa9345760ca77229",
+    "score": 51.72645,
+    "link": "https://github.com/ytti/oxidized/issues/830",
+    "source": "github",
+    "origin_doc_id": "9e2de23d00be209d11953b75b9625acec02492c9fff63ecf39045c0b4b6f1d66",
+    "snippet": "2017-05-07 16:16:21 localhost\tSSHD\tpam_unix(sshd:session): session closed for user pi\t0"
+  }
+]

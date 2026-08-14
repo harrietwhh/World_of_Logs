@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_f8843efc35e0f6ad8e2518f04f87ec0f19e6eb0107426a17cc181a7fe05f1087",
+    "score": 14.41292,
+    "link": "https://stackoverflow.com/questions/56768492",
+    "source": "so",
+    "origin_doc_id": "f889d42fb1d81fde49066435877eb98fcc4c7e86830e2ec1ccd78b1a92accdc2",
+    "snippet": "log.debug \"dey3\"\nlog.debug HttpURLConnection \n log.debug body_req \n log.debug (connection.getResponseMessage()) \n log.debug \"Content:\" \n log.debug connection.getContent() \n log.debug (connection.getResponseMessage())\nlog.debug (connection.getRequestProperties()) \n log.debug \"dey4\""
+  },
+  {
+    "rank": 2,
+    "id": "msg_047165168ca01eae3f243187678a227ef3cfe5736b7f76770bd2491ec9edb2a2",
+    "score": 14.1784115,
+    "link": "https://stackoverflow.com/questions/35608803",
+    "source": "so",
+    "origin_doc_id": "e9174d544028d17440f743a717222c444965a1a6682193305df93f1a004467c2",
+    "snippet": "LOG.debug(\"onAcceptDeliverSm: From: {} To: {} ESM: {} Msg: {}\", deliverSm.getSourceAddr(), \n deliverSm.getDestAddress(), deliverSm.getEsmClass(), new String(deliverSm.getShortMessage())); \n LOG.debug(\"BYTE ARRAY LENGTH\"); \n LOG.debug(Integer.toString(deliverSm.getShortMessage().length)); \n LOG.debug(\"COMMAND STATUS\"); \n LOG.debug(Integer.toString(deliverSm.getCommandStatus()));\nLOG.debug(\"DATA CODING\");\nLOG.debug(Integer.toString(new Byte(deliverSm.getDataCoding()).intValue()));\nLOG.debug(\"COMMAND LENGTH\");\nLOG.debug(Integer.toString(deliverSm.getCommandLength()));\nLOG.debug(\"-\");\nLOG.debug(new String(deliverSm.getShortMessage(), Charset.forName(\"US-ASCII\")));\nLOG.debug(\"-\");\nLOG.debug(new String(deliverSm.getShortMessage(), Charset.forName(\"ISO-8859-1\")));\nLOG.debug(\"-\");\nLOG.debug(new String(deliverSm.getShortMessage(), Charset.forName(\"UTF-16BE\")));\nLOG.debug(\"-\"); \n LOG.debug(new String(deliverSm.getShortMessage(), Charset.forName(\"UTF-16LE\"))); \n LOG.debug(\"-\"); \n LOG.debug(new String(deliverSm.getShortMessage(),"
+  },
+  {
+    "rank": 3,
+    "id": "msg_9a4c9123830f28e542f7f9bf98e6d040567790c015b0af2837934f9e89be8fbc",
+    "score": 14.16697,
+    "link": "https://stackoverflow.com/questions/78753404",
+    "source": "so",
+    "origin_doc_id": "cdae7361749d592957175187aa7a6cba0167e733f156cde8edaf10e3c1125840",
+    "snippet": "Log.debug \"Debug message 8\"\n  Log.debug \"Debug message 9\"\n  Log.debug \"Debug message 10\"\n  Log.debug \"Debug message 11\"\n  Log.debug \"Debug message 12\"\n  Log.debug \"Debug message 13\"\n  Log.debug \"Debug message 14\"\n  Log.debug \"Debug message 15\"\n  Log.debug \"Debug message 16\"\n  Log.debug \"Debug message 17\"\n  Log.debug \"Debug message 18\"\nLog.debug \"Debug message 19\" \n   Log.debug \"Debug message 20\" \n   Log.debug \"Debug message 21\" \n   Log.debug \"Debug message 22\" \n   Log.debug \"Debug message 23\" \n   Log.debug \"Debug message 24\" \n   Log.debug \"Debug message 25\""
+  },
+  {
+    "rank": 4,
+    "id": "msg_967f640cf1fa7e470a30c6d53b63876114fdd1ad6f367021285fbb7cc61f0aaa",
+    "score": 14.1250725,
+    "link": "https://issues.apache.org/jira/browse/AXIS-2506",
+    "source": "jira",
+    "origin_doc_id": "c57944cdce221ba968b91b80773298360ee9908b1b8d56e6f322cc3b6553e2e8",
+    "snippet": "log.debug(Messages.getMessage(\"enter00\",\nlog.debug(\" \n \" \n            \n\n       + Messages.getMessage(\"no00\", \"Content-Length\")); \n\n log.debug(\" \n \" + Messages.getMessage(\"xmlRecd00\")); \n\n log.debug(\"-----------------------------------------------\"); \n\n log.debug(outMsg.getSOAPPartAsString());\nlog.debug(e); \n\n log.debug(Messages.getMessage(\"exit00\", \n                                           \"CommonsHTTPSender::invoke\"));\nlog.debug(Messages.getMessage(\"match00\","
+  },
+  {
+    "rank": 5,
+    "id": "msg_e9eb00da2793cb4a035b235076f784e775b888a6fdfd769cd3999b3473b812e3",
+    "score": 14.077358,
+    "link": "https://github.com/stefanogualdi/grails-ckeditor/pull/17",
+    "source": "github",
+    "origin_doc_id": "71d0b811154738537811636d6532c0b32dde2297220ac0c69e4176c6463c1a46",
+    "snippet": "log.debug \"==============================================\" \n             log.debug \"FILEMANAGER\" \n             log.debug \"baseDir = ${baseDir}\" \n             log.debug \"baseUrl = ${baseUrl}\" \n             log.debug \"type = ${type}\" \nlog.debug \"space = ${space}\""
+  },
+  {
+    "rank": 6,
+    "id": "msg_d3f44c3655eaa4f60151db2ae9ad835b3f4915a2ec63a597d3ba28fe8e41f9be",
+    "score": 14.056011,
+    "link": "https://stackoverflow.com/questions/7776357",
+    "source": "so",
+    "origin_doc_id": "36a88961634e97f7c441e6ca3556728b03f2916843a1d196b28b86f978b78ada",
+    "snippet": "log.Debug(\"CancelQuertyPhoneDetailsChanges\" + BaseModel.FUNCTION_EXIT_LOG);\nlog.Debug(\"GetOldQuertyPhoneDetails\" + BaseModel.FUNCTION_ENTERED_LOG);\nlog.Debug(\"GetOldQuertyPhoneDetails\" + BaseModel.FUNCTION_EXIT_LOG);\nlog.Debug(\"AttachChangeEvents\" + BaseModel.FUNCTION_ENTERED_LOG);\nlog.Debug(\"AttachChangeEvents\" + BaseModel.FUNCTION_EXIT_LOG);\nlog.Debug(\"ValidateQuertyPhoneDetails\" + BaseModel.FUNCTION_ENTERED_LOG);\nlog.Debug(\"ValidateQuertyPhoneDetails\" + BaseModel.FUNCTION_EXIT_LOG);"
+  },
+  {
+    "rank": 7,
+    "id": "msg_9e18466f6f6286ac7a59aaed721c6aa6ece2518744fe3bc4ac70d6cdcc90405d",
+    "score": 14.056011,
+    "link": "https://issues.apache.org/jira/browse/JCR-339",
+    "source": "jira",
+    "origin_doc_id": "b5ddcd6617732b31f1961cd8d557bb025e155229abfd5d04f7d58578710f6335",
+    "snippet": "log.debug(\"originalSession=\" + originalSession);\nlog.debug(\"node=\" + node); \n\n log.debug(\"session=\" + session); \n\n log.debug(\"ws=\" + ws.getName());\nlog.debug(\"name=\" + name); \n\n log.debug(\"rn=\" + rn);\nlog.debug(\"movedNode=\" + movedNode);"
+  },
+  {
+    "rank": 8,
+    "id": "msg_6fc9de9b81ade3fb8ce9adf5963734b8dfcf17f6c0b90ce9282e616ae4bd93c5",
+    "score": 14.039001,
+    "link": "https://stackoverflow.com/questions/57879872",
+    "source": "so",
+    "origin_doc_id": "dc1f07ef64a899275ac0b1ae95177d03ef380d75add41c5367c643ef50a883ae",
+    "snippet": "Log.Debug(documentURL)\nLog.Debug(\"**********************************************************\")\nLog.Debug(\"**********************************************************\")\nLog.Debug(\"**********************************************************\")"
+  },
+  {
+    "rank": 9,
+    "id": "msg_0173b7e6b11dc7e147beaed09bce5af2bff7868e2bc36783ab9f9864e70c96c9",
+    "score": 14.016918,
+    "link": "https://stackoverflow.com/questions/8502915",
+    "source": "so",
+    "origin_doc_id": "2e56e9b8ad5c5ee25b983c7532b14ae0fa4dbd46154b5382d1b4716a0a5c05a5",
+    "snippet": "log.debug(e.getMessage());\nlog.debug(e.getMessage());\nlog.debug(e.getMessage());\nlog.debug(e.getMessage());\nlog.debug(\"url = \" + con.getURL());"
+  },
+  {
+    "rank": 10,
+    "id": "msg_a5aec28b9a9151d46385bdbbcdf8ada8c98c225df19cb842517c606fa3b72b5b",
+    "score": 14.016918,
+    "link": "https://issues.apache.org/jira/browse/NUTCH-2451",
+    "source": "jira",
+    "origin_doc_id": "6c24fdb676cefe21347fe5b113fce2f2c79ad2bf38c8f96fa6f9dbb69c75ff71",
+    "snippet": "LOG.debug(\"URLStreamHandlerFactory()\");\nLOG.debug(\"getInstance()\");\nLOG.debug(\"registerPluginRepository(...)\");\nLOG.debug(\"createURLStreamHandler({})\", protocol);\nLOG.debug(\"removeInvalidRefs()\");"
+  }
+]

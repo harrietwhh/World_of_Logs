@@ -1,0 +1,31 @@
+{
+  "case_id": "3",
+  "summary_raw": "[\"read continuation request\",\"cpu sent unrecognized message\",\"Message code\"]",
+  "summary_items": [
+    "read continuation request",
+    "cpu sent unrecognized message",
+    "Message code"
+  ],
+  "group_logs_lines": [
+    "RAS KERNEL INFO ciod : Message code 0 is not 51 or 4294967295",
+    "RAS KERNEL INFO ciod : cpu 0 at treeaddr 8717 sent unrecognized message 0xffffffff",
+    "RAS KERNEL INFO generating core.3869",
+    "RAS KERNEL INFO ciod : for node 15 , read continuation request but ioState is 0",
+    "RAS KERNEL INFO ciod : Message code 0 is not 51 or 4294967295",
+    "RAS KERNEL INFO generating core.3863",
+    "RAS KERNEL INFO ciod : Message code 0 is not 51 or 4294967295",
+    "RAS KERNEL INFO ciod : cpu 0 at treeaddr 13331 sent unrecognized message 0xffffffff",
+    "RAS KERNEL INFO ciod : Message code 0 is not 51 or 4294967295",
+    "RAS KERNEL INFO generating core.3991",
+    "RAS KERNEL INFO ciod : Message code 0 is not 51 or 4294967295",
+    "RAS KERNEL INFO generating core.3871",
+    "RAS KERNEL INFO generating core.3999",
+    "RAS KERNEL INFO ciod : for node 15 , read continuation request but ioState is 0",
+    "RAS KERNEL INFO generating core.3988",
+    "RAS KERNEL INFO ciod : cpu 0 at treeaddr 8716 sent unrecognized message 0xffffffff",
+    "RAS KERNEL INFO generating core.3860",
+    "RAS KERNEL INFO ciod : for node 9 , read continuation request but ioState is 0",
+    "RAS KERNEL INFO generating core.3989",
+    "RAS KERNEL INFO ciod : cpu 0 at treeaddr 13330 sent unrecognized message 0xffffffff"
+  ]
+}

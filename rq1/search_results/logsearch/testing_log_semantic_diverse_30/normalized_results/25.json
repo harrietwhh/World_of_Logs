@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_7826f9b7d0a8d4dd9b4bc450bc8ab4787d450c14ca807163ec90ff486502ead6",
+    "score": 58.502323,
+    "link": "https://issues.redhat.com/browse/ENTMQ-1943",
+    "source": "jira",
+    "origin_doc_id": "e6d44a57d1ad7bbc64e3f7b1ad439ea5271aa1a042759202952cfb3814a5b385",
+    "snippet": "2016-09-20 16:05:41,499 | DEBUG | 0.0.1:47718@5672 | AmqpAuthenticator                | 161 - org.apache.activemq.activemq-osgi - 5.11.0.redhat-630069 | SASL [ANONYMOUS} Handshake complete."
+  },
+  {
+    "rank": 2,
+    "id": "msg_8c471fc5a6cdd02eab17890ca973d1a88c78150f096956b7f9497eee04225d9a",
+    "score": 52.140316,
+    "link": "https://issues.redhat.com/browse/ENTMQ-1943",
+    "source": "jira",
+    "origin_doc_id": "e6d44a57d1ad7bbc64e3f7b1ad439ea5271aa1a042759202952cfb3814a5b385",
+    "snippet": "2016-09-20 16:05:41,498 | DEBUG | 0.0.1:47718@5672 | AmqpAuthenticator                | 161 - org.apache.activemq.activemq-osgi - 5.11.0.redhat-630069 | SASL [ANONYMOUS} Handshake started."
+  },
+  {
+    "rank": 3,
+    "id": "msg_831dad7baa733b9e842c803c1d4b78a9ef0d82d2a29740c0bb6e1ea6507a726e",
+    "score": 38.43316,
+    "link": "https://stackoverflow.com/questions/79010416",
+    "source": "so",
+    "origin_doc_id": "d45b6334e67dc3936376189774e86ceea4a369cc76d2c6686f13342fc5c9e46a",
+    "snippet": "[2024-09-23T05:23:56.083Z] Debug: Server handshake complete. signalr.js:457:30"
+  },
+  {
+    "rank": 4,
+    "id": "msg_84a5e5ce06ae509e1c99115c2f6157feaf0bb1ab8ab7023ea2e5b327d4b0baf2",
+    "score": 37.276665,
+    "link": "https://stackoverflow.com/questions/39521691",
+    "source": "so",
+    "origin_doc_id": "8600b7d16dff0ed910533846eaf3d2fbba6a21fbb7faeb46c4ebe8a850779eb1",
+    "snippet": "2016-09-15 21:43:02 DEBUG SaslServerAuthenticator:354 - Using SASL mechanism 'PLAIN' provided by client"
+  },
+  {
+    "rank": 5,
+    "id": "msg_8b6220df6ac202773332004a8e7b32796c5b293490545426a560d243ac4005fd",
+    "score": 35.541496,
+    "link": "https://github.com/eliep/i3-layouts/issues/9",
+    "source": "github",
+    "origin_doc_id": "171226af59d95c8742e303314cc107d37639450f2eabf1b5e3ae3afd485ba27f",
+    "snippet": "[2021-09-12 12:05:49,640] DEBUG {handlers.py:155} -   [ipc] window focus event - no workspace layout"
+  },
+  {
+    "rank": 6,
+    "id": "msg_5ad0831a9fefe7682d74780278fa612842aa7f7cf7a27f8a00f11570d01f7561",
+    "score": 35.328583,
+    "link": "https://stackoverflow.com/questions/77942974",
+    "source": "so",
+    "origin_doc_id": "449d8e00c031357edc35c08d8c8178f5bdd3f1577a36bff1dbe10db67debc371",
+    "snippet": "javax.net.ssl|DEBUG|41|nioEventLoopGroup-5-1|2024-02-05 09:09:15.893 PST|DTLSInputRecord.java:1392|Not yet got the ServerHelloDone message \n javax.net.ssl|DEBUG|41|nioEventLoopGroup-5-1|2024-02-05 09:09:15.893 PST|DTLSInputRecord.java:1044|The handshake flight is not ready to use: 2 \n \nlog.debug(\"{} Handshake status is {} loops {}.\", getRole(), hs, loops);\nstatus,"
+  },
+  {
+    "rank": 7,
+    "id": "msg_fca12160b92b07dda10fda9bd9f633209888a959a3db04d0e22091fc459ee2b2",
+    "score": 35.02818,
+    "link": "https://stackoverflow.com/questions/78957912",
+    "source": "so",
+    "origin_doc_id": "176c760aa36145ed53558534137292ae9324064768d82bd722a26cd11f2cc1c0",
+    "snippet": "2024-09-06 12:46:06 [2024-09-06 15:46:06,848] INFO SASL config status: Will attempt to SASL-authenticate using Login Context section 'Client' (org.apache.zookeeper.ClientCnxn)"
+  },
+  {
+    "rank": 8,
+    "id": "msg_924dd96bf8f58d8ccfccf3367941e5521491c0e142a20bb5f7f6eb5d60f8ee4b",
+    "score": 35.02818,
+    "link": "https://stackoverflow.com/questions/78957912",
+    "source": "so",
+    "origin_doc_id": "176c760aa36145ed53558534137292ae9324064768d82bd722a26cd11f2cc1c0",
+    "snippet": "2024-09-06 12:46:07 [2024-09-06 15:46:07,957] INFO SASL config status: Will attempt to SASL-authenticate using Login Context section 'Client' (org.apache.zookeeper.ClientCnxn)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_649eddfa41a763c44ddbf8741e65c2fbdceddfefde7ebcddc65edf42ddab46e7",
+    "score": 34.449085,
+    "link": "https://issues.apache.org/jira/browse/QPIDJMS-535",
+    "source": "jira",
+    "origin_doc_id": "ce7db44a46ecea48386ca3b4c2a3da494ba3c86e06fa82e9320e0b30aeaf5ce4",
+    "snippet": "2021-04-09 11:48:36.778 DEBUG 11152 --- [.84.10.4:30672]] o.a.qpid.jms.sasl.SaslMechanismFinder    : Best match for SASL auth was: SASL-PLAIN"
+  },
+  {
+    "rank": 10,
+    "id": "msg_24a918ec97d8b8e2162462b8bbd2a09aab4dc26805cd77400b03c6fe60e85f13",
+    "score": 34.449085,
+    "link": "https://issues.apache.org/jira/browse/QPIDJMS-535",
+    "source": "jira",
+    "origin_doc_id": "ce7db44a46ecea48386ca3b4c2a3da494ba3c86e06fa82e9320e0b30aeaf5ce4",
+    "snippet": "2021-04-09 11:48:37.128 DEBUG 11152 --- [.84.10.4:30672]] o.a.qpid.jms.sasl.SaslMechanismFinder    : Best match for SASL auth was: SASL-PLAIN"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_86f7574a1fe775fe3e2668ff6bd266df0dffc36a0b96ca9b79fd5d7a16d89b0f",
+    "score": 105.535904,
+    "link": "https://stackoverflow.com/questions/61695809",
+    "source": "so",
+    "origin_doc_id": "ffda8d2a12b2d3b65bcb3e3d312fc913cfe41c6345f36b130dfe83b29b4df6df",
+    "snippet": "'Jun 29', 'Time': '03:22:22', 'PID': '13251', 'Message': 'Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code', 'Access Type': 'Success'}"
+  },
+  {
+    "rank": 2,
+    "id": "msg_60addc1d7d4b0f43e6eaebc1bda472ee97ca8adc5169290f322f5c846d82bb81",
+    "score": 34.60228,
+    "link": "https://github.com/sckott/analogsea/issues/154",
+    "source": "github",
+    "origin_doc_id": "da1baf9c5f65309c427e108d01c587f743caa2341d34df88adee185642713d5b",
+    "snippet": "Authentication failed, permission denied\n Error in ssh::ssh_connect(user_ip, keyfile) :  \n       Authentication failed, permission denied"
+  },
+  {
+    "rank": 3,
+    "id": "msg_4628d7af59fc9f24668652ba7df8209fbf2ceaec648f9809cf2ce97a686784ad",
+    "score": 32.859783,
+    "link": "https://github.com/react-native-community/react-native-circleci-orb/issues/44",
+    "source": "github",
+    "origin_doc_id": "5819c39f66da36db97122ebbcf8ba1e7d323072508ed9b672a7f819ccd262617",
+    "snippet": "version \n 3.0.1 \n ### What happened \n Permission denied when restoring cache in the `yarn_install` command \n ```Found a cache from build 103 at yarn-cache-arch1-linux-amd64-6_85-VDik+QFxs575x6teNgDAjIV5ClG0hxXvjVJsfY7scEM=-OKJHwbfuDM+mChF5yIF3aF0r3ozKBlcFGdUkn1a3BjA=-v2 \n Size: 278 MiB\n\n   * /root/.cache/yarn \n Downloading cache archive... \n Validating cache... \n Unarchiving cache... \n Failed to unarchive cache \nError untarring cache: Error extracting tarball /tmp/cache468968038 : tar: root/.cache/yarn: Cannot mkdir: Permission denied tar: root/.cache/yarn/v6: Cannot mkdir: Permission denied tar: root/.cache/yarn/v6/.tmp: Cannot mkdir: Permission denied tar: root/.cache/yarn/v6/npm-@babel-code-frame-7.8.3-33e25903d7481181534e12ec0a25f16b6fcf419e-integrity: Cannot mkdir: Permission denied tar: root/.cache/yarn/v6/npm-@babel-code-frame-7.8.3-33e25903d7481181534e12ec0a25f16b6fcf419e-integrity/node_modules: Cannot mkdir: Permission denied tar: root/.cache/yarn/v6/npm-@babel-code-frame-7.8.3-33e25903d7481181534e12ec0a25f16b6fcf419e-integrity/node_modules/@babel: Cannot mkdir: Permission denied tar: root/.cache/yarn/v6/npm-@babel-code-frame-7.8.3-33e25903d7481181534e12ec0a25f16b6fcf419e-integrity/node_modules/@babel/code-frame: Cannot mkdir: Permission denied tar: root/.cache/yarn/v6/npm-@babel-code-frame-7.8.3-33e25903d7481181534e12ec0a25f16b6fcf419e-integrity/node_modules/@babel/code-frame/.yarn-metadata.json: Cannot open: Permission denied tar: root/.cache/yarn/v6/npm-@babel-code-frame-7.: exit status 2```"
+  },
+  {
+    "rank": 4,
+    "id": "msg_9c05dec0087ebd0742b439ecd0aea4160506a041739e57bb31d96162658cf862",
+    "score": 31.894077,
+    "link": "https://github.com/google/aiyprojects-raspbian/issues/673",
+    "source": "github",
+    "origin_doc_id": "ac21402aa2bd95f68a9bf810a52a6bf4621782f07ae566ae0d0d8d8e07aa01f3",
+    "snippet": "Permission denied, please try again. \n efpyi@example.com's password:  \n Permission denied, please try again.\n \n Received disconnect from 192.168.11.xx port 22:2: Too many authentication failures \n Authentication failed."
+  },
+  {
+    "rank": 5,
+    "id": "msg_726718988b9adf4691c56f2a9077d5abea08826b6d0cd5b24087ddbd752b1263",
+    "score": 30.76779,
+    "link": "https://github.com/eugeneware/ffmpeg-static/issues/63",
+    "source": "github",
+    "origin_doc_id": "ad2a8226d4aa33a6af1973f01cf24d8a564e1458af0f9172abf0399628a7ac96",
+    "snippet": "Error reading from cache: EACCES: permission denied, open '/root/.cache/ffmpeg-static-nodejs/718960d5a79e5a6263f198570f2db949106e38fa7c2bdb1e52fd47f7a6c6081d6d5157fe5e63a4d65baba222daf54c8f5be5958c2b34e4822d599b3b13231fb0.json' \n Error reading from cache: EACCES: permission denied, open '/root/.cache/ffmpeg-static-nodejs/dd451afd5a3c5c3b643274afb5337daaae30d04dc25b2974538bb847aae4d3782cf97cb4b048ff7eb1b11d8ca1b0acbe86578291b244142e9fa5a8d280c698dd.json' \n Error creating cache: EACCES: permission denied, mkdir '/root/.cache/ffmpeg-static-nodejs' \n [Error: EACCES: permission denied, open '/usr/lib/node_modules/yt_mp3_downloader/node_modules/ffmpeg-static/ffmpeg'] { \n   errno: -13, \n   code: 'EACCES', \n   syscall: 'open', \n   path: '/usr/lib/node_modules/yt_mp3_downloader/node_modules/ffmpeg-static/ffmpeg'"
+  },
+  {
+    "rank": 6,
+    "id": "msg_e98c99fcececa1beb28681cf624423d85f281064e3add1d0094c23e268c0d769",
+    "score": 30.098934,
+    "link": "https://stackoverflow.com/questions/66022616",
+    "source": "so",
+    "origin_doc_id": "25bab1a9457551151e0d6ea70c8d81e6983cb2c71ba8d2705a6258ef1b7c96ff",
+    "snippet": "denied (publickey)\" or \"Authentication failed, permission denied\""
+  },
+  {
+    "rank": 7,
+    "id": "msg_4d4a60e1c31e574df7d19565598f410d28dd5e1dcf1c77083607a1938b789af7",
+    "score": 29.983868,
+    "link": "https://github.com/luarocks/luarocks/issues/507",
+    "source": "github",
+    "origin_doc_id": "1b354514ed829b2b5df6b86596336893e6022df085e8194664854864ffaac111",
+    "snippet": "Warning: Failed searching manifest: Failed fetching manifest for https://luarocks.org - Failed downloading https://luarocks.org/manifest - /Users/jseeley/.cache/luarocks/https___luarocks.org/manifest \n mkdir: /Users/jseeley/.cache/luarocks/https___raw.githubusercontent.com_rocks-moonscript-org_moonrocks-mirror_master_: Permission denied \n mkdir: /Users/jseeley/.cache/luarocks/https___raw.githubusercontent.com_rocks-moonscript-org_moonrocks-mirror_master_: Permission denied \n mkdir: /Users/jseeley/.cache/luarocks/https___raw.githubusercontent.com_rocks-moonscript-org_moonrocks-mirror_master_: Permission denied \n Warning: Failed searching manifest: Failed creating temporary cache directory /Users/jseeley/.cache/luarocks/https___raw.githubusercontent.com_rocks-moonscript-org_moonrocks-mirror_master_ \n mkdir: /Users/jseeley/.cache/luarocks/http___luafr.org_moonrocks_: Permission denied \n mkdir: /Users/jseeley/.cache/luarocks/http___luafr.org_moonrocks_: Permission denied \n mkdir: /Users/jseeley/.cache/luarocks/http___luafr.org_moonrocks_: Permission denied \nWarning: Failed searching manifest: Failed creating temporary cache directory /Users/jseeley/.cache/luarocks/http___luafr.org_moonrocks_\nmkdir: /Users/jseeley/.cache/luarocks/http___luarocks.logiceditor.com_rocks: Permission denied\nmkdir: /Users/jseeley/.cache/luarocks/http___luarocks.logiceditor.com_rocks: Permission denied\nmkdir: /Users/jseeley/.cache/luarocks/http___luarocks.logiceditor.com_rocks: Permission denied\nWarning: Failed searching manifest: Failed creating temporary cache directory /Users/jseeley/.cache/luarocks/http___luarocks.logiceditor.com_rocks"
+  },
+  {
+    "rank": 8,
+    "id": "msg_904006e3f6c23bcd20d58b5ceb872b5fc1911da2f85f994fe5bb6e9ee2151422",
+    "score": 29.848852,
+    "link": "https://github.com/codercom/code-server/issues/454",
+    "source": "github",
+    "origin_doc_id": "650fd875e3474f1953808e47ceaa95d04399428ad5e79e5369ead8b0a1b95242",
+    "snippet": "ERROR { Error: EACCES: permission denied, mkdir '/.cache' \n   [stack]: 'Error: EACCES: permission denied, mkdir \\'/.cache\\'', \n   [message]: 'EACCES: permission denied, mkdir \\'/.cache\\'', \n   errno: -13, \n   code: 'EACCES', \n   syscall: 'mkdir', \npath: '/.cache' } \n free(): invalid pointer \n ```"
+  },
+  {
+    "rank": 9,
+    "id": "msg_9b276d55e4ba5c8d23541e24a2634cc0050bd3e758bd9a693aab6cf91b95fbf1",
+    "score": 29.653175,
+    "link": "https://github.com/iceberg-project/Seals/issues/23",
+    "source": "github",
+    "origin_doc_id": "9d84b905761ade6ff47dd36b6fbf2af13a77224fa8413ecd333839b53c7a3137",
+    "snippet": "bspitz \n Enter MyProxy pass phrase: \n Failed to receive credentials. \n ERROR from myproxy-server: \n PAM authentication failed: Permission denied \n ```"
+  },
+  {
+    "rank": 10,
+    "id": "msg_9b770e9dc5e47eb72e1fad918861ae4a07f6e4a5c723f005aea10d3f54e6a426",
+    "score": 29.64362,
+    "link": "https://github.com/eugeneware/ffmpeg-static/issues/63",
+    "source": "github",
+    "origin_doc_id": "ad2a8226d4aa33a6af1973f01cf24d8a564e1458af0f9172abf0399628a7ac96",
+    "snippet": "Error reading from cache: EACCES: permission denied, open '/root/.cache/ffmpeg-static-nodejs/718960d5a79e5a6263f198570f2db949106e38fa7c2bdb1e52fd47f7a6c6081d6d5157fe5e63a4d65baba222daf54c8f5be5958c2b34e4822d599b3b13231fb0.json' \n Error reading from cache: EACCES: permission denied, open '/root/.cache/ffmpeg-static-nodejs/dd451afd5a3c5c3b643274afb5337daaae30d04dc25b2974538bb847aae4d3782cf97cb4b048ff7eb1b11d8ca1b0acbe86578291b244142e9fa5a8d280c698dd.json' \n Error creating cache: EACCES: permission denied, mkdir '/root/.cache/ffmpeg-static-nodejs'"
+  }
+]

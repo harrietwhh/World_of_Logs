@@ -1,0 +1,78 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "MiniKdc not available from org.springframework.security. ...",
+    "link": "https://stackoverflow.com/questions/68408625/minikdc-not-available-from-org-springframework-security-kerberos-test-minikdc",
+    "displayed_link": "1 answer · 4 years ago",
+    "snippet": "I am trying to use \"MiniKdc\" in my code implementation like \"MiniKdc.main(config)\" but am getting error \"can not resolve symbol 'MiniKdc' \".",
+    "snippet_highlighted_words": [
+      "MiniKdc",
+      "MiniKdc",
+      "main",
+      "MiniKdc"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "MiniKdc (spring-security-kerberos-docs 2.2.0 API)",
+    "link": "https://docs.spring.io/spring-security-kerberos/docs/current/api/org/springframework/security/kerberos/test/MiniKdc.html",
+    "displayed_link": "https://docs.spring.io › org › security › kerberos › test",
+    "snippet": "Mini KDC based on Apache Directory Server that can be embedded in testcases or used from command line as a standalone KDC.",
+    "snippet_highlighted_words": [
+      "Mini KDC"
+    ],
+    "source": "SpringSource",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "MiniKdc.java - c9n/hadoop",
+    "link": "https://github.com/c9n/hadoop/blob/master/hadoop-common-project/hadoop-minikdc/src/main/java/org/apache/hadoop/minikdc/MiniKdc.java",
+    "displayed_link": "https://github.com › src › main › java › org › apache",
+    "snippet": "* Because of this, multiple MiniKdc instances cannot be started in parallel. * For example, running testcases in parallel that start a KDC each. To. * ...",
+    "snippet_highlighted_words": [
+      "MiniKdc",
+      "started",
+      "running",
+      "start"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Spring Security Kerberos Integration With MiniKdc",
+    "link": "https://www.baeldung.com/spring-security-kerberos-integration",
+    "displayed_link": "https://www.baeldung.com › Spring › Spring Security",
+    "snippet": "This file contains the information where to find our KDC – the host and port for a given realm. MiniKdc.main starts the KDC and should output ...",
+    "snippet_highlighted_words": [
+      "Kdc"
+    ],
+    "source": "Baeldung",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "MiniKdc (Spring Security Kerberos Extension 1.0.1.RELEASE ...",
+    "link": "https://docs.spring.io/spring-security-kerberos/docs/1.0.1.RELEASE/api/index.html?org/springframework/security/kerberos/test/MiniKdc.html",
+    "displayed_link": "https://docs.spring.io › docs › 1.0.1.RELEASE › api",
+    "snippet": "Mini KDC based on Apache Directory Server that can be embedded in testcases or used from command line as a standalone KDC. From within testcases:.",
+    "snippet_highlighted_words": [
+      "Mini KDC"
+    ],
+    "source": "spring.io",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

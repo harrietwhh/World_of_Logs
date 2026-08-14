@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_e8f0a6b26c96dc41d2c206f3748e72bf46f3a4da3c1e983881927c77136b2d4c",
+    "score": 51.604534,
+    "link": "https://github.com/apache/incubator-doris/issues/6302",
+    "source": "github",
+    "origin_doc_id": "a3791071733120ee8eec87c0d70aa4e6de0d52610a94bcd05e419ca459931abc",
+    "snippet": "2021-07-22 18:02:52.832 [Thread-1] WARN  DorisWriterManager - Failed to flush batch data to doris, retry times = 1 \n java.io.IOException: Unable to flush data to doris: unknown result status. \n         at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisStreamLoadVisitor.doStreamLoad(DorisStreamLoadVisitor.java:58) ~[doriswriter-0.0.1-SNAPSHOT.jar:na] \n         at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisWriterManager.asyncFlush(DorisWriterManager.java:121) [doriswriter-0.0.1-SNAPSHOT.jar:na] \n         at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisWriterManager.access$000(DorisWriterManager.java:15) [doriswriter-0.0.1-SNAPSHOT.jar:na] \n        at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisWriterManager$1.run(DorisWriterManager.java:94) [doriswriter-0.0.1-SNAPSHOT.jar:na]\n        at java.lang.Thread.run(Thread.java:745) [na:1.8.0_101]"
+  },
+  {
+    "rank": 2,
+    "id": "msg_ee66ea79e8a191e7bbdcd3988627574add6a35a25e0405efe380fc80a97deb36",
+    "score": 51.604534,
+    "link": "https://github.com/apache/incubator-doris/issues/6303",
+    "source": "github",
+    "origin_doc_id": "4c7ef9f0d26453b0eed2962cc4f26825b1a0534a46134fb24862e5b1bd3effd1",
+    "snippet": "2021-07-22 18:02:52.832 [Thread-1] WARN  DorisWriterManager - Failed to flush batch data to doris, retry times = 1 \n java.io.IOException: Unable to flush data to doris: unknown result status. \n         at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisStreamLoadVisitor.doStreamLoad(DorisStreamLoadVisitor.java:58) ~[doriswriter-0.0.1-SNAPSHOT.jar:na] \n         at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisWriterManager.asyncFlush(DorisWriterManager.java:121) [doriswriter-0.0.1-SNAPSHOT.jar:na] \n         at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisWriterManager.access$000(DorisWriterManager.java:15) [doriswriter-0.0.1-SNAPSHOT.jar:na] \n        at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisWriterManager$1.run(DorisWriterManager.java:94) [doriswriter-0.0.1-SNAPSHOT.jar:na]\n        at java.lang.Thread.run(Thread.java:745) [na:1.8.0_101]"
+  },
+  {
+    "rank": 3,
+    "id": "msg_9e5f373f91a2f1109493c4bfd848ad9a6f541d8a941759b4390fb909ea1c2cb8",
+    "score": 42.98117,
+    "link": "https://github.com/apache/rocketmq/issues/2081",
+    "source": "github",
+    "origin_doc_id": "47f98fe51e82f7cdc94e19ce4ac0cbbb492caa9264329ae34e7483c0652d969e",
+    "snippet": "log.warn(\"Save consume queue extend fail, So just save tagsCode! {}, topic:{}, queueId:{}, offset:{}\", cqExtUnit, \n                         topic, queueId, request.getCommitLogOffset());\nlog.warn(\"[BUG]put commit log position info to \" + topic + \":\" + queueId + \" \" + request.getCommitLogOffset() \n                     + \" failed, retry \" + i + \" times\");\nlog.warn(\"\", e);"
+  },
+  {
+    "rank": 4,
+    "id": "msg_1147a537abe9209765ddcba13426765be9fef7390327127eb3f1acee4a45e58b",
+    "score": 42.5092,
+    "link": "https://stackoverflow.com/questions/76655107",
+    "source": "so",
+    "origin_doc_id": "eed09acc8a73bd2dd7ccc8fc5c577f4cb209cd397f1b9db0851de629cf5a432f",
+    "snippet": "ConnectionLost()\nlog.warn(e)\n     print(\"stream failed to connect multiple times, will retry in 30mn\")"
+  },
+  {
+    "rank": 5,
+    "id": "msg_c6a739ea80540d0839a34f22268a3bd35542aab0e7e18a63a64c43ef3d2f73ae",
+    "score": 40.646782,
+    "link": "https://github.com/apache/rocketmq/pull/2707",
+    "source": "github",
+    "origin_doc_id": "8e510a45a8e1a571fbf81adfc69b5aca3265c03d0ebead0529fd67da2bb733e3",
+    "snippet": "log.error(\"Error occurred when force data to disk.\", e);\nlog.warn(\"in flush, hold failed, flush offset = \" + this.flushedPosition.get());"
+  },
+  {
+    "rank": 6,
+    "id": "msg_91efda113952137dfc55ffb5709e13908c0c78430d53e2ec7b507c8a3aa047d7",
+    "score": 35.233505,
+    "link": "https://github.com/apache/incubator-doris/issues/1080",
+    "source": "github",
+    "origin_doc_id": "f8876b56cb0ba02b7d013cf7f4cefcfef106078cebf7ff47d9a14940de7de640",
+    "snippet": "10.26.82.143:\n\n W0429 21:47:00.231511 85103 olap_table_sink.cpp:203] failed to send batch, error=RPC call is timed out, error_text=[E1008]Reached timeout=50000ms @10.26.82.152:8060 \n I0429 21:47:00.231653 85103 status.cpp:54] failed to send batch \n     @           0xb96ba9  doris::Status::Status() \n     @          0x11dd838  doris::stream_load::NodeChannel::_wait_in_flight_packet() \n     @          0x11dd903  doris::stream_load::NodeChannel::close_wait() \n     @          0x11dee6f  doris::stream_load::IndexChannel::close() \n     @          0x11df2fe  doris::stream_load::OlapTableSink::close() \n     @           0xe405d5  doris::PlanFragmentExecutor::open_internal() \n     @           0xe40af3  doris::PlanFragmentExecutor::open() \n    @           0xde0077  doris::FragmentExecState::execute()\n    @           0xde1a4c  doris::FragmentMgr::exec_actual()\n    @           0xde5034  boost::detail::function::void_function_obj_invoker0<>::invoke()\n    @           0xda7ee8  doris::ThreadPool::work_thread()\n    @          0x157ffbd  thread_proxy\n    @     0x7f4362940dd5  start_thread\n    @     0x7f4362c52ead  __clone\nW0429 21:47:00.272903 85103 olap_table_sink.cpp:355] close_wait node channel failed, load_id=604297B000A3DE93:3DF96F1E3A3EB389, node=10.26.82.152:8060, errmsg=failed to send batch\n```"
+  },
+  {
+    "rank": 7,
+    "id": "msg_38618cdf0b2ae2a409ae9ad6a87f0e0b2dd0f4bef18bf1e862b6f8f0673960b6",
+    "score": 34.98061,
+    "link": "https://github.com/apache/incubator-doris/issues/6312",
+    "source": "github",
+    "origin_doc_id": "d624c49433418fda3996c7ce8a030f102e9675ad0d88044d8f62822b8c31648d",
+    "snippet": "com.alibaba.datax.common.exception.DataXException: Code:[DBUtilErrorCode-05], Description:[往您配置的写入表中写入数据时失败.].  - java.lang.RuntimeException: Writing records to Doris failed. \n         at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisWriterManager.checkFlushException(DorisWriterManager.java:141) \n         at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisWriterManager.writeRecord(DorisWriterManager.java:37) \n         at com.dorisdb.connector.datax.plugin.writer.doriswriter.DorisWriter$Task.startWrite(DorisWriter.java:117) \n         at com.alibaba.datax.core.taskgroup.runner.WriterRunner.run(WriterRunner.java:56) \n         at java.lang.Thread.run(Thread.java:745) \n Caused by: java.io.IOException: java.io.IOException: Unable to flush data to doris: unknown result status. \n         at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisWriterManager.asyncFlush(DorisWriterManager.java:127) \n         at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisWriterManager.access$000(DorisWriterManager.java:15) \n        at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisWriterManager$1.run(DorisWriterManager.java:94)\n        ... 1 more\nCaused by: java.io.IOException: Unable to flush data to doris: unknown result status.\n        at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisStreamLoadVisitor.doStreamLoad(DorisStreamLoadVisitor.java:58)\n        at com.dorisdb.connector.datax.plugin.writer.doriswriter.manager.DorisWriterManager.asyncFlush(DorisWriterManager.java:121)\n        ... 3 more\n - java.lang.RuntimeException: Writing records to Doris failed."
+  },
+  {
+    "rank": 8,
+    "id": "msg_cdbedd2414edeb8f03da6d59aa2fc908d12f9120357b0115f78e60c4bc352e1c",
+    "score": 34.107323,
+    "link": "https://github.com/apache/spark/pull/18739",
+    "source": "github",
+    "origin_doc_id": "5a05ee9eb67e2e1f689ffa8d6df93dff77251e1f9c623b489866854e2c2e3d7a",
+    "snippet": "logError(s\"Failed to connect to external shuffle server, will retry ${MAX_ATTEMPTS - i}\" \n             + s\" more times after waiting $SLEEP_TIME_SECS seconds...\", e)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_29f4a418bd6cd27907c4cc6af839592cd6435719f3aac461cfed04bedea963d3",
+    "score": 33.88672,
+    "link": "https://issues.apache.org/jira/browse/WW-2724",
+    "source": "jira",
+    "origin_doc_id": "642debf57f3b8310d859e34867e2482400e2c87a94f36ad8011262e23a021d00",
+    "snippet": "LOG.warn(\"error while trying to flush writer \", e);"
+  },
+  {
+    "rank": 10,
+    "id": "msg_6866893b7786096426a6c672a4a9794f707361500e8fb09a0aa1718af2b080aa",
+    "score": 33.301083,
+    "link": "https://github.com/qlangtech/tis/issues/107",
+    "source": "github",
+    "origin_doc_id": "aa1e20c5b1a419fdbcf12702c402f170b1bb40022cbb38b94ab7e9246c9984bd",
+    "snippet": "java.io.IOException: Failed to flush data to doris table:test.try_activity. \n {\"Status\":\"Fail\",\"BeginTxnTimeMs\":0 \n ,\"Message\":\"Syntax error in line 1: \n COLUMNS (id,type,role,show_time_type,show_sta... \n                  \n Encountered: ROLE \n Expected: ROLE is keyword, maybe `ROLE`\""
+  }
+]

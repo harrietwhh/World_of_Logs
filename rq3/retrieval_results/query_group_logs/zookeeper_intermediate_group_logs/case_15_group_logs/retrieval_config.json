@@ -1,0 +1,28 @@
+{
+  "mode": "csv_case",
+  "case_id": "15",
+  "query_source": "group_logs",
+  "query_count": 8,
+  "queries": [
+    "WARN Cannot open channel to 3 at election address /10.10.34.13: 3888",
+    "WARN Cannot open channel to 2 at election address /10.10.34.12: 3888",
+    "INFO Notification: 1 ( n.leader ), 0x300000dcd ( n.zxid ), 0x4 ( n.round ), LOOKING ( n.state ), 1 ( n.sid ), 0x3 ( n.peerEPoch ), LOOKING ( my state )",
+    "INFO Received connection request /10.10.34.13: 51884",
+    "INFO Notification time out: 12800",
+    "INFO Notification time out: 25600",
+    "INFO Notification time out: 51200",
+    "INFO Notification time out: 60000"
+  ],
+  "log_message": "",
+  "cases_csv": "data/Zookeeper.csv",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 41,
+  "retrieved_candidate_count": 41,
+  "output_dir": "zookeeper_intermediate_group_logs/case_15_group_logs",
+  "generated_at_utc": "2026-03-14T03:05:16.521590+00:00"
+}

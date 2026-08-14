@@ -1,0 +1,62 @@
+[1/30] LineId=1 querying: session closed for user root
+[1/30] LineId=1 success, results=10
+[2/30] LineId=2 querying: session opened for user root by (uid=0)
+[2/30] LineId=2 success, results=10
+[3/30] LineId=3 querying: (root) CMD (run-parts /etc/cron.hourly)
+[3/30] LineId=3 success, results=10
+[4/30] LineId=40 querying: data_thread() got not answer from any [Thunderbird_A8] datasource
+[4/30] LineId=40 success, results=3
+[5/30] LineId=46 querying: synchronized to 10.100.20.250, stratum 3
+[5/30] LineId=46 success, results=10
+[6/30] LineId=56 querying: [ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************
+[6/30] LineId=56 success, results=5
+[7/30] LineId=63 querying: [ib_sm_sweep.c:1455]: No topology change
+[7/30] LineId=63 success, results=9
+[8/30] LineId=64 querying: [ib_sm_sweep.c:1482]: No configuration change required
+[8/30] LineId=64 success, results=4
+[9/30] LineId=74 querying: Local disconnected: Connection closed.
+[9/30] LineId=74 success, results=10
+[10/30] LineId=75 querying: connection lost: 'Connection closed.'
+[10/30] LineId=75 success, results=8
+[11/30] LineId=96 querying: unable to qualify my own domain name (eadmin1) -- using short name
+[11/30] LineId=96 success, results=10
+[12/30] LineId=98 querying: jA9J1UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.j...
+[12/30] LineId=98 success, results=1
+[13/30] LineId=99 querying: jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, ma...
+[13/30] LineId=99 success, results=1
+[14/30] LineId=128 querying: DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1
+[14/30] LineId=128 success, results=1
+[15/30] LineId=129 querying: DHCPOFFER on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1
+[15/30] LineId=129 success, results=1
+[16/30] LineId=132 querying: DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases
+[16/30] LineId=132 success, results=1
+[17/30] LineId=139 querying: DHCPACK on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1
+[17/30] LineId=139 success, results=1
+[18/30] LineId=140 querying: DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1
+[18/30] LineId=140 success, results=1
+[19/30] LineId=141 querying: START: tftp pid=16563 from=10.100.4.251
+[19/30] LineId=141 success, results=3
+[20/30] LineId=142 querying: DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unk...
+[20/30] LineId=142 success, results=1
+[21/30] LineId=404 querying: RRD_update (/var/lib/ganglia/rrds/C Nodes/cn304/pkts_out.rrd): illegal attempt t...
+[21/30] LineId=404 success, results=10
+[22/30] LineId=459 querying: kernel time sync disabled 0041
+[22/30] LineId=459 success, results=10
+[23/30] LineId=460 querying: time reset +0.182379 s
+[23/30] LineId=460 success, results=3
+[24/30] LineId=566 querying: Received SNMP packet(s) from #34#
+[24/30] LineId=566 success, results=10
+[25/30] LineId=957 querying: kernel time sync enabled 0001
+[25/30] LineId=957 success, results=10
+[26/30] LineId=1101 querying: (root) CMD (/projects/tbird/temps/get_temps a)
+[26/30] LineId=1101 success, results=3
+[27/30] LineId=1162 querying: My unqualified host name (eadmin1) unknown; sleeping for retry
+[27/30] LineId=1162 success, results=10
+[28/30] LineId=1182 querying: CentOS-4 (Kernel Module GPG key)
+[28/30] LineId=1182 success, results=10
+[29/30] LineId=1183 querying: (supports S0 S4 S5)
+[29/30] LineId=1183 success, results=10
+[30/30] LineId=1184 querying: DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000
+[30/30] LineId=1184 success, results=3
+Batch results saved to: RQ1/search_results/google/Thunderbird_selected_30
+Summary: rows=30, attempted=30, successes=30, failures=0, skipped=0

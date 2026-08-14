@@ -1,0 +1,36 @@
+{
+  "case_id": "29",
+  "summary_raw": "[\"Node card status\",\"Clock Mode is Low\",\"Phy JTAG Reset is asserted\",\"PGOOD IS NOT ASSERTED\",\"MPGOOD IS NOT OK\",\"MPGOOD ERROR LATCH IS ACTIVE\",\"Node card is not fully functional\",\"Can not get assembly information\"]",
+  "summary_items": [
+    "Node card status",
+    "Clock Mode is Low",
+    "Phy JTAG Reset is asserted",
+    "PGOOD IS NOT ASSERTED",
+    "MPGOOD IS NOT OK",
+    "MPGOOD ERROR LATCH IS ACTIVE",
+    "Node card is not fully functional",
+    "Can not get assembly information"
+  ],
+  "group_logs_lines": [
+    "NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",
+    "NULL DISCOVERY WARNING Node card is not fully functional",
+    "NULL DISCOVERY SEVERE Can not get assembly information for node card",
+    "NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",
+    "NULL DISCOVERY WARNING Node card is not fully functional",
+    "NULL DISCOVERY SEVERE Can not get assembly information for node card",
+    "NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",
+    "NULL DISCOVERY WARNING Node card is not fully functional",
+    "NULL DISCOVERY SEVERE Can not get assembly information for node card",
+    "NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",
+    "NULL DISCOVERY WARNING Node card is not fully functional",
+    "NULL DISCOVERY SEVERE Can not get assembly information for node card",
+    "NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",
+    "NULL DISCOVERY WARNING Node card is not fully functional",
+    "NULL DISCOVERY SEVERE Can not get assembly information for node card",
+    "NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",
+    "NULL DISCOVERY WARNING Node card is not fully functional",
+    "NULL DISCOVERY WARNING Node card is not fully functional",
+    "NULL DISCOVERY SEVERE Can not get assembly information for node card",
+    "NULL DISCOVERY SEVERE Can not get assembly information for node card"
+  ]
+}

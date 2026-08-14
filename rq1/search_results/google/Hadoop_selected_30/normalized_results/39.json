@@ -1,0 +1,188 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Yarn Resource Manager throws error",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Yarn-Resource-Manager-throws-error/td-p/81393",
+    "displayed_link": "https://community.cloudera.com › td-p",
+    "snippet": "... apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context ...",
+    "snippet_highlighted_words": [
+      "Added filter AM_PROXY_FILTER",
+      "class",
+      "org",
+      "apache",
+      "hadoop",
+      "yarn",
+      "server",
+      "webproxy",
+      "amfilter",
+      "AmIpFilter",
+      "context"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Unable to start thrift-server due to class org.apache.hadoop ...",
+    "link": "https://stackoverflow.com/questions/79224196/unable-to-start-thrift-server-due-to-class-org-apache-hadoop-yarn-server-webprox",
+    "displayed_link": "1 answer · 1 year ago",
+    "snippet": "Unable to start thrift-server due to class org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter is not a javax.servlet.Filter · java 1.8, ...",
+    "snippet_highlighted_words": [
+      "class org",
+      "apache",
+      "hadoop",
+      "yarn",
+      "server",
+      "webproxy",
+      "amfilter",
+      "AmIpFilter",
+      "Filter"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Map reduce not Working with RMR2 / YARN · Issue #113",
+    "link": "https://github.com/RevolutionAnalytics/rmr2/issues/113",
+    "displayed_link": "https://github.com › RevolutionAnalytics › rmr2 › issues",
+    "snippet": "... apache.hadoop.http.HttpServer: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static",
+    "snippet_highlighted_words": [
+      "Added filter AM_PROXY_FILTER",
+      "class",
+      "org",
+      "apache",
+      "hadoop",
+      "yarn",
+      "server",
+      "webproxy",
+      "amfilter",
+      "AmIpFilter",
+      "context static"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Pig based Alpine operators fail to run on HA MapR4.1 cluster",
+    "link": "https://support.tibco.com/external/article/82673/hadoop-pig-based-alpine-operators-fail.html",
+    "displayed_link": "https://support.tibco.com › external › article › hadoop-...",
+    "snippet": "Pig based Alpine operators fail to run on HA MapR4.1 cluster - ArrayIndexOutOfBoundsException 1. See the attached screenshot for the regular data source ...",
+    "snippet_highlighted_words": [],
+    "source": "Tibco",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Re: Can't run hadoop examples with YARN Single node cluster ...",
+    "link": "https://lists.apache.org/thread/fqbq51cpjdvcxv1ygbyt769sv4q5bwcw",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "... Class path contains multiple SLF4J bindings. ... (org.apache.hadoop.ipc.Server). log4j:WARN Please ... Added global filter 'safety' (class=org.apache ...",
+    "snippet_highlighted_words": [
+      "Class",
+      "org",
+      "apache",
+      "hadoop",
+      "Server",
+      "Added",
+      "filter",
+      "class",
+      "org",
+      "apache"
+    ],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Re: Yarn AM is abending job when submitting a remote ...",
+    "link": "https://lists.apache.org/thread/7cnsvh1oy8cm458m6s4vnkkqoypj9ygg",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "Ulul, I will try your recommendation and see what happens. My prototype came from examples in Tom White's Hadoop Definitive guide book Chapter 5.",
+    "snippet_highlighted_words": [
+      "Hadoop"
+    ],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "import hive table from parquet files, there is no 'job. ...",
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-6736",
+    "displayed_link": "https://issues.apache.org › browse › MAPREDUCE-6736",
+    "snippet": "... apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context ...",
+    "snippet_highlighted_words": [
+      "Added filter AM_PROXY_FILTER"
+    ],
+    "source": "Apache Software Foundation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "org.apache.hadoop.yarn.server.webproxy.amfilter. ...",
+    "link": "https://github.com/spark-notebook/spark-notebook/issues/258",
+    "displayed_link": "https://github.com › spark-notebook › issues",
+    "snippet": "I was thinking that adding the /etc/hadoop/lib or something would clear that, but maybe including it in the build can be a good/better solution!",
+    "snippet_highlighted_words": [
+      "adding",
+      "hadoop"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "[jira] [Comment Edited] (YARN-9690) Invalid AMRM token ...",
+    "link": "https://lists.apache.org/thread/0298vp5mj6tj79w5vhv8791cf2k2lxf8",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "... org.apache.hadoop.http.HttpServer2: Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context ...",
+    "snippet_highlighted_words": [
+      "Added filter AM_PROXY_FILTER",
+      "class",
+      "org",
+      "apache",
+      "hadoop",
+      "yarn",
+      "server",
+      "webproxy",
+      "amfilter",
+      "AmIpFilter",
+      "context"
+    ],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Flaky queries with 'TezSession has already shut down'",
+    "link": "https://lists.apache.org/thread/pr5j9tlbmoq1fychly7shx96jn3y8mc4",
+    "displayed_link": "https://lists.apache.org › thread",
+    "snippet": "​While running Hive on Tez applications (Hive 1.2, Tez 0.7.0, Hadoop 2.6.0), some of queries fail intermittently with the error. This affects a wide range ...",
+    "snippet_highlighted_words": [
+      "Hadoop"
+    ],
+    "source": "Apache Mail Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

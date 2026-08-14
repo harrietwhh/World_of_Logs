@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_8a92f740d8a25d98cef316fe7616ea039511b705074c85a01559b40dddf2fd07",
+    "score": 40.591442,
+    "link": "https://github.com/vert-x3/vertx-mysql-postgresql-client/issues/165",
+    "source": "github",
+    "origin_doc_id": "856f122a8e524201a14be2d29861e3499c40fba00fb4608b88251cf644c4f0a7",
+    "snippet": "log.debug(\"connection: {} sql: {}, params: {}\", connection, sql, params);"
+  },
+  {
+    "rank": 2,
+    "id": "msg_a869a5d529c51e176e74669a8e081154b182a866ec5ffdaed0c37cd4743387c8",
+    "score": 38.211456,
+    "link": "https://github.com/haftahave/serverless-ses-template/issues/5",
+    "source": "github",
+    "origin_doc_id": "4d67a495e92f99e0db430f382460c597b9796801e5e36dcc8428ee0816aa1b6c",
+    "snippet": "console.log('Template params=', params);"
+  },
+  {
+    "rank": 3,
+    "id": "msg_cedef9e07f1176f0570f111082ccbbe2d655e98c02a8fff7cb476edec9582f51",
+    "score": 36.535492,
+    "link": "https://github.com/mailbadger/app/issues/522",
+    "source": "github",
+    "origin_doc_id": "79a4928fb27992498353c748ed2c2b640e8c197fdd124ab7aaa50f26645685d7",
+    "snippet": "binding: required \n post template with missing subject and name params error type : \n ERRO[0003] Unable to bind post template params."
+  },
+  {
+    "rank": 4,
+    "id": "msg_fa0aaec26a3b34322b2b76eca1915d1c4f802a946eaeddcc8409bcf93955ec04",
+    "score": 35.821983,
+    "link": "https://github.com/redhat-cop/openshift-applier/issues/10",
+    "source": "github",
+    "origin_doc_id": "87f41d093c54ff8be27d3f117fd1b823997b7d71458ebb2f4d35322d5e461d1b",
+    "snippet": "[openshift-applier : Fail if template but no params is specified] *********************************************************************************************** \n fatal: [localhost]: FAILED! => {\"changed\": false, \"msg\": \"Template specified, but no params file supplied\"} \n ```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_a954709f93f3e7f26afeaa1e45c678ce7233ca4c68f918359890fd764e0d4d38",
+    "score": 35.43469,
+    "link": "https://stackoverflow.com/questions/78803356",
+    "source": "so",
+    "origin_doc_id": "6ba3125b57d5727b8fc440692b246dd6920e5ccec7cc49282d7014e5baa300ef",
+    "snippet": "Error: Insufficient params provided for localized pathname. \n Template: /blog/[categorySlug] \n Params: undefined"
+  },
+  {
+    "rank": 6,
+    "id": "msg_0ffb001bbdeec3a5451749e2fa6701b86ee06b8a5a276234e5e72e27162fac9e",
+    "score": 34.91731,
+    "link": "https://stackoverflow.com/questions/41503125",
+    "source": "so",
+    "origin_doc_id": "14e2f4c2aa120d93c4e6fd98a61fba5de4faa894cce0f664da157420855e7719",
+    "snippet": "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''0','Template fuer emir - Default','{}')' at line 3 SQL=INSERT INTO `#__template_styles` (`template`,`client_id`,`home`,`title`,`params`) VALUES"
+  },
+  {
+    "rank": 7,
+    "id": "msg_0e89313f6c7748bcd6a51b6edaeb67b53073ddb1513980da484485ec132a6b71",
+    "score": 34.90471,
+    "link": "https://github.com/storybookjs/storybook/issues/16753",
+    "source": "github",
+    "origin_doc_id": "e2d9fd60beab9fd8f10f41b5afceceb916830048a157265029aae8a198e217ec",
+    "snippet": "console.log('CALLING TEMPLATE PARAMS FUNC') ||"
+  },
+  {
+    "rank": 8,
+    "id": "msg_1bb059c1bdda0247d240cd8c6ae510bd29ad78cc7d13c68be07756236bc789be",
+    "score": 34.380905,
+    "link": "https://stackoverflow.com/questions/45475094",
+    "source": "so",
+    "origin_doc_id": "7d8429a48141436d6115e1c3a1f281425c834e0d89aa8d633925df2b9c75577f",
+    "snippet": "main.cpp: In instantiation of 'void func(int, Params ...) [with Params = {const char*}]': \n main.cpp:15:6:   required from 'void func(float, Params ...) [with Params = {int, const char*}]' \n main.cpp:24:23:   required from here \nmain.cpp:11:6: error: no matching function for call to 'func(const char*&)'\n  func(params...);\n  ~~~~^~~~~~~~~~~\nmain.cpp:5:6: note: candidate: void func()\n void func(){\n      ^~~~\nmain.cpp:5:6: note:   candidate expects 0 arguments, 1 provided\nmain.cpp:9:36: note: candidate: template<class ... Params> void func(int, Params ...)\n template< typename ...Params> void func(int x, Params... params){\n                                    ^~~~\nmain.cpp:9:36: note:   template argument deduction/substitution failed: \n main.cpp:11:6: note:   cannot convert 'params#0' (type 'const char*') to type 'int' \n   func(params...);"
+  },
+  {
+    "rank": 9,
+    "id": "msg_1b501a1f493598e9ae52d1422c7f5ceda2909aca78f2553b8ad70b7d026152bb",
+    "score": 34.33339,
+    "link": "https://stackoverflow.com/questions/47566610",
+    "source": "so",
+    "origin_doc_id": "4130157512213d33ffd00cedaa8f695d75f6fd98a93bed725315737cb3f95154",
+    "snippet": "Log.e(\"Builder Params \" , sb.toString());"
+  },
+  {
+    "rank": 10,
+    "id": "msg_f3854317f89b35051bd25f39715ec6cc6d9e6d777abd6174963a2b5aee452514",
+    "score": 34.203392,
+    "link": "https://stackoverflow.com/questions/47566610",
+    "source": "so",
+    "origin_doc_id": "4130157512213d33ffd00cedaa8f695d75f6fd98a93bed725315737cb3f95154",
+    "snippet": "System.out.println(\"Default Params\");\nSystem.out.println(\"Builder Params \"+sb.toString());\nLog.d(\"Location\", \"my location is \" + location.toString());"
+  }
+]

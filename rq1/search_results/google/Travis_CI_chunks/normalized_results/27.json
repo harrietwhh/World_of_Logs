@@ -1,0 +1,168 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "xcodebuild: error: Unable to find a destination matching ...",
+    "link": "https://github.com/CocoaPods/CocoaPods/issues/7454",
+    "displayed_link": "https://github.com › CocoaPods › CocoaPods › issues",
+    "snippet": "Seems like a simulator is missing from your setup to execute the build. I do not think this is a cocoapods issue.",
+    "snippet_highlighted_words": [
+      "Seems like a simulator is missing from your setup"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "\"Unable to find a device matching the provided destination ...",
+    "link": "https://stackoverflow.com/questions/79533005/unable-to-find-a-device-matching-the-provided-destination-specifier-when-tryin",
+    "displayed_link": "1 answer · 1 year ago",
+    "snippet": "Xcodebuild: Unable to find a destination matching the provided destination specifier --> The deployment target has not been changed; it has been ...",
+    "snippet_highlighted_words": [
+      "Xcodebuild",
+      "Unable",
+      "find",
+      "destination matching",
+      "provided destination specifier"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Xcode unable to find a destination…",
+    "link": "https://developer.apple.com/forums/thread/691414",
+    "displayed_link": "https://developer.apple.com › forums › thread",
+    "snippet": "I had the same issue: (\"xcodebuild\" exited with error code 70; The requested device could not be found because no available devices matched the request.) , but ...",
+    "snippet_highlighted_words": [
+      "xcodebuild",
+      "error",
+      "available"
+    ],
+    "source": "Apple Developer",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Xcodebuild error: Unable to find a destination matching the ...",
+    "link": "https://github.com/Carthage/Carthage/issues/950",
+    "displayed_link": "https://github.com › Carthage › Carthage › issues",
+    "snippet": "This might be an issue with \"unavailable\" simulators. Running xcrun simctl list might turn up some simulators that are unavailable and need to be deleted.",
+    "snippet_highlighted_words": [
+      "simulators",
+      "simulators"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Xcodebuild Destination Cheatsheet - mokacoding",
+    "link": "https://mokacoding.com/blog/xcodebuild-destination-options/",
+    "displayed_link": "https://mokacoding.com › blog › xcodebuild-destinatio...",
+    "snippet": "xcodebuild: error: Unable to find a destination matching the provided destination specifier: { platform:jibberish } The requested device ...",
+    "snippet_highlighted_words": [
+      "xcodebuild",
+      "error",
+      "Unable",
+      "find",
+      "destination matching",
+      "provided destination specifier",
+      "platform"
+    ],
+    "source": "mokacoding.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Error: Unable to launch WebDriverA…",
+    "link": "https://developer.apple.com/forums/thread/715187",
+    "displayed_link": "https://developer.apple.com › forums › thread",
+    "snippet": "Error: Unable to launch WebDriverAgent because of xcodebuild failure: xcodebuild failed with code '70' for Apple TVOS 15.3. Developer Tools & Services Xcode ...",
+    "snippet_highlighted_words": [
+      "Error",
+      "Unable",
+      "xcodebuild failure",
+      "xcodebuild failed",
+      "Apple TVOS"
+    ],
+    "source": "Apple Developer",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Solving “Exit Status 70”: When xcodebuild Can't Find Your ...",
+    "link": "https://medium.com/@amitnadir_18883/solving-exit-status-70-when-xcodebuild-cant-find-your-simulator-5842e6557ef2",
+    "displayed_link": "1 month ago",
+    "snippet": "On Apple Silicon Macs, the simulator needs arm64 excluding it makes the destination invisible to xcodebuild. The fix: Go to your Project → Build ...",
+    "snippet_highlighted_words": [
+      "Apple",
+      "simulator",
+      "destination",
+      "xcodebuild"
+    ],
+    "source": "Medium · Amit Nadir",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Xcodebuild error \"Unable to find a destination matching ...",
+    "link": "https://discuss.bitrise.io/t/xcodebuild-error-unable-to-find-a-destination-matching-the-provided-destination-specifier/11248",
+    "displayed_link": "https://discuss.bitrise.io › Question & Answer › Builds",
+    "snippet": "We have a problem with iOS build. We receive the error as if it could not find proper device: xcodebuild: error: Unable to find a destination matching the ...",
+    "snippet_highlighted_words": [
+      "iOS",
+      "error",
+      "find",
+      "xcodebuild",
+      "error",
+      "Unable",
+      "find",
+      "destination"
+    ],
+    "source": "Bitrise",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "AppleTV no longer showing up on Xcode in 'Devices & ...",
+    "link": "https://www.reddit.com/r/appletv/comments/1pybljk/appletv_no_longer_showing_up_on_xcode_in_devices/",
+    "displayed_link": "10+ comments · 3 months ago",
+    "snippet": "However, with the recent upgrade to tvOS26 and MacOS26, I can no longer 'see' my AppleTV in the Xcode 'devices and simulators' screen - it ...",
+    "snippet_highlighted_words": [
+      "AppleTV",
+      "simulators"
+    ],
+    "source": "Reddit · r/appletv",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Xcode CI doesn't build project, getting \"Unable to find a ...",
+    "link": "https://discuss.circleci.com/t/xcode-ci-doesnt-build-project-getting-unable-to-find-a-destination-matching-the-provided-destination-specifier/18213",
+    "displayed_link": "https://discuss.circleci.com › Build Environment › Mobile",
+    "snippet": "I have an empty xcode project that I am trying to hook the CI up. I have 2.0 and the sample config.yml with a little bit of customization (see below).",
+    "snippet_highlighted_words": [],
+    "source": "CircleCI Discuss",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

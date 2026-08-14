@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_53798206afa1b4804eb5fdb3579c0a9772d1f068f11c2c3b91b93c48f4eeb6c8",
+    "score": 26.327465,
+    "link": "https://bugreports.qt.io/browse/QTBUG-20831",
+    "source": "jira",
+    "origin_doc_id": "f481688491998d829e692ae547d60610cb4967a0471b4f56c8b5a52b3979f056",
+    "snippet": "virtual void Dial::mouseMoveEvent(QMouseEvent*)   92                             \n Intellimouse: motion 0,0, state 0, raw wheel 1, wheel 120                        \n QWSPcMouseSubHandler tryData read 4 bytes: 08 00 00 ff                           \n Intellimouse: motion 0,0, state 0, raw wheel 5, wheel 0                          \nQWSPcMouseSubHandler tryData read 1 bytes: 08                                   \nIntellimouse: skipping (overflow)                                               \nQWSPcMouseSubHandler tryData read 1 bytes: 00                                   \nIntellimouse: skipping (overflow)                                               \nQWSPcMouseSubHandler tryData read 1 bytes: 00                                   \nIntellimouse: motion -248,256, state 3, raw wheel 0, wheel 0                    \nQWSPcMouseSubHandler tryData read 4 bytes: fb 08 00 00                          \nIntellimouse: skipping (overflow)                                               \n{noformat}"
+  },
+  {
+    "rank": 2,
+    "id": "msg_a1b317532c75af08199ece662faea7d775366ef79aa7ebdc5dc21e62856ce919",
+    "score": 24.300373,
+    "link": "https://github.com/k-visscher/intellimouse-ctl/issues/18",
+    "source": "github",
+    "origin_doc_id": "f849f518b0cbc5a01a5e02b3255b9df0d891237be57978e89767fafbe1427158",
+    "snippet": "$ intellimouse-ctl list \n 0. ProIntelliMouse @ \"DevSrvsID:4295139340\" \n $ intellimouse-ctl get --dpi 0 \n Traceback (most recent call last): \n   File \"/usr/local/bin/intellimouse-ctl\", line 8, in <module> \n     sys.exit(main()) \n   File \"/usr/local/lib/python3.9/site-packages/intellimouse_ctl/__init__.py\", line 119, in main \n    with _connected_devices()[namespace.index] as device: \n   File \"/usr/local/lib/python3.9/site-packages/intellimouse/intellimouse.py\", line 33, in __enter__ \n     self._device.open_path(self._path) \n   File \"hid.pyx\", line 125, in hid.device.open_path \n OSError: open failed \n ```"
+  },
+  {
+    "rank": 3,
+    "id": "msg_414261332bafc4d3192bbc4161fea088187b68ffcc8616eac7ac4b19b478c086",
+    "score": 21.73838,
+    "link": "https://github.com/duckdb/duckdb/issues/3193",
+    "source": "github",
+    "origin_doc_id": "5fc93aa5177cee31d4bd107f23bfc09e8b7eeff95fb18ec1ea0d83976905ae41",
+    "snippet": "Invalid Input Error on CSV ingestion \n Invalid Input Error: Error on line 7456991: expected 150 values per row, but got 2. (DELIMITER=',' (auto detected), QUOTE='\"' (auto detected), ESCAPE='' (auto detected), HEADER=1 (auto detected), SAMPLE_SIZE=10240, ALL_VARCHAR=1) \n Table has"
+  },
+  {
+    "rank": 4,
+    "id": "msg_9d8ef4b69776b15d7429351a97942d992f93192ef1fe75d4b641d2a84de64d62",
+    "score": 20.73458,
+    "link": "https://github.com/cilium/cilium-cli/pull/701",
+    "source": "github",
+    "origin_doc_id": "0b61b3d217b7acd08c816319aa753567d4154b4afa0dc92a611317e9ae5addd2",
+    "snippet": "Auto-detected Kubernetes kind: EKS \n ℹ️  using Cilium version \"v1.11.1\" \n 🔮 Auto-detected cluster name: arn:aws:eks:ap-southeast-2:926702434684:cluster/tammach-17899 \n 🔮 Auto-detected IPAM mode: eni\nAuto-detected datapath mode: aws-eni \n ❌ Cluster name \"arn:aws:eks:ap-southeast-2:926702434684:cluster/tammach-17899\" is not valid, must match regular expression: ^[a-z0-9]([-a-z0-9]*[a-z0-9])$ \n ↩️ Rolling back installation..."
+  },
+  {
+    "rank": 5,
+    "id": "msg_343d2cea8697e503aa1e487133a9bb85e081b6fc257ce49dda2650cb2e4997ee",
+    "score": 20.639002,
+    "link": "https://github.com/alexherbo2/auto-pairs.kak/issues/50",
+    "source": "github",
+    "origin_doc_id": "c636a93ce1b98a462fcdc9d96e5f90475e941e0c1c43da3c7372b426637bba3c",
+    "snippet": "error running hook ModuleLoaded(auto-pairs)/: 2:2: 'auto-pairs-enable' 2:5: 'auto-pairs-save-settings' no such command: '$' \n Config-change detected: \n Error: 1:1: 'auto-pairs-enable' 2:5: 'auto-pairs-save-settings' no such command: '$' \n ```"
+  },
+  {
+    "rank": 6,
+    "id": "msg_f46168c59ca65a338a784e27207b17b23fe13fce5ccc4487d0f428c1e6372bf5",
+    "score": 20.23862,
+    "link": "https://github.com/cilium/cilium-cli/issues/130",
+    "source": "github",
+    "origin_doc_id": "830e8f46754b486ba8f9494d67349d0b52c5f0b0880b425bae0ebb6a2cce8d65",
+    "snippet": "install \n 🔮 Auto-detected Kubernetes kind: GKE \n ℹ️  Cilium version not set, using default version \"v1.9.5\" \n 🔮 Auto-detected cluster name: gke-ezpz-scale-test-us-west1-a-cluster-2 \n 🔮 Auto-detected IPAM mode: kubernetes \n 🔮 Auto-detected datapath mode: gke \n ✅ Detected GKE native routing CIDR: 10.60.0.0/14 \n🚀 Creating Resource quotas...\n🔑 Found existing CA in secret cilium-ca\n🔑 Generating certificates for Hubble..."
+  },
+  {
+    "rank": 7,
+    "id": "msg_86ad936df467b9444b78272ae45a9a39fc2734700cc221a0e97a6e4ac8c13145",
+    "score": 20.13364,
+    "link": "https://github.com/relayrides/pushy/issues/697",
+    "source": "github",
+    "origin_doc_id": "1a1ca7e8b028ad299072bcddad7524ce9fc29c487db755f84aa9ada673833c80",
+    "snippet": "16:12:06.448 [nioEventLoopGroup-2-2] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 20936 (auto-detected)"
+  },
+  {
+    "rank": 8,
+    "id": "msg_e1343175e078427106fb646d4dbba5f6a1c2631fc847483ad6fa6bcfa8e3c503",
+    "score": 20.127274,
+    "link": "https://github.com/i3/i3status/pull/318",
+    "source": "github",
+    "origin_doc_id": "6c2c667bd4cb74530431b4b869f7c32498948b76c27cad11340b38c30f98a1f0",
+    "snippet": "trying to auto-detect output_format setting \n \ti3status: auto-detected \"term\" \n \tcpu0=-2% cpu1=-49% cpu=-2% \n \tcpu0=06% cpu1=02% cpu=06% \n \tcpu0=05% cpu1=06%\n\t$ i3status -c ./config\n\ti3status: trying to auto-detect output_format setting\n\ti3status: auto-detected \"term\"\n\tprovided CPU number '-1' above detected number of CPU 4\n\tcpu0= cpu1=-48% cpu=\n\tprovided CPU number '-1' above detected number of CPU 4\n\tcpu0= cpu1=11% cpu=\n\tprovided CPU number '-1' above detected number of CPU 4\n\tcpu0= cpu1=03% cpu=\n\t..."
+  },
+  {
+    "rank": 9,
+    "id": "msg_7122f0bb8d2198604c9583e98da302b290c86a2aef6e33b1e88ab4231a833e05",
+    "score": 20.113094,
+    "link": "https://github.com/tenzir/vast/pull/1940",
+    "source": "github",
+    "origin_doc_id": "eeca7303f7a17cd7bdd3db7e68c4a2a734037663a0bd84d58a055f7323f458f5",
+    "snippet": "auto& ps = caf::get<record>(indexer_states.emplace_back(record{})); \n libvast/src/system/index.cpp:519:              auto& ps = caf::get<record>(xs.emplace_back(record{})); \n libvast/src/system/index.cpp:532:              auto& ps = caf::get<record>(xs.emplace_back(record{})); \n libvast/src/system/type_registry.cpp:52:          = caf::get<record>(concepts_status.emplace_back(record{})); \n ```"
+  },
+  {
+    "rank": 10,
+    "id": "msg_d311e81bd8048a79d603412278c2858e44a8db2314d77590f2f43cfa8e025c9a",
+    "score": 19.92984,
+    "link": "https://github.com/macports/macports-ports/pull/9239",
+    "source": "github",
+    "origin_doc_id": "a3ea3284d8488a704267f73617e5b6d72896a2ba4a2b447fe85384c97d16086f",
+    "snippet": "``` \n Could not open /opt/local/lib/libgs.9.52.dylib: Error opening or reading file (referenced from /opt/local/lib/gimp/2.0/plug-ins/file-ps/file-ps) \n ``` \n ###### Type(s) \n <!-- update (title contains \": U(u)pdate to\"), submission (new Portfile) and CVE Identifiers are auto-detected, replace [ ] with [x] to select -->"
+  }
+]

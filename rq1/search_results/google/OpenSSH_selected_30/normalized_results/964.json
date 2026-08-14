@@ -1,0 +1,142 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "SSH fails with 'Received disconnect' only for select users",
+    "link": "https://superuser.com/questions/1136602/ssh-fails-with-received-disconnect-only-for-select-users",
+    "displayed_link": "https://superuser.com › questions › ssh-fails-with-receiv...",
+    "snippet": "If I attempt connections using lftp or sftp, the same happens: the connection is dropped right away for the select user This makes me wonder ...",
+    "snippet_highlighted_words": [
+      "user"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "SSHD error: Received disconnect",
+    "link": "https://bbs.archlinux.org/viewtopic.php?id=160408",
+    "displayed_link": "https://bbs.archlinux.org › viewtopic",
+    "snippet": "All I can say is that when running sshd.service with \"-Dddd\" the disconnect messages are recorded using the usual auth.info facility, not auth.err.",
+    "snippet_highlighted_words": [
+      "disconnect"
+    ],
+    "source": "Arch Linux Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Spammed by SSH connection attempts : r/archlinux",
+    "link": "https://www.reddit.com/r/archlinux/comments/mpx516/spammed_by_ssh_connection_attempts/",
+    "displayed_link": "20+ comments · 4 years ago",
+    "snippet": "apr 12 10:13:04 Void sshd[4002096]: Received disconnect from 124.156 ... Disconnected from invalid user anke 157.230.109.166 port 33528 [preauth].",
+    "snippet_highlighted_words": [
+      "Received disconnect from",
+      "Disconnected",
+      "user"
+    ],
+    "source": "Reddit · r/archlinux",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "[SSHD] connection closed immediately on login",
+    "link": "https://forums.freebsd.org/threads/sshd-connection-closed-immediately-on-login.43029/",
+    "displayed_link": "https://forums.freebsd.org › threads › sshd-connection-...",
+    "snippet": "sshd is running and accepts connections, but claims that the \"user disconnected\" immediately after login. It also complains as: Code: csh: No such file or ...",
+    "snippet_highlighted_words": [
+      "user disconnected"
+    ],
+    "source": "FreeBSD",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Logs: \"Received disconnect from...\" without the \"Accepted ...",
+    "link": "https://serverfault.com/questions/735032/logs-received-disconnect-from-without-the-accepted-couterpart",
+    "displayed_link": "https://serverfault.com › questions › logs-received-disco...",
+    "snippet": "It is just a \"spam\" from probes browsing the internet. They are not dangerous if you don't allow password authentication.",
+    "snippet_highlighted_words": [],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "What's the purpose? Strange login attemps \"sshd[***] ...",
+    "link": "https://security.stackexchange.com/questions/44238/whats-the-purpose-strange-login-attemps-sshd-received-disconnect-from",
+    "displayed_link": "https://security.stackexchange.com › questions › whats-t...",
+    "snippet": "This error rises from a fatal error in the authentication process (see monitor.c of OpenSSH versions 6.1p1+). It is likely that the attacker is using some ...",
+    "snippet_highlighted_words": [],
+    "source": "Information Security Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Chris's Wiki :: blog/linux/OpenSSHDisconnectLogging",
+    "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/OpenSSHDisconnectLogging",
+    "displayed_link": "https://utcc.utoronto.ca › ~cks › space › OpenSSHDiscon...",
+    "snippet": "If there is a 'Received disconnect' and a 'Disconnected' message logged by sshd, the session was disconnected in an orderly way and you can get ...",
+    "snippet_highlighted_words": [
+      "Received disconnect",
+      "Disconnected",
+      "disconnected"
+    ],
+    "source": "Information Technology Services - University of Toronto",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "ssh connection closes after successful login",
+    "link": "https://askubuntu.com/questions/36944/ssh-connection-closes-after-successful-login",
+    "displayed_link": "https://askubuntu.com › questions › ssh-connection-clos...",
+    "snippet": "Seems that ssh is setup incorrectly, I get a password prompt and information about the computer, but then the connection instantly close.",
+    "snippet_highlighted_words": [
+      "get"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Why sshd outputs “error: Received disconnect from XXX ...",
+    "link": "https://access.redhat.com/solutions/6998621",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Why sshd outputs “error: Received disconnect from XXX port XXX: Server protocol violation: unexpected SSH2_MSG_UNIMPLEMENTED packet [preauth])” message?",
+    "snippet_highlighted_words": [
+      "Received disconnect from"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "sshd[23996]: Received disconnect from 01.02.03.04: 11",
+    "link": "https://www.linuxquestions.org/questions/linux-newbie-8/php-net_sftp-sshd%5B23996%5D-received-disconnect-from-01-02-03-04-11-a-4175561040/",
+    "displayed_link": "https://www.linuxquestions.org › linux-newbie-8 › php-...",
+    "snippet": "Check permissions of the home directory of the user you're trying to login to on that remote as well as the .ssh subdirectory. SSH (and ...",
+    "snippet_highlighted_words": [
+      "user"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

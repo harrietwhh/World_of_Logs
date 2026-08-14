@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_b3129ff5b82d6aa3349eea05466177c8c72ad204e8d768616c8487f63088a9f8",
+    "score": 73.930954,
+    "link": "https://stackoverflow.com/questions/21763460",
+    "source": "so",
+    "origin_doc_id": "1fd564d13d94ca2a0e2eed87ac67a53f0b966f373cbb1764732e066cba4b1e15",
+    "snippet": "Feb 13 18:41:37 sshd[22426]: Received disconnect from 186.42.181.66: 11: Bye Bye [preauth] \n Feb 13 18:41:38 sshd[22428]: Received disconnect from 186.42.181.66: 11: Bye Bye [preauth] \n Feb 13 18:41:39 sshd[22430]: reverse mapping checking getaddrinfo for host-190-95-232-234.uio.telconet.net [190.95.232.234] failed - POSSIBLE BREAK-IN ATTEMPT! \n Feb 13 18:41:39 sshd[22430]: Received disconnect from 190.95.232.234: 11: Bye Bye [preauth] \n Feb 13 18:41:40 sshd[22432]: Received disconnect from 186.42.181.66: 11: Bye Bye [preauth] \n Feb 13 18:41:41 sshd[22434]: reverse mapping checking getaddrinfo for host-190-95-232-234.uio.telconet.net [190.95.232.234] failed - POSSIBLE BREAK-IN ATTEMPT! \n Feb 13 18:41:42 sshd[22434]: Received disconnect from 190.95.232.234: 11: Bye Bye [preauth] \nFeb 13 18:41:43 sshd[22436]: Received disconnect from 186.42.181.66: 11: Bye Bye [preauth] \n Feb 13 18:41:44 sshd[22438]: Received disconnect from 186.42.181.66: 11: Bye Bye [preauth] \n Feb 13 18:41:45 sshd[22440]: reverse mapping checking getaddrinfo for host-190-95-232-234.uio.telconet.net [190.95.232.234] failed - POSSIBLE BREAK-IN ATTEMPT! \n Feb 13 18:41:45 sshd[22440]: Received disconnect from 190.95.232.234: 11: Bye Bye [preauth] \n Feb 13 18:41:46 sshd[22442]: Received disconnect from 186.42.181.66: 11: Bye Bye [preauth]"
+  },
+  {
+    "rank": 2,
+    "id": "msg_ddd692d3b5a3a650527413b4144268ff1d30223845f0f97fb9188f5d758a3cbf",
+    "score": 67.83398,
+    "link": "https://stackoverflow.com/questions/21809383",
+    "source": "so",
+    "origin_doc_id": "be63c87f9d156d0e589fe71b0fa4e64ddaae0d03eec7c15bfcefbeef23d90d92",
+    "snippet": "Invalid user liao from xxx.xxx.x.xxx \n input_userauth_request: invalid user liao [preauth] \n Received disconnect from xxx.xxx.x.xxx: Bye Bye [preauth]"
+  },
+  {
+    "rank": 3,
+    "id": "msg_bcfe803824d9f5eb07ac34daa3c8298a2ce64fc9ac8125cb6330a100e5e6de32",
+    "score": 67.79723,
+    "link": "https://stackoverflow.com/questions/74946695",
+    "source": "so",
+    "origin_doc_id": "9dec5609c5f0e4042383f1b10e9f6a0cf891f99e3dbfbc8997054e34a34e4ea0",
+    "snippet": "2022-12-29 03:00:32 Received disconnect from 43.153.179.44 port 45614:11: Bye Bye [preauth]"
+  },
+  {
+    "rank": 4,
+    "id": "msg_6279e016a8eef5bd437741f561930d139163c3419f8f8940cf207465f0b23f12",
+    "score": 67.79723,
+    "link": "https://stackoverflow.com/questions/74946695",
+    "source": "so",
+    "origin_doc_id": "9dec5609c5f0e4042383f1b10e9f6a0cf891f99e3dbfbc8997054e34a34e4ea0",
+    "snippet": "2022-12-29 02:58:37 Received disconnect from 190.129.122.3 port 1199:11: Bye Bye [preauth]"
+  },
+  {
+    "rank": 5,
+    "id": "msg_0ebcf5bf21a5b739cda65e18a15291aff7f1702c736a09fe06a260e0e2f3f0ca",
+    "score": 67.79723,
+    "link": "https://github.com/deis/deis/issues/3448",
+    "source": "github",
+    "origin_doc_id": "f71d258b4d9a1f03bda13068e675e5c316c33bdb32ef11d69ff3d93552e173c7",
+    "snippet": "2015-04-20T19:00:19UTC deis-builder[1]: Received disconnect from 10.0.0.211: 11: Bye Bye [preauth]"
+  },
+  {
+    "rank": 6,
+    "id": "msg_476814478dc75cd24e6fd9510b29956ec14054dd0c26d4132e66bba7ec6aedf5",
+    "score": 67.79723,
+    "link": "https://github.com/deis/deis/issues/3448",
+    "source": "github",
+    "origin_doc_id": "f71d258b4d9a1f03bda13068e675e5c316c33bdb32ef11d69ff3d93552e173c7",
+    "snippet": "2015-04-20T19:00:22UTC deis-builder[1]: Received disconnect from 172.17.42.1: 11: Bye Bye [preauth]"
+  },
+  {
+    "rank": 7,
+    "id": "msg_597de186abb307a549af33d8c7b1e5f4ab8e58c6b0842fdaa9b33f4697b64408",
+    "score": 67.79723,
+    "link": "https://github.com/deis/deis/issues/3448",
+    "source": "github",
+    "origin_doc_id": "f71d258b4d9a1f03bda13068e675e5c316c33bdb32ef11d69ff3d93552e173c7",
+    "snippet": "2015-04-20T19:01:01UTC deis-builder[1]: Received disconnect from 10.0.0.211: 11: Bye Bye [preauth]"
+  },
+  {
+    "rank": 8,
+    "id": "msg_eac749192cdd765c4caccda29454900614617e3fcb0e5221967a21417a3f83e7",
+    "score": 67.79723,
+    "link": "https://github.com/deis/deis/issues/3448",
+    "source": "github",
+    "origin_doc_id": "f71d258b4d9a1f03bda13068e675e5c316c33bdb32ef11d69ff3d93552e173c7",
+    "snippet": "2015-04-20T19:01:05UTC deis-builder[1]: Received disconnect from 172.17.42.1: 11: Bye Bye [preauth]"
+  },
+  {
+    "rank": 9,
+    "id": "msg_a15e543676d5706492fc38f160e8d5235b72f67d24b06c4c4e7ae698a4841fd6",
+    "score": 67.79723,
+    "link": "https://github.com/deis/deis/issues/3448",
+    "source": "github",
+    "origin_doc_id": "f71d258b4d9a1f03bda13068e675e5c316c33bdb32ef11d69ff3d93552e173c7",
+    "snippet": "2015-04-20T19:01:44UTC deis-builder[1]: Received disconnect from 10.0.0.211: 11: Bye Bye [preauth]"
+  },
+  {
+    "rank": 10,
+    "id": "msg_21a742da87a13ea5384fdc45e4ce438c87a0e771625fe26179a1492217584c81",
+    "score": 67.79723,
+    "link": "https://github.com/deis/deis/issues/3448",
+    "source": "github",
+    "origin_doc_id": "f71d258b4d9a1f03bda13068e675e5c316c33bdb32ef11d69ff3d93552e173c7",
+    "snippet": "2015-04-20T19:01:48UTC deis-builder[1]: Received disconnect from 172.17.42.1: 11: Bye Bye [preauth]"
+  }
+]

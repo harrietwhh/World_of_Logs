@@ -1,0 +1,136 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Hadoop/Hadoop_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Hadoop/Hadoop_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Hadoop",
+    "snippet": "... Default file system [hdfs://msra-sa-41:9000]. 2015-10-18 18:01:50,666 INFO ... Default file system [hdfs://msra-sa-41:9000]. 2015-10-18 18:01:50,713 INFO ...",
+    "snippet_highlighted_words": [
+      "Default file system",
+      "hdfs",
+      "msra",
+      "sa",
+      "41:9000",
+      "Default file system",
+      "hdfs",
+      "msra",
+      "sa",
+      "41:9000"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Logram: Efficient Log Parsing Using --Gram Dictionaries",
+    "link": "https://www.computer.org/csdl/journal/ts/2022/03/09134790/1lgLvjb9QNa",
+    "displayed_link": "https://www.computer.org › csdl › journal › 2022/03",
+    "snippet": "For example, a log message “Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000 ” is parsed into a log template “ ...",
+    "snippet_highlighted_words": [
+      "msra",
+      "sa",
+      "msra",
+      "sa",
+      "41:9000"
+    ],
+    "source": "IEEE Computer Society",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "LogRules: Enhancing Log Analysis Capability of Large ...",
+    "link": "https://aclanthology.org/2025.findings-naacl.28.pdf",
+    "displayed_link": "https://aclanthology.org › 2025.findings-naacl.2...",
+    "snippet": "Default file system [hdfs://msra-sa-41:9000]. 2. adding path spec: /mapreduce/*. 3. Jetty bound to port 62267 ... Task: log parsing. Rule-based.",
+    "snippet_highlighted_words": [
+      "Default file system",
+      "hdfs",
+      "msra",
+      "sa",
+      "41:9000"
+    ],
+    "source": "ACL Anthology",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Logram: Efficient Log Parsing Using n-Gram Dictionaries",
+    "link": "https://arxiv.org/pdf/2001.03038",
+    "displayed_link": "https://arxiv.org › pdf",
+    "snippet": "Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000” in the benchmark is parsed into a log template “Address change detected. Old msra-sa ...",
+    "snippet_highlighted_words": [
+      "msra",
+      "sa",
+      "msra",
+      "sa",
+      "41:9000",
+      "msra",
+      "sa"
+    ],
+    "source": "arXiv",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "loghub/Hadoop/Hadoop_2k.log_structured.csv at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Hadoop/Hadoop_2k.log_structured.csv",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Hadoop",
+    "snippet": "... file tree. master. Breadcrumbs. loghub; /Hadoop. /. Hadoop_2k.log_structured.csv ... Default file system [hdfs://msra-sa-41:9000],E31,Default file system ...",
+    "snippet_highlighted_words": [
+      "Default file system",
+      "hdfs",
+      "msra",
+      "sa",
+      "41:9000",
+      "Default"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Log Rules | PDF | Cognitive Science | Computing",
+    "link": "https://www.scribd.com/document/1009237392/Log-Rules",
+    "displayed_link": "https://www.scribd.com › document › Log-Rules",
+    "snippet": "Default file system [hdfs://msra-sa-41:9000]. 2. adding path spec: /mapreduce/* 3. Jetty bound to port 62267. Task: log parsing. Currently, large language ...",
+    "snippet_highlighted_words": [
+      "Default file system",
+      "hdfs",
+      "msra",
+      "sa",
+      "41:9000"
+    ],
+    "source": "Scribd",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Anomaly Detection by Deep Autoencoding of System Logs",
+    "link": "https://ultraviolet.ding.unisannio.it/villano/papers/eswa2022.pdf",
+    "displayed_link": "https://ultraviolet.ding.unisannio.it › eswa2022",
+    "snippet": "... hadoop.mapreduce.v2.job-. Hadoop history.JobHistoryUtils: Default file system [hdfs://msra-sa-41:9000]. System logs collected in distributed ...",
+    "snippet_highlighted_words": [
+      "Default file system",
+      "hdfs",
+      "msra",
+      "sa",
+      "41:9000"
+    ],
+    "source": "Università degli Studi del Sannio di Benevento",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

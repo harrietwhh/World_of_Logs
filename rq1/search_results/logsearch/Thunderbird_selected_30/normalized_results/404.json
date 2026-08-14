@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_d661cbdc1389369463abf2c63ba324e2ab942285f6f88acd8b3581c7fde9b03d",
+    "score": 104.55598,
+    "link": "https://github.com/centreon/centreon-broker/issues/137",
+    "source": "github",
+    "origin_doc_id": "9ccabb8767374342967b85baa2f5dc2637e56718b26ba7c38c83754f0508cb1a",
+    "snippet": "_[1511366652] error:   RRD: ignored update error in file '/var/lib/centreon/status/26730.rrd': /var/lib/centreon/status/26730.rrd: illegal attempt to update using time 1506432668 when last update time is 1506432668 (minimum one second step)^C \n [1511366652] error:   RRD: ignored update error in file '/var/lib/centreon/status/26730.rrd': /var/lib/centreon/status/26730.rrd: illegal attempt to update using time 1506432668 when last update time is 1506432668 (minimum one second step) \n [1511366652] error:   RRD: ignored update error in file '/var/lib/centreon/status/26730.rrd': /var/lib/centreon/status/26730.rrd: illegal attempt to update using time 1506432668 when last update time is 1506432668 (minimum one second step)_"
+  },
+  {
+    "rank": 2,
+    "id": "msg_90a930634b674b5d222879ca1e233b256e4a6ce4715a531c7551c15729b9884c",
+    "score": 100.616974,
+    "link": "https://github.com/centreon/centreon-broker/issues/137",
+    "source": "github",
+    "origin_doc_id": "9ccabb8767374342967b85baa2f5dc2637e56718b26ba7c38c83754f0508cb1a",
+    "snippet": "J'ai des erreurs dans /var/log/centreon-broker/central-rrd-master.log \n [1511336845] error:   RRD: ignored update error in file '/var/lib/centreon/metrics/6965.rrd': /var/lib/centreon/metrics/6965.rrd: illegal attempt to update using time 1510823922 when last update time is 1510824424 (minimum one second step) \n [1511336845] error:   RRD: ignored update error in file '/var/lib/centreon/metrics/6965.rrd': /var/lib/centreon/metrics/6965.rrd: illegal attempt to update using time 1510824222 when last update time is 1510824424 (minimum one second step) \n [1511336845] error:   RRD: ignored update error in file '/var/lib/centreon/metrics/6965.rrd': /var/lib/centreon/metrics/6965.rrd: illegal attempt to update using time 1510837721 when last update time is 1510837721 (minimum one second step)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_2fd40aad565561846e85066f1ec137501251337c006c55d90478f70f68bf1ee4",
+    "score": 93.118866,
+    "link": "https://stackoverflow.com/questions/27844339",
+    "source": "so",
+    "origin_doc_id": "bf30b66081102b05aca85aabfe0ef1ec1a7b56e838d76e5769a767fd32775988",
+    "snippet": "ERROR: /home/yuri/_/1.rrd: illegal attempt to update using time 1420729200 when last update time is 1420729200 (minimum one second step)"
+  },
+  {
+    "rank": 4,
+    "id": "msg_596523565892fc976ac167d34e3ef7f15eff8579239a7a4f4458d9fbef02f1ae",
+    "score": 92.00184,
+    "link": "https://github.com/openwrt/luci/pull/4655",
+    "source": "github",
+    "origin_doc_id": "34eb5c196fff6059e05258fc09337085657ae23985bcfc873607bed9452ef337",
+    "snippet": "rrdtool plugin: rrd_update_r failed: /tmp/rrd/OpenWrt/snmp6-br-lan/if_octets.rrd: illegal attempt to update using time 1610203836 when last update time is 1610203836 (minimum one second step) \n Sat Jan  9 14:50:36 2021 daemon.err collectd[8209]: rrdtool plugin: rrd_update_r failed: /tmp/rrd/OpenWrt/snmp6-br-lan/if_octets_mcast.rrd: illegal attempt to update using time 1610203836 when last update time is 1610203836 (minimum one second step) \n Sat Jan  9 14:50:36 2021 daemon.err collectd[8209]: rrdtool plugin: rrd_update_r failed: /tmp/rrd/OpenWrt/snmp6-br-lan/if_octets_bcast.rrd: illegal attempt to update using time 1610203836 when last update time is 1610203836 (minimum one second step)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_7f68cabd9d7af5f4fc1bfb4cc912cd0991e7e8c9ea78c59fb5a95dcd98999af9",
+    "score": 89.49382,
+    "link": "https://github.com/openwrt/luci/pull/4655",
+    "source": "github",
+    "origin_doc_id": "34eb5c196fff6059e05258fc09337085657ae23985bcfc873607bed9452ef337",
+    "snippet": "Sun Jan 10 11:12:31 2021 daemon.err collectd[13593]: rrdtool plugin: rrd_update_r failed: /tmp/rrd/router1/snmp6-eth0.2/if_octets_mcast.rrd: illegal attempt to update using time 1610269952 when last update time is 1610269952 (minimum one second step) \n Sun Jan 10 11:12:31 2021 daemon.err collectd[13593]: rrdtool plugin: rrd_update_r failed: /tmp/rrd/router1/snmp6-eth0.2/if_octets_bcast.rrd: illegal attempt to update using time 1610269952 when last update time is 1610269952 (minimum one second step) \n Sun Jan 10 11:12:31 2021 daemon.err collectd[13593]: rrdtool plugin: rrd_update_r failed: /tmp/rrd/router1/snmp6-eth0.2/if_octets.rrd: illegal attempt to update using time 1610269952 when last update time is 1610269952 (minimum one second step) \n Sun Jan 10 11:12:31 2021 daemon.err collectd[13593]: rrdtool plugin: rrd_update_r failed: /tmp/rrd/router1/snmp6-eth0.2/if_octets.rrd: illegal attempt to update using time 1610269952 when last update time is 1610269952 (minimum one second step) \n Sun Jan 10 11:12:31 2021 daemon.err collectd[13593]: rrdtool plugin: rrd_update_r failed: /tmp/rrd/router1/snmp6-eth0.2/if_octets_mcast.rrd: illegal attempt to update using time 1610269952 when last update time is 1610269952 (minimum one second step) \n Sun Jan 10 11:12:31 2021 daemon.err collectd[13593]: rrdtool plugin: rrd_update_r failed: /tmp/rrd/router1/snmp6-eth0.2/if_octets_bcast.rrd:"
+  },
+  {
+    "rank": 6,
+    "id": "msg_babcbf54125a87a3760de93685cf013ee1b6fc92fe31d3dd2434b3e119a35d38",
+    "score": 88.235565,
+    "link": "https://stackoverflow.com/questions/328682",
+    "source": "so",
+    "origin_doc_id": "2f9e7bbca489e0ab8078fb9715da1b56b3e28a26139ab1a491c4325fd0d84fa6",
+    "snippet": "ERROR: Cannot update /opt/dashboard/rrd/Disk/192.168.120.168_disk_1.rrd with  \n '1228032301:24:24' illegal attempt to update using time 1228032301 when last  \n update time is 1228050001 (minimum one second step)"
+  },
+  {
+    "rank": 7,
+    "id": "msg_4d346999d6fff49f0f3da686bbaded75d8ca97d263e50c99c4a6ad0dfef9e18c",
+    "score": 87.523506,
+    "link": "https://github.com/fluent/fluentd/issues/862",
+    "source": "github",
+    "origin_doc_id": "37edcc325687b7d217cbb7c8290c075979229f0413d3eb78b1854bf6a5016914",
+    "snippet": "`Mar 21 06:41:00 localhost collectd[2320]: rrdtool plugin: rrd_update_r (/var/lib/collectd/rrd/ubuntu/irq/irq-THR.rrd) failed: /var/lib/collectd/rrd/ubuntu/irq/irq-THR.rrd: illegal attempt to update using time 1458567660 when last update time is 1458567660 (minimum one second step)`"
+  },
+  {
+    "rank": 8,
+    "id": "msg_33ed392185cb04fabbfe027d74b8eed82a964fc70551d22ca6551369df18af7e",
+    "score": 84.74153,
+    "link": "https://github.com/centreon/centreon-broker/issues/175",
+    "source": "github",
+    "origin_doc_id": "1e07955fa56a183704333ad05c780fda054dd115d3a665f6e4f80b63ac010842",
+    "snippet": "`[1525437814] error:   RRD: ignored update error in file '/data/centreon/metrics/18111.rrd': /data/centreon/metrics/18111.rrd: illegal attempt to update using time 1525355270 when last update time is 1525372156 (minimum one second step)`"
+  },
+  {
+    "rank": 9,
+    "id": "msg_f49ec243ed9313a0bffa7d53f850ed218ab68866b010cfcda223b4fe8f0cc654",
+    "score": 84.51942,
+    "link": "https://stackoverflow.com/questions/45324255",
+    "source": "so",
+    "origin_doc_id": "13f529a8c8f886d3bf0e3ba41d74bbb47a53f63ec60449ab3ad27af87dd77d19",
+    "snippet": "2017-07-24 09:31:35,211 ERROR zen.RRDUtil: rrdtool reported error rrdcached: illegal attempt to update using time 1500903095.000000 when last update time is 1500903095.000000 (minimum one second step) Devices/10.64.65.78/nsi/state_state"
+  },
+  {
+    "rank": 10,
+    "id": "msg_9f209cfabfb4cc5c12102a1f7cce6e79fcd257ccc17bd7aaff26580fc3597b39",
+    "score": 84.51942,
+    "link": "https://stackoverflow.com/questions/45324255",
+    "source": "so",
+    "origin_doc_id": "13f529a8c8f886d3bf0e3ba41d74bbb47a53f63ec60449ab3ad27af87dd77d19",
+    "snippet": "2017-07-24 09:31:35,212 ERROR zen.RRDUtil: rrdtool reported error rrdcached: illegal attempt to update using time 1500903095.000000 when last update time is 1500903095.000000 (minimum one second step) Devices/10.64.65.78/nsi/state_state"
+  }
+]

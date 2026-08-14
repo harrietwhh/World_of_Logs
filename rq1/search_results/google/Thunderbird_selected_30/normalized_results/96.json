@@ -1,0 +1,148 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "How to fix \"unable to qualify my own domain name (myhost)",
+    "link": "https://serverfault.com/questions/506462/how-to-fix-unable-to-qualify-my-own-domain-name-myhost-using-short-name",
+    "displayed_link": "https://serverfault.com › questions › how-to-fix-unable-...",
+    "snippet": "The issue can be resolved by entering the exchange server and mail router ip and domain information in your /etc/hosts file.",
+    "snippet_highlighted_words": [
+      "domain",
+      "your"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "sendmail: unable to qualify my own domain name",
+    "link": "https://community.hpe.com/t5/operating-system-hp-ux/sendmail-unable-to-qualify-my-own-domain-name/td-p/3624027",
+    "displayed_link": "https://community.hpe.com › td-p",
+    "snippet": "This typically points to the entry in the /etc/hosts file. Include the FQDN in the /etc/hosts file as well as the short name.",
+    "snippet_highlighted_words": [
+      "short name"
+    ],
+    "source": "Hewlett Packard Enterprise Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Unable to qualify my own domain name -- using short name",
+    "link": "https://www.tek-tips.com/threads/unable-to-qualify-my-own-domain-name-using-short-name.114175/",
+    "displayed_link": "https://www.tek-tips.com › ... › General UNIX discussion",
+    "snippet": "Here is how you fix it. FIRST, edit the /etc/hosts file, adding an alias with a period. So if your system name was hplab1 it would look something like this.",
+    "snippet_highlighted_words": [
+      "edit the /etc/hosts file, adding an alias with a period"
+    ],
+    "source": "Tek-Tips",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Error message unable to qualify my own domain name",
+    "link": "https://forums.oracle.com/ords/apexds/post/error-message-unable-to-qualify-my-own-domain-name-0206",
+    "displayed_link": "https://forums.oracle.com › ords › apexds › post › error-...",
+    "snippet": "there is a little workaround: after the entry of your hostname in the /etc/hosts you have to add the same hostname with a \".\" in front.",
+    "snippet_highlighted_words": [
+      "your",
+      "with"
+    ],
+    "source": "Oracle Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "unable to qualify my own domain name - Solaris",
+    "link": "https://community.unix.com/t/unable-to-qualify-my-own-domain-name/244077",
+    "displayed_link": "https://community.unix.com › UNIX › Solaris",
+    "snippet": "The solution is to add a line in your \"/etc/hosts\" file. My computer is Nelly, and i'm doing localhosting sooo: 127.0.0.1 nelly.local. nelly",
+    "snippet_highlighted_words": [
+      "add a line in your \"/etc/hosts\" file"
+    ],
+    "source": "Unix Linux Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "sm-msp-queue says: unable to qualify my own domain ...",
+    "link": "https://askubuntu.com/questions/436260/sm-msp-queue-says-unable-to-qualify-my-own-domain-name-xxx-using-short-nam",
+    "displayed_link": "https://askubuntu.com › questions › sm-msp-queue-says...",
+    "snippet": "If you have a fully qualified domain name for your server, this message should go away. In /etc/hosts, you can define a FQDN like ubun.somedomain.tld.",
+    "snippet_highlighted_words": [
+      "domain name",
+      "your"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Error \"unable to qualify my own domain name (localhost)\"",
+    "link": "https://knowledge.broadcom.com/external/article/394638/vcenter-alerts-do-not-get-sent-error-un.html",
+    "displayed_link": "https://knowledge.broadcom.com › external › article",
+    "snippet": "The issue here is that the host has no FQDN, but only a shortname (localhost). Sendmail, the MTA that vCenter uses, requires an FQDN in the format <host>.< ...",
+    "snippet_highlighted_words": [
+      "shortname",
+      "uses"
+    ],
+    "source": "Broadcom support portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Sendmail stopped sending mails (unable to qualify my own ...",
+    "link": "https://unix.stackexchange.com/questions/181151/sendmail-stopped-sending-mails-unable-to-qualify-my-own-domain-name-centos",
+    "displayed_link": "https://unix.stackexchange.com › questions › sendmail-...",
+    "snippet": "Sendmail stopped sending mails (unable to qualify my own domain name (Centos) -- using short name) · Ask Question. Asked 11 years, 1 month ago.",
+    "snippet_highlighted_words": [
+      "unable to qualify my own domain name"
+    ],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "How can I fix this error unable to qualify my own domain ...",
+    "link": "https://www.reddit.com/r/Ubuntu/comments/upr3hh/how_can_i_fix_this_error_unable_to_qualify_my_own/",
+    "displayed_link": "1 comment · 3 years ago",
+    "snippet": "You don't need the system name set to a FQDN to use internet services like mail, as long as your FQDN is in the MTA configuration as the default ...",
+    "snippet_highlighted_words": [
+      "name",
+      "use",
+      "your"
+    ],
+    "source": "Reddit · r/Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "sendmail – unable to qualify my own domain name",
+    "link": "https://community.spiceworks.com/t/sendmail-unable-to-qualify-my-own-domain-name/918472",
+    "displayed_link": "https://community.spiceworks.com › ... › discussion",
+    "snippet": "It's because sendmail can only find your 'short' hostname and can't find what domain it belongs in. You can either:",
+    "snippet_highlighted_words": [
+      "sendmail can only find your 'short' hostname"
+    ],
+    "source": "Spiceworks Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

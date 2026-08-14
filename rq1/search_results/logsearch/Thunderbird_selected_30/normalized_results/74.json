@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_e4bbdb00c132cdfdf031c64027e5efc3289e681563513d20602a4a49ef6fa105",
+    "score": 27.167425,
+    "link": "https://github.com/facebook/flipper/issues/537",
+    "source": "github",
+    "origin_doc_id": "70a4490b0a2da7b7917fb6081662f969d04c6b3be2f4f7043a1a58e8b9806a59",
+    "snippet": "I  flipper: Error during certificate exchange:St13runtime_error: RSocket connection is disconnected or closed \n          I  flipper: Error during certificate exchange:St13runtime_error: RSocket connection is disconnected or closed \n          I  flipper: Error during certificate exchange:St13runtime_error: RSocket connection is disconnected or closed \n          I  flipper: Error during certificate exchange:St13runtime_error: RSocket connection is disconnected or closed \n          I  flipper: Error during certificate exchange:St13runtime_error: RSocket connection is disconnected or closed \n          I  flipper: Error during certificate exchange:St13runtime_error: RSocket connection is disconnected or closed \n          I  flipper: Error during certificate exchange:St13runtime_error: RSocket connection is disconnected or closed \n ```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_7458cbc44342328781f569eff9a6fe9f58141c5309041fa60751ee7e5b8715e1",
+    "score": 25.978603,
+    "link": "https://stackoverflow.com/questions/45216724",
+    "source": "so",
+    "origin_doc_id": "f9375ecd9fb9afe08826587b084291deb0cd06fb9354c3d6cf618107244e50ca",
+    "snippet": "% ERROR: Local: Broker transport failure: kafka.example.com:9092/bootstrap: Receive failed: Disconnected \nERROR: Local: Broker transport failure: kafka.example.com:9092/bootstrap: Connection closed"
+  },
+  {
+    "rank": 3,
+    "id": "msg_a7c9aeca01d33f8388d5b741dc37033814c348362729143426c34b4a44c03947",
+    "score": 25.443626,
+    "link": "https://github.com/alpacahq/alpaca-trade-api-python/issues/265",
+    "source": "github",
+    "origin_doc_id": "1cffd6d81388bb781e3ae75427a96a982d449bef69083d63c702902b23c4b85d",
+    "snippet": "print('Caught exception', e)\npolygon status update Entity({   'ev': 'status',\n    'message': 'Polygon Disconnected Unexpectedly (code = 1006 (connection '\n               'closed abnormally [internal]), no reason)',\n    'status': 'disconnected'})\nDisconnected. Going to try to reconnect...\nraise from periodic\nDisconnected\nConnectionClosedError code = 1006 (connection closed abnormally [internal]), no reason\nConnectionClosedError code = 1006 (connection closed abnormally [internal]), no reason\nConnectionClosedError code = 1006 (connection closed abnormally [internal]), no reason"
+  },
+  {
+    "rank": 4,
+    "id": "msg_a2f3686fe2f5d36d4d69d08c92e17e70d47cfca4a25d24076e6c07ca35d0fb04",
+    "score": 25.241796,
+    "link": "https://stackoverflow.com/questions/12194480",
+    "source": "so",
+    "origin_doc_id": "733da307fef74e72e09f1f800f52aae28c29d1a60343488c92de6d06b86764d1",
+    "snippet": "System.out.println(\"Connection disconnected\");\nSystem.out.println(\"Connection closed\");"
+  },
+  {
+    "rank": 5,
+    "id": "msg_4f2d287387e4cac20707220a8a1c939426be5d9cb717e06e2490c1a5862ade38",
+    "score": 25.241796,
+    "link": "https://stackoverflow.com/questions/45048845",
+    "source": "so",
+    "origin_doc_id": "dfd22bdb8ef060321b10dbd4703f137c021a9d52f049a64fd19a3547753a4f15",
+    "snippet": "Timber.e(\" connection disconnected\");\nTimber.e(\" connection closed\");"
+  },
+  {
+    "rank": 6,
+    "id": "msg_4fea7fb66c5f4b115c2d944bd47392c169e01df76dfd519b1cc347feeb2e66dd",
+    "score": 25.029186,
+    "link": "https://github.com/Azure/dev-spaces/issues/257",
+    "source": "github",
+    "origin_doc_id": "2093a1d58177ad0e706b316e57279c61093b48910bb9050318e76471e583327e",
+    "snippet": "Error: Connection disconnected with error 'Error: WebSocket closed with status code: 1006 ().'\nError: Connection disconnected with error 'Error: WebSocket closed with status code: 1006 ().'"
+  },
+  {
+    "rank": 7,
+    "id": "msg_24e17c8f136e25d69678ed9d51d8566a87a09d8fb5a301b0664720b9ca06282e",
+    "score": 24.935043,
+    "link": "https://stackoverflow.com/questions/75318444",
+    "source": "so",
+    "origin_doc_id": "a68ac9b9cc87079fe62b2127e97bfde570359ee730403f11b0805b0bd930961c",
+    "snippet": "printf(\"[DISCONNECTED] Process Done  \n \");\nprintf(\"[DISCONNECTED] Connection closed  \n \");\nprint(\"End"
+  },
+  {
+    "rank": 8,
+    "id": "msg_eced944ea94392acdc1293193f3186bbdb5fb82ba42d31d0733f6025e0b32168",
+    "score": 24.862444,
+    "link": "https://github.com/legastero/stanza.io/issues/325",
+    "source": "github",
+    "origin_doc_id": "f9b248bf35cd6e0432b5d0aab30d4a0f2c4afdf0a0dfb3bce2d7c05c41170d33",
+    "snippet": "Client disconnected: connection closed"
+  },
+  {
+    "rank": 9,
+    "id": "msg_638405c18396d15c5a68c2d7dd08bcde97718c85cbb2e5b6457f611729561b03",
+    "score": 24.805084,
+    "link": "https://github.com/jitsi/jitsi-meet/issues/2270",
+    "source": "github",
+    "origin_doc_id": "7d688f245e2977db45e70a4c15232c3a5cd742433b7abc665ba3ac7df55710d7",
+    "snippet": "Dec 10 03:50:03 c2s973aa0\tinfo\tClient connected \n Dec 10 03:50:03 c2s973aa0\tinfo\tClient disconnected: connection closed \n Dec 10 03:50:08 c2s9a44f0\tinfo\tClient connected \n Dec 10 03:50:08 c2s9a44f0\tinfo\tClient disconnected: connection closed \n Dec 10 03:50:13 c2s8d9620\tinfo\tClient connected \n Dec 10 03:50:13 c2s8d9620\tinfo\tClient disconnected: connection closed \n Dec 10 03:50:18 c2s8ff5b0\tinfo\tClient connected \nDec 10 03:50:18 c2s8ff5b0\tinfo\tClient disconnected: connection closed\nDec 10 03:50:23 c2s9a2bc0\tinfo\tClient connected\nDec 10 03:50:23 c2s9a2bc0\tinfo\tClient disconnected: connection closed\nDec 10 03:50:28 c2sad8980\tinfo\tClient connected\nDec 10 03:50:28 c2sad8980\tinfo\tClient disconnected: connection closed\nDec 10 03:50:33 c2sb78740\tinfo\tClient connected\nDec 10 03:50:33 c2sb78740\tinfo\tClient disconnected: connection closed\nDec 10 03:50:38 c2s9e07a0\tinfo\tClient connected\nDec 10 03:50:38 c2s9e07a0\tinfo\tClient disconnected: connection closed\nDec 10 03:50:43 c2sa570a0\tinfo\tClient connected\nDec 10 03:50:43 c2sa570a0\tinfo\tClient disconnected: connection closed\nDec 10 03:50:48 c2s9bef60\tinfo\tClient connected\nDec 10 03:50:48 c2s9bef60\tinfo\tClient disconnected: connection closed\nDec 10 03:50:53 c2s7c2870\tinfo\tClient connected\nDec 10 03:50:53 c2s7c2870\tinfo\tClient disconnected: connection closed\nDec 10 03:50:58 c2sbd1e60\tinfo\tClient connected\nDec 10 03:50:58 c2sbd1e60\tinfo\tClient disconnected: connection closed\nDec 10 03:51:03 c2sc946d0\tinfo\tClient connected\nDec 10 03:51:03 c2sc946d0\tinfo\tClient disconnected: connection closed\nDec 10 03:51:08 c2sbeecc0\tinfo\tClient connected\nDec 10 03:51:08 c2sbeecc0\tinfo\tClient disconnected: connection closed \n ```"
+  },
+  {
+    "rank": 10,
+    "id": "msg_0251ea2da7db47bc9e85ed35c9609a60cfc1599e97f461647c99a2fbd995bdb5",
+    "score": 24.694395,
+    "link": "https://stackoverflow.com/questions/29083372",
+    "source": "so",
+    "origin_doc_id": "90107e4255ee261a57f89d506bd847487985f4ffc936a856d8e16a9aeac83731",
+    "snippet": "Mongoose disconnected \n Mongoose connection error: Error: connection closed"
+  }
+]

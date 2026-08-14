@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_f10ec9dfa2f8589337f096289a3ad2975361206baf29a95baf9a4e541ea3dfeb",
+    "score": 81.68602,
+    "link": "https://github.com/nccgroup/sobelow/issues/58",
+    "source": "github",
+    "origin_doc_id": "bbf741091c8cf1a4f030c814c7b8824b1e492b660f23d1289f92b221e284ffa9",
+    "snippet": "-----> Running test command `MIX_ENV=test mix do format --check-formatted, sobelow --config, test && MIX_ENV=test mix ecto.rollback --all && (cd assets && npm audit --production)`... \n Checking Sobelow version... \n ** (MatchError) no match of right hand side value: {:error, :eisdir} \n     lib/sobelow.ex:479: Sobelow.load_ignored_fingerprints/1 \n     lib/sobelow.ex:128: Sobelow.init_state/2 \n     lib/sobelow.ex:74: Sobelow.run/0 \n    (mix 1.10.0) lib/mix/task.ex:330: Mix.Task.run_task/3 \n     (elixir 1.10.0) lib/enum.ex:783: Enum.\"-each/2-lists^foreach/1-0-\"/2 \n     (elixir 1.10.0) lib/enum.ex:783: Enum.each/2 \n     (mix 1.10.0) lib/mix/task.ex:330: Mix.Task.run_task/3 \n     (mix 1.10.0) lib/mix/cli.ex:82: Mix.CLI.run_task/2 \n -----> test command `MIX_ENV=test mix do format --check-formatted, sobelow --config, test && MIX_ENV=test mix ecto.rollback --all && (cd assets && npm audit --production)` failed with exit status 1 \n ```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_19b9b2b5e9f10eb2df1d4da49f22b52a0e4ddd21cf9d9ba61a0689283da0b23d",
+    "score": 76.48322,
+    "link": "https://github.com/hexpm/hex/issues/691",
+    "source": "github",
+    "origin_doc_id": "4cc62ba7f337e23e3e27479ca681adbbdd6983e3a72f7337704aa66b8b3d428c",
+    "snippet": "bin/elixir bin/mix format --check-formatted\n==> elixir (eunit)\n  All 207 tests passed.\n\n==> elixir (ex_unit)\nExcluding tags: [windows: true]\n\n  1) test invokes command on remote node (Kernel.CLI.RPCTest)\n     test/elixir/kernel/cli_test.exs:73\n     Assertion with == failed\nassert rpc_eval(\"IO.puts :ok\") == \"ok \n \" \n      left:  \"Protocol 'inet_tcp': register/listen error: no_reg_reply_from_epmd\\r \n \" \n      right: \"ok \n \""
+  },
+  {
+    "rank": 3,
+    "id": "msg_40fad71044a51b033e3fb2612a1d6fce2fcb23a7280b495bd5e02423886cbd8c",
+    "score": 74.7747,
+    "link": "https://github.com/revelrylabs/phoenix_harmonium/issues/1",
+    "source": "github",
+    "origin_doc_id": "ffe82211c4622871fa06960d3ec0000bd0071d51a03ab06d8f53d6c264285739",
+    "snippet": "The following arguments were given to\n (elixir) lib/elixir/unicode/properties.ex:278: String.Break.trim_leading/1 \n     (elixir) lib/string.ex:1068: String.trim/1 \n     (hex) lib/mix/tasks/hex.ex:199: Mix.Tasks.Hex.prompt_decrypt_key/2 \n     (hex) lib/mix/tasks/hex.ex:161: Mix.Tasks.Hex.auth_info/0 \n     (hex) lib/mix/tasks/hex.publish.ex:149: Mix.Tasks.Hex.Publish.create/3\n    (mix) lib/mix/task.ex:314: Mix.Task.run_task/3 \n     (mix) lib/mix/cli.ex:80: Mix.CLI.run_task/2 \n Script failed with status 1 \n failed to deploy \n ```"
+  },
+  {
+    "rank": 4,
+    "id": "msg_c6e01919c1cfd15b5ef973d2ac79b39c38b26182ecedbc73048a030a921d079d",
+    "score": 71.97866,
+    "link": "https://github.com/elixir-lang/elixir/issues/10351",
+    "source": "github",
+    "origin_doc_id": "b6fb304da4bd8ea3b964e55583946e47cbe56288ad5b8474c5d77d91236c07ed",
+    "snippet": "``` \n [I] ➜  elixir git:(master) git log --oneline | head -n 1                                                                                         108ms    \n 6ad842a2e Add guard checks to Keyword.update/4 (#10348) \n [I] ➜  elixir git:(master) mix format                                                                                                                     \n warning: found \"++\" followed by \"+\", please use a space between \"++\" and the next \"+\" \n   lib/elixir/test/elixir/macro_test.exs:654 \n warning: found \"++\" followed by \"+\", please use a space between \"++\" and the next \"+\" \n   lib/elixir/test/elixir/macro_test.exs:654 \n\nmix format failed for file: lib/elixir/test/elixir/inspect_test.exs\n** (SyntaxError) lib/elixir/test/elixir/inspect_test.exs:57: syntax error before: ')'\n    (elixir 1.10.2) lib/code.ex:645: Code.format_string!/2\n    (mix 1.10.2) lib/mix/tasks/format.ex:418: Mix.Tasks.Format.format_file/2\n    (elixir 1.10.2) lib/task/supervised.ex:90: Task.Supervised.invoke_mfa/2\n    (elixir 1.10.2) lib/task/supervised.ex:35: Task.Supervised.reply/5\n    (stdlib 3.12.1) proc_lib.erl:249: :proc_lib.init_p_do_apply/3\n```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_25b28d740fb069e827f9a08122ce1c261e8e6bdde2892498d160bbab67848c30",
+    "score": 71.69801,
+    "link": "https://github.com/rgreenjr/atom-elixir-formatter/issues/5",
+    "source": "github",
+    "origin_doc_id": "9eef13c0039695c642e25b5e47f9715717ab1cc13b69aedd5ec6983c38a3cf08",
+    "snippet": "mix format failed for file: /var/folders/5t/z9kkxlhn4w769jqmn00xqqkw0000gn/T/tmp-55821Dfj8OLtzEFgZ \n ** (SyntaxError) /var/folders/5t/z9kkxlhn4w769jqmn00xqqkw0000gn/T/tmp-55821Dfj8OLtzEFgZ:85: syntax error before: env \n     (elixir) lib/code.ex:370: Code.format_string!/2 \n     (mix) lib/mix/tasks/format.ex:148: Mix.Tasks.Format.format_file/4 \n     (elixir) lib/enum.ex:1900: Enum.\"-reduce/3-lists^foldl/2-0-\"/3 \n     (mix) lib/mix/tasks/format.ex:84: Mix.Tasks.Format.run/1 \n     (mix) lib/mix/task.ex:315: Mix.Task.run_task/3 \n    (mix) lib/mix/cli.ex:80: Mix.CLI.run_task/2 \n ``` \n 2. Fix the error & format on save \n Expected: \n File formatted \n Current: \n ``` \n ** (Mix.Config.LoadError) could not load config apps/my_app/config/dev.exs \n    ** (SyntaxError) apps/my_app/config/dev.exs:85: syntax error before: env \n     (elixir) lib/code.ex:176: Code.eval_string/3 \n     (mix) lib/mix/config.ex:188: Mix.Config.read!/2 \n     (mix) lib/mix/config.ex:233: anonymous fn/3 in Mix.Config.read_wildcard!/2 \n     (elixir) lib/enum.ex:1900: Enum.\"-reduce/3-lists^foldl/2-0-\"/3 \n     (stdlib) erl_eval.erl:670: :erl_eval.do_apply/6 \n     (stdlib) erl_eval.erl:878: :erl_eval.expr_list/6"
+  },
+  {
+    "rank": 6,
+    "id": "msg_6970c7630cfbade6379238d4ba400021cff9759367e72b7c3622648030c8bf2d",
+    "score": 71.21739,
+    "link": "https://github.com/elixir-lang/elixir/issues/7465",
+    "source": "github",
+    "origin_doc_id": "956c1b058de2c965b2f6cec4978a4abbdcab67971e4d4bb5cb2b978e39d077be",
+    "snippet": "==> elixir (compile)\nbin/elixir bin/mix format --check-formatted\n==> elixir (eunit)\n  All 197 tests passed.\n\n==> elixir (exunit)\nExcluding tags: [windows: true]\n\n...........................................................................................................................................................................................................................................................................................................................................................\n  1) test chgrp! with failure (FileTest)\n     test/elixir/file_test.exs:1910\n     Wrong message for File.Error\n     expected:\n       ~r/could not change group for \"\\/home\\/eric\\/Programs\\/elixir\\/lib\\/elixir\\/tmp\\/tmp_test.txt\": no such file or directory/\n     actual:\n       \"could not change group for \\\"/home/eric/Programs/elixir/lib/elixir/tmp/tmp_test.txt\\\": bad argument\"\n     code: assert_raise File.Error, message, fn ->\n     stacktrace:\n       test/elixir/file_test.exs:1916: (test)\n............ \n   2) test chgrp with failure (FileTest) \n      test/elixir/file_test.exs:1903 \n      Assertion with == failed \n      code:  assert File.chgrp(fixture, 1) == {:error, :enoent} \n      left:  {:error, :badarg} \n      right: {:error, :enoent}"
+  },
+  {
+    "rank": 7,
+    "id": "msg_ff30b50f56d1cd93677c1cfd66d24874830bccf544e8f3f20f80b39731c526a7",
+    "score": 70.90939,
+    "link": "https://github.com/jeremyjh/dialyxir/issues/28",
+    "source": "github",
+    "origin_doc_id": "e160019349ec324150e162aef0f5a95bfa638dd33fafa2a153ed75baaf091027",
+    "snippet": "dialyzer --output_plt /root/.dialyxir_core_18_1.0.5.plt --build_plt --apps erts kernel stdlib crypto public_key -r /elixir/bin/../lib/elixir/../eex/ebin /elixir/bin/../lib/elixir/../elixir/ebin /elixir/bin/../lib/elixir/../ex_unit/ebin /elixir/bin/../lib/elixir/../iex/ebin /elixir/bin/../lib/elixir/../mix/ebin \n   Compiling some key modules to native code... done in 0m37.73s \n   Creating PLT /root/.dialyxir_core_18_1.0.5.plt ... \n dialyzer: Analysis failed with error: \n Could not scan the following file(s): \n   Could not get core Erlang code for: /elixir/bin/../lib/elixir/../mix/ebin/Elixir.Mix.NoTaskError.beam  Could not get core Erlang code for: /elixir/bin/../lib/elixir/../mix/ebin/Elixir.Mix.NoProjectError.beam  Could not get core Erlang code for: /elixir/bin/../lib/elixir/../mix/ebin/Elixir.Mix.InvalidTaskError.beam  Could not get core Erlang code for: /elixir/bin/../lib/elixir/../mix/ebin/Elixir.Mix.Error.beam  Could not get core Erlang code for: /elixir/bin/../lib/elixir/../mix/ebin/Elixir.Mix.ElixirVersionError.beam  Could not get core Erlang code for: /elixir/bin/../lib/elixir/../mix/ebin/Elixir.Mix.Dep.beam  Could not get core Erlang code for: /elixir/bin/../lib/elixir/../mix/ebin/Elixir.Mix.Config.LoadError.beam  Could not get core Erlang code for: /elixir/bin/../lib/elixir/../iex/ebin/Elixir.IEx.State.beam\n  Reading files and computing callgraph...  \n ** (FunctionClauseError) no function clause matching in Keyword.get/3 \n     (elixir) lib/keyword.ex:118: Keyword.get(:no_such_file, :files, nil) \n     lib/mix/tasks/dialyzer.plt.ex:132: Mix.Tasks.Dialyzer.Plt.core_plt_contains?/2 \n     lib/mix/tasks/dialyzer.plt.ex:123: anonymous fn/1 in Mix.Tasks.Dialyzer.Plt.missing_apps/0 \n     (elixir) lib/enum.ex:662: anonymous fn/3 in Enum.filter/2 \n     (elixir) lib/enum.ex:1261: Enum.\"-reduce/3-lists^foldl/2-0-\"/3 \n     (elixir) lib/enum.ex:662: Enum.filter/2 \n   lib/mix/tasks/dialyzer.plt.ex:106: Mix.Tasks.Dialyzer.Plt.need_add?/0 \n     lib/mix/tasks/dialyzer.plt.ex:57: Mix.Tasks.Dialyzer.Plt.run/1"
+  },
+  {
+    "rank": 8,
+    "id": "msg_7d1e4b3e61f3d7f0cd476104652414134e2dc27d9980384832cdbcabc96b19ea",
+    "score": 70.554344,
+    "link": "https://github.com/bitwalker/swarm/issues/82",
+    "source": "github",
+    "origin_doc_id": "87190b96da932c3880471aa8396e0e562ccf2d21594287a5cc977ebdb2d2c7da",
+    "snippet": "===> Compiling control_node \n ===> Starting relx build process ...\n          /home/wangjiasheng/Documents/cold-storage/cluster/erl_nodes/control_node/apps\n          /usr/lib/erlang/lib\n===> Application metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/test/fixtures/archive\nApplication metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.UtilsTest/test symlink or copy erases wrong symblinks\nApplication metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.UtilsTest/test symlink or copy erases wrong symblinks/_build/archive\nApplication metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.UtilsTest/test symlink or copy\nApplication metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.UtilsTest/test symlink or copy/_build/archive\nApplication metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.UtilsTest/test symlink or copy removes previous directories\nApplication metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.UtilsTest/test symlink or copy removes previous directories/_build/archive\nApplication metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.Tasks.ArchiveTest/test archive check\nApplication metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.Tasks.ArchiveTest/test archive install invalid file \n Application metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.Tasks.ArchiveTest/test archive update \n Application metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.Tasks.ArchiveTest/test archive build \n Application metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.Tasks.ArchiveTest/test archive checksum \n Application metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.Tasks.ArchiveTest/test archive install \n Application metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.ProjectTest/test builds the project structure without symlinks \n Application metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.ProjectTest/test builds the project structure \n Application metadata exists but version is not available: /var/elixir-1.5.3/bin/../lib/elixir/../mix/tmp/Mix.ProjectTest/test builds the project structure with symlinks"
+  },
+  {
+    "rank": 9,
+    "id": "msg_0ad6a6622021549346b1ae6c6fc3b1caa8cf70ff62828d95169abb16baf26804",
+    "score": 68.436295,
+    "link": "https://github.com/elixir-lang/elixir/issues/7200",
+    "source": "github",
+    "origin_doc_id": "7a5c8738b46394e5967daf84b4a0a56ce089837ab0f2938031091852a305d868",
+    "snippet": "==> elixir (compile)\n==> eex (compile)\nwarning: module Exception is not a behaviour (in module EEx.SyntaxError)\n  lib/eex.ex:1\n\n==> mix (compile)\nwarning: module Exception is not a behaviour (in module Mix.Config.LoadError)\n  lib/mix/config.ex:33\n\nwarning: module Exception is not a behaviour (in module Mix.NoTaskError)\n  lib/mix/exceptions.ex:1\n\nwarning: module Exception is not a behaviour (in module Mix.InvalidTaskError)\n  lib/mix/exceptions.ex:45\n\nwarning: module Exception is not a behaviour (in module Mix.ElixirVersionError)\n  lib/mix/exceptions.ex:54\n\nwarning: module Exception is not a behaviour (in module Mix.NoProjectError)\n  lib/mix/exceptions.ex:70\nwarning: module Exception is not a behaviour (in module Mix.Error) \n   lib/mix/exceptions.ex:77 \n == Compilation error in file lib/mix/tasks/new.ex == \n ** (UndefinedFunctionError) function Access.get/3 is undefined (module Access is not available) \n     Access.get([file: \"/home/username_0/elixir/lib/mix/lib/mix/tasks/new.ex\", line: 224], :line, nil) \n     lib/mix/tasks/new.ex:224: anonymous fn/2 in :elixir_compiler_34.__MODULE__/1 \n     (elixir) /home/username_0/elixir/lib/elixir/lib/enum.ex:1296: Enum.\"-map/2-lists^map/1-0-\"/2 \n    lib/mix/tasks/new.ex:224: (module)\n    (stdlib) erl_eval.erl:670: :erl_eval.do_apply/6\n** (UndefinedFunctionError) function List.Chars.to_charlist/1 is undefined (module List.Chars is not avai\nlable)\n    List.Chars.to_charlist(\"lib/mix/tasks/new.ex\")\n    (elixir) /home/username_0/elixir/lib/elixir/lib/kernel/parallel_compiler.ex:468: Kernel.ParallelComp\niler.get_line/3\n    (elixir) /home/username_0/elixir/lib/elixir/lib/kernel/parallel_compiler.ex:457: Kernel.ParallelComp\niler.to_error/4\n    (elixir) /home/username_0/elixir/lib/elixir/lib/kernel/parallel_compiler.ex:360: Kernel.ParallelComp\niler.wait_for_messages/6 \n     (elixir) /home/username_0/elixir/lib/elixir/lib/kernel/parallel_compiler.ex:129: Kernel.ParallelComp \n iler.spawn_workers/3 \n     (elixir) /home/username_0/elixir/lib/elixir/lib/kernel/cli.ex:470: anonymous fn/2 in Kernel.CLI.proc \n ess_command/2 \n Makefile:93: recipe for target 'lib/mix/ebin/Elixir.Mix.beam' failed \n make: *** [lib/mix/ebin/Elixir.Mix.beam] Error 1 \n username_0@LAPTOP-SE7JB8LF:~/elixir$ \n ```"
+  },
+  {
+    "rank": 10,
+    "id": "msg_4a60718982703f9deb6d52817a8e6ea7fef30826861bc2fcd5273646ac7bc919",
+    "score": 68.02526,
+    "link": "https://github.com/surface-ui/surface_formatter/issues/55",
+    "source": "github",
+    "origin_doc_id": "c228cdd02547f42a78d65ec0099edaeff22ab37427425d15500879745c3f5093",
+    "snippet": "Failed CI (detailed error): https://github.com/jshmrtn/hygeia/runs/4584434083?check_suite_focus=true \n File with Problems: https://github.com/jshmrtn/hygeia/blob/master/lib/hygeia_web/live/organisation_live/merge.sface \n Detailed Error: \n ``` \n mix format --check-formatted\nmix format failed for file: lib/hygeia_web/live/organisation_live/merge.sface \n ** (FunctionClauseError) no function clause matching in Surface.Formatter.Phases.Render.quoted_strings_with_newlines/1     \n     The following arguments were given to Surface.Formatter.Phases.Render.quoted_strings_with_newlines/1:"
+  }
+]

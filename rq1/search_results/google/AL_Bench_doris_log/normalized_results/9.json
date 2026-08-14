@@ -1,0 +1,113 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "How to find the min/max value of a common key in a list ...",
+    "link": "https://stackoverflow.com/questions/5320871/how-to-find-the-min-max-value-of-a-common-key-in-a-list-of-dicts",
+    "displayed_link": "6 answers · 15 years ago",
+    "snippet": "One answer would be mapping your dicts to the value of interest inside a generator expression, and then applying the built-ins min and max.",
+    "snippet_highlighted_words": [
+      "value",
+      "min",
+      "max"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Get Maximum/Minimum Values and Keys in Python Dictionaries",
+    "link": "https://note.nkmk.me/en/python-dict-value-max-min/",
+    "displayed_link": "https://note.nkmk.me › Home › Python",
+    "snippet": "This article explains how to get the maximum and minimum values and their corresponding keys of a dictionary ( dict ) in Python.",
+    "snippet_highlighted_words": [
+      "maximum",
+      "minimum values",
+      "dictionary",
+      "dict"
+    ],
+    "source": "nkmk.me",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Max in dict not returning highest value. How is Python ...",
+    "link": "https://www.reddit.com/r/learnpython/comments/vkm0xv/max_in_dict_not_returning_highest_value_how_is/",
+    "displayed_link": "30+ comments · 3 years ago",
+    "snippet": "So the code, max(dict) and min(dict), is only comparing the keys to see which is bigger and smaller?",
+    "snippet_highlighted_words": [
+      "max",
+      "dict",
+      "min",
+      "dict"
+    ],
+    "source": "Reddit · r/learnpython",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Sorting, finding max and min value from a list of dictionaries in ...",
+    "link": "https://allwin-raju.medium.com/sorting-finding-max-and-min-value-from-a-list-of-dictionaries-in-python-f85fbb16d28f",
+    "displayed_link": "10+ likes · 5 years ago",
+    "snippet": "These are the most efficient ways of performing sort, max, and min operations to a list of dictionaries. They are efficient and one-lined.",
+    "snippet_highlighted_words": [
+      "max",
+      "min"
+    ],
+    "source": "Medium · Allwin Raju",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "How to find the maximum value of a dictionary in Python",
+    "link": "https://www.quora.com/How-do-you-find-the-maximum-value-of-a-dictionary-in-Python",
+    "displayed_link": "1 answer · 4 years ago",
+    "snippet": "max(d) returns the maximum key. max(d.values()) returns the maximum value. max(d.items()) returns the key/value tuple with the maximum key.",
+    "snippet_highlighted_words": [
+      "max(d"
+    ],
+    "source": "Quora",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Python: Get the maximum and minimum value in a dictionary",
+    "link": "https://www.w3resource.com/python-exercises/dictionary/python-data-type-dictionary-exercise-15.php",
+    "displayed_link": "https://www.w3resource.com › dictionary › python-dat...",
+    "snippet": "Write a Python program to determine the maximum and minimum values in a dictionary using the max() and min() functions. Write a Python program ...",
+    "snippet_highlighted_words": [
+      "maximum",
+      "minimum values",
+      "dictionary",
+      "max",
+      "min"
+    ],
+    "source": "w3resource",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Find the key of the maximum, minimum value in a dictionary",
+    "link": "https://www.w3resource.com/python-exercises/dictionary/python-data-type-dictionary-exercise-80.php",
+    "displayed_link": "https://www.w3resource.com › dictionary › python-dat...",
+    "snippet": "Use the 'max' and 'min' functions to find the key corresponding to the maximum and minimum values in the dictionary.",
+    "snippet_highlighted_words": [
+      "Use the 'max' and 'min' functions"
+    ],
+    "source": "w3resource",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

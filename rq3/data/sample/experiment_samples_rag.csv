@@ -1,0 +1,1391 @@
+project,case_id,group_logs,external_knowledge_summary
+HPC,1,"unix.hw state_change.unavailable 1084635601 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3098 )
+unix.hw state_change.unavailable 1084635601 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 41 )
+unix.hw state_change.unavailable 1084631135 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2818 )
+unix.hw state_change.unavailable 1084631135 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 4432 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2958 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2608 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2888 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2748 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3098 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3028 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2538 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3168 )
+unix.hw state_change.unavailable 1084631134 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3238 )
+unix.hw state_change.unavailable 1084631133 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 41 )
+unix.hw state_change.unavailable 1084631088 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2538 )
+unix.hw state_change.unavailable 1084631088 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3238 )
+unix.hw state_change.unavailable 1084631088 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3098 )
+unix.hw state_change.unavailable 1084631088 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 3168 )
+unix.hw state_change.unavailable 1084631088 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2958 )
+unix.hw state_change.unavailable 1084631087 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = 2888 )",No relevant external knowledge was found.
+HPC,4,"boot_cmd success 1077810607 1 Command has completed successfully
+boot_cmd success 1077810608 1 Command has completed successfully
+boot_cmd success 1077810661 1 Command has completed successfully
+boot_cmd success 1077810661 1 Command has completed successfully
+boot_cmd success 1077810662 1 Command has completed successfully
+boot_cmd success 1077810662 1 Command has completed successfully
+boot_cmd success 1077810688 1 Command has completed successfully
+boot_cmd success 1077810689 1 Command has completed successfully
+boot_cmd success 1077810689 1 Command has completed successfully
+boot_cmd success 1077810689 1 Command has completed successfully
+boot_cmd success 1077816955 1 Command has completed successfully
+boot_cmd success 1077816970 1 Command has completed successfully
+boot_cmd success 1077816985 1 Command has completed successfully
+boot_cmd success 1077816987 1 Command has completed successfully
+boot_cmd success 1077816987 1 Command has completed successfully
+boot_cmd success 1077816990 1 Command has completed successfully
+boot_cmd success 1077817021 1 Command has completed successfully
+boot_cmd success 1077817742 1 Command has completed successfully
+boot_cmd success 1077817742 1 Command has completed successfully
+boot_cmd success 1077817773 1 Command has completed successfully","- Command completion should be determined from the child process status returned by `wait()` or `waitpid()`.
+- A normal exit with status 0 indicates success; nonzero exit status, execution failure, or signal termination indicates failure.
+- For concurrent commands, fork all children first, then wait for them; PID-to-command tracking is needed to associate each completion with its command."
+HPC,10,"unix.hw net.niff.down 1084271027 1 NIFF : node node-85 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271027 1 NIFF : node node-98 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-112 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-89 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-121 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-50 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-93 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-65 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-58 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-110 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-41 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-67 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-73 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-100 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-123 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-91 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271026 1 NIFF : node node-84 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271025 1 NIFF : node node-54 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271025 1 NIFF : node node-114 detected a failed network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.down 1084271025 1 NIFF : node node-118 detected a failed network connection on network 5.5.224.0 via interface alt0","- Duplicate IP addresses can cause interface startup failures or prevent traffic from being accepted.
+- Stale nodes may retain addresses and create network conflicts.
+- Interface-name/configuration mismatches can also produce network-service failures."
+HPC,12,"switch_module fan 1121579712 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579707 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579701 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579676 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579662 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579653 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579631 1 Fan speeds ( 3552 3534 3375 4500 3515 3479 )
+switch_module fan 1121579609 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579608 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579607 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579600 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579598 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579596 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579594 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579587 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579585 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579583 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579576 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579570 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+switch_module fan 1121579564 1 Fan speeds ( 3552 3534 3375 **** 3515 3479 )",No relevant external knowledge was found.
+HPC,18,"clusterfilesystem clusterfilesystem.not_served 1074123881 1 ClusterFileSystem : ServerFileSystem domain root7_domain is no longer served by node node-230
+clusterfilesystem clusterfilesystem.not_served 1074123885 1 ClusterFileSystem : ServerFileSystem domain root21_domain is no longer served by node node-32
+clusterfilesystem clusterfilesystem.not_served 1074123909 1 ClusterFileSystem : ServerFileSystem domain root24_domain is no longer served by node node-128
+clusterfilesystem clusterfilesystem.not_served 1074123912 1 ClusterFileSystem : ServerFileSystem domain root21_domain is no longer served by node node-224
+clusterfilesystem clusterfilesystem.not_served 1074123963 1 ClusterFileSystem : ServerFileSystem domain root25_domain is no longer served by node node-96
+clusterfilesystem clusterfilesystem.not_served 1074123982 1 ClusterFileSystem : ServerFileSystem domain root10_domain is no longer served by node node-105
+clusterfilesystem clusterfilesystem.not_served 1074123988 1 ClusterFileSystem : ServerFileSystem domain root10_domain is no longer served by node node-137
+clusterfilesystem clusterfilesystem.not_served 1074124008 1 ClusterFileSystem : ServerFileSystem domain root24_domain is no longer served by node node-192
+clusterfilesystem clusterfilesystem.not_served 1074124043 1 ClusterFileSystem : ServerFileSystem domain root3_domain is no longer served by node node-194
+clusterfilesystem clusterfilesystem.not_served 1074124048 1 ClusterFileSystem : ServerFileSystem domain root24_domain is no longer served by node node-64
+clusterfilesystem clusterfilesystem.not_served 1074124050 1 ClusterFileSystem : ServerFileSystem domain root22_domain is no longer served by node node-0
+clusterfilesystem clusterfilesystem.not_served 1074124084 1 ClusterFileSystem : ServerFileSystem domain root22_domain is no longer served by node node-32
+clusterfilesystem clusterfilesystem.not_served 1074124109 1 ClusterFileSystem : ServerFileSystem domain root22_domain is no longer served by node node-224
+clusterfilesystem clusterfilesystem.not_served 1074124124 1 ClusterFileSystem : ServerFileSystem domain root8_domain is no longer served by node node-231
+clusterfilesystem clusterfilesystem.not_served 1074124125 1 ClusterFileSystem : ServerFileSystem domain root25_domain is no longer served by node node-128
+clusterfilesystem clusterfilesystem.not_served 1074124134 1 ClusterFileSystem : ServerFileSystem domain root10_domain is no longer served by node node-73
+clusterfilesystem clusterfilesystem.not_served 1074124165 1 ClusterFileSystem : ServerFileSystem domain root11_domain is no longer served by node node-138
+clusterfilesystem clusterfilesystem.not_served 1074124173 1 ClusterFileSystem : ServerFileSystem domain root11_domain is no longer served by node node-106
+clusterfilesystem clusterfilesystem.not_served 1074124183 1 ClusterFileSystem : ServerFileSystem domain root26_domain is no longer served by node node-96
+clusterfilesystem clusterfilesystem.not_served 1074124218 1 ClusterFileSystem : ServerFileSystem domain root25_domain is no longer served by node node-192","- Node removal or scale-in can leave stale lifecycle-controller state, producing repeated warnings about nodes that have already been deleted.
+- The discussion did not identify a direct cluster-filesystem cause or remediation, and noted that such warnings may be harmless log spam."
+HPC,29,"node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217414 1 not responding
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out
+node status 1074217418 1 configured out","- The only closely relevant discussion indicates that repeated unavailable node statuses may result from timed-out status checks during network disruption.
+- Timed-out checks should be recorded explicitly so nodes appear degraded or offline rather than having their status omitted.
+- No retrieved item directly explains the “configured out” status."
+HPC,52,"node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 1 configured out
+node status 1079615340 0 configured out
+node status 1079615340 0 configured out
+node status 1079615340 1 configured out
+domain status 1079615340 1 inconsistent nodesets node-127 0x1fffffffe <ok> node-97 0x0000000e <ok> node-96 0x0000000e <ok> node-98 0x0000000e <ok>
+domain status 1079615340 1 inconsistent nodesets node-95 0x1fffffffe <ok> node-64 0x0000000e <ok> node-65 0x0000000e <ok> node-66 0x0000000e <ok>
+node status 1079615336 0 not responding
+node status 1079615336 0 not responding","- Status collection can omit node results when pending queries time out.
+- During a network partition, node-status checks may fail to complete, causing degraded or incomplete cluster status.
+- Recording timed-out checks explicitly preserves partial node status and identifies the timeout instead of silently dropping results."
+HPC,74,"gige temperature 1119553324 1 critical
+gige temperature 1119552124 1 warning
+gige temperature 1119550927 1 warning
+gige temperature 1119550927 1 critical
+gige temperature 1119550625 1 normal
+gige temperature 1119550324 1 warning
+gige temperature 1119549723 1 critical
+gige temperature 1119549123 1 warning
+gige temperature 1119548825 1 warning
+gige temperature 1119548823 1 critical
+gige temperature 1119548761 1 warning
+gige temperature 1119548525 1 normal
+gige temperature 1119548524 1 warning
+gige temperature 1119548398 1 normal
+gige temperature 1119548225 1 warning
+gige temperature 1119548223 1 critical
+gige temperature 1119548161 1 normal
+gige temperature 1119548525 1 normal
+gige temperature 1119547925 1 normal
+gige temperature 1119547798 1 warning","- Repeated warning/critical-to-normal temperature transitions can occur when a device repeatedly crosses thermal thresholds.
+- Cooling or fan-control limitations may contribute to recurring threshold alarms.
+- Thermal logging can mislabel critical events, so reported severity should be checked against the actual critical threshold configuration."
+HPC,79,"switch_module error 1072509013 1 Link error
+switch_module error 1072509012 1 Link error
+switch_module error 1072509012 1 Link error
+switch_module error 1072509012 1 Link error
+switch_module error 1072509012 1 Link error
+switch_module error 1072508418 1 Link ok
+switch_module error 1072508417 1 Link in reset
+switch_module error 1072508275 1 Link ok
+switch_module error 1072508274 1 Link in reset
+switch_module error 1072508194 1 Link ok
+switch_module error 1072508193 1 Link in reset
+switch_module error 1072507806 1 Link ok
+switch_module error 1072507805 1 Link in reset
+switch_module error 1072504998 1 Link error
+switch_module error 1072504997 1 Link error
+switch_module error 1072503853 1 Link ok
+switch_module error 1072503852 1 Link in reset
+switch_module error 1072503851 1 Link ok
+switch_module error 1072503850 1 Link in reset
+switch_module error 1072503061 1 Link error",No relevant external knowledge was found.
+HPC,85,"switch_module error 1074120554 1 Linkerror event interval expired
+switch_module error 1074120561 1 Linkerror event interval expired
+switch_module error 1074120583 1 Linkerror event interval expired
+switch_module error 1074120590 1 Linkerror event interval expired
+switch_module error 1074120591 1 Linkerror event interval expired
+switch_module error 1074120597 1 Linkerror event interval expired
+switch_module error 1074120598 1 Linkerror event interval expired
+switch_module error 1074120605 1 Linkerror event interval expired
+switch_module error 1074120606 1 Linkerror event interval expired
+switch_module error 1074120613 1 Linkerror event interval expired
+switch_module error 1074120632 1 Linkerror event interval expired
+switch_module error 1074120639 1 Linkerror event interval expired
+switch_module error 1074120640 1 Linkerror event interval expired
+switch_module error 1074120646 1 Linkerror event interval expired
+switch_module error 1074120654 1 Linkerror event interval expired
+switch_module error 1074120692 1 Linkerror event interval expired
+switch_module error 1074120699 1 Linkerror event interval expired
+switch_module error 1074120700 1 Linkerror event interval expired
+switch_module error 1074120707 1 Linkerror event interval expired
+switch_module error 1074120717 1 Linkerror event interval expired",No relevant external knowledge was found.
+HPC,90,"switch_module error 1127420184 1 link errors remain current
+switch_module error 1127419543 1 link errors remain current
+switch_module error 1127419222 1 link errors remain current
+switch_module error 1127418777 1 link errors remain current
+switch_module error 1127418369 1 link errors remain current
+switch_module error 1127418060 1 link errors remain current
+switch_module error 1127417685 1 link errors remain current
+switch_module error 1127417289 1 link errors remain current
+switch_module error 1127416952 1 link errors remain current
+switch_module error 1127416244 1 link errors remain current
+switch_module error 1127415936 1 link errors remain current
+switch_module error 1127415556 1 link errors remain current
+switch_module error 1127415137 1 link errors remain current
+switch_module error 1127414778 1 link errors remain current
+switch_module error 1127414361 1 link errors remain current
+switch_module error 1127413930 1 link errors remain current
+switch_module error 1127413605 1 link errors remain current
+switch_module error 1127412734 1 link errors remain current
+switch_module error 1127412316 1 link errors remain current
+switch_module error 1127411965 1 link errors remain current",No relevant external knowledge was found.
+HPC,94,"unix.hw net.niff.up 1074177979 1 NIFF : node node-4 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074177979 1 NIFF : node node-4 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074177999 1 NIFF : node node-5 has detected an available network connection on network 5.5.224.0 via interface alt0
+unix.hw net.niff.up 1074177999 1 NIFF : node node-5 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178018 1 NIFF : node node-7 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178018 1 NIFF : node node-7 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178057 1 NIFF : node node-6 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178057 1 NIFF : node node-6 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178119 1 NIFF : node node-9 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178119 1 NIFF : node node-9 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178133 1 NIFF : node node-10 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178133 1 NIFF : node node-10 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178134 1 NIFF : node node-8 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178134 1 NIFF : node node-8 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178151 1 NIFF : node node-11 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178151 1 NIFF : node node-11 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178259 1 NIFF : node node-12 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178259 1 NIFF : node node-12 has detected an available network connection on network 10.128.0.0 via interface ee0
+unix.hw net.niff.up 1074178260 1 NIFF : node node-14 has detected an available network connection on network 5.5.226.0 via interface alt0
+unix.hw net.niff.up 1074178260 1 NIFF : node node-14 has detected an available network connection on network 10.128.0.0 via interface ee0",No relevant external knowledge was found.
+bgl,3,"RAS KERNEL INFO ciod : Message code 0 is not 51 or 4294967295
+RAS KERNEL INFO ciod : cpu 0 at treeaddr 8717 sent unrecognized message 0xffffffff
+RAS KERNEL INFO generating core.3869
+RAS KERNEL INFO ciod : for node 15 , read continuation request but ioState is 0
+RAS KERNEL INFO ciod : Message code 0 is not 51 or 4294967295
+RAS KERNEL INFO generating core.3863
+RAS KERNEL INFO ciod : Message code 0 is not 51 or 4294967295
+RAS KERNEL INFO ciod : cpu 0 at treeaddr 13331 sent unrecognized message 0xffffffff
+RAS KERNEL INFO ciod : Message code 0 is not 51 or 4294967295
+RAS KERNEL INFO generating core.3991
+RAS KERNEL INFO ciod : Message code 0 is not 51 or 4294967295
+RAS KERNEL INFO generating core.3871
+RAS KERNEL INFO generating core.3999
+RAS KERNEL INFO ciod : for node 15 , read continuation request but ioState is 0
+RAS KERNEL INFO generating core.3988
+RAS KERNEL INFO ciod : cpu 0 at treeaddr 8716 sent unrecognized message 0xffffffff
+RAS KERNEL INFO generating core.3860
+RAS KERNEL INFO ciod : for node 9 , read continuation request but ioState is 0
+RAS KERNEL INFO generating core.3989
+RAS KERNEL INFO ciod : cpu 0 at treeaddr 13330 sent unrecognized message 0xffffffff",No relevant external knowledge was found.
+bgl,10,"RAS KERNEL FATAL program interrupt : illegal instruction......0
+RAS KERNEL FATAL data store interrupt caused by icbi.........0
+RAS KERNEL FATAL program interrupt : illegal instruction......0
+RAS KERNEL FATAL data store interrupt caused by icbi.........0
+RAS KERNEL FATAL program interrupt : illegal instruction......0
+RAS KERNEL FATAL data store interrupt caused by icbi.........0
+RAS KERNEL FATAL program interrupt : illegal instruction......0
+RAS KERNEL FATAL data store interrupt caused by icbi.........0
+RAS KERNEL FATAL program interrupt : illegal instruction......0
+RAS KERNEL FATAL data store interrupt caused by icbi.........0
+RAS KERNEL FATAL program interrupt : illegal instruction......0
+RAS KERNEL FATAL data store interrupt caused by icbi.........0
+RAS KERNEL FATAL program interrupt : illegal instruction......0
+RAS KERNEL FATAL data store interrupt caused by icbi.........0
+RAS KERNEL FATAL program interrupt : illegal instruction......0
+RAS KERNEL FATAL data store interrupt caused by icbi.........0
+RAS KERNEL FATAL program interrupt : illegal instruction......0
+RAS KERNEL FATAL data store interrupt caused by icbi.........0
+RAS KERNEL FATAL data store interrupt caused by icbi.........0
+RAS KERNEL FATAL program interrupt : illegal instruction......0","- Illegal-instruction faults can result when generated binaries contain instructions unsupported by the executing CPU.
+- Checking the exact faulting instruction and CPU feature support can identify an ISA-target mismatch.
+- The retrieved discussions do not address PowerPC `icbi` data-store interrupts or kernel-level RAS failures directly."
+bgl,22,"RAS KERNEL INFO 1 torus receiver z- input pipe error ( s ) ( dcr 0x02f1 ) detected and corrected
+RAS KERNEL INFO CE sym 2 , at 0x02b1c1a0 , mask 0x04
+RAS KERNEL INFO total of 1 ddr error ( s ) detected and corrected
+RAS KERNEL INFO 1 tree receiver 2 in re-synch state event ( s ) ( dcr 0x019a ) detected
+RAS KERNEL INFO CE sym 2 , at 0x02b1c1a0 , mask 0x04
+RAS KERNEL INFO total of 3 ddr error ( s ) detected and corrected
+RAS LINKCARD INFO MidplaneSwitchController performing bit sparing on R33-M1-L0-U22-C bit 3
+RAS LINKCARD INFO MidplaneSwitchController performing bit sparing on R27-M1-L3-U18-C bit 3
+RAS APP FATAL ciod : LOGIN chdir ( /p/gb2/draeger/benchmark/dat32k_061605 ) failed : No such file or directory
+RAS APP FATAL ciod : LOGIN chdir ( /p/gb2/draeger/benchmark/dat32k_061605 ) failed : No such file or directory
+RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50197
+RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50205
+RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50160
+RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50163
+RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50046
+RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50047
+RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50344
+RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50345
+RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50294
+RAS APP FATAL ciod : failed to read message prefix on control stream ( CioStream socket to 172.16.96.116 : 50295","- `chdir ... No such file or directory` commonly indicates that the requested working directory is absent, invalid, or was removed.
+- Relevant remediation clues are to verify the configured working-directory path, confirm it exists and is accessible, and use a valid absolute path.
+- Complete job or pipeline configuration and surrounding logs can help identify where the nonexistent path was supplied."
+bgl,24,"RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 2016000 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 2016000 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions
+RAS KERNEL INFO 1969920 double-hummer alignment exceptions","- The only potentially relevant discussion concerns architecture-specific `double` alignment detection on ARMv7.
+- It does not address “double-hummer” kernel alignment exceptions or provide a confirmed cause or remediation for this log pattern."
+bgl,29,"NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+NULL DISCOVERY WARNING Node card is not fully functional
+NULL DISCOVERY SEVERE Can not get assembly information for node card
+NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+NULL DISCOVERY WARNING Node card is not fully functional
+NULL DISCOVERY SEVERE Can not get assembly information for node card
+NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+NULL DISCOVERY WARNING Node card is not fully functional
+NULL DISCOVERY SEVERE Can not get assembly information for node card
+NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+NULL DISCOVERY WARNING Node card is not fully functional
+NULL DISCOVERY SEVERE Can not get assembly information for node card
+NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+NULL DISCOVERY WARNING Node card is not fully functional
+NULL DISCOVERY SEVERE Can not get assembly information for node card
+NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+NULL DISCOVERY WARNING Node card is not fully functional
+NULL DISCOVERY WARNING Node card is not fully functional
+NULL DISCOVERY SEVERE Can not get assembly information for node card
+NULL DISCOVERY SEVERE Can not get assembly information for node card",No relevant external knowledge was found.
+bgl,30,"NULL DISCOVERY WARNING Node card VPD check : U11 node in processor card slot J15 do not match. VPD ecid 04D38092472FFFFF07041B308ED7 , found 074F04E7E17BFFFF060B1C3046ED
+NULL HARDWARE SEVERE LinkCard power module U58 is not accessible
+NULL HARDWARE SEVERE LinkCard is not fully functional
+NULL HARDWARE SEVERE LinkCard power module U58 is not accessible
+NULL HARDWARE SEVERE LinkCard is not fully functional
+NULL HARDWARE SEVERE LinkCard power module U58 is not accessible
+NULL HARDWARE SEVERE LinkCard is not fully functional
+NULL HARDWARE SEVERE LinkCard power module U58 is not accessible
+NULL HARDWARE SEVERE LinkCard is not fully functional
+NULL HARDWARE SEVERE LinkCard power module U58 is not accessible
+NULL HARDWARE SEVERE LinkCard is not fully functional
+NULL HARDWARE SEVERE LinkCard power module U58 is not accessible
+NULL HARDWARE SEVERE LinkCard is not fully functional
+NULL HARDWARE SEVERE NodeCard power module U70 is not accessible
+NULL HARDWARE SEVERE LinkCard power module U58 is not accessible
+NULL HARDWARE SEVERE LinkCard is not fully functional
+NULL HARDWARE SEVERE LinkCard power module U58 is not accessible
+NULL HARDWARE SEVERE LinkCard is not fully functional
+NULL HARDWARE SEVERE LinkCard power module U58 is not accessible
+NULL HARDWARE SEVERE LinkCard is not fully functional","- Processor ECID data can appear only partway through boot, so early and later VPD inventories may differ.
+- VPD field position should not be assumed because custom fields may change order when ECID is added.
+- Hardware replacement, cache clearing, reflashing, or booting from an alternate firmware side are documented circumstances associated with VPD mismatches."
+bgl,39,"RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )",No relevant external knowledge was found.
+bgl,43,"RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem
+RAS KERNEL FATAL Error : unable to mount filesystem","- Kernel-level mount failures can occur when the required filesystem driver or kernel module is missing.
+- A boot-time inability to mount the root filesystem may produce a fatal kernel panic.
+- The retrieved discussions suggest checking the specific filesystem type and whether its kernel support is installed and available."
+bgl,46,"RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error
+RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error","- A similar loader failure occurred when an expected executable was not placed in the directory used to build/run the application.
+- Moving the built binary into the expected `build` directory resolved that reported issue.
+- The discussion also identified CPU architecture mismatch and multi-architecture builds as possible causes of an `exec format error`, though that was not the confirmed cause there."
+bgl,56,"RAS KERNEL FATAL Lustre mount FAILED : bglio473 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio106 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio650 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio396 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio817 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio359 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio14 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio173 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio240 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio365 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio188 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio827 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio46 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio99 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio474 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio643 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio148 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio467 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio231 : point /p/gb1
+RAS KERNEL FATAL Lustre mount FAILED : bglio100 : point /p/gb1","- Lustre mount failures can result from missing client software or an unavailable Lustre kernel module.
+- After installing Lustre client packages, a reboot may be required before the client can mount successfully.
+- Mount configuration should also be checked for the correct MGS endpoint and filesystem name."
+bgl,87,"RAS KERNEL INFO Kernel detected 41359969 integer alignment exceptions ( 41359962 ) iar 0x0023f108 , dear 0x1feaa260 ( 41359963 ) iar 0x00265564 , dear 0x1feaa1c0 ( 41359964 ) iar 0x00265574 , dear 0x1feaa1e0 ( 41359965 ) iar 0x00265578 , dear 0x1feaa200 ( 41359966 ) iar 0x00265588 , dear 0x1feaa220 ( 41359967 ) iar 0x0026558c , dear 0x1feaa240 ( 41359968 ) iar 0x00265594 , dear 0x1feaa260 ( 41359969 ) iar 0x00265598 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 22674569 integer alignment exceptions ( 22674562 ) iar 0x00265594 , dear 0x1feaa260 ( 22674563 ) iar 0x00265598 , dear 0x1feaa280 ( 22674564 ) iar 0x0023f0e0 , dear 0x1feaa1e0 ( 22674565 ) iar 0x0023f0e8 , dear 0x1feaa200 ( 22674566 ) iar 0x0023f0f0 , dear 0x1feaa220 ( 22674567 ) iar 0x0023f0f8 , dear 0x1feaa240 ( 22674568 ) iar 0x0023f100 , dear 0x1feaa260 ( 22674569 ) iar 0x0023f108 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 51619380 integer alignment exceptions ( 51619373 ) iar 0x0023f014 , dear 0x009c00c0 ( 51619374 ) iar 0x0023f01c , dear 0x009c00e0 ( 51619375 ) iar 0x0023f0e0 , dear 0x1feaa1e0 ( 51619376 ) iar 0x0023f0e8 , dear 0x1feaa200 ( 51619377 ) iar 0x0023f0f0 , dear 0x1feaa220 ( 51619378 ) iar 0x0023f0f8 , dear 0x1feaa240 ( 51619379 ) iar 0x0023f100 , dear 0x1feaa260 ( 51619380 ) iar 0x0023f108 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 41558151 integer alignment exceptions ( 41558144 ) iar 0x0023f108 , dear 0x1feaa260 ( 41558145 ) iar 0x00265564 , dear 0x1feaa1c0 ( 41558146 ) iar 0x00265574 , dear 0x1feaa1e0 ( 41558147 ) iar 0x00265578 , dear 0x1feaa200 ( 41558148 ) iar 0x00265588 , dear 0x1feaa220 ( 41558149 ) iar 0x0026558c , dear 0x1feaa240 ( 41558150 ) iar 0x00265594 , dear 0x1feaa260 ( 41558151 ) iar 0x00265598 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 40503235 integer alignment exceptions ( 40503228 ) iar 0x0023f100 , dear 0x009c0ce0 ( 40503229 ) iar 0x0023f108 , dear 0x009c0d00 ( 40503230 ) iar 0x0023f0e0 , dear 0x1feaa1e0 ( 40503231 ) iar 0x0023f0e8 , dear 0x1feaa200 ( 40503232 ) iar 0x0023f0f0 , dear 0x1feaa220 ( 40503233 ) iar 0x0023f0f8 , dear 0x1feaa240 ( 40503234 ) iar 0x0023f100 , dear 0x1feaa260 ( 40503235 ) iar 0x0023f108 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 21079516 integer alignment exceptions ( 21079509 ) iar 0x0023f108 , dear 0x1feaa280 ( 21079510 ) iar 0x0023efec , dear 0x00a5c820 ( 21079511 ) iar 0x0023eff4 , dear 0x00a5c840 ( 21079512 ) iar 0x0023effc , dear 0x00a5c860 ( 21079513 ) iar 0x0023f004 , dear 0x00a5c880 ( 21079514 ) iar 0x0023f00c , dear 0x00a5c8a0 ( 21079515 ) iar 0x0023f014 , dear 0x00a5c8c0 ( 21079516 ) iar 0x0023f01c , dear 0x00a5c8e0
+RAS KERNEL INFO Kernel detected 44380406 integer alignment exceptions ( 44380399 ) iar 0x0023f108 , dear 0x009c1c00 ( 44380400 ) iar 0x00265564 , dear 0x1feaa1c0 ( 44380401 ) iar 0x00265574 , dear 0x1feaa1e0 ( 44380402 ) iar 0x00265578 , dear 0x1feaa200 ( 44380403 ) iar 0x00265588 , dear 0x1feaa220 ( 44380404 ) iar 0x0026558c , dear 0x1feaa240 ( 44380405 ) iar 0x00265594 , dear 0x1feaa260 ( 44380406 ) iar 0x00265598 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 25142106 integer alignment exceptions ( 25142099 ) iar 0x0023f108 , dear 0x1feaa280 ( 25142100 ) iar 0x0023efec , dear 0x00a5c640 ( 25142101 ) iar 0x0023eff4 , dear 0x00a5c660 ( 25142102 ) iar 0x0023effc , dear 0x00a5c680 ( 25142103 ) iar 0x0023f004 , dear 0x00a5c6a0 ( 25142104 ) iar 0x0023f00c , dear 0x00a5c6c0 ( 25142105 ) iar 0x0023f014 , dear 0x00a5c6e0 ( 25142106 ) iar 0x0023f01c , dear 0x00a5c700
+RAS KERNEL INFO Kernel detected 19072323 integer alignment exceptions ( 19072316 ) iar 0x0022bb50 , dear 0x00a5d680 ( 19072317 ) iar 0x00265564 , dear 0x1feaa1c0 ( 19072318 ) iar 0x00265574 , dear 0x1feaa1e0 ( 19072319 ) iar 0x00265578 , dear 0x1feaa200 ( 19072320 ) iar 0x00265588 , dear 0x1feaa220 ( 19072321 ) iar 0x0026558c , dear 0x1feaa240 ( 19072322 ) iar 0x00265594 , dear 0x1feaa260 ( 19072323 ) iar 0x00265598 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 39620394 integer alignment exceptions ( 39620387 ) iar 0x00265598 , dear 0x1feaa280 ( 39620388 ) iar 0x00265564 , dear 0x1feaa1c0 ( 39620389 ) iar 0x00265574 , dear 0x1feaa1e0 ( 39620390 ) iar 0x00265578 , dear 0x1feaa200 ( 39620391 ) iar 0x00265588 , dear 0x1feaa220 ( 39620392 ) iar 0x0026558c , dear 0x1feaa240 ( 39620393 ) iar 0x00265594 , dear 0x1feaa260 ( 39620394 ) iar 0x00265598 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 20909452 integer alignment exceptions ( 20909445 ) iar 0x0023f01c , dear 0x0098d1e0 ( 20909446 ) iar 0x00265564 , dear 0x1feaa1c0 ( 20909447 ) iar 0x00265574 , dear 0x1feaa1e0 ( 20909448 ) iar 0x00265578 , dear 0x1feaa200 ( 20909449 ) iar 0x00265588 , dear 0x1feaa220 ( 20909450 ) iar 0x0026558c , dear 0x1feaa240 ( 20909451 ) iar 0x00265594 , dear 0x1feaa260 ( 20909452 ) iar 0x00265598 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 23529834 integer alignment exceptions ( 23529827 ) iar 0x0022bb50 , dear 0x0098d1a0 ( 23529828 ) iar 0x00265564 , dear 0x1feaa1c0 ( 23529829 ) iar 0x00265574 , dear 0x1feaa1e0 ( 23529830 ) iar 0x00265578 , dear 0x1feaa200 ( 23529831 ) iar 0x00265588 , dear 0x1feaa220 ( 23529832 ) iar 0x0026558c , dear 0x1feaa240 ( 23529833 ) iar 0x00265594 , dear 0x1feaa260 ( 23529834 ) iar 0x00265598 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 45426945 integer alignment exceptions ( 45426938 ) iar 0x0022bb08 , dear 0x009c19a0 ( 45426939 ) iar 0x0022bb18 , dear 0x009c19c0 ( 45426940 ) iar 0x0022bb08 , dear 0x009c19e0 ( 45426941 ) iar 0x0022bb18 , dear 0x009c1a00 ( 45426942 ) iar 0x0022bb40 , dear 0x009c1a20 ( 45426943 ) iar 0x0022bb50 , dear 0x009c1a40 ( 45426944 ) iar 0x0022bb40 , dear 0x009c1a60 ( 45426945 ) iar 0x0022bb50 , dear 0x009c1a80
+RAS KERNEL INFO Kernel detected 51445260 integer alignment exceptions ( 51445253 ) iar 0x0022bb50 , dear 0x009c19c0 ( 51445254 ) iar 0x00265564 , dear 0x1feaa1c0 ( 51445255 ) iar 0x00265574 , dear 0x1feaa1e0 ( 51445256 ) iar 0x00265578 , dear 0x1feaa200 ( 51445257 ) iar 0x00265588 , dear 0x1feaa220 ( 51445258 ) iar 0x0026558c , dear 0x1feaa240 ( 51445259 ) iar 0x00265594 , dear 0x1feaa260 ( 51445260 ) iar 0x00265598 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 38519259 integer alignment exceptions ( 38519252 ) iar 0x0023f014 , dear 0x009c0fc0 ( 38519253 ) iar 0x0023f01c , dear 0x009c0fe0 ( 38519254 ) iar 0x0023f0e0 , dear 0x009c1100 ( 38519255 ) iar 0x0023f0e8 , dear 0x009c1120 ( 38519256 ) iar 0x0023f0f0 , dear 0x009c1140 ( 38519257 ) iar 0x0023f0f8 , dear 0x009c1160 ( 38519258 ) iar 0x0023f100 , dear 0x009c1180 ( 38519259 ) iar 0x0023f108 , dear 0x009c11a0
+RAS KERNEL INFO Kernel detected 27641807 integer alignment exceptions ( 27641800 ) iar 0x00265598 , dear 0x1feaa280 ( 27641801 ) iar 0x0023f11c , dear 0x1feaa2a0 ( 27641802 ) iar 0x0023f0e0 , dear 0x1feaa1e0 ( 27641803 ) iar 0x0023f0e8 , dear 0x1feaa200 ( 27641804 ) iar 0x0023f0f0 , dear 0x1feaa220 ( 27641805 ) iar 0x0023f0f8 , dear 0x1feaa240 ( 27641806 ) iar 0x0023f100 , dear 0x1feaa260 ( 27641807 ) iar 0x0023f108 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 38074106 integer alignment exceptions ( 38074099 ) iar 0x0023f014 , dear 0x009c0840 ( 38074100 ) iar 0x0023f01c , dear 0x009c0860 ( 38074101 ) iar 0x0023f0e0 , dear 0x1feaa1e0 ( 38074102 ) iar 0x0023f0e8 , dear 0x1feaa200 ( 38074103 ) iar 0x0023f0f0 , dear 0x1feaa220 ( 38074104 ) iar 0x0023f0f8 , dear 0x1feaa240 ( 38074105 ) iar 0x0023f100 , dear 0x1feaa260 ( 38074106 ) iar 0x0023f108 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 20934694 integer alignment exceptions ( 20934687 ) iar 0x0023f108 , dear 0x1feaa280 ( 20934688 ) iar 0x0023efec , dear 0x0098c400 ( 20934689 ) iar 0x0023eff4 , dear 0x0098c420 ( 20934690 ) iar 0x0023effc , dear 0x0098c440 ( 20934691 ) iar 0x0023f004 , dear 0x0098c460 ( 20934692 ) iar 0x0023f00c , dear 0x0098c480 ( 20934693 ) iar 0x0023f014 , dear 0x0098c4a0 ( 20934694 ) iar 0x0023f01c , dear 0x0098c4c0
+RAS KERNEL INFO Kernel detected 29405283 integer alignment exceptions ( 29405276 ) iar 0x0022bb50 , dear 0x0098d0a0 ( 29405277 ) iar 0x00265564 , dear 0x1feaa1c0 ( 29405278 ) iar 0x00265574 , dear 0x1feaa1e0 ( 29405279 ) iar 0x00265578 , dear 0x1feaa200 ( 29405280 ) iar 0x00265588 , dear 0x1feaa220 ( 29405281 ) iar 0x0026558c , dear 0x1feaa240 ( 29405282 ) iar 0x00265594 , dear 0x1feaa260 ( 29405283 ) iar 0x00265598 , dear 0x1feaa280
+RAS KERNEL INFO Kernel detected 13742449 integer alignment exceptions ( 13742442 ) iar 0x0023f014 , dear 0x00a5d400 ( 13742443 ) iar 0x0023f01c , dear 0x00a5d420 ( 13742444 ) iar 0x0023f0e0 , dear 0x1feaa1e0 ( 13742445 ) iar 0x0023f0e8 , dear 0x1feaa200 ( 13742446 ) iar 0x0023f0f0 , dear 0x1feaa220 ( 13742447 ) iar 0x0023f0f8 , dear 0x1feaa240 ( 13742448 ) iar 0x0023f100 , dear 0x1feaa260 ( 13742449 ) iar 0x0023f108 , dear 0x1feaa280",No relevant external knowledge was found.
+bgl,94,"RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.
+RAS KERNEL INFO ciod : pollControlDescriptors : Detected the debugger died.",No relevant external knowledge was found.
+hdfs,1,"INFO dfs.DataNode$DataXceiver : Receiving block blk_5601669058330320847 src : /10.251.195.70 : 48457 dest : /10.251.195.70 : 50010
+INFO dfs.DataNode$DataXceiver : Receiving block blk_-4075499163837453137 src : /10.251.26.131 : 45632 dest : /10.251.26.131 : 50010
+INFO dfs.DataNode$DataXceiver : Receiving block blk_5601669058330320847 src : /10.250.19.16 : 43287 dest : /10.250.19.16 : 50010
+INFO dfs.DataNode$DataXceiver : Receiving block blk_7859981215820637753 src : /10.250.15.240 : 52245 dest : /10.250.15.240 : 50010
+INFO dfs.DataNode$PacketResponder : PacketResponder 2 for block blk_9209516605233823360 terminating
+INFO dfs.DataNode$PacketResponder : Received block blk_9209516605233823360 of size 67108864 from /10.251.197.226
+INFO dfs.DataNode$DataXceiver : Receiving block blk_3000947732958086582 src : /10.251.197.226 : 55233 dest : /10.251.197.226 : 50010
+INFO dfs.DataBlockScanner : Verification succeeded for blk_3091099087150179177
+INFO dfs.DataBlockScanner : Verification succeeded for blk_-4513615671112005170
+INFO dfs.DataBlockScanner : Verification succeeded for blk_-8423623469019218108
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.67.113 : 50010 is added to blk_-6955905015982651412 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_000190_0/part-00190. blk_6236687718597980422
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.121.224 : 50010 is added to blk_-1886295043152742159 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.199.19 : 50010 is added to blk_3698016797273149670 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.42.84 : 50010 is added to blk_-8884264645385711172 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_000322_0/part-00322. blk_-2618613639588073189
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.105.189 : 50010 is added to blk_5085472776226767513 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.71.68 : 50010 is added to blk_-1886295043152742159 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_000006_0/part-00006. blk_-2581653693275159104
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.65.203 : 50010 is added to blk_194626696959819525 size 67108864",No relevant external knowledge was found.
+hdfs,2,"INFO dfs.DataBlockScanner : Verification succeeded for blk_-8300434430586159433
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.250.7.244 : 50010 is added to blk_8166230884920196350 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.111.80 : 50010 is added to blk_-5225020134415822789 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.111.80 : 50010 is added to blk_645678064966950778 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.75.163 : 50010 is added to blk_2258168666766371060 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_000473_0/part-00473. blk_-6163554839225498533
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.123.1 : 50010 is added to blk_645678064966950778 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.199.225 : 50010 is added to blk_-1427298292819515185 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.39.179 : 50010 is added to blk_8718648360397246704 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.250.14.224 : 50010 is added to blk_-5225020134415822789 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.111.209 : 50010 is added to blk_2258168666766371060 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.194.102 : 50010 is added to blk_-1427298292819515185 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.215.16 : 50010 is added to blk_-8108413775351568654 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.30.85 : 50010 is added to blk_4738763484238039471 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.38.197 : 50010 is added to blk_-1310299865252671355 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_000427_0/part-00427. blk_-4574147265388255458
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.250.5.161 : 50010 is added to blk_6465134165610314390 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.106.214 : 50010 is added to blk_-1310299865252671355 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.73.188 : 50010 is added to blk_1030155362723789007 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_000676_0/part-00676. blk_1777997861177078441",No relevant external knowledge was found.
+hdfs,12,"WARN dfs.DataNode$DataXceiver : 10.251.123.132 : 50010 : Got exception while serving blk_7955481321933797799 to /10.251.194.147 :
+WARN dfs.DataNode$DataXceiver : 10.251.123.132 : 50010 : Got exception while serving blk_7955481321933797799 to /10.251.107.242 :
+WARN dfs.DataNode$DataXceiver : 10.251.66.3 : 50010 : Got exception while serving blk_-2850818623433938591 to /10.251.31.242 :
+WARN dfs.DataNode$DataXceiver : 10.251.198.196 : 50010 : Got exception while serving blk_-6790654856691185731 to /10.250.10.223 :
+WARN dfs.DataNode$DataXceiver : 10.251.126.83 : 50010 : Got exception while serving blk_2335767336541654785 to /10.251.65.203 :
+WARN dfs.DataNode$DataXceiver : 10.251.194.245 : 50010 : Got exception while serving blk_8820868098089071466 to /10.251.198.33 :
+WARN dfs.DataNode$DataXceiver : 10.251.126.83 : 50010 : Got exception while serving blk_362541775501909831 to /10.251.71.193 :
+INFO dfs.DataNode$DataXceiver : 10.251.74.192 : 50010 Served block blk_-3214701566886479003 to /10.251.90.239
+WARN dfs.DataNode$DataXceiver : 10.251.42.9 : 50010 : Got exception while serving blk_2810430719974764986 to /10.251.42.9 :
+WARN dfs.DataNode$DataXceiver : 10.250.17.225 : 50010 : Got exception while serving blk_-3400565509364697857 to /10.250.7.96 :
+WARN dfs.DataNode$DataXceiver : 10.251.75.143 : 50010 : Got exception while serving blk_-4190491243436026170 to /10.251.30.85 :
+WARN dfs.DataNode$DataXceiver : 10.251.74.192 : 50010 : Got exception while serving blk_3882108147268249808 to /10.251.111.130 :
+WARN dfs.DataNode$DataXceiver : 10.251.31.85 : 50010 : Got exception while serving blk_-6343486872402960301 to /10.251.123.132 :
+WARN dfs.DataNode$DataXceiver : 10.251.31.85 : 50010 : Got exception while serving blk_-859147788836187186 to /10.251.111.130 :
+INFO dfs.DataNode$DataXceiver : 10.251.75.49 : 50010 Served block blk_2930578659237420617 to /10.251.214.32
+WARN dfs.DataNode$DataXceiver : 10.251.75.49 : 50010 : Got exception while serving blk_2343901878387524087 to /10.251.125.193 :
+INFO dfs.DataBlockScanner : Verification succeeded for blk_-2687169637976743681
+INFO dfs.DataBlockScanner : Verification succeeded for blk_5528835497664878134
+INFO dfs.DataBlockScanner : Verification succeeded for blk_7258101505391955834
+INFO dfs.DataBlockScanner : Verification succeeded for blk_7774797924199097641","- Similar warnings commonly include an underlying `IOException` stating that the requested block replica is not valid or no longer present on that DataNode.
+- A DFS client may reject that replica, mark the DataNode unavailable for the request, and continue with another replica; isolated events may therefore be transient.
+- Block-to-file and replica-location lookup tools can help determine whether the affected blocks still have valid replicas elsewhere.
+- The retrieved evidence does not establish xceiver-limit exhaustion as the cause of this warning pattern."
+hdfs,23,"INFO dfs.DataNode$PacketResponder : PacketResponder 0 for block blk_-3986201365534112548 terminating
+INFO dfs.DataNode$PacketResponder : Received block blk_-3986201365534112548 of size 67108864 from /10.251.106.37
+INFO dfs.DataNode$PacketResponder : PacketResponder 1 for block blk_-7635153127338704136 terminating
+INFO dfs.DataNode$PacketResponder : Received block blk_-7635153127338704136 of size 67108864 from /10.250.15.198
+INFO dfs.DataNode$DataXceiver : Receiving block blk_-288984031809875881 src : /10.251.111.209 : 52633 dest : /10.251.111.209 : 50010
+INFO dfs.DataNode$DataXceiver : Receiving block blk_4366124145336914340 src : /10.250.10.176 : 56399 dest : /10.250.10.176 : 50010
+INFO dfs.DataNode$PacketResponder : PacketResponder 1 for block blk_-9001059062747361058 terminating
+INFO dfs.DataNode$PacketResponder : Received block blk_-9001059062747361058 of size 67108864 from /10.251.198.33
+INFO dfs.DataNode$PacketResponder : PacketResponder 1 for block blk_-6648857404919251781 terminating
+INFO dfs.DataNode$PacketResponder : Received block blk_-6648857404919251781 of size 67108864 from /10.250.10.176
+INFO dfs.DataNode$DataXceiver : Receiving block blk_977722557069480226 src : /10.250.15.198 : 41616 dest : /10.250.15.198 : 50010
+INFO dfs.DataNode$PacketResponder : PacketResponder 0 for block blk_-5244291043091315444 terminating
+INFO dfs.DataNode$PacketResponder : Received block blk_-5244291043091315444 of size 67108864 from /10.251.127.47
+INFO dfs.DataNode$PacketResponder : PacketResponder 2 for block blk_-7635153127338704136 terminating
+INFO dfs.DataNode$PacketResponder : Received block blk_-7635153127338704136 of size 67108864 from /10.250.15.198
+INFO dfs.DataNode$DataXceiver : Receiving block blk_7154258238864718904 src : /10.251.125.193 : 52048 dest : /10.251.125.193 : 50010
+INFO dfs.DataNode$DataXceiver : Receiving block blk_-4379251734074022162 src : /10.251.194.129 : 43347 dest : /10.251.194.129 : 50010
+INFO dfs.DataNode$PacketResponder : PacketResponder 2 for block blk_-1281914651681469708 terminating
+INFO dfs.DataNode$PacketResponder : Received block blk_-1281914651681469708 of size 67108864 from /10.251.199.19
+INFO dfs.DataNode$DataXceiver : Receiving block blk_-7137640119905049061 src : /10.251.199.19 : 42730 dest : /10.251.199.19 : 50010","- These messages are standard DataNode block-transfer logging at INFO level.
+- Similar logs prompted a proposal to use a separate logger so packet I/O verbosity could be controlled independently from other DataNode operations."
+hdfs,43,"WARN dfs.FSDataset : Unexpected error trying to delete block blk_8156709250431663669. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8157007602552620601. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8172850113585605633. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8184460545867171342. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8219212597580975288. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8263445520288317388. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8275179600949786072. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8293688447689532097. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8293803025629105098. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8293844257258679343. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8301560018213196661. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8301985470397963141. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8306020498792651472. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8316088262788831522. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8316604396152647415. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8332111402582119335. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8335945263120084738. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8337226166059423434. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8344179782425106011. BlockInfo not found in volumeMap.
+WARN dfs.FSDataset : Unexpected error trying to delete block blk_8348244786737435793. BlockInfo not found in volumeMap.","- The warning means a DataNode received a deletion request for a block that was no longer represented in its in-memory block map/`volumeMap`.
+- Reported triggers include failed or inaccessible data volumes, externally removed replicas, and duplicate or stale NameNode invalidation requests.
+- In affected implementations, `FSDataset.invalidate()` may escalate this condition to an IOException; some versions also perform unnecessary disk checks, potentially delaying clients."
+hdfs,61,"INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.191 : 50010 to replicate blk_-2875117414035006768 to datanode ( s ) 10.250.5.237 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.191 : 50010 to replicate blk_-8107641480801493136 to datanode ( s ) 10.251.202.134 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.214 : 50010 to replicate blk_-2433779501180250303 to datanode ( s ) 10.251.123.99 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.214 : 50010 to replicate blk_-3752021531301902071 to datanode ( s ) 10.250.11.53 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.223 : 50010 to replicate blk_-4602916920024386499 to datanode ( s ) 10.250.9.207 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.223 : 50010 to replicate blk_-5845660514029419579 to datanode ( s ) 10.251.193.224 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.6.4 : 50010 to replicate blk_-2721014013493772607 to datanode ( s ) 10.251.43.147 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.146 : 50010 to replicate blk_-1851783189668914416 to datanode ( s ) 10.251.74.134 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.146 : 50010 to replicate blk_-8919018321127605944 to datanode ( s ) 10.251.90.64 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.230 : 50010 to replicate blk_-2526833798441848968 to datanode ( s ) 10.251.42.207 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.230 : 50010 to replicate blk_-5795609064443443235 to datanode ( s ) 10.251.67.113 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.244 : 50010 to replicate blk_-1034641313644685794 to datanode ( s ) 10.251.199.86 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.244 : 50010 to replicate blk_-3674542448865941382 to datanode ( s ) 10.251.66.63 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.32 : 50010 to replicate blk_-4635499141162458155 to datanode ( s ) 10.251.74.227 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.7.96 : 50010 to replicate blk_-6151144929297619262 to datanode ( s ) 10.251.194.213 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.9.207 : 50010 to replicate blk_-5669655525549620993 to datanode ( s ) 10.251.203.129 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.250.9.207 : 50010 to replicate blk_-8209445467541734104 to datanode ( s ) 10.251.199.19 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.251.105.189 : 50010 to replicate blk_-4864164818610750192 to datanode ( s ) 10.251.111.37 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.251.105.189 : 50010 to replicate blk_-7126229010765485746 to datanode ( s ) 10.251.106.37 : 50010
+INFO dfs.FSNamesystem : BLOCK* ask 10.251.106.10 : 50010 to replicate blk_-5874439185215513626 to datanode ( s ) 10.251.127.243 : 50010","- A reported NameNode failure mode produced roughly 10,000 `ask ... to replicate ...` messages per second, eventually exhausting disk space.
+- The discussion links the flood to replication work entering a pending state for retries, while the referenced implementation noted that the retry timer was not yet implemented."
+hdfs,70,"INFO dfs.FSDataset : Deleting block blk_5915103506218615288 file /mnt/hadoop/dfs/data/current/subdir29/blk_5915103506218615288
+INFO dfs.FSDataset : Deleting block blk_-5933312176396181020 file /mnt/hadoop/dfs/data/current/subdir57/blk_-5933312176396181020
+INFO dfs.FSDataset : Deleting block blk_-5954574236310014235 file /mnt/hadoop/dfs/data/current/subdir19/blk_-5954574236310014235
+INFO dfs.FSDataset : Deleting block blk_5963233982200204662 file /mnt/hadoop/dfs/data/current/subdir14/blk_5963233982200204662
+INFO dfs.FSDataset : Deleting block blk_5963233982200204662 file /mnt/hadoop/dfs/data/current/subdir54/blk_5963233982200204662
+INFO dfs.FSDataset : Deleting block blk_-6008089680456141161 file /mnt/hadoop/dfs/data/current/subdir39/blk_-6008089680456141161
+INFO dfs.FSDataset : Deleting block blk_6072273955100848203 file /mnt/hadoop/dfs/data/current/subdir4/blk_6072273955100848203
+INFO dfs.FSDataset : Deleting block blk_6084637000179833138 file /mnt/hadoop/dfs/data/current/subdir47/blk_6084637000179833138
+INFO dfs.FSDataset : Deleting block blk_-6109654147349714823 file /mnt/hadoop/dfs/data/current/subdir28/blk_-6109654147349714823
+INFO dfs.FSDataset : Deleting block blk_-6373140375413732886 file /mnt/hadoop/dfs/data/current/subdir24/blk_-6373140375413732886
+INFO dfs.FSDataset : Deleting block blk_6448197766521065696 file /mnt/hadoop/dfs/data/current/subdir54/blk_6448197766521065696
+INFO dfs.FSDataset : Deleting block blk_-6521942545340030865 file /mnt/hadoop/dfs/data/current/subdir12/blk_-6521942545340030865
+INFO dfs.FSDataset : Deleting block blk_-6543793448825660621 file /mnt/hadoop/dfs/data/current/subdir49/blk_-6543793448825660621
+INFO dfs.FSDataset : Deleting block blk_-6596040165593317822 file /mnt/hadoop/dfs/data/current/subdir29/blk_-6596040165593317822
+INFO dfs.FSDataset : Deleting block blk_-6607553479207202640 file /mnt/hadoop/dfs/data/current/subdir4/blk_-6607553479207202640
+INFO dfs.FSDataset : Deleting block blk_-6631877640253132367 file /mnt/hadoop/dfs/data/current/subdir54/blk_-6631877640253132367
+INFO dfs.FSDataset : Deleting block blk_6647398132933206390 file /mnt/hadoop/dfs/data/current/subdir28/blk_6647398132933206390
+INFO dfs.FSDataset : Deleting block blk_6662527111083282817 file /mnt/hadoop/dfs/data/current/subdir3/blk_6662527111083282817
+INFO dfs.FSDataset : Deleting block blk_-666329927391069642 file /mnt/hadoop/dfs/data/current/subdir29/blk_-666329927391069642
+INFO dfs.FSDataset : Deleting block blk_668374543755531617 file /mnt/hadoop/dfs/data/current/subdir3/blk_668374543755531617","- [1] shows the same `dfs.FSDataset: Deleting block ...` message when a DataNode removes an over-replicated block. If the deletion is not reported to the NameNode, the NameNode may request deletion again, producing a `BlockInfo not found in volumeMap` warning.
+- [2] shows that block deletions can be initiated by the NameNode when replicas have inconsistent sizes or are considered excess; the replicas are placed in invalidation sets and DataNodes are instructed to delete them."
+hdfs,80,"INFO dfs.FSDataset : Deleting block blk_-2858214357309997543 file /mnt/hadoop/dfs/data/current/subdir20/blk_-2858214357309997543
+INFO dfs.FSDataset : Deleting block blk_-2953057778862104369 file /mnt/hadoop/dfs/data/current/subdir24/blk_-2953057778862104369
+INFO dfs.FSDataset : Deleting block blk_-2967224055336371935 file /mnt/hadoop/dfs/data/current/subdir25/blk_-2967224055336371935
+INFO dfs.FSDataset : Deleting block blk_8261482827047926486 file /mnt/hadoop/dfs/data/current/blk_8261482827047926486
+INFO dfs.FSDataset : Deleting block blk_8269354618704406888 file /mnt/hadoop/dfs/data/current/subdir53/blk_8269354618704406888
+INFO dfs.DataNode$PacketResponder : PacketResponder 2 for block blk_538419606286880500 terminating
+INFO dfs.DataNode$PacketResponder : Received block blk_538419606286880500 of size 67108864 from /10.251.203.246
+INFO dfs.DataNode$DataXceiver : Receiving block blk_3873342665472583071 src : /10.251.203.246 : 49350 dest : /10.251.203.246 : 50010
+INFO dfs.DataNode$DataXceiver : Receiving block blk_-8122896082453364564 src : /10.251.203.129 : 57045 dest : /10.251.203.129 : 50010
+INFO dfs.DataNode$DataXceiver : Receiving block blk_134405994873390120 src : /10.251.90.239 : 57872 dest : /10.251.90.239 : 50010
+INFO dfs.DataNode$DataXceiver : Receiving block blk_-9185481441450939216 src : /10.251.203.129 : 38620 dest : /10.251.203.129 : 50010
+INFO dfs.DataNode$PacketResponder : PacketResponder 2 for block blk_-4365819325651686654 terminating
+INFO dfs.DataNode$PacketResponder : Received block blk_-4365819325651686654 of size 67108864 from /10.251.90.239
+INFO dfs.DataNode$DataXceiver : Receiving block blk_134405994873390120 src : /10.251.90.239 : 34590 dest : /10.251.90.239 : 50010
+INFO dfs.DataNode$DataXceiver : Receiving block blk_3978600750216951934 src : /10.251.42.9 : 53620 dest : /10.251.42.9 : 50010
+INFO dfs.DataNode$PacketResponder : PacketResponder 0 for block blk_538419606286880500 terminating
+INFO dfs.DataNode$PacketResponder : Received block blk_538419606286880500 of size 67108864 from /10.251.91.229
+INFO dfs.DataNode$DataXceiver : Receiving block blk_-7624946325024275940 src : /10.250.11.194 : 34947 dest : /10.250.11.194 : 50010
+INFO dfs.DataNode$PacketResponder : PacketResponder 1 for block blk_-899227664531765898 terminating
+INFO dfs.DataNode$PacketResponder : Received block blk_-899227664531765898 of size 67108864 from /10.251.126.255","- “Receiving block,” “Received block,” and “PacketResponder ... terminating” are ordinary DataNode transfer lifecycle messages at INFO level.
+- `FSDataset: Deleting block` can occur during replica invalidation, including removal of excess replicas.
+- A known failure mode exists when the NameNode is not informed of an earlier deletion, but the provided case logs do not show the associated warning or repeated-delete error."
+hdfs,89,"INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.30.101 : 50010 is added to blk_2879546588863335186 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.31.160 : 50010 is added to blk_8352595016162658118 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.35.1 : 50010 is added to blk_-2698341372732437361 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.71.146 : 50010 is added to blk_-5257809364940425923 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.91.229 : 50010 is added to blk_2879546588863335186 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.109.236 : 50010 is added to blk_6968919706242225965 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.127.191 : 50010 is added to blk_-868084610488553645 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.26.8 : 50010 is added to blk_6282745654917735626 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.43.192 : 50010 is added to blk_-5178222750171394289 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.67.4 : 50010 is added to blk_-5602709154391870691 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : 10.251.89.155 : 50010 is added to blk_6282745654917735626 size 67108864
+INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : /user/root/rand5/_temporary/_task_200811101024_0011_m_001583_0/part-01583. blk_6685401481674953154
+INFO dfs.DataBlockScanner : Verification succeeded for blk_3309093932078570879
+INFO dfs.DataBlockScanner : Verification succeeded for blk_-8280325735899181488
+INFO dfs.DataNode$DataXceiver : Receiving block blk_-8538538846101395256 src : /10.251.91.229 : 50637 dest : /10.251.91.229 : 50010
+INFO dfs.DataNode$PacketResponder : PacketResponder 0 for block blk_-3159104926497435600 terminating
+INFO dfs.DataNode$PacketResponder : Received block blk_-3159104926497435600 of size 67108864 from /10.251.38.197
+INFO dfs.DataNode$PacketResponder : PacketResponder 0 for block blk_-7935991638668476001 terminating
+INFO dfs.DataNode$DataXceiver : Receiving block blk_3898888729322928785 src : /10.250.14.224 : 38593 dest : /10.250.14.224 : 50010
+INFO dfs.DataNode$PacketResponder : PacketResponder 2 for block blk_-6137619181493863961 terminating","- The `Receiving block`, `Received block`, and `PacketResponder ... terminating` messages are normal DataNode communication details logged at INFO level.
+- A separate logger or adjusted log level can reduce this packet-I/O noise while retaining visibility into other DataNode operations."
+proxifier,1,"- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 403 bytes sent , 426 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1036 bytes ( 1.01 KB ) sent , 34151 bytes ( 33.3 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 1040 bytes ( 1.01 KB ) sent , 15872 bytes ( 15.5 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 1066 bytes ( 1.04 KB ) sent , 1782 bytes ( 1.74 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 1060 bytes ( 1.03 KB ) sent , 1633 bytes ( 1.59 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 1091 bytes ( 1.06 KB ) sent , 367 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 1097 bytes ( 1.07 KB ) sent , 366 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 1052 bytes ( 1.02 KB ) sent , 8362 bytes ( 8.16 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 1124 bytes ( 1.09 KB ) sent , 529 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS","- Repeated short-lived proxy connections with little or no returned data can accompany proxy protocol mismatches, TLS handshake timeouts, or client-specific proxy-routing problems.
+- Comparing the affected application with another client using the same proxy can help distinguish a general proxy failure from an application or Proxifier-rule issue.
+- Relevant checks include verifying the configured proxy protocol, inspecting third-party network filters, and confirming that destination hosts are covered by the intended Proxifier rules."
+proxifier,2,"- tcpconn.tencent.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- tcpconn.tencent.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- tcpconn.tencent.com : 80 close , 0 bytes sent , 0 bytes received , lifetime <1 sec
+- tcpconn.tencent.com : 443 close , 0 bytes sent , 0 bytes received , lifetime <1 sec
+- tcpconn5.tencent.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- tcpconn5.tencent.com : 80 close , 0 bytes sent , 0 bytes received , lifetime <1 sec
+- tcpconn5.tencent.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- tcpconn5.tencent.com : 443 close , 0 bytes sent , 0 bytes received , lifetime <1 sec
+- 183.60.48.250 : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 639 bytes sent , 339 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- tcpconn4.tencent.com : 80 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy closed the connection unexpectedly.
+- tcpconn4.tencent.com : 443 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy closed the connection unexpectedly.
+- cgi.qqweb.qq.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- cgi.qqweb.qq.com : 80 close , 477 bytes sent , 448 bytes received , lifetime <1 sec
+- cgi.qqweb.qq.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- cgi.qqweb.qq.com : 80 close , 477 bytes sent , 448 bytes received , lifetime <1 sec","- A proxy connection can appear open or authenticated yet close immediately without transferring application data.
+- Repeated short-lived connections with 0 bytes transferred have been associated with client-specific proxy handling, routing rules, or network-filter interference.
+- Comparing behavior with another client and capturing traffic between the client and proxy can help identify whether requests reach the proxy and which side closes the connection."
+proxifier,26,"- proxy.cse.cuhk.edu.hk : 5070 close , 451 bytes sent , 353 bytes received , lifetime <1 sec
+- 137.189.89.156 : 22 open through proxy socks.cse.cuhk.edu.hk : 1080 SOCKS5
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- long.weixin.qq.com : 443 error : A connection request was canceled before the completion.
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 451 bytes sent , 353 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 2115 bytes ( 2.06 KB ) sent , 1342 bytes ( 1.31 KB ) received , lifetime 04 : 00
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 451 bytes sent , 353 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 14227 bytes ( 13.8 KB ) sent , 4700 bytes ( 4.58 KB ) received , lifetime 01 : 02
+- ptlogin2.qq.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- dir.minigame.qq.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS","- Repeated short-lived or zero-byte proxy connections can indicate that the client is using the wrong protocol for the configured proxy.
+- Proxifier-mediated traffic may fail for one application even when browsers work through the same proxy; canceled connections and zero-byte responses were observed in that situation.
+- Verify whether port 5070 actually expects an HTTP/HTTPS proxy protocol and avoid routing the proxy endpoint through itself; proxy scheme and routing rules should match the server’s real behavior."
+proxifier,32,"- proxy.cse.cuhk.edu.hk : 5070 close , 673 bytes sent , 1389 bytes ( 1.35 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 673 bytes sent , 3191 bytes ( 3.11 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 673 bytes sent , 1954 bytes ( 1.90 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- 127.0.0.1 : 58205 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 265 bytes sent , 2224 bytes ( 2.17 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 265 bytes sent , 2177 bytes ( 2.12 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 687 bytes sent , 10505 bytes ( 10.2 KB ) received , lifetime 00 : 02
+*64 - proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - proxy.cse.cuhk.edu.hk : 5070 close , 293 bytes sent , 514 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS","- Localhost or loopback connections can fail when Proxifier sends them through a remote proxy instead of connecting directly.
+- A 403/405 response to CONNECT indicates that the proxy rejected or did not support the requested tunnel.
+- Relevant remediation clues are to exclude localhost/loopback targets from proxying and verify that the configured proxy permits HTTPS CONNECT tunneling."
+proxifier,43,"- proxy.cse.cuhk.edu.hk : 5070 close , 1956 bytes ( 1.91 KB ) sent , 844 bytes received , lifetime 00 : 59
+- proxy.cse.cuhk.edu.hk : 5070 close , 2479 bytes ( 2.42 KB ) sent , 39306 bytes ( 38.3 KB ) received , lifetime 00 : 59
+- proxy.cse.cuhk.edu.hk : 5070 close , 1221 bytes ( 1.19 KB ) sent , 25332 bytes ( 24.7 KB ) received , lifetime 00 : 59
+- proxy.cse.cuhk.edu.hk : 5070 close , 3474 bytes ( 3.39 KB ) sent , 4723 bytes ( 4.61 KB ) received , lifetime 00 : 59
+- proxy.cse.cuhk.edu.hk : 5070 close , 1850 bytes ( 1.80 KB ) sent , 5441 bytes ( 5.31 KB ) received , lifetime 00 : 59
+- proxy.cse.cuhk.edu.hk : 5070 close , 1764 bytes ( 1.72 KB ) sent , 4695 bytes ( 4.58 KB ) received , lifetime 00 : 59
+- proxy.cse.cuhk.edu.hk : 5070 close , 1811 bytes ( 1.76 KB ) sent , 4741 bytes ( 4.62 KB ) received , lifetime 01 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 4331 bytes ( 4.22 KB ) sent , 90172 bytes ( 88.0 KB ) received , lifetime 01 : 10
+- long.weixin.qq.com : 8080 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 441 bytes sent , 687 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 2155 bytes ( 2.10 KB ) sent , 6064 bytes ( 5.92 KB ) received , lifetime 04 : 00
+- proxy.cse.cuhk.edu.hk : 5070 close , 459 bytes sent , 868 bytes received , lifetime 01 : 55
+- proxy.cse.cuhk.edu.hk : 5070 close , 2039 bytes ( 1.99 KB ) sent , 316416 bytes ( 309 KB ) received , lifetime 01 : 58
+- proxy.cse.cuhk.edu.hk : 5070 close , 983 bytes sent , 303510 bytes ( 296 KB ) received , lifetime 01 : 57
+- proxy.cse.cuhk.edu.hk : 5070 close , 1368 bytes ( 1.33 KB ) sent , 345285 bytes ( 337 KB ) received , lifetime 01 : 57
+- proxy.cse.cuhk.edu.hk : 5070 close , 983 bytes sent , 309675 bytes ( 302 KB ) received , lifetime 01 : 57
+- proxy.cse.cuhk.edu.hk : 5070 close , 983 bytes sent , 360678 bytes ( 352 KB ) received , lifetime 01 : 57
+- proxy.cse.cuhk.edu.hk : 5070 close , 1370 bytes ( 1.33 KB ) sent , 170254 bytes ( 166 KB ) received , lifetime 01 : 57
+- proxy.cse.cuhk.edu.hk : 5070 close , 983 bytes sent , 259565 bytes ( 253 KB ) received , lifetime 01 : 57","- Proxifier rules can mistakenly send connections to local or proxy endpoints back through the proxy, causing connection-establishment failures.
+- Local services should generally bypass the proxy using an exclusion rule such as `no_proxy`.
+- HTTP 403 on CONNECT can reflect proxy configuration or policy rather than general proxy unavailability."
+proxifier,46,"- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 20
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 20
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 20
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 20
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 20
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- long.weixin.qq.com : 8080 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1406 bytes ( 1.37 KB ) sent , 411 bytes received , lifetime 00 : 27
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 715 bytes sent , 4417 bytes ( 4.31 KB ) received , lifetime 00 : 10","- Proxy tools can mistakenly route local or proxy-endpoint traffic through the upstream proxy, causing failed CONNECT requests.
+- HTTP 403 on CONNECT indicates that the proxy rejected or could not permit the requested tunnel.
+- Repeated zero-byte sessions can warrant checking proxy bypass rules and capturing client-to-proxy traffic to confirm whether application data is sent."
+proxifier,60,"- oimagea3.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimagea4.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimagea4.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimagea5.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimagea5.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1299 bytes ( 1.26 KB ) sent , 1029 bytes ( 1.00 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 2504 bytes ( 2.44 KB ) sent , 389 bytes received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1382 bytes ( 1.34 KB ) sent , 0 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS","- Similar Proxifier cases show that successful proxy tunnel establishment does not guarantee completion of the destination request; CDN connections may repeatedly close or time out without returning data.
+- The problem can be application- or destination-specific even when browsers or direct tools can reach the same resource.
+- Relevant remediation clues are to verify destination-specific Proxifier rules, compare direct versus proxied access, and check whether forcing TCP changes the behavior."
+proxifier,69,"- oimagec3.ydstatic.com : 80 close , 0 bytes sent , 0 bytes received , lifetime 00 : 19
+- proxy.cse.cuhk.edu.hk : 5070 close , 2917 bytes ( 2.84 KB ) sent , 1093 bytes ( 1.06 KB ) received , lifetime 04 : 00
+- oimagec4.ydstatic.com : 80 close , 357 bytes sent , 67438 bytes ( 65.8 KB ) received , lifetime 00 : 30
+- oimagec3.ydstatic.com : 80 close , 358 bytes sent , 48647 bytes ( 47.5 KB ) received , lifetime 00 : 30
+- oimagea2.ydstatic.com : 80 close , 357 bytes sent , 77931 bytes ( 76.1 KB ) received , lifetime 00 : 30
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 7685 bytes ( 7.50 KB ) sent , 51839 bytes ( 50.6 KB ) received , lifetime 09 : 54
+- proxy.cse.cuhk.edu.hk : 5070 close , 2584 bytes ( 2.52 KB ) sent , 2077 bytes ( 2.02 KB ) received , lifetime 04 : 00
+- proxy.cse.cuhk.edu.hk : 5070 close , 4746 bytes ( 4.63 KB ) sent , 62398 bytes ( 60.9 KB ) received , lifetime 04 : 03
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- oimagea5.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimagea5.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimagea5.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimageb8.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimagea5.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimagea2.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimageb2.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimageb6.ydstatic.com : 80 error : A connection request was canceled before the completion.","- Proxifier logs showing requests sent but no response can accompany application-specific proxy failures and TLS handshake timeouts [18][19].
+- Repeated zero-byte open/close cycles may indicate a proxy protocol or endpoint mismatch, such as HTTPS traffic being directed to an HTTP-only proxy [20].
+- Relevant troubleshooting clues include verifying application/domain proxy rules and transport settings rather than assuming the upstream service itself is unavailable [18][20]."
+proxifier,80,"*64 - sestat.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - sestat.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - sestat.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - sclick.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - suggestion.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - suggestion.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - suggestion.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - suggestion.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - c.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - c.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - suggestion.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - sclick.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - c.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - sclick.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",No relevant external knowledge was found.
+proxifier,93,"- get.sogou.com : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- wpad : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+*64 - wpad : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- client.dropbox.com : 443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- 101.226.211.46 : 8080 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- get.sogou.com : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- get.sogou.com : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- 120.204.0.149 : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- 120.204.0.139 : 8080 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- get.sogou.com : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- 120.204.0.149 : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- 120.204.0.149 : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- 101.226.211.46 : 8080 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- 180.163.25.139 : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- 180.163.25.139 : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- client-lb.dropbox.com : 443 error : A connection request was canceled before the completion.
+- client-lb.dropbox.com : 443 error : A connection request was canceled before the completion.
+- long.weixin.qq.com : 8080 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403
+- short.weixin.qq.com : 80 error : A connection request was canceled before the completion.
+- short.weixin.qq.com : 80 error : A connection request was canceled before the completion.","- Windows error 11001 is associated with DNS hostname-resolution failure.
+- “Could not resolve proxy” commonly points to an invalid, stale, or unresolvable proxy configuration rather than a problem with each destination host.
+- Relevant remediation clues include verifying the proxy hostname in DNS, distinguishing a PAC/WPAD URL from an actual proxy endpoint, removing persisted proxy settings, restarting affected processes, or disabling proxy/WPAD use when it is unnecessary."
+spark,1,"Update row : 509505
+Update row : 497168
+Update row : 530856
+Update row : 377933
+Update row : 11360
+Update row : 344100
+Update row : 196545
+Update row : 155155
+Update row : 457646
+Update row : 103268
+Update row : 430615
+Update row : 218470
+Update row : 368070
+Update row : 42894
+Update row : 35382
+Update row : 65837
+Update row : 30847
+Update row : 459106
+Update row : 87472
+Update row : 247636",No relevant external knowledge was found.
+spark,2,"INFO storage.MemoryStore : Block broadcast_5_piece289 stored as bytes in memory ( estimated size 4.0 MB , free 563.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece344 stored as bytes in memory ( estimated size 4.0 MB , free 567.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece151 stored as bytes in memory ( estimated size 4.0 MB , free 571.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece198 stored as bytes in memory ( estimated size 4.0 MB , free 575.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece285 stored as bytes in memory ( estimated size 4.0 MB , free 579.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece248 stored as bytes in memory ( estimated size 4.0 MB , free 583.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece75 stored as bytes in memory ( estimated size 4.0 MB , free 587.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece131 stored as bytes in memory ( estimated size 4.0 MB , free 591.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece260 stored as bytes in memory ( estimated size 4.0 MB , free 595.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece215 stored as bytes in memory ( estimated size 4.0 MB , free 599.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece337 stored as bytes in memory ( estimated size 4.0 MB , free 603.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece8 stored as bytes in memory ( estimated size 4.0 MB , free 607.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece191 stored as bytes in memory ( estimated size 4.0 MB , free 611.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece297 stored as bytes in memory ( estimated size 4.0 MB , free 615.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece243 stored as bytes in memory ( estimated size 4.0 MB , free 619.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece186 stored as bytes in memory ( estimated size 4.0 MB , free 623.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece64 stored as bytes in memory ( estimated size 4.0 MB , free 627.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece29 stored as bytes in memory ( estimated size 4.0 MB , free 631.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece156 stored as bytes in memory ( estimated size 4.0 MB , free 635.0 MB )
+INFO storage.MemoryStore : Block broadcast_5_piece72 stored as bytes in memory ( estimated size 4.0 MB , free 639.0 MB )","- Spark may create internal broadcast variables even when application code does not explicitly broadcast data.
+- Broadcast data is stored by `MemoryStore` in serialized pieces, matching the `broadcast_*_piece* stored as bytes` pattern.
+- Item [1] associates broadcast failure with an explicit missing-file exception; the provided case logs contain only successful storage messages and no comparable error."
+spark,4,"INFO MemoryStore : Block broadcast_4_piece225 stored as bytes in memory ( estimated size 4.0 MB , free 904.2 MB )
+INFO BlockManagerInfo : Added broadcast_4_piece225 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.6 GB )
+INFO MemoryStore : Block broadcast_4_piece226 stored as bytes in memory ( estimated size 4.0 MB , free 908.2 MB )
+INFO BlockManagerInfo : Added broadcast_4_piece226 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.6 GB )
+INFO MemoryStore : Block broadcast_4_piece227 stored as bytes in memory ( estimated size 4.0 MB , free 912.2 MB )
+INFO BlockManagerInfo : Added broadcast_4_piece227 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.6 GB )
+INFO MemoryStore : Block broadcast_4_piece228 stored as bytes in memory ( estimated size 4.0 MB , free 916.2 MB )
+INFO BlockManagerInfo : Added broadcast_4_piece228 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.6 GB )
+INFO MemoryStore : Block broadcast_4_piece229 stored as bytes in memory ( estimated size 4.0 MB , free 920.2 MB )
+INFO BlockManagerInfo : Added broadcast_4_piece229 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.5 GB )
+INFO MemoryStore : Block broadcast_4_piece230 stored as bytes in memory ( estimated size 4.0 MB , free 924.2 MB )
+INFO BlockManagerInfo : Added broadcast_4_piece230 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.5 GB )
+INFO MemoryStore : Block broadcast_4_piece231 stored as bytes in memory ( estimated size 4.0 MB , free 928.2 MB )
+INFO BlockManagerInfo : Added broadcast_4_piece231 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.5 GB )
+INFO MemoryStore : Block broadcast_4_piece232 stored as bytes in memory ( estimated size 4.0 MB , free 932.2 MB )
+INFO BlockManagerInfo : Added broadcast_4_piece232 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.5 GB )
+INFO MemoryStore : Block broadcast_4_piece233 stored as bytes in memory ( estimated size 4.0 MB , free 936.2 MB )
+INFO BlockManagerInfo : Added broadcast_4_piece233 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.5 GB )
+INFO MemoryStore : Block broadcast_4_piece234 stored as bytes in memory ( estimated size 4.0 MB , free 940.2 MB )
+INFO BlockManagerInfo : Added broadcast_4_piece234 in memory on 10.10.34.37 : 48910 ( size : 4.0 MB , free : 35.5 GB )","- Spark divides large broadcast variables into numbered pieces, commonly around 4 MB each.
+- Large or repeatedly retained broadcasts can consume substantial driver/executor memory and may lead to disk fallback or Java heap exhaustion.
+- Retrieved examples suggest checking what object is being broadcast and whether closures or iterative code retain unnecessary large state."
+spark,5,"INFO shuffle.RetryingBlockFetcher : Retrying fetch ( 2/3 ) for 1 outstanding blocks after 5000 ms
+INFO client.TransportClientFactory : Found inactive connection to mesos-slave-08/10.10.34.18 : 55867 , creating a new one.
+ERROR shuffle.RetryingBlockFetcher : Exception while beginning fetch of 1 outstanding blocks ( after 2 retries )
+to connect to mesos-slave-08/10.10.34.18 : 55867
+at org.apache.spark.network.client.TransportClientFactory.createClient ( TransportClientFactory.java : 216 )
+at org.apache.spark.network.client.TransportClientFactory.createClient ( TransportClientFactory.java : 167 )
+at org.apache.spark.network.netty.NettyBlockTransferService$$anon$1.createAndStart ( NettyBlockTransferService.scala : 90 )
+at org.apache.spark.network.shuffle.RetryingBlockFetcher.fetchAllOutstanding ( RetryingBlockFetcher.java : 140 )
+at org.apache.spark.network.shuffle.RetryingBlockFetcher.access$200 ( RetryingBlockFetcher.java : 43 )
+at org.apache.spark.network.shuffle.RetryingBlockFetcher$1.run ( RetryingBlockFetcher.java : 170 )
+at java.util.concurrent.Executors$RunnableAdapter.call ( Executors.java : 471 )
+at java.util.concurrent.FutureTask.run ( FutureTask.java : 262 )
+at java.util.concurrent.ThreadPoolExecutor.runWorker ( ThreadPoolExecutor.java : 1145 )
+at java.util.concurrent.ThreadPoolExecutor$Worker.run ( ThreadPoolExecutor.java : 615 )
+at java.lang.Thread.run ( Thread.java : 745 )
+java.net.ConnectException : Connection refused : mesos-slave-08/10.10.34.18 : 55867
+at sun.nio.ch.SocketChannelImpl.checkConnect ( Native Method )
+at sun.nio.ch.SocketChannelImpl.finishConnect ( SocketChannelImpl.java : 744 )
+at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect ( NioSocketChannel.java : 224 )
+at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect ( AbstractNioChannel.java : 289 )","- Similar failures occur when Spark retries a block fetch against an endpoint that is no longer listening or reachable.
+- Reported causes include a dead worker/executor, incorrect hostname or IP resolution, and BlockManager binding to loopback.
+- One matching report identified a Netty block-transfer race and found that using NIO alleviated the problem."
+spark,6,"INFO rdd.HadoopRDD : Input split : hdfs : //10.10.34.11 : 9000/pjhe/logs/2kProxifier.log : 159536+6136
+INFO spark.CacheManager : Partition rdd_6_27 not found , computing it
+INFO rdd.HadoopRDD : Input split : hdfs : //10.10.34.11 : 9000/pjhe/logs/2kProxifier.log : 165672+6136
+INFO spark.CacheManager : Partition rdd_6_28 not found , computing it
+INFO rdd.HadoopRDD : Input split : hdfs : //10.10.34.11 : 9000/pjhe/logs/2kProxifier.log : 171808+6136
+INFO spark.CacheManager : Partition rdd_6_29 not found , computing it
+INFO rdd.HadoopRDD : Input split : hdfs : //10.10.34.11 : 9000/pjhe/logs/2kProxifier.log : 177944+6136
+INFO python.PythonRunner : Times : total = 51 , boot = -12 , init = 62 , finish = 1
+INFO python.PythonRunner : Times : total = 54 , boot = -15 , init = 67 , finish = 2
+INFO python.PythonRunner : Times : total = 56 , boot = -21 , init = 75 , finish = 2
+INFO python.PythonRunner : Times : total = 48 , boot = -13 , init = 59 , finish = 2
+INFO python.PythonRunner : Times : total = 52 , boot = -12 , init = 62 , finish = 2
+INFO storage.MemoryStore : Block rdd_6_25 stored as bytes in memory ( estimated size 1032.0 B , free 432.6 KB )
+INFO storage.MemoryStore : Block rdd_6_27 stored as bytes in memory ( estimated size 980.0 B , free 433.5 KB )
+INFO storage.MemoryStore : Block rdd_6_26 stored as bytes in memory ( estimated size 1077.0 B , free 434.6 KB )
+INFO storage.MemoryStore : Block rdd_6_29 stored as bytes in memory ( estimated size 1053.0 B , free 435.6 KB )
+INFO storage.MemoryStore : Block rdd_6_28 stored as bytes in memory ( estimated size 941.0 B , free 436.5 KB )
+INFO python.PythonRunner : Times : total = 38 , boot = 10 , init = 28 , finish = 0
+INFO python.PythonRunner : Times : total = 38 , boot = 13 , init = 25 , finish = 0
+INFO python.PythonRunner : Times : total = 40 , boot = 8 , init = 32 , finish = 0","- HDFS input-split and per-partition task messages are normal Spark execution logs.
+- Similar PySpark stalls have occurred after only part of a shuffle stage completed, but the retrieved discussion provides no verified fix.
+- `PythonRunner` timing can expose Python-worker startup overhead; however, negative `boot` values also appear in retrieved successful task logs and are not, by themselves, evidence of failure."
+spark,18,"INFO executor.Executor : Finished task 10.0 in stage 5.0 ( TID 210 ) . 2076 bytes result sent to driver
+INFO executor.Executor : Finished task 11.0 in stage 5.0 ( TID 211 ) . 2076 bytes result sent to driver
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 215
+INFO executor.Executor : Running task 15.0 in stage 5.0 ( TID 215 )
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 216
+INFO python.PythonRunner : Times : total = 40 , boot = 13 , init = 27 , finish = 0
+INFO python.PythonRunner : Times : total = 40 , boot = 20 , init = 20 , finish = 0
+INFO executor.Executor : Running task 16.0 in stage 5.0 ( TID 216 )
+INFO python.PythonRunner : Times : total = 40 , boot = 13 , init = 27 , finish = 0
+INFO storage.BlockManager : Found block rdd_7_15 locally
+INFO executor.Executor : Finished task 13.0 in stage 5.0 ( TID 213 ) . 2124 bytes result sent to driver
+INFO executor.Executor : Finished task 12.0 in stage 5.0 ( TID 212 ) . 2076 bytes result sent to driver
+INFO executor.Executor : Finished task 14.0 in stage 5.0 ( TID 214 ) . 2076 bytes result sent to driver
+INFO storage.BlockManager : Found block rdd_7_16 locally
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 217
+INFO executor.Executor : Running task 17.0 in stage 5.0 ( TID 217 )
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 218
+INFO executor.Executor : Running task 18.0 in stage 5.0 ( TID 218 )
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 219
+INFO executor.Executor : Running task 19.0 in stage 5.0 ( TID 219 )",No relevant external knowledge was found.
+spark,40,"INFO ApplicationMaster : Waiting for spark context initialization
+INFO ApplicationMaster : Waiting for spark context initialization ...
+INFO SparkContext : Running Spark version 1.6.0
+INFO ApplicationMaster : Waiting for spark context initialization
+INFO ApplicationMaster : Waiting for spark context initialization ...
+INFO SecurityManager : SecurityManager : authentication disabled ; ui acls disabled ; users with view permissions : Set ( yarn , curi ) ; users with modify permissions : Set ( yarn , curi )
+INFO Utils : Successfully started service 'sparkDriver' on port 57325.
+INFO Slf4jLogger : Slf4jLogger started
+INFO Remoting : Starting remoting
+INFO Remoting : Remoting started ; listening on addresses : [ akka.tcp : //sparkDriverActorSystem@10.10.34.24 : 43254 ]
+INFO Utils : Successfully started service 'sparkDriverActorSystem' on port 43254.
+INFO SparkEnv : Registering MapOutputTracker
+INFO SparkEnv : Registering BlockManagerMaster
+INFO DiskBlockManager : Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0036/blockmgr-54eae980-791c-4d30-8d66-57a0a609e046
+INFO MemoryStore : MemoryStore started with capacity 36.4 GB
+INFO SparkEnv : Registering OutputCommitCoordinator
+INFO JettyUtils : Adding filter : org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter
+INFO Server : jetty-8.y.z-SNAPSHOT
+INFO AbstractConnector : Started SelectChannelConnector@0.0.0.0 : 47193
+INFO Utils : Successfully started service 'SparkUI' on port 47193.","- “Waiting for spark context initialization” is not itself an error; it commonly appears during normal YARN startup.
+- Successful driver/actor-system port binding, block-manager directory creation, MemoryStore startup, and SparkUI launch indicate that SparkContext initialization is progressing.
+- Retrieved failure cases contain later explicit exceptions or timeout messages; the matching startup discussions do not treat the waiting line alone as a failure."
+spark,50,"INFO executor.CoarseGrainedExecutorBackend : Got assigned task 64402
+INFO executor.Executor : Running task 2.0 in stage 1608.0 ( TID 64402 )
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 64404
+INFO executor.Executor : Running task 4.0 in stage 1608.0 ( TID 64404 )
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 64406
+INFO executor.Executor : Running task 6.0 in stage 1608.0 ( TID 64406 )
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 64408
+INFO executor.Executor : Running task 8.0 in stage 1608.0 ( TID 64408 )
+INFO broadcast.TorrentBroadcast : Started reading broadcast variable 1629
+INFO storage.MemoryStore : Block broadcast_1629_piece0 stored as bytes in memory ( estimated size 28.9 KB , free 6.4 MB )
+INFO broadcast.TorrentBroadcast : Started reading broadcast variable 1629
+INFO storage.MemoryStore : Block broadcast_1629 stored as values in memory ( estimated size 77.8 KB , free 6.5 MB )
+INFO storage.BlockManager : Found block rdd_2474_0 locally
+INFO storage.BlockManager : Found block rdd_2474_2 locally
+INFO storage.BlockManager : Found block rdd_2474_4 locally
+INFO storage.BlockManager : Found block rdd_2474_6 locally
+INFO storage.BlockManager : Found block rdd_2474_8 locally
+INFO python.PythonRunner : Times : total = 38 , boot = -179 , init = 217 , finish = 0
+INFO python.PythonRunner : Times : total = 37 , boot = -150 , init = 187 , finish = 0
+INFO storage.BlockManager : Found block rdd_2474_8 locally","- A `Found block ... locally` message can follow an earlier delay, so timestamps or DEBUG logs are needed to determine whether local-block access is actually slow [8].
+- Negative `PythonRunner` boot timing values can occur in tasks that otherwise complete successfully and are not, by themselves, evidence of failure [19]."
+spark,60,"INFO python.PythonRunner : Times : total = 39 , boot = -9 , init = 48 , finish = 0
+INFO python.PythonRunner : Times : total = 39 , boot = -9 , init = 48 , finish = 0
+INFO python.PythonRunner : Times : total = 39 , boot = -9 , init = 48 , finish = 0
+INFO output.FileOutputCommitter : File Output Committer Algorithm version is 1
+INFO output.FileOutputCommitter : File Output Committer Algorithm version is 1
+INFO output.FileOutputCommitter : File Output Committer Algorithm version is 1
+INFO output.FileOutputCommitter : File Output Committer Algorithm version is 1
+INFO output.FileOutputCommitter : Saved output of task 'attempt_201706081139_1413_m_000019_56539' to hdfs : //10.10.34.11 : 9000/pjhe/test/277/_temporary/0/task_201706081139_1413_m_000019
+INFO mapred.SparkHadoopMapRedUtil : attempt_201706081139_1413_m_000019_56539 : Committed
+INFO output.FileOutputCommitter : Saved output of task 'attempt_201706081139_1413_m_000018_56538' to hdfs : //10.10.34.11 : 9000/pjhe/test/277/_temporary/0/task_201706081139_1413_m_000018
+INFO output.FileOutputCommitter : Saved output of task 'attempt_201706081139_1413_m_000016_56536' to hdfs : //10.10.34.11 : 9000/pjhe/test/277/_temporary/0/task_201706081139_1413_m_000016
+INFO mapred.SparkHadoopMapRedUtil : attempt_201706081139_1413_m_000018_56538 : Committed
+INFO mapred.SparkHadoopMapRedUtil : attempt_201706081139_1413_m_000016_56536 : Committed
+INFO output.FileOutputCommitter : Saved output of task 'attempt_201706081139_1413_m_000017_56537' to hdfs : //10.10.34.11 : 9000/pjhe/test/277/_temporary/0/task_201706081139_1413_m_000017
+INFO mapred.SparkHadoopMapRedUtil : attempt_201706081139_1413_m_000017_56537 : Committed
+INFO executor.Executor : Finished task 19.0 in stage 1413.0 ( TID 56539 ) . 2364 bytes result sent to driver
+INFO executor.Executor : Finished task 17.0 in stage 1413.0 ( TID 56537 ) . 2364 bytes result sent to driver
+INFO executor.Executor : Finished task 16.0 in stage 1413.0 ( TID 56536 ) . 2364 bytes result sent to driver
+INFO executor.Executor : Finished task 18.0 in stage 1413.0 ( TID 56538 ) . 2364 bytes result sent to driver
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 56541","- Negative `PythonRunner boot` timing values can appear in logs even when PySpark tasks finish successfully.
+- The retrieved discussion does not identify a cause or remediation for these negative timing values."
+spark,70,"INFO executor.Executor : Running task 5.0 in stage 421.0 ( TID 16845 )
+INFO executor.Executor : Finished task 1.0 in stage 421.0 ( TID 16841 ) . 2703 bytes result sent to driver
+INFO executor.Executor : Finished task 2.0 in stage 421.0 ( TID 16842 ) . 2703 bytes result sent to driver
+INFO spark.CacheManager : Partition rdd_690_5 not found , computing it
+INFO rdd.HadoopRDD : Input split : hdfs : //10.10.34.11 : 9000/pjhe/logs/2kSOSP.log : 36460+7292
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 16846
+INFO executor.Executor : Running task 6.0 in stage 421.0 ( TID 16846 )
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 16847
+INFO executor.Executor : Running task 7.0 in stage 421.0 ( TID 16847 )
+INFO python.PythonRunner : Times : total = 41 , boot = 33 , init = 7 , finish = 1
+INFO python.PythonRunner : Times : total = 39 , boot = 32 , init = 6 , finish = 1
+INFO executor.Executor : Finished task 3.0 in stage 421.0 ( TID 16843 ) . 2703 bytes result sent to driver
+INFO executor.Executor : Finished task 4.0 in stage 421.0 ( TID 16844 ) . 2703 bytes result sent to driver
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 16848
+INFO executor.Executor : Running task 8.0 in stage 421.0 ( TID 16848 )
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 16849
+INFO executor.Executor : Running task 9.0 in stage 421.0 ( TID 16849 )
+INFO spark.CacheManager : Partition rdd_690_7 not found , computing it
+INFO rdd.HadoopRDD : Input split : hdfs : //10.10.34.11 : 9000/pjhe/logs/2kSOSP.log : 51044+7292
+INFO spark.CacheManager : Partition rdd_690_6 not found , computing it","- PySpark task latency can be dominated by Python worker startup, visible in `PythonRunner` as high `boot` time.
+- In the retrieved example, Scala completed quickly while PySpark was slow because Python boot times reached hundreds or thousands of milliseconds.
+- The present log’s PythonRunner times are only about 39–41 ms total, with 32–33 ms boot time, so the retrieved example provides context but does not show a closely matching slowdown."
+spark,80,"INFO python.PythonRunner : Times : total = 42 , boot = -35 , init = 76 , finish = 1
+INFO python.PythonRunner : Times : total = 183 , boot = -32 , init = 214 , finish = 1
+INFO executor.Executor : Finished task 35.0 in stage 3947.0 ( TID 158359 ) . 2142 bytes result sent to driver
+INFO executor.Executor : Finished task 2.0 in stage 3947.0 ( TID 158329 ) . 2142 bytes result sent to driver
+INFO executor.Executor : Finished task 13.0 in stage 3947.0 ( TID 158340 ) . 2142 bytes result sent to driver
+INFO python.PythonRunner : Times : total = 220 , boot = -32 , init = 251 , finish = 1
+INFO executor.Executor : Finished task 24.0 in stage 3947.0 ( TID 158351 ) . 2142 bytes result sent to driver
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 158364
+INFO executor.Executor : Running task 2.0 in stage 3948.0 ( TID 158364 )
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 158375
+INFO executor.Executor : Running task 13.0 in stage 3948.0 ( TID 158375 )
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 158386
+INFO executor.Executor : Running task 24.0 in stage 3948.0 ( TID 158386 )
+INFO executor.CoarseGrainedExecutorBackend : Got assigned task 158396
+INFO broadcast.TorrentBroadcast : Started reading broadcast variable 3965
+INFO executor.Executor : Running task 35.0 in stage 3948.0 ( TID 158396 )
+INFO storage.MemoryStore : Block broadcast_3965_piece0 stored as bytes in memory ( estimated size 5.7 KB , free 877.3 KB )
+INFO broadcast.TorrentBroadcast : Reading broadcast variable 3965 took 5 ms
+INFO storage.MemoryStore : Block broadcast_3965 stored as values in memory ( estimated size 10.3 KB , free 887.6 KB )
+INFO spark.CacheManager : Partition rdd_6369_2 not found , computing it","- `PythonRunner` timing can reflect substantial Python worker startup overhead, especially for small tasks [19].
+- Negative `PythonRunner boot` values can appear during successful execution and are not, by themselves, evidence of failure [24].
+- Broadcast reads and task assignment/completion messages are normal parts of executing partitioned Spark stages [8]."
+spark,100,"INFO storage.BlockManager : Removing RDD 12810
+INFO storage.BlockManager : Removing RDD 12806
+INFO storage.BlockManager : Removing RDD 12802
+INFO storage.BlockManager : Removing RDD 12798
+INFO storage.BlockManager : Removing RDD 12792
+INFO storage.BlockManager : Removing RDD 12788
+INFO storage.BlockManager : Removing RDD 12784
+INFO storage.BlockManager : Removing RDD 12780
+INFO storage.BlockManager : Removing RDD 12776
+INFO storage.BlockManager : Removing RDD 12768
+INFO storage.BlockManager : Removing RDD 12764
+INFO storage.BlockManager : Removing RDD 12760
+INFO storage.BlockManager : Removing RDD 12756
+INFO storage.BlockManager : Removing RDD 12752
+INFO storage.BlockManager : Removing RDD 12748
+INFO storage.BlockManager : Removing RDD 12744
+INFO storage.BlockManager : Removing RDD 12740
+INFO storage.BlockManager : Removing RDD 12736
+INFO storage.BlockManager : Removing RDD 12732
+INFO storage.BlockManager : Removing RDD 12728","- Similar RDD-removal messages occur as Spark Streaming completes successive micro-batches and cleans up their persisted RDDs and input blocks.
+- The retrieved discussion does not identify these cleanup messages themselves as an error or provide a remediation for them."
+zookeeper,1,"WARN Send worker leaving thread
+INFO Received connection request /10.10.34.11 : 45328
+WARN Connection broken for id 188978561024 , my id = 1 , error =
+WARN Interrupting SendWorker
+WARN Interrupted while waiting for message on queue
+WARN Send worker leaving thread
+INFO Received connection request /10.10.34.11 : 45329
+WARN Connection broken for id 188978561024 , my id = 1 , error =
+WARN Interrupting SendWorker
+WARN Interrupted while waiting for message on queue
+WARN Send worker leaving thread
+INFO Received connection request /10.10.34.11 : 45336
+INFO Received connection request /10.10.34.11 : 45338
+WARN Interrupted while waiting for message on queue
+WARN Connection broken for id 188978561024 , my id = 1 , error =
+WARN Interrupting SendWorker
+WARN Send worker leaving thread
+WARN Connection broken for id 188978561024 , my id = 1 , error =
+WARN Interrupting SendWorker
+WARN Interrupted while waiting for message on queue","- The warning chain reflects ZooKeeper quorum communication teardown: a receive-side EOF or closed socket interrupts the corresponding send worker, whose queue wait ends and thread exits.
+- It can occur normally during peer shutdown, but frequent reconnections may indicate unstable or restarting peers and can precede quorum loss.
+- Retrieved remediation clues include checking for pod OOM restarts, verifying every peer has a unique `myid`, and monitoring for abnormal thread/file-descriptor growth during repeated connection failures."
+zookeeper,4,"INFO Closed socket connection for client /10.10.34.11 : 52893 which had sessionid 0x14ed93111f2009b
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.11 : 52894 which had sessionid 0x14ed93111f2009c
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.11 : 52895 which had sessionid 0x14ed93111f2009d
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.13 : 37231 which had sessionid 0x14ed93111f2008c
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.15 : 34846 which had sessionid 0x14ed93111f2008d
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.16 : 39310 which had sessionid 0x14ed93111f2008e
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.17 : 51203 which had sessionid 0x14ed93111f2008f
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.19 : 33440 which had sessionid 0x14ed93111f20090
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.20 : 56414 which had sessionid 0x14ed93111f20091
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.22 : 47085 which had sessionid 0x14ed93111f20092
+WARN caught end of stream exception","- ZooKeeper emits this warning when it cannot read additional data from an established client connection and considers client-side socket closure likely.
+- Similar messages accompany client shutdowns, crashes, connection loss, and workload failures; the retrieved evidence does not establish one universal server-side cause.
+- Application-specific configuration or lifecycle problems may trigger the disconnect, so related client logs are needed to identify the underlying issue."
+zookeeper,8,"INFO Expiring session 0x34ede65503f0009 , timeout of 10000ms exceeded
+INFO Expiring session 0x14ede63a5a7000e , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x24ede63a01b000c
+INFO Processed session termination for sessionid : 0x34ede65503f0008
+INFO Processed session termination for sessionid : 0x34ede65503f000a
+INFO Processed session termination for sessionid : 0x34ede65503f0009
+INFO Processed session termination for sessionid : 0x14ede63a5a7000e
+INFO Accepted socket connection from /10.10.34.12 : 43135
+WARN Connection request from old client /10.10.34.12 : 43135 ; will be dropped if server is in r-o mode
+INFO Accepted socket connection from /10.10.34.12 : 43135
+INFO Established session 0x14ede63a5a70015 with negotiated timeout 10000 for client /10.10.34.12 : 43135
+INFO Accepted socket connection from /10.10.34.13 : 38022
+WARN Connection request from old client /10.10.34.13 : 38022 ; will be dropped if server is in r-o mode
+INFO Accepted socket connection from /10.10.34.12 : 43135
+INFO Established session 0x14ede63a5a70016 with negotiated timeout 10000 for client /10.10.34.13 : 38022
+INFO Expiring session 0x14ede63a5a70014 , timeout of 10000ms exceeded
+INFO Expiring session 0x14ede63a5a70010 , timeout of 10000ms exceeded
+INFO Expiring session 0x14ede63a5a70012 , timeout of 10000ms exceeded
+INFO Expiring session 0x24ede63a01b0018 , timeout of 10000ms exceeded
+INFO Expiring session 0x34ede65503f0010 , timeout of 10000ms exceeded","- The “old client” warning indicates omission of the optional read-only capability flag and is generally not evidence of a failed connection unless the server is in read-only mode [9][10][15].
+- ZooKeeper sessions with 10-second timeouts can expire when client processing or the host pauses for longer than the timeout, including during long JVM/GC pauses [20].
+- Repeated expiration or disconnect events may therefore point to stalled, paused, or terminated clients rather than a ZooKeeper server-side exception [18][20]."
+zookeeper,15,"WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification time out : 12800
+WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification : 1 ( n.leader ) , 0x300000dcd ( n.zxid ) , 0x4 ( n.round ) , LOOKING ( n.state ) , 1 ( n.sid ) , 0x3 ( n.peerEPoch ) , LOOKING ( my state )
+WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification : 1 ( n.leader ) , 0x300000dcd ( n.zxid ) , 0x4 ( n.round ) , LOOKING ( n.state ) , 1 ( n.sid ) , 0x3 ( n.peerEPoch ) , LOOKING ( my state )
+WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification time out : 25600
+WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification time out : 51200
+WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification time out : 60000
+INFO Received connection request /10.10.34.13 : 51884","- ZooKeeper can remain in `LOOKING` with progressively increasing notification timeouts when election connections to quorum peers on port 3888 are unavailable, including during peer startup or restart [13][14].
+- Relevant checks include whether peers are running and listening on ports 2888/3888, whether those ports are allowed through firewalls, and whether the nodes can reach each other [3][5].
+- The ensemble’s `myid`, `server.N` mappings, and local election bind address should also be verified [31]."
+zookeeper,18,"INFO binding to port 0.0.0.0/0.0.0.0 : 2181
+INFO tickTime set to 2000
+INFO minSessionTimeout set to -1
+INFO maxSessionTimeout set to -1
+INFO initLimit set to 10
+INFO Reading snapshot /var/lib/zookeeper/version-2/snapshot.700000000
+INFO My election bind port : 0.0.0.0/0.0.0.0 : 3888
+2015-08-07 07 : 27 : 47 , 409 - INFO [ QuorumPeer [ myid = 1 ] /0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 2181 : QuorumPeer@670 ] - LOOKING
+INFO New election. My id = 1 , proposed zxid = 0x700000197
+INFO Notification : 1 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 1 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )
+INFO Have smaller server identifier , so dropping the connection : ( 2 , 1 )
+INFO Received connection request /10.10.34.12 : 32910
+INFO Have smaller server identifier , so dropping the connection : ( 3 , 1 )
+INFO Received connection request /10.10.34.13 : 38671
+INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 2 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )
+INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 1 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )
+INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , FOLLOWING ( n.state ) , 2 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )
+INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 3 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )
+INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LEADING ( n.state ) , 3 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )
+INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , FOLLOWING ( n.state ) , 2 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )","- “Have smaller server identifier, so dropping the connection” can occur normally while ZooKeeper resolves duplicate election connections; it does not alone indicate failure [8, 14].
+- Successful election is indicated when one peer reaches LEADING and the others reach FOLLOWING [8, 14].
+- If a node instead remains in LOOKING with repeated notification timeouts, external reports suggest checking quorum host/IP configuration and election-port connectivity [11]."
+zookeeper,27,"WARN ******* GOODBYE /10.10.34.11 : 52253 ********
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.11 : 52255 ********
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.11 : 52256 ********
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.11 : 52257 ********
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.11 : 52261 ********
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.11 : 52263 ********
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.11 : 52264 ********
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.11 : 52265 ********
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.11 : 52269 ********
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.11 : 52271 ********
+ERROR Unexpected exception causing shutdown while sock still open","- The message is emitted when a ZooKeeper leader-side `LearnerHandler` connection closes unexpectedly, commonly with EOF, socket closure, or read timeout.
+- By itself it can be transient and harmless, including during leadership changes; quorum and leader health determine its operational significance.
+- Repeated events can accompany follower synchronization failures, lost quorum, prolonged elections, transaction-state inconsistencies, or corrupted ZooKeeper data."
+zookeeper,38,"WARN Exception when using channel : for id 3 my id = 2 error = java.net.SocketException : Broken pipe
+WARN Exception when using channel : for id 3 my id = 2 error = java.net.SocketException : Broken pipe
+INFO Expiring session 0x24ed9311942000f , timeout of 10000ms exceeded
+INFO Expiring session 0x24ed93119420010 , timeout of 10000ms exceeded
+INFO Expiring session 0x24ed9311942000e , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x24ed9311942000f
+INFO Processed session termination for sessionid : 0x24ed93119420010
+INFO Processed session termination for sessionid : 0x24ed9311942000e
+INFO Accepted socket connection from /10.10.34.13 : 37229
+WARN Connection request from old client /10.10.34.13 : 37229 ; will be dropped if server is in r-o mode
+INFO Client attempting to establish new session at /10.10.34.13 : 37229
+INFO Established session 0x24ed93119420016 with negotiated timeout 10000 for client /10.10.34.13 : 37229
+WARN Exception causing close of session 0x24ed93119420016 due to java.io.IOException : Connection reset by peer
+INFO Closed socket connection for client /10.10.34.13 : 37229 which had sessionid 0x24ed93119420016
+INFO Processed session termination for sessionid : 0x14ed93111f20013
+INFO Accepted socket connection from /10.10.34.13 : 37246
+WARN Connection request from old client /10.10.34.13 : 37246 ; will be dropped if server is in r-o mode
+INFO Client attempting to renew session 0x14ed93111f20011 at /10.10.34.13 : 37246
+INFO Established session 0x14ed93111f20011 with negotiated timeout 10000 for client /10.10.34.13 : 37246
+INFO Accepted socket connection from /10.10.34.13 : 37247","- Quorum peer connection churn can produce broken-pipe and socket-close warnings in ZooKeeper’s election connection manager.
+- The old-client/read-only warning is generally informational and is not itself evidence of a failed connection unless the server is in read-only mode.
+- Delayed or overlapping session reconnections are a documented failure mode that can invalidate an active connection."
+zookeeper,68,"INFO Synchronizing with Follower sid : 1 maxCommittedLog = 0x0 minCommittedLog = 0x0 peerLastZxid = 0x700000000
+INFO Sending DIFF
+INFO Accepted socket connection from /10.10.34.12 : 38021
+WARN Connection request from old client /10.10.34.12 : 38021 ; will be dropped if server is in r-o mode
+INFO Client attempting to establish new session at /10.10.34.12 : 38021
+INFO Creating new log file : log.700000001
+INFO Established session 0x24ee30a54f50000 with negotiated timeout 10000 for client /10.10.34.12 : 38021
+INFO Accepted socket connection from /10.10.34.11 : 44674
+WARN Connection request from old client /10.10.34.11 : 44674 ; will be dropped if server is in r-o mode
+INFO Client attempting to establish new session at /10.10.34.11 : 44674
+INFO Established session 0x24ee30a54f50001 with negotiated timeout 10000 for client /10.10.34.11 : 44674
+INFO Accepted socket connection from /10.10.34.11 : 44676
+INFO Accepted socket connection from /10.10.34.11 : 44677
+WARN Connection request from old client /10.10.34.11 : 44676 ; will be dropped if server is in r-o mode
+INFO Client attempting to establish new session at /10.10.34.11 : 44676
+WARN Connection request from old client /10.10.34.11 : 44677 ; will be dropped if server is in r-o mode
+INFO Client attempting to establish new session at /10.10.34.11 : 44677
+INFO Established session 0x24ee30a54f50002 with negotiated timeout 10000 for client /10.10.34.11 : 44676
+INFO Established session 0x24ee30a54f50003 with negotiated timeout 10000 for client /10.10.34.11 : 44677
+INFO Accepted socket connection from /10.10.34.13 : 46340","- The “old client” warning indicates that the client did not send the optional read-only capability flag.
+- Such clients are only subject to being dropped when the server operates in read-only mode; the warning alone does not indicate a failed connection.
+- “Sending DIFF,” creating a transaction log, and establishing negotiated client sessions also appear in normal ZooKeeper synchronization and startup activity."
+zookeeper,74,"WARN Connection request from old client /10.10.34.13 : 36167 ; will be dropped if server is in r-o mode
+INFO Client attempting to renew session 0x24f0557806a001d at /10.10.34.13 : 36167
+INFO Revalidating client : 0x24f0557806a001d
+INFO Accepted socket connection from /10.10.34.19 : 40380
+WARN Connection request from old client /10.10.34.19 : 40380 ; will be dropped if server is in r-o mode
+INFO Client attempting to renew session 0x24f0557806a0021 at /10.10.34.19 : 40380
+INFO Revalidating client : 0x24f0557806a0021
+INFO Accepted socket connection from /10.10.34.15 : 49471
+WARN Connection request from old client /10.10.34.15 : 49471 ; will be dropped if server is in r-o mode
+INFO Client attempting to renew session 0x24f0557806a001f at /10.10.34.15 : 49471
+INFO Revalidating client : 0x24f0557806a001f
+INFO Accepted socket connection from /10.10.34.11 : 51195
+INFO Accepted socket connection from /10.10.34.11 : 51194
+WARN Connection request from old client /10.10.34.11 : 51195 ; will be dropped if server is in r-o mode
+INFO Client attempting to renew session 0x24f0557806a0018 at /10.10.34.11 : 51195
+INFO Revalidating client : 0x24f0557806a0018
+WARN Connection request from old client /10.10.34.11 : 51194 ; will be dropped if server is in r-o mode
+INFO Client attempting to renew session 0x24f0557806a0019 at /10.10.34.11 : 51194
+INFO Established session 0x24f0557806a001a with negotiated timeout 10000 for client /10.10.34.12 : 49435
+INFO Revalidating client : 0x24f0557806a0019","- The old-client warning generally means the client omitted the optional read-only capability flag; it is not by itself evidence of a failed connection.
+- Updating the ZooKeeper client or handshake to include the `readOnly` flag removes the warning.
+- Renewing and revalidating an existing session is a normal reconnect pattern, although overlapping or delayed reconnections can exceptionally cause session-moved errors."
+zookeeper,79,"INFO Closed socket connection for client /10.10.34.12 : 36432 ( no session established for client )
+INFO Accepted socket connection from /10.10.34.12 : 36433
+WARN Exception causing close of session 0x0 due to java.io.IOException : ZooKeeperServer not running
+INFO Closed socket connection for client /10.10.34.12 : 36433 ( no session established for client )
+INFO Accepted socket connection from /10.10.34.12 : 36439
+WARN Exception causing close of session 0x0 due to java.io.IOException : ZooKeeperServer not running
+INFO Closed socket connection for client /10.10.34.12 : 36439 ( no session established for client )
+INFO Accepted socket connection from /10.10.34.12 : 36445
+WARN Exception causing close of session 0x0 due to java.io.IOException : ZooKeeperServer not running
+INFO Closed socket connection for client /10.10.34.12 : 36445 ( no session established for client )
+INFO Accepted socket connection from /10.10.34.12 : 36446
+INFO Accepted socket connection from /10.10.34.12 : 36447
+WARN Exception causing close of session 0x0 due to java.io.IOException : ZooKeeperServer not running
+INFO Closed socket connection for client /10.10.34.12 : 36446 ( no session established for client )
+INFO Accepted socket connection from /10.10.34.12 : 36449
+WARN Exception causing close of session 0x0 due to java.io.IOException : ZooKeeperServer not running
+INFO Closed socket connection for client /10.10.34.12 : 36447 ( no session established for client )
+WARN Exception causing close of session 0x0 due to java.io.IOException : ZooKeeperServer not running
+INFO Closed socket connection for client /10.10.34.12 : 36449 ( no session established for client )
+INFO Accepted socket connection from /10.10.34.12 : 36455","- `ZooKeeperServer not running` with session `0x0` can occur while a node accepts TCP connections but is not ready to serve clients.
+- Retrieved examples associate this state with leader election, loss of quorum, follower shutdown, or ZooKeeper simply not being started.
+- Relevant checks include ensemble membership, the number of live voting servers, leader-election state, and whether failed ZooKeeper nodes need restarting."

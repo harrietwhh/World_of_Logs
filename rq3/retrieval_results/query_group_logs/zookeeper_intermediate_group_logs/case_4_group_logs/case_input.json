@@ -1,0 +1,30 @@
+{
+  "case_id": "4",
+  "summary_raw": "[\"Closed socket connection\",\"caught stream exception\"]",
+  "summary_items": [
+    "Closed socket connection",
+    "caught stream exception"
+  ],
+  "group_logs_lines": [
+    "INFO Closed socket connection for client /10.10.34.11 : 52893 which had sessionid 0x14ed93111f2009b",
+    "WARN caught end of stream exception",
+    "INFO Closed socket connection for client /10.10.34.11 : 52894 which had sessionid 0x14ed93111f2009c",
+    "WARN caught end of stream exception",
+    "INFO Closed socket connection for client /10.10.34.11 : 52895 which had sessionid 0x14ed93111f2009d",
+    "WARN caught end of stream exception",
+    "INFO Closed socket connection for client /10.10.34.13 : 37231 which had sessionid 0x14ed93111f2008c",
+    "WARN caught end of stream exception",
+    "INFO Closed socket connection for client /10.10.34.15 : 34846 which had sessionid 0x14ed93111f2008d",
+    "WARN caught end of stream exception",
+    "INFO Closed socket connection for client /10.10.34.16 : 39310 which had sessionid 0x14ed93111f2008e",
+    "WARN caught end of stream exception",
+    "INFO Closed socket connection for client /10.10.34.17 : 51203 which had sessionid 0x14ed93111f2008f",
+    "WARN caught end of stream exception",
+    "INFO Closed socket connection for client /10.10.34.19 : 33440 which had sessionid 0x14ed93111f20090",
+    "WARN caught end of stream exception",
+    "INFO Closed socket connection for client /10.10.34.20 : 56414 which had sessionid 0x14ed93111f20091",
+    "WARN caught end of stream exception",
+    "INFO Closed socket connection for client /10.10.34.22 : 47085 which had sessionid 0x14ed93111f20092",
+    "WARN caught end of stream exception"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "case_id": "52",
+  "summary_raw": "[\"node status configured out\",\"inconsistent nodesets\",\"node status not responding\"]",
+  "summary_items": [
+    "node status configured out",
+    "inconsistent nodesets",
+    "node status not responding"
+  ],
+  "group_logs_lines": [
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 1 configured out",
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 0 configured out",
+    "node status 1079615340 1 configured out",
+    "domain status 1079615340 1 inconsistent nodesets node-127 0x1fffffffe <ok> node-97 0x0000000e <ok> node-96 0x0000000e <ok> node-98 0x0000000e <ok>",
+    "domain status 1079615340 1 inconsistent nodesets node-95 0x1fffffffe <ok> node-64 0x0000000e <ok> node-65 0x0000000e <ok> node-66 0x0000000e <ok>",
+    "node status 1079615336 0 not responding",
+    "node status 1079615336 0 not responding"
+  ]
+}

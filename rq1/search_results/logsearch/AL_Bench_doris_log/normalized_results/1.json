@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_83cc65875314799a33cdf8db450e8ad59ffbed697e56eae2d62a34eae5ea35e2",
+    "score": 31.398928,
+    "link": "https://github.com/wgzhao/Addax/issues/327",
+    "source": "github",
+    "origin_doc_id": "506f0d85fd9450507c33751e893e8277d9e8d40b8a162cacd6a5eee317538aae",
+    "snippet": "2021-08-31 14:02:22.469 [       job-0] INFO  CommonRdbmsWriter$Job - Begin to execute preSqls:[truncate table gp_test]. context info:jdbc:postgresql://localhost:15432/gpadmin.\n[Truncated]"
+  },
+  {
+    "rank": 2,
+    "id": "msg_1471f7af8fde0bf86c168f3aefbe054643f92fdacbbff1026a502e7733dec981",
+    "score": 29.059032,
+    "link": "https://github.com/confluentinc/confluent-kafka-dotnet/issues/411",
+    "source": "github",
+    "origin_doc_id": "ec96895552a5591b8e667eb156771b26f42519b07a2f3e06944047c92ba50ca0",
+    "snippet": "log.Info($\"Assigned partitions: [{string.Join(\", \", partitions)}], member id: {consumer.MemberId}\");\nlog.Info($\"Revoked partitions: [{string.Join(\", \", partitions)}]\");"
+  },
+  {
+    "rank": 3,
+    "id": "msg_241534e10febbb006277ad221d38c1b89ecc8f9c351b2a2cb6e4e85c06ff9058",
+    "score": 27.785126,
+    "link": "https://stackoverflow.com/questions/57536832",
+    "source": "so",
+    "origin_doc_id": "e59acb48a0d2c344e251f078c15b7a7d2d11085b175d2a5e728d9353f13733fa",
+    "snippet": "log.Info($\" \n SystemProperties: \n \\t{string.Join(\"\nlog.Info($\" \n Properties:"
+  },
+  {
+    "rank": 4,
+    "id": "msg_6364147c203d36292c224d0b801dea03e9e5edf4c844af6d61261656e52d81c5",
+    "score": 27.16084,
+    "link": "https://github.com/apache/hadoop/pull/2971",
+    "source": "github",
+    "origin_doc_id": "71635396fb7113d7ac7ddda52bac170db0bcf47c0bb72ee991324489ac971ff9",
+    "snippet": "LOG.info(\"{}\", \"\\\"\" + String.join(\"\\\", \\\"\", res) + \"\\\"\");"
+  },
+  {
+    "rank": 5,
+    "id": "msg_fb425b53308f7c939cd204471668e220f3a6d328a1dae609f19994d5c7d87d59",
+    "score": 26.946705,
+    "link": "https://stackoverflow.com/questions/76984169",
+    "source": "so",
+    "origin_doc_id": "7f18c2b139b361fb06ced290672ceef56f117f095e44b5d75e022a9d3d3d7459",
+    "snippet": "log.info(\"Updated employee : \" + String.join(\", \", modifiedFields));\nlog.info(\"Updated Employee : \" + existingOrgEmployee);"
+  },
+  {
+    "rank": 6,
+    "id": "msg_2e421f767c94a79456070a989f4e85f2c57ca3b3abc772d0444f34575ddce00c",
+    "score": 26.946705,
+    "link": "https://github.com/pravega/pravega/issues/6306",
+    "source": "github",
+    "origin_doc_id": "44de9a360c6f55b24d1d76595bd2cdb0786b00e62e6fe6f93658ab9f48a7d2ca",
+    "snippet": "log.info(\"Starting Phase 1.\");\nlog.info(\"Created Segments: {}.\", String.join(\", \", segmentNames));"
+  },
+  {
+    "rank": 7,
+    "id": "msg_d3eb3390165408d82403908fb4f47416e76f606e243203d44a61130d90c3b70c",
+    "score": 26.867737,
+    "link": "https://stackoverflow.com/questions/59009822",
+    "source": "so",
+    "origin_doc_id": "4367489ea04c431e603b9292f276a4651bd18dd65af8920dd69f5cadaac52050",
+    "snippet": "log.info(\"DO FILTER...\");\nlog.info(\"DESTROY...\");\nlog.info(String.join(\",\"   ,requestContext.getPropertyNames()));\nlog.info(\"CONTAINER REQUEST FILTER...\");\nlog.info(\"INTERCEPTOR\");\nlog.info(\"IS READABLE...\");"
+  },
+  {
+    "rank": 8,
+    "id": "msg_efa5e2a70e4bdde8e740786ce950ee278c4f5a0c5649eb6f6381344d084857a3",
+    "score": 26.811848,
+    "link": "https://github.com/Azure/azure-webjobs-sdk-script/issues/1666",
+    "source": "github",
+    "origin_doc_id": "69754d44279f482cb52d8645c5e541aea71c4ac4fa13503acfbf7c72276b8709",
+    "snippet": "log.Info(string.Join(\", \", query.Select(q"
+  },
+  {
+    "rank": 9,
+    "id": "msg_7857740c78006c028d1ec38bf5b42dd5e437e02435f819df760954636bb9617e",
+    "score": 26.789276,
+    "link": "https://stackoverflow.com/questions/61585209",
+    "source": "so",
+    "origin_doc_id": "7b262101e486aaf19dc5340aa91295a723f23a945b110b06b90d33da55a31e3e",
+    "snippet": "log.Info($\"Attempting to read users from group {group.DistinguishedName}\");\nlog.Info($\"Successfully read users from group {group.DistinguishedName}. Users read: {string.Join(\", \", addedUserIds)}\");"
+  },
+  {
+    "rank": 10,
+    "id": "msg_bdbb84360dfacee39843f274ad3558bfe2d12016d67eb4eb546252b06947d952",
+    "score": 26.678995,
+    "link": "https://stackoverflow.com/questions/79610181",
+    "source": "so",
+    "origin_doc_id": "dea52c458b5408ecc7aa4f2544159183cc7f1c50f187f3f40ff43a08e114c236",
+    "snippet": "log.info(\"Certificate subject fields: \");\nlog.info(\"\\tkey: {}, value: {}\", key, String.join(\", \", value)));"
+  }
+]

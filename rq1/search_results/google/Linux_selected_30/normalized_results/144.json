@@ -1,0 +1,153 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Cupsd not correctly terminating in system shutdown ...",
+    "link": "https://www.reddit.com/r/linuxquestions/comments/1tt7pb/cupsd_not_correctly_terminating_in_system/",
+    "displayed_link": "6 comments · 12 years ago",
+    "snippet": "When all processes end correctly ( cupsd ended before shutting it down) there is a message that says something like \"[ok] all processes have terminated within ...",
+    "snippet_highlighted_words": [
+      "cupsd"
+    ],
+    "source": "Reddit · r/linuxquestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "[SOLVED] CUPS stopped running and can't start it",
+    "link": "https://forums.linuxmint.com/viewtopic.php?t=293487",
+    "displayed_link": "https://forums.linuxmint.com › ... › Beginner Questions",
+    "snippet": "The Printers app now just says \"Printing service not available. Start the service on this computer or connect to another server\"",
+    "snippet_highlighted_words": [],
+    "source": "Linux Mint",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "[SOLVED] cupsd crashes immediately after having been started",
+    "link": "https://forums.gentoo.org/viewtopic-p-8784495.html?sid=ec4ce1b1fb7e049c47cbad7911df08b8",
+    "displayed_link": "https://forums.gentoo.org › viewtopic-p-8784495",
+    "snippet": "Nothiing visible happens - the command just returns. Code: $ sudo /usr/sbin/cupsd -f -c /etc/cups/cupsd.",
+    "snippet_highlighted_words": [
+      "cupsd",
+      "cups",
+      "cupsd"
+    ],
+    "source": "Gentoo Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Disable CUPS on Linux",
+    "link": "https://www.imss.caltech.edu/news/disable-cups-on-linux",
+    "displayed_link": "https://www.imss.caltech.edu › news › disable-cups-on-l...",
+    "snippet": "To disable CUPS - including preventing it from restarting after a reboot - please follow these steps: Stop the CUPS Service: sudo systemctl stop cups.",
+    "snippet_highlighted_words": [
+      "CUPS",
+      "CUPS",
+      "cups"
+    ],
+    "source": "Caltech",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "How to restart the CUPS daemon ?",
+    "link": "https://forums.opensuse.org/t/how-to-restart-the-cups-daemon/149311",
+    "displayed_link": "https://forums.opensuse.org › English › Hardware",
+    "snippet": "To start CUPS (as root): systemctl start cups (and for restart, the restart command) But better first check it's status: systemctl status cups.",
+    "snippet_highlighted_words": [
+      "CUPS",
+      "cups",
+      "restart",
+      "restart",
+      "cups"
+    ],
+    "source": "openSUSE Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Cups won't load (Pop 21.04) but timesout and start over ...",
+    "link": "https://github.com/OpenPrinting/cups/issues/206",
+    "displayed_link": "https://github.com › OpenPrinting › cups › issues",
+    "snippet": "service: Succeeded. Jun 25 00:57:10 weywot ... I also see the spam when I reboot/shutdown briefly between Xorg closing and the POST screen.",
+    "snippet_highlighted_words": [
+      "Succeeded",
+      "shutdown",
+      "closing"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "CUPS takes too long to restart, or does not restart, in RHEL 8",
+    "link": "https://access.redhat.com/solutions/6415971",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "CUPS in RHEL 8 does not restart. We see the following messages in the systemd journal: Raw Nov 13 23:35:40 systemd[1]: Starting CUPS Scheduler.",
+    "snippet_highlighted_words": [
+      "CUPS in RHEL 8 does not restart"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "cups-browsed.service Hanging at Shutdown",
+    "link": "https://forum.siduction.org/index.php?topic=8072.0",
+    "displayed_link": "https://forum.siduction.org › ...",
+    "snippet": "From the log, it looks like cups-browsed was taking the maximum 90 seconds to try and stop/sigterm (and still failed, resulting in sigkill).",
+    "snippet_highlighted_words": [
+      "cups",
+      "failed"
+    ],
+    "source": "Siduction Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "CUPS/Troubleshooting",
+    "link": "https://wiki.archlinux.org/title/CUPS/Troubleshooting",
+    "displayed_link": "https://wiki.archlinux.org › title › CUPS › Troubleshooting",
+    "snippet": "This article covers all non-specific (ie, not related to any one printer) troubleshooting of CUPS and printing drivers (but not problems related to printer ...",
+    "snippet_highlighted_words": [
+      "CUPS"
+    ],
+    "source": "ArchWiki",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "CUPS web interface stops responding after a while",
+    "link": "https://bugs.launchpad.net/bugs/1598300",
+    "displayed_link": "https://bugs.launchpad.net › bugs",
+    "snippet": "Wait for some minutes without accessing CUPS until the CUPS daemon shuts down automatically. Try to open the web interface again and it will not ...",
+    "snippet_highlighted_words": [
+      "CUPS",
+      "CUPS",
+      "shuts down"
+    ],
+    "source": "Launchpad Bugs",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

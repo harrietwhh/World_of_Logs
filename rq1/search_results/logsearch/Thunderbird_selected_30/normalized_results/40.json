@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_4b4db76968785edad6aeb0ce80906b9c13988ac45fa2b1ddab2a55ffae4c9d2e",
+    "score": 61.490692,
+    "link": "https://issues.apache.org/jira/browse/AMBARI-5750",
+    "source": "jira",
+    "origin_doc_id": "266f6875f0f56d69ba3464dc9a241c2e9be022e67f4fc4a062983c21b3af05ff",
+    "snippet": "May 12 15:01:27 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPSupervisor] failed to contact node 39.0.8.1 \n May 12 15:01:27 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPSupervisor] datasource \n May 12 15:01:28 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPTaskTracker] failed to contact node 39.0.8.1 \n May 12 15:01:28 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPTaskTracker] datasource \n May 12 15:01:37 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPJobTracker] failed to contact node 39.0.8.1 \n May 12 15:01:37 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPJobTracker] datasource \n May 12 15:01:37 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPFlumeServer] failed to contact node 39.0.8.1 \nMay 12 15:01:37 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPFlumeServer] datasource\nMay 12 15:01:39 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPNimbus] failed to contact node 39.0.8.1\nMay 12 15:01:39 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPNimbus] datasource\nMay 12 15:01:42 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPSupervisor] failed to contact node 39.0.8.1\nMay 12 15:01:42 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPSupervisor] datasource\nMay 12 15:01:43 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPTaskTracker] failed to contact node 39.0.8.1\nMay 12 15:01:43 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPTaskTracker] datasource\nMay 12 15:01:52 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPJobTracker] failed to contact node 39.0.8.1\nMay 12 15:01:52 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPJobTracker] datasource\nMay 12 15:01:52 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPFlumeServer] failed to contact node 39.0.8.1\nMay 12 15:01:52 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPFlumeServer] datasource\nMay 12 15:01:55 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPNimbus] failed to contact node 39.0.8.1\nMay 12 15:01:55 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPNimbus] datasource\nMay 12 15:01:57 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPSupervisor] failed to contact node 39.0.8.1\nMay 12 15:01:57 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPSupervisor] datasource\nMay 12 15:01:58 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPTaskTracker] failed to contact node 39.0.8.1\nMay 12 15:01:58 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPTaskTracker] datasource\nMay 12 15:02:06 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPFlumeServer] failed to contact node 39.0.8.1\nMay 12 15:02:06 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPFlumeServer] datasource\nMay 12 15:02:07 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() for [HDPJobTracker] failed to contact node 39.0.8.1\nMay 12 15:02:07 hadoopvm1-1 /usr/sbin/gmetad[26198]: data_thread() got no answer from any [HDPJobTracker] datasource{code}"
+  },
+  {
+    "rank": 2,
+    "id": "msg_cd2f68cbfcfd0f8afefb5011454080dd4ddfb7e1a1800c4f81b94a3daa615c1e",
+    "score": 61.237835,
+    "link": "https://issues.apache.org/jira/browse/AMBARI-2953",
+    "source": "jira",
+    "origin_doc_id": "c7a47ce3635ec7b77de02467263ff15e787be775a3444ed0016edf939a9767ad",
+    "snippet": "Aug 5 09:39:49 host1 /usr/sbin/gmetad55660: data_thread() got no answer from any HDPHBaseMaster datasource \n Aug 5 09:39:54 host1 /usr/sbin/gmetad55660: data_thread() for HDPResourceManager failed to contact node *..... \n Aug 5 09:39:54 host1 /usr/sbin/gmetad55660: data_thread() got no answer from any HDPResourceManager datasource \n Aug 5 09:39:57 host1 /usr/sbin/gmetad55660: data_thread() for HDPHistoryServer failed to contact node * \n Aug 5 09:39:57 host1 /usr/sbin/gmetad55660: data_thread() got no answer from any HDPHistoryServer datasource \n Aug 5 09:40:05 host1 /usr/sbin/gmetad55660: data_thread() for HDPHBaseMaster failed to contact node *"
+  },
+  {
+    "rank": 3,
+    "id": "msg_177136a8294440f92cc940af1b412fc80a9552f74974f1a75d5c6d7ba9671f0c",
+    "score": 24.084284,
+    "link": "https://github.com/spotify/rspec-dns/issues/27",
+    "source": "github",
+    "origin_doc_id": "74f2c9e33714116a68ae7fd55cda4288c7d87a37eab212612b72e16dfa0e7398",
+    "snippet": "$ dig @ns-1188.awsdns-20.org -t any video.kerkdienstgemist.nl \n ; <<>> DiG 9.8.3-P1 <<>> @ns-1188.awsdns-20.org -t any video.kerkdienstgemist.nl \n ; (1 server found)\n;; global options: +cmd\n;; Got answer:\n;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53218\n;; flags: qr aa rd; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 0\n;; WARNING: recursion requested but not available\n\n;; QUESTION SECTION:\n;video.kerkdienstgemist.nl.\tIN\tANY\n\n;; ANSWER SECTION:"
+  },
+  {
+    "rank": 4,
+    "id": "msg_ae7e91b23e2d8c342a0946aa748a98d58246f6ad281e794b28dcdf65566a71ac",
+    "score": 23.968847,
+    "link": "https://github.com/Schmavery/facebook-chat-api/issues/259",
+    "source": "github",
+    "origin_doc_id": "8f4db8ae184385ebb7ad875cc5c1b64def87c24f3705b5679441374157310768",
+    "snippet": "info Got answer in  10970 \n info Got answer in  531 \n info Got answer in  5199 \n info Got answer in  548 \n info Got answer in  457 \n info Got answer in  4168 \n info Got answer in  319 \ninfo Got answer in  432\ninfo Got answer in  721\ninfo Got answer in  727\ninfo Got answer in  725\ninfo Got answer in  2592\ninfo Got answer in  443\ninfo Got answer in  760\ninfo Got answer in  951\ninfo Got answer in  382\ninfo Got answer in  2443\ninfo Got answer in  653\ninfo Got answer in  6119\ninfo Got answer in  687\ninfo Got answer in  26437\ninfo Got answer in  651\ninfo Got answer in  6848\ninfo Got answer in  667\ninfo Got answer in  1935\ninfo Got answer in  334\ninfo Got answer in  2946\ninfo Got answer in  698\ninfo Got answer in  26528\ninfo Got answer in  713\ninfo Got answer in  627\ninfo Got answer in  50404\ninfo Got answer in  1993\ninfo Got answer in  587\ninfo Got answer in  6321\ninfo Got answer in  426\ninfo Got answer in  336\ninfo Got answer in  498\ninfo Got answer in  634\ninfo Got answer in  309\ninfo Got answer in  739\ninfo Got answer in  1787\ninfo Got answer in  1730\ninfo Got answer in  377\ninfo Got answer in  7562\ninfo Got answer in  443\ninfo Got answer in  397\ninfo Got answer in  358\ninfo Got answer in  4084\ninfo Got answer in  465\ninfo Got answer in  448\ninfo Got answer in  745\ninfo Got answer in  728\ninfo Got answer in  1170\ninfo Got answer in  329\ninfo Got answer in  5304\ninfo Got answer in  408\ninfo Got answer in  3021\ninfo Got answer in  350\ninfo Got answer in  852\ninfo Got answer in  424\ninfo Got answer in  486\ninfo Got answer in  4372\ninfo Got answer in  454\ninfo Got answer in  1049\ninfo Got answer in  566\ninfo Got answer in  708\ninfo Got answer in  447\ninfo Got answer in  692\ninfo Got answer in  452\ninfo Got answer in  479\ninfo Got answer in  738\ninfo Got answer in  613\ninfo Got answer in  346\ninfo Got answer in  340\ninfo Got answer in  15302\ninfo Got answer in  437\n[Truncated]\ninfo Got answer in  9320\ninfo Got answer in  22153\ninfo Got answer in  25389\ninfo Got answer in  23446\ninfo Suppressed timeout error.\ninfo Suppressed timeout error.\ninfo Got answer in  153654\ninfo Got answer in  654\ninfo Got answer in  1747\ninfo Got answer in  341\ninfo Got answer in  490\ninfo Got answer in  629\ninfo Got answer in  2200\ninfo Got answer in  336\ninfo Got answer in  348\ninfo Got answer in  429\ninfo Got answer in  467\ninfo Got answer in  493\ninfo Got answer in  340"
+  },
+  {
+    "rank": 5,
+    "id": "msg_d76836cd566eb18232ffbc4be60f6aaa6bc6877f8dd90b46c2aeea2c9aa1c2b0",
+    "score": 23.682804,
+    "link": "https://stackoverflow.com/questions/58052033",
+    "source": "so",
+    "origin_doc_id": "9eb3080a5e31f96c2e228e2f825698491da1973270fc40b6c84619b413e7ab40",
+    "snippet": "small_random: random small, length = 100: WRONG ANSWER, got 269 expected 39  \n  large_ones: large sequence, numbers from -1 to 1, length = ~100,000: WRONG ANSWER, got 228 expected 0; WRONG ANSWER, got 147 expected 1. (possible overflow?)  \n  large_random random large, length = ~100,000: WRONG ANSWER, got 202635 expected 1; WRONG ANSWER, got 34394 expected 2"
+  },
+  {
+    "rank": 6,
+    "id": "msg_ab79175182612d44a4ec96f1103c36d72b6257bf9097ffa09dcf7335200f12da",
+    "score": 23.539808,
+    "link": "https://stackoverflow.com/questions/64052161",
+    "source": "so",
+    "origin_doc_id": "86043b50357e3930f523a0fb1132449e0a2786d610c9fa88e6b9b24466e0d026",
+    "snippet": "logger.trace(s\"answer added\")\nlogger.trace(s\"got answer from repo ${result}\")"
+  },
+  {
+    "rank": 7,
+    "id": "msg_615d3b19f8c893404ccd6d5b65c1965f38f0fc46f854fef7dc3dfde0c2372753",
+    "score": 23.330683,
+    "link": "https://stackoverflow.com/questions/51139284",
+    "source": "so",
+    "origin_doc_id": "bd3156d09b978169461e6a958581ca36728fb084250595d9e03ef54e77862a3a",
+    "snippet": "PORT OPEN 115200  \n  Communication with MCU..Got answer! Communication with MCU \n   established. AutoDetect firmware...  \n  Can't autodetect firmware, because proper answer not received (may be \nWaiting answer from ESP - Timeout reached. Command aborted."
+  },
+  {
+    "rank": 8,
+    "id": "msg_cd8e5ded98657b315ab23515f3196fe59afbef7536068a116d26814861e405a6",
+    "score": 23.296455,
+    "link": "https://stackoverflow.com/questions/66772947",
+    "source": "so",
+    "origin_doc_id": "775b53f869fa2773a82479c780e485f22f885789cb36233dd2edaaf444ceb07a",
+    "snippet": "Expected 0 arguments, but got 1.  \n  Error in my sql client package regarding the import definition -  \nCould not find a declaration file for module 'datasource-sql'. '/home/russjb/Work/codeforaustralia/CBC-Backend/node_modules/datasource-sql/index.js' implicitly has an 'any' type."
+  },
+  {
+    "rank": 9,
+    "id": "msg_adcf3c4dfcad4882b695a706fc6cc4ebc58e63bd662858e0a0b00c868c3bffeb",
+    "score": 23.239426,
+    "link": "https://github.com/coredns/coredns/issues/3835",
+    "source": "github",
+    "origin_doc_id": "e2af90416fb50c8b71b7b051f81d1051de5e99f4ef5cc988664ba8ace3a34dbe",
+    "snippet": "nslookup google.com\n;; Got recursion not available from 192.168.0.1, trying next server\n;; Got recursion not available from 192.168.0.1, trying next server\n;; Got recursion not available from 192.168.0.1, trying next server\nServer:\t\t192.168.0.1\nAddress:\t192.168.0.1#53\n\nNon-authoritative answer:\nName:\tgoogle.com\nAddress: 192.168.3.11"
+  },
+  {
+    "rank": 10,
+    "id": "msg_ebb106423a1f53676eea9bce4ae03eadd4e1791c11534e9a63224c1ab5928921",
+    "score": 23.209473,
+    "link": "https://github.com/theforeman/puppet-dhcp/pull/167",
+    "source": "github",
+    "origin_doc_id": "32bf6c1243ab7356930f70ca4d27c96fe85be85679512e96f9ea862c43a0f9ee",
+    "snippet": "Failure/Error: is_expected.to match(\"Got answer from: #{ip}\") \n        expected \"\" to match \"Got answer from: 192.168.121.174\" \n   # ./spec/acceptance/basic_spec.rb:60:in `block (3 levels) in <top (required)>' \n ```"
+  }
+]

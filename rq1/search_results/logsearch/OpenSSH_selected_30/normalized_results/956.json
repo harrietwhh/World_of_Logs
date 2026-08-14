@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_9d951591e154c7b2592f8f71a2eb70c1e428f6111404ea1448b5ca8fba02c587",
+    "score": 50.257523,
+    "link": "https://stackoverflow.com/questions/30870891",
+    "source": "so",
+    "origin_doc_id": "cec4939c17ba1798d0602969889a722e9aaa25360b92cafc3a52cacfd64a594a",
+    "snippet": "9 16:17:14 localhost sshd[3042]: Accepted password for testuser1 from 192.168.0.105 port 56067 ssh2 \n 10:Jun  9 16:31:33 localhost sshd[3176]: Accepted password for testuser1 from 192.168.0.105 port 56136 ssh2 \n 16:Jun  9 16:32:06 localhost sshd[3244]: Accepted password for testuser1 from 192.168.0.105 port 56137 ssh2 \n 24:Jun  9 16:35:26 localhost sshd[3355]: Accepted password for testuser1 from 192.168.0.105 port 56138 ssh2 \n 67:Jun  9 19:46:07 localhost sshd[4982]: Accepted password for testuser1 from 192.168.0.105 port 58182 ssh2 \n 73:Jun  9 19:47:02 localhost sshd[5047]: Accepted password for testuser4 from 192.168.0.105 port 58183 ssh2 \n 79:Jun  9 19:57:26 localhost sshd[5160]: Accepted password for testuser2 from 192.168.0.105 port 58186 ssh2 \n 86:Jun  9 19:58:34 localhost sshd[5231]: Accepted password for testuser1 from 192.168.0.105 port 58187 ssh2"
+  },
+  {
+    "rank": 2,
+    "id": "msg_8ae2082f222de38144efa8928e9a663f6262626bf58367860f7d1f9f6e77efed",
+    "score": 49.60414,
+    "link": "https://stackoverflow.com/questions/30870891",
+    "source": "so",
+    "origin_doc_id": "cec4939c17ba1798d0602969889a722e9aaa25360b92cafc3a52cacfd64a594a",
+    "snippet": "__DATA__\n2:Jun  9 16:17:14 localhost sshd[3042]: Accepted password for testuser1 from 192.168.0.105 port 56067 ssh2\n10:Jun  9 16:31:33 localhost sshd[3176]: Accepted password for testuser1 from 192.168.0.105 port 56136 ssh2\n16:Jun  9 16:32:06 localhost sshd[3244]: Accepted password for testuser1 from 192.168.0.105 port 56137 ssh2\n24:Jun  9 16:35:26 localhost sshd[3355]: Accepted password for testuser1 from 192.168.0.105 port 56138 ssh2\n67:Jun  9 19:46:07 localhost sshd[4982]: Accepted password for testuser1 from 192.168.0.105 port 58182 ssh2\n73:Jun  9 19:47:02 localhost sshd[5047]: Accepted password for testuser4 from 192.168.0.105 port 58183 ssh2\n79:Jun  9 19:57:26 localhost sshd[5160]: Accepted password for testuser2 from 192.168.0.105 port 58186 ssh2\n86:Jun  9 19:58:34 localhost sshd[5231]: Accepted password for testuser1 from 192.168.0.105 port 58187 ssh2"
+  },
+  {
+    "rank": 3,
+    "id": "msg_ec0c39e5058757e052871dcdf0e28235f7f15eefcb916d1ec90d669f3a7e56e7",
+    "score": 48.584972,
+    "link": "https://stackoverflow.com/questions/47640719",
+    "source": "so",
+    "origin_doc_id": "c861750d0310045c866028533eaae76f4d46abe7a66e44301f2a5c1a584fc83f",
+    "snippet": "Failed publickey for bob from $IP port $PORT ssh2 \n Accepted password for bob from $IP port $PORT ssh2"
+  },
+  {
+    "rank": 4,
+    "id": "msg_c0aac186dc349d29f3af93f00eabebbbcf910a18356c961c182ad5a923f71c6a",
+    "score": 47.28997,
+    "link": "https://github.com/Juniper/junos-terraform/issues/29",
+    "source": "github",
+    "origin_doc_id": "dbb06dffa80a361b9dadead9c03bccd194d1ce9510d346f5939567edd0dbe044",
+    "snippet": "│ Error: Request cancelled \n │  \n │   with module.vlans_for_each.junos-qfx_VlansVlanVlan__Id.vlan_vid[\"VLAN_390\"], \n │   on vlans_for_each/main.tf line 22, in resource \"junos-qfx_VlansVlanVlan__Id\" \"vlan_vid\": \n │   22: resource \"junos-qfx_VlansVlanVlan__Id\" \"vlan_vid\" { \n │  \n│ The plugin.(*GRPCProvider).ValidateResourceConfig request was cancelled.\n╵\n╷\n│ Error: Request cancelled\n│ \n│   with module.vlans_for_each.junos-qfx_VlansVlanVlan__Id.vlan_vid[\"VLAN_270\"],\n│   on vlans_for_each/main.tf line 22, in resource \"junos-qfx_VlansVlanVlan__Id\" \"vlan_vid\":\n│   22: resource \"junos-qfx_VlansVlanVlan__Id\" \"vlan_vid\" {\n│ \n│ The plugin.(*GRPCProvider).ValidateResourceConfig request was cancelled.\n╵ \n ╷ \n │ Error: Request cancelled \n │  \n │   with module.vlans_for_each.junos-qfx_VlansVlanVlan__Id.vlan_vid[\"VLAN_384\"], \n │   on vlans_for_each/main.tf line 22, in resource \"junos-qfx_VlansVlanVlan__Id\" \"vlan_vid\": \n │   22: resource \"junos-qfx_VlansVlanVlan__Id\" \"vlan_vid\" { \n │  \n │ The plugin.(*GRPCProvider).ValidateResourceConfig request was cancelled. \n ╵ \n╷\n│ Error: Request cancelled\n│ \n│   with module.vlans_for_each.junos-qfx_VlansVlanVlan__Id.vlan_vid[\"VLAN_146\"],\n│   on vlans_for_each/main.tf line 22, in resource \"junos-qfx_VlansVlanVlan__Id\" \"vlan_vid\":\n│   22: resource \"junos-qfx_VlansVlanVlan__Id\" \"vlan_vid\" {\n│ \n│ The plugin.(*GRPCProvider).ValidateResourceConfig request was cancelled.\n╵\n╷\n│ Error: Request cancelled \n │  \n │   with module.vlans_for_each.junos-qfx_VlansVlanVlan__Id.vlan_vid[\"VLAN_218\"], \n │   on vlans_for_each/main.tf line 22, in resource \"junos-qfx_VlansVlanVlan__Id\" \"vlan_vid\": \n │   22: resource \"junos-qfx_VlansVlanVlan__Id\" \"vlan_vid\" { \n │  \n │ The plugin.(*GRPCProvider).ValidateResourceConfig request was cancelled. \n ``` \nmessages *** \n Mar  2 16:53:58  vqfx-re sshd[64282]: Accepted password for automation from 10.0.2.2 port 36788 ssh2 \n Mar  2 16:53:58  vqfx-re sshd[64289]: Accepted password for automation from 10.0.2.2 port 36790 ssh2 \n Mar  2 16:53:59  vqfx-re sshd[64297]: Accepted password for automation from 10.0.2.2 port 36792 ssh2 \n Mar  2 16:53:59  vqfx-re sshd[64304]: Accepted password for automation from 10.0.2.2 port 36794 ssh2 \nMar  2 16:53:59  vqfx-re /usr/bin/ssh[64296]: ssh: connect to host 169.254.0.1 port 3000: Operation timed out\nMar  2 16:54:00  vqfx-re sshd[64313]: Accepted password for automation from 10.0.2.2 port 36796 ssh2\nMar  2 16:54:00  vqfx-re sshd[64320]: Accepted password for automation from 10.0.2.2 port 36798 ssh2\nMar  2 16:54:01  vqfx-re sshd[64327]: Accepted password for automation from 10.0.2.2 port 36800 ssh2\nMar  2 16:54:01  vqfx-re sshd[64334]: Accepted password for automation from 10.0.2.2 port 36802 ssh2\nMar  2 16:54:01  vqfx-re sshd[64341]: Accepted password for automation from 10.0.2.2 port 36804 ssh2\nMar  2 16:54:02  vqfx-re sshd[64348]: Accepted password for automation from 10.0.2.2 port 36806 ssh2\nMar  2 16:54:02  vqfx-re sshd[64355]: Accepted password for automation from 10.0.2.2 port 36808 ssh2\nMar  2 16:54:03  vqfx-re sshd[64362]: Accepted password for automation from 10.0.2.2 port 36810 ssh2\nMar  2 16:54:03  vqfx-re sshd[64369]: Accepted password for automation from 10.0.2.2 port 36812 ssh2\nMar  2 16:54:03  vqfx-re sshd[64376]: Accepted password for automation from 10.0.2.2 port 36814 ssh2\nMar  2 16:54:04  vqfx-re sshd[64383]: Accepted password for automation from 10.0.2.2 port 36816 ssh2\nMar  2 16:54:04  vqfx-re sshd[64390]: Accepted password for automation from 10.0.2.2 port 36818 ssh2\nMar  2 16:54:05  vqfx-re sshd[64397]: Accepted password for automation from 10.0.2.2 port 36820 ssh2\nMar  2 16:54:05  vqfx-re sshd[64404]: Accepted password for automation from 10.0.2.2 port 36822 ssh2\nMar  2 16:54:06  vqfx-re sshd[64411]: Accepted password for automation from 10.0.2.2 port 36824 ssh2\nMar  2 16:54:06  vqfx-re sshd[64418]: Accepted password for automation from 10.0.2.2 port 36826 ssh2\nMar  2 16:54:07  vqfx-re sshd[64425]: Accepted password for automation from 10.0.2.2 port 36828 ssh2\nMar  2 16:54:08  vqfx-re sshd[64432]: Accepted password for automation from 10.0.2.2 port 36832 ssh2\nMar  2 16:54:08  vqfx-re sshd[64439]: Accepted password for automation from 10.0.2.2 port 36834 ssh2"
+  },
+  {
+    "rank": 5,
+    "id": "msg_4da64b57808f4a9f5cd687503ed3c8ed7f96efb4d573c583caa6e9ab0e7f7a28",
+    "score": 46.961926,
+    "link": "https://github.com/atmoz/sftp/issues/46",
+    "source": "github",
+    "origin_doc_id": "9fbc8994ced454bf6d7d0bc94c014dcdc18df80f4bf0c122dd48dea91fea28ad",
+    "snippet": "Accepted password for foo from 192.168.1.50 port 49283 ssh2 \n bad ownership or modes for chroot directory component \"/\" \n Accepted password for foo from 192.168.1.50 port 49321 ssh2 \n bad ownership or modes for chroot directory component \"/\""
+  },
+  {
+    "rank": 6,
+    "id": "msg_0f081aff2fcec194015c8c97b9a79d0584b7307a8c9ccde1dae44eeca0c5ea0c",
+    "score": 46.0663,
+    "link": "https://stackoverflow.com/questions/70789470",
+    "source": "so",
+    "origin_doc_id": "bc3731c6e1a2b1fea72ea31a376c7cb36c78814b72b90e387959b411b4402c8d",
+    "snippet": "Accepted password for user from 000.00.0.0 port 54200 ssh2"
+  },
+  {
+    "rank": 7,
+    "id": "msg_00fe303a3174868ffaec80f7ca76ee074474294d9ee5cc09cfbb8108b89b8a4f",
+    "score": 44.468044,
+    "link": "https://stackoverflow.com/questions/15419024",
+    "source": "so",
+    "origin_doc_id": "c2106982817e744b51730e74977e61a27b3455126604e83124428b4e4a6c895d",
+    "snippet": "Sep 14 07:23:59 icarus sshd[10393]: Failed password for someUser from 137.190.220.15 port 64704 ssh2  \n  Sep 14 07:24:04 icarus sshd[10393]: Failed password for someUser from from 137.190.220.15 port 64704 ssh2  \n  Sep 14 07:30:17 icarus sshd[10523]: Accepted password for someUser from 137.190.19.13 port 58506 ssh2"
+  },
+  {
+    "rank": 8,
+    "id": "msg_d5693203f82f026ddd07c105a138baad52274470c5eb55f3c24f151e114bef7a",
+    "score": 44.05608,
+    "link": "https://stackoverflow.com/questions/29135543",
+    "source": "so",
+    "origin_doc_id": "cfa58485c9599ac6e8c1ff3ec98cf5fb0d2d7696ef862676ad338a3383f90979",
+    "snippet": "Mar 24 13:03:59 localhost sshd[3588]: Failed password for adrian from 172.20.255.111 port 4753 ssh2 \n Mar 24 12:52:41 localhost sshd[2762]: Accepted password for adrian from 172.20.255.111 port 4656 ssh2"
+  },
+  {
+    "rank": 9,
+    "id": "msg_011efd091f840cbae42c5ca4f828ac5914b52bfa14bf26fd9c7530d3ab212f63",
+    "score": 43.842693,
+    "link": "https://github.com/scrapli/nornir_scrapli/issues/68",
+    "source": "github",
+    "origin_doc_id": "abdff1e5c0a16cc26e6a53c4911bcd5b3368e734dc10ee17a934e7b838448c67",
+    "snippet": "Aug 10 21:37:07  rtr01 sshd[84589]: Accepted keyboard-interactive/pam for admin from 192.168.1.21 port 36308 ssh2 \n ```\n\n Aug 10 21:37:43  rtr01 sshd[84599]: Accepted password for admin from 192.168.1.21 port 36366 ssh2"
+  },
+  {
+    "rank": 10,
+    "id": "msg_f50b5c7f40e0d49423ebc91599a4c0494b37c7678f55fab9972b1ab9ed267e2a",
+    "score": 43.60535,
+    "link": "https://stackoverflow.com/questions/1392544",
+    "source": "so",
+    "origin_doc_id": "f8e3ba7be13bfd6a9ee17eed27da0d6174700f8eb651f75ce48452c1e7f89c3b",
+    "snippet": "Accepted \n Sep 11 12:53:54 lenny sshd[2686]: Accepted password for cb from 127.0.0.1 port 33343 ssh2"
+  }
+]

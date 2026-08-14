@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_d8c6cf8f5188e11f16b45e3b1b0cfcda43c8ee17c11a57a5d24dce4871a474c9",
+    "score": 33.347767,
+    "link": "https://stackoverflow.com/questions/79032039",
+    "source": "so",
+    "origin_doc_id": "f5870acfb002e564e9fd04fa7d62ff982dc15df417875eb1f2da47409bfdb774",
+    "snippet": "[2024-09-27, 13:03:13 UTC] {spark_submit.py:204} INFO - Could not load connection string spark-conn, defaulting to yarn \n [2024-09-27, 13:03:13 UTC] {spark_submit.py:335} INFO - Spark-Submit cmd: spark-submit --master yarn --conf spark.yarn.appMasterEnv.YARN_CONF_DIR=/opt/bitnami/spark/yarn --name arrow-spark /opt/***/jobs/wordcountjob.py \n [2024-09-27, 13:03:13 UTC] {spark_submit.py:488} INFO - /home/***/.local/lib/python3.12/site-packages/pyspark/bin/load-spark-env.sh: line 68: ps: command not found \n [2024-09-27, 13:03:18 UTC] {spark_submit.py:488} INFO - python3: can't open file '/opt/***/jobs/wordcountjob.py': [Errno 2] No such file or directory \n [2024-09-27, 13:03:18 UTC] {spark_submit.py:488} INFO - 24/09/27 13:03:18 INFO ShutdownHookManager: Shutdown hook called \n [2024-09-27, 13:03:18 UTC] {spark_submit.py:488} INFO - 24/09/27 13:03:18 INFO ShutdownHookManager: Deleting directory /tmp/spark-76f9f159-d669-4871-bae7-012288312967"
+  },
+  {
+    "rank": 2,
+    "id": "msg_ce55caa66250591d095661ccf9d151543fe6c667d32e5132c201853e4477420f",
+    "score": 32.99273,
+    "link": "https://github.com/arangodb/arangodb/issues/9935",
+    "source": "github",
+    "origin_doc_id": "0bf69b798acddaf5efcdac25b733e7a4ea8b45610750f09215c282c0763848d4",
+    "snippet": "2019-09-05T17:47:49Z [1] INFO [3bb7d] {cluster} Starting up with role SINGLE"
+  },
+  {
+    "rank": 3,
+    "id": "msg_08d815eb0d4b502bc14dcd40373a488932dbbf17f8625a48e192165bcf9feddc",
+    "score": 32.351112,
+    "link": "https://issues.apache.org/jira/browse/WHIRR-363",
+    "source": "jira",
+    "origin_doc_id": "0540706b5d97338c11188d19b88b9a9e0e0f8145ead3d465575ee2e32f490925",
+    "snippet": "2011-08-13 12:29:22,532 INFO  [org.apache.whirr.service.hbase.integration.HBaseServiceController] (main) Starting up cluster..."
+  },
+  {
+    "rank": 4,
+    "id": "msg_078662d8b42033424b810e4ab44b2805286609a5e926260caf1aed56261a8031",
+    "score": 32.351112,
+    "link": "https://issues.apache.org/jira/browse/WHIRR-363",
+    "source": "jira",
+    "origin_doc_id": "0540706b5d97338c11188d19b88b9a9e0e0f8145ead3d465575ee2e32f490925",
+    "snippet": "2011-08-13 12:36:57,374 INFO  [org.apache.whirr.service.hbase.integration.HBaseServiceController] (main) Starting up cluster..."
+  },
+  {
+    "rank": 5,
+    "id": "msg_2960c62d19acea7071a26407d00838a3fc1ffaa750d43da09a776268e5d8bbf2",
+    "score": 32.27672,
+    "link": "https://stackoverflow.com/questions/78946125",
+    "source": "so",
+    "origin_doc_id": "8f53c4c6ac7c937ef63bd23493792998856d52c0fab2a5d077e286597e6c7a70",
+    "snippet": "product-composite-1  | 2024-09-03T21:23:55.107Z  INFO 1 --- [           main] j.c.p.ProductCompositeServiceApplication : Starting ProductCompositeServiceApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 1 (/application/BOOT-INF/classes started by root in /application)\nproduct-composite-1  | 2024-09-03T21:23:55.124Z DEBUG 1 --- [           main] j.c.p.ProductCompositeServiceApplication : Running with Spring Boot v3.2.1, Spring v6.1.2\nproduct-composite-1  | 2024-09-03T21:23:55.126Z  INFO 1 --- [           main] j.c.p.ProductCompositeServiceApplication : The following 1 profile is active: \"docker\"\nproduct-composite-1  | 2024-09-03T21:24:01.708Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)\nproduct-composite-1  | 2024-09-03T21:24:01.806Z  INFO 1 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\nproduct-composite-1  | 2024-09-03T21:24:01.807Z  INFO 1 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]\nproduct-composite-1  | 2024-09-03T21:24:02.169Z  INFO 1 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\nproduct-composite-1  | 2024-09-03T21:24:02.185Z  INFO 1 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 6451 ms\nproduct-composite-1  | 2024-09-03T21:24:06.165Z  INFO 1 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'\nproduct-composite-1  | 2024-09-03T21:24:06.647Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''\nproduct-composite-1  | 2024-09-03T21:24:06.705Z  INFO 1 --- [           main] j.c.p.ProductCompositeServiceApplication : Started ProductCompositeServiceApplication in 13.851 seconds (process running for 15.837)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_131dcc5514909292af06df90305a66cfbb40ca171f99f64fefe500d2e030f82d",
+    "score": 32.107475,
+    "link": "https://stackoverflow.com/questions/79185533",
+    "source": "so",
+    "origin_doc_id": "afd0d4fa3bad1cfe9169c405ae78b639e0d3f22b5ebbef5f619b76296ecc19d4",
+    "snippet": "2024-11-13 20:24:07 INFO:root:Application starting up"
+  },
+  {
+    "rank": 7,
+    "id": "msg_da72c9bdfa8ae50e2fbf7af4987107ed5ee1ebc75fc0c8308f8b7feefae94931",
+    "score": 32.107475,
+    "link": "https://stackoverflow.com/questions/79185533",
+    "source": "so",
+    "origin_doc_id": "afd0d4fa3bad1cfe9169c405ae78b639e0d3f22b5ebbef5f619b76296ecc19d4",
+    "snippet": "2024-11-13 20:24:08 INFO:root:Application starting up"
+  },
+  {
+    "rank": 8,
+    "id": "msg_4dc398c3108bdb5b3c054201f9f3cc21ad5d4f540496a5ab59fa2d668aa16bb0",
+    "score": 32.052994,
+    "link": "https://stackoverflow.com/questions/79003359",
+    "source": "so",
+    "origin_doc_id": "b79302ba18962f997f061c18f7352cfc65e3efec65a777b8ec12dd14dc347dcf",
+    "snippet": "2024-09-19 13:57:46.858  INFO 1998000 --- [           main] org.infinispan.CLUSTER                   : ISPN000078: Starting JGroups channel `ISPN` with stack\n------------------------------------------------------------------- \n GMS: address=ip-172-31-27-116-412, cluster=ISPN, physical address=172.31.27.116:7600 \n -------------------------------------------------------------------"
+  },
+  {
+    "rank": 9,
+    "id": "msg_aee2877dbe5454df5f6e46fdaad6ef3026bf9c2fe17c9933c2cd0cb2cb6dcbee",
+    "score": 31.981945,
+    "link": "https://stackoverflow.com/questions/78985741",
+    "source": "so",
+    "origin_doc_id": "b0a5352f8d54d5a1a9633cc85add282415f01b7f0d0356d58593a808f6ae73f2",
+    "snippet": "2024-09-14T21:47:10.693+08:00  INFO 16020 --- [demo] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]"
+  },
+  {
+    "rank": 10,
+    "id": "msg_f8552d8eca529cf95f54a2faa0fe51fc0837a089506c03cae74d41c375e3409b",
+    "score": 31.837902,
+    "link": "https://issues.apache.org/jira/browse/TAJO-26",
+    "source": "jira",
+    "origin_doc_id": "4ad0010b394a2c0308b153a88bc2a3f61c2716078897935c0932116015427d41",
+    "snippet": "2013-04-03 07:45:52,439 INFO  tajo.TajoTestingCluster (TajoTestingCluster.java:startMiniCluster(331)) - Starting up YARN cluster"
+  }
+]

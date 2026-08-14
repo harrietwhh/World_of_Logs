@@ -1,0 +1,30 @@
+{
+  "case_id": "10",
+  "summary_raw": "[\"program interrupt\",\"data store interrupt\"]",
+  "summary_items": [
+    "program interrupt",
+    "data store interrupt"
+  ],
+  "group_logs_lines": [
+    "RAS KERNEL FATAL program interrupt : illegal instruction......0",
+    "RAS KERNEL FATAL data store interrupt caused by icbi.........0",
+    "RAS KERNEL FATAL program interrupt : illegal instruction......0",
+    "RAS KERNEL FATAL data store interrupt caused by icbi.........0",
+    "RAS KERNEL FATAL program interrupt : illegal instruction......0",
+    "RAS KERNEL FATAL data store interrupt caused by icbi.........0",
+    "RAS KERNEL FATAL program interrupt : illegal instruction......0",
+    "RAS KERNEL FATAL data store interrupt caused by icbi.........0",
+    "RAS KERNEL FATAL program interrupt : illegal instruction......0",
+    "RAS KERNEL FATAL data store interrupt caused by icbi.........0",
+    "RAS KERNEL FATAL program interrupt : illegal instruction......0",
+    "RAS KERNEL FATAL data store interrupt caused by icbi.........0",
+    "RAS KERNEL FATAL program interrupt : illegal instruction......0",
+    "RAS KERNEL FATAL data store interrupt caused by icbi.........0",
+    "RAS KERNEL FATAL program interrupt : illegal instruction......0",
+    "RAS KERNEL FATAL data store interrupt caused by icbi.........0",
+    "RAS KERNEL FATAL program interrupt : illegal instruction......0",
+    "RAS KERNEL FATAL data store interrupt caused by icbi.........0",
+    "RAS KERNEL FATAL data store interrupt caused by icbi.........0",
+    "RAS KERNEL FATAL program interrupt : illegal instruction......0"
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_ba28b9a8059a951a17a06f5bd4e7747b4c104882ae923535eb166f0d242519ba",
+    "score": 46.701912,
+    "link": "https://issues.apache.org/jira/browse/HADOOP-14791",
+    "source": "jira",
+    "origin_doc_id": "30cb47a44fe6240588deb93f14183a6c5a052038f389f775f14ec78bdb1a4d53",
+    "snippet": "2017-08-19 22:53:22,363 INFO minikdc.MiniKdc: MiniKdc stopped."
+  },
+  {
+    "rank": 2,
+    "id": "msg_3f2fcd056b889b3ca22605332f8f290c70d7f93e6c0306195e58d19f17a493fd",
+    "score": 43.779495,
+    "link": "https://issues.apache.org/jira/browse/YARN-2689",
+    "source": "jira",
+    "origin_doc_id": "cbfad9d15ee037ad78016bf6782748ce192e0797fd67de3737d6ec07989a34f7",
+    "snippet": "2014-10-14 11:31:58,772 [main] INFO  minikdc.MiniKdc (MiniKdc.java:initKDCServer(480)) - MiniKdc listening at port: 49764"
+  },
+  {
+    "rank": 3,
+    "id": "msg_7f62a4887c6cad78d08a2c850b00b5df23533129fc6a55ed6a51a2b78e4c8b27",
+    "score": 43.779495,
+    "link": "https://issues.apache.org/jira/browse/YARN-2689",
+    "source": "jira",
+    "origin_doc_id": "cbfad9d15ee037ad78016bf6782748ce192e0797fd67de3737d6ec07989a34f7",
+    "snippet": "2014-10-14 15:07:48,259 [main] INFO  minikdc.MiniKdc (MiniKdc.java:initKDCServer(480)) - MiniKdc listening at port: 50351"
+  },
+  {
+    "rank": 4,
+    "id": "msg_2960c62d19acea7071a26407d00838a3fc1ffaa750d43da09a776268e5d8bbf2",
+    "score": 37.857124,
+    "link": "https://stackoverflow.com/questions/78946125",
+    "source": "so",
+    "origin_doc_id": "8f53c4c6ac7c937ef63bd23493792998856d52c0fab2a5d077e286597e6c7a70",
+    "snippet": "product-composite-1  | 2024-09-03T21:23:55.107Z  INFO 1 --- [           main] j.c.p.ProductCompositeServiceApplication : Starting ProductCompositeServiceApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 1 (/application/BOOT-INF/classes started by root in /application)\nproduct-composite-1  | 2024-09-03T21:23:55.124Z DEBUG 1 --- [           main] j.c.p.ProductCompositeServiceApplication : Running with Spring Boot v3.2.1, Spring v6.1.2\nproduct-composite-1  | 2024-09-03T21:23:55.126Z  INFO 1 --- [           main] j.c.p.ProductCompositeServiceApplication : The following 1 profile is active: \"docker\"\nproduct-composite-1  | 2024-09-03T21:24:01.708Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)\nproduct-composite-1  | 2024-09-03T21:24:01.806Z  INFO 1 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]\nproduct-composite-1  | 2024-09-03T21:24:01.807Z  INFO 1 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.17]\nproduct-composite-1  | 2024-09-03T21:24:02.169Z  INFO 1 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext\nproduct-composite-1  | 2024-09-03T21:24:02.185Z  INFO 1 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 6451 ms\nproduct-composite-1  | 2024-09-03T21:24:06.165Z  INFO 1 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'\nproduct-composite-1  | 2024-09-03T21:24:06.647Z  INFO 1 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''\nproduct-composite-1  | 2024-09-03T21:24:06.705Z  INFO 1 --- [           main] j.c.p.ProductCompositeServiceApplication : Started ProductCompositeServiceApplication in 13.851 seconds (process running for 15.837)"
+  },
+  {
+    "rank": 5,
+    "id": "msg_3e8af72df43c73f2adfa0d19921186f2214babee392c9b5fc305a9b7064bf2c8",
+    "score": 37.48525,
+    "link": "https://stackoverflow.com/questions/78853080",
+    "source": "so",
+    "origin_doc_id": "298297c9b90c56bc59f3e655ff3cb37aa44563f2a13fb8821070521daa9a462f",
+    "snippet": "2024-08-09 11:48:24 INFO:     Started reloader process [7] using WatchFiles"
+  },
+  {
+    "rank": 6,
+    "id": "msg_cd1c0639f39d6a563ffc8e58a455f662bba7e960119c8b4a181f3c5468925421",
+    "score": 36.47119,
+    "link": "https://issues.apache.org/jira/browse/YARN-2689",
+    "source": "jira",
+    "origin_doc_id": "cbfad9d15ee037ad78016bf6782748ce192e0797fd67de3737d6ec07989a34f7",
+    "snippet": "2014-10-14 11:31:58,772 [main] INFO  minikdc.MiniKdc (MiniKdc.java:initKDCServer(481)) - MiniKdc setting JVM krb5.conf to: C:\\Work\\hadoop-trunk\\hadoop-yarn-project\\hadoop-yarn\\hadoop-yarn-registry\\target\\kdc\\1413311510788\\krb5.conf"
+  },
+  {
+    "rank": 7,
+    "id": "msg_8717691703b1af8a208473b2e9b5bbd0db12655e98c744d037a62771b92e1501",
+    "score": 36.47119,
+    "link": "https://issues.apache.org/jira/browse/YARN-2689",
+    "source": "jira",
+    "origin_doc_id": "cbfad9d15ee037ad78016bf6782748ce192e0797fd67de3737d6ec07989a34f7",
+    "snippet": "2014-10-14 15:07:48,259 [main] INFO  minikdc.MiniKdc (MiniKdc.java:initKDCServer(481)) - MiniKdc setting JVM krb5.conf to: C:\\Work\\hadoop-trunk\\hadoop-yarn-project\\hadoop-yarn\\hadoop-yarn-registry\\target\\kdc\\1413324461603\\krb5.conf"
+  },
+  {
+    "rank": 8,
+    "id": "msg_8f15f7583fbbe1bf01bd6a9c34ce225335df630da2fad89e611d8f4c452abec7",
+    "score": 34.53334,
+    "link": "https://github.com/apache/camel-k/issues/1651",
+    "source": "github",
+    "origin_doc_id": "315d06b9713afff1f4e2b8373e75ef7e6ecacffc79e8cd53a2a009b2c584c36b",
+    "snippet": "[1] 2020-08-24 09:29:41.950 INFO  [main] AbstractCamelContext - Route: route1 started and consuming from: timer://tick \n [1] 2020-08-24 09:29:41.954 INFO  [main] AbstractCamelContext - Total 1 routes, of which 1 are started"
+  },
+  {
+    "rank": 9,
+    "id": "msg_44a2898e26772fe57678c2f5be1e818b0892b4b196e7db18cd07a3232c21c183",
+    "score": 34.19705,
+    "link": "https://stackoverflow.com/questions/78350892",
+    "source": "so",
+    "origin_doc_id": "b8d6e17a196f62bbbabb987cedb7baa6be8d2a3bcbc4867401913d3e5f93bd4f",
+    "snippet": "2024-04-22T11:24:15.179+09:00   [2024-04-22 11:24:15.1795] [INFO] [Lifetime] Application started. Press Ctrl+C to shut down."
+  },
+  {
+    "rank": 10,
+    "id": "msg_028f20154787522c2edf50ef86d773287dbb624105731dc623744633f454837f",
+    "score": 33.959198,
+    "link": "https://stackoverflow.com/questions/78928089",
+    "source": "so",
+    "origin_doc_id": "b60fb612f659d7ab64ec7fa8b16e99a059a7724bf213c09971696cfe824b536f",
+    "snippet": "[2024/08/29 15:27:24] [ info] [sp] stream processor started"
+  }
+]

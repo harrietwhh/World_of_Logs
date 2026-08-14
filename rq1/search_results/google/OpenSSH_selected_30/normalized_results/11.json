@@ -1,0 +1,157 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "[SOLVED] Why can I not SSH into my Ubuntu Server",
+    "link": "https://www.linuxquestions.org/questions/linux-newbie-8/why-can-i-not-ssh-into-my-ubuntu-server-4175673146/",
+    "displayed_link": "https://www.linuxquestions.org › linux-newbie-8 › why-...",
+    "snippet": "I googled for \"check pass; user unknown\" and found https://unix.stackexchange.com/quest...valid-password. It's not the only search result.",
+    "snippet_highlighted_words": [
+      "check pass",
+      "user unknown"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "authentication failures, then pam_sss(sshd:auth)",
+    "link": "https://access.redhat.com/solutions/2026823",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Why are false authentication failure messages reported by pam_unix for SSSD users in Red Hat Enterprise Linux? SSH Login to RHEL servers shows ...",
+    "snippet_highlighted_words": [
+      "authentication",
+      "pam_unix",
+      "users",
+      "SSH"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Disabling \"check pass; user unknown\" syslog messages",
+    "link": "https://unix.stackexchange.com/questions/763151/pam-disabling-check-pass-user-unknown-syslog-messages",
+    "displayed_link": "https://unix.stackexchange.com › questions › pam-disab...",
+    "snippet": "For every SSHD failure of an unknown user, it creates two messages. One of the messages doesn't provide the unknown username and junks up our SIEM.",
+    "snippet_highlighted_words": [
+      "SSHD",
+      "unknown user",
+      "unknown"
+    ],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Authentication Failed for PAM Agent using SSH for Active ...",
+    "link": "https://community.rsa.com/t5/securid-knowledge-base/authentication-failed-for-pam-agent-using-ssh-for-active/ta-p/700643",
+    "displayed_link": "https://community.rsa.com › ta-p",
+    "snippet": "When a user authenticates using PAM with the RSA Token or a Fixed Passcode, the authentication attempt fails.",
+    "snippet_highlighted_words": [
+      "user",
+      "authentication"
+    ],
+    "source": "RSA Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "What do these logs mean? Is someone attempting to hack ...",
+    "link": "https://serverfault.com/questions/1152134/what-do-these-logs-mean-is-someone-attempting-to-hack-into-my-server-via-ssh",
+    "displayed_link": "https://serverfault.com › questions › what-do-these-logs...",
+    "snippet": "Today I woke up to aa very large number of logs for ssh , and I can only assume someone is trying to gain access to my linux server. Here are the logs.",
+    "snippet_highlighted_words": [
+      "ssh"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "[SOLVED] Permission Denied on SSH Admin Access",
+    "link": "https://discuss.freedombox.org/t/solved-permission-denied-on-ssh-admin-access/2966",
+    "displayed_link": "https://discuss.freedombox.org › solved-permission-den...",
+    "snippet": "Despite the pam_unix(sshd:auth): authentication failure in the journal, I'm also getting a freedombox sshd[65244]: Accepted password for ...",
+    "snippet_highlighted_words": [
+      "pam_unix",
+      "sshd",
+      "auth):"
+    ],
+    "source": "FreedomBox Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Get a lot of invalid user requests when I look at system log",
+    "link": "https://forum.proxmox.com/threads/get-a-lot-of-invalid-user-requests-when-i-look-at-system-log.158024/",
+    "displayed_link": "https://forum.proxmox.com › threads › get-a-lot-of-inv...",
+    "snippet": "... auth): check pass; user unknown Nov 26 08:32:13 pve sshd[509762]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ...",
+    "snippet_highlighted_words": [
+      "check pass",
+      "user unknown",
+      "pam_unix",
+      "sshd",
+      "auth):"
+    ],
+    "source": "Proxmox Support Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "sk117157 - New User can not login to WebUI or SSH",
+    "link": "https://support.checkpoint.com/results/sk/sk117157",
+    "displayed_link": "https://support.checkpoint.com › results",
+    "snippet": "sshd[PID]: input_userauth_request: invalid user sshd[PID]: pam_unix(sshd:auth): check pass; user unknown sshd[PID]: pam_unix(sshd:auth): authentication ...",
+    "snippet_highlighted_words": [
+      "sshd[PID]: pam_unix(sshd:auth): check pass; user unknown"
+    ],
+    "source": "Check Point Software",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Getting \"pam_unix(sshd:auth): authentication failure\" when ...",
+    "link": "https://superuser.com/questions/1471408/getting-pam-unixsshdauth-authentication-failure-when-updating-password-aft",
+    "displayed_link": "https://superuser.com › questions › getting-pam-unixssh...",
+    "snippet": "When I expire a users password with chage -d 0 USER the user is able to log in and they are prompt with Current Unix password.",
+    "snippet_highlighted_words": [
+      "users",
+      "USER",
+      "user"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Unable to SSH Login to RHEL 7.4 VM",
+    "link": "https://community.spiceworks.com/t/unable-to-ssh-login-to-rhel-7-4-vm/687537",
+    "displayed_link": "https://community.spiceworks.com › ... › question",
+    "snippet": "I've tried to SSH to both systems using my AD Account admin.acct@domain.com, I can login to both systems without any issues, but when other AD users user2@ ...",
+    "snippet_highlighted_words": [
+      "SSH"
+    ],
+    "source": "Spiceworks Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

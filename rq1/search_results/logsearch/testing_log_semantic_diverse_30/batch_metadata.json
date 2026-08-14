@@ -1,0 +1,25 @@
+{
+  "input_csv": "RQ1/dataset/testing_log/testing_log_semantic_diverse_30.csv",
+  "query_column": "Content",
+  "requested_num": 10,
+  "sleep_seconds": 5.0,
+  "provider": "LogSearch API",
+  "engine": "logsearch",
+  "endpoint": "http://129.97.92.71:8000/api/search",
+  "timeout_seconds": 30.0,
+  "batch_name": "testing_log_semantic_diverse_30",
+  "output_files": {
+    "batch_metadata": "batch_metadata.json",
+    "query_manifest": "query_manifest.csv",
+    "normalized_results_dir": "normalized_results/"
+  },
+  "total_rows_seen": 30,
+  "total_query_candidates": 30,
+  "total_queries_attempted": 30,
+  "total_successes": 30,
+  "total_zero_result_successes": 0,
+  "total_failures": 0,
+  "total_skipped_empty_query": 0,
+  "started_at_utc": "2026-04-22T23:30:07.680212+00:00",
+  "finished_at_utc": "2026-04-22T23:32:47.851930+00:00"
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "When to use the different log levels",
+    "link": "https://stackoverflow.com/questions/2031163/when-to-use-the-different-log-levels",
+    "displayed_link": "20+ answers · 16 years ago",
+    "snippet": "There are different ways to log messages, in order of fatality: (for Log4j) How do I decide when to use which? What's a good heuristic to use?",
+    "snippet_highlighted_words": [
+      "log"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Log Levels Explained and How to Use Them",
+    "link": "https://www.xurrent.com/blog/log-levels",
+    "displayed_link": "https://www.xurrent.com › blog › log-levels",
+    "snippet": "Understand log levels like DEBUG, INFO, WARN, ERROR, FATAL with real-world use cases and code. Learn how to use them for incident detection, ...",
+    "snippet_highlighted_words": [
+      "log",
+      "WARN"
+    ],
+    "source": "Xurrent",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Logging levels explained",
+    "link": "https://medium.com/@m.merkulov/logging-levels-explained-4dd61815601f",
+    "displayed_link": "60+ likes · 8 years ago",
+    "snippet": "Usually in production you should have logging level set to Info, meaning Warn should be 'ON' by default. If somebody looks at the log in ...",
+    "snippet_highlighted_words": [
+      "logging",
+      "Warn",
+      "log"
+    ],
+    "source": "Medium · Michael Merkulov",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Log Levels Explained and How to Use Them",
+    "link": "https://betterstack.com/community/guides/logging/log-levels-explained/",
+    "displayed_link": "https://betterstack.com › community › guides › logging",
+    "snippet": "Warning ( warn ): signifies potential issues that may lead to errors or unexpected behavior in the future if not addressed. Notice ( notice ): ...",
+    "snippet_highlighted_words": [
+      "Warning",
+      "warn"
+    ],
+    "source": "Better Stack",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Logging Levels Explained",
+    "link": "https://www.crowdstrike.com/en-us/cybersecurity-101/next-gen-siem/logging-levels/",
+    "displayed_link": "https://www.crowdstrike.com › en-us › next-gen-siem › l...",
+    "snippet": "Warn: This log message indicates that an unexpected event has occurred in an application that may disrupt or delay other processes. Info: This ...",
+    "snippet_highlighted_words": [
+      "Warn",
+      "log"
+    ],
+    "source": "CrowdStrike",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Logging Levels: What They Are & How to Choose Them",
+    "link": "https://sematext.com/blog/logging-levels/",
+    "displayed_link": "https://sematext.com › Blog",
+    "snippet": "Giving a CRITICAL log level to a WARN level log event will result in an alert and notifications to people who are on call. If the situation ...",
+    "snippet_highlighted_words": [
+      "log",
+      "WARN",
+      "log",
+      "alert"
+    ],
+    "source": "Sematext",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Log Levels: Different Types and How to Use Them",
+    "link": "https://last9.io/blog/log-levels-explained/",
+    "displayed_link": "https://last9.io › blog › log-levels-explained",
+    "snippet": "WARN. WARN logs are there to flag things that might not be ideal but aren't causing immediate issues. They often point to something that ...",
+    "snippet_highlighted_words": [
+      "WARN",
+      "WARN logs"
+    ],
+    "source": "Last9",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Python Logging Levels Explained",
+    "link": "https://www.logicmonitor.com/blog/python-logging-levels-explained",
+    "displayed_link": "https://www.logicmonitor.com › blog › python-logging...",
+    "snippet": "Python has six log levels with each one assigned a specific integer indicating the severity of the log.",
+    "snippet_highlighted_words": [
+      "log",
+      "log"
+    ],
+    "source": "LogicMonitor",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "The Only Two Log Levels You Need Are Info and Error",
+    "link": "https://www.reddit.com/r/programming/comments/1d5wrcy/the_only_two_log_levels_you_need_are_info_and/",
+    "displayed_link": "70+ comments · 1 year ago",
+    "snippet": "I regularly use log levels such as warn, which differs from info and error in that it indicates something that was unexpected but not fatal.",
+    "snippet_highlighted_words": [
+      "log",
+      "warn"
+    ],
+    "source": "Reddit · r/programming",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Logging and Tracing",
+    "link": "https://userver.tech/df/d0c/md_en_2userver_2logging.html",
+    "displayed_link": "https://userver.tech › ...",
+    "snippet": "If you want to add tags to as single log record, then you can create an object of type logging::LogExtra , add the necessary tags to it and output the LogExtra ...",
+    "snippet_highlighted_words": [
+      "log",
+      "type logging"
+    ],
+    "source": "userver",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

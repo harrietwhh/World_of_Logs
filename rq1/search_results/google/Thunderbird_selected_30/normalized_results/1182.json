@@ -1,0 +1,153 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "CentOS GPG Keys - The CentOS Project",
+    "link": "https://www.centos.org/keys/",
+    "displayed_link": "https://www.centos.org › keys",
+    "snippet": "The Project GPG keys are included in the centos-gpg-keys package, and are typically found in the /etc/pki/rpm-gpg directory.",
+    "snippet_highlighted_words": [
+      "GPG",
+      "centos",
+      "gpg",
+      "gpg"
+    ],
+    "source": "CentOS",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "RPM-GPG-KEY-CentOS-SIG-SCLo",
+    "link": "https://github.com/sclorg/centos-release-scl/blob/master/centos-release-scl/RPM-GPG-KEY-CentOS-SIG-SCLo",
+    "displayed_link": "https://github.com › blob › master › centos-release-scl",
+    "snippet": "While the code is focused, press Alt+F1 for a menu of operations.",
+    "snippet_highlighted_words": [
+      "for"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Package Verification Keys for CentOS SCL RPMs",
+    "link": "https://stackoverflow.com/questions/42974465/package-verification-keys-for-centos-scl-rpms",
+    "displayed_link": "1 answer · 9 years ago",
+    "snippet": "When I look at the CentOS.Org site's page concerning GPG keys, the SCL packages are shown as having a key/fingerprint, but, unlike the other ...",
+    "snippet_highlighted_words": [
+      "CentOS",
+      "GPG",
+      "key"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "CentOS GPG Keys",
+    "link": "https://www.dev.centos.org/keys/",
+    "displayed_link": "https://www.dev.centos.org › keys",
+    "snippet": "The Project GPG keys are included in the centos-release package, and are typically found in /etc/pki/rpm-gpg.",
+    "snippet_highlighted_words": [
+      "GPG",
+      "centos",
+      "gpg"
+    ],
+    "source": "CentOS",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Install Errors : r/CentOS",
+    "link": "https://www.reddit.com/r/CentOS/comments/1nje1nu/install_errors/",
+    "displayed_link": "10+ comments · 6 months ago",
+    "snippet": "In a stock setup, you'll have the package signing key located at /etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial-SHA256 , and repo configs will ...",
+    "snippet_highlighted_words": [
+      "GPG",
+      "KEY",
+      "centosofficial"
+    ],
+    "source": "Reddit · r/CentOS",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "YUM GPG keys - Kindred/kernel",
+    "link": "https://packagecloud.io/app/kindred/kernel/gpg",
+    "displayed_link": "https://packagecloud.io › app › kindred › kernel › gpg",
+    "snippet": "To import a GPG key to verify YUM metadata, you must create a repo config with the GPG key URL. This is done automatically with all of our install methods. If ...",
+    "snippet_highlighted_words": [
+      "GPG key",
+      "GPG key"
+    ],
+    "source": "Packagecloud",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "How to add a public key into system keyring for kernel ...",
+    "link": "https://unix.stackexchange.com/questions/445772/how-to-add-a-public-key-into-system-keyring-for-kernel-without-recompile",
+    "displayed_link": "https://unix.stackexchange.com › questions › how-to-ad...",
+    "snippet": "To import your key into MOK, you should first ensure that shim.efi is involved in your boot process (see efibootmgr -v ). Then have the key/certificate that ...",
+    "snippet_highlighted_words": [
+      "key",
+      "key"
+    ],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Kernel module signing facility",
+    "link": "https://www.kernel.org/doc/html/v4.15/admin-guide/module-signing.html",
+    "displayed_link": "https://www.kernel.org › doc › html › admin-guide › mo...",
+    "snippet": "The kernel module signing facility cryptographically signs modules during installation and then checks the signature upon loading the module.",
+    "snippet_highlighted_words": [
+      "kernel module"
+    ],
+    "source": "The Linux Kernel Archives",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "RPM-GPG-KEY-CentOS-SIG-SCLo",
+    "link": "https://www.linuxquestions.org/questions/linux-newbie-8/rpm-gpg-key-centos-sig-sclo-4175658362/",
+    "displayed_link": "https://www.linuxquestions.org › linux-newbie-8 › rpm-...",
+    "snippet": "I am trying to install a package, or even update yum, any yum command I run, I get this error: Code: centos-sclo-rh/signature ...",
+    "snippet_highlighted_words": [
+      "centos"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Can't get gpg key accepted automatically for new repo on ...",
+    "link": "https://forum.ansible.com/t/cant-get-gpg-key-accepted-automatically-for-new-repo-on-centos-7/23746",
+    "displayed_link": "https://forum.ansible.com › Archives › Ansible Project",
+    "snippet": "If I run 'yum -y install grafana' it works and accepts the gpg keys. How am I supposed to do this correctly in ansible? luke2 March 28, 2017 ...",
+    "snippet_highlighted_words": [
+      "gpg"
+    ],
+    "source": "Red Hat",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

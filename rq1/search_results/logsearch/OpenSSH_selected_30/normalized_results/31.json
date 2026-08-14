@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_eaf7f182e667758037d0f4b2c7b28e050b20918f1d25240f1c1e08b027697519",
+    "score": 69.61702,
+    "link": "https://jira.hyperledger.org/jira/browse/INDY-1082",
+    "source": "jira",
+    "origin_doc_id": "92fe5506c15dd22837e78f9c7d44e90d5703c61ceb8d1dcaf2264114f51df980",
+    "snippet": "error: maximum authentication attempts exceeded for root from 89.151.159.158 port 60477 ssh2 [preauth] \n Disconnecting: Too many authentication failures [preauth]"
+  },
+  {
+    "rank": 2,
+    "id": "msg_abd4d3d92234e66ac8c8be0e1f0e31ba97b33f7b67658cb77072f4d266f147ba",
+    "score": 66.915215,
+    "link": "https://stackoverflow.com/questions/5246416",
+    "source": "so",
+    "origin_doc_id": "c98db8f89fcd1207411da92a9a9bb1aaa84c52205a7c6baf8ff4722c6f7ce8dc",
+    "snippet": "Nov  7 07:56:02 ubuntu sshd[1862]: Disconnecting: Too many authentication failures for user [preauth] \n Nov  7 07:56:08 ubuntu sshd[1864]: Disconnecting: Too many authentication failures for user [preauth]"
+  },
+  {
+    "rank": 3,
+    "id": "msg_b4a422011214bcc9f3601b0845e2440da44cf9d4cdf107ffe05ee14f56c3651d",
+    "score": 62.360878,
+    "link": "https://github.com/israelroldan/grunt-ssh/issues/129",
+    "source": "github",
+    "origin_doc_id": "6a2981768c4ff02bed681efb9d920e97e9ee4d8f2a1b1b50b0d6d2b6f4a58ff3",
+    "snippet": "sshd: error: maximum authentication attempts exceeded for <user> from <ip> port <port> ssh2 [preauth] \n sshd: Disconnecting: Too many authentication failures for <user> [preauth]"
+  },
+  {
+    "rank": 4,
+    "id": "msg_9cd59fbf533ac136f2512356f051f360ccddd911fcdae17891d5b778483ce95b",
+    "score": 61.8364,
+    "link": "https://github.com/saltstack/salt/issues/24096",
+    "source": "github",
+    "origin_doc_id": "43afb61e925f2859ee51a8dde7c40467f710071b8d768711b29b0dc72215032f",
+    "snippet": "Too many authentication failures for root [preauth]```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_f197fb9b58e053988400304e395b3744d493b6e7a430988e5c349ad74d39ebf4",
+    "score": 61.71456,
+    "link": "https://github.com/widdix/aws-s3-virusscan/issues/32",
+    "source": "github",
+    "origin_doc_id": "229f82019301e5c4e0ab2e0dd61ad0dfb73ce92ae5d74d3136c2efc47fa5711d",
+    "snippet": "10:11:04 \n Mar 13 10:11:04 ip-10-0-8-122 sshd[21000]: Disconnecting: Too many authentication failures for root [preauth]"
+  },
+  {
+    "rank": 6,
+    "id": "msg_798265de10ba400dbc3c45e7f63a9be0138caa588977d959defcff886f383fb9",
+    "score": 60.07252,
+    "link": "https://github.com/hassio-addons/addon-ssh/issues/354",
+    "source": "github",
+    "origin_doc_id": "1b65260b40a36abec39fa2e0b5512a2d5c8faba1c658a13cc245c61de412c476",
+    "snippet": "type ssh-dss not in PubkeyAcceptedAlgorithms [preauth]\nuserauth_pubkey: key type ssh-rsa not in PubkeyAcceptedAlgorithms [preauth] \n userauth_pubkey: key type ssh-dss not in PubkeyAcceptedAlgorithms [preauth] \n maximum authentication attempts exceeded for root from 192.168.1.XXport 51234 ssh2 [preauth] \n Disconnecting authenticating user root 192.168.1.XX port 51234: Too many authentication failures [preauth]"
+  },
+  {
+    "rank": 7,
+    "id": "msg_8712ce5ba0d0b9ae30cae9271437c7f5387ef2e2695033a75752e22605c309f7",
+    "score": 56.292156,
+    "link": "https://github.com/waylybaye/servercat.app/issues/3",
+    "source": "github",
+    "origin_doc_id": "1fdb7bee3b7ce0ad9f4476308f0faca09e9fc6c8d0819420a0e9d552c3b8ed4a",
+    "snippet": "\"Disconnecting authenticating user 'user ip port' : Too many authentication failures [preauth]\" \n server is  \n \"Distributor ID: Debian \n Description:    Debian"
+  },
+  {
+    "rank": 8,
+    "id": "msg_e0ea3064ab750b5a7900221ef3377d8e8de1e3970afef6f4eda7b2811998aaba",
+    "score": 54.51126,
+    "link": "https://github.com/emberstack/docker-sftp/issues/22",
+    "source": "github",
+    "origin_doc_id": "3f3d2254531419cff0b4d1a64a655421ab710e94e36db856a1c6d02530d9906c",
+    "snippet": "2020-06-19 14:41:24.126 [VRB] (ES.SFTP.Host.SSH.SSHService) sshd - Disconnecting authenticating user myuser 10.240.255.56 port 59492: Too many authentication failures [preauth]"
+  },
+  {
+    "rank": 9,
+    "id": "msg_f2d48684cc85d4517e18e1c8a2668bddaca4772cbbf0e048c487e80f41c637c8",
+    "score": 51.90241,
+    "link": "https://github.com/crazy-max/docker-fail2ban/issues/8",
+    "source": "github",
+    "origin_doc_id": "daac64fc49698ad6efff97648709ea6aeb8d58a94519d37978e932cb23ec6b45",
+    "snippet": "2018-11-18 20:20:15,788 fail2ban.server         [1]: DEBUG     failregex: '^<F-MLFFORGET>Disconnecting</F-MLFFORGET>: Too many authentication failures(?: for <F-USER>.+?</F-USER>)?(?: (?:port \\\\d+|on \\\\S+|\\\\[preauth\\\\])){0,3}\\\\s*$'"
+  },
+  {
+    "rank": 10,
+    "id": "msg_c06a71b77eba442aa1acfa8d04d741ff3159d8845107b0b064d7651b189af6e0",
+    "score": 50.81792,
+    "link": "https://stackoverflow.com/questions/51620632",
+    "source": "so",
+    "origin_doc_id": "378781f47ead6251c826890ff9ad051b011d155e8dc4f40a144988d482f467d7",
+    "snippet": "3600.000000    F    -    -    -\n Jul 31 11:20:38 brotest-01 sshd[40996]: Failed password for sharp67 from 10.186.13.81 port 39590 ssh2 \n Jul 31 11:20:38 brotest-01 sshd[40996]: error: maximum authentication attempts exceeded for sharp67 from 10.xxx.xx.81 port 39590 ssh2 [preauth] \n Jul 31 11:20:38 brotest-01 sshd[40996]: Disconnecting: Too many authentication failures [preauth] \n Jul 31 11:20:38 brotest-01 sshd[40997]: Failed password for sharp67 from 10.xxx.xx.81 port 39602 ssh2 \n Jul 31 11:20:38 brotest-01 sshd[40997]: error: maximum authentication attempts exceeded for sharp67 from 10.xxx.xx.81 port 39602 ssh2 [preauth] \n Jul 31 11:20:38 brotest-01 sshd[40997]: Disconnecting: Too many authentication failures [preauth] \nJul 31 11:21:06 brotest-01 sshd[41008]: pam_unix(sshd:auth): check pass; user unknown \n Jul 31 11:21:08 brotest-01 sshd[41007]: Failed password for invalid user aaron1 from 10.xxx.xx.81 port 39664 ssh2 \n Jul 31 11:21:08 brotest-01 sshd[41007]: error: maximum authentication attempts exceeded for invalid user aaron1 from 10.xxx.xx.81 port 39664 ssh2 [preauth] \n Jul 31 11:21:08 brotest-01 sshd[41007]: Disconnecting: Too many authentication failures [preauth]"
+  }
+]

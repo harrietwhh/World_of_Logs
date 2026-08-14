@@ -1,0 +1,42 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Thunderbird/Thunderbird_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Thunderbird/Thunderbird_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Thunderbird",
+    "snippet": "... data_thread() got not answer from any [Thunderbird_A8] datasource. - 1131566461 2005.11.09 tbird-admin1 Nov 9 12:01:01 local@tbird-admin1 /apps/x86_64/system ...",
+    "snippet_highlighted_words": [
+      "data_thread() got not answer from any [Thunderbird_A8] datasource"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "LogHub - Mozilla Thunderbird Log Data",
+    "link": "https://www.kaggle.com/datasets/omduggineni/loghub-mozilla-thunderbird-log-data",
+    "displayed_link": "https://www.kaggle.com › datasets › omduggineni › log...",
+    "snippet": "... data_thread() got not answer from any [Thunderbird_A1] datasource - 1131563651 2005.11. lightbulb. See what others are saying about this dataset. What have you ...",
+    "snippet_highlighted_words": [
+      "data_thread() got not answer from any [Thunderbird_A1] datasource"
+    ],
+    "source": "Kaggle",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Threads not showing all replies including thread starter's ...",
+    "link": "https://support.mozilla.org/en-US/questions/1285853",
+    "displayed_link": "https://support.mozilla.org › en-US › questions",
+    "snippet": "Threads are missing some replies, including the thread starter's message. And opening the thread stack in the Message Pane replicates this problem.",
+    "snippet_highlighted_words": [],
+    "source": "Mozilla Support",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

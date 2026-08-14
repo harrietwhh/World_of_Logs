@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_0c067426f5f048494d3e282a52880fa9de16299c25abf0376c69709d9743399b",
+    "score": 83.80407,
+    "link": "https://github.com/gravitational/teleport/issues/3245",
+    "source": "github",
+    "origin_doc_id": "ecd525589e8e69c7b55f2cf874558488532e776cb42809e6ca7178adb5ae4b1b",
+    "snippet": "teleport: pam_loginuid(sshd:session): Error writing /proc/self/loginuid: Operation not permitted \n teleport: pam_loginuid(sshd:session): set_loginuid failed \n teleport: pam_unix(sshd:session): session opened for user root by (uid=0) \n systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0) \n systemd: pam_unix(systemd-user:session): session closed for user root \nteleport: pam_loginuid(sshd:session): Error writing /proc/self/loginuid: Operation not permitted\nteleport: pam_loginuid(sshd:session): set_loginuid failed\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session closed for user root\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session closed for user root\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nteleport: pam_loginuid(sshd:session): Error writing /proc/self/loginuid: Operation not permitted\nteleport: pam_loginuid(sshd:session): set_loginuid failed\nteleport: pam_unix(sshd:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)\nsystemd: pam_unix(systemd-user:session): session closed for user root\n```"
+  },
+  {
+    "rank": 2,
+    "id": "msg_2abc74f5a4a23c8330439c1d50e611b20bd6d2cbb2c78b2e380ec4ed83e0999d",
+    "score": 77.4961,
+    "link": "https://stackoverflow.com/questions/23531078",
+    "source": "so",
+    "origin_doc_id": "1b8c692e4256cabcee2eea2292d1700c453e9bb640e43a7cde4894dd9979c789",
+    "snippet": "cat /var/log | grep session \n May  7 17:37:55 test sshd[27001]: pam_unix(sshd:session): session opened for user user by (uid=0) \n May  7 18:19:07 test sshd[27001]: pam_unix(sshd:session): session closed for user user \n May  7 18:26:56 test sshd[28466]: pam_unix(sshd:session): session opened for user user by (uid=0) \nMay  7 18:28:11 test sshd[28612]: pam_unix(sshd:session): session opened for user user by (uid=0)"
+  },
+  {
+    "rank": 3,
+    "id": "msg_cfc15aae4e70c1ec787b3ed5ee76d9ea38f79fd470298311920f7d5069a554a6",
+    "score": 70.62445,
+    "link": "https://stackoverflow.com/questions/28946442",
+    "source": "so",
+    "origin_doc_id": "42904e378acc51b3a4609fa44368acc7dd583ad330207099d85873a1801ac503",
+    "snippet": "9 14:18:20\",\n\"pam_unix(sshd:session): session opened for user root by (uid=0)\""
+  },
+  {
+    "rank": 4,
+    "id": "msg_a0536be0a25789bf7173f776816e3bb54365a582a2b7e5ec4c54a16cc7af5e47",
+    "score": 69.49549,
+    "link": "https://stackoverflow.com/questions/28448577",
+    "source": "so",
+    "origin_doc_id": "22c960777699f1bf700a59a02a119b7bd52ddca5ecb02626fd837abc59545752",
+    "snippet": "Feb 11 07:35:45 MY_SERVER sshd[22334]: pam_unix(sshd:session): session opened for user my_user by (uid=0) \nFeb 11 07:35:47 MY_SERVER sshd[22334]: pam_unix(sshd:session): session closed for user my_user"
+  },
+  {
+    "rank": 5,
+    "id": "msg_9be51c8578e46294854a07cfc9f4ce446861513aa833c885f20517ec055e2311",
+    "score": 68.92428,
+    "link": "https://stackoverflow.com/questions/62656817",
+    "source": "so",
+    "origin_doc_id": "54f664827c88d1c17e55241836a23ce88b25a3e81617fc97471c62abc94904e9",
+    "snippet": "sshd[25494]: Accepted publickey for advanced from 192.168.47.2 port 32589 ssh2: RSA SHA256:ofWD8Ii5DnGUyK2wUDpl71KhQcRajEqBWv6n27YwQ8g \nsshd[25494]: pam_keyinit(sshd:session): Unable to look up user \"advanced\" \n sshd[25494]: pam_unix(sshd:session): session opened for user advanced by (uid=0) \n sshd[25500]: Received disconnect from 192.168.47.2: 11: disconnected by user \n sshd[25494]: pam_unix(sshd:session): session closed for user advanced \n sshd[25500]: Disconnected from 192.168.47.2 \n  Unsuccessful (with git bash)  \n  sshd[24626]: Accepted publickey for advanced from 192.168.47.2 port 32488 ssh2: RSA SHA256:ofWD8Ii5DnGUyK2wUDpl71KhQcRajEqBWv6n27YwQ8g \n sshd[24626]: pam_keyinit(sshd:session): Unable to look up user \"advanced\" \n sshd[24626]: pam_unix(sshd:session): session opened for user advanced by (uid=0) \nsshd[24626]: pam_unix(sshd:session): session closed for user advanced"
+  },
+  {
+    "rank": 6,
+    "id": "msg_031b3d1295aa5faf17a393f74ae334d3309a9ca199669ec911242b345b021e61",
+    "score": 68.57972,
+    "link": "https://stackoverflow.com/questions/18263186",
+    "source": "so",
+    "origin_doc_id": "c87a14a2b9a92999b630bd42fc6afa6745b6974d53281839f8047cad6effd6ac",
+    "snippet": "raspberrypi sshd[2077]: Accepted password for pi from 192.168.0.3 port 47018 ssh2\nraspberrypi sshd[2077]: pam_unix(sshd:session): session opened for user pi by (uid=0)\nraspberrypi CRON[2183]: pam_unix(cron:session): session opened for user root by (uid=0)\nraspberrypi CRON[2183]: pam_unix(cron:session): session closed for user root\nraspberrypi sshd[2191]: Accepted password for pi from 192.168.0.3 port 47125 ssh2\nraspberrypi sshd[2191]: pam_unix(sshd:session): session opened for user pi by (uid=0)\nraspberrypi sshd[2198]: subsystem request for sftp by user pi\nraspberrypi sudo:       pi : TTY=pts/0 ; PWD=/home/pi ; USER=root ; COMMAND=/bin/mount -t ntfs-3g -o rw,uid=pi,gid=pi /dev/sda1 /mnt/book/\nraspberrypi sudo: pam_unix(sudo:session): session opened for user root by pi(uid=0)\nraspberrypi sudo: pam_unix(sudo:session): session closed for user root"
+  },
+  {
+    "rank": 7,
+    "id": "msg_a46552155c0ca02e750cb464a08b9e3963bab27ade61d27a709efe275cae1e89",
+    "score": 67.99428,
+    "link": "https://stackoverflow.com/questions/40029985",
+    "source": "so",
+    "origin_doc_id": "7434f5b3921eab526d8102f395c4c627cce777223a3b51862f72b73557e1c809",
+    "snippet": "Oct  9 13:25:31 user sshd[12844]: Accepted password for root from 213.XXX.XXX.XX7 port 33254 ssh2 \n Oct  9 13:25:31 user sshd[12844]: pam_unix(sshd:session): session opened for user root by (uid=0) \n Oct  9 13:35:48 user sshd[12868]: Accepted password for root from 213.XXX.XXX.XX7 port 33574 ssh2 \n Oct  9 13:35:48 user sshd[12868]: pam_unix(sshd:session): session opened for user root by (uid=0) \n Oct  9 13:46:58 user sshd[12844]: Received disconnect from 213.XXX.XXX.XX7: 11: disconnected by user \n Oct  9 13:46:58 user sshd[12844]: pam_unix(sshd:session): session closed for user root \n Oct  9 15:47:58 user sshd[12868]: pam_unix(sshd:session): session closed for user root \nOct 11 22:17:31 user sshd[2655]: Accepted password for root from 17X.XXX.XXX.X19 port 5567 ssh2 \n Oct 11 22:17:31 user sshd[2655]: pam_unix(sshd:session): session opened for user root by (uid=0) \n  fileB.txt  \n      Oct  9 12:19:16 user sshd[12744]: Accepted password for root from 213.XXX.XXX.XX7 port 60554 ssh2 \n Oct  9 12:19:16 user sshd[12744]: pam_unix(sshd:session): session opened for user root by (uid=0) \n Oct  9 13:24:42 user sshd[12744]: Received disconnect from 213.XXX.XXX.XX7: 11: disconnected by user \n Oct  9 13:24:42 user sshd[12744]: pam_unix(sshd:session): session closed for user root \n Oct  9 13:25:31 user sshd[12844]: Accepted password for root from 213.XXX.XXX.XX7 port 33254 ssh2 \n Oct  9 13:25:31 user sshd[12844]: pam_unix(sshd:session): session opened for user root by (uid=0) \nOct  9 13:35:48 user sshd[12868]: Accepted password for root from 213.XXX.XXX.XX7 port 33574 ssh2 \n Oct  9 13:35:48 user sshd[12868]: pam_unix(sshd:session): session opened for user root by (uid=0) \n  Output:"
+  },
+  {
+    "rank": 8,
+    "id": "msg_ef40005904fd2fb390d980742bda9b4c766c9f08486b57e6038ed052cbedadcf",
+    "score": 67.548035,
+    "link": "https://stackoverflow.com/questions/28946442",
+    "source": "so",
+    "origin_doc_id": "42904e378acc51b3a4609fa44368acc7dd583ad330207099d85873a1801ac503",
+    "snippet": "Mar  9 14:18:20 ServerName sshd[14160]: pam_unix(sshd:session): session opened for user root by (uid=0)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_89aff61d79b94f57aa71b25f9eda07129d2bc0c54411e3d8f8ac048d055467eb",
+    "score": 67.548035,
+    "link": "https://stackoverflow.com/questions/28946442",
+    "source": "so",
+    "origin_doc_id": "42904e378acc51b3a4609fa44368acc7dd583ad330207099d85873a1801ac503",
+    "snippet": "\"Mar  9 14:18:20 ServerName sshd[14160]: pam_unix(sshd:session): session opened for user root by (uid=0)\","
+  },
+  {
+    "rank": 10,
+    "id": "msg_4b2d60e10f42341fbf8637a7b37c21747ae6ed625de30f56b9148315ffb03dcb",
+    "score": 67.422714,
+    "link": "https://stackoverflow.com/questions/73478817",
+    "source": "so",
+    "origin_doc_id": "4da0779f3fd7e786510cc5b6f7ca3e6082824a8625a31e70285ede3e9dfc5e8f",
+    "snippet": "Aug 24 20:10:01 bolo CRON[46362]: pam_unix(cron:session): session closed for user root \n Aug 24 20:12:00 bolo sshd[46950]: pam_unix(sshd:session): session opened for user root(uid=0) by (uid=0)"
+  }
+]

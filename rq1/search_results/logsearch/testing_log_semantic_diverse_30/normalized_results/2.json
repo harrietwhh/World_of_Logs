@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_7d018b0a9eb2b26ee550f70cd6e4491a958ff9504e9cce56f4871b037e8f911c",
+    "score": 83.65131,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,228 [myid:] - INFO  [Time-limited test:PortAssignment@151] - Test process 1/8 using ports from 11221 - 13913."
+  },
+  {
+    "rank": 2,
+    "id": "msg_403507529ba918ad98ed325e6bcabc186995c636d3a339fdd3a3d18fcfc4eda5",
+    "score": 65.69653,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2493",
+    "source": "jira",
+    "origin_doc_id": "dd206bf351f068fc6ab17d4eee6d32f1f1c8a1b45510ccef14e451f3a1498071",
+    "snippet": "2016-07-28 09:24:37,577 [myid:] - INFO  [main:PortAssignment@157] - Single test process using ports from 11221 - 32767."
+  },
+  {
+    "rank": 3,
+    "id": "msg_76d5d8c71c197754e69203becc3926e2fd84b933964ff75a2a99216ef2c20203",
+    "score": 61.622837,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2481",
+    "source": "jira",
+    "origin_doc_id": "e60d7c2b2cf8b90236f4ccaf35c5b9dd2562d8a2371c5b1a693d5efbd0384037",
+    "snippet": "2016-07-21 04:24:14,183 [myid:] - INFO  [main:PortAssignment@157] - Single test process using ports from 11221 - 32767."
+  },
+  {
+    "rank": 4,
+    "id": "msg_e6ee664f8c37552147853ad85f76ce82f308fc4a0083dd8e5bfb07bbd1d091eb",
+    "score": 56.73404,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2484",
+    "source": "jira",
+    "origin_doc_id": "2863f1762ed029e3389e1a407e5a40b759e13e6337aac776531f9d10389b403c",
+    "snippet": "2016-07-21 04:29:02,537 [myid:] - INFO  [main:PortAssignment@157] - Single test process using ports from 11221 - 32767."
+  },
+  {
+    "rank": 5,
+    "id": "msg_e87eed9fe4ac0663eb1d0ca239ee0a091c1a4075731630acd6b70345cd60541b",
+    "score": 54.145454,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,230 [myid:] - INFO  [Time-limited test:PortAssignment@85] - Assigned port 11222 from range 11221 - 13913."
+  },
+  {
+    "rank": 6,
+    "id": "msg_133fc531fe0666bca6e9304465a8f72b29d18b4444ded4520ad3a6b749ff86bd",
+    "score": 54.145454,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,231 [myid:] - INFO  [Time-limited test:PortAssignment@85] - Assigned port 11223 from range 11221 - 13913."
+  },
+  {
+    "rank": 7,
+    "id": "msg_97fb3d52dd897136cd4e68e83ddef0de563f6de7f7a9750acab03db981307043",
+    "score": 54.145454,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,231 [myid:] - INFO  [Time-limited test:PortAssignment@85] - Assigned port 11224 from range 11221 - 13913."
+  },
+  {
+    "rank": 8,
+    "id": "msg_cc1b7ee77176f6066dd97e497fa8cdea5f63422d3b426ed8ef21abe963f16f32",
+    "score": 54.145454,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,232 [myid:] - INFO  [Time-limited test:PortAssignment@85] - Assigned port 11225 from range 11221 - 13913."
+  },
+  {
+    "rank": 9,
+    "id": "msg_9b822bcb18f445ea867d9dc5b0fa15c2600b8d33cab7ebf313ab0f671ca4517c",
+    "score": 54.145454,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,232 [myid:] - INFO  [Time-limited test:PortAssignment@85] - Assigned port 11226 from range 11221 - 13913."
+  },
+  {
+    "rank": 10,
+    "id": "msg_b4936eaf00c864420bf47bd9a42f349b408a64e01a8ce8459d0ccd28b7d19e5d",
+    "score": 54.145454,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,232 [myid:] - INFO  [Time-limited test:PortAssignment@85] - Assigned port 11227 from range 11221 - 13913."
+  }
+]

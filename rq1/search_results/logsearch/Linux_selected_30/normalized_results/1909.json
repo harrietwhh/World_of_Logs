@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_81ea046dc54902648c916af5e126ef5a1eefe203f5fd6ae9cc62dd2792553964",
+    "score": 25.506783,
+    "link": "https://github.com/korylprince/hassio-apcupsd/issues/5",
+    "source": "github",
+    "origin_doc_id": "f17ac8f06ed7f5bd32880d782874b63445cbed6986d14fe5f65d7426df67fff9",
+    "snippet": "May 26 21:47:55 a722577e-apcupsd syslog.info syslogd started: BusyBox v1.27.2 \n May 26 19:47:55 a722577e-apcupsd daemon.notice apcupsd[9]: apcupsd 3.14.14 (31 May 2016) unknown startup succeeded \n May 26 19:47:55 a722577e-apcupsd daemon.info apcupsd[9]: NIS server startup succeeded \n May 26 19:49:05 a722577e-apcupsd daemon.warn apcupsd[9]: Communications with UPS lost. \n Many thanks for your"
+  },
+  {
+    "rank": 2,
+    "id": "msg_ff8ba406e42d815b6ce93bee74a39fce7db7ff1be264241f3ff9bac66296aeea",
+    "score": 23.76796,
+    "link": "https://github.com/korylprince/hassio-apcupsd/issues/19",
+    "source": "github",
+    "origin_doc_id": "128a4c8fab93350a47760b17adb4bf13b240aae4f3f8a9f926dc34ff31bd2a6f",
+    "snippet": "Feb 12 22:26:06 a722577e-apcupsd-net syslog.info syslogd started: BusyBox v1.30.1 \n Feb 12 22:26:06 a722577e-apcupsd-net daemon.notice apcupsd[6]: apcupsd 3.14.14 (31 May 2016) unknown startup succeeded \n Feb 12 22:26:06 a722577e-apcupsd-net daemon.info apcupsd[6]: NIS server startup succeeded \n Feb 12 22:26:21 a722577e-apcupsd-net daemon.warn apcupsd[6]: Communications with UPS lost. \n send-mail: account default not found: no configuration file available \n ```"
+  },
+  {
+    "rank": 3,
+    "id": "msg_56997d3e205a96e93d37b31972eccd1c9e25cd54653d3887e2222a0e58c7e483",
+    "score": 20.948128,
+    "link": "https://stackoverflow.com/questions/77772296",
+    "source": "so",
+    "origin_doc_id": "bf93c785af115d52e668a96dc51c6642bc4b297ad73bbd4f29e83a41ba84b34e",
+    "snippet": "| STARTING - Sun Jan  7 04:01:34 UTC 2024 \n     shairport-sync_kitchen      | s6-rc: info: service 01-startup successfully started \n     shairport-sync_kitchen      | s6-rc: info: service 04-nqptp: starting \n     shairport-sync_kitchen      | s6-rc: info: service 02-dbus: starting \n     shairport-sync_kitchen      | s6-rc: info: service 04-nqptp successfully started \n     shairport-sync_kitchen      | Starting nqptp \n     shairport-sync_kitchen      | Starting dbus \n     shairport-sync_kitchen      | s6-rc: info: service syslogd-prepare successfully started \n     shairport-sync_kitchen      | s6-rc: info: service syslogd-log: starting \n     | s6-rc: info: service syslogd-log successfully started \n     shairport-sync_kitchen      | s6-rc: info: service syslogd: starting \n     shairport-sync_kitchen      | s6-rc: info: service syslogd successfully started"
+  },
+  {
+    "rank": 4,
+    "id": "msg_246593f0d1fa91525aa65a711e677fccb4c8ba3cadbad78b50fe5454c1607bf8",
+    "score": 20.491652,
+    "link": "https://stackoverflow.com/questions/76691545",
+    "source": "so",
+    "origin_doc_id": "55802993c82ceab9a4624781e2bca27ccc47b189b19b993b178393efe5c380f2",
+    "snippet": "\"google-startup-scripts.service\"  \n Jul  9 21:56:44 trainer systemd[1]: google-startup-scripts.service: Succeeded. \n Jul 11 10:27:56 trainer systemd[1]: google-startup-scripts.service: Succeeded. \nJul 12 06:03:35 trainer systemd[1]: google-startup-scripts.service: Succeeded.\nJul 13 10:27:53 trainer systemd[1]: google-startup-scripts.service: Succeeded.\nJul 14 10:27:53 trainer systemd[1]: google-startup-scripts.service: Succeeded.\nJul 14 20:54:12 trainer systemd[1]: google-startup-scripts.service: Succeeded.\nJul 14 21:55:45 debian systemd[1]: google-startup-scripts.service: Succeeded.\nJul 14 21:55:45 debian systemd[1]: google-startup-scripts.service: Unit process 1038 (screen) remains running after unit stopped.\nJul 14 22:16:28 debian systemd[1]: google-startup-scripts.service: Succeeded.\nJul 14 22:16:28 debian systemd[1]: google-startup-scripts.service: Unit process 1012 (screen) remains running after unit stopped.\nJul 14 22:33:32 trainer systemd[1]: google-startup-scripts.service: Succeeded.\nJul 14 22:40:55 debian systemd[1]: google-startup-scripts.service: Succeeded.\nJul 14 22:40:55 debian systemd[1]: google-startup-scripts.service: Unit process 1049 (screen) remains running after unit stopped."
+  },
+  {
+    "rank": 5,
+    "id": "msg_315799ac7c55b546204c46beac3b1e7109048b905000750c12b7ba28ac0d5094",
+    "score": 20.012644,
+    "link": "https://github.com/felddy/weewx-docker/issues/16",
+    "source": "github",
+    "origin_doc_id": "8e98acdae9f5e71cd5452dee336112557a8f9534192f2e75fc97433e60d04c28",
+    "snippet": "Jun  3 08:48:46 syslogd started: BusyBox v1.30.1 \n Jun  3 08:48:46 syslogd started: BusyBox v1.30.1 \n Jun  3 08:48:46 syslogd started: BusyBox v1.30.1 \n Jun  3 08:48:46 syslogd started: BusyBox v1.30.1 \nJun  3 08:48:46 syslogd started: BusyBox v1.30.1\nJun  3 08:48:46 syslogd started: BusyBox v1.30.1\nJun  3 08:48:46 syslogd started: BusyBox v1.30.1\nJun  3 08:48:46 syslogd started: BusyBox v1.30.1\nJun  3 08:48:46 syslogd started: BusyBox v1.30.1\nJun  3 08:48:46 syslogd started: BusyBox v1.30.1\nJun  3 08:48:46 syslogd started: BusyBox v1.30.1\nJun  3 08:48:46 syslogd started: BusyBox v1.30.1\nJun  3 08:48:46 syslogd started: BusyBox v1.30.1\nJun  3 08:48:46 syslogd started: BusyBox v1.30.1\nJun  3 08:48:46 syslogd started: BusyBox v1.30.1\nJun  3 08:48:47 syslogd started: BusyBox v1.30.1\nJun  3 08:48:47 syslogd started: BusyBox v1.30.1\nJun  3 08:48:47 syslogd started: BusyBox v1.30.1\nJun  3 08:48:47 syslogd started: BusyBox v1.30.1\nJun  3 08:48:47 syslogd started: BusyBox v1.30.1\nJun  3 08:48:47 syslogd started: BusyBox v1.30.1\nJun  3 08:48:47 syslogd started: BusyBox v1.30.1\nJun  3 08:48:47 syslogd started: BusyBox v1.30.1\nJun  3 08:48:47 syslogd started: BusyBox v1.30.1\nJun  3 08:48:47 syslogd started: BusyBox v1.30.1 \n Jun  3 08:48:47 syslogd started: BusyBox v1.30.1 \n Jun  3 08:48:47 syslogd started: BusyBox v1.30.1 \n Jun  3 08:48:47 syslogd started: BusyBox v1.30.1 \n Jun  3 08:48:47 syslogd started: BusyBox v1.30.1 \n Jun  3 08:48:47 syslogd started: BusyBox v1.30.1"
+  },
+  {
+    "rank": 6,
+    "id": "msg_f2a39e9e5a1afa39edd197446130baa382247422f567f2787d4e39ff252f74d5",
+    "score": 19.721182,
+    "link": "https://stackoverflow.com/questions/11572157",
+    "source": "so",
+    "origin_doc_id": "d3259530c8a68c39effafeb1e259a2db236643d59912d61ff80318f463370bdf",
+    "snippet": "'syslogd' process is not running \n 'syslogd' trying to restart \n 'syslogd' start: /etc/init.d/sysklogd"
+  },
+  {
+    "rank": 7,
+    "id": "msg_ae7f1bdfe283ed18b09863dedd6b2a1f20cc3ea44aaf9eface7445a35007c03b",
+    "score": 19.3145,
+    "link": "https://github.com/troglobit/sysklogd/issues/34",
+    "source": "github",
+    "origin_doc_id": "70a75f1cfa8b7497528f5156871800bb66ecc1004c274a7be6a74834a57cf3c2",
+    "snippet": "Sun May 16 15:04:02 UTC 2021 \n May 16 08:42:55 buildroot syslogd[1050]: syslogd v2.2.3: restart. \n May 16 15:04:02 buildroot syslogd[1050]: syslogd v2.2.3: restart."
+  },
+  {
+    "rank": 8,
+    "id": "msg_8d563f593d65de6c57331363db0fb9243761b87ef6aefd5188be2963b458ca59",
+    "score": 18.788326,
+    "link": "https://stackoverflow.com/questions/73174828",
+    "source": "so",
+    "origin_doc_id": "f1a6ed8880ba0be1a958a15c4f5c4b7dbcd65250f19635cd76521abf877052f4",
+    "snippet": "Jul 30 12:11:56 **** syslogd[55934]: --- syslogd restarted --- \n Jul 30 12:11:56 **** syslogd[55934]: Configuration Notice: \n     ASL Module \"com.apple.contacts.ContactsAutocomplete\" claims selected messages."
+  },
+  {
+    "rank": 9,
+    "id": "msg_5bee07ded6125e56715055e4dbe6a2238a6de9c91e627922d88c916b2d518ee7",
+    "score": 18.788326,
+    "link": "https://github.com/troglobit/sysklogd/issues/9",
+    "source": "github",
+    "origin_doc_id": "784871a61a00a09e917f3ef6fca3fda94d8b376ade64f4a0f6237032ff06b133",
+    "snippet": "`Dec  7 11:56:24 jue syslogd[3431]: syslogd v2.0.3: restart` \n `Dec  7 12:01:16 jue syslogd[3522]: klog read(): Bad file descriptor`"
+  },
+  {
+    "rank": 10,
+    "id": "msg_16f782d9eb2aeff4fe922b2380959abac8d95340d5d6c0f78b4f81d1e2204bbc",
+    "score": 18.698246,
+    "link": "https://github.com/troglobit/sysklogd/issues/34",
+    "source": "github",
+    "origin_doc_id": "70a75f1cfa8b7497528f5156871800bb66ecc1004c274a7be6a74834a57cf3c2",
+    "snippet": "`May 15 11:18:42 jue syslogd[32090]: syslogd v2.2.2: restart.`"
+  }
+]

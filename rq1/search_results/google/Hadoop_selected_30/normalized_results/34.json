@@ -1,0 +1,147 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Solved: Datanode starts but doesn't connect to namenode",
+    "link": "https://community.cloudera.com/t5/Support-Questions/Datanode-starts-but-doesn-t-connect-to-namenode/td-p/133899",
+    "displayed_link": "https://community.cloudera.com › td-p",
+    "snippet": "I installed a 2 node hadoop cluster. The master and slave node starts separately but the datanode isn't shown in namenode webUI. The log file for datanode ...",
+    "snippet_highlighted_words": [
+      "starts"
+    ],
+    "source": "Cloudera",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "loghub/Hadoop/Hadoop_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Hadoop/Hadoop_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Hadoop",
+    "snippet": "... ipc.Server: IPC Server listener on 62260: starting. 2015-10-18 18:01:51,885 ... ipc.Server: IPC Server listener on 62270: starting. 2015-10-18 18:01 ...",
+    "snippet_highlighted_words": [
+      "IPC Server listener on 62260: starting"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "BackHome/TSM V520",
+    "link": "https://etinet.com/wp-content/uploads/2025/05/ETI-NET-Messages-Manual.pdf",
+    "displayed_link": "https://etinet.com › ETI-NET-Messages-Manual",
+    "snippet": "remote server is not started or is drained. The LU might be in RETRY. Reason codes are documented in the. VTAM messages and codes manual under the section ...",
+    "snippet_highlighted_words": [
+      "server",
+      "started"
+    ],
+    "source": "ETI-NET",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "DataNode cannot connect with Name Node - \"org.apache. ...",
+    "link": "https://stackoverflow.com/questions/57678636/datanode-cannot-connect-with-name-node-org-apache-hadoop-ipc-client-retrying",
+    "displayed_link": "1 answer · 6 years ago",
+    "snippet": "Hello guys, I solved the issue using the IP address for the hdfs-site.xml file, change mapred-site.xml and yarn-site.xml properly. 2019-09- ...",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Hadoop: DataNode not starting - Mark Needham",
+    "link": "https://www.markhneedham.com/blog/2016/07/22/hadoop-datanode-not-starting/",
+    "displayed_link": "https://www.markhneedham.com › blog › 2016/07/22",
+    "snippet": "I eventually realised, from looking at the output of jps , that the DataNode wasn't actually starting up which explains the error message I was ...",
+    "snippet_highlighted_words": [
+      "starting"
+    ],
+    "source": "markhneedham.com",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "sles-15-sp4-sap-v20230322-x86-64 Package Source ...",
+    "link": "https://publiccloudimagechangeinfo.suse.com/google/sles-15-sp4-sap-v20230322-x86-64/package_changelogs.html",
+    "displayed_link": "https://publiccloudimagechangeinfo.suse.com › google",
+    "snippet": "- Start using _multibuild for cross binutils. (forward port from SLE) - Update binutils-2.38-branch.diff.gz (to c210342d7f5) to include recognition of 'z16' ...",
+    "snippet_highlighted_words": [
+      "Start"
+    ],
+    "source": "SUSE",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "BIND exception in NameNode - java",
+    "link": "https://stackoverflow.com/questions/25707666/bind-exception-in-namenode",
+    "displayed_link": "11 years ago",
+    "snippet": "... ipc.Server.bind(Server.java:422) at org.apache.hadoop.ipc.Server$Listener ... Error in starting namenode in Hadoop · 10. What is the meaning ...",
+    "snippet_highlighted_words": [
+      "ipc",
+      "Server",
+      "Server",
+      "ipc",
+      "Server",
+      "Listener",
+      "starting"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Full text of \"Catalog of Copyright Entries, Third Series. Part ...",
+    "link": "https://archive.org/stream/catalogofcopyrig3511libr/catalogofcopyrig3511libr_djvu.txt",
+    "displayed_link": "https://archive.org › stream",
+    "snippet": "Catalog of Copyright Entries, Third Series. Volume 5, Part 11B, Number 1. Commercial Prints and Labels. January-June 1951.",
+    "snippet_highlighted_words": [],
+    "source": "Internet Archive",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Error while starting hadoop daemons (ConnectionRefused ...",
+    "link": "https://stackoverflow.com/questions/34149090/error-while-starting-hadoop-daemons-connectionrefused-and-exitcodeexception",
+    "displayed_link": "3 answers · 10 years ago",
+    "snippet": "If you are using same config parameters in ExitCodeException while staring namenode mentioned in the post, you should specify resource ...",
+    "snippet_highlighted_words": [],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "华测北斗CORS系统getshell,敏感信息泄漏| wooyun-2015-0152869 ...",
+    "link": "http://wooyun.2xss.cc/bug_detail.php?wybug_id=wooyun-2015-0152869",
+    "displayed_link": "http://wooyun.2xss.cc › bug_detail",
+    "snippet": "IPC$ ?端IPC ADMIN$ C:\\Windows ?端管理命令已?成功 ... SQL Server (SQLEXPRESS) SQL Server Browser SQL ... **:62260 ESTABLISHED 9124. TCP ...",
+    "snippet_highlighted_words": [
+      "IPC",
+      "IPC",
+      "Server",
+      "Server",
+      "62260"
+    ],
+    "source": "2xss.cc",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_31d198588f4afdec5a8cd181bf4e20b2a9464d1b7fdab0b2706175ad04d823b8",
+    "score": 47.58547,
+    "link": "https://github.com/microsoft/vscode-docker/issues/2044",
+    "source": "github",
+    "origin_doc_id": "85dfc3604a7183e2ca1fa89c7a31944eda00527a2526b2a2a85c4561e43286a6",
+    "snippet": "input_userauth_request: invalid user username%40internal.domain [preauth]`"
+  },
+  {
+    "rank": 2,
+    "id": "msg_ddd692d3b5a3a650527413b4144268ff1d30223845f0f97fb9188f5d758a3cbf",
+    "score": 47.509933,
+    "link": "https://stackoverflow.com/questions/21809383",
+    "source": "so",
+    "origin_doc_id": "be63c87f9d156d0e589fe71b0fa4e64ddaae0d03eec7c15bfcefbeef23d90d92",
+    "snippet": "Invalid user liao from xxx.xxx.x.xxx \n input_userauth_request: invalid user liao [preauth] \n Received disconnect from xxx.xxx.x.xxx: Bye Bye [preauth]"
+  },
+  {
+    "rank": 3,
+    "id": "msg_5a40ff73f1d2bf89523022a93691bf30bad484e13113ceb71c236feee6b78964",
+    "score": 46.42239,
+    "link": "https://github.com/microsoft/vscode-docker/issues/2044",
+    "source": "github",
+    "origin_doc_id": "85dfc3604a7183e2ca1fa89c7a31944eda00527a2526b2a2a85c4561e43286a6",
+    "snippet": "`sshd[116842]: input_userauth_request: invalid user username%40internal.domain [preauth]`"
+  },
+  {
+    "rank": 4,
+    "id": "msg_663f3ae4a523d4f419c8e5acbc50a277597db1e9a68738bf0a93be6488b4ca5e",
+    "score": 45.923737,
+    "link": "https://stackoverflow.com/questions/29061025",
+    "source": "so",
+    "origin_doc_id": "5eb6b68fb27026082db575f495cfdb23ba772fc2793d3c619e2fbc07539c901f",
+    "snippet": "*User git not allowed because account is locked \n *input_userauth_request: invalid user git [preauth] \n *Connection closed by IP.IP.IP.IP [preauth]"
+  },
+  {
+    "rank": 5,
+    "id": "msg_2e3477dd78f6293856b848c96308f81115bed5b6559dca35426aba7f4d8605a7",
+    "score": 45.432724,
+    "link": "https://stackoverflow.com/questions/55355982",
+    "source": "so",
+    "origin_doc_id": "c58ae928c14eda4e8e61be281b56c74d2939ae6f5259ee4157428b905ffbbeae",
+    "snippet": "Dec 10 06:55:46 LabSZ sshd[24200]: reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT! \n Dec 10 06:55:46 LabSZ sshd[24200]: Invalid user webmaster from 173.234.31.186 \n Dec 10 06:55:46 LabSZ sshd[24200]: input_userauth_request: invalid user webmaster [preauth] \n Dec 10 06:55:46 LabSZ sshd[24200]: pam_unix(sshd:auth): check pass; user unknown \n Dec 10 06:55:46 LabSZ sshd[24200]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.234.31.186  \n Dec 10 06:55:48 LabSZ sshd[24200]: Failed password for invalid user webmaster from 173.234.31.186 port 38926 ssh2 \n Dec 10 06:55:48 LabSZ sshd[24200]: Connection closed by 173.234.31.186 [preauth] \n Dec 10 07:02:47 LabSZ sshd[24203]: Connection closed by 212.47.254.145 [preauth] \nDec 10 07:07:38 LabSZ sshd[24206]: Invalid user test9 from 52.80.34.196\nDec 10 07:07:38 LabSZ sshd[24206]: input_userauth_request: invalid user test9 [preauth]\nDec 10 07:07:38 LabSZ sshd[24206]: pam_unix(sshd:auth): check pass; user unknown"
+  },
+  {
+    "rank": 6,
+    "id": "msg_d50014aba69b056acea24c823a29179577d8137dc1fb9d535ae1569941a8ac2a",
+    "score": 44.78061,
+    "link": "https://stackoverflow.com/questions/44399393",
+    "source": "so",
+    "origin_doc_id": "a64319af45180cb164843bbfa6de6395978580d1f9e474fd15f639be7f62dcaf",
+    "snippet": "input_userauth_request: invalid user USERNAME [preauth] \n  In my config (/etc/ssh/sshd_config)"
+  },
+  {
+    "rank": 7,
+    "id": "msg_147b618695f7ba8c428524fed4b2537cd09a75a4ad04df0788a43fdd6a09574a",
+    "score": 43.916374,
+    "link": "https://github.com/BeyondTrust/pbis-open/issues/273",
+    "source": "github",
+    "origin_doc_id": "306787bcd87db05d54f0fb89dbadc6368c1d9d554dc5142d10d48ca259d44117",
+    "snippet": "2020-01-30T23:01:04.487222+05:30 6 sshd[62548]:  input_userauth_request: invalid user <user> [preauth]"
+  },
+  {
+    "rank": 8,
+    "id": "msg_243d9e03396e9cb121da284f1a8be4b4cafde8c7c7c87ce041a14e58fc6f3bfb",
+    "score": 43.75651,
+    "link": "https://stackoverflow.com/questions/23173252",
+    "source": "so",
+    "origin_doc_id": "8ce651a3c43838949ee55a8a6124768bcb4b8d71424f6703e237d8432c1cb2b0",
+    "snippet": "server sshd[2834]: Invalid user git-noah from localip \n server sshd[2834]: input_userauth_request: invalid user git-noah [preauth]"
+  },
+  {
+    "rank": 9,
+    "id": "msg_2e07a1f3ab18eada0c2db6496183b670319d5d9d043eb8fa53c4a6a1afc6e135",
+    "score": 43.749115,
+    "link": "https://github.com/deis/deis/issues/3448",
+    "source": "github",
+    "origin_doc_id": "f71d258b4d9a1f03bda13068e675e5c316c33bdb32ef11d69ff3d93552e173c7",
+    "snippet": "2015-04-20T19:00:19UTC deis-builder[1]: input_userauth_request: invalid user ferrell [preauth]"
+  },
+  {
+    "rank": 10,
+    "id": "msg_49ff315bd1d471242cfe27769d316f90fb7298092297b538145f8de3ed89f283",
+    "score": 43.749115,
+    "link": "https://github.com/deis/deis/issues/3448",
+    "source": "github",
+    "origin_doc_id": "f71d258b4d9a1f03bda13068e675e5c316c33bdb32ef11d69ff3d93552e173c7",
+    "snippet": "2015-04-20T19:00:22UTC deis-builder[1]: input_userauth_request: invalid user ferrell [preauth]"
+  }
+]

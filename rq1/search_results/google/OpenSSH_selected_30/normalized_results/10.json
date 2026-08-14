@@ -1,0 +1,141 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "ssh server config - input_userauth_request: invalid user",
+    "link": "https://serverfault.com/questions/665587/ssh-server-config-input-userauth-request-invalid-user",
+    "displayed_link": "https://serverfault.com › questions › ssh-server-config-i...",
+    "snippet": "At the moment your sshd configuration has no authentication methods enabled, thus it's impossible for sshd to authenticate users.",
+    "snippet_highlighted_words": [
+      "users"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Permission denied but publickey added on server?",
+    "link": "https://stackoverflow.com/questions/44399393/permission-denied-but-publickey-added-on-server",
+    "displayed_link": "1 answer · 8 years ago",
+    "snippet": "input_userauth_request: invalid user USERNAME [preauth]. Means that the user does not exist on the server. Is it a local user or a user from ...",
+    "snippet_highlighted_words": [
+      "input_userauth_request",
+      "invalid user",
+      "preauth"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Unable to login with local user via ssh with error ...",
+    "link": "https://access.redhat.com/solutions/4952131",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Unable to login with local user via ssh with error \"input_userauth_request: invalid user\". Solution Verified - Updated January 26 2026 at 5 ...",
+    "snippet_highlighted_words": [
+      "input_userauth_request",
+      "invalid user"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Invalid users trying to log in to my server",
+    "link": "https://security.stackexchange.com/questions/21027/invalid-users-trying-to-log-in-to-my-server",
+    "displayed_link": "https://security.stackexchange.com › questions › invalid...",
+    "snippet": "I'm seeing a lot of log entries that appear to be failed login attempts from unknown IP addresses. I am using private and public keys to log in with SSH.",
+    "snippet_highlighted_words": [],
+    "source": "Information Security Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "SSH is refusing me (all of a sudden)",
+    "link": "https://askubuntu.com/questions/891404/ssh-is-refusing-me-all-of-a-sudden",
+    "displayed_link": "https://askubuntu.com › questions › ssh-is-refusing-me-...",
+    "snippet": "I have a Ubuntu 14.04 server which has automatic security updates enabled. SSH is configured with the following options: Port 22, PermitRootLogin no, ...",
+    "snippet_highlighted_words": [],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "LoggingDrain/miner_test.go at master - PalanQu ...",
+    "link": "https://github.com/PalanQu/LoggingDrain/blob/master/miner_test.go",
+    "displayed_link": "https://github.com › PalanQu › LoggingDrain › blob",
+    "snippet": "... input_userauth_request: invalid user test9 [preauth]\",. \"Dec 10 07:08:28 LabSZ sshd[24208]: input_userauth_request: invalid user webmaster [preauth]\",. \"Dec ...",
+    "snippet_highlighted_words": [
+      "input_userauth_request: invalid user test9 [preauth"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "ssh PasswordAuthentication scheme + Kerberos = invalid ...",
+    "link": "https://www.linuxquestions.org/questions/linux-software-2/ssh-passwordauthentication-scheme-kerberos-%3D-invalid-user-4175558969/",
+    "displayed_link": "https://www.linuxquestions.org › linux-software-2 › ssh-...",
+    "snippet": "input_userauth_request: invalid user servicenow [preauth]. So I created a local user on the server, used that and we had success. So somehow ...",
+    "snippet_highlighted_words": [
+      "input_userauth_request",
+      "invalid user",
+      "preauth"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "DevOps Classroomnotes 03/Mar/2022",
+    "link": "https://directdevops.blog/2022/03/03/devops-classroomnotes-03-mar-2022/",
+    "displayed_link": "https://directdevops.blog › 2022/03/03 › devops-classro...",
+    "snippet": "... Invalid user test9 from 52.80.34.196. Dec 10 07:07:38 LabSZ sshd[24206]: input_userauth_request: invalid user test9 [preauth] Dec 10 07:07:38 ...",
+    "snippet_highlighted_words": [
+      "input_userauth_request: invalid user test9 [preauth"
+    ],
+    "source": "directdevops.blog",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "input_userauth_request: invalid user on FreeIPA server",
+    "link": "https://lists.fedoraproject.org/archives/list/freeipa-users@lists.fedorahosted.org/thread/DBCGWFGAYW7ZKGQZJJAKLZEIFWWSH5ID/",
+    "displayed_link": "https://lists.fedoraproject.org › archives › list › thread",
+    "snippet": "We have one FreeIPA server and several clients. The ssh connection works well on clients, however this is not working on the server itslef.",
+    "snippet_highlighted_words": [],
+    "source": "Fedora mailing-lists",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "AIOps-NanKai / data / Log-OpenSSH · 极狐GitLab",
+    "link": "https://www.aiops.cn/gitlab/aiops-nankai/data/log-openssh/-/blob/9becb0306931bf29805539c79da68ac338c65997/OpenSSH_2k.log",
+    "displayed_link": "https://www.aiops.cn › ... › 仓库",
+    "snippet": "Dec 10 06:55:46 LabSZ sshd[24200]: Invalid user webmaster from 173.234.31.186 Dec 10 06:55:46 LabSZ sshd[24200]: input_userauth_request ... [preauth] Dec 10 06:55: ...",
+    "snippet_highlighted_words": [
+      "input_userauth_request ... [preauth"
+    ],
+    "source": "OpenAIOps社区",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "using udev rules create and remove device node on a ...",
+    "link": "https://stackoverflow.com/questions/40673336/using-udev-rules-create-and-remove-device-node-on-a-kernel-module-load-and-unloa",
+    "displayed_link": "2 answers · 9 years ago",
+    "snippet": "Trying to figure out the udev rules that can automatically create a device node when I insert a particular kernel module and remove the device node when the ...",
+    "snippet_highlighted_words": [
+      "udev",
+      "device node",
+      "remove",
+      "device node"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "boot takes 2 minutes, udev is culprit ? help needed ...",
+    "link": "https://forums.gentoo.org/viewtopic.php?t=841446",
+    "displayed_link": "https://forums.gentoo.org › ... › Kernel & Hardware",
+    "snippet": "I have activated some debug trace (don't remember how) and now I see zillions of lines displayed regarding udev-adm and udev-work detecting devices. ... '/devices ...",
+    "snippet_highlighted_words": [
+      "udev",
+      "udev",
+      "devices",
+      "'/devices"
+    ],
+    "source": "Gentoo Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "udev - Automatically remove a device from /dev",
+    "link": "https://unix.stackexchange.com/questions/532699/automatically-remove-a-device-from-dev",
+    "displayed_link": "https://unix.stackexchange.com › questions › automatic...",
+    "snippet": "I am having keyboard problems, with a laptop built in keyboard. I have an external keyboard, so wish to disable the internal one.",
+    "snippet_highlighted_words": [],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Possible Problems with udev on Raspberry Pi",
+    "link": "https://blog.prolixium.com/2023/04/23/possible-problems-with-udev-on-raspberry-pi/",
+    "displayed_link": "https://blog.prolixium.com › 2023/04/23 › possible-prob...",
+    "snippet": "The fix here is to not upgrade udev by itself (I only did this as a test) but always upgrade that and the kernel at the same time.",
+    "snippet_highlighted_words": [
+      "udev"
+    ],
+    "source": "Prolixium",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Removing udev?",
+    "link": "https://www.linuxquestions.org/questions/linux-software-2/removing-udev-341395/",
+    "displayed_link": "https://www.linuxquestions.org › linux-software-2 › rem...",
+    "snippet": "udev manges the device nodes in /dev. It automaticlly creates and removes them as you plugin, remove hardware. It's not necessary, but if ...",
+    "snippet_highlighted_words": [
+      "udev manges the device nodes in /dev"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Disable device node using udev (/dev/sr0) - ubuntu",
+    "link": "https://superuser.com/questions/693155/disable-device-node-using-udev-dev-sr0",
+    "displayed_link": "https://superuser.com › questions › disable-device-node...",
+    "snippet": "udev has no option to stop a device node in /dev from being created. In fact, latest udev versions don't even do that anymore.",
+    "snippet_highlighted_words": [
+      "udev has no option to stop a device node in /dev from being created"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "How to remove an udev rule for an `sd` device ?",
+    "link": "https://access.redhat.com/solutions/876243",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "1. Remove the entry within the rule 2. Delete the device from the system: # echo 1 > /sys/block/$DEVICE/delete 3. Have san admin unzone target",
+    "snippet_highlighted_words": [
+      "1. Remove the entry within the rule"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Managing System Devices With udev",
+    "link": "https://docs.oracle.com/cd/G40711_01/udev/OL10-UDEV.pdf",
+    "displayed_link": "https://docs.oracle.com › udev › OL10-UDEV",
+    "snippet": "Oracle Linux 10: Managing Devices with Udev describes how the udev device manager dynamically creates or removes device node files according to rules.",
+    "snippet_highlighted_words": [
+      "udev device manager dynamically creates or removes device node files"
+    ],
+    "source": "Oracle Help Center",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "[SOLVED] UDEV Rule - change device node group",
+    "link": "https://bbs.archlinux.org/viewtopic.php?id=134090",
+    "displayed_link": "https://bbs.archlinux.org › Kernel & Hardware",
+    "snippet": "I am having problems getting a working udev rule to change the group for my touchscreen input device nodes. I need to do this as the nodes are currently only ...",
+    "snippet_highlighted_words": [
+      "udev",
+      "device nodes"
+    ],
+    "source": "Arch Linux Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Udev rule to create node for character device when loading ...",
+    "link": "https://askubuntu.com/questions/651638/udev-rule-to-create-node-for-character-device-when-loading-module",
+    "displayed_link": "https://askubuntu.com › questions › udev-rule-to-create...",
+    "snippet": "I've created scripts (and marked them as executable for all) to create and remove node: $ cat /usr/share/another_folder/make_node.sh #!/bin/sh mknod /dev/ ...",
+    "snippet_highlighted_words": [
+      "remove node"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

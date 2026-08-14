@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_08bb161ea463af28b8d58e26e8e84b6c20f6f4f4be4406b372f9d9fa7ba72a45",
+    "score": 33.51353,
+    "link": "https://github.com/rust-lang/rust/pull/60435",
+    "source": "github",
+    "origin_doc_id": "9011f3a2a5ac6d0df7b8003598cfa0ba59ab6d2d360a2c4e0ba15fd67858cabd",
+    "snippet": "[00:01:21] Importing GPG key 0xE8562897 \"CentOS-5 Key (CentOS 5 Official Signing Key) <hzdkv@example.com>\" from /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5"
+  },
+  {
+    "rank": 2,
+    "id": "msg_d10b25f8294eea9988a2e116406b9b27a6b6cb01410aac75d57791b4842b3a2a",
+    "score": 33.51353,
+    "link": "https://github.com/rust-lang/rust/pull/50200",
+    "source": "github",
+    "origin_doc_id": "21c8e640b83333271d34003977c0b43e1ad54bbf685bd65b85c0e28695879fd6",
+    "snippet": "[00:00:45] Importing GPG key 0xE8562897 \"CentOS-5 Key (CentOS 5 Official Signing Key) <hzdkv@example.com>\" from /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5"
+  },
+  {
+    "rank": 3,
+    "id": "msg_3da1aff4177311e04dc8fd9b3a9fc8fd62d40f905c458a52ec10a85584d9579f",
+    "score": 33.51353,
+    "link": "https://github.com/rust-lang/rust/pull/50200",
+    "source": "github",
+    "origin_doc_id": "21c8e640b83333271d34003977c0b43e1ad54bbf685bd65b85c0e28695879fd6",
+    "snippet": "[00:00:45] Importing GPG key 0xE8562897 \"CentOS-5 Key (CentOS 5 Official Signing Key) <dycjh@example.com>\" from /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5"
+  },
+  {
+    "rank": 4,
+    "id": "msg_ade7a5d3269bb792e1a8e1627679e00c6318c29af2566bf43fc0139697d0e36f",
+    "score": 33.51353,
+    "link": "https://github.com/rust-lang/rust/pull/50200",
+    "source": "github",
+    "origin_doc_id": "21c8e640b83333271d34003977c0b43e1ad54bbf685bd65b85c0e28695879fd6",
+    "snippet": "[00:00:46] Importing GPG key 0xE8562897 \"CentOS-5 Key (CentOS 5 Official Signing Key) <dycjh@example.com>\" from /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5"
+  },
+  {
+    "rank": 5,
+    "id": "msg_155753a9dc0c6d2fbbbb7f5e8019aa0d2a78c2fdb6ebb01b862181e01256d1e1",
+    "score": 33.51353,
+    "link": "https://github.com/rust-lang/rust/pull/50200",
+    "source": "github",
+    "origin_doc_id": "21c8e640b83333271d34003977c0b43e1ad54bbf685bd65b85c0e28695879fd6",
+    "snippet": "[00:00:46] Importing GPG key 0xE8562897 \"CentOS-5 Key (CentOS 5 Official Signing Key) <hzdkv@example.com>\" from /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5"
+  },
+  {
+    "rank": 6,
+    "id": "msg_631020600d1fb79a92f73602a1e496b27b497d2ac8d4b2ea4c67a4bd717bdc47",
+    "score": 33.51353,
+    "link": "https://github.com/rust-lang/rust/pull/51207",
+    "source": "github",
+    "origin_doc_id": "df9338ce66d3d380a143848f69b1b15dca97ff907a61db07055c093ffc7b1255",
+    "snippet": "[00:00:56] Importing GPG key 0xE8562897 \"CentOS-5 Key (CentOS 5 Official Signing Key) <dycjh@example.com>\" from /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5"
+  },
+  {
+    "rank": 7,
+    "id": "msg_e5a373d758719ce3adc0d377c72fee55b5644237d2a394b51a8b3d3c3e58ff8d",
+    "score": 33.51353,
+    "link": "https://github.com/rust-lang/rust/pull/51207",
+    "source": "github",
+    "origin_doc_id": "df9338ce66d3d380a143848f69b1b15dca97ff907a61db07055c093ffc7b1255",
+    "snippet": "[00:01:06] Importing GPG key 0xE8562897 \"CentOS-5 Key (CentOS 5 Official Signing Key) <dycjh@example.com>\" from /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5"
+  },
+  {
+    "rank": 8,
+    "id": "msg_0796f1d5642aa9a56bf3d7602a1137d616c40b9a32696dd1888e2d4587d35ac8",
+    "score": 33.51353,
+    "link": "https://github.com/rust-lang/rust/pull/51207",
+    "source": "github",
+    "origin_doc_id": "df9338ce66d3d380a143848f69b1b15dca97ff907a61db07055c093ffc7b1255",
+    "snippet": "[00:00:42] Importing GPG key 0xE8562897 \"CentOS-5 Key (CentOS 5 Official Signing Key) <efpyi@example.com>\" from /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5"
+  },
+  {
+    "rank": 9,
+    "id": "msg_0ac80ebb3bb399fcfcec613547053bd41f10e46bd3b6043cb5217042140efca8",
+    "score": 33.51353,
+    "link": "https://github.com/rust-lang/rust/pull/51207",
+    "source": "github",
+    "origin_doc_id": "df9338ce66d3d380a143848f69b1b15dca97ff907a61db07055c093ffc7b1255",
+    "snippet": "[00:00:42] Importing GPG key 0xE8562897 \"CentOS-5 Key (CentOS 5 Official Signing Key) <ychag@example.com>\" from /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5"
+  },
+  {
+    "rank": 10,
+    "id": "msg_40fceb9530ca175bca263c831aa5b577b37928eea835d04f638e5a196f4c433d",
+    "score": 33.51353,
+    "link": "https://github.com/rust-lang/rust/pull/59054",
+    "source": "github",
+    "origin_doc_id": "aa3ab295fcd54da702859e7bc8611400cd0c4e360b1433e94721be2e518735cc",
+    "snippet": "[00:01:22] Importing GPG key 0xE8562897 \"CentOS-5 Key (CentOS 5 Official Signing Key) <hzdkv@example.com>\" from /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5"
+  }
+]

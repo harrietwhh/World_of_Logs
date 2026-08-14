@@ -1,0 +1,188 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "loghub/Linux/Linux_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Linux/Linux_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Linux",
+    "snippet": "Jun 14 15:16:01 combo sshd(pam_unix)[19939]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 Jun 14 15:16:02 combo ...",
+    "snippet_highlighted_words": [
+      "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "redmojo7/linux_2k · Datasets at Hugging Face",
+    "link": "https://huggingface.co/datasets/redmojo7/linux_2k",
+    "displayed_link": "https://huggingface.co › datasets › redmojo7",
+    "snippet": "Jun 15 12:12:34 combo sshd(pam_unix) 23412.0 authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4. authentication failure ...",
+    "snippet_highlighted_words": [
+      "authentication failure"
+    ],
+    "source": "Hugging Face",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Cyber Threat Analyzer Using LLMs and Cloud | by Surya G",
+    "link": "https://medium.com/@suryagsnair/cyber-threat-analyzer-using-llms-and-cloud-5fb39fb80b4c",
+    "displayed_link": "https://medium.com › ...",
+    "snippet": "Jan 04 15:16:01 combo sshd(pam_unix)[19939]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4 ... user cyrus by (uid=0)",
+    "snippet_highlighted_words": [
+      "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4"
+    ],
+    "source": "Medium",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "linuxstructuredlogs",
+    "link": "https://www.kaggle.com/datasets/omghorpade21/linuxstructuredlogs",
+    "displayed_link": "https://www.kaggle.com › datasets › omghorpade21 › li...",
+    "snippet": "... 218.188.2.4 E16 authentication ... E18 authentication failure; logname= uid=0 euid=0 tty=NODEVssh ... 0 euid=0 tty=NODEVssh ruser= rhost=<*>. lightbulb ...",
+    "snippet_highlighted_words": [
+      "218.188.2.4",
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh",
+      "euid",
+      "0 tty",
+      "NODEVssh ruser",
+      "rhost"
+    ],
+    "source": "Kaggle",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "logsentinelai",
+    "link": "https://pypi.org/project/logsentinelai/",
+    "displayed_link": "https://pypi.org › project › logsentinelai",
+    "snippet": "LogSentinelAI is an AI-powered cybersecurity tool that leverages LLM with Declarative Extraction to analyze security events, anomalies, and errors from various ...",
+    "snippet_highlighted_words": [
+      "LogSentinelAI"
+    ],
+    "source": "PyPI",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "anomaly-detection-linux-log-sample.ipynb",
+    "link": "https://github.com/qfunction-ai/ai-anomaly-detection/blob/main/anomaly-detection-linux-log-sample.ipynb",
+    "displayed_link": "https://github.com › ai-anomaly-detection › blob › main",
+    "snippet": "... 0 tty=NODEVssh ruser= rhost=218.188.2.4 \\n'. In [107]:. import re logs ... authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost ...",
+    "snippet_highlighted_words": [
+      "tty",
+      "NODEVssh ruser",
+      "rhost",
+      "218.188.2.4",
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh ruser",
+      "rhost"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "DevOps Classroomnotes 18/Dec/2022",
+    "link": "https://directdevops.blog/2022/12/18/devops-classroomnotes-18-dec-2022/",
+    "displayed_link": "https://directdevops.blog › 2022/12/18 › devops-classro...",
+    "snippet": "Consider the following log. Jun 14 15:16:01 combo sshd(pam_unix)[19939]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser ...",
+    "snippet_highlighted_words": [
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh ruser"
+    ],
+    "source": "directdevops.blog",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Linux Logs",
+    "link": "https://www.kaggle.com/datasets/ggsri123/linux-logs/versions/1",
+    "displayed_link": "https://www.kaggle.com › datasets › linux-logs › versions",
+    "snippet": "... logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66 user=guest Jun 21 08:56:36 combo sshd(pam_unix)[14282]: authentication failure; logname= uid=0 ...",
+    "snippet_highlighted_words": [
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh ruser",
+      "rhost",
+      "authentication failure",
+      "logname",
+      "uid",
+      "0"
+    ],
+    "source": "Kaggle",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "TWSLA (TWSNMP's Simple Log Analyzer)",
+    "link": "https://twsnmp.github.io/twsla/README-ja.html",
+    "displayed_link": "https://twsnmp.github.io › twsla › R...",
+    "snippet": "Jun 14 15:16:01 combo sshd(pam_unix)[19939]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4. のようなファイルです ...",
+    "snippet_highlighted_words": [
+      "authentication failure",
+      "logname",
+      "uid",
+      "0 euid",
+      "0 tty",
+      "NODEVssh ruser",
+      "rhost",
+      "218.188.2.4"
+    ],
+    "source": "GitHub Pages documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Local LLMs: What Do They Know? Do They Know Things ...",
+    "link": "https://nryn.dev/blog/day11/",
+    "displayed_link": "https://nryn.dev › blog › day11",
+    "snippet": "... 0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4. Qwen's thoughts. Okay ... The main thing that stands out is the repeated “authentication failure” ...",
+    "snippet_highlighted_words": [
+      "0 euid",
+      "0 tty",
+      "NODEVssh ruser",
+      "rhost",
+      "218.188.2.4",
+      "authentication failure"
+    ],
+    "source": "nryn.dev",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

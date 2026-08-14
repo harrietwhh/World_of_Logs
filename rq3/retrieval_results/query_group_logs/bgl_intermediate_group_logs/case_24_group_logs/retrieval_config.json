@@ -1,0 +1,21 @@
+{
+  "mode": "bgl_case",
+  "case_id": "24",
+  "query_source": "group_logs",
+  "query_count": 2,
+  "queries": [
+    "1969920 double-hummer alignment exceptions",
+    "2016000 double-hummer alignment exceptions"
+  ],
+  "log_message": "",
+  "search_api_url": "http://129.97.92.71:8000/api/search",
+  "mongo_uri": "mongodb://127.0.0.1:27017",
+  "mongo_db": "WoL_v2",
+  "mongo_collection": "WoL_v2",
+  "search_timeout_sec": 8,
+  "external_context_max_desc": 10,
+  "retrieved_origin_doc_id_count": 10,
+  "retrieved_candidate_count": 10,
+  "output_dir": "intermediate_group_logs/case_24_group_logs",
+  "generated_at_utc": "2026-03-14T02:14:36.826505+00:00"
+}

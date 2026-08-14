@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_31213868be4539966642f6942c725f5382c29c28c77ebdd09636dc94fa4e3211",
+    "score": 42.175148,
+    "link": "https://github.com/chef-partners/knife-vsphere/issues/438",
+    "source": "github",
+    "origin_doc_id": "0f41c508d5dcf6e52e4032557bdd51a8c74d24ceb4a304d7305e271c6ccf7d82",
+    "snippet": "| ts \n job 12 at Fri Jun 29 15:51:00 2018 \n Jun 27 15:51:55 Reboot virtual machine host1 \n Jun 27 15:51:55 Waiting for port 22...done \n Jun 27 15:51:55 host1 DONE\njob 13 at Fri Jun 29 15:54:00 2018 \n Jun 27 15:54:06 Reboot virtual machine host2  \n Jun 27 15:54:06 Waiting for port 22...done \n Jun 27 15:54:07 host2 DONE \n job 14 at Fri Jun 29 15:56:00 2018 \n Jun 27 15:56:24 Reboot virtual machine host3 \n Jun 27 15:56:24 Waiting for port 22...done \n Jun 27 15:56:24 host3 DONE \n ````"
+  },
+  {
+    "rank": 2,
+    "id": "msg_30b00b5589ad4ab4bca1ce0ba9d60fbece19f1cfb1905613828673419532d032",
+    "score": 40.97516,
+    "link": "https://stackoverflow.com/questions/44324412",
+    "source": "so",
+    "origin_doc_id": "d14d94148ce3a55872a973d1f4b692fd9a202c4531c8f281f08fb72de0b2301b",
+    "snippet": "lCurrentTime = Fri Jun  2 10:32:53 2017      \n l15MinsAGo = Fri Jun  2 10:17:53 2017      \n lEffDate = Fri Jun  2 10:07:00 2017 \n Eff date Fri Jun  2 10:07:00 2017 is larger than 15 mins ago Fri Jun  2 10:17:53 2017"
+  },
+  {
+    "rank": 3,
+    "id": "msg_7387183c980201aa91f52d034f2fffe64c65aab1ccd0876800e9d648a1a7e844",
+    "score": 39.601093,
+    "link": "https://github.com/Exa-Networks/exabgp/issues/431",
+    "source": "github",
+    "origin_doc_id": "ec2937ce991e0dd8882a50da2821ee1cf3f76e5d06e7dff90a5a2afe5d2cac3d",
+    "snippet": "Fri, 24 Jun 2016 11:54:06 | INFO     | 5202   | reactor       | New peer setup: neighbor 127.0.0.1 local-ip 127.0.0.1 local-as 64512 peer-as 64512 router-id 10.164.1.77 family-allowed in-open \n Fri, 24 Jun 2016 11:54:06 | INFO     | 5202   | configuration | Loaded new configuration successfully \n Fri, 24 Jun 2016 11:54:06 | INFO     | 5202   | processes     | Forked process addroutes \n Fri, 24 Jun 2016 11:54:07 | INFO     | 5202   | processes     | Command from process addroutes : announce route 10.255.255.8/32 next-hop 10.164.1.77 label [ 800005 800007 800006 800008 ] \n Fri, 24 Jun 2016 11:54:07 | INFO     | 5202   | reactor       | Route added to neighbor 127.0.0.1 local-ip 127.0.0.1 local-as 64512 peer-as 64512 router-id 10.164.1.77 family-allowed in-open : 10.255.255.8/32 next-hop 10.164.1.77 label [ 800005 800007 800006 800008 ] \n Fri, 24 Jun 2016 11:54:06 | INFO     | 5202   | reactor       | New peer setup: neighbor 127.0.0.1 local-ip 127.0.0.1 local-as 64512 peer-as 64512 router-id 10.164.1.77 family-allowed in-open \n Fri, 24 Jun 2016 11:54:06 | INFO     | 5202   | configuration | Loaded new configuration successfully \n Fri, 24 Jun 2016 11:54:06 | INFO     | 5202   | processes     | Forked process addroutes \nFri, 24 Jun 2016 11:54:07 | INFO     | 5202   | processes     | Command from process addroutes : announce route 10.255.255.8/32 next-hop 10.164.1.77 label [ 800005 800007 800006 800008 ]\nFri, 24 Jun 2016 11:54:07 | INFO     | 5202   | reactor       | Route added to neighbor 127.0.0.1 local-ip 127.0.0.1 local-as 64512 peer-as 64512 router-id 10.164.1.77 family-allowed in-open : 10.255.255.8/32 next-hop 10.164.1.77 label [ 800005 800007 800006 800008 ]Fri, 24 Jun 2016 11:54:06 | INFO     | 5202   | reactor       | New peer setup: neighbor 127.0.0.1 local-ip 127.0.0.1 local-as 64512 peer-as 64512 router-id 10.164.1.77 family-allowed in-open\nFri, 24 Jun 2016 11:54:06 | INFO     | 5202   | configuration | Loaded new configuration successfully\nFri, 24 Jun 2016 11:54:06 | INFO     | 5202   | processes     | Forked process addroutes\nFri, 24 Jun 2016 11:54:07 | INFO     | 5202   | processes     | Command from process addroutes : announce route 10.255.255.8/32 next-hop 10.164.1.77 label [ 800005 800007 800006 800008 ]\nFri, 24 Jun 2016 11:54:07 | INFO     | 5202   | reactor       | Route added to neighbor 127.0.0.1 local-ip 127.0.0.1 local-as 64512 peer-as 64512 router-id 10.164.1.77 family-allowed in-open : 10.255.255.8/32 next-hop 10.164.1.77 label [ 800005 800007 800006 800008 ]Fri, 24 Jun 2016 11:54:06 | INFO     | 5202   | reactor       | New peer setup: neighbor 127.0.0.1 local-ip 127.0.0.1 local-as 64512 peer-as 64512 router-id 10.164.1.77 family-allowed in-open\nFri, 24 Jun 2016 11:54:06 | INFO     | 5202   | configuration | Loaded new configuration successfully\nFri, 24 Jun 2016 11:54:06 | INFO     | 5202   | processes     | Forked process addroutes\nFri, 24 Jun 2016 11:54:07 | INFO     | 5202   | processes     | Command from process addroutes : announce route 10.255.255.8/32 next-hop 10.164.1.77 label [ 800005 800007 800006 800008 ]\nFri, 24 Jun 2016 11:54:07 | INFO     | 5202   | reactor       | Route added to neighbor 127.0.0.1 local-ip 127.0.0.1 local-as 64512 peer-as 64512 router-id 10.164.1.77 family-allowed in-open : 10.255.255.8/32 next-hop 10.164.1.77 label [ 800005 800007 800006 800008 ]\ngenerating \n ``` \n 0000 002B 4001 0100 4002 0040 0504 0000 0064 800E 1A00 0104 040A A401 4D00 80C3 5050 C350 70C3 5060 C350 810A FFFF 08 \n ``` \n decoded as"
+  },
+  {
+    "rank": 4,
+    "id": "msg_9c116623300570640157d8c5be923a485fc385f819560533346d87f48d4914c4",
+    "score": 38.982918,
+    "link": "https://github.com/brettwooldridge/HikariCP/issues/1111",
+    "source": "github",
+    "origin_doc_id": "4c1abebf28b48404a8dc16fa18a77f143598d382d8d395ee1a4d6874db295898",
+    "snippet": "spring.datasource.hikari.registerMbeans=true \n ERROR Message: \n 8760b748-662d-4434-9c79-15cf8dc44b82 1 Fri Jun 21 2019 07:24:27.261 \tat com.zaxxer.hikari.pool.HikariPool.getConnection(HikariPool.java:190) ~[HikariCP-3.2.0.jar!/:na] \n 8760b748-662d-4434-9c79-15cf8dc44b82 1 Fri Jun 21 2019 07:24:27.261 \tat com.zaxxer.hikari.pool.HikariPool.createTimeoutException(HikariPool.java:676) ~[HikariCP-3.2.0.jar!/:na] \n 8760b748-662d-4434-9c79-15cf8dc44b82 1 Fri Jun 21 2019 07:24:27.261 Caused by: java.sql.SQLTransientConnectionException: SpringBootJPAHikariCP - Connection is not available, request timed out after 20000ms."
+  },
+  {
+    "rank": 5,
+    "id": "msg_e1a2a05c64250935449edc4aa18e941944c99aed1e507834b8f3d10d0dfe5bac",
+    "score": 38.96081,
+    "link": "https://issues.apache.org/jira/browse/AMQ-277",
+    "source": "jira",
+    "origin_doc_id": "0b0517896b1b6e316ab18b65eefd216497e5c6ababbc15536fcc565691b4bef1",
+    "snippet": "shutdown \n      [java] Received: Message: 0 sent at: Sat Jun 25 22:07:20 CEST 2005 ... \n      [java] Received: Message: 1 sent at: Sat Jun 25 22:07:20 CEST 2005 ... \n      [java] Received: Message: 2 sent at: Sat Jun 25 22:07:20 CEST 2005 ... \n      [java] Received: Message: 3 sent at: Sat Jun 25 22:07:20 CEST 2005 ... \n      [java] Received: Message: 4 sent at: Sat Jun 25 22:07:20 CEST 2005 ... \n     [java] Received: Message: 5 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] Received: Message: 6 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] Received: Message: 7 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] Received: Message: 8 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] Received: Message: 9 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] Received: Message: 10 sent at: Sat Jun 25 22:07:20 CEST 2005...\n     [java] Received: Message: 0 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] 22:07:20,770 WARN  [TransportChannelSupport] No Packet found to match Receipt correlationId: 1\n     [java] Received: Message: 11 sent at: Sat Jun 25 22:07:20 CEST 2005...\n     [java] Received: Message: 1 sent at: Sat Jun 25 22:07:20 CEST 2005 ...\n     [java] 22:07:20,810 WARN  [TransportChannelSupport] No Packet found to match Receipt correlationId: 3\n     [java] Received: Message: 12 sent at: Sat Jun 25 22:07:20 CEST 2005...\n     [java] Received: Message: 13 sent at: Sat Jun 25 22:07:20 CEST 2005..."
+  },
+  {
+    "rank": 6,
+    "id": "msg_788597d0832c2d72d60f966f09261aac6292b0f3b318064747bf37194fbc38cf",
+    "score": 38.623394,
+    "link": "https://github.com/Azure/azure-iot-sdks/issues/604",
+    "source": "github",
+    "origin_doc_id": "4c81764a2243e49a722e61d5965f164ced803ddafa06b7cc264445a80643094e",
+    "snippet": "Fri, 03 Jun 2016 07:13:34 GMT amqp10:connection Error from socket: Error: read ECONNRESET \n Fri, 03 Jun 2016 07:13:34 GMT amqp10:client connection error:  { [Error: read ECONNRESET] code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' } \n Fri, 03 Jun 2016 07:13:34 GMT amqp-common Error received from node-amqp10: read ECONNRESET \n Fri, 03 Jun 2016 07:13:34 GMT amqp10:client disconnected \n Fri, 03 Jun 2016 07:13:34 GMT amqp10:link Force-detach for /devices/000000001f2d1e93/messages/devicebound_1ceb6d05-160f-40f0-aabe-c08659e95242. Current state: attached \n Fri, 03 Jun 2016 07:13:34 GMT amqp10:link /devices/000000001f2d1e93/messages/devicebound_1ceb6d05-160f-40f0-aabe-c08659e95242:0: Transitioning from ATTACHED to DETACHED due to forceDetach \nFri, 03 Jun 2016 07:13:34 GMT amqp10:connection Transitioning from OPENED to DISCONNECTED due to error \n More details in the"
+  },
+  {
+    "rank": 7,
+    "id": "msg_4453e97954daac23edf7ef71e9e152c050d72e73e865ff166fb0ba6469b8e8ea",
+    "score": 38.542824,
+    "link": "https://github.com/ganeti/ganeti/issues/1236",
+    "source": "github",
+    "origin_doc_id": "282aa89dfcfe1a98cc5aa51445b5375b348d3469c83c3483496af4e6249c8ca4",
+    "snippet": "2016-06-24 17:05:01,989: gnt-backup export pid=179732 cli:1218 DEBUG Command line: gnt-backup export -d -n node1 instance1 \n Fri Jun 24 17:05:02 2016 Shutting down instance instance1.intranet.domain.com \n Fri Jun 24 17:05:07 2016 Creating a snapshot of disk/0 on node node1.intranet.domain.com \n Fri Jun 24 17:05:07 2016 Starting instance instance1.intranet.domain.com \n Fri Jun 24 17:05:08 2016 Exporting snapshot/0 from node1.intranet.domain.com to node1.intranet.domain.com \n Fri Jun 24 17:05:11 2016 snapshot/0 is now listening, starting export \nFri Jun 24 17:05:13 2016 snapshot/0 finished receiving data\nFri Jun 24 17:05:13 2016  - WARNING: export 'export-disk0-2016-06-24_17_05_12-YArFHA' on node1.intranet.domain.com failed: Exited with status 1\nFri Jun 24 17:05:13 2016 snapshot/0 failed to send data: Exited with status 1 (recent output: )\nFri Jun 24 17:05:13 2016 Removing snapshot of disk/0 on node node1.intranet.domain.com\nFri Jun 24 17:05:14 2016  - WARNING: Some disk exports have failed; there may be leftover data for instance instance1.intranet.domain.com on node node1.intranet.domain.com"
+  },
+  {
+    "rank": 8,
+    "id": "msg_5cdcb068b5edf3b8c9c4c0280eaa3894a6df567d086ad2251230908222e50cba",
+    "score": 37.961792,
+    "link": "https://stackoverflow.com/questions/51067194",
+    "source": "so",
+    "origin_doc_id": "bc89afdb342084e4b4d1b9984e122425f838ffd1865db417d5c490a41f1ddf69",
+    "snippet": "Fri, Jul 20, 2018 at 07:00:00 PM\nFri, Oct 19, 2018 at 07:00:00 PM\nFri, Jan 18, 2019 at 07:00:00 PM\nFri, Apr 19, 2019 at 07:00:00 PM\nFri, Jul 19, 2019 at 07:00:00 PM\nFri, Oct 18, 2019 at 07:00:00 PM\nFri, Jan 17, 2020 at 07:00:00 PM\nFri, Apr 17, 2020 at 07:00:00 PM\nFri, Jul 17, 2020 at 07:00:00 PM\nFri, Oct 16, 2020 at 07:00:00 PM"
+  },
+  {
+    "rank": 9,
+    "id": "msg_90c23c8fc6249e5c1f438c816bad72d191676bd6d82ea9e959bac62fb09de167",
+    "score": 36.809017,
+    "link": "https://jira.mongodb.org/browse/SERVER-9846",
+    "source": "jira",
+    "origin_doc_id": "34d6019c7694f5da3683e3c98f0114ba085e051a3ab6c70ccfeb9dceefd4b593",
+    "snippet": "Fri Jun 07 23:04:56.207 [replslave] DBClientCursor::init call() failed \n Fri Jun 07 23:04:56.207 [replslave]   repl: dbclient::query returns null (conn closed?) \n Fri Jun 07 23:04:56.207 [replslave] repl: sleep 3 sec before next pass \n Fri Jun 07 23:04:59.207 [replslave] repl: syncing from host:localhost:37017 \n Fri Jun 07 23:05:30.395 [replslave] Socket recv() timeout  127.0.0.1:37017 \n Fri Jun 07 23:05:30.395 [replslave] SocketException: remote: 127.0.0.1:37017 error: 9001 socket exception [3] server [127.0.0.1:37017] \n Fri Jun 07 23:05:30.395 [replslave] DBClientCursor::init call() failed \n Fri Jun 07 23:05:30.395 [replslave]   repl: dbclient::query returns null (conn closed?) \nFri Jun 07 23:05:30.395 [replslave] repl: sleep 3 sec before next pass \n Fri Jun 07 23:05:33.395 [replslave] repl: syncing from host:localhost:37017 \n Fri Jun 07 23:06:04.660 [replslave] Socket recv() timeout  127.0.0.1:37017 \n Fri Jun 07 23:06:04.660 [replslave] SocketException: remote: 127.0.0.1:37017 error: 9001 socket exception [3] server [127.0.0.1:37017] \n Fri Jun 07 23:06:04.660 [replslave] DBClientCursor::init call() failed \n Fri Jun 07 23:06:04.660 [replslave]   repl: dbclient::query returns null (conn closed?) \n Fri Jun 07 23:06:04.660 [replslave] repl: sleep 3 sec before next pass \n Fri Jun 07 23:06:07.660 [replslave] repl: syncing from host:localhost:37017\n\nFri Jun 07 23:02:25.520 [replslave] repl:   checkpoint applied 1320 operations\nFri Jun 07 23:02:25.520 [replslave] repl:   syncedTo: Jun 07 23:02:25 51b2acd1:a\nFri Jun 07 23:03:26.004 [replslave] repl:   checkpoint applied 1410 operations\nFri Jun 07 23:03:26.004 [replslave] repl:   syncedTo: Jun 07 23:03:25 51b2ad0d:15\nFri Jun 07 23:04:27.098 [replslave] repl:   checkpoint applied 1440 operations\nFri Jun 07 23:04:27.098 [replslave] repl:   syncedTo: Jun 07 23:04:26 51b2ad4a:11\nFri Jun 07 23:05:28.567 [replslave] repl:   checkpoint applied 1440 operations\nFri Jun 07 23:05:28.567 [replslave] repl:   syncedTo: Jun 07 23:05:28 51b2ad88:6\nFri Jun 07 23:06:29.785 [replslave] repl:   checkpoint applied 1470 operations\nFri Jun 07 23:06:29.785 [replslave] repl:   syncedTo: Jun 07 23:06:29 51b2adc5:9"
+  },
+  {
+    "rank": 10,
+    "id": "msg_4c7f0b603ee80374fd539933968ecb6157e59d8fc58492347cfadcda5bb89945",
+    "score": 36.640186,
+    "link": "https://stackoverflow.com/questions/11792898",
+    "source": "so",
+    "origin_doc_id": "f139b4ee85a1e01a61729846f60ac945180339c4b9a74d71c9f32f9dde60c29e",
+    "snippet": "starting at: Fri Aug 03 17:07:20 2012 \n start loopstart loop  01  at:at:  Fri Aug 03 17:07:20 2012Fri Aug 03 17:07:20 20 \n\n loop 1 done at: Fri Aug 03 17:07:22 2012 \n loop 0 done at: Fri Aug 03 17:07:24 2012 \n all done at: Fri Aug 03 17:07:24 2012"
+  }
+]

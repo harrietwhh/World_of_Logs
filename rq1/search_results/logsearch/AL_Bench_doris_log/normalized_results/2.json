@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_ee3cbcef6955d0613741f3080ce065913a1d091b26f0dfc5f95e9260b0392b05",
+    "score": 45.386047,
+    "link": "https://github.com/StarRocks/flink-connector-starrocks/issues/36",
+    "source": "github",
+    "origin_doc_id": "5ffab8169e012b1e8095d89128dc156cf84c63b6ea3c61b038df6353b5cfd177",
+    "snippet": "LOG.error(String.format(\"Stream Load response:  \n %s \n \", JSON.toJSONString(loadResult)));"
+  },
+  {
+    "rank": 2,
+    "id": "msg_1f5bf06e8ba34b4feb59e24e43f67ab95098a3bde53672a2ae0b0486085d0ab0",
+    "score": 30.598625,
+    "link": "https://github.com/alibaba/fastjson/issues/1647",
+    "source": "github",
+    "origin_doc_id": "d20cf07b894453ae512625a92e2ab42d16f3448fa99c1ae74358823b969803ff",
+    "snippet": "log.debug(JSON.toJSONString(params));"
+  },
+  {
+    "rank": 3,
+    "id": "msg_166043215126f13330eae267bb6d1c7f29c5f1cc4081138550cbb97d704608f0",
+    "score": 30.212631,
+    "link": "https://github.com/apache/shardingsphere/issues/9250",
+    "source": "github",
+    "origin_doc_id": "47185ce07b4fd6259917631d4df2a270b385b14cb2bc655f4a3618128913b38d",
+    "snippet": "log.debug(\"get click table name by columnNameAndShardingValuesMap:{}\", JSON.toJSONString(columnNameAndShardingValuesMap));\nlog.debug(\"get click table name by columnNameAndRangeValuesMap:{}\", JSON.toJSONString(columnNameAndRangeValuesMap));\nlog.info(\"click table column crc's values:{}\", crc);"
+  },
+  {
+    "rank": 4,
+    "id": "msg_7ed4aa6271e64e29c0b3e59fc83f3104fca4c914999aa8f108670c191e63f838",
+    "score": 26.862648,
+    "link": "https://stackoverflow.com/questions/74178382",
+    "source": "so",
+    "origin_doc_id": "2502c0906efde38b6a3fe2a290acc1d35ca3579a21837d1bc22b17fba8bbe6c3",
+    "snippet": "log.info(\"pay request param:{}\", JSON.toJSONString(requestVO));\nlog.info(\"pay response param:{}\", JSON.toJSONString(vo));"
+  },
+  {
+    "rank": 5,
+    "id": "msg_872c35f15fb75b736919bf974374df8f81ea8cb80867f880d67f03ab27960671",
+    "score": 26.46492,
+    "link": "https://github.com/apache/shardingsphere/issues/9250",
+    "source": "github",
+    "origin_doc_id": "47185ce07b4fd6259917631d4df2a270b385b14cb2bc655f4a3618128913b38d",
+    "snippet": "log.debug(\"get click tables:{}\", JSON.toJSONString(availableTargetNameList));\nlog.error(\"get click table name waste time:{}ms\", timeRegion);"
+  },
+  {
+    "rank": 6,
+    "id": "msg_acc260c76a0596849990581412728b785eb36c6c0ec4b8f7b940e57ece07530e",
+    "score": 23.881592,
+    "link": "https://stackoverflow.com/questions/53759807",
+    "source": "so",
+    "origin_doc_id": "aa691207f237ebf6b29b77fbfd6d4c10b15bf3e2df96330a07ec3156f5114dd6",
+    "snippet": "log.warn(\"executionId:\" + executionId + \" bulk end => tookInMillis:\" + response.getTookInMillis());\nlog.warn(\"executionId:\" + executionId + \" bulk end => response:\" + JSON.toJSONString(response));"
+  },
+  {
+    "rank": 7,
+    "id": "msg_94c116a4036c24e75c7264fa7427a353ff1f94ecf679a4ea77876cc5ed3a895c",
+    "score": 22.780836,
+    "link": "https://github.com/sharding-sphere/sharding-sphere/issues/1052",
+    "source": "github",
+    "origin_doc_id": "d161333574dc9780c09a82c4aebe1116d9752374a4d7c29ea207f9dd610735c7",
+    "snippet": "logger.info(\"Range availableTargetNames:\" + JSON.toJSONString(availableTargetNames) + \",shardingValue:\" + JSON.toJSONString(shardingValue));\nlogger.info(\"availableTargetNames:\" + JSON.toJSONString(availableTargetNames) + \",preciseShardingValue:\" + JSON.toJSONString(shardingValue));"
+  },
+  {
+    "rank": 8,
+    "id": "msg_367208990eb0aac91e71e137b5ec7cac95ec9b4c6f8cf4e057ccc08fe97cc23d",
+    "score": 22.3205,
+    "link": "https://github.com/alibaba/fastjson/issues/3126",
+    "source": "github",
+    "origin_doc_id": "52ef40582c5fe4ef2bea6cf379162df7b60ddad1f3be18d07862bb4110eff34a",
+    "snippet": "\"+JSON.toJSONString(l1)); \n \t\tSystem.out.println(\"l1: \"+JSON.toJSONString(l1,SerializerFeature.DisableCircularReferenceDetect)); \n \t\tSystem.out.println(\"l2: \"+JSON.toJSONString(l2));"
+  },
+  {
+    "rank": 9,
+    "id": "msg_09aeff3aa24ef4a258eb63d73823f8b22425376faba39dc2641ec7a45ebba0af",
+    "score": 22.242392,
+    "link": "https://stackoverflow.com/questions/71654165",
+    "source": "so",
+    "origin_doc_id": "1e0bcb4eff1db3d7aae277b2bad0f34302cdf2ba0ae467e2bff48e3f394586cb",
+    "snippet": "loadResult <- loadFile filename"
+  },
+  {
+    "rank": 10,
+    "id": "msg_9073b4df5e445630de16b0ae0360caf043e243c2bfb437d0493c1425db351b67",
+    "score": 21.956596,
+    "link": "https://github.com/aws/aws-sdk-net/issues/1748",
+    "source": "github",
+    "origin_doc_id": "8e3ce60d9e77d1fd88c93c0ecd258ab5d3a3baf490c96d075abddb697d441c21",
+    "snippet": "Console.WriteLine(\"Loaded Result: \" + loadResult);"
+  }
+]

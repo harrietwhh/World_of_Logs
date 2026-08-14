@@ -1,0 +1,47 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "‎Display hangs after the \"Starting HAL daemon\" shows OK",
+    "link": "https://www.dell.com/community/PowerEdge-OS-Forum/Display-hangs-after-the-quot-Starting-HAL-daemon-quot-shows-OK/td-p/2284965",
+    "displayed_link": "https://www.dell.com › ... › PowerEdge OS Forum",
+    "snippet": "ACPI: DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000. No NUMA configuration found. Faking a node at 0000000000000000 ...",
+    "snippet_highlighted_words": [
+      "DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e"
+    ],
+    "source": "Dell",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "loghub/Thunderbird/Thunderbird_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Thunderbird/Thunderbird_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Thunderbird",
+    "snippet": "... DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000 - 1131567043 2005.11.09 tbird-admin1 Nov 9 12:10:43 local@tbird-admin1 ACPI: FADT (v001 ...",
+    "snippet_highlighted_words": [
+      "DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "https://huggingface.co/swardiantara/MultiSource-fu...",
+    "link": "https://huggingface.co/swardiantara/MultiSource-full-crk5-m0.5-e5-b128-L6/commit/5df13d3c9f3f5a075a39794faa286d26e250b591.diff?file=random_k5_positive_pairs.json",
+    "displayed_link": "https://huggingface.co › swardiantara › commit",
+    "snippet": "... Microsoft ... (v001 DELL PE BKC MSFT <*>) @\", + \"message\": \"HPET (v001 DELL PE BKC 0x00000001 ... DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ ...",
+    "snippet_highlighted_words": [
+      "v001 DELL PE BKC MSFT",
+      "v001 DELL PE BKC 0x00000001",
+      "DSDT",
+      "v001 DELL PE BKC 0x00000001 MSFT 0x0100000e"
+    ],
+    "source": "Hugging Face",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

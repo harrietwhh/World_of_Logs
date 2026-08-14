@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_97da87386d89bd5195d9a9bc655c0b591a6d8eb8b15f4e81c3d8e2cdc3c06f59",
+    "score": 23.776274,
+    "link": "https://github.com/apache/tez/pull/94",
+    "source": "github",
+    "origin_doc_id": "0df011271a42dffc6e2b29b3cdcd77bed294c60232b55ad2c82600e5818a671f",
+    "snippet": "\"\"Executing with tokens: {}\", credentials.getAllTokens()\""
+  },
+  {
+    "rank": 2,
+    "id": "msg_90339b185e267ff3299221288c75e8ecb84d0ac3e71ae0a45782de4c5f2406fa",
+    "score": 22.899017,
+    "link": "https://stackoverflow.com/questions/65779689",
+    "source": "so",
+    "origin_doc_id": "46c4e96be012ccda008d86282bee32e633c028eaf4071ee5731a306a8dc17736",
+    "snippet": "\"message\": \"2015-10-18 18:01:48,963 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Executing with tokens:\" \n             \n\"2015-10-18 18:01:48,963 INFO [main] org.apache.hadoop.mapreduce.v2.app.MRAppMaster: Executing with tokens:\"\nDeprecation: this request accesses"
+  },
+  {
+    "rank": 3,
+    "id": "msg_eec171492e55dcfcff13aa5dec6441804e5b78d82fbaf6f29910cd18d21380cd",
+    "score": 21.814228,
+    "link": "https://issues.apache.org/jira/browse/MAPREDUCE-7254",
+    "source": "jira",
+    "origin_doc_id": "3642fb6e4eab49f43601abe2d6838f95f510e1a20b2e6c9b7f3658c89cf84900",
+    "snippet": "2019-12-24 18:29:58,380 INFO mapreduce.JobSubmitter: Executing with tokens: []"
+  },
+  {
+    "rank": 4,
+    "id": "msg_621acf1ae23f8d9e8232d31fef3395b6770e1b871bef93dc315abd488d85e596",
+    "score": 21.814228,
+    "link": "https://issues.apache.org/jira/browse/HDDS-637",
+    "source": "jira",
+    "origin_doc_id": "3bf2eb2ce3a78513daff0c4b368ac8f350dc1a157f81e2e69c2b234cf22011c6",
+    "snippet": "18/10/12 01:00:28 INFO mapreduce.JobSubmitter: Executing with tokens: []"
+  },
+  {
+    "rank": 5,
+    "id": "msg_955318b92fd01f91cea8c5dcf4dd5ab4d610fd111246b172ce2ed541d107e025",
+    "score": 21.814228,
+    "link": "https://issues.apache.org/jira/browse/HADOOP-15615",
+    "source": "jira",
+    "origin_doc_id": "41386f7114f03568ff13dd4ab3f1b6833b8a9dba342bfd47cf34c96d97bc9292",
+    "snippet": "2018-07-18 11:08:19,318 INFO mapreduce.JobSubmitter: Executing with tokens: []"
+  },
+  {
+    "rank": 6,
+    "id": "msg_139008e25ea9c0104f0787763f9f2f3d36687c6aa0ccf88e2db309256507c45f",
+    "score": 21.814228,
+    "link": "https://issues.apache.org/jira/browse/HDDS-624",
+    "source": "jira",
+    "origin_doc_id": "2325851955df123933e43f7564de7d184ec436a364f10975dd67e5f67c19c965",
+    "snippet": "18/10/11 00:14:44 INFO mapreduce.JobSubmitter: Executing with tokens: []"
+  },
+  {
+    "rank": 7,
+    "id": "msg_501ba7bf2956d9ece1b711bf7e114eaf070508d6857d0d99ec54605bac560fcb",
+    "score": 21.814228,
+    "link": "https://issues.apache.org/jira/browse/HDFS-14869",
+    "source": "jira",
+    "origin_doc_id": "bf9e571d010b9eb64d9ce4414ec5b2aff835d154b4acff38ca41bb0f51060724",
+    "snippet": "19/09/24 07:05:34 INFO mapreduce.JobSubmitter: Executing with tokens: []"
+  },
+  {
+    "rank": 8,
+    "id": "msg_7a976118341dfe7300a2a254ac8667935d8c911531724c474ca88436d3eec835",
+    "score": 21.814228,
+    "link": "https://jira.spring.io/browse/XD-2585",
+    "source": "jira",
+    "origin_doc_id": "610816aee90ea1f3be86a463cee6a89ff614af1e1ff6c5f50edb5678c97d4177",
+    "snippet": "2015-01-12 20:21:55,965 INFO [ConfigurationFactoryBean] - Executing with tokens:"
+  },
+  {
+    "rank": 9,
+    "id": "msg_cd13c2db60dd0af0827901b37a4eff9f1b4a11ca5a40358744b987be17a78988",
+    "score": 21.814228,
+    "link": "https://issues.apache.org/jira/browse/HDDS-674",
+    "source": "jira",
+    "origin_doc_id": "76cc87eb20b5a11b6e46c3a9baee2eefae9b530b7676c43b85246c8961f49a9e",
+    "snippet": "18/10/17 00:21:18 INFO mapreduce.JobSubmitter: Executing with tokens: []"
+  },
+  {
+    "rank": 10,
+    "id": "msg_aaec5dba381e505d0b8e6649d368de4d567d49a3e34d23d8f64ffb7942e5534d",
+    "score": 21.814228,
+    "link": "https://issues.apache.org/jira/browse/HIVE-25567",
+    "source": "jira",
+    "origin_doc_id": "7c08c0e990a0ef76e235687b692a803eaf1ea112788969a5ff64610c55c42994",
+    "snippet": "21/09/28 09:54:16 INFO mapreduce.JobSubmitter: Executing with tokens: []"
+  }
+]

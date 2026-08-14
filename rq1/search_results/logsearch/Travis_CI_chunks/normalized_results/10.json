@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_6807beb9bd2613ad2e7a1e58a536622b463049b5116aca54655b35a7b9a850d1",
+    "score": 256.60892,
+    "link": "https://github.com/NancyFx/Nancy/issues/2964",
+    "source": "github",
+    "origin_doc_id": "0270f16180c62a40c762c7ac0bbd5818811555409c2d7c988b6cbfb66ba080ef",
+    "snippet": "**C:\\git\\NancyFX\\src\\Nancy\\Nancy.csproj : error  : The project file cannot be opened by the project system, because it is missing some critical imports or the referenced SDK cannot be found.** \n Detailed Information: \n **Unable to locate the .NET Core SDK. Check that it is installed and that the version specified in global.json (if any) matches the installed version.**"
+  },
+  {
+    "rank": 2,
+    "id": "msg_a998c42202699897ac5fef4ab9458ebe50267770945749f2484c339be07b83b8",
+    "score": 254.69772,
+    "link": "https://github.com/NancyFx/Nancy/pull/2098",
+    "source": "github",
+    "origin_doc_id": "cbfaaa9b2bf459e0298ffc2dc8dcd399659409ba280beda1b0048c092ede1f80",
+    "snippet": "`D, [2015-11-01T19:51:28.019649 #28204] DEBUG -- : Executing XUnit: \"/home/travis/build/NancyFx/Nancy/tools/xunit/xunitmono.sh\" src/Nancy.Authentication.Basic.Tests/bin/MonoRelease/Nancy.Authentication.Basic.Tests.dll  \n System.TypeLoadException: Could not load type 'Xunit.Sdk.XunitTestFrameworkDiscoverer, xunit.execution.desktop, Version=2.1.0.3179, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c'.`"
+  },
+  {
+    "rank": 3,
+    "id": "msg_158a8288d883e8073cd8fd955c25c13e1df8874d0f0764d358e517856ecfa4ce",
+    "score": 241.8883,
+    "link": "https://github.com/NancyFx/Nancy/issues/2563",
+    "source": "github",
+    "origin_doc_id": "3753448d976a3f718de566747dba301ae547a2f013b2978f4409f1361f9e11a4",
+    "snippet": "Prerequisites \n - [ x] I have written a descriptive issue title \n - [x ] I have verified that I am running the latest version of Nancy \n - [x ] I have verified if the problem exist in both `DEBUG` and `RELEASE` mode \n - [x ] I have searched [open](https://github.com/NancyFx/Nancy/issues) and [closed](https://github.com/NancyFx/Nancy/issues?q=is%3Aissue+is%3Aclosed) issues to ensure it has not already been reported"
+  },
+  {
+    "rank": 4,
+    "id": "msg_0b20563fe4c0f9b42af06a79f8460543c674396fa6713f5b6fab9c66ee402247",
+    "score": 241.8883,
+    "link": "https://github.com/NancyFx/Nancy/issues/2911",
+    "source": "github",
+    "origin_doc_id": "e40f8f416a60e2002b03d2e7f4cbe9a6c72c175691790082abbf962c82cd4634",
+    "snippet": "Prerequisites \n - [x] I have written a descriptive issue title \n - [x] I have verified that I am running the latest version of Nancy \n - [x] I have verified if the problem exist in both `DEBUG` and `RELEASE` \n - [x] I have searched [open](https://github.com/NancyFx/Nancy/issues) and [closed](https://github.com/NancyFx/Nancy/issues?q=is%3Aissue+is%3Aclosed) issues to ensure it has not already been reported"
+  },
+  {
+    "rank": 5,
+    "id": "msg_9dbbf6d20f52b02549e13c2734f06bd0292314ee9b805db3b0eb579872a9cea5",
+    "score": 241.8883,
+    "link": "https://github.com/NancyFx/Nancy/issues/2638",
+    "source": "github",
+    "origin_doc_id": "086e65a5c22a07d36cba1b3e507a63b22ba8b81e3091af9230d754bd5a347c12",
+    "snippet": "### Prerequisites \n - [x ] I have written a descriptive issue title \n - [x ] I have verified that I am running the latest version of Nancy \n - [x ] I have verified if the problem exist in both `DEBUG` and `RELEASE` mode \n - [x ] I have searched [open](https://github.com/NancyFx/Nancy/issues) and [closed](https://github.com/NancyFx/Nancy/issues?q=is%3Aissue+is%3Aclosed) issues to ensure it has not already been reported"
+  },
+  {
+    "rank": 6,
+    "id": "msg_8a27e8325811a1e9796d7a8b9d27e2c3efb881614e31e9a83ff9f231aad37708",
+    "score": 241.8883,
+    "link": "https://github.com/NancyFx/Nancy/issues/2510",
+    "source": "github",
+    "origin_doc_id": "5fa2e67167b44ab25b1f0c428dbd4c011cc0f6118edd74db838c9211f54c7817",
+    "snippet": "Prerequisites \n - [x] I have written a descriptive issue title \n - [x] I have verified that I am running the latest version of Nancy \n - [ ] I have verified if the problem exist in both `DEBUG` and `RELEASE` mode \n - [x] I have searched [open](https://github.com/NancyFx/Nancy/issues) and [closed](https://github.com/NancyFx/Nancy/issues?q=is%3Aissue+is%3Aclosed) issues to ensure it has not already been reported"
+  },
+  {
+    "rank": 7,
+    "id": "msg_9e9887dcd3a9a3c1477a947d39201bec048042b65b47388d540efc0ae73b9ffe",
+    "score": 241.8883,
+    "link": "https://github.com/NancyFx/Nancy/issues/2990",
+    "source": "github",
+    "origin_doc_id": "6d334e141c1fa061441902535aed3dfcb4c2b026e6d32bb661324354fbee08a5",
+    "snippet": "### Prerequisites \n - [X ] I have written a descriptive issue title \n - [X ] I have verified that I am running the latest version of Nancy \n - [ X] I have verified if the problem exist in both `DEBUG` and `RELEASE` mode \n - [X ] I have searched [open](https://github.com/NancyFx/Nancy/issues) and [closed](https://github.com/NancyFx/Nancy/issues?q=is%3Aissue+is%3Aclosed) issues to ensure it has not already been reported \n ###"
+  },
+  {
+    "rank": 8,
+    "id": "msg_5d77922e68e2e2371082b983aa20c27019b3068a85cc947a296315b3f00271bd",
+    "score": 224.57913,
+    "link": "https://github.com/NancyFx/Nancy/pull/2715",
+    "source": "github",
+    "origin_doc_id": "8ffb6b8aae43483d75f349760c28ae790811a23d5888b317c0201ae37ca45a33",
+    "snippet": "`Compiling Nancy for .NETFramework,Version=v4.5.2 \n /home/sifiso/Projects/Nancy/src/Nancy/project.json(69,31): error NU1001: The dependency System.Xml could not be resolved.`"
+  },
+  {
+    "rank": 9,
+    "id": "msg_8a7fa3d8483b81db5a3e276b6268e4acd658c95846915559650fd8fc4c08d0e6",
+    "score": 216.56584,
+    "link": "https://github.com/aspnet/dnx/issues/2022",
+    "source": "github",
+    "origin_doc_id": "8bf3441d5a0ec16e90a21bec576b92dac41b7e7e148bd5add1a63956707f0432",
+    "snippet": "Installing NuGet package Nancy.1.3.0-Pre1524. \n Successfully installed 'Nancy.1.3.0-Pre1524' to RFL.\n========== Finished ==========\nRestoring packages for C:\\Users\\username_0\\Source\\Personal\\RFL\\project.json\n  CACHE https://www.myget.org/F/aspnetvnext/api/v2/FindPackagesById()?Id='Nancy'\n  CACHE https://www.nuget.org/api/v2/FindPackagesById()?Id='Nancy'\n  CACHE https://myget.org/F/nancyfx/FindPackagesById()?Id='Nancy'\nUnable to locate Nancy >= 1.3.0-Pre1524\nWriting lock file C:\\Users\\username_0\\Source\\Personal\\RFL\\project.lock.json\nRestore complete, 844ms elapsed\nErrors in C:\\Users\\username_0\\Source\\Personal\\RFL\\project.json\n    Unable to locate Nancy >= 1.3.0-Pre1524"
+  },
+  {
+    "rank": 10,
+    "id": "msg_74fd29da343381dde15519f5064e9e7b723b5658f29155853579d6e4c840b15e",
+    "score": 214.48605,
+    "link": "https://stackoverflow.com/questions/15245035",
+    "source": "so",
+    "origin_doc_id": "ea62be9d2c38ab0e720af6cad447f24160c2fdff0a8c6355ce00f7d7624de448",
+    "snippet": "System.Exception : ConfigurableBootstrapper Exception \n ----> Nancy.RequestExecutionException : Oh noes! \n ----> Nancy.ViewEngines.ViewNotFoundException : Unable to locate view 'Create.liquid' \n Currently available view engine extensions: sshtml,html,htm \n Locations inspected: ,,,,,,,,views/Module/Create.liquid-en-    US,views/Module/Create.liquid,Module/Create.liquid-en-US,Module/Create.liquid,views/Create.liquid-en-US,views/Create.liquid,Create.liquid-en-US,Create.liquid \nRoot path: D:\\Projects\\epm-vsp-pasta\\Tests\\bin\\Debug \n  With Stack Trace  \n  at Nancy.Testing.PassThroughStatusCodeHandler.Handle(HttpStatusCode statusCode, NancyContext context) in d:\\Nancy-master\\src\\Nancy.Testing\\PassThroughStatusHandler.cs: line 22 \n at Nancy.NancyEngine.CheckStatusCodeHandler(NancyContext context) in d:\\Nancy-master\\src\\Nancy\\NancyEngine.cs: line 219 \n at Nancy.NancyEngine.HandleRequest(Request request, Func`2 preRequest) in d:\\Nancy-master\\src\\Nancy\\NancyEngine.cs: line 112 \n at Nancy.NancyEngine.HandleRequest(Request request) in d:\\Nancy-master\\src\\Nancy\\NancyEngine.cs: line 77 \n at Nancy.Testing.Browser.HandleRequest(String method, String path, Action`1 browserContext) in d:\\Nancy-master\\src\\Nancy.Testing\\Browser.cs: line 125 \n at Nancy.Testing.Browser.Get(String path, Action`1 browserContext) in d:\\Nancy-master\\src\\Nancy.Testing\\Browser.cs: line 62 \n at Tests.TestModule.test_liquid() in TestModule.cs: line 111 --RequestExecutionException \nat Nancy.NancyEngine.InvokeOnErrorHook(NancyContext context, ErrorPipeline pipeline, Exception ex) in d:\\Nancy-master\\src\\Nancy\\NancyEngine.cs: line 272\n--ViewNotFoundException"
+  }
+]

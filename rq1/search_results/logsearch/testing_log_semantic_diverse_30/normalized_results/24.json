@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_4c8b2321c1d5780fb942248a91a2ae202f5eccff0111ad7a8e41915b6c5fb9f1",
+    "score": 35.54897,
+    "link": "https://stackoverflow.com/questions/79025938",
+    "source": "so",
+    "origin_doc_id": "52efaab0040c566cd267e01e0e3bbe9c4627317b5d56e85993f7bab837189612",
+    "snippet": "2024-09-26 00:41:12 app-1  | 2024-09-25 22:41:12.471  INFO 1 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed."
+  },
+  {
+    "rank": 2,
+    "id": "msg_ae7f6dd98f01e02af3ed92ea63529276442aef26a0629281cbcc1a655091e433",
+    "score": 35.47406,
+    "link": "https://stackoverflow.com/questions/78945779",
+    "source": "so",
+    "origin_doc_id": "d9a44cba31b944560a6c60b96cb00e688bcdcc48e7c800c61e9ea21ab9044b3b",
+    "snippet": "2024-09-04 02:03:51 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed."
+  },
+  {
+    "rank": 3,
+    "id": "msg_630869a90634015304af01aff33885987b3ab055161b027cdf5e08ea1eb9409f",
+    "score": 35.170242,
+    "link": "https://github.com/adobe-apiplatform/user-sync.py/issues/338",
+    "source": "github",
+    "origin_doc_id": "a66df4b2710bcefe95eee204241c21d214224905a2e0daa0e0b41c1b33c66b75",
+    "snippet": "2018-02-12 09:10:22 2024 INFO main - -------------------------------------"
+  },
+  {
+    "rank": 4,
+    "id": "msg_7cc61337bf1b675dc2838342e8986b268754a8d85bab44de0905c81b619e0645",
+    "score": 34.28931,
+    "link": "https://stackoverflow.com/questions/77928609",
+    "source": "so",
+    "origin_doc_id": "3cb3635bc24974fcba0515eabb3a4a3a2d4269e5ea838fe9e2e3bd1842194d82",
+    "snippet": "2024-02-05 09:30:58 08:30:58.759 [main] INFO com.zaxxer.hikari.HikariDataSource -- HikariPool-1 - Start completed."
+  },
+  {
+    "rank": 5,
+    "id": "msg_a7c3a84e1609b72e78ed59c533d926db5459c9d3ddda792313bb8354812ad4aa",
+    "score": 33.261417,
+    "link": "https://github.com/ReproNim/reproman/issues/462",
+    "source": "github",
+    "origin_doc_id": "aeb23ced48066a68a0fa7ab5b907bd592c625dfc2a93577163bea4dfe760610d",
+    "snippet": "2019-09-26 13:09:49,634 [INFO   ] Job 20190926-130947-8b81 submitted as condor"
+  },
+  {
+    "rank": 6,
+    "id": "msg_80a2b0ddf676ec4c00bc247537e2cc128d38d69476bc9d691ee39d274bf01f33",
+    "score": 32.996593,
+    "link": "https://stackoverflow.com/questions/79026728",
+    "source": "so",
+    "origin_doc_id": "aa0f79daa7a529869d121d4af4158e63113d3de0b461a33de2c96ddaf5429463",
+    "snippet": "8   2024-09-13 08:00:00     2024-09-13 08:06:00     Stop\n9   2024-09-13 08:06:00     2024-09-13 08:07:00     Active\n10  2024-09-13 08:07:00     2024-09-13 08:16:00     Stop\n11  2024-09-13 08:16:00     2024-09-13 08:18:00     Active\n12  2024-09-13 08:18:00     2024-09-13 08:45:00     Stop\n13  2024-09-13 08:45:00     2024-09-13 09:00:00     Active\n14  2024-09-13 09:00:00     2024-09-13 09:31:00     Stop\n15  2024-09-13 09:31:00     2024-09-13 10:24:00     Active\n16  2024-09-13 10:24:00     2024-09-13 10:32:00     Stop\n17  2024-09-13 10:32:00     2024-09-13 10:37:00     Active\nstart : 2024-09-13 02:00:00, end : 2024-09-13 02:35:00, type : Active\nstart : 2024-09-13 02:35:00, end : 2024-09-13 06:11:00, type : Farming\nstart : 2024-09-13 02:35:00, end : 2024-09-13 06:11:00, type : Farming\nstart : 2024-09-13 06:11:00, end : 2024-09-13 07:27:00, type : Active\nstart : 2024-09-13 07:27:00, end : 2024-09-13 07:47:00, type : Stop\nstart : 2024-09-13 07:47:00, end : 2024-09-13 08:00:00, type : Active\nstart : 2024-09-13 08:00:00, end : 2024-09-13 08:06:00, type : Stop\nstart : 2024-09-13 08:06:00, end : 2024-09-13 08:07:00, type : Active\nstart : 2024-09-13 08:07:00, end : 2024-09-13 08:16:00, type : Stop\nstart : 2024-09-13 08:16:00, end : 2024-09-13 08:18:00, type : Active\nstart : 2024-09-13 08:18:00, end : 2024-09-13 08:45:00, type : Stop\nstart : 2024-09-13 08:45:00, end : 2024-09-13 09:00:00, type : Active\nstart : 2024-09-13 09:00:00, end : 2024-09-13 09:31:00, type : Stop\nstart : 2024-09-13 09:31:00, end : 2024-09-13 10:24:00, type : Active\nstart : 2024-09-13 10:24:00, end : 2024-09-13 10:32:00, type : Stop\nstart : 2024-09-13 10:32:00, end : 2024-09-13 10:37:00, type : Active\nstart : 2024-09-13 10:37:00, end : 2024-09-13 16:29:00, type : Stop\nstart : 2024-09-13 16:29:00, end : 2024-09-13 16:34:00, type : Active"
+  },
+  {
+    "rank": 7,
+    "id": "msg_34cc5023b5a96b26e45172f713c3f7878efbfec68c8269f0621c92b7ec92e979",
+    "score": 32.91494,
+    "link": "https://stackoverflow.com/questions/78945779",
+    "source": "so",
+    "origin_doc_id": "d9a44cba31b944560a6c60b96cb00e688bcdcc48e7c800c61e9ea21ab9044b3b",
+    "snippet": "2024-09-04 02:03:53 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat] \n 2024-09-04"
+  },
+  {
+    "rank": 8,
+    "id": "msg_c404e09d4563b15f0bd1c928c8fc1026d35b890626a2019c05772d8ceae55737",
+    "score": 32.76282,
+    "link": "https://stackoverflow.com/questions/79287981",
+    "source": "so",
+    "origin_doc_id": "cf256d83d54ed038bb4d6ab2d44f4098922e19d2622d6b180e07df177fd66d72",
+    "snippet": "2024-12-17 09:24:19.944 [1734427440104542/start/1 (pid 10535)] 2024-12-17 09:24:19,944 [INFO] MLFLOW_TRACKING_URI: databricks"
+  },
+  {
+    "rank": 9,
+    "id": "msg_25725bf89f01592fb2b7260857d1f200e4a137437e0c519ddc131c02e0e61eeb",
+    "score": 32.02874,
+    "link": "https://stackoverflow.com/questions/79287981",
+    "source": "so",
+    "origin_doc_id": "cf256d83d54ed038bb4d6ab2d44f4098922e19d2622d6b180e07df177fd66d72",
+    "snippet": "2024-12-17 09:24:19.944 [1734427440104542/start/1 (pid 10535)] 2024-12-17 09:24:19,944 [INFO] Running flow in development mode."
+  },
+  {
+    "rank": 10,
+    "id": "msg_ce525d3d684e1ef7ab1f6ecab2dd3260ef6ab60c9b07edeeb012589db565a312",
+    "score": 32.02874,
+    "link": "https://stackoverflow.com/questions/79287981",
+    "source": "so",
+    "origin_doc_id": "cf256d83d54ed038bb4d6ab2d44f4098922e19d2622d6b180e07df177fd66d72",
+    "snippet": "2024-12-17 09:24:20.068 [1734427440104542/start/1 (pid 10535)] 2024-12-17 09:24:19,944 [INFO] The metaflow id is 1734427440104542"
+  }
+]

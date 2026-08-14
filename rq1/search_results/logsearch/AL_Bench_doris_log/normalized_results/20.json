@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_835770e9d653dda4afb1b41366ce56b8eb8e4fa55d888a2d3348659f6f630aed",
+    "score": 48.184624,
+    "link": "https://stackoverflow.com/questions/36203048",
+    "source": "so",
+    "origin_doc_id": "5ca615462565486e451f770441d36978f22e452c7582593f77d507ba33eaca1a",
+    "snippet": "System.out.println(String.format(\"Column #%d is %s\", i, columnName));\nSystem.out.println(String.format(\"Table #%d is %s\", j, rs.getString(columnName)));\nSystem.out.println(String.format(\"Column #%d is %s\", i,"
+  },
+  {
+    "rank": 2,
+    "id": "msg_0d9459da84223dfb3948d751ad25a3ed6bff7db27cfb31697a7ee3dfb7b1d3dd",
+    "score": 43.680473,
+    "link": "https://issues.apache.org/jira/browse/SQOOP-1312",
+    "source": "jira",
+    "origin_doc_id": "170dc50c0fa68a27ccb20a8f2f9aa99439d83a05aba476371ed2c88477472367",
+    "snippet": "LOG.warn(\"You are strongly encouraged to choose an integral split column.\");\nLOG.debug(String.format(\"Splits: [%,28d to %,28d] into %d parts\", \n             minVal,"
+  },
+  {
+    "rank": 3,
+    "id": "msg_dcfcafdf97f09101008dd63ce3ee9bd0d0b82fa3b3209e13f836b62eb14ec284",
+    "score": 43.238537,
+    "link": "https://github.com/jsonld-java/jsonld-java/issues/150",
+    "source": "github",
+    "origin_doc_id": "91f90aed4796d07de53c23ce9f68946da2b5f0b742fb3545b828fb499a7cae4f",
+    "snippet": "));\nLOG.debug(String.format(\"Framing time to ToRemoveLinks : %d\","
+  },
+  {
+    "rank": 4,
+    "id": "msg_9bb406777d6979c4631f2ad59c1baedb0bc63ccef822f42c5747e348d181ad11",
+    "score": 42.850674,
+    "link": "https://stackoverflow.com/questions/17282815",
+    "source": "so",
+    "origin_doc_id": "2033a99b7110d0fa6ec3a5aa9bc2c94177c1cd795f39b34f8c9e9778492b7894",
+    "snippet": "Log.w(TAG, String.format(\"Device screen dimensions are: %d w x %d h\", mScreenWidth,\nLog.w(TAG, String.format(\"Image ic_launcher dimensions are %d W x %d H\", mBannerAdImage.getWidth(), mBannerAdImage.getHeight()));\nLog.e(TAG, \"Failure to get drawable id for \" + assetName, e);\nLog.w(TAG, String.format(\"Image left margin is %d, image width is %d\", marginLeft,\nLog.w(TAG, String.format(\"Text"
+  },
+  {
+    "rank": 5,
+    "id": "msg_2995075387f9b4a6ac4bd643f0df331ac43c988767c1dc1dc0d2f17fd4cb76c6",
+    "score": 42.291603,
+    "link": "https://stackoverflow.com/questions/13534218",
+    "source": "so",
+    "origin_doc_id": "28102e70b28d5e5d4a72b0fd2d7cfb0d7a880b6dd0a27e759c3629b9654b59e0",
+    "snippet": "System.out.println(String.format(\"Format mismatch at metadata position \\%d: metadata=(\\%s,\\%d); input=\\%c\", start + i, chardata.getText(), chardata.getFontSizePx(), c));\nSystem.out.println(\"\\t\\tMoving metadata pointer ahead by \" + str.length() + \" to \" + curpos); \nreading entry.\");}"
+  },
+  {
+    "rank": 6,
+    "id": "msg_d2cd563e833483adf93e1edf9a3e319f563959a03279502dd8c9428205f0fe8d",
+    "score": 42.267334,
+    "link": "https://stackoverflow.com/questions/6355565",
+    "source": "so",
+    "origin_doc_id": "7747ea9672215b551becd8899dbcbe388803f664975d3934d45388ce8c9c11e8",
+    "snippet": "log.error(String.format(\"Default Charset : [%s]\", Charset.defaultCharset().displayName()));\nlog.error(String.format(\"ECHAINE [%s]\", chaineAscii));\nlog.debug(String.format(\"Retour taille Prexis : SCHAINE=[%d]; EXMES=[%d]\", chaineSortie.length(), chaineExmes.length())); \n log.debug(String.format(\"Retour Prexis : SCHAINE=[%s]; EXMES=[%s]\", chaineSortie, chaineExmes));"
+  },
+  {
+    "rank": 7,
+    "id": "msg_b4e91ac341fe390ee18e352f7c126f6149fcb3f0117c53f95398f9b058889d32",
+    "score": 42.194466,
+    "link": "https://github.com/jsonld-java/jsonld-java/issues/150",
+    "source": "github",
+    "origin_doc_id": "91f90aed4796d07de53c23ce9f68946da2b5f0b742fb3545b828fb499a7cae4f",
+    "snippet": "endTimeToRemoveLinks\nLOG.debug(String.format(\"Framing time to correctEmbededObjects : %d\", \n                     endTimeToCorrectEmbededObjects"
+  },
+  {
+    "rank": 8,
+    "id": "msg_ef7e591617bda9a67adecb11279f4c01d5025ed92a230e3ad454cb9e151afe06",
+    "score": 41.88347,
+    "link": "https://issues.apache.org/jira/browse/PDFBOX-4738",
+    "source": "jira",
+    "origin_doc_id": "2fc2db0fb802a798dd2119f391f43fde576a4133bc789d52240d78e36e14de56",
+    "snippet": "LOG.error(\"Failed to get bytes from page.\", e);\nSystem.out.println(\"Page objects count \n\n System.out.println(String.format(\"page [%d] num of objs [%d]\", i + 1, \n\n System.out.println(\"Page objects count\nSystem.out.println(String.format(\"page [%d] num of objs [%d]\", i + 1, PDDocument.load(pageBytes.get(i)).getDocument().getObjects().size())); \n\n LOG.error(\"Failed to load page.\", e);"
+  },
+  {
+    "rank": 9,
+    "id": "msg_72d8a8cbd5085783d46e46d43742636af8a3148209a4bfd2f7d6a608e84c1dd3",
+    "score": 41.74438,
+    "link": "https://issues.apache.org/jira/browse/HDFS-3769",
+    "source": "jira",
+    "origin_doc_id": "909f1614847f692337fceaf14bde901856507305cfaa9107f41e9f6e01fb051e",
+    "snippet": "LOG.debug(\"edit streams to load from: \" + streams.size());\nLOG.info(String.format(\"Loaded %d edits starting from txid %d \", \n               editsLoaded, lastTxnId));"
+  },
+  {
+    "rank": 10,
+    "id": "msg_3ae34d0a114b12a47756ac66cc9c1d602ed1ba891978815c1b2f85df97593201",
+    "score": 41.69111,
+    "link": "https://github.com/jsonld-java/jsonld-java/issues/150",
+    "source": "github",
+    "origin_doc_id": "91f90aed4796d07de53c23ce9f68946da2b5f0b742fb3545b828fb499a7cae4f",
+    "snippet": "LOG.debug(String.format(\"Framing time to create IdTOObjectMap : %d\", \n                     endTimeToCreateMap - currentTimeMillisToFix"
+  }
+]

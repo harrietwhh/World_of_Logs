@@ -1,0 +1,31 @@
+{
+  "case_id": "30",
+  "summary_raw": "[\"card slot do not match\",\"LinkCard is not accessible\",\"LinkCard is not fully functional\"]",
+  "summary_items": [
+    "card slot do not match",
+    "LinkCard is not accessible",
+    "LinkCard is not fully functional"
+  ],
+  "group_logs_lines": [
+    "NULL DISCOVERY WARNING Node card VPD check : U11 node in processor card slot J15 do not match. VPD ecid 04D38092472FFFFF07041B308ED7 , found 074F04E7E17BFFFF060B1C3046ED",
+    "NULL HARDWARE SEVERE LinkCard power module U58 is not accessible",
+    "NULL HARDWARE SEVERE LinkCard is not fully functional",
+    "NULL HARDWARE SEVERE LinkCard power module U58 is not accessible",
+    "NULL HARDWARE SEVERE LinkCard is not fully functional",
+    "NULL HARDWARE SEVERE LinkCard power module U58 is not accessible",
+    "NULL HARDWARE SEVERE LinkCard is not fully functional",
+    "NULL HARDWARE SEVERE LinkCard power module U58 is not accessible",
+    "NULL HARDWARE SEVERE LinkCard is not fully functional",
+    "NULL HARDWARE SEVERE LinkCard power module U58 is not accessible",
+    "NULL HARDWARE SEVERE LinkCard is not fully functional",
+    "NULL HARDWARE SEVERE LinkCard power module U58 is not accessible",
+    "NULL HARDWARE SEVERE LinkCard is not fully functional",
+    "NULL HARDWARE SEVERE NodeCard power module U70 is not accessible",
+    "NULL HARDWARE SEVERE LinkCard power module U58 is not accessible",
+    "NULL HARDWARE SEVERE LinkCard is not fully functional",
+    "NULL HARDWARE SEVERE LinkCard power module U58 is not accessible",
+    "NULL HARDWARE SEVERE LinkCard is not fully functional",
+    "NULL HARDWARE SEVERE LinkCard power module U58 is not accessible",
+    "NULL HARDWARE SEVERE LinkCard is not fully functional"
+  ]
+}

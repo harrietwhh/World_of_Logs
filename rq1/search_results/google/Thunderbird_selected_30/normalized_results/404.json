@@ -1,0 +1,169 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "[SOLVED] - RRD: Illegal attempt to update",
+    "link": "https://forum.proxmox.com/threads/rrd-illegal-attempt-to-update.56784/",
+    "displayed_link": "https://forum.proxmox.com › threads › rrd-illegal-atte...",
+    "snippet": "Hi. When looking into my Syslog I keep seeing an error message related to rrdcached and the system time.",
+    "snippet_highlighted_words": [
+      "time"
+    ],
+    "source": "Proxmox Support Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "loghub/Thunderbird/Thunderbird_2k.log at master",
+    "link": "https://github.com/logpai/loghub/blob/master/Thunderbird/Thunderbird_2k.log",
+    "displayed_link": "https://github.com › logpai › loghub › blob › Thunderbird",
+    "snippet": "... (/var/lib/ganglia/rrds/C Nodes/cn304/pkts_out.rrd): illegal attempt to update using time 1131563037 when last update time is 1131563037 (minimum one second step).",
+    "snippet_highlighted_words": [
+      "illegal attempt to update using time 1131563037"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "SOLVED - Lots of rrd: illegal attempt to update using time xx",
+    "link": "https://forum.netgate.com/topic/117597/solved-lots-of-rrd-illegal-attempt-to-update-using-time-xx",
+    "displayed_link": "https://forum.netgate.com › topic › solved-lots-of-rrd-il...",
+    "snippet": "It seems like rrdtool somehow have logged an update \"in the future\" , maybe due to me not setting the clock correct when i was configuring the Bios.",
+    "snippet_highlighted_words": [
+      "rrdtool",
+      "update",
+      "in",
+      "clock"
+    ],
+    "source": "Netgate Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "RRDs::update ERROR illegal attempt to update using time",
+    "link": "https://support.nagios.com/forum/viewtopic.php?t=26087",
+    "displayed_link": "https://support.nagios.com › forum › viewtopic",
+    "snippet": "The error is suggesting that a result with performance data has already been entered this second for the host, and that is the maximum frequency that can be ...",
+    "snippet_highlighted_words": [
+      "a",
+      "with",
+      "second"
+    ],
+    "source": "Nagios Support",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "ERROR: illegal attempt to update using time",
+    "link": "https://forums.cacti.net/viewtopic.php?t=761",
+    "displayed_link": "https://forums.cacti.net › Cacti - Support › Help: General",
+    "snippet": "This error happens when rrdtool thinks you are handing it more data than it thinks you should in a given time period. I have often wondered how ...",
+    "snippet_highlighted_words": [
+      "rrdtool",
+      "in a",
+      "time"
+    ],
+    "source": "Cacti Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "RRD tool update using Time incorrect - illegal attempt to ...",
+    "link": "https://serverfault.com/questions/832649/rrd-tool-update-using-time-incorrect-illegal-attempt-to-update",
+    "displayed_link": "https://serverfault.com › questions › rrd-tool-update-usi...",
+    "snippet": "I am writing temperature, cpu load and memory data to a rrdtool table, in update i am using N in order to pass the time however there is a problem with the ...",
+    "snippet_highlighted_words": [
+      "a rrdtool",
+      "in update",
+      "using",
+      "in",
+      "time",
+      "a"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "[Ganglia-developers] SOLVED: Illegal attempt to update ...",
+    "link": "https://sourceforge.net/p/ganglia/mailman/message/28083831/",
+    "displayed_link": "https://sourceforge.net › Browse › Ganglia",
+    "snippet": "[Ganglia-developers] SOLVED: Illegal attempt to update using time X (minimum one second step). Scalable, distributed monitoring system for high- ...",
+    "snippet_highlighted_words": [
+      "Ganglia",
+      "Illegal attempt",
+      "update using time",
+      "minimum one second step"
+    ],
+    "source": "SourceForge",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "collectd illegal attempt to update using time when last ... - Rus",
+    "link": "https://rus.io/collectd-illegal-attempt-to-update-using-time-when-last-update-time-is-minimum-one-second-step/",
+    "displayed_link": "https://rus.io › collectd-illegal-attempt-to-update-using-t...",
+    "snippet": "A quick search of the Internet shows that unfortunately this is a known issue which will be fixed in a further release of the CollectD 5.1 ...",
+    "snippet_highlighted_words": [
+      "A",
+      "a",
+      "in a"
+    ],
+    "source": "rus.io",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": ".rrd: illegal attempt to update using time ... (minimum one ...",
+    "link": "https://github.com/collectd/collectd/issues/781",
+    "displayed_link": "https://github.com › collectd › collectd › issues",
+    "snippet": "Disabling the rrd plugin stops the dbi plugin from working. How do we bring the rrd update cycles in line with the dbi cycles? Collectd version ...",
+    "snippet_highlighted_words": [
+      "rrd",
+      "from",
+      "rrd update",
+      "in",
+      "with",
+      "version"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Collectd rrdtool data corruption (warning due to system ...",
+    "link": "https://forum.openwrt.org/t/collectd-rrdtool-data-corruption-warning-due-to-system-time-change/47223",
+    "displayed_link": "https://forum.openwrt.org › collectd-rrdtool-data-corru...",
+    "snippet": "You are trying to update with a time in the past. Get the correct time first, and only then update the rrd. 1 Like. hnyman ...",
+    "snippet_highlighted_words": [
+      "trying",
+      "update with a time in",
+      "time",
+      "update",
+      "rrd",
+      "1"
+    ],
+    "source": "OpenWrt Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "case_id": "29",
+  "summary_raw": "[\"node status not responding\",\"node status configured out\"]",
+  "summary_items": [
+    "node status not responding",
+    "node status configured out"
+  ],
+  "group_logs_lines": [
+    "node status 1074217414 1 not responding",
+    "node status 1074217414 1 not responding",
+    "node status 1074217414 1 not responding",
+    "node status 1074217414 1 not responding",
+    "node status 1074217414 1 not responding",
+    "node status 1074217414 1 not responding",
+    "node status 1074217414 1 not responding",
+    "node status 1074217414 1 not responding",
+    "node status 1074217414 1 not responding",
+    "node status 1074217418 1 configured out",
+    "node status 1074217418 1 configured out",
+    "node status 1074217418 1 configured out",
+    "node status 1074217418 1 configured out",
+    "node status 1074217418 1 configured out",
+    "node status 1074217418 1 configured out",
+    "node status 1074217418 1 configured out",
+    "node status 1074217418 1 configured out",
+    "node status 1074217418 1 configured out",
+    "node status 1074217418 1 configured out",
+    "node status 1074217418 1 configured out"
+  ]
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Meaning of “Connection closed by xxx [preauth]” in sshd logs",
+    "link": "https://unix.stackexchange.com/questions/102502/meaning-of-connection-closed-by-xxx-preauth-in-sshd-logs",
+    "displayed_link": "https://unix.stackexchange.com › questions › meaning-...",
+    "snippet": "The sshd server will disconnect if the client doesn't try to authenticate in a certain period of time, as documented in the -g option.",
+    "snippet_highlighted_words": [],
+    "source": "Unix & Linux Stack Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Troubleshooting \"Connection closed by authenticating ...",
+    "link": "https://superuser.com/questions/1726539/troubleshooting-connection-closed-by-authenticating-user-andy-173-63-60-32-port",
+    "displayed_link": "https://superuser.com › questions › troubleshooting-con...",
+    "snippet": "I am having trouble connecting to a remote server through ssh. I am trying to connect a Windows machine to a server running CentOS.",
+    "snippet_highlighted_words": [
+      "connect"
+    ],
+    "source": "Super User",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Connection closed by <ip> [preauth] - ssh",
+    "link": "https://serverfault.com/questions/847272/connection-closed-by-ip-preauth",
+    "displayed_link": "https://serverfault.com › questions › connection-closed-...",
+    "snippet": "I'm trying to enable an ssh tunnel in order to add a git remote in a project of mine. When I try to open a remote shell I get the error Server refused our key.",
+    "snippet_highlighted_words": [],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "DevOps Classroomnotes 03/Mar/2022",
+    "link": "https://directdevops.blog/2022/03/03/devops-classroomnotes-03-mar-2022/",
+    "displayed_link": "https://directdevops.blog › 2022/03/03 › devops-classro...",
+    "snippet": "... Connection closed by 173.234.31.186 [preauth] Dec 10 07:02:47 LabSZ sshd[24203]: Connection closed by 212.47.254.145 [preauth] Dec 10 07:07 ...",
+    "snippet_highlighted_words": [
+      "Connection closed by 173.234.31.186"
+    ],
+    "source": "directdevops.blog",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "16.04 - SSH Connection to Ubuntu Server fails with ...",
+    "link": "https://askubuntu.com/questions/798555/ssh-connection-to-ubuntu-server-fails-with-connection-closed-ip-preauth",
+    "displayed_link": "https://askubuntu.com › questions › ssh-connection-to-...",
+    "snippet": "Just hangs there. In the auth.log on the server not much is happening. After a while it says Connection closed <ip> [preauth] .",
+    "snippet_highlighted_words": [
+      "Just hangs there"
+    ],
+    "source": "Ask Ubuntu",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "[SOLVED] - Connection closed by IP port xxxx [preauth]",
+    "link": "https://forum.proxmox.com/threads/connection-closed-by-ip-port-xxxx-preauth.46734/",
+    "displayed_link": "https://forum.proxmox.com › threads › connection-clos...",
+    "snippet": "We run a 3 nodes cluster with CEPH. Recently we have noticed that we are unable to use Web VNC for 2 of the nodes, upon some reading online I have restarted ...",
+    "snippet_highlighted_words": [],
+    "source": "Proxmox Support Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "[SOLVED] sshd Connection closed by <IP> [preauth]",
+    "link": "https://www.linuxquestions.org/questions/linux-networking-3/sshd-connection-closed-by-ip-%5Bpreauth%5D-4175731566/",
+    "displayed_link": "https://www.linuxquestions.org › linux-networking-3 › s...",
+    "snippet": "Sounds like a firewall is rejecting the connections somewhere, or hosts.deny if you use it. It could also be a restriction in the server config ...",
+    "snippet_highlighted_words": [
+      "connections"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "SSH and the (apparently) dreaded \"Connection closed ...",
+    "link": "https://forum.level1techs.com/t/ssh-and-the-apparently-dreaded-connection-closed-preauth/115323",
+    "displayed_link": "https://forum.level1techs.com › ... › Linux",
+    "snippet": "I have a Linux problem. Basically the server that I use to get ssh access to my network no longer lets me connect from the outside world.",
+    "snippet_highlighted_words": [
+      "connect"
+    ],
+    "source": "Level1Techs Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "Exploring Variable Potential for LLM-based Log Parsing ...",
+    "link": "https://dl.acm.org/doi/pdf/10.1145/3696630.3728506",
+    "displayed_link": "https://dl.acm.org › doi › pdf",
+    "snippet": "Sep 18 08:45:36 LabSZ sshd[24200] INFO Connection closed by 173.234.31.186 [preauth]. Sep 18 08:45:37 LabSZ sshd[24200] INFO Running task 2.0 ...",
+    "snippet_highlighted_words": [
+      "Connection closed by 173.234.31.186"
+    ],
+    "source": "ACM Digital Library",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Unleashing the Neglected Power of Variables for LLM- ...",
+    "link": "https://arxiv.org/pdf/2601.22676",
+    "displayed_link": "https://arxiv.org › pdf",
+    "snippet": "INFO Connection closed by <*> [preauth]. [173.234.31.186]. Sep 18 08:45:37 LabSZ sshd[24200]. INFO. Running task <*> in stage <*> (TID <*>). [2.0,0.0,1]. Sep 18 ...",
+    "snippet_highlighted_words": [
+      "Connection closed",
+      "preauth",
+      "173.234.31.186"
+    ],
+    "source": "arXiv",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

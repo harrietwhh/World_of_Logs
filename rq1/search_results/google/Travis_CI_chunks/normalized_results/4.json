@@ -1,0 +1,91 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "R Package is Passing R CMD check and devtools",
+    "link": "https://travis-ci.community/t/r-package-is-passing-r-cmd-check-and-devtools-check-locally-but-errors-out-on-travis/11347",
+    "displayed_link": "https://travis-ci.community › Languages › R",
+    "snippet": "ERROR Installation failed. See '/home/travis/build/rossdrucker/sportyR/sportyR.Rcheck/00install.out' for details. * DONE Status: 1 ERROR. I'm ...",
+    "snippet_highlighted_words": [
+      "ERROR Installation failed"
+    ],
+    "source": "Travis CI Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "check() fails at install step while install() succeeds with no ...",
+    "link": "https://github.com/r-lib/devtools/issues/1607",
+    "displayed_link": "https://github.com › r-lib › devtools › issues",
+    "snippet": "Try running R CMD check from the terminal / command line and see if the error is reproduced there. devtools::check() is just a thin wrapper around R CMD check.",
+    "snippet_highlighted_words": [
+      "see",
+      "error"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Can not Install twitter AnomalyDetection package [duplicate]",
+    "link": "https://stackoverflow.com/questions/37410055/can-not-install-twitter-anomalydetection-package",
+    "displayed_link": "1 answer · 9 years ago",
+    "snippet": "I have the same R version (Mac) and it works for me. Also considering the error message it seems to be a problem with GitHub and not R.",
+    "snippet_highlighted_words": [
+      "error"
+    ],
+    "source": "Stack Overflow",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "Failed to Install AnomalyDetection · Issue #23 · twitter ...",
+    "link": "https://github.com/twitter/AnomalyDetection/issues/23",
+    "displayed_link": "https://github.com › twitter › AnomalyDetection › issues",
+    "snippet": "I am on windows 8. in R 3.1.1 x64 I get the following error: Warning in library(pkg_name, lib.loc = lib, character.only = TRUE, ...",
+    "snippet_highlighted_words": [
+      "error"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Failed to install the AnomalyDetection · Issue #63",
+    "link": "https://github.com/twitter/AnomalyDetection/issues/63",
+    "displayed_link": "https://github.com › twitter › AnomalyDetection › issues",
+    "snippet": "OS:windows. R version: verison 3.2.2. When i run \"devtools::install_github(\"twitter/AnomalyDetection\"). following error is reported:",
+    "snippet_highlighted_words": [
+      "twitter",
+      "AnomalyDetection",
+      "error"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "R devtools package installation requires `build = FALSE ...",
+    "link": "https://github.com/duckdb/duckdb/issues/189",
+    "displayed_link": "https://github.com › duckdb › duckdb › issues",
+    "snippet": "The reason for the build failure isn't entirely clear to me, seems to have to do with tmp directories, e.g. see example travis log. Activity ...",
+    "snippet_highlighted_words": [
+      "build failure",
+      "see",
+      "travis"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

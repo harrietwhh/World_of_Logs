@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_12254401cf3b390487bd1a6d2892eeebde8970c6e15b01ff08b4e39eb24d9782",
+    "score": 30.266457,
+    "link": "https://stackoverflow.com/questions/73951909",
+    "source": "so",
+    "origin_doc_id": "7746410de9611ae46ca7df0825588970f2034fed0ddd2823251bed7d22d182e8",
+    "snippet": "unix_chkpwd[207]: check pass; user unknown \n unix_chkpwd[208]: check pass; user unknown \n unix_chkpwd[208]: password check failed for user (myUser)"
+  },
+  {
+    "rank": 2,
+    "id": "msg_3cedb1c2f03b96a8a8f43c8f9bc5ec456d80ce2f5251955c7111cef5f681584c",
+    "score": 28.107277,
+    "link": "https://github.com/NixOS/nixpkgs/issues/157112",
+    "source": "github",
+    "origin_doc_id": "49c5831e1ed84ea75191bde2ebcb5a6761d96752d6051b1b2b735fcb6f076cb9",
+    "snippet": "unix_chkpwd[10350]: check pass; user unknown \n unix_chkpwd[10351]: check pass; user unknown \n unix_chkpwd[10351]: password check failed for user (peter) \n kcheckpass[10349]: pam_unix(kde:auth): authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=peter \n ```"
+  },
+  {
+    "rank": 3,
+    "id": "msg_548c173855710e3c21ee66938277dd19a3cfcb38a6f8cc1473af258430d8d778",
+    "score": 27.395884,
+    "link": "https://github.com/NixOS/nixpkgs/issues/157112",
+    "source": "github",
+    "origin_doc_id": "49c5831e1ed84ea75191bde2ebcb5a6761d96752d6051b1b2b735fcb6f076cb9",
+    "snippet": "Jan 30 09:25:32 kktdr unix_chkpwd[1348786]: check pass; user unknown \n Jan 30 09:25:35 kktdr unix_chkpwd[1348790]: check pass; user unknown \n Jan 30 09:25:35 kktdr unix_chkpwd[1348790]: password check failed for user (eeva) \n Jan 30 09:25:35 kktdr authproto_pam[1348785]: pam_unix(login:auth): authentication failure; logname= uid=1000 euid=1000 tty=:0 ruser=eeva rhost=localhost  user=eeva \n Jan 30 09:25:37 kktdr unix_chkpwd[1348794]: check pass; user unknown \n Jan 30 09:25:40 kktdr unix_chkpwd[1348798]: check pass; user unknown \n Jan 30 09:25:40 kktdr unix_chkpwd[1348798]: password check failed for user (eeva) \nJan 30 09:25:42 kktdr unix_chkpwd[1348801]: check pass; user unknown \n Jan 30 09:25:44 kktdr unix_chkpwd[1348810]: check pass; user unknown \n Jan 30 09:25:44 kktdr unix_chkpwd[1348810]: password check failed for user (eeva) \n Jan 30 09:25:46 kktdr xss-lock[1348785]: 2022-01-30T07:25:46Z 1348785 xsecurelock: pam_authenticate: Authentication failure. \n ```"
+  },
+  {
+    "rank": 4,
+    "id": "msg_33081dd387ed7cfc797b7c25373d7ba0bf03313434fd7dbf271c410c14e88b46",
+    "score": 26.761961,
+    "link": "https://github.com/NixOS/nixpkgs/pull/153104",
+    "source": "github",
+    "origin_doc_id": "f13cbb54a664d598e58a14ed4313331d3c679c933d923a0085f0ee7b378ca43d",
+    "snippet": "unix_chkpwd[46155]: check pass; user unknown \n unix_chkpwd[46156]: check pass; user unknown \n unix_chkpwd[46156]: password check failed for user (andre) \n kcheckpass[46154]: pam_unix(kde:auth): authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=andre \n kcheckpass[46154]: Authentication failure for andre (invoked by uid 1000) \n ```"
+  },
+  {
+    "rank": 5,
+    "id": "msg_43cd08bf81dd94255f0aa0db7a47e86654739b0811d0bda4dfbd5aca6f5b1365",
+    "score": 26.04235,
+    "link": "https://github.com/i3/i3lock/issues/295",
+    "source": "github",
+    "origin_doc_id": "eb25a9b05ec40359699edb8b9857523a99bb6d1d56dbef25f193a75caaa8cf55",
+    "snippet": "[Truncated] \n ## journalctl -f \n ```r \n Jan 10 14:10:48 mickopf unix_chkpwd[2916]: check pass; user unknown \n Jan 10 14:10:48 mickopf unix_chkpwd[2917]: check pass; user unknown \n Jan 10 14:10:48 mickopf unix_chkpwd[2917]: password check failed for user (vilari) \n Jan 10 14:10:48 mickopf i3lock[2884]: pam_unix(i3lock:auth): authentication failure; logname= uid=1000 euid=1000 tty=:0 ruser= rhost=  user=vilari \n Jan 10 14:10:48 mickopf dbus-daemon[431]: [system] Activating via systemd: service name='org.freedesktop.home1' unit='dbus-org.freedesktop.home1.service' requested by ':1.28' (uid=1000 pid=2884 comm=\"i3lock \") \n Jan 10 14:10:48 mickopf dbus-daemon[431]: [system] Activation via systemd failed for unit 'dbus-org.freedesktop.home1.service': Unit dbus-org.freedesktop.home1.service not found. \nJan 10 14:10:48 mickopf i3lock[2884]: pam_systemd_home(i3lock:auth): systemd-homed is not available: Unit dbus-org.freedesktop.home1.service not found.\nJan 10 14:10:51 mickopf unix_chkpwd[2941]: check pass; user unknown\nJan 10 14:10:51 mickopf unix_chkpwd[2942]: check pass; user unknown\nJan 10 14:10:51 mickopf unix_chkpwd[2942]: password check failed for user (vilari)\nJan 10 14:10:53 mickopf unix_chkpwd[2959]: check pass; user unknown\nJan 10 14:10:53 mickopf unix_chkpwd[2960]: check pass; user unknown\nJan 10 14:10:53 mickopf unix_chkpwd[2960]: password check failed for user (vilari)\nJan 10 14:10:56 mickopf unix_chkpwd[2985]: check pass; user unknown\nJan 10 14:10:56 mickopf unix_chkpwd[2992]: check pass; user unknown\nJan 10 14:10:56 mickopf unix_chkpwd[2992]: password check failed for user (vilari)"
+  },
+  {
+    "rank": 6,
+    "id": "msg_b06be97183849b99b9459ec406a11e94090a8041a0edda8cd6cad5d9cb41a22e",
+    "score": 25.48541,
+    "link": "https://github.com/adelton/mod_authnz_pam/issues/9",
+    "source": "github",
+    "origin_doc_id": "d8d2e0b24a9b75e913367cf1acef0a893f0c06b370cb80aaae69e12a072f5aa6",
+    "snippet": "... \n check pass; user unknown \n password check failed for user (me) \n pam_unix(dovecot:auth): authentication failure; logname= uid=48 euid=48 tty= ruser= rhost=10.3.1.21  user=me \n ..."
+  },
+  {
+    "rank": 7,
+    "id": "msg_b3fcbaac25ce3041679ba55f3cb70fe9a3bb8f2e033df9be843c034e0f0304ce",
+    "score": 25.414528,
+    "link": "https://github.com/rundeck/rundeck/issues/2315",
+    "source": "github",
+    "origin_doc_id": "1d39ec576df598abe98ae9c33a16d3cc0aeb434833b406af0884f794bf6309a8",
+    "snippet": "`Apr 14 18:48:38 localhost unix_chkpwd[28248]: check pass; user unknown \n Apr 14 18:48:38 localhost unix_chkpwd[28249]: check pass; user unknown \n Apr 14 18:48:38 localhost unix_chkpwd[28249]: password check failed for user (username_2) \n Apr 14 18:48:38 localhost java: pam_unix(sshd:auth): authentication failure; logname= uid=541 euid=541 tty= ruser= rhost=  user=username_2` \n 541 is \"rundeck\" user"
+  },
+  {
+    "rank": 8,
+    "id": "msg_1202167d83190fafb21dee9870185edb27c5556e89c44f78afaaa15577757041",
+    "score": 25.133644,
+    "link": "https://stackoverflow.com/questions/70699857",
+    "source": "so",
+    "origin_doc_id": "aec3bf90adfeeee9b5edffbf42cf39913f5434964c76eb1907b5e61ea618aec6",
+    "snippet": "unix_chkpwd[7868]:, check pass; user unknown \n unix_chkpwd[7868]:, password check failed for user (root) \n su[7279]:, pam_unix(su:auth): authentication failure; logname= uid=2000 euid=2000 tty=/dev/pts/3 ruser=admin rhost=  user=root \n unix_chkpwd[7874]:, check pass; user unknown \n unix_chkpwd[7876]:, check pass; user unknown\nunix_chkpwd[7876]:, password check failed for user (root)\nsu[7279]:, pam_authenticate: Authentication failure\nsu[7279]:, PAM 1 more authentication failure; logname= uid=2000 euid=2000 tty=/dev/pts/3 ruser=admin rhost=  user=root\nsu[7279]:, FAILED su for root by admin\nsu[7279]:, su session not logged to /var/log/sulog\nsu[7279]:, - /dev/pts/3 admin:root"
+  },
+  {
+    "rank": 9,
+    "id": "msg_6a9e5f6b55a0613364671c17bff2e4031d0e056ef6e6cd9319b1d7076122c84a",
+    "score": 24.446526,
+    "link": "https://github.com/azl397985856/learn-shell/issues/7",
+    "source": "github",
+    "origin_doc_id": "e06bdfa570788e259a17f77e9131571ee89e77887d2cd22186eed798ca72a6d4",
+    "snippet": "\"input_userauth_request: invalid user\" \n                 \"pam_unix(sshd:auth): check pass; user unknown\" \n                 \"input_userauth_request: invalid user\" \n                 \"does not map back to the address\" \n                 \"pam_unix(sshd:auth): authentication failure\""
+  },
+  {
+    "rank": 10,
+    "id": "msg_1d74960681da21173992f80d00c65715602f6a6bda095329878b9dba6d61d69d",
+    "score": 24.380547,
+    "link": "https://github.com/BeyondTrust/pbis-open/issues/273",
+    "source": "github",
+    "origin_doc_id": "306787bcd87db05d54f0fb89dbadc6368c1d9d554dc5142d10d48ca259d44117",
+    "snippet": "2020-01-30T23:01:08.998210+05:30 4 sshd[62550]:  pam_unix(sshd:auth): check pass; user unknown"
+  }
+]

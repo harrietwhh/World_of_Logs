@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_2e3477dd78f6293856b848c96308f81115bed5b6559dca35426aba7f4d8605a7",
+    "score": 46.075584,
+    "link": "https://stackoverflow.com/questions/55355982",
+    "source": "so",
+    "origin_doc_id": "c58ae928c14eda4e8e61be281b56c74d2939ae6f5259ee4157428b905ffbbeae",
+    "snippet": "Dec 10 06:55:46 LabSZ sshd[24200]: reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT! \n Dec 10 06:55:46 LabSZ sshd[24200]: Invalid user webmaster from 173.234.31.186 \n Dec 10 06:55:46 LabSZ sshd[24200]: input_userauth_request: invalid user webmaster [preauth] \n Dec 10 06:55:46 LabSZ sshd[24200]: pam_unix(sshd:auth): check pass; user unknown \n Dec 10 06:55:46 LabSZ sshd[24200]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.234.31.186  \n Dec 10 06:55:48 LabSZ sshd[24200]: Failed password for invalid user webmaster from 173.234.31.186 port 38926 ssh2 \n Dec 10 06:55:48 LabSZ sshd[24200]: Connection closed by 173.234.31.186 [preauth] \n Dec 10 07:02:47 LabSZ sshd[24203]: Connection closed by 212.47.254.145 [preauth] \nDec 10 07:07:38 LabSZ sshd[24206]: Invalid user test9 from 52.80.34.196\nDec 10 07:07:38 LabSZ sshd[24206]: input_userauth_request: invalid user test9 [preauth]\nDec 10 07:07:38 LabSZ sshd[24206]: pam_unix(sshd:auth): check pass; user unknown"
+  },
+  {
+    "rank": 2,
+    "id": "msg_5a144820e23fa7ce01a37b243ca41a2b89c0b7ad1156dbf5f79f4374bb8a25fe",
+    "score": 38.0085,
+    "link": "https://github.com/atmoz/sftp/issues/174",
+    "source": "github",
+    "origin_doc_id": "2043c0ce592c81dbaa4239116f703e3f564c3ca09ffe08f706da5fb438c4ce12",
+    "snippet": "saved in /etc/ssh/ssh_host_rsa_key.pub.\n[/entrypoint] Executing sshd\nServer listening on 0.0.0.0 port 22.\nServer listening on :: port 22.\nConnection closed by 172.17.0.1 port 46960 [preauth]\nConnection closed by 172.17.0.1 port 46962 [preauth]\nConnection closed by 172.17.0.1 port 46964 [preauth]\nConnection closed by 172.17.0.1 port 46966 [preauth]\nFailed password for foo from 172.17.0.1 port 46968 ssh2\nFailed password for foo from 172.17.0.1 port 46968 ssh2\nConnection closed by 172.17.0.1 port 46968 [preauth]"
+  },
+  {
+    "rank": 3,
+    "id": "msg_b02fff6420f64f34c4b6f9b657e9127994d63d46eb0e2c8911c887e919c5bcb2",
+    "score": 37.40129,
+    "link": "https://github.com/cloudposse/charts/issues/269",
+    "source": "github",
+    "origin_doc_id": "13280d47785bd18987d805d3411657d52043d32b53717186f41dd8d0df4e0b45",
+    "snippet": "correct\n```Connection closed by authenticating user username_0 127.0.0.1 port 59712 [preauth]``` \n ```Connection closed by authenticating user username_0 127.0.0.1 port 59730 [preauth]```"
+  },
+  {
+    "rank": 4,
+    "id": "msg_78c1e1c402da16c2ff36315a0e665788a788a289f94d61b72470cffe4467e51d",
+    "score": 36.65607,
+    "link": "https://github.com/allinurl/goaccess/issues/1848",
+    "source": "github",
+    "origin_doc_id": "c3c2f87cf26075f3a39c334de98fe8ea40c96f2bde0c789666212aaead6ad69d",
+    "snippet": "Jul 15 18:53:21 ip-172-26-15-120 sshd[2761]: Connection closed by 172.16.58.3 port 37508 [preauth] \n Jul 15 18:53:23 ip-172-26-15-120 sshd[2763]: Connection closed by 172.16.58.3 port 39200 [preauth] \n Jul 15 18:53:24 ip-172-26-15-120 sshd[2765]: Connection closed by 172.16.58.3 port 40936 [preauth] \n Jul 15 18:53:26 ip-172-26-15-120 sshd[2767]: Connection closed by 172.16.58.3 port 42776 [preauth] \n Jul 15 18:53:28 ip-172-26-15-120 sshd[2769]: Connection closed by 172.16.58.3 port 44510 [preauth] \n Jul 15 18:53:30 ip-172-26-15-120 sshd[2771]: Connection closed by 172.16.58.3 port 46188 [preauth] \n Jul 15 18:53:32 ip-172-26-15-120 sshd[2773]: Connection closed by 172.16.58.3 port 47890 [preauth] \n Jul 15 18:53:33 ip-172-26-15-120 sshd[2775]: Connection closed by 172.16.58.3 port 49658 [preauth] \nJul 15 18:53:35 ip-172-26-15-120 sshd[2777]: Connection closed by 172.16.58.3 port 51380 [preauth]"
+  },
+  {
+    "rank": 5,
+    "id": "msg_b8a11c5467c980d0fab34f9473c27ada12538c23f0fbe49745f35d7335200b4f",
+    "score": 36.12181,
+    "link": "https://github.com/rancher/rancher/issues/29680",
+    "source": "github",
+    "origin_doc_id": "12c9c062e7fa65c2b8e5fefb6d9c03494fe488032d7eaecc232d6073acbd3957",
+    "snippet": "2020/10/21 19:45:26 [INFO] [node-controller-rancher-machine] Waiting for SSH to be available... \n[root@rancher ~]# tail -f /var/log/messages\nOct 21 19:46:55 rancher sshd[2139]: Connection closed by authenticating user docker 172.29.239.200 port 49242 [preauth]\nOct 21 19:46:59 rancher sshd[2141]: Connection closed by authenticating user docker 172.29.239.200 port 49254 [preauth]\nOct 21 19:47:03 rancher sshd[2143]: Connection closed by authenticating user docker 172.29.239.200 port 49264 [preauth]\nOct 21 19:47:03 rancher su: + pts/0 root:root\nOct 21 19:47:06 rancher sshd[2148]: Connection closed by authenticating user docker 172.29.239.200 port 49278 [preauth]\nOct 21 19:47:10 rancher sshd[2150]: Connection closed by authenticating user docker 172.29.239.200 port 49294 [preauth]\nOct 21 19:47:14 rancher sshd[2152]: Connection closed by authenticating user docker 172.29.239.200 port 49310 [preauth]\nOct 21 19:47:17 rancher sshd[2155]: Connection closed by authenticating user docker 172.29.239.200 port 49322 [preauth]\nOct 21 19:47:21 rancher sshd[2157]: Connection closed by authenticating user docker 172.29.239.200 port 49330 [preauth]\nOct 21 19:47:25 rancher sshd[2159]: Connection closed by authenticating user docker 172.29.239.200 port 49348 [preauth] \n Oct 21 19:47:28 rancher sshd[2162]: Connection closed by authenticating user docker 172.29.239.200 port 49360 [preauth]"
+  },
+  {
+    "rank": 6,
+    "id": "msg_de30fdbfd001d746914b1c94f4a2cb53860579b410d483a4a688f874d1b64a84",
+    "score": 35.51851,
+    "link": "https://github.com/sshnet/SSH.NET/issues/157",
+    "source": "github",
+    "origin_doc_id": "933cbcc990d3aecc97eb465de881beceeba6616fd1d5798958ee20b384a49567",
+    "snippet": "Connection closed by IP-Address [preauth]"
+  },
+  {
+    "rank": 7,
+    "id": "msg_af33ade8fba80b9f351db00cb714cab091ade6b81342eb5412d790999dc39d42",
+    "score": 35.197643,
+    "link": "https://github.com/rclone/rclone/issues/6076",
+    "source": "github",
+    "origin_doc_id": "7da25c8e8d08645b7339cc0541564e8bab88b1da6d47c1ad0c14fe39d3db9dd8",
+    "snippet": "Mar 31 15:52:20 [sshd] Connection closed by authenticating user piotr 172.17.17.2 port 60214 [preauth] \n Mar 31 15:52:20 [sshd] userauth_pubkey: key type ssh-rsa not in PubkeyAcceptedAlgorithms [preauth] \n Mar 31 15:52:20 [sshd] Connection closed by authenticating user piotr 172.17.17.2 port 60216 [preauth] \n Mar 31 15:52:20 [sshd] userauth_pubkey: key type ssh-rsa not in PubkeyAcceptedAlgorithms [preauth] \n Mar 31 15:52:20 [sshd] Connection closed by authenticating user piotr 172.17.17.2 port 60218 [preauth] \n Mar 31 15:52:21 [sshd] userauth_pubkey: key type ssh-rsa not in PubkeyAcceptedAlgorithms [preauth]\nMar 31 15:52:21 [sshd] Connection closed by authenticating user piotr 172.17.17.2 port 60220 [preauth]\nMar 31 15:52:23 [sshd] userauth_pubkey: key type ssh-rsa not in PubkeyAcceptedAlgorithms [preauth]\nMar 31 15:52:23 [sshd] Connection closed by authenticating user piotr 172.17.17.2 port 60222 [preauth]\nMar 31 15:52:25 [sshd] userauth_pubkey: key type ssh-rsa not in PubkeyAcceptedAlgorithms [preauth]\nMar 31 15:52:25 [sshd] Connection closed by authenticating user piotr 172.17.17.2 port 60224 [preauth]\nMar 31 15:52:27 [sshd] userauth_pubkey: key type ssh-rsa not in PubkeyAcceptedAlgorithms [preauth]\nMar 31 15:52:27 [sshd] Connection closed by authenticating user piotr 172.17.17.2 port 60226 [preauth]\nMar 31 15:52:29 [sshd] userauth_pubkey: key type ssh-rsa not in PubkeyAcceptedAlgorithms [preauth]\nMar 31 15:52:29 [sshd] Connection closed by authenticating user piotr 172.17.17.2 port 60228 [preauth]\n```\n[Truncated]"
+  },
+  {
+    "rank": 8,
+    "id": "msg_b9e3abfb9edd0ab6abb50cef0f5aa53fc022eadc790d3164355ce9752f9763d1",
+    "score": 35.163513,
+    "link": "https://github.com/FauxFaux/PuTTYTray/issues/207",
+    "source": "github",
+    "origin_doc_id": "4cf444456cd9bd6ec10a1dfce7b476577ec9de2c882cbed1f75d7d43f7aa1731",
+    "snippet": "error: Hm, kex protocol error: type 30 seq 1 [preauth] \n Connection closed by x.x.x.x [preauth]"
+  },
+  {
+    "rank": 9,
+    "id": "msg_4b5c1501ade58d3f86c88ddfc157e0be8394600321fd5b91c7f12cfac40c4c07",
+    "score": 35.08709,
+    "link": "https://github.com/atmoz/sftp/issues/137",
+    "source": "github",
+    "origin_doc_id": "e321fd400e80a4b6b4cfc010f6588c8c13d1769af2602d12f1ede6a7936c91d6",
+    "snippet": "| Server listening on 0.0.0.0 port 22. \n dycjh@example.com    | Server listening on :: port 22. \n dycjh@example.com    | Connection closed by 10.255.0.7 port 14826 [preauth] \n dycjh@example.com    | Connection closed by 10.255.0.7 port 53578 [preauth]"
+  },
+  {
+    "rank": 10,
+    "id": "msg_22f7f0e3600f1a792706a1b6965f94d55dc72102776264c4e7122104db22709c",
+    "score": 35.07907,
+    "link": "https://stackoverflow.com/questions/51427919",
+    "source": "so",
+    "origin_doc_id": "b91290fb6c0de765c62230bcd6095c87715e2225feaafb90c6ea5680788abdd0",
+    "snippet": ": Connection closed by 213.119.15.151 port 56854 [preauth]"
+  }
+]

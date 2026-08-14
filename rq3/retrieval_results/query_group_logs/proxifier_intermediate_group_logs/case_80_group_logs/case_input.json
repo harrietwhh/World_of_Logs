@@ -1,0 +1,29 @@
+{
+  "case_id": "80",
+  "summary_raw": "[\"open through proxy\"]",
+  "summary_items": [
+    "open through proxy"
+  ],
+  "group_logs_lines": [
+    "*64 - sestat.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - sestat.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - sestat.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - sclick.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - suggestion.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - suggestion.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - suggestion.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - suggestion.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - c.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - c.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - suggestion.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - sclick.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - c.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS",
+    "*64 - sclick.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS"
+  ]
+}

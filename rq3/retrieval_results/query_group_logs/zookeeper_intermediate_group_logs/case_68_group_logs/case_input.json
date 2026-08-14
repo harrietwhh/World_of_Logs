@@ -1,0 +1,32 @@
+{
+  "case_id": "68",
+  "summary_raw": "[\"Established session timeout\",\"Accepted socket connection\",\"Creating new log file\",\"Connection request will be dropped\"]",
+  "summary_items": [
+    "Established session timeout",
+    "Accepted socket connection",
+    "Creating new log file",
+    "Connection request will be dropped"
+  ],
+  "group_logs_lines": [
+    "INFO Synchronizing with Follower sid : 1 maxCommittedLog = 0x0 minCommittedLog = 0x0 peerLastZxid = 0x700000000",
+    "INFO Sending DIFF",
+    "INFO Accepted socket connection from /10.10.34.12 : 38021",
+    "WARN Connection request from old client /10.10.34.12 : 38021 ; will be dropped if server is in r-o mode",
+    "INFO Client attempting to establish new session at /10.10.34.12 : 38021",
+    "INFO Creating new log file : log.700000001",
+    "INFO Established session 0x24ee30a54f50000 with negotiated timeout 10000 for client /10.10.34.12 : 38021",
+    "INFO Accepted socket connection from /10.10.34.11 : 44674",
+    "WARN Connection request from old client /10.10.34.11 : 44674 ; will be dropped if server is in r-o mode",
+    "INFO Client attempting to establish new session at /10.10.34.11 : 44674",
+    "INFO Established session 0x24ee30a54f50001 with negotiated timeout 10000 for client /10.10.34.11 : 44674",
+    "INFO Accepted socket connection from /10.10.34.11 : 44676",
+    "INFO Accepted socket connection from /10.10.34.11 : 44677",
+    "WARN Connection request from old client /10.10.34.11 : 44676 ; will be dropped if server is in r-o mode",
+    "INFO Client attempting to establish new session at /10.10.34.11 : 44676",
+    "WARN Connection request from old client /10.10.34.11 : 44677 ; will be dropped if server is in r-o mode",
+    "INFO Client attempting to establish new session at /10.10.34.11 : 44677",
+    "INFO Established session 0x24ee30a54f50002 with negotiated timeout 10000 for client /10.10.34.11 : 44676",
+    "INFO Established session 0x24ee30a54f50003 with negotiated timeout 10000 for client /10.10.34.11 : 44677",
+    "INFO Accepted socket connection from /10.10.34.13 : 46340"
+  ]
+}

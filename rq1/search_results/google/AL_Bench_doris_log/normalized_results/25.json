@@ -1,0 +1,40 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "StatefulSets",
+    "link": "https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/",
+    "displayed_link": "https://kubernetes.io › concepts › controllers › statefulset",
+    "snippet": "StatefulSet is the workload API object used to manage stateful applications. Manages the deployment and scaling of a set of Pods, and provides guarantees about ...",
+    "snippet_highlighted_words": [],
+    "source": "Kubernetes",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "StatefulSet Basics",
+    "link": "https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/",
+    "displayed_link": "https://kubernetes.io › tutorials › stateful-application › b...",
+    "snippet": "This tutorial provides an introduction to managing applications with StatefulSets. It demonstrates how to create, delete, scale, and update ...",
+    "snippet_highlighted_words": [],
+    "source": "Kubernetes",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Why i am getting this error message while init the cluster?",
+    "link": "https://discuss.kubernetes.io/t/why-i-am-getting-this-error-message-while-init-the-cluster/26780",
+    "displayed_link": "https://discuss.kubernetes.io › why-i-am-getting-this-err...",
+    "snippet": "This error typically points to the kubelet not running or not being accessible on your master node at the time the check is performed.",
+    "snippet_highlighted_words": [
+      "error"
+    ],
+    "source": "Discuss Kubernetes",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

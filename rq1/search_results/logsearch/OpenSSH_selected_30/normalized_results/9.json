@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_2e3477dd78f6293856b848c96308f81115bed5b6559dca35426aba7f4d8605a7",
+    "score": 33.14938,
+    "link": "https://stackoverflow.com/questions/55355982",
+    "source": "so",
+    "origin_doc_id": "c58ae928c14eda4e8e61be281b56c74d2939ae6f5259ee4157428b905ffbbeae",
+    "snippet": "Dec 10 06:55:46 LabSZ sshd[24200]: reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT! \n Dec 10 06:55:46 LabSZ sshd[24200]: Invalid user webmaster from 173.234.31.186 \n Dec 10 06:55:46 LabSZ sshd[24200]: input_userauth_request: invalid user webmaster [preauth] \n Dec 10 06:55:46 LabSZ sshd[24200]: pam_unix(sshd:auth): check pass; user unknown \n Dec 10 06:55:46 LabSZ sshd[24200]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.234.31.186  \n Dec 10 06:55:48 LabSZ sshd[24200]: Failed password for invalid user webmaster from 173.234.31.186 port 38926 ssh2 \n Dec 10 06:55:48 LabSZ sshd[24200]: Connection closed by 173.234.31.186 [preauth] \n Dec 10 07:02:47 LabSZ sshd[24203]: Connection closed by 212.47.254.145 [preauth] \nDec 10 07:07:38 LabSZ sshd[24206]: Invalid user test9 from 52.80.34.196\nDec 10 07:07:38 LabSZ sshd[24206]: input_userauth_request: invalid user test9 [preauth]\nDec 10 07:07:38 LabSZ sshd[24206]: pam_unix(sshd:auth): check pass; user unknown"
+  },
+  {
+    "rank": 2,
+    "id": "msg_fbfdf421446632e5a58d162f11e8e04ce724dc476f3d347042576216cabef87b",
+    "score": 25.668615,
+    "link": "https://github.com/github/orchestrator/issues/732",
+    "source": "github",
+    "origin_doc_id": "c1dae6526de717b111dc18bafacba532d06d33df2ae895558bddede87c88529a",
+    "snippet": "[martini] Completed 500 Internal Server Error in 18.22924ms \n web show running  \n ![image](https://user-images.githubusercontent.com/23513271/48878215-86ffdc00-ee41-11e8-83bd-3eeffe923e6a.png) \n check ping 👍 \n [root@xhhost75 orchestrator]# ping test9.hualala.com \n PING test9.hualala.com (172.16.0.29) 56(84) bytes of data. \n 64 bytes from test9.hualala.com (172.16.0.29): icmp_seq=1 ttl=64 time=20.0 ms \n 64 bytes from test9.hualala.com (172.16.0.29): icmp_seq=2 ttl=64 time=18.8 ms"
+  },
+  {
+    "rank": 3,
+    "id": "msg_06c88850fb806facaf1d65f56b5b0a95771d2e3ab8fa7f44b888c3c35cebe295",
+    "score": 23.184864,
+    "link": "https://stackoverflow.com/questions/37824329",
+    "source": "so",
+    "origin_doc_id": "7512b432b1573fba931412cba90ad68544db4c777b2ab0ecdcbd6a65481413b1",
+    "snippet": "System.out.println(\"File access cancelled by user.\");\nTest9#Electronic#9.00#"
+  },
+  {
+    "rank": 4,
+    "id": "msg_3499d94a060dcea677dbd3572c2b1e32661ead526630c6c51a9bf9280412a8ee",
+    "score": 21.752634,
+    "link": "https://stackoverflow.com/questions/42211329",
+    "source": "so",
+    "origin_doc_id": "b736dce91173b2e27024305cf13444a81bd021f74246ab40e0dabe72bc5a61c8",
+    "snippet": "g++ 6  \n  test9.cpp:39:12:   required from here \n test9.cpp:27:12: error: passing ‘const A<int>’ as ‘this’ argument discards qualifiers [-fpermissive] \n          _a = a_wrap._a;"
+  },
+  {
+    "rank": 5,
+    "id": "msg_c4d84dfdad195ae065ecd66eedaee77b96bb7658f3640ba80da953c2bc6f183e",
+    "score": 21.314249,
+    "link": "https://stackoverflow.com/questions/60948218",
+    "source": "so",
+    "origin_doc_id": "0851ee15712827dac87e6429d4eaf828ac56bd88e21aabe6ca2833675bc3f32f",
+    "snippet": "log.info(\"Message {} from {} in {}\".format(message_object, thread_id, thread_type))\nprint(\"test9\")"
+  },
+  {
+    "rank": 6,
+    "id": "msg_5b24ebc2e0969a60f539bc8851b57b9798cbb1a62e90b4504e853f2fd77a1621",
+    "score": 21.301884,
+    "link": "https://github.com/babel/babel/issues/11984",
+    "source": "github",
+    "origin_doc_id": "1db998753ea1ab7a48eca07f1c2f15e0619456cf8e07770ca22826e6543bd34a",
+    "snippet": "console.info('test9');\nconsole.info(generatedCode.code);\nconsole.info('test9');"
+  },
+  {
+    "rank": 7,
+    "id": "msg_499283f2ed58ea8f410b1d1b050362eea52318e82673d1e0c550cc2e31f95421",
+    "score": 20.681494,
+    "link": "https://issues.apache.org/jira/browse/CB-14202",
+    "source": "jira",
+    "origin_doc_id": "78743cfdd66a44778c404caf2dcb8a5b7f0e12fbc77f73740eec0205be290b7e",
+    "snippet": "{{Generating platform-specific config.xml from defaults for android at /tmp/test9/platforms/android/res/xml/config.xml}} \n  {{cp: copyFileSync: could not write to dest file (code=ENOENT):/tmp/test9/platforms/android/res/xml/config.xml}}{{Merging project's config.xml into platform-specific android config.xml}} \n  {{Parsing /tmp/test9/platforms/android/res/xml/config.xml failed}} \n  {{(node:20148) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: ENOENT: no such file or directory, open '/tmp/test9/platforms/android/res/xml/config.xml'}}"
+  },
+  {
+    "rank": 8,
+    "id": "msg_9a1508e8f276b4a4ef22ef271bd44bb77b3645eff7764848e88ac35472d90855",
+    "score": 19.717485,
+    "link": "https://github.com/FStarLang/FStar/issues/2460",
+    "source": "github",
+    "origin_doc_id": "d95d056598812734daba3a6c15a2530b8880a30018bb244d7dae061b40ef5781",
+    "snippet": "test9.fst(16,2-16,5): (Error 19) Subtyping check failed; expected type Prims.squash (Prims.b2t (Test9.for_all_range (FStar.List.Tot.Base.length #Prims.nat \n               (Mktest_t?.s projectee)) \n           (fun _ -> true))); got type Prims.squash (Prims.b2t (Test9.for_all_range (FStar.List.Tot.Base.length #Prims.nat s) \n           (fun _ -> true))); The SMT solver could not prove the query, try to spell your proof in more detail or increase fuel/ifuel (see also test9.fst(16,14-16,77)) \n Verified module: Test9 \n 1 error was reported (see above)"
+  },
+  {
+    "rank": 9,
+    "id": "msg_5e06b64c78bb16b3d035275666b2d93cff5404a4bbe0845d19cce64cb75fa877",
+    "score": 19.714523,
+    "link": "https://github.com/ktbyers/netmiko/issues/2339",
+    "source": "github",
+    "origin_doc_id": "e5657e538f0df41cf86990051588ee68ac48de2e70c413a1d4702cbc5efebf83",
+    "snippet": "scp.SCPException: error: syntax error: /var/tmp/test9.txt \n ``` \n ``` \n test_netmiko_scp.py::test_scp_get b'scp  -f /var/tmp/test9.txt' \n FAILED \n ```"
+  },
+  {
+    "rank": 10,
+    "id": "msg_88749f078c6192c737e62ee24f6fca80ab95f9e456d3e1aa5694aa97b0b47693",
+    "score": 19.63347,
+    "link": "https://stackoverflow.com/questions/65204150",
+    "source": "so",
+    "origin_doc_id": "b11990adb3a23c6c79f81bf2debaa8409f19a9a2fa7396c2c938c0e17bb9022c",
+    "snippet": "> time geninfo --gcov-tool gcov-5 test5/CPrimitiveLayerTest.cpp.gcno  \n Found gcov version: 5.5.0 \n Using intermediate gcov format \n Processing test5/CPrimitiveLayerTest.cpp.gcno \n Finished .info-file creation \n\nreal    0m0.351s\nuser    0m0.298s\nsys     0m0.047s\n\n> time geninfo --gcov-tool gcov-9 test9/CPrimitiveLayerTest.cpp.gcno \nFound gcov version: 9.3.0\nUsing intermediate gcov format\nProcessing test9/CPrimitiveLayerTest.cpp.gcno\nFinished .info-file creation"
+  }
+]

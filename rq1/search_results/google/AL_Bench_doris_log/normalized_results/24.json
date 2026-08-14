@@ -1,0 +1,144 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "🐛 Bug Report: Github events support should cause the ...",
+    "link": "https://github.com/backstage/backstage/issues/16084",
+    "displayed_link": "https://github.com › backstage › backstage › issues",
+    "snippet": "When Backstage processes a GitHub change event, the changed entities should update immediately. My users should not have to wait 2 hours to see their updates.",
+    "snippet_highlighted_words": [
+      "event",
+      "update",
+      "should not"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "Does anyone know what the following events mean?",
+    "link": "https://community.splunk.com/t5/Knowledge-Management/Does-anyone-know-what-the-following-events-mean-quot-WARN/m-p/378266",
+    "displayed_link": "https://community.splunk.com › Knowledge-Management",
+    "snippet": "Hello, Has anyone seen events like this before? (looking at index=_internal): WARN CMSlave - event=populateSummaryInfo got unknown_state.",
+    "snippet_highlighted_words": [
+      "events",
+      "WARN",
+      "event"
+    ],
+    "source": "Splunk Community",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "Log Messages Reference | BIG-IP Documentation",
+    "link": "https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/releasenotes/related/log-messages.html",
+    "displayed_link": "https://techdocs.f5.com › products › releasenotes › related",
+    "snippet": "Usage information and technical documentation for BIG-IP and other related F5 products.",
+    "snippet_highlighted_words": [],
+    "source": "My F5",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "3. Resolved and Known Issues | 6.4.0 Release Notes",
+    "link": "https://docs.redhat.com/en/documentation/red_hat_jboss_enterprise_application_platform/6.4/html/6.4.0_release_notes/sect-resolved_and_known_issues",
+    "displayed_link": "https://docs.redhat.com › documentation › html › sect-re...",
+    "snippet": "This release of JBoss EAP 6 fixes a memory leak caused by an application deployed that is using jboss-ejb-client.xml to configure remote EJB clients connections ...",
+    "snippet_highlighted_words": [],
+    "source": "Red Hat Documentation",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "Log messages 0x804XXXXX–0x80cXXXXX",
+    "link": "https://www.ibm.com/docs/en/datapower-gateway/10.6.0?topic=messages-log-0x804xxxxx0x80cxxxxx",
+    "displayed_link": "https://www.ibm.com › docs › datapower-gateway",
+    "snippet": "The section contains the log messages in the range 0x804XXXXX–0x80cXXXXX that can be written to the system log and to explicitly defined log targets.",
+    "snippet_highlighted_words": [
+      "log",
+      "can",
+      "log",
+      "log"
+    ],
+    "source": "IBM",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "Hub Topic: WARN : Dropped 1 log events out of 1 - Forum",
+    "link": "https://forum.newrelic.com/s/hubtopic/aAX8W00000005ftWAA/void(0)",
+    "displayed_link": "https://forum.newrelic.com › hubtopic › void(0)",
+    "snippet": "The dropped log event is because we have a cap on the amount of error event data that can get sent to New Relic in each harvest cycle. We limit the number of ...",
+    "snippet_highlighted_words": [
+      "log event",
+      "event",
+      "can"
+    ],
+    "source": "New Relic",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "Error conditions in Databricks",
+    "link": "https://docs.databricks.com/aws/en/error-messages/error-classes",
+    "displayed_link": "https://docs.databricks.com › aws › error-classes",
+    "snippet": "Error conditions are descriptive, human-readable strings that unique to the error they describe. You can use error conditions to programmatically handle errors.",
+    "snippet_highlighted_words": [
+      "can"
+    ],
+    "source": "Databricks",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "Criminal Justice Information Services (CJIS) Security Policy",
+    "link": "https://le.fbi.gov/cjis-division/cjis-security-policy-resource-center/cjis_security_policy_v5-9-5_20240709.pdf",
+    "displayed_link": "https://le.fbi.gov › cjis-division › cjis_security_p...",
+    "snippet": "Organizational personnel on the alert notification list can include system administrators, mission or business owners, system owners ...",
+    "snippet_highlighted_words": [
+      "alert notification",
+      "can"
+    ],
+    "source": "Federal Bureau of Investigation (.gov)",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "System Error Messages for Cisco Unified Communications ...",
+    "link": "https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cucm/err_msgs/12_x/ccmalarms1251.html",
+    "displayed_link": "https://www.cisco.com › ... › Error and System Messages",
+    "snippet": "Explanation Some voice messaging systems send SMDI messages to Cisco Unified Communications Manager (Unified CM) with an invalid DN specifically ...",
+    "snippet_highlighted_words": [],
+    "source": "Cisco",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "Study Guide",
+    "link": "https://www.zscaler.com/resources/brochures/zscaler-digital-transformation-admin-study-guide.pdf",
+    "displayed_link": "https://www.zscaler.com › resources › brochures",
+    "snippet": "Exam Blueprint: Zscaler Digital Transformation Administrator. 60 questions | 90 minutes | Professional Level. Prerequisites | Zscaler for Users ...",
+    "snippet_highlighted_words": [],
+    "source": "Zscaler",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_2830db5fa100975382c1a62fa143fd6802e60e0e6f5b348c0cb8b3aae10b7015",
+    "score": 116.43543,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2577",
+    "source": "jira",
+    "origin_doc_id": "960ab4d84b5ad0971d6a6f9ab4284160a542c5bf0de51213db06e14c562cbde6",
+    "snippet": "2016-09-13 05:09:26,141 [myid:1] - INFO  [QuorumPeer[myid=1](plain=/127.0.0.1:13918)(secure=disabled):Follower@66] - FOLLOWING - LEADER ELECTION TOOK - 37 MS"
+  },
+  {
+    "rank": 2,
+    "id": "msg_fb68560535f8b112a37218b5c0805750050252075eafc56577075447b9152e5e",
+    "score": 116.17031,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,948 [myid:1] - INFO  [QuorumPeer[myid=1](plain=/127.0.0.1:11225)(secure=disabled):Follower@66] - FOLLOWING - LEADER ELECTION TOOK - 25 MS"
+  },
+  {
+    "rank": 3,
+    "id": "msg_10b9faa537133fb6a459f2aa4e3ae063180d82b562b21bda9834d3ad7ff8576b",
+    "score": 113.62014,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2577",
+    "source": "jira",
+    "origin_doc_id": "960ab4d84b5ad0971d6a6f9ab4284160a542c5bf0de51213db06e14c562cbde6",
+    "snippet": "2016-09-13 05:09:26,129 [myid:0] - INFO  [QuorumPeer[myid=0](plain=/127.0.0.1:13915)(secure=disabled):Follower@66] - FOLLOWING - LEADER ELECTION TOOK - 18 MS"
+  },
+  {
+    "rank": 4,
+    "id": "msg_32d79d7eac7750ac6d93e87409fea8c635898c4de7fb1abc2ca478c38cb5c7bd",
+    "score": 113.35502,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,953 [myid:0] - INFO  [QuorumPeer[myid=0](plain=/127.0.0.1:11222)(secure=disabled):Follower@66] - FOLLOWING - LEADER ELECTION TOOK - 23 MS"
+  },
+  {
+    "rank": 5,
+    "id": "msg_55424860cfb57c866a3f90ab1e5ce1b7c68ce4919f29d85b521737ef7c6ad2ab",
+    "score": 109.9919,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2577",
+    "source": "jira",
+    "origin_doc_id": "960ab4d84b5ad0971d6a6f9ab4284160a542c5bf0de51213db06e14c562cbde6",
+    "snippet": "2016-09-13 05:09:26,129 [myid:2] - INFO  [QuorumPeer[myid=2](plain=/127.0.0.1:13921)(secure=disabled):Leader@412] - LEADING - LEADER ELECTION TOOK - 20 MS"
+  },
+  {
+    "rank": 6,
+    "id": "msg_6cb8159f0f7b00fd99cdeae6431d79fe44df044671763d36662fdeee2e8a428c",
+    "score": 109.72678,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2529",
+    "source": "jira",
+    "origin_doc_id": "9ff73a470ae2435ff1fb37ca0efc214e6bf45e3eb7376b4821465c2e34007a97",
+    "snippet": "2016-08-24 19:20:17,956 [myid:2] - INFO  [QuorumPeer[myid=2](plain=/127.0.0.1:11228)(secure=disabled):Leader@412] - LEADING - LEADER ELECTION TOOK - 27 MS"
+  },
+  {
+    "rank": 7,
+    "id": "msg_c3308e79063e0db363f24f589d58e8507d7669dcec44b9f3b4bd4cdd29589adc",
+    "score": 109.080864,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-3756",
+    "source": "jira",
+    "origin_doc_id": "d1790571171648dce2bf7e908285036a1b93f14cbbf3d058cca2447073b91e5f",
+    "snippet": "2020-03-13 19:16:05,247 [myid:2] - INFO [QuorumPeer[myid=2](plain=0.0.0.0:2181)(secure=disabled):Follower@69] - FOLLOWING - LEADER ELECTION TOOK - 1 MS"
+  },
+  {
+    "rank": 8,
+    "id": "msg_3431c564333ce78062897ab510f095ca2895ae83965de28522e6e4c10f42a12e",
+    "score": 106.837814,
+    "link": "https://stackoverflow.com/questions/59693707",
+    "source": "so",
+    "origin_doc_id": "7e894e1888b7116cf4843b34e16f0e5bc32a0a50cdfc8637122c87af4c8a411d",
+    "snippet": "2020-01-10 21:01:07,900 [myid:1] - INFO  [QuorumPeer[myid=1](plain=/0.0.0.0:2181)(secure=disabled):Leader@464] - LEADING - LEADER ELECTION TOOK - 29 MS"
+  },
+  {
+    "rank": 9,
+    "id": "msg_267cc7b1cf8dafb5f5b571aaee52db22df24ffc04f3c11dae7b3da8545d4d95e",
+    "score": 105.78987,
+    "link": "https://issues.apache.org/jira/browse/ZOOKEEPER-2938",
+    "source": "jira",
+    "origin_doc_id": "fe871905f21a9167c235ea02d5c72276a0581c62fdb74e2a1ed96c2da9b75f2e",
+    "snippet": "2019-06-12 00:40:09,924 [myid:1] - INFO [QuorumPeer[myid=1](plain=/0.0.0.0:2181)(secure=disabled):Follower@69] - FOLLOWING - LEADER ELECTION TOOK - 43 MS"
+  },
+  {
+    "rank": 10,
+    "id": "msg_aecf0d3ba386b31401663a4bc7d5c91ee57d72a7b7e5b7baa32a59ca4187d47b",
+    "score": 105.78987,
+    "link": "https://stackoverflow.com/questions/61197466",
+    "source": "so",
+    "origin_doc_id": "15a42e26d68d9fa8cd83bf5093f9e9ebbe8c64cd0f80c17730f63ba01ec8bc90",
+    "snippet": "2020-04-13 17:20:17,794 [myid:1] - INFO  [QuorumPeer[myid=1](plain=0.0.0.0:2181)(secure=disabled):Follower@75] - FOLLOWING - LEADER ELECTION TOOK - 1381 MS"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "id": "msg_13ebec2dac3fa857767de0322f595a3d0c7c28acb043d62379235df0576c97a6",
+    "score": 65.02533,
+    "link": "https://stackoverflow.com/questions/20688844",
+    "source": "so",
+    "origin_doc_id": "9d3ae5f01f34688721689c067b708f783ab0249790a16c5cebbb8649a6a23cc3",
+    "snippet": "/var/log/secure  > sshd[22565]: error: Received disconnect from X.X.X.X: 14: No supported authentication methods available [preauth]  \n  On client side    \n  ssh user@X.X.X.X \n   Permission denied (publickey). \n ssh -vvv user@X.X.X.X \n   ... \n   debug2: we did not send a packet, disable method \n   debug1: No more authentication methods to try. \n  Permission denied (publickey)."
+  },
+  {
+    "rank": 2,
+    "id": "msg_3dd3e46ca76af7e90f16bf96c51e56cf01b333c9bf23d7b4f2768309b17f21dc",
+    "score": 62.250984,
+    "link": "https://stackoverflow.com/questions/36693904",
+    "source": "so",
+    "origin_doc_id": "00d7a1f90f055d26a620ad28f6e3f9d1bc140028594da4e9ae44e7b1c3cf9dc8",
+    "snippet": "error: Received disconnect from 223.165.28.230: 14: No supported authenti \n cation methods available [preauth]"
+  },
+  {
+    "rank": 3,
+    "id": "msg_f1924054f3dab1ed554dcc477d5d592299b27a32071b20199e1a7c59d733e7c3",
+    "score": 46.88645,
+    "link": "https://stackoverflow.com/questions/57649377",
+    "source": "so",
+    "origin_doc_id": "06e4b4a620e86d3ce106d753ef373a5a6bbf03740b13aa686902e070e1ee5d41",
+    "snippet": "sshd[569]: rexec line 33: Deprecated option KeyRegenerationInterval \n sshd[569]: rexec line 34: Deprecated option ServerKeyBits \n sshd[569]: rexec line 45: Deprecated option RSAAuthentication \nsshd[569]: rexec line 52: Deprecated option RhostsRSAAuthentication \n sshd[569]: reprocess config line 45: Deprecated option RSAAuthentication sshd[569]: reprocess config line 52: Deprecated option RhostsRSAAuthentication sshd[569]: error: Received disconnect from xx.xx.xx.xx port 54590:14: No supported authentication methods available [preauth] \n sshd[569]: Disconnected from xx.xx.xx.xx port 54590 [preauth"
+  },
+  {
+    "rank": 4,
+    "id": "msg_7a1cef83f78de2053223b9a5859b9b35a016710d136b5370b521ced0c2ca539e",
+    "score": 46.8665,
+    "link": "https://stackoverflow.com/questions/36024095",
+    "source": "so",
+    "origin_doc_id": "eee9893760cdb117b3a9414420c56031a740b39acdceeb413a2fc1e0ee7b420b",
+    "snippet": "Mar 14 19:22:36 hotdog sshd[65937]: Received disconnect from 181.214.92.11:  11: Bye Bye [preauth] \n Mar 14 19:22:37 hotdog sshd[65939]: Invalid user ubnt from 181.214.92.11 \n Mar 14 19:22:37 hotdog sshd[65939]: input_userauth_request: invalid user ubnt [preauth] \n Mar 14 19:22:37 hotdog sshd[65939]: Received disconnect from 181.214.92.11: 11: Bye Bye [preauth] \n Mar 14 19:22:38 hotdog sshd[65941]: Invalid user support from 181.214.92.11 \n Mar 14 19:22:38 hotdog sshd[65941]: input_userauth_request: invalid user support [preauth] \n Mar 14 19:22:38 hotdog sshd[65941]: Received disconnect from 181.214.92.11: 11: Bye Bye [preauth] \n Mar 14 19:22:39 hotdog sshd[65943]: Invalid user oracle from 181.214.92.11 \n Mar 14 19:22:39 hotdog sshd[65943]: input_userauth_request: invalid user oracle [preauth] \nMar 14 19:22:39 hotdog sshd[65943]: Received disconnect from 181.214.92.11: 11: Bye Bye [preauth]\nMar 14 19:22:40 hotdog sshd[65945]: Received disconnect from 181.214.92.11: 11: Bye Bye [preauth]\nMar 14 19:24:04 hotdog sshd[65947]: fatal: Read from socket failed: Operation timed out [preauth]\nMar 14 20:01:19 hotdog sshd[66032]: Received disconnect from 183.3.202.102: 11:  [preauth]\nMar 14 20:40:17 hotdog sshd[66092]: Invalid user cacti from 199.217.117.71\nMar 14 20:40:17 hotdog sshd[66092]: input_userauth_request: invalid user cacti [preauth]\nMar 14 20:40:17 hotdog sshd[66092]: Connection closed by 199.217.117.71 [preauth]\nMar 14 21:32:09 hotdog sshd[66188]: Received disconnect from 183.3.202.102: 11:  [preauth]\nMar 14 22:01:59 hotdog sshd[66256]: Invalid user user1 from 199.217.117.71\nMar 14 22:01:59 hotdog sshd[66256]: input_userauth_request: invalid user user1 [preauth]\nMar 14 22:02:00 hotdog sshd[66256]: Connection closed by 199.217.117.71 [preauth] \n Mar 14 22:17:57 hotdog sshd[66280]: Did not receive identification string from 14.182.117.161"
+  },
+  {
+    "rank": 5,
+    "id": "msg_ab22abaf4bd7d060b03105c6ee883358792912e0124e6abfb950a66dad5c0d13",
+    "score": 45.084793,
+    "link": "https://stackoverflow.com/questions/68442150",
+    "source": "so",
+    "origin_doc_id": "42b8a49b7d559bdb5821f0ca9d56cfff6bf0c9f7cf7c607a0e38ba234a7feb3f",
+    "snippet": "Jul 19 14:18:33 sshd[14275]: Invalid user user from  port 47990 \n Jul 19 14:18:33 sshd[14275]: Received disconnect from  port 47990:11: Normal Shutdown, Thank you for playing [preauth] \n Jul 19 14:18:33 sshd[14275]: Disconnected from invalid user user  port 47990 [preauth] \n Jul 19 14:18:44 sshd[14277]: Invalid user user from  port 48558 \n Jul 19 14:18:44 sshd[14277]: Received disconnect from  port 48558:11: Normal Shutdown, Thank you for playing [preauth] \n Jul 19 14:18:44 sshd[14277]: Disconnected from invalid user user  port 48558 [preauth] \n Jul 19 14:18:55 sshd[14282]: Invalid user user from port 49142 \n Jul 19 14:18:55 sshd[14282]: Received disconnect from  port 49142:11: Normal Shutdown, Thank you for playing [preauth] \nJul 19 14:18:55 sshd[14282]: Disconnected from invalid user user port 49142 [preauth]"
+  },
+  {
+    "rank": 6,
+    "id": "msg_ddd692d3b5a3a650527413b4144268ff1d30223845f0f97fb9188f5d758a3cbf",
+    "score": 44.817738,
+    "link": "https://stackoverflow.com/questions/21809383",
+    "source": "so",
+    "origin_doc_id": "be63c87f9d156d0e589fe71b0fa4e64ddaae0d03eec7c15bfcefbeef23d90d92",
+    "snippet": "Invalid user liao from xxx.xxx.x.xxx \n input_userauth_request: invalid user liao [preauth] \n Received disconnect from xxx.xxx.x.xxx: Bye Bye [preauth]"
+  },
+  {
+    "rank": 7,
+    "id": "msg_501671a2771f51e01090ff8e62449e76a5214bca3b95e2969406180978f64ff2",
+    "score": 44.393112,
+    "link": "https://github.com/crazy-max/docker-fail2ban/issues/8",
+    "source": "github",
+    "origin_doc_id": "daac64fc49698ad6efff97648709ea6aeb8d58a94519d37978e932cb23ec6b45",
+    "snippet": "2018-11-18 20:20:15,823 fail2ban.server         [1]: DEBUG     failregex: '^Received <F-MLFFORGET>disconnect</F-MLFFORGET> from <HOST>(?: (?:port \\\\d+|on \\\\S+)){0,2}:\\\\s*14: No supported authentication methods available'"
+  },
+  {
+    "rank": 8,
+    "id": "msg_eedebf1726fa45891cdb476e217512d9dc82617a3cdbf7f141db4e1e60ef93ca",
+    "score": 43.989803,
+    "link": "https://github.com/theophilusx/ssh2-sftp-client/issues/217",
+    "source": "github",
+    "origin_doc_id": "c4a45343dad82f7fd15ec18f42c37667ed999612bba1f486c26e703b23f26d5e",
+    "snippet": "console.log(\"Failed to connect:\", e);\nconsole.log(\"Failed to retrieve sftp download: \", e);\n[Truncated]\nftp_1  | Disconnected from 172.18.0.1 port 59724 [preauth]\nftp_1  | Received disconnect from 172.18.0.1 port 59728:11:  [preauth]\nftp_1  | Disconnected from 172.18.0.1 port 59728 [preauth]\nftp_1  | Received disconnect from 172.18.0.1 port 59732:11:  [preauth]\nftp_1  | Disconnected from 172.18.0.1 port 59732 [preauth]\nftp_1  | Received disconnect from 172.18.0.1 port 59736:11:  [preauth]\nftp_1  | Disconnected from 172.18.0.1 port 59736 [preauth]\nftp_1  | Received disconnect from 172.18.0.1 port 59740:11:  [preauth]\nftp_1  | Disconnected from 172.18.0.1 port 59740 [preauth]\nftp_1  | Received disconnect from 172.18.0.1 port 59744:11:  [preauth] \n ftp_1  | Disconnected from 172.18.0.1 port 59744 [preauth] \n ftp_1  | Received disconnect from 172.18.0.1 port 59748:11:  [preauth] \n ftp_1  | Disconnected from 172.18.0.1 port 59748 [preauth] \n ftp_1  | Received disconnect from 172.18.0.1 port 59752:11:  [preauth] \n ftp_1  | Disconnected from 172.18.0.1 port 59752 [preauth] \n ftp_1  | Received disconnect from 172.18.0.1 port 59756:11:  [preauth] \n ftp_1  | Disconnected from 172.18.0.1 port 59756 [preauth] \n ... truncated"
+  },
+  {
+    "rank": 9,
+    "id": "msg_32ec0d2cce3855335e71b2b57923d1505ed2cb6cec3b5ff0eaac249121a1766c",
+    "score": 42.677315,
+    "link": "https://stackoverflow.com/questions/79505425",
+    "source": "so",
+    "origin_doc_id": "92d57149fbcec7001bb6c74a05186df1180c4292fe6f4f671479b4a1c8c8e1da",
+    "snippet": "debug3: userauth_finish: failure partial=0 next methods=\"publickey,password,keyboard-interactive\" [preauth] \n debug1: userauth-request for user MyHostUser service ssh-connection method keyboard-interactive [preauth] \n debug1: attempt 1 failures 0 [preauth] \n debug2: input_userauth_request: try method keyboard-interactive [preauth] \n debug1: keyboard-interactive devs  [preauth] \n debug1: auth2_challenge: user=wsftptest devs= [preauth] \ndebug1: kbdint_alloc: devices '' [preauth]\ndebug2: auth2_challenge_start: devices  [preauth]\ndebug3: user_specific_delay: user specific delay 0.000ms [preauth]\ndebug3: ensure_minimum_time_since: elapsed 0.000ms, delaying 5.311ms (requested 5.311ms) [preauth]\ndebug3: userauth_finish: failure partial=0 next methods=\"publickey,password,keyboard-interactive\" [preauth]\ndebug3: send packet: type 51 [preauth]\ndebug3: receive packet: type 1 [preauth]\nReceived disconnect from MyHost port 38392:11: Bye Bye [preauth]\nDisconnected from authenticating user MyHostUser MyHost port 38392 [preauth]"
+  },
+  {
+    "rank": 10,
+    "id": "msg_17defc548e2b59541ff3f3e6ac8460ef9b4c8f08537372b0b69569164c08a54d",
+    "score": 42.242798,
+    "link": "https://github.com/OWASP/SecureTea-Project/pull/126",
+    "source": "github",
+    "origin_doc_id": "206e5fe98de85cada1189c2d71a0d29e5c535e1d394d6b7fa7ffbed51e2a007d",
+    "snippet": "Jun 1 10:22:56 ip-172-31-1-163 sshd[2363]: Invalid user ubnt from 192.168.3.11 \n Jun 1 11:55:42 ip-172-31-1-163 sshd[2421]: Invalid user admin from 172.16.31.10 \n Jun 2 13:25:29 ip-172-31-1-163 sshd[2671]: Invalid user server from 172.16.31.10\nJan 11 12:34:24 ip-172-31-1-163 sshd[2598]: Received disconnect from 172.16.58.3: 11:  [preauth] \n Jan 11 12:34:53 ip-172-31-1-163 sshd[2601]: Received disconnect from 172.16.31.10: 11:  [preauth] \n Jan 11 12:35:59 ip-172-31-1-163 sshd[2603]: Received disconnect from 172.16.17.32: 11:  [preauth] \n Jan 11 12:38:21 ip-172-31-1-163 sshd[2607]: Received disconnect from 172.16.17.32: 11:  [preauth] \n Jan 11 12:38:37 ip-172-31-1-163 sshd[2609]: Received disconnect from 192.168.3.11: 11:  [preauth] \n Jan 11 12:40:20 ip-172-31-1-163 sshd[2611]: Received disconnect from 172.16.17.32: 11:  [preauth] \n Jan 11 12:41:19 ip-172-31-1-163 sshd[2613]: Received disconnect from 192.168.3.11: 11:  [preauth] \nJan 11 12:42:40 ip-172-31-1-163 sshd[2615]: Received disconnect from 172.16.17.32: 11:  [preauth] \n Jan 11 12:42:40 ip-172-31-1-163 sshd[2617]: Received disconnect from 172.16.31.10: 11:  [preauth] \n Jan 11 12:44:24 ip-172-31-1-163 sshd[2619]: Received disconnect from 192.168.3.11: 11:  [preauth] \n Jan 11 12:45:01 ip-172-31-1-163 sshd[2621]: Received disconnect from 192.168.3.11: 11:  [preauth] \n Jan 11 12:46:52 ip-172-31-1-163 sshd[2623]: Received disconnect from 172.16.58.3: 11:  [preauth] \n ```"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "rank": 1,
+    "position": 1,
+    "title": "Why all users are uid=0 when connecting through SSH?",
+    "link": "https://serverfault.com/questions/995438/why-all-users-are-uid-0-when-connecting-through-ssh",
+    "displayed_link": "https://serverfault.com › questions › why-all-users-are-u...",
+    "snippet": "I was testing some pam rules and I noticed that all users has uid=0 (root) when they log in to the system through SSH. Could be a reason that sshd starts ...",
+    "snippet_highlighted_words": [
+      "users"
+    ],
+    "source": "Server Fault",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 2,
+    "position": 2,
+    "title": "[SOLVED] Unable to connect with SSH",
+    "link": "https://www.linuxquestions.org/questions/linux-server-73/unable-to-connect-with-ssh-4175680926/",
+    "displayed_link": "https://www.linuxquestions.org › linux-server-73 › unabl...",
+    "snippet": "pam_unix(sshd:session): session opened for user myname by (uid=0) pam_unix(sshd:session): session closed for user myname. mallen. View Public ...",
+    "snippet_highlighted_words": [
+      "pam_unix(sshd:session): session opened for user myname by (uid=0"
+    ],
+    "source": "LinuxQuestions",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 3,
+    "position": 3,
+    "title": "authentication failures, then pam_sss(sshd:auth)",
+    "link": "https://access.redhat.com/solutions/2026823",
+    "displayed_link": "https://access.redhat.com › solutions",
+    "snippet": "Issue. Why are false authentication failure messages reported by pam_unix for SSSD users in Red Hat Enterprise Linux?",
+    "snippet_highlighted_words": [
+      "pam_unix",
+      "users"
+    ],
+    "source": "Red Hat Customer Portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 4,
+    "position": 4,
+    "title": "What does session opened for user USERNAME by (uid=0 ...",
+    "link": "https://forums.fedoraforum.org/showthread.php?167953-What-does-session-opened-for-user-USERNAME-by-(uid-0)-mean",
+    "displayed_link": "https://forums.fedoraforum.org › showthread › 167953-...",
+    "snippet": "It seems autologout=\"0\" means, disable automatic logout. Despite this it appears that USERNAME is connecting via ssh and is then logged out immediately.",
+    "snippet_highlighted_words": [
+      "0"
+    ],
+    "source": "Fedora Forum",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 5,
+    "position": 5,
+    "title": "\"pam_unix: authentication failure\" is issued to syslog even ...",
+    "link": "https://knowledge.broadcom.com/external/article/7874/pamunix-authentication-failure-is-issued.html",
+    "displayed_link": "https://knowledge.broadcom.com › external › article",
+    "snippet": "The reason for the “wrong” authentication failure messages is a misbehaviour in the native pam_unix authentication module.",
+    "snippet_highlighted_words": [
+      "pam_unix"
+    ],
+    "source": "Broadcom support portal",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 6,
+    "position": 6,
+    "title": "[solved] sshd problem - any help greatly appreciated ...",
+    "link": "https://bbs.archlinux.org/viewtopic.php?id=265541",
+    "displayed_link": "https://bbs.archlinux.org › viewtopic",
+    "snippet": "... these messages: pam_unix(sudo:session): session opened for user root(uid=0) by art(uid=1000) pam_unix(sudo:session): session closed by user root",
+    "snippet_highlighted_words": [
+      "pam_unix(sudo:session): session opened for user root(uid=0"
+    ],
+    "source": "Arch Linux Forums",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 7,
+    "position": 7,
+    "title": "SSH login delayed by 25 seconds with pam_systemd(sshd: ...",
+    "link": "https://github.com/NixOS/nixpkgs/issues/30348",
+    "displayed_link": "https://github.com › NixOS › nixpkgs › issues",
+    "snippet": "The error here is pam_systemd(sshd:session): Failed to create session: Connection timed out . This issue has been observed in Debian in two ...",
+    "snippet_highlighted_words": [
+      "sshd",
+      "session):",
+      "session"
+    ],
+    "source": "GitHub",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 8,
+    "position": 8,
+    "title": "ssh disconnects immediately after successful login",
+    "link": "https://groups.google.com/g/linux.debian.user/c/tRXgm5P8OwI",
+    "displayed_link": "https://groups.google.com › linux.debian.user",
+    "snippet": "... sshd[9309]: pam_unix(sshd:session): session opened for user westk by (uid=0) Dec 16 07:14:42 westek systemd-logind[733]: New session c55 of user westk. Dec ...",
+    "snippet_highlighted_words": [
+      "pam_unix",
+      "sshd",
+      "session): session opened for user",
+      "uid",
+      "0",
+      "session",
+      "user"
+    ],
+    "source": "Google Groups",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 9,
+    "position": 9,
+    "title": "SSH password success & failure are logged into /var/ ...",
+    "link": "https://my.f5.com/manage/s/article/K000140764",
+    "displayed_link": "https://my.f5.com › manage › article",
+    "snippet": "sshd[15504]: pam_unix(sshd:auth): authentication failure ... sshd[15504]: pam_unix(sshd:session): session opened for user root by (uid=0) ...",
+    "snippet_highlighted_words": [
+      "sshd[15504]: pam_unix(sshd:session): session opened for user root by (uid=0"
+    ],
+    "source": "F5",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  },
+  {
+    "rank": 10,
+    "position": 10,
+    "title": "After adding in a domain in Ubuntu 22.04, sometimes ...",
+    "link": "https://www.experts-exchange.com/questions/29265074/After-adding-in-a-domain-in-Ubuntu-22-04-sometimes-domain-accounts-can-log-in-and-sometimes-they-cannot.html",
+    "displayed_link": "https://www.experts-exchange.com › questions › After-...",
+    "snippet": "If you're seeing remote domain users attempting to authenticate via pam_unix and then pam_sss, it might be due to the order of modules in your ...",
+    "snippet_highlighted_words": [
+      "users",
+      "pam_unix"
+    ],
+    "source": "Experts Exchange",
+    "cached_page_link": "",
+    "related_pages_link": ""
+  }
+]

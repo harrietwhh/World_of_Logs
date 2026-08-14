@@ -1,0 +1,23 @@
+{
+  "input_csv": "RQ1/dataset/selected_projects/OpenSSH_selected_30.csv",
+  "query_column": "Content",
+  "requested_num": 10,
+  "sleep_seconds": 5.0,
+  "provider": "SerpAPI",
+  "engine": "google",
+  "api_key_env": "SERPAPI_API_KEY",
+  "batch_name": "OpenSSH_selected_30",
+  "output_files": {
+    "batch_metadata": "batch_metadata.json",
+    "query_manifest": "query_manifest.csv",
+    "normalized_results_dir": "normalized_results/"
+  },
+  "total_rows_seen": 30,
+  "total_query_candidates": 30,
+  "total_queries_attempted": 30,
+  "total_successes": 29,
+  "total_failures": 1,
+  "total_skipped_empty_query": 0,
+  "started_at_utc": "2026-04-08T23:50:56.815219+00:00",
+  "finished_at_utc": "2026-04-08T23:54:30.181378+00:00"
+}
