@@ -1,8 +1,6 @@
-# Released Package
-
 This repository contains the data, scripts, retrieval outputs, and evaluation results for the paper: Amassing and Indexing Web-Scale Logs from Web Pages: Towards the Census of Public Logs.
 
-## Directory Overview
+## Overview
 
 ### `rq1/`
 
