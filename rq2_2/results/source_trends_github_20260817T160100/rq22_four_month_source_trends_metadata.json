@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-08-17T16:01:00.305286+00:00",
+  "uri": "mongodb://127.0.0.1:27017",
+  "sources": [
+    "github"
+  ],
+  "run_output_dir": "RQ2_2/results/figure_data/source_trends_github_20260817T160100",
+  "window_months": 4,
+  "window_anchor_month": 1,
+  "time_field": "created_at",
+  "start_date": "2021-01-01T00:00:00+00:00",
+  "end_date_exclusive": "2026-01-01T00:00:00+00:00",
+  "output_csv": "RQ2_2/results/figure_data/source_trends_github_20260817T160100/rq22_four_month_source_trends.csv",
+  "collections_read": {
+    "github/comments": 20032792
+  },
+  "skipped_missing_or_invalid_created_at": {},
+  "skipped_missing_or_invalid_log_count": {},
+  "skipped_missing_or_invalid_log_count_examples": {}
+}
